@@ -1,0 +1,16 @@
+---
+title: "Markdownfiler for dummies"
+weight: 60
+---
+# Dette er en test
+Jeg skriver i Notepad og kopierer koden over.
+## Det er mig der tester
+
+Godt, nu prøver jeg at skrive noget som skal forestllie at være en vejledning./ Jeg har lavet et break, så denne linie skulle gerne begynde på en ny linie.
+
+Her har jeg lavet et ny afsnit ved at trykke enter to gange - mon det **virker**? Hvordan laver man ellers nyt afsnit (paragraph)
+
+### Mine tanker
+*Umiddelbart* virker det overskueligt for mig at huske koderne, og ellers kan jeg jo kigge i chetsheetet. Men jeg er lidt spændt på hvordan vi holder styr på rækkevægtene når vi nok bliver nødt til at skrive manualen mens vi bygger produktet.
+Mon det her bliver en tekstboks - hvordan ved Github hvor indholdet i boksen begynder?
+{: .notice--info} 
