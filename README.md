@@ -16,3 +16,11 @@ Der er lavet to små "hacks" til Minimal Mistakes. 
 #### Søgning med Algolia
 
 Søgefeltet i manualen virker med Algolia søgemotor. Der er oprettet et Github Action workflow der sætter reindeksering i gang ved hvert Github Pages rebuild.
+
+#### Forhåndsvisning af ændringer
+
+Når du laver ændringer til manualen i en branch på GitHub bliver der automatisk bygget en version af sitet hvor du kan
+se resultatet. Du kan tilgå forhåndsvisningen på følgende måder:
+
+- Klik på navnet på branchen i listen over environments til højre på repositoriets forside og klik på "View deployment"
+- Under et pull request for branchen klik på "View deployment"

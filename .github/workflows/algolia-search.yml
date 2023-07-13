@@ -1,5 +1,7 @@
 on:
-  page_build:
+  push:
+    branches:
+      - main
 
 name: algolia-search
 jobs:
@@ -21,6 +23,6 @@ jobs:
             ${{ runner.os }}-gems-
             
       - name: Algolia Jekyll Action
-        uses: dieghernan/algolia-jekyll-action@v1
+        uses: dieghernan/algolia-jekyll-action@v2
         with:
           APIKEY: '${{ secrets.ALGOLIA_API_KEY }}'
