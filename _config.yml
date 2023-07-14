@@ -78,7 +78,7 @@ collections:
   audience:
     output: true
     permalink: /:collection/:path/
-  category:
+  manual_category:
     output: true
     permalink: /:collection/:path/
   manual_topic:
@@ -136,10 +136,10 @@ defaults:
       author_profile: false
       share: false
       comments: false
-  # _category
+  # _manual_category
   - scope:
       path: ""
-      type: category
+      type: manual_category
     values:
       layout: taxonomy-term
       taxonomy-header: "Artikler i kategorien"
