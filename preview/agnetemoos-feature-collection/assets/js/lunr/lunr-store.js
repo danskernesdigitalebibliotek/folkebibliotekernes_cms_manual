@@ -11,12 +11,6 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/audience/redaktoer/",
         "teaser": null
       },{
-        "title": "Introduktion",
-        "excerpt":"Forside, læsevejledning  ","categories": [],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/category/introduktion/",
-        "teaser": null
-      },{
         "title": "Nye features i Folkebibliotekernes CMS",
         "excerpt":" ","categories": [],
         "tags": [],
