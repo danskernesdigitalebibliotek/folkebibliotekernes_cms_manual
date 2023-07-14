@@ -110,14 +110,14 @@ defaults:
       sidebar:
         title: "Manual"
         nav: "manual"
-      # _manual
+  # _feature
   - scope:
       path: ""
       type: feature
     values:
       layout: single
-      toc: true
-      toc_label: "Indhold i artiklen"
+      classes: wide
+      toc: false
       read_time: false
       author_profile: false
       share: false
