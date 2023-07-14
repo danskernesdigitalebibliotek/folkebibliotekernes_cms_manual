@@ -84,6 +84,9 @@ collections:
   manual_topic:
     output: true
     permalink: /:collection/:path/
+  feature_category:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _pages
@@ -154,6 +157,17 @@ defaults:
     values:
       layout: taxonomy-term
       taxonomy-header: "Artikler om emnet"
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+  # _feature_category
+  - scope:
+      path: ""
+      type: feature_category
+    values:
+      layout: taxonomy-term
+      taxonomy-header: "Artikler i kategorien"
       read_time: false
       author_profile: false
       share: false
