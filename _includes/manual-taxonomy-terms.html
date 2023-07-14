@@ -1,8 +1,8 @@
 <p>
   <span class="taxonomy_header"><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Artiklens kategori</span>
-  {% assign filtered = site.category | where_exp:"category","page.category contains category.title" %}
-  {% for category in filtered %}
-    <a href="{{ site.baseurl }}{{ category.url }}" class="btn btn--inverse btn--small">{{ category.title }}</a>
+  {% assign filtered = site.manual_category | where_exp:"manual_category","page.manual_category contains manual_category.title" %}
+  {% for manual_category in filtered %}
+    <a href="{{ site.baseurl }}{{ manual_category.url }}" class="btn btn--inverse btn--small">{{ manual_category.title }}</a>
   {% endfor %}
 </p>
 
