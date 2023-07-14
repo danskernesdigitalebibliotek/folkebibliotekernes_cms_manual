@@ -34,4 +34,10 @@ var store = [{
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/manual_topic/betaling/",
         "teaser": null
+      },{
+        "title": "Formidling",
+        "excerpt":"Formidling  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/manual_topic/formidling/",
+        "teaser": null
       },]
