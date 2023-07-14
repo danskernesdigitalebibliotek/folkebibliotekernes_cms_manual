@@ -1,1 +1,4 @@
-This is home for features collection
+---
+title: "Nye features i Folkebibliotekernes CMS"
+permalink: /features/
+---
