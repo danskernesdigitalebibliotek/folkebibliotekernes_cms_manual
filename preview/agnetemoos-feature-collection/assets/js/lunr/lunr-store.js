@@ -17,6 +17,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/category/introduktion/",
         "teaser": null
       },{
+        "title": "Nye features i Folkebibliotekernes CMS",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/features/",
+        "teaser": null
+      },{
         "title": "CMS Manual",
         "excerpt":"I løbet af efteråret udbygges manual til Folkebibliotekernes CMS på disse sider. Vi har valgt en åben proces, hvor bibliotekerne kan se manual-siderne, efterhånden som de bliver skrevet.  ","categories": ["Introduktion"],
         "tags": [],
