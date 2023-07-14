@@ -40,4 +40,10 @@ var store = [{
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/manual_topic/formidling/",
         "teaser": null
+      },{
+        "title": "Grundkonfiguration",
+        "excerpt":"Grundkonfiguration  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/manual_topic/grundkonfiguration/",
+        "teaser": null
       },]
