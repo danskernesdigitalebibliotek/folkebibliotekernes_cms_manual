@@ -9,7 +9,6 @@
 <p>
   <span class="taxonomy_header"><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Artiklens emner</span>
   {% assign filtered = site.manual_topic | where_exp:"manual_topic","page.manual_topic contains manual_topic.title" %}
-  {{ site.manual_topic }}
   {% for manual_topic in filtered %}
     <a href="{{ site.baseurl }}{{ manual_topic.url }}" class="btn btn--inverse btn--small">{{ manual_topic.title }}</a>
   {% endfor %}
