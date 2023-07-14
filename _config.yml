@@ -110,6 +110,9 @@ defaults:
       author_profile: false
       share: false
       comments: false
+      sidebar:
+        title: "Manual"
+        nav: "manual"
   # _feature
   - scope:
       path: ""
@@ -122,6 +125,9 @@ defaults:
       author_profile: false
       share: false
       comments: false
+      sidebar:
+        title: "Feature"
+        nav: "feature"
   # _audience
   - scope:
       path: ""
