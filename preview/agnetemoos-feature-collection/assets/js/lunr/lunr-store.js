@@ -23,6 +23,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/feature_category/design/",
         "teaser": null
       },{
+        "title": "Søg og reserver",
+        "excerpt":"Søg og reserver  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/feature_category/s%C3%B8g_og_reserver/",
+        "teaser": null
+      },{
         "title": "CMS Manual",
         "excerpt":"I løbet af efteråret udbygges manual til Folkebibliotekernes CMS på disse sider. Vi har valgt en åben proces, hvor bibliotekerne kan se manual-siderne, efterhånden som de bliver skrevet.  ","categories": [],
         "tags": [],
