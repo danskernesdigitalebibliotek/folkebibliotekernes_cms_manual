@@ -81,7 +81,7 @@ collections:
   category:
     output: true
     permalink: /:collection/:path/
-  topic:
+  manual_topic:
     output: true
     permalink: /:collection/:path/
 
@@ -147,10 +147,10 @@ defaults:
       author_profile: false
       share: false
       comments: false
-  # _topic
+  # _manual_topic
   - scope:
       path: ""
-      type: topic
+      type: manual_topic
     values:
       layout: taxonomy-term
       taxonomy-header: "Artikler om emnet"
