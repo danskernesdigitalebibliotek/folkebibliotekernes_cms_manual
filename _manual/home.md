@@ -1,7 +1,7 @@
 ---
 title: "CMS Manual"
 permalink: /manual/
-category: "Introduktion"
+manual_category: "Introduktion"
 manual_topic: "Betaling"
 audience:
 ---
