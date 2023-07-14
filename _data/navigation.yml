@@ -1,3 +1,5 @@
 main:
   - title: "CMS Manual"
     url: /manual/
+  - title: "Nye features"
+    url: /feature/
