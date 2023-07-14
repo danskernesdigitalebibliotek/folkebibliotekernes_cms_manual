@@ -72,6 +72,9 @@ collections:
   manual:
     output: true
     permalink: /:collection/:path/
+  feature:
+    output: true
+    permalink: /:collection/:path/
   audience:
     output: true
     permalink: /:collection/:path/
@@ -107,6 +110,21 @@ defaults:
       sidebar:
         title: "Manual"
         nav: "manual"
+      # _manual
+  - scope:
+      path: ""
+      type: feature
+    values:
+      layout: single
+      toc: true
+      toc_label: "Indhold i artiklen"
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        title: "Features"
+        nav: "feature"
   # _audience
   - scope:
       path: ""
