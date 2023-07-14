@@ -23,6 +23,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/feature_category/design/",
         "teaser": null
       },{
+        "title": "Lånerstatus",
+        "excerpt":"Lånerstatus  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/feature_category/l%C3%A5nerstatus/",
+        "teaser": null
+      },{
         "title": "Søg og reserver",
         "excerpt":"Søg og reserver  ","categories": [],
         "tags": [],
