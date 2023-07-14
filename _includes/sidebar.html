@@ -16,12 +16,12 @@
       <input id="ac-toc" name="accordion-toc" type="checkbox" />
       <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
       <ul class="nav__items">
-        {% assign sorted_category = site.category | sort: "title" %}
-        {% for category in sorted_category %}
+        {% assign sorted_category = site.manual_category | sort: "title" %}
+        {% for manual_category in sorted_category %}
           <li>
-            <span class="nav__sub-title">{{ category.title }}</span>        
+            <span class="nav__sub-title">{{ manual_category.title }}</span>        
             <ul>
-              {% assign filtered = site.manual | where:"category", category.title %}
+              {% assign filtered = site.manual | where:"manual_category", manual_category.title %}
               {% assign sorted = filtered | sort: "title" %}
               {% for manual in sorted %}
               <li><a href="{{ site.baseurl }}{{ manual.url }}"{% if manual.url == page.url %} class="active"{% endif %}>{{ manual.title }}</a></li>
