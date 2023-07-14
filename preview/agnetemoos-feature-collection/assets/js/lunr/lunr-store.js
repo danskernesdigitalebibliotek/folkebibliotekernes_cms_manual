@@ -23,6 +23,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/manual/",
         "teaser": null
       },{
+        "title": "Introduktion",
+        "excerpt":"Forside, læsevejledning  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/manual_category/introduktion/",
+        "teaser": null
+      },{
         "title": "Betaling",
         "excerpt":"Betaling  ","categories": [],
         "tags": [],
