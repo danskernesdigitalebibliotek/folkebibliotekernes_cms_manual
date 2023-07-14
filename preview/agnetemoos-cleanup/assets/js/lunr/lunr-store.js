@@ -18,7 +18,7 @@ var store = [{
         "teaser": null
       },{
         "title": "CMS Manual",
-        "excerpt":"I løbet af efteråret udbygges manual til Folkebibliotekernes CMS på disse sider. Vi har valgt en åben proces, hvor bibliotekerne kan se manual-siderne, efterhånden som de bliver skrevet.   Her er en ændring fra et pull request.  ","categories": ["Introduktion"],
+        "excerpt":"I løbet af efteråret udbygges manual til Folkebibliotekernes CMS på disse sider. Vi har valgt en åben proces, hvor bibliotekerne kan se manual-siderne, efterhånden som de bliver skrevet.  ","categories": ["Introduktion"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-cleanup/manual/",
         "teaser": null
