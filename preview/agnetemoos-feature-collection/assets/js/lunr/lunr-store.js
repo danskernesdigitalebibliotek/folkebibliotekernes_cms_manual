@@ -28,4 +28,10 @@ var store = [{
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/manual/",
         "teaser": null
+      },{
+        "title": "Betaling",
+        "excerpt":"Betaling  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/manual_topic/betaling/",
+        "teaser": null
       },]
