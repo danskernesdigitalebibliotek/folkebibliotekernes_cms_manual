@@ -28,22 +28,4 @@ var store = [{
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/manual/",
         "teaser": null
-      },{
-        "title": "Betaling",
-        "excerpt":"Betaling  ","categories": [],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/topic/betaling/",
-        "teaser": null
-      },{
-        "title": "Formidling",
-        "excerpt":"Formidling  ","categories": [],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/topic/formidling/",
-        "teaser": null
-      },{
-        "title": "Grundkonfiguration",
-        "excerpt":"Grundkonfiguration  ","categories": [],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-collection/topic/grundkonfiguration/",
-        "teaser": null
-      }]
+      },]
