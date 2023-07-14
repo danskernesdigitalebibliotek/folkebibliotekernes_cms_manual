@@ -31,7 +31,6 @@ feature_row:
 
 {% include feature_row %}
 
-Her er lidt tekst
 
 
 
