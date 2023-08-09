@@ -3,3 +3,4 @@ title: "Feature 1"
 category: "Kategori 1"
 ---
 Her er feature 1
+Min url er: feature/feature1/
