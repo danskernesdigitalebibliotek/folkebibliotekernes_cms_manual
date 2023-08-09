@@ -72,7 +72,7 @@ collections:
   manual:
     output: true
     permalink: /:collection/:path/
-  feature:
+  nye_features:
     output: true
     permalink: /:collection/:path/
   audience:
@@ -110,10 +110,10 @@ defaults:
       sidebar:
         title: "Manual"
         nav: "manual"
-  # _feature
+  # _nye_features
   - scope:
       path: ""
-      type: feature
+      type: nye_features
     values:
       layout: single
       classes: wide
