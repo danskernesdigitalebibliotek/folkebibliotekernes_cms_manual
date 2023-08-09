@@ -72,6 +72,9 @@ collections:
   manual:
     output: true
     permalink: /:collection/:path/
+  feature:
+    output: true
+    permalink: /:collection/:path/
   audience:
     output: true
     permalink: /:collection/:path/
@@ -107,6 +110,21 @@ defaults:
       sidebar:
         title: "Manual"
         nav: "manual"
+  # _feature
+  - scope:
+      path: ""
+      type: feature
+    values:
+      layout: single
+      classes: wide
+      toc: false
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        title: "Sidebar"
+        nav: "sidebar"
   # _audience
   - scope:
       path: ""
