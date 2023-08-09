@@ -23,24 +23,6 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-2/category/kategori2/",
         "teaser": null
       },{
-        "title": "Feature 1",
-        "excerpt":"Her er feature 1 Min url er: feature/feature1/  ","categories": ["Kategori 1"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-2/feature/feature1/",
-        "teaser": null
-      },{
-        "title": "Feature 2",
-        "excerpt":"Her er feature 2  ","categories": ["Kategori 2"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-2/feature/feature2/",
-        "teaser": null
-      },{
-        "title": "Nye features i folkebibliotekernes CMS",
-        "excerpt":" ","categories": ["Feature 1"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-2/features/",
-        "teaser": null
-      },{
         "title": "CMS Manual",
         "excerpt":"I løbet af efteråret udbygges manual til Folkebibliotekernes CMS på disse sider. Vi har valgt en åben proces, hvor bibliotekerne kan se manual-siderne, efterhånden som de bliver skrevet.  ","categories": ["Kategori 1"],
         "tags": [],
