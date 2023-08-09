@@ -24,7 +24,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Feature 1",
-        "excerpt":"Her er feature 1  ","categories": ["Kategori 1"],
+        "excerpt":"Her er feature 1 Min url er: feature/feature1/  ","categories": ["Kategori 1"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-2/feature/feature1/",
         "teaser": null
