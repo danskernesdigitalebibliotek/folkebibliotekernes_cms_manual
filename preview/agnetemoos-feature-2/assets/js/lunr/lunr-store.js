@@ -18,6 +18,12 @@ var store = [{
         "teaser": null
       },{
         "title": "Nye features i folkebibliotekernes CMS",
+        "excerpt":"Her er feature 1  ","categories": ["Kategori1"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-2/features/",
+        "teaser": null
+      },{
+        "title": "Nye features i folkebibliotekernes CMS",
         "excerpt":" ","categories": ["Søg"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-2/features/",
