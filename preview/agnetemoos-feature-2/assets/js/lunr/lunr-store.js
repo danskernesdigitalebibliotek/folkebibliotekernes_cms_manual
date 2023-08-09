@@ -29,6 +29,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-2/manual/",
         "teaser": null
       },{
+        "title": "Feature 1",
+        "excerpt":"Her er feature 1 Min url er: feature/feature1/  ","categories": ["Kategori 1"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-2/nye_features/feature1/",
+        "teaser": null
+      },{
         "title": "Betaling",
         "excerpt":"Betaling  ","categories": [],
         "tags": [],
