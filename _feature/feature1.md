@@ -1,5 +1,5 @@
 ---
-title: "Nye features i folkebibliotekernes CMS"
+title: "Feature 1"
 permalink: /features/
 category: "Kategori 1"
 ---
