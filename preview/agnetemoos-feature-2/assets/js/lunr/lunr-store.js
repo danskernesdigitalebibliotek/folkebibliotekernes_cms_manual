@@ -32,7 +32,7 @@ var store = [{
         "title": "Feature 2",
         "excerpt":"Her er feature 2  ","categories": ["Kategori 2"],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-2/features/",
+        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-2/feature/feature2/",
         "teaser": null
       },{
         "title": "Nye features i folkebibliotekernes CMS",
