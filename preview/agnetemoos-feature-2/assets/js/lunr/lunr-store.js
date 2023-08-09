@@ -11,12 +11,6 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-2/audience/redaktoer/",
         "teaser": null
       },{
-        "title": "Introduktion",
-        "excerpt":"Forside, læsevejledning  ","categories": [],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-2/category/introduktion/",
-        "teaser": null
-      },{
         "title": "Kategori 1",
         "excerpt":"Kategori 1  ","categories": [],
         "tags": [],
@@ -42,7 +36,7 @@ var store = [{
         "teaser": null
       },{
         "title": "CMS Manual",
-        "excerpt":"I løbet af efteråret udbygges manual til Folkebibliotekernes CMS på disse sider. Vi har valgt en åben proces, hvor bibliotekerne kan se manual-siderne, efterhånden som de bliver skrevet.  ","categories": ["Introduktion"],
+        "excerpt":"I løbet af efteråret udbygges manual til Folkebibliotekernes CMS på disse sider. Vi har valgt en åben proces, hvor bibliotekerne kan se manual-siderne, efterhånden som de bliver skrevet.  ","categories": ["Kategori 1"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-2/manual/",
         "teaser": null
