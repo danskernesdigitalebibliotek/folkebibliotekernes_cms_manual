@@ -23,6 +23,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-2/category/kategori1/",
         "teaser": null
       },{
+        "title": "Kategori 2",
+        "excerpt":"Kategori 2  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/preview/agnetemoos-feature-2/category/kategori2/",
+        "teaser": null
+      },{
         "title": "Nye features i folkebibliotekernes CMS",
         "excerpt":"Her er feature 1  ","categories": ["Kategori1"],
         "tags": [],
