@@ -1,5 +1,4 @@
 ---
-title: "Kategori 2"  
+title: "Categori 2"  
 ---
-
-Kategori 2
+Categori 2

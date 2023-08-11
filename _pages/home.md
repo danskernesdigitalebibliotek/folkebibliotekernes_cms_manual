@@ -15,12 +15,7 @@ feature_row:
     alt: "Nye features i Folkebibliotekernes CMS"
     title: "Nye features i Folkebibliotekernes CMS"
     excerpt: "Hvad er nyt i forhold til DDB CMS? Her er de vigtigste punkter."
-    url: "nye-features-i-folkebibliotekernes-cms"
-  - image_path: /assets/images/manual.jpg
-    alt: "Manual til Folkebibliotekernes CMS"
-    title: "Manual til Folkebibliotekernes CMS"
-    excerpt: "Manualen er under udvikling. Følg arbejdet her."
-    url: "manual"
+    url: "/nye-features/"
   - image_path: /assets/images/content.jpg
     alt: "Guidelines til god webkommunikation"
     title: "Guidelines til god webkommunikation"

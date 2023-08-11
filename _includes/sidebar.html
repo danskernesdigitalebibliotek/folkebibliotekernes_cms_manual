@@ -1,6 +1,11 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+
+  {% comment %}
+    The docs' collection needs to have a sidebar defined in config.yml
+  {% endcomment %}
+
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
@@ -12,26 +17,52 @@
       {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
     {% endfor %}
 
-    <nav class="nav__list">
-      <input id="ac-toc" name="accordion-toc" type="checkbox" />
-      <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
-      <ul class="nav__items">
-        {% assign page_collection = site.collections | where: "label", page.collection | first }}
-        {% assign sorted_category = site.category | sort: "title" %}
-        {% for category in sorted_category %}
-          <li>
-            <span class="nav__sub-title">{{ category.title }}{{ page_collection }}</span>        
-            <ul>
-              {% assign filtered = site.manual | where:"category", category.title %}
-              {% assign sorted = filtered | sort: "title" %}
-              {% for manual in sorted %}
-              <li><a href="{{ site.baseurl }}{{ manual.url }}"{% if manual.url == page.url %} class="active"{% endif %}>{{ manual.title }}</a></li>
-              {% endfor %}
-            </ul>
-          </li>
-        {% endfor %}     
-      </ul>
-    </nav>
+    {% comment %}
+      Find the collection this page belongs to
+    {% endcomment %}
+    {% assign page_collection = site.collections | where: "label", page.collection | first %}
+
+    {% comment %} Create empty array array {% endcomment %}
+    {% assign categories_in_collection_docs = '' | split: '' %}
+
+    {% comment %}
+      Loop all docs in the collection to extract the category-titles used
+    {% endcomment %}
+    {% for doc in page_collection.docs %}
+      {% for category in doc.categories %}
+        {% comment %} Split wraps the string in array {% endcomment %}
+        {% assign category_in_array = category | split: 'thisstringisnotfound' %}
+        {% assign categories_in_collection_docs = categories_in_collection_docs | concat: category_in_array %}
+      {% endfor %}
+    {% endfor %}
+
+    {% assign categories_in_collection_docs = categories_in_collection_docs | uniq | sort %}
+
+  <nav class="nav__list">
+    <input id="ac-toc" name="accordion-toc" type="checkbox" />
+    <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
+    <ul class="nav__items">
+      {% for cat_title in categories_in_collection_docs %}
+      {% assign category = site.category 
+        | where_exp:"category", "category.title == cat_title" 
+        | first %}
+
+        {% if category %}
+        <li>
+          <span class="nav__sub-title">{{ category.title }}</span>        
+          <ul>
+            {% assign docs = page_collection.docs | where:"category", category.title %}
+            {% assign docs = docs | sort: "title" %}
+
+            {% for doc in docs %}
+            <li><a href="{{ site.url }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+        {% endif %}
+      {% endfor %}     
+    </ul>
+  </nav>
   {% endif %}
 
   </div>

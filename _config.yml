@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "/" # the subpath of your site, e.g. /blog
 minimal_mistakes_skin: default
+breadcrumbs: true  # disabled by default
 search: true
 search_provider: algolia
 algolia:
@@ -72,7 +73,10 @@ collections:
   manual:
     output: true
     permalink: /:collection/:path/
-  nye_features:
+  nye-features:
+    output: true
+    permalink: /:collection/:path/
+  overgang-til-folkebibliotekernes-cms:
     output: true
     permalink: /:collection/:path/
   audience:
@@ -108,12 +112,11 @@ defaults:
       share: false
       comments: false
       sidebar:
-        title: "Manual"
-        nav: "manual"
-  # _nye_features
+        - title: "CMS Manual"
+  # _nye-features
   - scope:
       path: ""
-      type: nye_features
+      type: nye-features
     values:
       layout: single
       classes: wide
@@ -123,8 +126,21 @@ defaults:
       share: false
       comments: false
       sidebar:
-        title: "Sidebar"
-        nav: "sidebar"
+        - title: "Nye features"
+  # _overgang-til-folkebibliotekernes-cms
+  - scope:
+      path: ""
+      type: overgang-til-folkebibliotekernes-cms
+    values:
+      layout: single
+      classes: wide
+      toc: false
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        - title: "Overgang til Folkebibliotekernes CMS"
   # _audience
   - scope:
       path: ""
