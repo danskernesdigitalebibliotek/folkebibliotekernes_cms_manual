@@ -1,7 +1,6 @@
 ---
 title: "Nye features i Folkebibliotekernes CMS"
 permalink: /nye-features/
-category: "Feature 1"
 ---
 
 - atomart design

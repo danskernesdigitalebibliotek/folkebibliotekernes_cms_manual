@@ -8,6 +8,7 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* Color class definitions. Used in "good" vs. "bad" examples */
 .green {
   color: green;
 }
@@ -16,10 +17,12 @@ search: false
   color: red;
 }
 
+
 .page__hero--overlay {
   margin-bottom: 1em;
 }
 
+/* The headers above taxonomy items i right coloumn on manual pages */
 .taxonomy_header {
   display: block;
   margin: 0.5rem 0;
@@ -31,10 +34,12 @@ search: false
   border-bottom: 1px solid #f2f3f3;
 }
 
+/* Adjust position of the content title */
 .page__content .feature__item .archive__item-title {
   margin-top: 0.3em;
 }
 
+/* Feature row styling */
 .page__content .feature__item a:not(.btn):hover {
   text-decoration: none;
 }
@@ -49,7 +54,16 @@ search: false
   font-size: 1.1em;
 }
 
+/* More space between list items in sitemap */
+nav ul li, nav ol li {
+  margin-bottom: 10px;
+}
 
+.sidebar li {
+  line-height: 1.3em;
+}
+
+/* Figure styling */
 
 figure img, figure iframe, figure .fluid-width-video-wrapper {
   margin-bottom: 0.2em;

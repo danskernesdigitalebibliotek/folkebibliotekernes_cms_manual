@@ -76,7 +76,7 @@ collections:
   nye-features:
     output: true
     permalink: /:collection/:path/
-  overgang-til-folkebibliotekernes-cms:
+  aktiviteter-ved-overgangen-til-folkebibliotekernes-cms:
     output: true
     permalink: /:collection/:path/
   audience:
@@ -111,8 +111,7 @@ defaults:
       author_profile: false
       share: false
       comments: false
-      sidebar:
-        - title: "CMS Manual"
+      sidebar: true
   # _nye-features
   - scope:
       path: ""
@@ -125,12 +124,12 @@ defaults:
       author_profile: false
       share: false
       comments: false
-      sidebar:
-        - title: "Nye features"
-  # _overgang-til-folkebibliotekernes-cms
+      sidebar: true
+       
+  # _aktiviteter-ved-overgangen-til-folkebibliotekernes-cms
   - scope:
       path: ""
-      type: overgang-til-folkebibliotekernes-cms
+      type: aktiviteter-ved-overgangen-til-folkebibliotekernes-cms
     values:
       layout: single
       classes: wide
@@ -139,8 +138,8 @@ defaults:
       author_profile: false
       share: false
       comments: false
-      sidebar:
-        - title: "Overgang til Folkebibliotekernes CMS"
+      sidebar: true
+
   # _audience
   - scope:
       path: ""

@@ -12,7 +12,7 @@
         <img src="{{ s.image | relative_url }}"
              alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
       {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+      {% if s.title %}<a class="navtitle" href="{{ site.url }}{{ s.home_url }}">{{ s.title }}</a>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
       {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
     {% endfor %}
@@ -42,6 +42,7 @@
     <input id="ac-toc" name="accordion-toc" type="checkbox" />
     <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
     <ul class="nav__items">
+
       {% for cat_title in categories_in_collection_docs %}
       {% assign category = site.category 
         | where_exp:"category", "category.title == cat_title" 
@@ -55,7 +56,9 @@
             {% assign docs = docs | sort: "title" %}
 
             {% for doc in docs %}
-            <li><a href="{{ site.url }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+              {% if doc.omit_from_sidebar == blank or doc.omit_from_sidebar == false %}
+                <li><a href="{{ site.url }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+              {% endif %}
             {% endfor %}
           </ul>
         </li>
