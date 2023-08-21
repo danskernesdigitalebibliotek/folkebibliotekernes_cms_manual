@@ -1,6 +1,6 @@
 ---
-permalink: /nye-features-i-folkebibliotekernes-cms
-title:  "Nye features i Folkebibliotekernes CMS"
+title: "Nye features i Folkebibliotekernes CMS"
+permalink: /nye-features/
 ---
 
 - atomart design

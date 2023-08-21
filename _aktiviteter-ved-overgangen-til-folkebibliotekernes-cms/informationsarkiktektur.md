@@ -1,0 +1,34 @@
+---
+title: "Opgave 6: Informationsarkitektur og navigation"
+category: "Overgangsaktiviter"
+---
+## Beskrivelse ##
+Ligesom når man flytter ind i et nyt hus, så skal der også indrettes på en ny hjemmeside. Hvad vil I have hvor, og hvordan skal man kunne komme rundt mellem siderne? Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal flyttes med over. Det er helt op til det enkelte biblioteks strategi.  Ambitionsniveauet kunne sagtens være at have mindre indhold end nu, da meget tyder på, at vi har en tendens til at overinformere brugerne, som har svært ved at finde rundt i indholdet.  
+
+I denne opgave vil vi give jer nogle ideer til hvordan I kan gribe opgave an. 
+
+## Metode og fremgangsmåde ##
+- **Header**: Headeren (hovedmenuen) er det primære faste navigationskomponent og har samme layout på tværs af alle sider på bibliotekets website. 
+- **Footer**: Footeren er det sekundære, faste navigationselement og går på tværs af alle sider på bibliotekets website. 
+- **Sektionsside/navigationsside**: I bund og grund er de to typer det samme. En sektionsside er tænkt som en samling om et bestemt emne, hvor navigationssidens primære formål er at lede brugeren videre til det indhold, de søger, og fungerer derfor primært som en transportside. Begge typer af sider kan der linkes til fra headeren.  
+- **Listesider**: Som I nok kender det i dag, vil I kunne bruge listesider som fx nyhedslister og arrangementslister. 
+- **Komponenter**: På hjemmesiden kan I gøre brug af en lang række komponenter som slider, hero, banner, nyheds-komponent, materialekomponent. 
+
+[Her kan I se eksempler på hvordan de enkelte designelementer kan bruges](https://detdigitalefolkebibliotek.dk/sites/default/files/designsystem_formidling.pdf). Lad jer inspirere til en ny måde at strukturere og vise indhold. 
+
+
+På baggrund det indhold I valgte ud i den foregående opgave, så find ud af hvordan jeres indhold skal vises: 
+
+- Hvad skal ligge i headeren? 
+- Hvad skal vises i footeren? 
+- Hvad skal jeres forsiden indeholde? 
+- Hvilke overordnede sektionssider/navigationssider vil I oprette og hvilket indhold skal der vises indgang til herfra? Tegn evt. de sektionssider, som I skal have lavet, så I har nogle skitser af, hvad siderne skal indeholde af informationer. 
+
+Det kan være en god idé at lave et flowchart over navigationen inden I går i gang med at implementere alle siderne på hjemmesiden, så har I et overblik over hvad der skal oprettes. I kan finde en masse gratis flowchart skabeloner på nettet.  
+Vi anbefaler jer at se designbureauets præsentation om informationsarkitektur. Målet er at ramme en struktur, der hverken er for bred (mange menupunkter) eller for dyb (mange niveauer =mange klik). [Navigationskoncept - DDF Præsentation](https://www.figma.com/proto/XLA0k1DTwIekLMLHOJ54ek/DDF-Pr%C3%A6sentation?page-id=7127%3A13870&node-id=7127-14034&viewport=1347%2C-1112%2C0.08&scaling=scale-down&starting-point-node-id=7127%3A17822&hide-ui=1)
+
+## Resultat ##
+I har et overblik over hvilke sider, der skal oprettes og at alt jeres indhold får en plads på sitet. 
+
+## Involverede parter ##
+Webredaktionen
