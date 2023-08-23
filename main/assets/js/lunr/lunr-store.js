@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Aktiviteter ved overgangen til Folkebibliotekernes CMS",
-        "excerpt":"Allerede nu kan I forberede jer på overgangen til Folkebibliotekernes CMS. Tag stilling til indholdet på jeres nuværende website og skitsér en plan for det nye. Kig på de nye designelementer og lad jer inspirere til en ny måde at strukturere og vise indhold. I seks punkter kommer I omkring...","categories": [],
+        "excerpt":"Her kan I danne jer et overblik over de aktiviteter, I skal igennem ifm. overgangen til Folkebibliotekernes CMS. Tag stilling til indholdet på jeres nuværende website og skitsér en plan for det nye. Kig på de nye designelementer og lad jer inspirere til en ny måde at strukturere og vise...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/",
         "teaser": null
