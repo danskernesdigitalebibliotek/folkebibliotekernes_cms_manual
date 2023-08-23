@@ -12,7 +12,7 @@
         <img src="{{ s.image | relative_url }}"
              alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
       {% endif %}
-      {% if s.title %}<a class="navtitle" href="{{ site.url }}{{ s.home_url }}">{{ s.title }}</a>{% endif %}
+      {% if s.title %}{{ s.title }}{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
       {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
     {% endfor %}
@@ -57,7 +57,7 @@
 
             {% for doc in docs %}
               {% if doc.omit_from_sidebar == blank or doc.omit_from_sidebar == false %}
-                <li><a href="{{ site.url }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+                <li><a href="{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
               {% endif %}
             {% endfor %}
           </ul>

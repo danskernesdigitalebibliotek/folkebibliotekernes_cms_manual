@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_image: /assets/images/splash.png
   actions:
-    - label: "Hvad er nyt i Folkebibliotekernes CMS?"
+    - label: "Nye features i Folkebibliotekernes CMS"
       url: "/nye-features"
     - label: "Bliv klar til Folkebibliotekernes CMS"
       url: "/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms"
