@@ -7,7 +7,7 @@ Ligesom når man flytter ind i et nyt hus, så skal der også indrettes på en n
 
 I denne opgave vil vi give jer nogle ideer til hvordan I kan gribe opgave an. 
 
-## Metode og fremgangsmåde ##
+## Overblik over komponenter og sidetyper##
 I Folkebibliotekernes CMS er der to faste navigationskomponenter der går igen på alle sider. 
 - **Header**: Headeren (hovedmenuen) er det primære faste navigationskomponent og har samme layout på tværs af alle sider på bibliotekets website. Punkter hovedmenuen kan ikke have undermenupunkter. Hovedmenuen er kun i ét niveau.
 - **Footer**: Footeren er det sekundære, faste navigationselement og går på tværs af alle sider på bibliotekets website.
@@ -15,21 +15,20 @@ I Folkebibliotekernes CMS er der to faste navigationskomponenter der går igen p
 For at opnå dybde og bredde i navigationen kan der fra header og footer linkes til sektionssider/navigationssider.
 - **Sektionsside/navigationsside**: I bund og grund er de to typer det samme. En sektionsside er tænkt som en samling om et bestemt emne, hvor navigationssidens primære formål er at lede brugeren videre til det indhold, de søger, og fungerer derfor primært som en transportside. Begge typer af sider kan der linkes til fra headeren.  
 
-I folkebibliotekernes CMS er der også:
+I Folkebibliotekernes CMS er der også:
 - **Listesider**: Som I nok kender det i dag, vil I kunne bruge listesider som fx nyhedslister og arrangementslister. 
-- **Komponenter**: På hjemmesiden kan I gøre brug af en lang række komponenter som slider, hero, banner, nyheds-komponent, materialekomponent. 
+- **Komponenter**: På hjemmesiden kan I gøre brug af en lang række komponenter som slider, hero, banner, nyheds-komponent, materialekomponent. Komponenter er de byggeklodser som forside, sektionssider og navigationssider opbygges med.
 
 {% capture designsystem %}
-Designbureauet Dept har lavet grunddesign til Folkebibliotekernes CMS. Dept har arbejdet ud fra nogle principper for navigation og sideopbygning, som det er værd at sætte sig ind i. Jeres nye hjemmeside bliver bedst hvis I benytter design systemet, som det er tiltænkt.
-
-**Modulær sideopbygning**
+**Designbureauet Dept** har lavet grunddesign til Folkebibliotekernes CMS. Dept har arbejdet med et særligt navigationsprincip, som det er værd at sætte sig ind i. Jeres nye hjemmeside bliver bedst hvis I benytter design systemet, som det er tiltænkt.
 
 **Navigation hub** Med navigation hub konceptet navigerer man i dybden i stedet for bredden. Med navigation hub har man få menupunkter i hovedmenuen. Det giver en overskuelig header med få simple valg for brugeren. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Ved brug af navigationselementer på disse sider guides brugerne "step-by-step" gennem flere niveauer, indtil de finder det indhold de leder efter. Navigation hub navigationsprincippet er velegnet til informationstunge hjemesider.
 
  [Her kan I se eksempler på hvordan de enkelte designelementer kan bruges](https://detdigitalefolkebibliotek.dk/sites/default/files/designsystem_formidling.pdf). Lad jer inspirere til en ny måde at strukturere og vise indhold. 
 {% endcapture %}
-<div class="notice">{{ designsystem | markdownify }}</div>
+<div class="notice--info">{{ designsystem | markdownify }}</div>
 
+## Metode og fremgangsmåde ##
 På baggrund det indhold I valgte ud i den foregående opgave, så find ud af hvordan jeres indhold skal vises: 
 
 - Hvad skal ligge i headeren? 
