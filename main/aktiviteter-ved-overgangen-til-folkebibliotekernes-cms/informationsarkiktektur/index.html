@@ -29,7 +29,7 @@
 
 
 
-  <meta property="article:published_time" content="2023-08-23T14:15:02+00:00">
+  <meta property="article:published_time" content="2023-08-23T14:33:28+00:00">
 
 
 
@@ -268,10 +268,10 @@
 
 <p>I denne opgave vil vi give jer nogle ideer til hvordan I kan gribe opgave an.</p>
 
-<h2 id="overblik-over-komponenter-og-sidetyper">Overblik over komponenter og sidetyper##</h2>
-<p>I Folkebibliotekernes CMS er der to faste navigationskomponenter der går igen på alle sider.</p>
+<h2 id="overblik-over-komponenter-og-sidetyper">Overblik over komponenter og sidetyper</h2>
+<p>I Folkebibliotekernes CMS er der to faste navigationskomponenter, der går igen på alle sider.</p>
 <ul>
-  <li><strong>Header</strong>: Headeren (hovedmenuen) er det primære faste navigationskomponent og har samme layout på tværs af alle sider på bibliotekets website. Punkter hovedmenuen kan ikke have undermenupunkter. Hovedmenuen er kun i ét niveau.</li>
+  <li><strong>Header</strong>: Headeren (hovedmenuen) er det primære faste navigationskomponent og har samme layout på tværs af alle sider på bibliotekets website. Punkter i hovedmenuen kan ikke have undermenupunkter. Hovedmenuen er kun i ét niveau.</li>
   <li><strong>Footer</strong>: Footeren er det sekundære, faste navigationselement og går på tværs af alle sider på bibliotekets website.</li>
 </ul>
 
@@ -282,16 +282,19 @@
 
 <p>I Folkebibliotekernes CMS er der også:</p>
 <ul>
+  <li><strong>Indholdstyper</strong> Det der før hed Nyheder er omdøbt til Artikler. Arrangementer og Sider findes stadig. Det samme gør Filialsider og Medarbejderoverigten.</li>
   <li><strong>Listesider</strong>: Som I nok kender det i dag, vil I kunne bruge listesider som fx nyhedslister og arrangementslister.</li>
-  <li><strong>Komponenter</strong>: På hjemmesiden kan I gøre brug af en lang række komponenter som slider, hero, banner, nyheds-komponent, materialekomponent. Komponenter er de byggeklodser som forside, sektionssider og navigationssider opbygges med.</li>
+  <li><strong>Komponenter</strong>: På hjemmesiden kan I gøre brug af en lang række komponenter som slider, hero, banner, nyheds-komponent, materialekomponent. Komponenter er de byggeklodser som forside, sektionssider og navigationssider opbygges af.</li>
 </ul>
+
+<p><a href="https://detdigitalefolkebibliotek.dk/sites/default/files/designsystem_formidling.pdf">Her kan I se eksempler på hvordan de enkelte designelementer kan bruges</a>. Lad jer inspirere til en ny måde at strukturere og vise indhold.</p>
 
 <div class="notice--info">
 <p><strong>Designbureauet Dept</strong> har lavet grunddesign til Folkebibliotekernes CMS. Dept har arbejdet med et særligt navigationsprincip, som det er værd at sætte sig ind i. Jeres nye hjemmeside bliver bedst hvis I benytter design systemet, som det er tiltænkt.</p>
 
-<p><strong>Navigation hub</strong> Med navigation hub konceptet navigerer man i dybden i stedet for bredden. Med navigation hub har man få menupunkter i hovedmenuen. Det giver en overskuelig header med få simple valg for brugeren. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Ved brug af navigationselementer på disse sider guides brugerne “step-by-step” gennem flere niveauer, indtil de finder det indhold de leder efter. Navigation hub navigationsprincippet er velegnet til informationstunge hjemesider.</p>
+<p>Med <strong>navigation hub konceptet</strong> navigerer man i dybden i stedet for bredden. Man har få menupunkter i hovedmenuen. Det giver en overskuelig header med få simple valg for brugeren. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Ved brug af navigationselementer på disse sider guides brugerne “step-by-step” gennem flere niveauer, indtil de finder det indhold de leder efter. Navigation hub princippet er velegnet til informationstunge hjemesider.</p>
 
-<p><a href="https://detdigitalefolkebibliotek.dk/sites/default/files/designsystem_formidling.pdf">Her kan I se eksempler på hvordan de enkelte designelementer kan bruges</a>. Lad jer inspirere til en ny måde at strukturere og vise indhold.</p>
+<p>Vi anbefaler jer at se designbureauets præsentation om informationsarkitektur. Målet er at ramme en struktur, der hverken er for bred (mange menupunkter) eller for dyb (mange niveauer =mange klik). <a href="https://www.figma.com/proto/XLA0k1DTwIekLMLHOJ54ek/DDF-Pr%C3%A6sentation?page-id=7127%3A13870&amp;node-id=7127-14034&amp;viewport=1347%2C-1112%2C0.08&amp;scaling=scale-down&amp;starting-point-node-id=7127%3A17822&amp;hide-ui=1">Navigationskoncept - DDF Præsentation</a></p>
 </div>
 
 <h2 id="metode-og-fremgangsmåde">Metode og fremgangsmåde</h2>
@@ -304,8 +307,7 @@
   <li>Hvilke overordnede sektionssider/navigationssider vil I oprette og hvilket indhold skal der vises indgang til herfra? Tegn evt. de sektionssider, som I skal have lavet, så I har nogle skitser af, hvad siderne skal indeholde af informationer.</li>
 </ul>
 
-<p>Det kan være en god idé at lave et flowchart over navigationen inden I går i gang med at implementere alle siderne på hjemmesiden, så har I et overblik over hvad der skal oprettes. I kan finde en masse gratis flowchart skabeloner på nettet.<br />
-Vi anbefaler jer at se designbureauets præsentation om informationsarkitektur. Målet er at ramme en struktur, der hverken er for bred (mange menupunkter) eller for dyb (mange niveauer =mange klik). <a href="https://www.figma.com/proto/XLA0k1DTwIekLMLHOJ54ek/DDF-Pr%C3%A6sentation?page-id=7127%3A13870&amp;node-id=7127-14034&amp;viewport=1347%2C-1112%2C0.08&amp;scaling=scale-down&amp;starting-point-node-id=7127%3A17822&amp;hide-ui=1">Navigationskoncept - DDF Præsentation</a></p>
+<p>Det kan være en god idé at lave et flowchart over navigationen inden I går i gang med at implementere alle siderne på hjemmesiden, så har I et overblik over hvad der skal oprettes. I kan finde en masse gratis flowchart skabeloner på nettet.</p>
 
 <h2 id="resultat">Resultat</h2>
 <p>I har et overblik over hvilke sider, der skal oprettes og at alt jeres indhold får en plads på sitet.</p>
