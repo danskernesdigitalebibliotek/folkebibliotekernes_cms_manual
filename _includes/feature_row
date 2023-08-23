@@ -5,8 +5,12 @@
 {% endif %}
 
 <div class="feature__wrapper">
-
+  
+  {{ site.nye-features.first.url}}
+  {{ site.nye-features.first.relative_url}}
   {% for f in feature_row %}
+  
+ 
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <a class="archive__item" href="{{ f.url | relative_url }}" title="{{ f.title }}">
         {% if f.image_path %}
