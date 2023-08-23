@@ -3,14 +3,19 @@ title: "Opgave 6: Informationsarkitektur og navigation"
 category: "Overgangsaktiviter"
 ---
 ## Beskrivelse ##
-Ligesom når man flytter ind i et nyt hus, så skal der også indrettes på en ny hjemmeside. Hvad vil I have hvor, og hvordan skal man kunne komme rundt mellem siderne? Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal flyttes med over. Det er helt op til det enkelte biblioteks strategi.  Ambitionsniveauet kunne sagtens være at have mindre indhold end nu, da meget tyder på, at vi har en tendens til at overinformere brugerne, som har svært ved at finde rundt i indholdet.  
+Ligesom når man flytter ind i et nyt hus, så skal der også indrettes på en ny hjemmeside. Hvad vil I have hvor, og hvordan skal man kunne komme rundt mellem siderne?  
 
 I denne opgave vil vi give jer nogle ideer til hvordan I kan gribe opgave an. 
 
 ## Metode og fremgangsmåde ##
-- **Header**: Headeren (hovedmenuen) er det primære faste navigationskomponent og har samme layout på tværs af alle sider på bibliotekets website. 
-- **Footer**: Footeren er det sekundære, faste navigationselement og går på tværs af alle sider på bibliotekets website. 
+I Folkebibliotekernes CMS er der to faste navigationskomponenter der går igen på alle sider. 
+- **Header**: Headeren (hovedmenuen) er det primære faste navigationskomponent og har samme layout på tværs af alle sider på bibliotekets website. Punkter hovedmenuen kan ikke have undermenupunkter. Hovedmenuen er kun i ét niveau.
+- **Footer**: Footeren er det sekundære, faste navigationselement og går på tværs af alle sider på bibliotekets website.
+
+For at opnå dybde og bredde i navigationen kan der fra header og footer linkes til sektionssider/navigationssider.
 - **Sektionsside/navigationsside**: I bund og grund er de to typer det samme. En sektionsside er tænkt som en samling om et bestemt emne, hvor navigationssidens primære formål er at lede brugeren videre til det indhold, de søger, og fungerer derfor primært som en transportside. Begge typer af sider kan der linkes til fra headeren.  
+
+I folkebibliotekernes CMS er der også:
 - **Listesider**: Som I nok kender det i dag, vil I kunne bruge listesider som fx nyhedslister og arrangementslister. 
 - **Komponenter**: På hjemmesiden kan I gøre brug af en lang række komponenter som slider, hero, banner, nyheds-komponent, materialekomponent. 
 
