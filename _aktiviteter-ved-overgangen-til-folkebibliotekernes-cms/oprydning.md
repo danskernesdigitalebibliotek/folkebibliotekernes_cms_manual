@@ -11,7 +11,8 @@ Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal
 ## Metode og fremgangsmåde ##
 - **Hvad skal flyttes med over på den nye hjemmeside?** Vi anbefaler, at I systematisk gennemgår alle jeres sider, nyheder og sektioner for at tage stilling til, hvad der skal flyttes med. Afpublicer eller slet indhold der ikke skal med. Det forbedrer jeres overblik over websitet.\
 \
-**TIP**: Her er en vejledning til hvordan man kan [eksportere oversigtslister over indhold fra DDB CMS](https://platform.dandigbib.org/projects/ddb-cms/wiki/Eksporter_oversigtslister_over_indhold){: .notice--info}
+**TIP**: Her er en vejledning til hvordan man kan [eksportere oversigtslister over indhold fra DDB CMS](https://platform.dandigbib.org/projects/ddb-cms/wiki/Eksporter_oversigtslister_over_indhold)
+{: .notice--info}
 
 - **Skal der laves nyt indhold?** I udvælgelsen af indhold bør I tage udgangspunkt i, hvilke sektionssider, I ønsker at oprette. Hvis I fx vil lave en sektionsside, der hedder Studieunivers, bliver I nødt til at have noget studierelateret indhold på sitet, som I kan linke til. Det kan være sider, artikler og arrangementer. 
 
