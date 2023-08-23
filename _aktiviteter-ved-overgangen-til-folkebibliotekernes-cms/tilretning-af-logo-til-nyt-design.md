@@ -8,7 +8,7 @@ Det kan godt tage tid at designe et nyt logo, så tænk allerede nu over, om bib
 ## Metode og fremgangsmåde ##
 Logoet bør være en png på transparent baggrund.  
 
-Dimensioner: 160 x 96 px 
+**Dimensioner: 160 x 96 px** 
 
 Logoets placering i headerens rektangulære felt sætter nogle krav til udformningen. Meget aflange logoer, vil gøre bibliotekets navn meget småt. Derfor kan I med fordel optimere logoet til det nye format, hvor logo i flere dæk fungerer bedst.  
 
