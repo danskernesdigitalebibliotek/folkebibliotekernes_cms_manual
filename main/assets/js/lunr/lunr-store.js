@@ -18,13 +18,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 6: Informationsarkitektur og navigation",
-        "excerpt":"Beskrivelse Ligesom når man flytter ind i et nyt hus, så skal der også indrettes på en ny hjemmeside. Hvad vil I have hvor, og hvordan skal man kunne komme rundt mellem siderne? Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal flyttes med over. Det...","categories": ["Overgangsaktiviter"],
+        "excerpt":"Beskrivelse Ligesom når man flytter ind i et nyt hus, så skal der også indrettes på en ny hjemmeside. Hvad vil I have hvor, og hvordan skal man kunne komme rundt mellem siderne? I denne opgave vil vi give jer nogle ideer til hvordan I kan gribe opgave an. Metode...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/informationsarkiktektur/",
         "teaser": null
       },{
         "title": "Opgave 5: Oprydning i artikler på det eksisterende site",
-        "excerpt":"Beskrivelse En flytning kan være en god lejlighed til at få ryddet op i gammelt indhold. I denne opgave giver jer nogle tips til at få kvalificeret det indhold, som skal med over på den nye hjemmeside. Metode og fremgangsmåde Hvad skal flyttes med over på den nye hjemmeside? Vi...","categories": ["Overgangsaktiviter"],
+        "excerpt":"Beskrivelse En flytning kan være en god lejlighed til at få ryddet op i gammelt indhold. I denne opgave giver jer nogle tips til at få kvalificeret det indhold, som skal med over på den nye hjemmeside. Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/oprydning/",
         "teaser": null
