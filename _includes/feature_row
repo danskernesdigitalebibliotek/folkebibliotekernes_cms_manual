@@ -5,9 +5,8 @@
 {% endif %}
 
 <div class="feature__wrapper">
-  
-  {{ site.nye-features.first.url}}
-  {{ site.nye-features.first.relative_url}}
+  {{ site.nye-features.first.url }}
+  {{ site.nye-features.first.url | relative_url}}
   {% for f in feature_row %}
   
  
