@@ -57,7 +57,7 @@
 
             {% for doc in docs %}
               {% if doc.omit_from_sidebar == blank or doc.omit_from_sidebar == false %}
-                <li><a href="{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+                <li><a href="{{ doc.url | relative_url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
               {% endif %}
             {% endfor %}
           </ul>

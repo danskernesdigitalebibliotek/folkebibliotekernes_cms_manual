@@ -2,7 +2,7 @@
   <span class="taxonomy_header"><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Artiklens kategori</span>
   {% assign filtered = site.category | where_exp:"category","page.category contains category.title" %}
   {% for category in filtered %}
-    <a href="{{ site.url }}{{ category.url }}" class="btn btn--inverse btn--small">{{ category.title }}</a>
+    <a href="{{ category.url  | relative_url }}" class="btn btn--inverse btn--small">{{ category.title }}</a>
   {% endfor %}
 </p>
 
@@ -10,7 +10,7 @@
   <span class="taxonomy_header"><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Artiklens emner</span>
   {% assign filtered = site.topic | where_exp:"topic","page.topic contains topic.title" %}
   {% for topic in filtered %}
-    <a href="{{ site.url }}{{ topic.url }}" class="btn btn--inverse btn--small">{{ topic.title }}</a>
+    <a href="{{ topic.url  | relative_url }}" class="btn btn--inverse btn--small">{{ topic.title }}</a>
   {% endfor %}
 </p>
 
@@ -18,7 +18,7 @@
   <span class="taxonomy_header"><i class="fas fa-fw fa-user-circle" aria-hidden="true"></i> Målgruppe</span>
   {% assign filtered = site.audience | where_exp:"audience","page.audience contains audience.title" %}
   {% for audience in filtered %}
-    <a href="{{ site.url }}{{ audience.url }}" class="btn btn--inverse btn--small">{{ audience.title }}</a>
+    <a href="{{ audience.url  | relative_url }}" class="btn btn--inverse btn--small">{{ audience.title }}</a>
   {% endfor %}
 </p>
 
