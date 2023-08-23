@@ -20,6 +20,8 @@ Logoet må gerne indeholde byvåben, blæksprutter og lignende men vær opmærks
 Biblioteker uden logo kan benytte sig af en såkaldt fall back-version, hvor bibliotekets navn skrives med en prædefineret typografi.   
 
 ![Logo2](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ca686b76-25ea-4bc3-a9ed-aa0e543fa9b1)
+![Logo3](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f6787ec1-0160-4fa6-8be6-4897e5febeca)
+
 
 ## Resultat ##
 I har et klart logo til at lægge ind i Folkebibliotekernes CMS 
