@@ -19,7 +19,15 @@ I folkebibliotekernes CMS er der også:
 - **Listesider**: Som I nok kender det i dag, vil I kunne bruge listesider som fx nyhedslister og arrangementslister. 
 - **Komponenter**: På hjemmesiden kan I gøre brug af en lang række komponenter som slider, hero, banner, nyheds-komponent, materialekomponent. 
 
-[Her kan I se eksempler på hvordan de enkelte designelementer kan bruges](https://detdigitalefolkebibliotek.dk/sites/default/files/designsystem_formidling.pdf). Lad jer inspirere til en ny måde at strukturere og vise indhold. 
+Designbureauet Dept har lavet grunddesign til Folkebibliotekernes CMS. Dept har arbejdet ud fra nogle principper for navigation og sideopbygning, som det er værd at sætte sig ind i. Jeres nye hjemmeside bliver bedst hvis I accepterer disse principper og og benytter design systemet, som det er tiltænkt. [Her kan I se eksempler på hvordan de enkelte designelementer kan bruges](https://detdigitalefolkebibliotek.dk/sites/default/files/designsystem_formidling.pdf). Lad jer inspirere til en ny måde at strukturere og vise indhold. 
+{: .notice--info}
+
+
+**Modulær sideopbygning**
+**Navigation hub** Med navigation hub konceptet navigerer man i dybden i stedet for bredden. Med navigation hub har man få menupunkter i hovedmenuen. Det giver en overskuelig header med få simple valg for brugeren. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Ved brug af navigationselementer på disse sider guides brugerne "step-by-step" gennem flere niveauer, indtil de finder det indhold de leder efter. Navigation hub navigationsprincippet er velegnet til informationstunge hjemesider.
+
+
+{: .notice--info}
 
 
 På baggrund det indhold I valgte ud i den foregående opgave, så find ud af hvordan jeres indhold skal vises: 
