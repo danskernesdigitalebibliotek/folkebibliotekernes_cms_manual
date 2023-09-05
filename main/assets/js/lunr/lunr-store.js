@@ -96,7 +96,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Nye features i Folkebibliotekernes CMS",
-        "excerpt":"Folkebibliotekernes CMS har mange af de samme features som DDB CMS. Dem vil brugerne kunne genkende og tage i brug uden videre. Med Folkebibliotekernes CMS introduceres også nye features som kræver forklaring for både borgere og bibliotekernes medarbejdere. I denne sektion sætter vi spot på de nye features og begreber....","categories": [],
+        "excerpt":"Folkebibliotekernes CMS har mange af de samme features som DDB CMS. Dem vil brugerne kunne genkende og tage i brug uden videre. Folkebibliotekernes CMS introducerer også nye features som kræver forklaring for både borgere og bibliotekernes medarbejdere. I denne sektion sætter vi spot på de nye features og begreber. Vi...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/",
         "teaser": null
