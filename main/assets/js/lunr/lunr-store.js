@@ -53,8 +53,8 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/audience/redaktoer/",
         "teaser": null
       },{
-        "title": "Feature kategori",
-        "excerpt":"Feature kategori  ","categories": [],
+        "title": "Lånerstatus og brugerprofil",
+        "excerpt":"Lånerstatus og brugerprofil  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/category/feature-kategori/",
         "teaser": null
