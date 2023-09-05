@@ -7,7 +7,7 @@ I Folkebibliotekernes CMS vises **Overskredne lån**, **Lån** og **Digitale lå
 
 ![Lån oversigt](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c517eee0-03e9-4804-950d-55a10abd3095)
 
-## Lån grupperet efter udlånsdato ##
+## Ny visningsmulighed -  Lån grupperet efter udlånsdato ##
 Oversigten over alle lån har to visningsmuligheder. Man kan få materialerne vist ét ad gangen eller grupperet efter afleveringsdato. Man skifter mellem de to visninger i øverste højre hjørne af listen.
 
 ![Grupperet visning](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/1642595d-a20d-48a9-9a79-675f3fd9f455)
