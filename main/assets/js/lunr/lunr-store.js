@@ -107,6 +107,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/huskeliste/",
         "teaser": null
       },{
+        "title": "Lån",
+        "excerpt":"Samlet overblik over alle lån I Folkebibliotekernes CMS vises Overskredne lån, Lån og Digitale lån under menupunktet Lån. Derved samles alle lån på én side der giver et samlet overblik. Ny visningsmulighed - Lån grupperet efter udlånsdato Oversigten over alle lån har to visningsmuligheder. Man kan få materialerne vist ét...","categories": ["Lånerstatus og brugerprofil"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/nye-features/laan/",
+        "teaser": null
+      },{
         "title": "Reservering",
         "excerpt":"Samlet overblik over reserveringer Under menupunktet Reserveringer får man det samlede overblik over sine reserveringer. Siden er opdelt i: “Klar til afhentning”, “Fysiske reserveringer” og “Digitale reserveringer” med angivelse af antallet ved hver type. I forhold til DDB CMS er de to sider ‘Reserveringer klar’ og ’Reserveringer i kø’ blevet...","categories": ["Lånerstatus og brugerprofil"],
         "tags": [],
