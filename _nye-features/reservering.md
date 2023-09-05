@@ -13,7 +13,10 @@ Interesseperiode ændres på den enkelte materiale reservering - ikke via bruger
 
 Årsagen til denne ændring er at brugerne for det meste kun har behov for at forlænge interesseperioden på udvalgte reserveringer. Når interessedatoen i DDB CMS ændres i brugerprofilen gælder ændringen for alle reserveringer. Det er unødvendigt. 
 
-Mange brugere har desuden svært ved at forstå hvad interesseperiode er for noget. Det håber vi bliver lettere når indstillingen flyttes til sin rette kontekst - ud på reserveringerne. 
+Mange brugere har desuden svært ved at forstå hvad interesseperiode er for noget. Det håber vi bliver lettere når indstillingen flyttes til sin rette kontekst - ud på reserveringerne.
+
+![Interessedato](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/bdf0f7b7-236a-4062-947f-b2ee041031c8)
+
 
 ## Digitale reserveringer ##
 Digitale reserveringer fra Publizon vises som noget nyt i Folkebibliotekernes CMS.
