@@ -95,8 +95,8 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/manual/manpage2/",
         "teaser": null
       },{
-        "title": "Feature 1",
-        "excerpt":"Her er feature 1 Min url er: feature/feature1/  ","categories": ["Feature kategori"],
+        "title": "Huskeliste",
+        "excerpt":"Hjerteikonet er symbol på Huskelisten, som brugerne vil kunne genkende fra andre websteder. Tilføj/slet fungerer helt simpelt: et klik – hvorved hjertet udfyldes og værket er sat på listen, klik igen og værket er slettet fra listen. Huskeliste i Folkebibliotekernes CMS bliver baseret på værker og ikke manifestationer (som i...","categories": ["Lånerstatus og brugerprofil"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/feature1/",
         "teaser": null
