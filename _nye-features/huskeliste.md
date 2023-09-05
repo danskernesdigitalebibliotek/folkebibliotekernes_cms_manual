@@ -16,23 +16,8 @@ Huskelisten er en væsentlig funktion for mange slutbrugere, og den har derfor f
 Indholdet i huskelisten følger brugeren: 
 - Huskelisten går på tværs af de kommuner, hvor bruger er oprettet og er aktiv som biblioteksbruger
 - Huskelisten går på tværs af grænsefladerne App og Folkebibliotekernes CMS
+- I forhold til Børnesitet er der taget en principiel beslutning om at huskelisten også kommer til at indgå her
   
 Huskelisten bygger på Material List servicen. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ift. Børnesitet er der taget en principiel beslutning om, at benytte Huskelisten  
-
-ereolen.dk har sin egen Huskeliste hos Publizon. Der er ikke taget beslutning om, hvad der på sigt skal ske med denne 
+Bemærk at ereolen.dk har sin egen huskeliste hos Publizon. Der er ikke taget beslutning om, hvad der på sigt skal ske med denne 
