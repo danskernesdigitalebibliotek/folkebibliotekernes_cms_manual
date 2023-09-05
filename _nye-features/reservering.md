@@ -2,7 +2,7 @@
 title: "Reservering"
 category: "Lånerstatus og brugerprofil"
 ---
-## Samlet overblik over reserveringer ""
+## Samlet overblik over reserveringer
 Under menupunktet Reserveringer får man det samlede overblik over sine reserveringer. Side er opdelt i: "Klar til lån", "Fysiske" og "Digitale" med angivelse af antallet ved hver type. 
 I forhold til DDB CMS er de to sider ‘Reservering klar’ og ’Reserveringer i kø’ blevet samlet under ét menupunkt.
 
