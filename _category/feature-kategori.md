@@ -1,5 +1,5 @@
 ---
-title: "Feature kategori"  
+title: "Lånerstatus og brugerprofil"  
 ---
 
-Feature kategori
+Lånerstatus og brugerprofil
