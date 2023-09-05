@@ -95,12 +95,6 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/manual/manpage2/",
         "teaser": null
       },{
-        "title": "Feature 2",
-        "excerpt":"Her er feature 2  ","categories": ["Categori 2"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/nye-features/feature2/",
-        "teaser": null
-      },{
         "title": "Nye features i Folkebibliotekernes CMS",
         "excerpt":"Folkebibliotekernes CMS har mange af de samme features som DDB CMS. Dem vil brugerne kunne genkende og tage i brug uden videre. Med Folkebibliotekernes CMS introduceres også nye features som kræver forklaring for både borgere og bibliotekernes medarbejdere. I denne sektion sætter vi spot på de nye features og begreber....","categories": [],
         "tags": [],
@@ -111,6 +105,12 @@ var store = [{
         "excerpt":"Hjerteikonet er symbol på Huskelisten, som brugerne vil kunne genkende fra andre websteder. Tilføj/slet fungerer helt simpelt: et klik – hvorved hjertet udfyldes og værket er sat på listen, klik igen og værket er slettet fra listen. Huskeliste i Folkebibliotekernes CMS bliver baseret på værker og ikke manifestationer (som i...","categories": ["Lånerstatus og brugerprofil"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/huskeliste/",
+        "teaser": null
+      },{
+        "title": "Reservering",
+        "excerpt":"Her er feature 2  ","categories": ["Lånerstatus og brugerprofil"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/nye-features/reservering/",
         "teaser": null
       },{
         "title": "Betaling",
