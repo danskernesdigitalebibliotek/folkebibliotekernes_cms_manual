@@ -5,6 +5,8 @@ category: "Lånerstatus og brugerprofil"
 ## Samlet overblik over reserveringer
 Under menupunktet Reserveringer får man det samlede overblik over sine reserveringer. Side er opdelt i: "Klar til lån", "Fysiske" og "Digitale" med angivelse af antallet ved hver type. 
 I forhold til DDB CMS er de to sider ‘Reservering klar’ og ’Reserveringer i kø’ blevet samlet under ét menupunkt.
+![Dine reserveringer](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/4c83748d-12d4-4b43-9796-6c7a27b24115)
+
 
 ## Interesseperiode ##
 Interesseperiode ændres på den enkelte materiale reservering - ikke via brugerprofilen, som man gør det i DDB CMS. Interesseperioden angives stadig i måneder. Det er ikke længere muligt at ændre Interesseperiode fra brugerprofilen.
