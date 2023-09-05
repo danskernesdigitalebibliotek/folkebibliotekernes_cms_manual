@@ -11,7 +11,7 @@ Under menupunktet Reserveringer får man det samlede overblik over sine reserver
 ## Interesseperiode ##
 Interesseperiode ændres på den enkelte materiale reservering - ikke via brugerprofilen, som man gør det i DDB CMS. Interesseperioden angives stadig i måneder. Det er ikke længere muligt at ændre Interesseperiode fra brugerprofilen.
 
-Årsagen til denne ændring er at brugerne for det meste kun har behov for at forlænge interesseperioden på udvalgte reserveringer. Når interessedatoen i DDB CMS ændres i brugerprofilen gælder ændringen for alle reserveringer. Det er unødvendigt. 
+Årsagen til denne ændring er, at brugerne for det meste kun har behov for at forlænge interesseperioden på udvalgte reserveringer. Når interessedatoen i DDB CMS ændres i brugerprofilen gælder ændringen for alle reserveringer. Det er unødvendigt. 
 
 Mange brugere har desuden svært ved at forstå hvad interesseperiode er for noget. Det håber vi bliver lettere når indstillingen flyttes til sin rette kontekst - ud på reserveringerne.
 
