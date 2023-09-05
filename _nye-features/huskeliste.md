@@ -5,7 +5,9 @@ category: "Lånerstatus og brugerprofil"
 
 ![Hjerteikon i huskeliste](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/4e180df9-6a0f-4c71-be95-b929349a93da)
 
-Hjerteikonet er symbol på Huskelisten, som brugerne vil kunne genkende fra andre websteder. Tilføj/slet fungerer helt simpelt: et klik – hvorved hjertet udfyldes og værket er sat på listen, klik igen og værket er slettet fra listen. Huskeliste i Folkebibliotekernes CMS bliver baseret på værker og ikke manifestationer (som i det nuværende DDB CMS). Det optræder på alle værker, i materialekomponent og andre formidlingskomponenter, samt søgeresultat og værkvisning.  
+Hjerteikonet er symbol på Huskelisten, som brugerne vil kunne genkende fra andre websteder. Tilføj/slet fungerer helt simpelt: et klik – hvorved hjertet udfyldes og værket er sat på listen, klik igen og værket er slettet fra listen. 
+
+Huskeliste i Folkebibliotekernes CMS bliver baseret på værker og ikke manifestationer (som i det nuværende DDB CMS). Det optræder på alle værker, i materialekomponent og andre formidlingskomponenter, samt søgeresultat og værkvisning.  
 
 ![Huskeliste i topmenu](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/27b94c8d-ac46-40f7-870d-8cc0f923f8d2)
 
