@@ -102,7 +102,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Nye features i Folkebibliotekernes CMS",
-        "excerpt":"   atomart design   gruppering af lån - de er “klappet sammen” omkring en dato   signalfarver   digitale lån   Forny ligger et andet sted   Skift afhentningssted ligger et andet sted   Sæt reserveringer på pause er flyttet  ","categories": [],
+        "excerpt":"Folkebibliotekernes CMS har mange af de samme features som DDB CMS. Dem vil brugerne kunne genkende og tage i brug uden videre. Men Folkebibliotekernes CMS introducerer også nye features som kræver forklaring for både borgere og bibliotekernes medarbejdere. I denne sektion sætter vi spot på de nye features og begreber....","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/",
         "teaser": null
