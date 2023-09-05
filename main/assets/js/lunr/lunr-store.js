@@ -108,7 +108,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Lån",
-        "excerpt":"Samlet overblik over alle lån I Folkebibliotekernes CMS vises Overskredne lån, Lån og Digitale lån under menupunktet Lån. Derved samles alle lån på én side der giver et samlet overblik. Lån grupperet efter udlånsdato Oversigten over alle lån har to visningsmuligheder. Man kan få materialerne vist ét ad gangen eller...","categories": ["Lånerstatus og brugerprofil"],
+        "excerpt":"Samlet overblik over alle lån I Folkebibliotekernes CMS vises Overskredne lån, Lån og Digitale lån under menupunktet Lån. Derved samles alle lån på én side der giver et samlet overblik. Ny visningsmulighed - Lån grupperet efter afleveringsdato Oversigten over alle lån har to visningsmuligheder. Man kan få materialerne vist ét...","categories": ["Lånerstatus og brugerprofil"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/laan/",
         "teaser": null
