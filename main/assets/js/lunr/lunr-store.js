@@ -53,12 +53,6 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/audience/redaktoer/",
         "teaser": null
       },{
-        "title": "Lånerstatus og brugerprofil",
-        "excerpt":"Lånerstatus og brugerprofil  ","categories": [],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/category/feature-kategori/",
-        "teaser": null
-      },{
         "title": "AKategori 1",
         "excerpt":"AKategori 1  ","categories": [],
         "tags": [],
@@ -69,6 +63,12 @@ var store = [{
         "excerpt":"Categori 2  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/category/kategori2/",
+        "teaser": null
+      },{
+        "title": "Lånerstatus og brugerprofil",
+        "excerpt":"Lånerstatus og brugerprofil  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/category/laanerstatus-brugerprofil/",
         "teaser": null
       },{
         "title": "Overgangsaktiviter",
