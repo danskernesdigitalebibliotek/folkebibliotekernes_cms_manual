@@ -11,7 +11,7 @@ Huskeliste i Folkebibliotekernes CMS bliver baseret på værker og ikke manifest
 
 ![Huskeliste i topmenu](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/27b94c8d-ac46-40f7-870d-8cc0f923f8d2)
 
-Huskelisten er en væsentlig funktion for mange slutbrugere, og den har derfor fået en fremtrædende plads i top-menu´en  
+Huskelisten er en væsentlig funktion for mange slutbrugere, og den har derfor fået en fremtrædende plads i top-menuen.  
 
 Indholdet i huskelisten følger brugeren: 
 - Huskelisten går på tværs af de kommuner, hvor bruger er oprettet og er aktiv som biblioteksbruger
