@@ -108,7 +108,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Reservering",
-        "excerpt":"Her er feature 2  ","categories": ["Lånerstatus og brugerprofil"],
+        "excerpt":"Samlet overblik over reserveringer “” Under menupunktet Reserveringer får man det samlede overblik over sine reserveringer. Side er opdelt i: “Klar til lån”, “Fysiske” og “Digitale” med angivelse af antallet ved hver type. I forhold til DDB CMS er de to sider ‘Reservering klar’ og ’Reserveringer i kø’ blevet samlet...","categories": ["Lånerstatus og brugerprofil"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/reservering/",
         "teaser": null
