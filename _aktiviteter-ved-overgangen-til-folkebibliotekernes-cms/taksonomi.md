@@ -12,18 +12,14 @@ I denne opgave skal I tage stilling til tags og kategorier så I kan hjælpe slu
 Overvej om jeres nuværende kategorier og tags skal videreføres eller om der skal ryddes op. Tags og kategorier skal sammentænkes med sektionssiderne. De er et værktøj til at gruppere indhold, som I gerne vil vise samlet i lister og inspirationskomponenter. 
 
  
-Få overblik over tags og kategorier i 
+## Få overblik over tags og kategorier ##
 Som lokal administrator i DDB CMS kan man få et samlet overblik over sine tags og kategorier.  
 
 1. Log ind i DDB CMS
-2. I hovedmenuen klik på **Struktur** i hovedmenuen og dernæst på **Taksonomi**.
+2. Klik på **Struktur** i hovedmenuen og dernæst på **Taksonomi**.
 
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c0665328-4b41-4395-8ad9-077eae737d90)
 
-Et billede, der indeholder tekst, skærmbillede, software, Webside
-
-Automatisk genereret beskrivelse 
-
- 
 
 Lav gerne en liste over de vigtigste kategorier og tags, som I vil holde fast i og overføre til det nye cms. 
 
