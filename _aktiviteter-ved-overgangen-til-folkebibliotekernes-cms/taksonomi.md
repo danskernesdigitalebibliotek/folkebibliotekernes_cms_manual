@@ -1,5 +1,5 @@
 ---
-title: "Opgave 7: Taksonomi - kategorier og tags"
+title: "Opgave 8: Taksonomi - kategorier og tags"
 category: "Overgangsaktiviter"
 ---
 
