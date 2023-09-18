@@ -14,7 +14,9 @@ Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal
 **TIP**: Her er en vejledning til hvordan man kan [eksportere oversigtslister over indhold fra DDB CMS](https://platform.dandigbib.org/projects/ddb-cms/wiki/Eksporter_oversigtslister_over_indhold)
 {: .notice--info}
 
-- **Skal der laves nyt indhold?** I udvælgelsen af indhold bør I tage udgangspunkt i, hvilke sektionssider, I ønsker at oprette. Hvis I fx vil lave en sektionsside, der hedder Studieunivers, bliver I nødt til at have noget studierelateret indhold på sitet, som I kan linke til. Det kan være sider, artikler og arrangementer. 
+- **Skal der laves nyt indhold?** I udvælgelsen af indhold bør I tage udgangspunkt i, hvilke sektionssider, I ønsker at oprette. Hvis I fx vil lave en sektionsside, der hedder Studieunivers, bliver I nødt til at have noget studierelateret indhold på sitet, som I kan linke til. Det kan være sider, artikler og arrangementer.
+
+- **Hent indhold fra BPI** Det bliver i første omgang ikke muligt i Folkebibliotekernes CMS at kunne hente eller producere indhold til BPI. Derfor bør I også kigge på, om der er noget af indholdet, som I vil gemme til den nye hjemmeside. 
 
 - **Hvad siger statistikken?** Kig også på, hvad der rent faktisk bliver brugt på jeres nuværende site. I kan bruge Mapp til at se, hvilket indhold, der er blevet læst flest gange. Vi har lavet en guide, der er lige til at følge: [Se statistik for brug af hjemmesidens redaktionelle indhold i Mapp](https://detdigitalefolkebibliotek.dk/sites/default/files/vejledning_i_at_traekke_brugsstatistik_for_redaktionelt_indhold_mapp.pdf)
 
