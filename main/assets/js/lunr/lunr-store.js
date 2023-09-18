@@ -17,7 +17,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/identitetsfarve/",
         "teaser": null
       },{
-        "title": "Opgave 6: Informationsarkitektur og navigation",
+        "title": "Opgave 7: Informationsarkitektur og navigation",
         "excerpt":"Beskrivelse Ligesom når man flytter ind i et nyt hus, så skal der også indrettes på en ny hjemmeside. Hvad vil I have hvor, og hvordan skal man kunne komme rundt mellem siderne? I denne opgave vil vi give jer nogle ideer til hvordan I kan gribe opgave an. Overblik...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/informationsarkiktektur/",
