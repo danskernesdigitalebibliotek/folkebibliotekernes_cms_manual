@@ -9,7 +9,7 @@ En flytning kan være en god lejlighed til at få ryddet op i gammelt indhold. I
 Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal flyttes med over. Det er helt op til det enkelte biblioteks strategi.  Ambitionsniveauet kunne sagtens være at have mindre indhold end nu, da meget tyder på, at vi har en tendens til at overinformere brugerne, som har svært ved at finde rundt i indholdet. 
 
 ## Metode og fremgangsmåde ##
-- **Hvad skal flyttes med over på den nye hjemmeside?** Vi anbefaler, at I systematisk gennemgår alle jeres sider, nyheder og sektioner for at tage stilling til, hvad der skal flyttes med. Afpublicer eller slet indhold der ikke skal med. Det forbedrer jeres overblik over websitet.\
+**Hvad skal flyttes med over på den nye hjemmeside?** Vi anbefaler, at I systematisk gennemgår alle jeres sider, nyheder og sektioner for at tage stilling til, hvad der skal flyttes med. Afpublicer eller slet indhold der ikke skal med. Det forbedrer jeres overblik over websitet.\
 \
 **TIP**: Her er en vejledning til hvordan man kan [eksportere oversigtslister over indhold fra DDB CMS](https://platform.dandigbib.org/projects/ddb-cms/wiki/Eksporter_oversigtslister_over_indhold)
 {: .notice--info}
