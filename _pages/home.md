@@ -5,16 +5,14 @@ layout: splash
 header:
   overlay_image: /assets/images/splash.png
   actions:
-    - label: "Nye features i Folkebibliotekernes CMS"
-      url: "/nye-features"
     - label: "Bliv klar til Folkebibliotekernes CMS"
       url: "/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms"
 
 excerpt: "Informationsmaterialer og manual udbygges løbende her"
 feature_row:
   - image_path: /assets/images/overgang-til-folkebibliotekernes-cms.jpg
-    alt: "Aktiviteter ved overgangen til Folkebibliotekernes CMS"
-    title: "Aktiviteter ved overgangen til Folkebibliotekernes CMS"
+    alt: "Bliv klar til Folkebibliotekernes CMS"
+    title: "Bliv klar til Folkebibliotekernes CMS"
     excerpt: "Kom i gang med forberedelserne allerede nu."
     url: "/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/"
   - image_path: /assets/images/new-features.png
