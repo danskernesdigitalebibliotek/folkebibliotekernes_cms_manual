@@ -7,8 +7,6 @@ Gennem Det Digitale Folkebibliotek har bibliotekerne adgang til web- og appstati
 
 For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt. Sitet fødes med de korrekte værdier, men det er en god ide at kontrollere om opsætningen er korrekt alligevel.
 
-Det er hensigtsmæssigt at konfigurere MAPP-indstillingerne før hjemmesiden sættes i drift, så det er muligt at se brugerstatistik fra hjemmesiden fra starten.
-
 Find MAPP indstillinger i backend:
 
 Klik-sti: Indstillinger > System > Mapp Intelligence indstillinger 
@@ -22,3 +20,5 @@ Domæne: `responder.wt-safetag.com`
 \
 ID: `476651662471322`
 {: .notice}
+
+Det er hensigtsmæssigt at konfigurere MAPP-indstillingerne før hjemmesiden sættes i drift, så det er muligt at se brugerstatistik fra hjemmesiden fra starten.
