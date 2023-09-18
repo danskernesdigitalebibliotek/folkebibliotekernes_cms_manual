@@ -13,7 +13,7 @@ Find MAPP indstillinger i backend:
 
 Klik-sti: Indstillinger > System > Mapp Intelligence indstillinger 
 \
-URL: /`admin/config/system/dpl-mapp` )
+URL: `admin/config/system/dpl-mapp`
 
 Sådan skal felterne udfyldes:
 
