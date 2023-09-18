@@ -29,6 +29,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/logo/",
         "teaser": null
       },{
+        "title": "Opgave 2: Easy Nets biblioteker skal over på ØIR løsningen",
+        "excerpt":"Mål Målet med denne opgave er sikre at I kan tilbyde jeres brugere en form for betalingsløsning på hjemmesiden. Beskrivelse Ikke alle biblioteker er kommet over på ØiR-integrationen. Dem der ikke har en integration til debitorsystemet, men en Nets-løsning i dag skal have fundet en anden løsning, da der ikke...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/oir/",
+        "teaser": null
+      },{
         "title": "Opgave 5: Oprydning i artikler på det eksisterende site",
         "excerpt":"Beskrivelse En flytning kan være en god lejlighed til at få ryddet op i gammelt indhold. I denne opgave giver jer nogle tips til at få kvalificeret det indhold, som skal med over på den nye hjemmeside. Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal...","categories": ["Overgangsaktiviter"],
         "tags": [],
