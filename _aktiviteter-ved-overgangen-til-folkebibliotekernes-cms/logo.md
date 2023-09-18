@@ -8,7 +8,7 @@ Det kan godt tage tid at designe et nyt logo, så tænk allerede nu over, om bib
 ## Metode og fremgangsmåde ##
 Logoet bør være en png på transparent baggrund.  
 
-**Dimensioner: 160 x 96 px** 
+**Dimensioner: 224 px x 96 px** 
 
 Logoets placering i headerens rektangulære felt sætter nogle krav til udformningen. Meget aflange logoer, vil gøre bibliotekets navn meget småt. Derfor kan I med fordel optimere logoet til det nye format, hvor logo i flere dæk fungerer bedst.  
 
@@ -24,7 +24,7 @@ Biblioteker uden logo kan benytte sig af en såkaldt fall back-version, hvor bib
 
 
 ## Resultat ##
-I har et klart logo til at lægge ind i Folkebibliotekernes CMS 
+I har et logo, der er klar til at lægge ind i Folkebibliotekernes CMS 
 
 ## Involverede parter ##
 Grafiker, webansvarlige m.fl. 
