@@ -47,7 +47,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/projektorganisering-paa-biblioteket/",
         "teaser": null
       },{
-        "title": "Opgave 7: Taksonomi - kategorier og tags",
+        "title": "Opgave 8: Taksonomi - kategorier og tags",
         "excerpt":"I Folkebibliotekernes CMS har tags og kategorier samme struktur og funktion som i DDB CMS. Tags kan bruges på tværs af indholdstyper, mens kategorier er bundet til en bestemt indholdstype som et arrangement eller en artikel. Tags og kategorier anvendes til filtrering af indhold i lister og komponenter. For eksempel...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/taksonomi/",
