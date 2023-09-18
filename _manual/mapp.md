@@ -9,12 +9,14 @@ For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt.
 
 Det er hensigtsmæssigt at konfigurere MAPP-indstillingerne før hjemmesiden sættes i drift, så det er muligt at se brugerstatistik fra hjemmesiden fra starten.
 
-De forskellige felter herunder skal udfyldes på følgende måde:
+Find MAPP indstillinger i backend:
 
 Klik-sti: Indstillinger > System > Mapp Intelligence indstillinger 
 \
 URL: /`admin/config/system/dpl-mapp` )
-\
+
+Sådan skal felterne udfyldes:
+
 Domæne: `responder.wt-safetag.com`
 \
 ID: `476651662471322`
