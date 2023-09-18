@@ -14,6 +14,7 @@ Find MAPP indstillinger i backend:
 Klik-sti: Indstillinger > System > Mapp Intelligence indstillinger 
 \
 URL: `admin/config/system/dpl-mapp`
+{: .notice}
 
 Sådan skal felterne udfyldes:
 
