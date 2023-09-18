@@ -11,7 +11,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/",
         "teaser": null
       },{
-        "title": "Opgave 3: Identitetsfarve",
+        "title": "Opgave 4: Identitetsfarve",
         "excerpt":"Beskrivelse Bibliotekets egen unikke identitetsfarve bruges på en lang række elementer i brugergrænsefladen. I har måske haft flere farver på jeres nuværende hjemmeside, men nu skal I kun vælge en. Metode og fremgangsmåde I skal vælge en identitetsfarve for jeres hjemmeside. I skal vælge en stærk og ren farve, da...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/identitetsfarve/",
