@@ -102,7 +102,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Mapp Intelligence",
-        "excerpt":"Gennem Det Digitale Folkebibliotek har bibliotekerne adgang til web- og appstatistikløsningen MAPP, som giver indblik i brugen af bibliotekernes hjemmesider og appen Biblioteket. Her finder du mere information om produktet og link til login For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt. For XX...","categories": ["Integrationer"],
+        "excerpt":"Gennem Det Digitale Folkebibliotek har bibliotekerne adgang til web- og appstatistikløsningen MAPP, som giver indblik i brugen af bibliotekernes hjemmesider og appen Biblioteket. Læs mere om MAPP og find link til MAPP-login For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt. Sitet fødes med de...","categories": ["Integrationer"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/manual/mapp/",
         "teaser": null
