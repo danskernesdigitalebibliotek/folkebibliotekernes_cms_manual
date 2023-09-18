@@ -11,7 +11,9 @@ Det er hensigtsmæssigt at konfigurere MAPP-indstillingerne før hjemmesiden sæ
 
 De forskellige felter herunder skal udfyldes på følgende måde:
 
-Indstillingen af modulet sker under `Indstillinger` > `System` > `Mapp Intelligence indstillinger` ( `admin/config/system/dpl-mapp` )
+Klik-sti: Indstillinger > System > Mapp Intelligence indstillinger 
+\
+URL: /`admin/config/system/dpl-mapp` )
 \
 Domæne: `responder.wt-safetag.com`
 \
