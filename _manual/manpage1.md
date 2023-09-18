@@ -9,9 +9,11 @@ For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt.
 
 Det er hensigtsmæssigt at konfigurere Webtrekkmodulet før hjemmesiden sættes i drift, så det er muligt at se brugerstatistik fra hjemmesiden fra starten.
 
-Indstillingen af modulet sker under “Indstillinger -> System -> Mapp Intelligence indstillinger” ( admin/config/system/dpl-mapp )
+Indstillingen af modulet sker under `Indstillinger` > `System` > `Mapp Intelligence indstillinger` ( `admin/config/system/dpl-mapp` )
 
 De forskellige felter herunder skal udfyldes på følgende måde:
-
+{% capture settings %}
 Domæne: responder.wt-safetag.com
 ID: 476651662471322
+{% endcapture %}
+<div class="notice">{{ settings | markdownify }}</div>
