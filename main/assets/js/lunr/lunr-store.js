@@ -23,7 +23,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/informationsarkiktektur/",
         "teaser": null
       },{
-        "title": "Opgave 2: Tilretning af logo til nyt design ",
+        "title": "Opgave 3: Tilretning af logo til nyt design ",
         "excerpt":"Beskrivelse Det kan godt tage tid at designe et nyt logo, så tænk allerede nu over, om bibliotekets logo overholder de krav, der er til det nye CMS. Måske får det betydning for hele bibliotekets visuelle identitet, så det er vigtigt hurtigst muligt at få det på plads. Metode og...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/logo/",
