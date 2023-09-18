@@ -65,16 +65,16 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/audience/redaktoer/",
         "teaser": null
       },{
+        "title": "Integrationer",
+        "excerpt":"Integrationer  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/category/integrationer/",
+        "teaser": null
+      },{
         "title": "AKategori 1",
         "excerpt":"AKategori 1  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/category/kategori1/",
-        "teaser": null
-      },{
-        "title": "Categori 2",
-        "excerpt":"Categori 2  ","categories": [],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/category/kategori2/",
         "teaser": null
       },{
         "title": "Lånerstatus og brugerprofil",
