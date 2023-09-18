@@ -23,6 +23,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/informationsarkiktektur/",
         "teaser": null
       },{
+        "title": "Opgave 2: Tilretning af logo til nyt design ",
+        "excerpt":"Beskrivelse Det kan godt tage tid at designe et nyt logo, så tænk allerede nu over, om bibliotekets logo overholder de krav, der er til det nye CMS. Måske får det betydning for hele bibliotekets visuelle identitet, så det er vigtigt hurtigst muligt at få det på plads. Metode og...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/logo/",
+        "teaser": null
+      },{
         "title": "Opgave 5: Oprydning i artikler på det eksisterende site",
         "excerpt":"Beskrivelse En flytning kan være en god lejlighed til at få ryddet op i gammelt indhold. I denne opgave giver jer nogle tips til at få kvalificeret det indhold, som skal med over på den nye hjemmeside. Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal...","categories": ["Overgangsaktiviter"],
         "tags": [],
@@ -39,12 +45,6 @@ var store = [{
         "excerpt":"I Folkebibliotekernes CMS har tags og kategorier samme struktur og funktion som i DDB CMS. Tags kan bruges på tværs af indholdstyper, mens kategorier er bundet til en bestemt indholdstype som et arrangement eller en artikel. Tags og kategorier anvendes til filtrering af indhold i lister og komponenter. For eksempel...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/taksonomi/",
-        "teaser": null
-      },{
-        "title": "Opgave 2: Tilretning af logo til nyt design ",
-        "excerpt":"Beskrivelse Det kan godt tage tid at designe et nyt logo, så tænk allerede nu over, om bibliotekets logo overholder de krav, der er til det nye CMS. Måske får det betydning for hele bibliotekets visuelle identitet, så det er vigtigt hurtigst muligt at få det på plads. Metode og...","categories": ["Overgangsaktiviter"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/tilretning-af-logo-til-nyt-design/",
         "teaser": null
       },{
         "title": "Administrator",
