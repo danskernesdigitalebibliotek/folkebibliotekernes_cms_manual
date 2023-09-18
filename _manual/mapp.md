@@ -14,6 +14,6 @@ Indstillingen af modulet sker under `Indstillinger` > `System` > `Mapp Intellige
 De forskellige felter herunder skal udfyldes på følgende måde:
 
 Domæne: responder.wt-safetag.com
-/
+\
 ID: 476651662471322
 {: .notice}
