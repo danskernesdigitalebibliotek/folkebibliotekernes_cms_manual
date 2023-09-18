@@ -1,6 +1,7 @@
 ---
 title: "Mapp Intelligence"
 category: "Integrationer"
+topic: "Webstatistik"
 audience: "Lokaladmin"
 ---
 Gennem Det Digitale Folkebibliotek har bibliotekerne adgang til web- og appstatistikløsningen MAPP, som giver indblik i brugen af bibliotekernes hjemmesider og appen Biblioteket. [Læs mere om MAPP og find link til MAPP-login](https://detdigitalefolkebibliotek.dk/section/i-brug-paa-biblioteket/bibliotekernes-web-og-appstatistik)
