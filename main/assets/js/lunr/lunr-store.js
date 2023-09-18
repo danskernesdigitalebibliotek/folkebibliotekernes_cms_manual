@@ -1,5 +1,5 @@
 var store = [{
-        "title": "Opgave 4: Eksport af billeder eller lav nyt billedmateriale",
+        "title": "Opgave 5: Eksport af billeder eller lav nyt billedmateriale",
         "excerpt":"Resultat Et billede siger mere end 1000 ord. Det ordsprog kender de fleste af os efterhånden, og der er noget om snakken. Billeder er visuelle udtryk, der kan give bedre forståelse for dit indhold på hjemmesiden, samtidig med at det gør teksten letfordøjelig. Med denne opgave skal I tage stilling...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/billedmateriale/",
