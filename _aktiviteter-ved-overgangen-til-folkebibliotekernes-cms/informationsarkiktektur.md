@@ -1,5 +1,5 @@
 ---
-title: "Opgave 6: Informationsarkitektur og navigation"
+title: "Opgave 7: Informationsarkitektur og navigation"
 category: "Overgangsaktiviter"
 ---
 ## Beskrivelse ##
