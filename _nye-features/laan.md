@@ -16,18 +16,3 @@ Oversigten over alle lån har to visningsmuligheder. Man kan få materialerne vi
 I Folkebibliotekernes CMS samles brugernes fysiske og digitale lån fra eReolen i én og samme oversigt. Endvidere vises oplysninger om kvote.
 Denne feature taler ind i visionen om en samlet brugerrejse hvor der skabes større sammenhæng på tværs af flere platforme med brugeren i centrum.
 
-
-Mulighed for at linke til oprettelse af flere brugertyper
-I administrationsgrænsefladen er det nu muligt at angive en specifik URL for oprettelse efter brugertype:
-•	Bruger over alder X
-•	Alder for voksne brugere
-•	Ung/barn under X
-•	Institution
-Det her ved jeg ikke hvordan er implementeret – kan Agnete tjekke det?
-Efter login lander brugeren på brugerens dashboard (medmindre det er i reserver-flowet)
-Hvor brugeren i dag lander på bibliotekets forside, vil brugeren lande på sit personlige dashboard??? – jeg i tvivl om denne.
-Sådan er det ikke implementeret – det er rigtigt at det er intentionen. Lige nu lander man på forsiden. Jeg ved ikke om det har høj nok prioritet til at blive lavet om. Ligger som en bug: Bug #5879: KRAV: Efter login omdirigeres låner ikke til lånerstatus Dashboard (Din side) - Folkebibliotekernes CMS - Udvikling - Det Digitale Folkebiblioteks projektplatform (dandigbib.org)
-
-Jeg tænker vi skal have Lotte til at dobbelttjekke ovenstående. 
-
-Måske det ville give værdi meget kort at beskrive ”værdi/UX” rationalet bag hver ændring? At slå menupunkter sammen giver brugeren færre valg (overskuelighed), at flytte ”Interesseperiode” fra en generisk profilside til hvert materiale flytter funktionen tættere på der hvor den giver værdi osv. 
