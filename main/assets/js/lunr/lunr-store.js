@@ -148,4 +148,10 @@ var store = [{
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/topic/grundkonfiguration/",
         "teaser": null
+      },{
+        "title": "Webstatistik",
+        "excerpt":"Webstatistik  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/topic/webstatistik/",
+        "teaser": null
       }]
