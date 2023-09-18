@@ -21,4 +21,4 @@ Domæne: `responder.wt-safetag.com`
 ID: `476651662471322`
 {: .notice}
 
-Det er hensigtsmæssigt at konfigurere MAPP-indstillingerne før hjemmesiden sættes i drift, så det er muligt at se brugerstatistik fra hjemmesiden fra starten.
+Det er hensigtsmæssigt at konfigurere MAPP-indstillingerne før hjemmesiden sættes i drift, så det er muligt at se brugerstatistik fra første dag hjemmesiden tages i brug.
