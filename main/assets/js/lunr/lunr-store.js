@@ -132,7 +132,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Værk og manifestation",
-        "excerpt":" ","categories": ["Søgning"],
+        "excerpt":"Søgeresultater i Folkebibliotekernes CMS leveres fra brønden. Søgninger sendes afsted og resultater modtages via en ny-udviklet snitflade der hedder FBI-API. Den virker helt anderledes end den snitflade der bruges i DDB CMS. FBI-API skelner mellem værker og manifestationer. Det er begreber, der er hentet fra Dublin Core, som er en...","categories": ["Søgning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/vaerk-og-manifestation/",
         "teaser": null
