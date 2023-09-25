@@ -71,12 +71,6 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/category/integrationer/",
         "teaser": null
       },{
-        "title": "AKategori 1",
-        "excerpt":"AKategori 1  ","categories": [],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/category/kategori1/",
-        "teaser": null
-      },{
         "title": "Lånerstatus og brugerprofil",
         "excerpt":"Lånerstatus og brugerprofil  ","categories": [],
         "tags": [],
@@ -87,6 +81,12 @@ var store = [{
         "excerpt":"Overgangsaktiviteter  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/category/overgangsaktiviteter/",
+        "teaser": null
+      },{
+        "title": "Søgning",
+        "excerpt":"Søgning  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/category/soegning/",
         "teaser": null
       },{
         "title": "CMS Manual",
