@@ -131,6 +131,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/reserveringsoversigten/",
         "teaser": null
       },{
+        "title": "Værkvisningssiden",
+        "excerpt":" ","categories": ["Søgning"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/nye-features/vaerkvisningssiden/",
+        "teaser": null
+      },{
         "title": "Betaling",
         "excerpt":"Betaling  ","categories": [],
         "tags": [],
