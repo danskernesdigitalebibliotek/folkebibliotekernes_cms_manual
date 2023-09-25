@@ -46,8 +46,7 @@ De manifestations-specifikke metadata vises under ”Udgaver” -> ”Detaljer f
 De værk-specifikke metadata vises under ”Detaljer”:
 ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/7d0f2006-61b4-4ab6-84f7-fec7649c08e8)
 
-Hvilket så ikke er helt sandt. For der er ikke ret mange metadata, der er værkspecifikke. Selv titlen kan variere, som f. eks. når ”Krabben med de Gyldne Kløer” bliver nyoversat til ”Krabben med de Gyldne Klosakse”, og en ny udgave af en artikelsamling kan få en ny redaktør, osv.
-Men eftersom der er en række metadata, som brugerne forventer at se om værket, som strengt taget ikke er værk-specifikke, så ”snyder” vi lidt, og udvælger ud fra forskellige kriterier en manifestation i den valgte materialetype, som repræsenterer værket under ”Detaljer”.
+Hvilket så ikke er helt sandt. For der er ikke ret mange metadata, der er værkspecifikke. Selv titlen kan variere, som f. eks. når ”Krabben med de Gyldne Kløer” bliver nyoversat til ”Krabben med de Gyldne Klosakse”, og en ny udgave af en artikelsamling kan få en ny redaktør, osv. Men eftersom der er en række metadata, som brugerne forventer at se om værket, som strengt taget ikke er værk-specifikke, så ”snyder” vi lidt, og udvælger ud fra forskellige kriterier en manifestation i den valgte materialetype, som repræsenterer værket under ”Detaljer”.
 
 
 
