@@ -10,7 +10,7 @@
     <meta charset="utf-8">
 
 <!-- begin _includes/seo.html --><title>Værkvisningssider - Folkebibliotekernes CMS</title>
-<meta name="description" content="Når en bruger foretager en søgning i Folkebibliotekernes CMS vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på materialetypen ”Online lydbog”. Gør man det, vises kun de værker der er manifesteret i materialetypen ”Online lydbog”.">
+<meta name="description" content="Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på materialetypen ”Online lydbog”. Gør man det, vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”.">
 
 
 
@@ -21,7 +21,7 @@
 <meta property="og:url" content="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/nye-features/vaerkvisningssiden/">
 
 
-  <meta property="og:description" content="Når en bruger foretager en søgning i Folkebibliotekernes CMS vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på materialetypen ”Online lydbog”. Gør man det, vises kun de værker der er manifesteret i materialetypen ”Online lydbog”.">
+  <meta property="og:description" content="Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på materialetypen ”Online lydbog”. Gør man det, vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”.">
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-  <meta property="article:published_time" content="2023-09-25T10:14:08+00:00">
+  <meta property="article:published_time" content="2023-09-25T10:45:45+00:00">
 
 
 
@@ -236,7 +236,7 @@
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Værkvisningssider">
-    <meta itemprop="description" content="Når en bruger foretager en søgning i Folkebibliotekernes CMS vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på materialetypen ”Online lydbog”. Gør man det, vises kun de værker der er manifesteret i materialetypen ”Online lydbog”.">
+    <meta itemprop="description" content="Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på materialetypen ”Online lydbog”. Gør man det, vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”.">
     
     
 
@@ -255,14 +255,22 @@
 
       <section class="page__content e-content" itemprop="text">
         
-        <p>Når en bruger foretager en søgning i Folkebibliotekernes CMS vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på materialetypen ”Online lydbog”. Gør man det, vises kun de værker der er manifesteret i materialetypen ”Online lydbog”.</p>
+        <p>Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på materialetypen ”Online lydbog”. Gør man det, vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”.</p>
 
-<p>Fra DDB CMS er vi vant til materialevisningssider for hver udgave og hver materialetype, som en bog er udkommet i. De findes ikke i Folkebibliotekernes CMS.<br />
-I Folkebibliotekernes CMS er der i stedet en <strong>værkvisningsside</strong>, der rummer alle de materialetyper og udgaver, den findes i.</p>
+<p>Fra DDB CMS er vi vant til materialevisningssider for hver udgave og hver materialetype, som en bog er udkommet i. Materialevisningsside findes ikke i Folkebibliotekernes CMS.<br />
+I Folkebibliotekernes CMS er der i stedet en <strong>værkvisningsside</strong>, der rummer alle de materialetyper og udgaver, værket findes i.</p>
 
-<p>Der vil altid være valgt en materialetype på siden, og handleknappen vil afspejle den valgte materialetype sådan her:</p>
+<h2 id="handleknappen">Handleknappen</h2>
+
+<p>Én materialetype vil altid være valgt på værkvisningssiden, og handleknappen vil afspejle den valgte materialetype sådan her:</p>
 
 <table>
+  <thead>
+    <tr>
+      <th>Materialetype</th>
+      <th>Handleknap</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td>Alle fysiske materialetyper</td>
@@ -290,6 +298,34 @@ I Folkebibliotekernes CMS er der i stedet en <strong>værkvisningsside</strong>,
     </tr>
   </tbody>
 </table>
+
+<p><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f737d72c-b376-466e-9f44-bca1030661b3" alt="image" /></p>
+
+<h2 id="værkvisningssidens-opbygning">Værkvisningssidens opbygning</h2>
+
+<p>På værkvisningssiden kan brugerne finde rigtig mange metadata om det valgte værk.
+Siden er organiseret sådan, at de vigtigste (titel, forfatter og tilgængelighed) vises øverst sammen med handleknappen.
+<img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/45051913-2cef-48b8-9a45-cd6cba509102" alt="Værkvisning øverst" /></p>
+
+<p>Nedenunder vises de næst-vigtigste (beskrivelse, emnetal – hvis værket er faglitterært, serie – hvis værket er en del af en serie, emneord osv.
+<img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/cbefaabe-ae05-4b87-8232-ea55636e9376" alt="Værkvisning midt" /></p>
+
+<p>Nederst vises de metadata, der vurderes kun at være relevante for et mindretal af brugere – udgave, forlag, isbn mv, samt oplysninger om de enkelte udgaver og manifestationer.
+<img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/58b125da-b134-4cfe-b778-2711d799a5de" alt="Værkvisning nederst" /></p>
+
+<p>De nederste metadata er ”foldet ind”, og kan først ses efter klik på de relevante ”folde-ud-pile”.</p>
+
+<h2 id="metadata-knyttet-til-værk--manifestation">Metadata knyttet til værk / manifestation</h2>
+<p>Nogle metadata er værk-specifikke, andre er manifestations-specifikke.</p>
+
+<p>De manifestations-specifikke metadata vises under ”Udgaver” -&gt; ”Detaljer for materialet”
+<img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/bdb4757c-7e2a-4c47-b6d2-8d3f9cb3d927" alt="image" /></p>
+
+<p>De værk-specifikke metadata vises under ”Detaljer”:
+<img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/7d0f2006-61b4-4ab6-84f7-fec7649c08e8" alt="image" /></p>
+
+<p>Hvilket så ikke er helt sandt. For der er ikke ret mange metadata, der er værkspecifikke. Selv titlen kan variere, som f. eks. når ”Krabben med de Gyldne Kløer” bliver nyoversat til ”Krabben med de Gyldne Klosakse”, og en ny udgave af en artikelsamling kan få en ny redaktør, osv.
+Men eftersom der er en række metadata, som brugerne forventer at se om værket, som strengt taget ikke er værk-specifikke, så ”snyder” vi lidt, og udvælger ud fra forskellige kriterier en manifestation i den valgte materialetype, som repræsenterer værket under ”Detaljer”.</p>
 
 
         
