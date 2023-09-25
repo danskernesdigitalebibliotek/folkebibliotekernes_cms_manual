@@ -6,6 +6,7 @@ category: "Søgning"
 Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på en materialetype. Filtrerer man på ”Online lydbog”, da vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”. 
 
 Fra DDB CMS er vi vant til materialevisningssider for hver udgave og hver materialetype, som en bog er udkommet i. Materialevisningssider findes ikke i Folkebibliotekernes CMS.  
+
 I Folkebibliotekernes CMS er der i stedet en **værkvisningsside**, der rummer alle de materialetyper og udgaver, som et værk findes i.
 ## Handleknappen
 Én materialetype vil altid være valgt på værkvisningssiden, og handleknappen vil afspejle den valgte materialetype sådan her:
