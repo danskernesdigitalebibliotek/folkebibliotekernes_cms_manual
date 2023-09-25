@@ -131,6 +131,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/reserveringsoversigten/",
         "teaser": null
       },{
+        "title": "Værk og manifestation",
+        "excerpt":" ","categories": ["Søgning"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/nye-features/vaerk-og-manifestation/",
+        "teaser": null
+      },{
         "title": "Værkvisningssiden",
         "excerpt":" ","categories": ["Søgning"],
         "tags": [],
