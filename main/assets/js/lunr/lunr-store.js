@@ -137,7 +137,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/vaerk-og-manifestation/",
         "teaser": null
       },{
-        "title": "Værkvisningssider",
+        "title": "Værkvisningssiden",
         "excerpt":"Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på en materialetype. Filtrerer man på ”Online lydbog”, da vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”. Fra DDB CMS er vi vant...","categories": ["Søgning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/vaerkvisningssiden/",
