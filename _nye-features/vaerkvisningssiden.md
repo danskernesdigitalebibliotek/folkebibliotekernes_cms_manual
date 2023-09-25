@@ -21,7 +21,8 @@ I Folkebibliotekernes CMS er der i stedet en **værkvisningsside**, der rummer a
 | Artikel fra Infomedia	| Læs artikel |
 | Artikel (online) | Se online |
 
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f737d72c-b376-466e-9f44-bca1030661b3)
+![image]()
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f737d72c-b376-466e-9f44-bca1030661b3" alt="Handleknappen for de forskellige materialetyper" caption="Handleknappen for de forskellige materialetyper" %} 
 
 ## Værkvisningssidens opbygning
 
