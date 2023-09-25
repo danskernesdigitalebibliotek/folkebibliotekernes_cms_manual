@@ -138,7 +138,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Værkvisningssider",
-        "excerpt":"Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på materialetypen ”Online lydbog”. Gør man det, vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”. Fra DDB CMS er vi vant til materialevisningssider...","categories": ["Søgning"],
+        "excerpt":"Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på en materialetype. Filtrerer man på ”Online lydbog”, da vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”. Fra DDB CMS er vi vant...","categories": ["Søgning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/vaerkvisningssiden/",
         "teaser": null
