@@ -114,7 +114,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Huskeliste",
-        "excerpt":"Hjerteikonet er symbol på Huskelisten, som brugerne vil kunne genkende fra andre websteder. Tilføj/slet fungerer helt simpelt: et klik – hvorved hjertet udfyldes og værket er sat på listen, klik igen og værket er slettet fra listen. Huskeliste i Folkebibliotekernes CMS bliver baseret på værker og ikke manifestationer (som i...","categories": ["Lånerstatus og brugerprofil"],
+        "excerpt":"Hjerteikonet Hjerteikonet er symbol på Huskelisten, som brugerne vil kunne genkende fra andre websteder. Tilføj/slet fungerer helt simpelt: et klik – hvorved hjertet udfyldes og værket er sat på listen, klik igen og værket er slettet fra listen. Hjerteikonet er symbol for huskeliste Hjerteikonet optræder på alle værker, i materialekomponent...","categories": ["Lånerstatus og brugerprofil"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/huskeliste/",
         "teaser": null
