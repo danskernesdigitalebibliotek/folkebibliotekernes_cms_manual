@@ -12,7 +12,7 @@ Hvis en bruger klikker på ”Reserver bog” øverst, oprettes automatisk paral
 
 **BEMÆRK:** Det er kun skønlitteratur der har automatisk parallelreservering. Er værket faglitterært, reserveres seneste udgave i den valgte materialetype. 
 \
-Er nyeste udgave udlånt, mens en ældre udgave er hjemme, gøres låneren opmærksom på dette.
+For faglitteratur gælder også at hvis nyeste udgave er udlånt, mens en ældre udgave er hjemme, gøres låneren opmærksom på dette.
 {: .notice--info}
 
 Ønsker brugeren at reservere en specifik udgave, er det også muligt. Så skal han blot benytte den Reserver-knap, der findes ud for den ønskede udgave under ”Udgaver”. 
