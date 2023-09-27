@@ -19,7 +19,7 @@ Hvis en bruger klikker på ”Reserver bog” øverst, oprettes automatisk paral
 Inden en reservering oprettes skal brugeren godkende sine valg.
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/9cc304d3-f356-491a-8cce-0982f605716f" alt="Ved pa" caption="Skønlitterært værk med to bog-udgaver" %} 
 
-Ved parallelreservering gøres brugeren også opmærksom på, at det er ”Første tilgængelige udgave” der er reserveret. 
+Ved parallelreservering gøres brugeren opmærksom på, at det er ”Første tilgængelige udgave” der er reserveret. 
 
 For faglitteratur oprettes ikke parallelreservering. I en situation hvor nyeste udgave er udlånt, mens en ældre udgave er hjemme, gøres låneren opmærksom på dette.
 
