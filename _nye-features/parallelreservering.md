@@ -1,5 +1,5 @@
 ---
-title: "Reserver-knappen og parallelreservering"
+title: "Reserveringsknappen"
 category: "Søgning"
 ---
 I FBS har det længe været en muligt at oprette parallelreserveringer – men det er først med Folkebibliotekernes CMS at det bliver muligt for slutbrugerne selv at oprette dem.
