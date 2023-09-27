@@ -21,7 +21,7 @@ Inden en reservering oprettes skal brugeren godkende sine valg.
 
 Ved parallelreservering gøres brugeren opmærksom på, at det er ”Første tilgængelige udgave” der er reserveret. 
 
-For faglitteratur oprettes ikke parallelreservering. I en situation hvor nyeste udgave er udlånt, mens en ældre udgave er hjemme, gøres låneren opmærksom på dette.
+For faglitteratur oprettes ikke parallelreservering mellem udgaver. I en situation hvor nyeste udgave er udlånt, mens en ældre udgave er hjemme, gøres låneren opmærksom på dette.
 
 
 
