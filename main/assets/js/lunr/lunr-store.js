@@ -120,7 +120,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Reserver-knappen og parallelreservering",
-        "excerpt":"I FBS har det længe været en muligt at oprette parallelreserveringer – men det er først med Folkebibliotekernes CMS at det bliver muligt for slutbrugerne selv at oprette dem. Her er en værkvisningsside for et skønlitterært værk, hvor der er flere manifestationer i den valgte materialetype (bog) – se under...","categories": ["Søgning"],
+        "excerpt":"I FBS har det længe været en muligt at oprette parallelreserveringer – men det er først med Folkebibliotekernes CMS at det bliver muligt for slutbrugerne selv at oprette dem. Her er en værkvisningsside for et skønlitterært værk, hvor der er to manifestationer i den valgte materialetype (bog). Skønlitterært værk med...","categories": ["Søgning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/parallelreservering/",
         "teaser": null
