@@ -26,5 +26,5 @@ For faglitteratur oprettes ikke parallelreservering mellem udgaver. I en situati
 Interessedato og afhentningsfilial kan ændres for den specifikke reservering. 
 
 E-mail kan også ændres. Det sker via et link til brugerens profilside. 
-Hvis biblioteket sender SMS beskeder, har brugeren også mulighed for at rette sit mobiltelefonnummer.
+Hvis biblioteket sender SMS beskeder er der også mulighed for at rette mobiltelefonnummer.
 
