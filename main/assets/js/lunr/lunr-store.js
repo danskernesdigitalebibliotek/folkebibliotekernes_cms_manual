@@ -131,6 +131,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/reserveringsoversigt/",
         "teaser": null
       },{
+        "title": "Strakslåns-notifikation",
+        "excerpt":"Mens man opretter en reservation kan man få en strakslåns-notifikation. [skærmbillede her] Du møder strakslåns-notifikationen, når der er reserveringskø på den materialetype, du er ved at reservere OG hvis biblioteket har et eller flere ikke-reserverbare eksemplarer hjemme. Mange biblioteker har ikke-reserverbare eksemplarer i form af “kviklån” eller “kortlån”. I det...","categories": ["Søgning"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/nye-features/strakslaansnotifikation/",
+        "teaser": null
+      },{
         "title": "Værk og manifestation",
         "excerpt":"Søgeresultater i Folkebibliotekernes CMS leveres fra brønden. Søgninger sendes afsted og resultater modtages via en ny-udviklet snitflade der hedder FBI-API. Den virker helt anderledes end den snitflade der bruges i DDB CMS. FBI-API skelner mellem værker og manifestationer. Det er begreber, der er hentet fra Dublin Core, som er en...","categories": ["Søgning"],
         "tags": [],
