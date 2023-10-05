@@ -16,12 +16,15 @@ Hvis en bruger klikker på ”Reserver bog” øverst, oprettes automatisk paral
 Ønsker brugeren at reservere en specifik udgave, er det også muligt. Så skal han blot benytte den Reserver-knap, der findes ud for den ønskede udgave under ”Udgaver”. 
 
 ## Godkend reservering
-Inden en reservering oprettes skal brugeren godkende sine valg.
+Til slut skal brugeren godkende sine valg.
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/9cc304d3-f356-491a-8cce-0982f605716f" alt="Ved pa" caption="Skønlitterært værk med to bog-udgaver" %} 
 
-Ved parallelreservering gøres brugeren opmærksom på, at det er ”Første tilgængelige udgave” der er reserveret. 
+For skønlitteratur, der er parallelreserveret, gøres brugeren opmærksom på, at det er ”Første tilgængelige udgave” der er reserveret. 
 
 For faglitteratur oprettes ikke parallelreservering mellem udgaver. I en situation hvor nyeste udgave er udlånt, mens en ældre udgave er hjemme, gøres låneren opmærksom på dette.
 
+Interessedato og afhentningsfilial kan ændres for den specifikke reservering. 
 
+E-mail kan også ændres. Det sker via et link til brugerens profilside. 
+Hvis biblioteket sender SMS beskeder, har brugeren også mulighed for at rette sit mobiltelefonnummer.
 
