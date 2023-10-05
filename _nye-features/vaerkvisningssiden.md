@@ -9,7 +9,7 @@ Fra DDB CMS er vi vant til materialevisningssider for hver udgave og hver materi
 
 I Folkebibliotekernes CMS er der i stedet en **værkvisningsside**, der rummer alle de materialetyper og udgaver, som et værk findes i.
 ## Handleknappen
-Én materialetype vil altid være valgt på værkvisningssiden, og handleknappen vil afspejle den valgte materialetype sådan her:
+Én materialetype vil altid være aktiv på værkvisningssiden, og handleknappen vil afspejle den valgte materialetype sådan her:
 
 | Materialetype| Handleknap |
 | -------- | ------- |
