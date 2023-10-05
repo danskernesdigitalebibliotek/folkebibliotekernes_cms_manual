@@ -125,7 +125,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/parallelreservering/",
         "teaser": null
       },{
-        "title": "Reserveringsoversigten",
+        "title": "Reserveringsoversigt",
         "excerpt":"Under menupunktet Reserveringer får man det samlede overblik over sine reserveringer. Siden er opdelt i: Klar til afhentning, Fysiske reserveringer og Digitale reserveringer med angivelse af antallet ved hver type. I forhold til DDB CMS er de to sider ‘Reserveringer klar’ og ’Reserveringer i kø’ blevet samlet under ét menupunkt....","categories": ["Lånerstatus og brugerprofil"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/reserveringsoversigt/",
