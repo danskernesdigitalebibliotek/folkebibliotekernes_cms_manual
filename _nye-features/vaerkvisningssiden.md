@@ -25,8 +25,12 @@ Her er en oversigt over materialetyper og deres handleknapper.
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f737d72c-b376-466e-9f44-bca1030661b3" alt="Handleknapperne for de forskellige materialetyper" caption="Handleknapperne for de forskellige materialetyper" %} 
 ## Værkvisningssidens opbygning
 På værkvisningssiden kan brugerne finde rigtig mange metadata om det valgte værk.
-Siden er organiseret sådan, at de vigtigste (titel, forfatter og tilgængelighed) vises øverst sammen med handleknappen.
+Siden er organiseret sådan, at de vigtigste (titel, forfatter og beholdning) vises øverst sammen med handleknappen.
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/45051913-2cef-48b8-9a45-cd6cba509102" alt="Øverste del af en værkvisningsside" caption="Øverste del af en værkvisningsside" %} 
+
+Klik på **Find på hylden** for at se hvor materialet er hjemme. Oversigten er blevet gjort mere overskuelig da man skal "udfolde" biblioteket før beholdningsdetaljerne vises.
+
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/bd651637-480d-4043-852c-0085c84087e3" alt="Beholdningsoversigt" caption="Beholdningsoversigt" %} 
 
 Nedenunder vises de næstvigtigste (beskrivelse, emnetal – hvis værket er faglitterært, serie – hvis værket er en del af en serie, emneord osv.
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/cbefaabe-ae05-4b87-8232-ea55636e9376" alt="Midterste del af en værkvisningsside" caption="Midterste del af en værkvisningsside" %} 
