@@ -1,5 +1,5 @@
 ---
-title: "Værkvisningssiden"
+title: "Værkvisningsside"
 category: "Søgning"
 ---
 
