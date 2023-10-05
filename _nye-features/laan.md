@@ -1,5 +1,5 @@
 ---
-title: "Lån"
+title: "Lånoversigt"
 category: "Lånerstatus og brugerprofil"
 ---
 ## Samlet overblik over alle lån ##
