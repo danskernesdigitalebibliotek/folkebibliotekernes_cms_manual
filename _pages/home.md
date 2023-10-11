@@ -18,7 +18,7 @@ feature_row:
   - image_path: /assets/images/new-features.png
     alt: "Nye features i Folkebibliotekernes CMS"
     title: "Nye features i Folkebibliotekernes CMS"
-    excerpt: "Hvad er nyt i forhold til DDB CMS? Her er de vigtigste punkter."
+    excerpt: "Få overblik over hvad er nyt i forhold til DDB CMS."
     url: "/nye-features/"
   - image_path: /assets/images/manual.jpg
     alt: "Manual til Folkebibliotekernes CMS"
