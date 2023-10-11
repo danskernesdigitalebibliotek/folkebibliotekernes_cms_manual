@@ -8,7 +8,7 @@ header:
     - label: "Tidsplan for Folkebibliotekernes CMS"
       url: "/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf"
 
-excerpt: "Informationsmaterialer og manual udbygges løbende her"
+
 feature_row:
   - image_path: /assets/images/overgang-til-folkebibliotekernes-cms.jpg
     alt: "Bliv klar til Folkebibliotekernes CMS"
