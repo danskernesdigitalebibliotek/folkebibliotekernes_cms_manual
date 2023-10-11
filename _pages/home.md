@@ -23,7 +23,7 @@ feature_row:
   - image_path: /assets/images/manual.jpg
     alt: "Manual til Folkebibliotekernes CMS"
     title: "Manual til Folkebibliotekernes CMS"
-    excerpt: "Alle indstillingsmuligheder beskrevet fra A - Å."
+    excerpt: "Alle indstillingsmuligheder beskrevet fra A - Å. (Udbygges løbende)"
     url: "/manual/"
   - image_path: /assets/images/content.jpg
     alt: "Guidelines til god webkommunikation"
