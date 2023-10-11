@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_image: /assets/images/splash.png
   actions:
-    - label: "Bliv klar til Folkebibliotekernes CMS"
+    - label: "Tidsplan for Folkebibliotekernes CMS"
       url: "/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms"
 
 excerpt: "Informationsmaterialer og manual udbygges løbende her"
