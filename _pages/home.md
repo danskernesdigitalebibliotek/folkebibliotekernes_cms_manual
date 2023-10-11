@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/splash.png
   actions:
     - label: "Tidsplan for Folkebibliotekernes CMS"
-      url: "/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms"
+      url: "/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf"
 
 excerpt: "Informationsmaterialer og manual udbygges løbende her"
 feature_row:
