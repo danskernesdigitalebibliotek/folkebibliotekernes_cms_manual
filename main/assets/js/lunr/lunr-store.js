@@ -101,19 +101,25 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/manual/mapp/",
         "teaser": null
       },{
+        "title": "Dashboard",
+        "excerpt":"[INDSÆT SKÆRMBILLEDE AF DASHBOARD] Dashboardet er en samlet indgang for brugeren til alt, hvad der vedrører brugerens lån, reserveringer, gebyrer etc. Brugeren kommer til Dashboardet ved at klikke på Dit overblik i brugermenuen. Indholdet på siden tilpasser sig brugeren, så denne kun får vist relevant indhold – fx Reserveringer klar...","categories": ["Lånerstatus og brugerprofil"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/nye-features/dashboard/",
+        "teaser": null
+      },{
         "title": "Nye features i Folkebibliotekernes CMS",
         "excerpt":"Folkebibliotekernes CMS har mange af de samme features som DDB CMS. Dem vil brugerne kunne genkende og tage i brug uden videre. Folkebibliotekernes CMS introducerer også nye features som kræver forklaring for både borgere og bibliotekernes medarbejdere. I denne sektion sætter vi spot på de nye features og begreber. Vi...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/",
         "teaser": null
       },{
-        "title": "Huskeliste",
+        "title": "Huskelisten",
         "excerpt":"Hjerteikonet Hjerteikonet er symbol på Huskelisten, som brugerne vil kunne genkende fra andre websteder. Tilføj/slet fungerer helt simpelt: et klik – hvorved hjertet udfyldes og værket er sat på listen, klik igen og værket er slettet fra listen. Hjerteikonet er symbol for huskeliste Hjerteikonet optræder på alle værker, i materialekomponent...","categories": ["Lånerstatus og brugerprofil"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/huskeliste/",
         "teaser": null
       },{
-        "title": "Lånoversigt",
+        "title": "Lånoversigten",
         "excerpt":"Samlet overblik over alle lån I Folkebibliotekernes CMS vises Overskredne lån, Lån og Digitale lån under menupunktet Lån. Derved samles alle lån på én side der giver et samlet overblik. Ny visningsmulighed - Lån grupperet efter afleveringsdato Oversigten over alle lån har to visningsmuligheder. Man kan få materialerne vist ét...","categories": ["Lånerstatus og brugerprofil"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/laan/",
@@ -125,7 +131,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/parallelreservering/",
         "teaser": null
       },{
-        "title": "Reserveringsoversigt",
+        "title": "Reserveringsoversigten",
         "excerpt":"Under menupunktet Reserveringer får man det samlede overblik over sine reserveringer. Siden er opdelt i: Klar til afhentning, Fysiske reserveringer og Digitale reserveringer med angivelse af antallet ved hver type. I forhold til DDB CMS er de to sider ‘Reserveringer klar’ og ’Reserveringer i kø’ blevet samlet under ét menupunkt....","categories": ["Lånerstatus og brugerprofil"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/reserveringsoversigt/",
