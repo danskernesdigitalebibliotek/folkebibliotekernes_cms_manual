@@ -1,5 +1,5 @@
 ---
-title: "Huskeliste"
+title: "Huskelisten"
 category: "Lånerstatus og brugerprofil"
 ---
 ## Hjerteikonet

@@ -8,6 +8,7 @@ header:
     - label: "Tidsplan for Folkebibliotekernes CMS"
       url: "/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf"
 
+excerpt: "Manual, tidsplan og information om Folkebibliotekernes CMS. Sitets vedligeholdes af DDF og udbygges løbende."
 
 feature_row:
   - image_path: /assets/images/overgang-til-folkebibliotekernes-cms.jpg
