@@ -15,7 +15,7 @@ feature_row:
     alt: "Bliv klar til Folkebibliotekernes CMS"
     title: "Bliv klar til Folkebibliotekernes CMS"
     excerpt: "Kom i gang med forberedelserne allerede nu."
-    url: "/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/"
+    url: "/bliv-klar-til-folkebibliotekernes-cms/"
   - image_path: /assets/images/new-features.png
     alt: "Nye features i Folkebibliotekernes CMS"
     title: "Nye features i Folkebibliotekernes CMS"

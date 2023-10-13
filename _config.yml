@@ -75,7 +75,7 @@ collections:
   nye-features:
     output: true
     permalink: /:collection/:path/
-  aktiviteter-ved-overgangen-til-folkebibliotekernes-cms:
+  bliv-klar-til-folkebibliotekernes-cms:
     output: true
     permalink: /:collection/:path/
   audience:
@@ -125,10 +125,10 @@ defaults:
       comments: false
       sidebar: true
        
-  # _aktiviteter-ved-overgangen-til-folkebibliotekernes-cms
+  # _bliv-klar-til-folkebibliotekernes-cms
   - scope:
       path: ""
-      type: aktiviteter-ved-overgangen-til-folkebibliotekernes-cms
+      type: bliv-klar-til-folkebibliotekernes-cms
     values:
       layout: single
       classes: wide
