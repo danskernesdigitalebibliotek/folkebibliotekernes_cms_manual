@@ -1,5 +1,5 @@
 ---
-title: "Aktiviteter ved overgangen til Folkebibliotekernes CMS"
+title: "Bliv klar til Folkebibliotekernes CMS"
 permalink: /bliv-klar-til-folkebibliotekernes-cms/
 ---
 Her kan I danne jer et overblik over de aktiviteter, I skal igennem ifm. overgangen til Folkebibliotekernes CMS. Tag stilling til indholdet på jeres nuværende website og skitsér en plan for det nye.

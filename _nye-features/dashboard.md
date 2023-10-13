@@ -1,6 +1,7 @@
 ---
 title: "Dashboard"
 category: "Lånerstatus og brugerprofil"
+topic: "X mangler billede"
 ---
 [INDSÆT SKÆRMBILLEDE AF DASHBOARD]
 
