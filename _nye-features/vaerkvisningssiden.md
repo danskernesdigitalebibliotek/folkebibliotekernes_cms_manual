@@ -10,7 +10,7 @@ Fra DDB CMS er vi vant til materialevisningssider for hver udgave og hver materi
 I Folkebibliotekernes CMS er der i stedet en **værkvisningsside**, der rummer alle de materialetyper og udgaver, som et værk findes i.
 ## Handleknappen
 På værkvisningssiden kan man skifte mellem de tilgængelige materialetyper. Én materialetype vil altid være den aktive, og handleknappen vil afspejle den valgte materialetype.
-{% include figure class="thirty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/deb9a210-26ff-46ed-a92d-c1ef38b0562f" alt="Skift mellem materialetyper på værkvisningssiden" caption="Skift mellem materialetyper på værkvisningssiden" %} 
+{% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/deb9a210-26ff-46ed-a92d-c1ef38b0562f" alt="Skift mellem materialetyper på værkvisningssiden" caption="Skift mellem materialetyper på værkvisningssiden" %} 
 
 
 Her er en oversigt over materialetyper og deres handleknapper.

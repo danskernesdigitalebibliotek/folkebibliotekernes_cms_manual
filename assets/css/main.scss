@@ -89,6 +89,17 @@ figure {
   flex-wrap: wrap;
   margin: 2em 0;
 
+  &.fourty {
+    > a,
+    > img,
+    figcaption {
+      width: 100%;
+      @include breakpoint($small) {
+        width: calc(40% - 0.5em);
+      }
+    }
+  }
+
   &.fifty {
     > a,
     > img,
