@@ -1,5 +1,5 @@
 ---
-title: "Opgave 3: Tilretning af logo til nyt design "
+title: "Opgave 2: Tilretning af logo til nyt design "
 category: "Overgangsaktiviter"
 ---
 ## Beskrivelse ##
