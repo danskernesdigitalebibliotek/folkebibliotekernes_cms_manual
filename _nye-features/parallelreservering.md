@@ -6,7 +6,7 @@ I FBS har det længe været en muligt at oprette parallelreserveringer – men d
 
 ## Opret reservering
 Her er en værkvisningsside for et skønlitterært værk, hvor der er to manifestationer i den valgte materialetype (bog).
-{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/e4c868f0-4836-44e4-98ad-4a54b78e20f9" alt="Skønlitterært værk med to bog-udgaver" caption="Skønlitterært værk med to bog-udgaver" %} 
+{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/e4c6c457-8e31-438d-9378-092b7422b021" alt="Skønlitterært værk med to bog-udgaver" caption="Skønlitterært værk med to bog-udgaver" %} 
 
 Hvis en bruger klikker på ”Reserver bog” øverst, oprettes automatisk parallelreservering på de to manifestationer i den valgte materialetype. Det betyder at den bog, der først bliver tilgængelig, uanset udgave, vil opfylde reserveringen. 
 
