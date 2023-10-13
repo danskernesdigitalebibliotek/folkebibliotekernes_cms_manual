@@ -90,7 +90,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Manual side 2",
-        "excerpt":"Manual side 2  ","categories": ["Categori 2"],
+        "excerpt":"Manual side 2   ","categories": ["Categori 2"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/manual/manpage2/",
         "teaser": null
