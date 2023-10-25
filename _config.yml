@@ -30,6 +30,11 @@ algolia:
   search_only_api_key: e8c5920789ad3f6d57903b6edc107af5
   powered_by: true
   nodes_to_index: 'h1,h2,h3,h4,h5,h6,p,blockquote,li'
+  files_to_exclude:
+   - _category/*
+   - _audience/*
+   - _topic/*
+
 
 github: [metadata]
 
