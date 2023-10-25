@@ -16,7 +16,7 @@ For at opnå dybde og bredde i navigationen kan der fra header og footer linkes 
 - **Sektionsside/navigationsside**: I bund og grund er de to typer det samme. En sektionsside er tænkt som en samling om et bestemt emne, hvor navigationssidens primære formål er at lede brugeren videre til det indhold, de søger, og fungerer derfor primært som en transportside. Begge typer af sider kan der linkes til fra headeren.  
 
 I Folkebibliotekernes CMS er der også:
-- **Indholdstyper** Det der før hed Nyheder er omdøbt til Artikler. Arrangementer og Sider findes stadig. Det samme gør Filialsider og Medarbejderoverigten.
+- **Indholdstyper** Det der før hed Nyheder er omdøbt til Artikler. Arrangementer og Sider findes stadig. Det samme gør Filialsider og Medarbejderoversigten.
 - **Listesider**: Som I nok kender det i dag, vil I kunne bruge listesider som fx nyhedslister og arrangementslister. 
 - **Komponenter**: På hjemmesiden kan I gøre brug af en lang række komponenter som slider, hero, banner, nyheds-komponent, materialekomponent. Komponenter er de byggeklodser som forside, sektionssider og navigationssider opbygges af.
   
@@ -24,9 +24,9 @@ I Folkebibliotekernes CMS er der også:
 
 
 {% capture designsystem %}
-**Designbureauet Dept** har lavet grunddesign til Folkebibliotekernes CMS. Dept har arbejdet med et særligt navigationsprincip, som det er værd at sætte sig ind i. Jeres nye hjemmeside bliver bedst hvis I benytter design systemet, som det er tiltænkt.
+**Designbureauet Dept** har lavet grunddesign til Folkebibliotekernes CMS. Dept har arbejdet med et særligt navigationsprincip, som det er værd at sætte sig ind i. Jeres nye hjemmeside bliver bedst, hvis I benytter design systemet, som det er tiltænkt.
 
-Med **navigation hub konceptet** navigerer man i dybden i stedet for bredden. Man har få menupunkter i hovedmenuen. Det giver en overskuelig header med få simple valg for brugeren. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Ved brug af navigationselementer på disse sider guides brugerne "step-by-step" gennem flere niveauer, indtil de finder det indhold de leder efter. Navigation hub princippet er velegnet til informationstunge hjemesider.
+Med **navigation hub konceptet** navigerer man i dybden i stedet for bredden. Man har få menupunkter i hovedmenuen. Det giver en overskuelig header med få simple valg for brugeren. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Via navigationselementer på disse sider guides brugerne "step-by-step" gennem flere niveauer, indtil de finder det indhold, de leder efter. Navigation hub princippet er velegnet til informationstunge hjemesider.
 
 Vi anbefaler jer at se designbureauets præsentation om informationsarkitektur. Målet er at ramme en struktur, der hverken er for bred (mange menupunkter) eller for dyb (mange niveauer =mange klik). [Navigationskoncept - DDF Præsentation](https://www.figma.com/proto/XLA0k1DTwIekLMLHOJ54ek/DDF-Pr%C3%A6sentation?page-id=7127%3A13870&node-id=7127-14034&viewport=1347%2C-1112%2C0.08&scaling=scale-down&starting-point-node-id=7127%3A17822&hide-ui=1) 
 {% endcapture %}
