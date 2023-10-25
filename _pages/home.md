@@ -5,23 +5,27 @@ layout: splash
 header:
   overlay_image: /assets/images/splash.png
   actions:
-    - label: "Nye features i Folkebibliotekernes CMS"
-      url: "/nye-features"
-    - label: "Bliv klar til Folkebibliotekernes CMS"
-      url: "/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms"
+    - label: "Tidsplan for Folkebibliotekernes CMS"
+      url: "/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf"
 
-excerpt: "Informationsmaterialer og manual udbygges løbende her"
+excerpt: "Manual, tidsplan og information om Folkebibliotekernes CMS. Sitets vedligeholdes af DDF og udbygges løbende."
+
 feature_row:
   - image_path: /assets/images/overgang-til-folkebibliotekernes-cms.jpg
-    alt: "Aktiviteter ved overgangen til Folkebibliotekernes CMS"
-    title: "Aktiviteter ved overgangen til Folkebibliotekernes CMS"
+    alt: "Bliv klar til Folkebibliotekernes CMS"
+    title: "Bliv klar til Folkebibliotekernes CMS"
     excerpt: "Kom i gang med forberedelserne allerede nu."
-    url: "/aktiviteter-ved-overgangen-til-folkebibliotekernes-cms/"
+    url: "/bliv-klar-til-folkebibliotekernes-cms/"
   - image_path: /assets/images/new-features.png
     alt: "Nye features i Folkebibliotekernes CMS"
     title: "Nye features i Folkebibliotekernes CMS"
-    excerpt: "Hvad er nyt i forhold til DDB CMS? Her er de vigtigste punkter."
+    excerpt: "Få overblik over hvad er nyt i forhold til DDB CMS."
     url: "/nye-features/"
+  - image_path: /assets/images/manual.jpg
+    alt: "Manual til Folkebibliotekernes CMS"
+    title: "Manual til Folkebibliotekernes CMS"
+    excerpt: "Alle indstillingsmuligheder beskrevet fra A - Å. (Udbygges løbende)"
+    url: "/manual/"
   - image_path: /assets/images/content.jpg
     alt: "Guidelines til god webkommunikation"
     title: "Guidelines til god webkommunikation"
