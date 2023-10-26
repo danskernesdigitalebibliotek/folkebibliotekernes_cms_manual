@@ -18,8 +18,8 @@ Opsæt forbindelse til bibliotekssystemet.
 
 |Feltnavn|Værdi|
 |FBS Service URL|`https://fbs-openplatform.dbc.dk`|
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ceef6cb8-d5fe-4598-abe5-1bf8e8b1fce1)
 
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ceef6cb8-d5fe-4598-abe5-1bf8e8b1fce1" alt="FBS Service URL" caption="FBS Service URL" %} 
 
 ## Adgangsplatformen (OpenID connect) ##
 Adgangsplatformen sikrer et ensartet login-flow for brugerne på tværs af bibliotekstjenester. Brugeren sendes til en en selvstændig loginside. Efter login sendes brugeren retur igen.
@@ -40,9 +40,8 @@ Single Sign-On gør, at brugerne kan skifte mellem bibliotekstjenester uden at s
 |Logout endpoint|`https://login.bib.dk/logout`|
 |Agency ID|Jeres biblioteksnummer (6 cifre - ingen DK foran)|
 
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2c2ae8ab-a365-49ca-afde-167ed05a612a)
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/552b7a3c-5ced-437c-9dbd-3f35e4ba3aca)
-
+{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2c2ae8ab-a365-49ca-afde-167ed05a612a" alt="Aktiver Adgangsplatformen - ikke andet" caption="Aktiver Adgangsplatformen - ikke andet" %} 
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/552b7a3c-5ced-437c-9dbd-3f35e4ba3aca" alt="Client ID og secret udleveres ved henvendelse til DBC" caption="Client ID og secret udleveres ved henvendelse til DBC" %} 
 
 
 ## Publizon ##
@@ -62,6 +61,6 @@ For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt.
 |Domæne|`responder.wt-safetag.com`|
 |ID|`476651662471322`|
 
-{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/51e0fc7c-edf7-4356-916d-ed2678ca50c9" alt="MAPP indstillinger" caption="MAPP indstillinger" %} 
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/51e0fc7c-edf7-4356-916d-ed2678ca50c9" alt="MAPP indstillinger" caption="MAPP indstillinger" %} 
 
 Det er hensigtsmæssigt at konfigurere MAPP-indstillingerne før hjemmesiden sættes i drift, så det er muligt at se brugerstatistik fra første dag hjemmesiden tages i brug.

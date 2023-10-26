@@ -7,11 +7,9 @@ audience:
 ## Oversæt tekst i grænsefladen ##
 De fleste tekster i grænsefladen i Folkebibliotekernes CMS kan oversættes ved at bruge den indbyggede oversættelsesfunktion.
 
-**Sti/URL**
+**Klik sti**: Indstillinger > Region og sprog > Oversættelse af brugergrænseflade
 \
-Klik-sti: Indstillinger > Region og sprog > Oversættelse af brugergrænseflade
-\
-URL: `admin/config/regional/translate`
+**URL**: `admin/config/regional/translate`
 {: .notice--primary}
 
 - Fremsøg den tekststreng du ønsker at oversætte. Bemærk at du får forskellige søgeresultater afhængig af, om du skriver store eller små bogstaver i søgningen.
