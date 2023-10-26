@@ -10,11 +10,9 @@ Et billede siger mere end 1000 ord. Det ordsprog kender de fleste af os efterhå
 Måske har I allerede i jeres nuværende hjemmeside et stort billedarkiv. For at sikre at I har de billeder I skal bruge til at opbygge jeres hjemmeside, så anbefaler vi jer at tage stilling til følgende: 
 
 - Er der nogle billeder fra den gamle hjemmeside, som I gerne vil have med over på den nye fx særlige billeder som I har fået lavet tidligere til læsekredse, biblioteker osv.? Lav en mappe med de billeder, så I har dem til opbygningen af sitet.
-   
-{% capture download %}   
+     
 **TIP**: Man kan downloade billeder fra DDB CMS i samme kvalitet som de oprindelig blev uploadet i. [Følg vejledningen her for at hente billeder fra DDB CMS i bedst mulig kvalitet](https://platform.dandigbib.org/projects/ddb-cms/wiki/Eksporter_billeder)
-{% endcapture %}
-<div class="notice--info">{{ download | markdownify }}</div>
+{: .notice--info}
 
 - En ny start kunne også være at skabe et nyt visuelt udtryk. Skal alle jeres billeder være i sort/hvid eller er der nogle nye billeder, der skal tages fx fra biblioteket? 
 
