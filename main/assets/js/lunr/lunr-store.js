@@ -90,7 +90,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Eksterne systemer",
-        "excerpt":"Folkebibliotekernes CMS har brug for at kommunikere med flere eksterne systemer. Forbindelsen til dem skal være sat korrekt op. FBS Opsæt forbindelse til bibliotekssystemet. Klik sti: Indstillinger &gt; Web-services &gt; FBS indstillinger URL: admin/config/services/fbs Feltnavn Værdi FBS Service URL https://fbs-openplatform.dbc.dk Adgangsplatformen (OpenID connect) Adgangsplatformen sikrer et ensartet login-flow for brugerne...","categories": ["Konfiguration"],
+        "excerpt":"Folkebibliotekernes CMS har brug for at kommunikere med flere eksterne systemer. Forbindelsen til dem skal være sat korrekt op. FBS Opsæt forbindelse til bibliotekssystemet. Klik sti: Indstillinger &gt; Web-services &gt; FBS indstillinger URL: admin/config/services/fbs |Feltnavn|Værdi| |FBS Service URL|https://fbs-openplatform.dbc.dk| Adgangsplatformen (OpenID connect) Adgangsplatformen sikrer et ensartet login-flow for brugerne på tværs...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/manual/eksterne-systemer/",
         "teaser": null
