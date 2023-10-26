@@ -65,6 +65,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/category/integrationer/",
         "teaser": null
       },{
+        "title": "Konfiguration",
+        "excerpt":"Konfiguration  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/category/konfiguration/",
+        "teaser": null
+      },{
         "title": "Lånerstatus og brugerprofil",
         "excerpt":"Lånerstatus og brugerprofil  ","categories": [],
         "tags": [],
@@ -83,22 +89,22 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/category/soegning/",
         "teaser": null
       },{
+        "title": "Eksterne systemer",
+        "excerpt":"Folkebibliotekernes CMS har brug for at kommunikere med flere eksterne systemer. Forbindelsen til dem skal være sat korrekt op. FBS Adgangsplatformen (OpenID connect) Publizon RSS Feed til Biblioteket App’en Mapp Intelligence Gennem Det Digitale Folkebibliotek har bibliotekerne adgang til web- og appstatistikløsningen MAPP, som giver indblik i brugen af bibliotekernes...","categories": ["Konfiguration"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/manual/eksterne-systemer/",
+        "teaser": null
+      },{
         "title": "CMS Manual",
         "excerpt":"I løbet af efteråret udbygges manual til Folkebibliotekernes CMS på disse sider. Vi har valgt en åben proces, hvor bibliotekerne kan se manual-siderne, efterhånden som de bliver skrevet.  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/manual/",
         "teaser": null
       },{
-        "title": "Manual side 2",
-        "excerpt":"Manual side 2   ","categories": ["Categori 2"],
+        "title": "Oversættelser",
+        "excerpt":"Oversæt tekst i grænsefladen De fleste tekster i grænsefladen i Folkebibliotekernes CMS kan oversættes ved at bruge den indbyggede oversættelsesfunktion. Sti/URL Klik-sti: Indstillinger &gt; Region og sprog &gt; Oversættelse af brugergrænseflade URL: admin/config/regional/translate Fremsøg den tekststreng du ønsker at oversætte. Bemærk at du får forskellige søgeresultater afhængig af, om du...","categories": ["Konfiguration"],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/manual/manpage2/",
-        "teaser": null
-      },{
-        "title": "Mapp Intelligence",
-        "excerpt":"Gennem Det Digitale Folkebibliotek har bibliotekerne adgang til web- og appstatistikløsningen MAPP, som giver indblik i brugen af bibliotekernes hjemmesider og appen Biblioteket. Læs mere om MAPP og find link til MAPP-login For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt. Sitet fødes med de...","categories": ["Integrationer"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/manual/mapp/",
+        "url": "/folkebibliotekernes_cms_manual/main/manual/oversaettelser/",
         "teaser": null
       },{
         "title": "Dashboard",
@@ -155,10 +161,28 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/vaerkvisningssiden/",
         "teaser": null
       },{
+        "title": "Adgangsplatformen",
+        "excerpt":"Adgangsplatformen  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/topic/adgangsplatformen/",
+        "teaser": null
+      },{
         "title": "Betaling",
         "excerpt":"Betaling  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/topic/betaling/",
+        "teaser": null
+      },{
+        "title": "Biblioteket App'en",
+        "excerpt":"Biblioteket App’en  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/topic/biblioteket-app/",
+        "teaser": null
+      },{
+        "title": "FBS",
+        "excerpt":"FBS  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/topic/fbs/",
         "teaser": null
       },{
         "title": "Formidling",
@@ -171,6 +195,18 @@ var store = [{
         "excerpt":"Grundkonfiguration  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/topic/grundkonfiguration/",
+        "teaser": null
+      },{
+        "title": "Oversættelser",
+        "excerpt":"Oversættelser  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/topic/overs%C3%A6ttelser/",
+        "teaser": null
+      },{
+        "title": "Publizon",
+        "excerpt":"Publizon  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/topic/publizon/",
         "teaser": null
       },{
         "title": "Webstatistik",
