@@ -90,7 +90,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Eksterne systemer",
-        "excerpt":"Folkebibliotekernes CMS har brug for at kommunikere med flere eksterne systemer. Forbindelsen til dem skal være sat korrekt op. FBS Opsæt forbindelse til bibliotekssystemet. Klik sti: Indstillinger &gt; Web-services &gt; FBS indstillinger URL: admin/config/services/fbs |Feltnavn|Værdi| |FBS Service URL|https://fbs-openplatform.dbc.dk| Adgangsplatformen (OpenID connect) Adgangsplatformen sikrer et ensartet login-flow for brugerne på tværs...","categories": ["Konfiguration"],
+        "excerpt":"Folkebibliotekernes CMS har brug for at kommunikere med flere eksterne systemer. Forbindelsen til dem skal være sat korrekt op. FBS Opsæt forbindelse til bibliotekssystemet. Klik sti: Indstillinger &gt; Web-services &gt; FBS indstillinger URL: admin/config/services/fbs Feltnavn Værdi FBS Service URL https://fbs-openplatform.dbc.dk FBS Service URL Adgangsplatformen (OpenID connect) Adgangsplatformen sikrer et ensartet...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/manual/eksterne-systemer/",
         "teaser": null
@@ -102,7 +102,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Oversættelser",
-        "excerpt":"Oversæt tekst i grænsefladen De fleste tekster i grænsefladen i Folkebibliotekernes CMS kan oversættes ved at bruge den indbyggede oversættelsesfunktion. Sti/URL Klik-sti: Indstillinger &gt; Region og sprog &gt; Oversættelse af brugergrænseflade URL: admin/config/regional/translate Fremsøg den tekststreng du ønsker at oversætte. Bemærk at du får forskellige søgeresultater afhængig af, om du...","categories": ["Konfiguration"],
+        "excerpt":"Oversæt tekst i grænsefladen De fleste tekster i grænsefladen i Folkebibliotekernes CMS kan oversættes ved at bruge den indbyggede oversættelsesfunktion. Klik sti: Indstillinger &gt; Region og sprog &gt; Oversættelse af brugergrænseflade URL: admin/config/regional/translate Fremsøg den tekststreng du ønsker at oversætte. Bemærk at du får forskellige søgeresultater afhængig af, om du...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/manual/oversaettelser/",
         "teaser": null
