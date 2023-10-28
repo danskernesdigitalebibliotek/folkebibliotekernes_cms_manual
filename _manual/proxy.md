@@ -26,7 +26,7 @@ Den nationale proxyløsning er bygget på ezproxy. Den drives af DBC for DDF.
 
 
 ## Vejledning ##
-For at hjemmesiden korrekt omdirigerer links til proxyen skal proxyen opsættes. Når den er opsat korrekt vil links til eressourcer i søgeresultater automatisk blive omskrevet, så de peger på bibliotekets fjernadgangsproxy.
+Når proxyen er opsat korrekt vil links til eressourcer i søgeresultater automatisk blive omskrevet, så de peger på bibliotekets fjernadgangsproxy.
 
 Bemærk! Links på e-materiale siderne omskrives ikke automatisk. I skal huske at bruge URL'er med "proxy prefix", når I linker til eressourcer rundt omkring på sitet - ikke mindst e-materiale-siderne.
 
