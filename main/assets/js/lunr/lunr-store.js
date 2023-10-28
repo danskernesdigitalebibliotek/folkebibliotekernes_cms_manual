@@ -107,6 +107,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/manual/oversaettelser/",
         "teaser": null
       },{
+        "title": "Fjernadgang med proxy",
+        "excerpt":"Baggrund og virkemåde Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til. Udbyderne af elektroniske ressourcer tilbyder som oftest kun adgang fra bestemte IP-adresser, f.eks. dem fra biblioternes fysiske adresser, men udbyderne kender ikke bibliotekets lånere,...","categories": ["Konfiguration"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/manual/proxy/",
+        "teaser": null
+      },{
         "title": "Dashboard",
         "excerpt":"[INDSÆT SKÆRMBILLEDE AF DASHBOARD] Dashboardet er en samlet indgang for brugeren til alt, hvad der vedrører brugerens lån, reserveringer, gebyrer etc. Brugeren kommer til Dashboardet ved at klikke på Dit overblik i brugermenuen. Indholdet på siden tilpasser sig brugeren, så denne kun får vist relevant indhold – fx Reserveringer klar...","categories": ["Lånerstatus og brugerprofil"],
         "tags": [],
