@@ -17,6 +17,7 @@ Opsæt forbindelse til bibliotekssystemet.
 {: .notice--primary}
 
 |Feltnavn|Værdi|
+|---|---|
 |FBS Service URL|`https://fbs-openplatform.dbc.dk`|
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ceef6cb8-d5fe-4598-abe5-1bf8e8b1fce1" alt="FBS Service URL" caption="FBS Service URL" %} 
@@ -32,6 +33,7 @@ Single Sign-On gør, at brugerne kan skifte mellem bibliotekstjenester uden at s
 {: .notice--primary}
 
 |Feltnavn|Værdi|
+|---|---|
 |Enabled OpenID Connect clients|`Adgangsplatformen` (kun det)|
 |Klient ID|Oplyses ved henvendelse til DBC via https://kundeservice.dbc.dk/|
 |Client secret|Oplyses ved henvendelse til DBC via https://kundeservice.dbc.dk/|
@@ -58,6 +60,7 @@ For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt.
 {: .notice--primary}
 
 |Feltnavn|Værdi|
+|---|---|
 |Domæne|`responder.wt-safetag.com`|
 |ID|`476651662471322`|
 
