@@ -1,6 +1,7 @@
 ---
 title: "Fjernadgang med proxy"
 category: "Konfiguration"
+comment: "Copied from DDB CMS tutorial last updated 20/12-22"
 ---
 ## Baggrund og virkemåde ##
 Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til.
