@@ -29,7 +29,7 @@
 
 
 
-  <meta property="article:published_time" content="2023-11-01T16:35:15+00:00">
+  <meta property="article:published_time" content="2023-11-01T16:39:48+00:00">
 
 
 
@@ -281,7 +281,7 @@
 
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> Indhold i artiklen</h4></header>
-              <ul class="toc__menu"><li><a href="#baggrund-og-virkemåde">Baggrund og virkemåde</a></li><li><a href="#url-omskrivning">URL omskrivning</a></li><li><a href="#proxy-indstillinger">Proxy indstillinger</a></li><li><a href="#eressourcer-der-kræver-særlig-opsætning">Eressourcer der kræver særlig opsætning</a><ul><li><a href="#proquest-ebook-central-ebrary">Proquest Ebook Central (Ebrary)</a></li></ul></li></ul>
+              <ul class="toc__menu"><li><a href="#baggrund-og-virkemåde">Baggrund og virkemåde</a></li><li><a href="#url-omskrivning">URL omskrivning</a></li><li><a href="#proxy-indstillinger">Proxy indstillinger</a></li><li><a href="#elektroniske-ressourcer-der-kræver-særlig-opsætning">Elektroniske ressourcer der kræver særlig opsætning</a><ul><li><a href="#proquest-ebook-central-ebrary">Proquest Ebook Central (Ebrary)</a></li><li><a href="#gale">Gale</a></li><li><a href="#mango-languages">Mango languages</a></li></ul></li></ul>
 
             </nav>
           </aside>
@@ -342,7 +342,7 @@
   </tbody>
 </table>
 
-<h2 id="eressourcer-der-kræver-særlig-opsætning">Eressourcer der kræver særlig opsætning</h2>
+<h2 id="elektroniske-ressourcer-der-kræver-særlig-opsætning">Elektroniske ressourcer der kræver særlig opsætning</h2>
 <h3 id="proquest-ebook-central-ebrary">Proquest Ebook Central (Ebrary)</h3>
 <p>Proquest Ebook Central - før Ebrary - kræver særlig opsætning, da der i url’en indgår et biblioteksspecifikt ID.
 Biblioteker, som alene skal have adgang til “Ebook Central Plus” kan nøjes med at udfylde “Værtsnavn”:</p>
@@ -390,6 +390,26 @@ Biblioteker, som alene skal have adgang til “Ebook Central Plus” kan nøjes 
   <li>tbib-ebooks</li>
   <li>viborg-ebooks</li>
 </ul>
+
+<h3 id="gale">Gale</h3>
+<p>Gale kræver særlig opsætning, da der i url’en indgår en parameter med et biblioteksspecifikt ID - et Gale ID:</p>
+
+<p><strong>Værtsnavn:</strong> link.galegroup.com
+<br />
+<strong>Regulært udtryk:</strong> /[PROVIDERSLIBRARYID]/
+<br />
+<strong>Replacement:</strong> mygaleid</p>
+
+<p><strong>Værtsnavn:</strong> link.gale.com
+<br />
+<strong>Regulært udtryk:</strong> /[PROVIDERSLIBRARYID]/
+<br />
+<strong>Replacement:</strong> mygaleid</p>
+
+<p>(Teksten “mygaleid” i ovenstående eksempel erstattes med bibliotekets Gale ID. Find det i ERMS)</p>
+
+<h3 id="mango-languages">Mango languages</h3>
+<p>Mango languages skal håndteres på samme måde som Gale. Men bibliotekets identifier kan godt hedde noget andet end for Gale. Se efter den konkrete værdi i ERMS</p>
 
 
         
