@@ -108,7 +108,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Fjernadgang med proxy",
-        "excerpt":"Baggrund og virkemåde Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til. Udbyderne af elektroniske ressourcer tilbyder som oftest kun adgang fra bestemte IP-adresser, f.eks. dem fra biblioternes fysiske adresser, men udbyderne kender ikke bibliotekets lånere,...","categories": ["Konfiguration"],
+        "excerpt":"Baggrund og virkemåde Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til. Udbyderne af elektroniske ressourcer tilbyder som regel kun adgang fra bestemte IP-adresser, f.eks. dem på biblioternes fysiske adresser. Men udbyderne kender ikke bibliotekets lånere...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/manual/proxy/",
         "teaser": null
