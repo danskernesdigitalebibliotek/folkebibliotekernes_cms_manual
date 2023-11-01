@@ -45,4 +45,51 @@ Når proxyen er opsat korrekt vil links til eressourcer i søgeresultater automa
 **TIP**:  Links på e-materiale siderne omskrives ikke automatisk. I skal huske at bruge URL'er med "proxy prefix", når I linker til eressourcer rundt omkring på sitet - ikke mindst e-materiale-siderne.
 {: .notice--info}
 
+## Eressourcer der kræver særlig opsætning ##
+### Proquest Ebook Central (Ebrary) ###
+Proquest Ebook Central - før Ebrary - kræver særlig opsætning, da der i url'en indgår et biblioteksspecifikt ID.
+Biblioteker, som alene skal have adgang til "Ebook Central Plus" kan nøjes med at udfylde "Værtsnavn":
+
+**Værtsnavn:** ebookcentral.proquest.com
+\
+**Regulært udtryk:** /\[PROVIDERSLIBRARYID\]/
+\
+**Replacement:** myproquestebooksid
+
+Teksten "myproquestebooksid" i ovenstående eksempel erstattes med bibliotekets ID.
+
+En formentlig ukomplet liste over bibliotekernes ID'er findes nedenfor:
+
+- arhus-ebooks
+- fredrikshavn-ebooks
+- vordingborg-ebooks
+- aabenraa-ebooks
+- billundbib-ebooks
+- esbjerg-ebooks
+- fmbib-ebooks
+- faxe-ebooks
+- fredensborgbibliotekerne-ebooks
+- fredericiabib-ebooks
+- frederikssunddk-ebooks
+- gladsaxebib-ebooks
+- glostrup-ebooks
+- halsnaes-ebooks
+- horsholm-ebooks
+- herlev-ebooks
+- herning-ebooks
+- horsens-ebooks
+- koegebib-ebooks
+- kolding-ebooks
+- lollandbib-ebooks
+- lyngbybib-ebooks
+- randers-ebooks
+- roskilde-ebooks
+- rudersdal-ebooks
+- silkeborg-ebooks
+- slagelsedk-ebooks
+- svendborgbib-ebooks
+- taarnby-ebooks
+- tbib-ebooks
+- viborg-ebooks
+
 
