@@ -8,11 +8,13 @@ Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til ele
 
 Udbyderne af elektroniske ressourcer tilbyder som oftest kun adgang fra bestemte IP-adresser, f.eks. dem fra biblioternes fysiske adresser, men udbyderne kender ikke bibliotekets lånere, og det er her, fjernadgangsproxyen kommer ind i billedet. Den kan optræde som "mellemmand" mellem bibliotekslånere og udbyder, så udbyderne ser trafikken komme fra en bestemt IP-adresse, nemlig proxyens, mens proxyen sikrer at det kun bibliotekets brugere, typisk kommunens borgere, som har adgang. For at det kan fungere er det nødvendigt at omskrive links til de elektroniske ressourcer, så brugerne kommunikerer med proxyen i stedet for direkte med udbyderne.
 
+## URL omskrivning ##
+
 Et link, der uden fjernadgang ser således ud:
 ```
 https://www.pressreader.com
 ```
-kan i stedet komme til at se således ud
+Et link omskrevet med fjernadgang ser således ud:
 
 ```
 https://bib123.bibbaser.dk/login?url=https://www.pressreader.com
@@ -43,7 +45,4 @@ Når proxyen er opsat korrekt vil links til eressourcer i søgeresultater automa
 **TIP**:  Links på e-materiale siderne omskrives ikke automatisk. I skal huske at bruge URL'er med "proxy prefix", når I linker til eressourcer rundt omkring på sitet - ikke mindst e-materiale-siderne.
 {: .notice--info}
 
-
-Denne vejledning handler primært om opsætningen af "Proxy Settings" under "Indstillinger" i DDB CMS (Sti: /admin/config/ting/proxy). 
-"Proxy Settings" benyttes i DDB CMS til at tilpasse url'er i brøndkilder, så biblioteksspecifikke oplysninger bliver indsat, og links kommer til at pege på bibliotekets fjernadgangsproxy.
 
