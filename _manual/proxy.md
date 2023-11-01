@@ -46,7 +46,7 @@ Når proxyen er opsat korrekt vil links til eressourcer i søgeresultater automa
 |Hostnames / Værtsnavne|Her skrives de hostnavne/værtsnavne, som skal genkendes og omskrives til at pege mod fjernadgangsproxyen. Værtsnavnene kan normalt findes i ERMS. Er der ikke nogen anden dokumentation på hvilket værtsnavn, man skal angive, kan man aflure navnet ved at holde musecursoren over "Online"-linket på en post fra den pågældende brøndkilde|
 |Replacement|Visse kilder kræver yderligere opsætning, da url'erne skal omskrives yderligere, f.eks. med en biblioteksspecifik identifier/kode. Sektionen "Replacement" er en slags søg- og erstat-funktion. I "Regulært udtryk" beskrives hvad man leder efter. Bemærk at der ikke er tale om en almindelig tekst, men et regulært udtryk - se evt. http://en.wikipedia.org/wiki/Regular_expression . Det betyder blandt andet at man starter og slutter med skråstreg - "/", og at visse tegn skal forsynes med et en foranstillet backslash "\\"."Replacement" er en næsten normal tekststreng, idet man dog kan bruge $1, $2 osv. til at angive delstrenge som er blevet matchet (captured) i det regulære udtryk ovenfor. Lyder det for indviklet, så lev med at låne andres eksempler ;-)|
 
-## Eressourcer der kræver særlig opsætning ##
+## Elektroniske ressourcer der kræver særlig opsætning ##
 ### Proquest Ebook Central (Ebrary) ###
 Proquest Ebook Central - før Ebrary - kræver særlig opsætning, da der i url'en indgår et biblioteksspecifikt ID.
 Biblioteker, som alene skal have adgang til "Ebook Central Plus" kan nøjes med at udfylde "Værtsnavn":
@@ -92,5 +92,25 @@ En formentlig ukomplet liste over bibliotekernes ID'er findes nedenfor:
 - taarnby-ebooks
 - tbib-ebooks
 - viborg-ebooks
+
+### Gale ###
+Gale kræver særlig opsætning, da der i url'en indgår en parameter med et biblioteksspecifikt ID - et Gale ID:
+
+**Værtsnavn:** link.galegroup.com
+\
+**Regulært udtryk:** /\[PROVIDERSLIBRARYID\]/
+\
+**Replacement:** mygaleid
+
+**Værtsnavn:** link.gale.com
+\
+**Regulært udtryk:** /\[PROVIDERSLIBRARYID\]/
+\
+**Replacement:** mygaleid
+
+(Teksten "mygaleid" i ovenstående eksempel erstattes med bibliotekets Gale ID. Find det i ERMS)
+
+### Mango languages ###
+Mango languages skal håndteres på samme måde som Gale. Men bibliotekets identifier kan godt hedde noget andet end for Gale. Se efter den konkrete værdi i ERMS
 
 
