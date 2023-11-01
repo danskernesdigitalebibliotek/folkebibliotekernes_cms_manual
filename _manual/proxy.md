@@ -26,10 +26,23 @@ Proxyen omskriver automatisk alle links på websiderne fra udbyderen, så de peg
 Den nationale proxyløsning er bygget på ezproxy. Den drives af DBC for DDF.
 
 
-## Vejledning ##
+## Proxy indstillinger ##
 Når proxyen er opsat korrekt vil links til eressourcer i søgeresultater automatisk blive omskrevet, så de peger på bibliotekets fjernadgangsproxy.
 
-Bemærk! Links på e-materiale siderne omskrives ikke automatisk. I skal huske at bruge URL'er med "proxy prefix", når I linker til eressourcer rundt omkring på sitet - ikke mindst e-materiale-siderne.
+**Klik sti:** Indstillinger > Web-services > Opsæt proxy URL'er
+\
+**URL:** `admin/config/services/dpl-url-proxy`
+{: .notice--primary}
+
+|Feltnavn|Værdi|
+|---|---|
+|Præfiks til proxy-serverens URL|Udfyldes med `https://bib123.bibbaser.dk/login?` BEMÆRK! I skal udskifte `123` med jeres kommunenummer - svarende til ciffer 2-4 i biblioteksnummeret|
+|Hostnames / Værtsnavne|Her skrives de hostnavne/værtsnavne, som skal genkendes og omskrives til at pege mod fjernadgangsproxyen. Værtsnavnene kan normalt findes i ERMS. Er der ikke nogen anden dokumentation på hvilket værtsnavn, man skal angive, kan man aflure navnet ved at holde musecursoren over "Online"-linket på en post fra den pågældende brøndkilde|
+|Replacement|Visse kilder kræver yderligere opsætning, da url'erne skal omskrives yderligere, f.eks. med en biblioteksspecifik identifier/kode. Sektionen "Replacement" er en slags søg- og erstat-funktion. I "Regulært udtryk" beskrives hvad man leder efter. Bemærk at der ikke er tale om en almindelig tekst, men et regulært udtryk - se evt. http://en.wikipedia.org/wiki/Regular_expression . Det betyder blandt andet at man starter og slutter med skråstreg - "/", og at visse tegn skal forsynes med et en foranstillet backslash "\\"."Replacement" er en næsten normal tekststreng, idet man dog kan bruge $1, $2 osv. til at angive delstrenge som er blevet matchet (captured) i det regulære udtryk ovenfor. Lyder det for indviklet, så lev med at låne andres eksempler ;-)|
+
+**TIP**:  Links på e-materiale siderne omskrives ikke automatisk. I skal huske at bruge URL'er med "proxy prefix", når I linker til eressourcer rundt omkring på sitet - ikke mindst e-materiale-siderne.
+{: .notice--info}
+
 
 Denne vejledning handler primært om opsætningen af "Proxy Settings" under "Indstillinger" i DDB CMS (Sti: /admin/config/ting/proxy). 
 "Proxy Settings" benyttes i DDB CMS til at tilpasse url'er i brøndkilder, så biblioteksspecifikke oplysninger bliver indsat, og links kommer til at pege på bibliotekets fjernadgangsproxy.
