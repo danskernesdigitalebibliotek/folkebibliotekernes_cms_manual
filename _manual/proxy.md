@@ -6,7 +6,9 @@ comment: "Copied from DDB CMS tutorial last updated 20/12-22"
 ## Baggrund og virkemåde ##
 Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til.
 
-Udbyderne af elektroniske ressourcer tilbyder som oftest kun adgang fra bestemte IP-adresser, f.eks. dem fra biblioternes fysiske adresser, men udbyderne kender ikke bibliotekets lånere, og det er her, fjernadgangsproxyen kommer ind i billedet. Den kan optræde som "mellemmand" mellem bibliotekslånere og udbyder, så udbyderne ser trafikken komme fra en bestemt IP-adresse, nemlig proxyens, mens proxyen sikrer at det kun bibliotekets brugere, typisk kommunens borgere, som har adgang. For at det kan fungere er det nødvendigt at omskrive links til de elektroniske ressourcer, så brugerne kommunikerer med proxyen i stedet for direkte med udbyderne.
+Udbyderne af elektroniske ressourcer tilbyder som regel kun adgang fra bestemte IP-adresser, f.eks. dem på biblioternes fysiske adresser. Men udbyderne kender ikke bibliotekets lånere og deres IP-adresser, og det er her at fjernadgangsproxyen kommer ind i billedet. Proxyen kan optræde som "mellemmand" mellem bibliotekslånere og udbyder. 
+
+Proxyen får det til at se ud som om at al trafikken fra biblioteksbrugerne kommer fra én bestemt IP-adresse, nemlig proxyens. Den sikrer også at det kun bibliotekets brugere, typisk kommunens borgere, som har adgang. For at det kan fungere er det nødvendigt at omskrive links til de elektroniske ressourcer, så brugerne kommunikerer med proxyen i stedet for direkte med udbyderne.
 
 ## URL omskrivning ##
 
