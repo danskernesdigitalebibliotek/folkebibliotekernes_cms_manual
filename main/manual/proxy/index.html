@@ -29,7 +29,7 @@
 
 
 
-  <meta property="article:published_time" content="2023-10-28T10:43:39+00:00">
+  <meta property="article:published_time" content="2023-11-01T15:56:20+00:00">
 
 
 
@@ -281,7 +281,7 @@
 
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> Indhold i artiklen</h4></header>
-              <ul class="toc__menu"><li><a href="#baggrund-og-virkemåde">Baggrund og virkemåde</a></li><li><a href="#vejledning">Vejledning</a></li></ul>
+              <ul class="toc__menu"><li><a href="#baggrund-og-virkemåde">Baggrund og virkemåde</a></li><li><a href="#proxy-indstillinger">Proxy indstillinger</a></li></ul>
 
             </nav>
           </aside>
@@ -306,10 +306,37 @@
 
 <p>Den nationale proxyløsning er bygget på ezproxy. Den drives af DBC for DDF.</p>
 
-<h2 id="vejledning">Vejledning</h2>
+<h2 id="proxy-indstillinger">Proxy indstillinger</h2>
 <p>Når proxyen er opsat korrekt vil links til eressourcer i søgeresultater automatisk blive omskrevet, så de peger på bibliotekets fjernadgangsproxy.</p>
 
-<p>Bemærk! Links på e-materiale siderne omskrives ikke automatisk. I skal huske at bruge URL’er med “proxy prefix”, når I linker til eressourcer rundt omkring på sitet - ikke mindst e-materiale-siderne.</p>
+<p class="notice--primary"><strong>Klik sti:</strong> Indstillinger &gt; Web-services &gt; Opsæt proxy URL’er
+<br />
+<strong>URL:</strong> <code class="language-plaintext highlighter-rouge">admin/config/services/dpl-url-proxy</code></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Feltnavn</th>
+      <th>Værdi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Præfiks til proxy-serverens URL</td>
+      <td>Udfyldes med <code class="language-plaintext highlighter-rouge">https://bib123.bibbaser.dk/login?</code> BEMÆRK! I skal udskifte <code class="language-plaintext highlighter-rouge">123</code> med jeres kommunenummer - svarende til ciffer 2-4 i biblioteksnummeret</td>
+    </tr>
+    <tr>
+      <td>Hostnames / Værtsnavne</td>
+      <td>Her skrives de hostnavne/værtsnavne, som skal genkendes og omskrives til at pege mod fjernadgangsproxyen. Værtsnavnene kan normalt findes i ERMS. Er der ikke nogen anden dokumentation på hvilket værtsnavn, man skal angive, kan man aflure navnet ved at holde musecursoren over “Online”-linket på en post fra den pågældende brøndkilde</td>
+    </tr>
+    <tr>
+      <td>Replacement</td>
+      <td>Visse kilder kræver yderligere opsætning, da url’erne skal omskrives yderligere, f.eks. med en biblioteksspecifik identifier/kode. Sektionen “Replacement” er en slags søg- og erstat-funktion. I “Regulært udtryk” beskrives hvad man leder efter. Bemærk at der ikke er tale om en almindelig tekst, men et regulært udtryk - se evt. http://en.wikipedia.org/wiki/Regular_expression . Det betyder blandt andet at man starter og slutter med skråstreg - “/”, og at visse tegn skal forsynes med et en foranstillet backslash “\”.”Replacement” er en næsten normal tekststreng, idet man dog kan bruge $1, $2 osv. til at angive delstrenge som er blevet matchet (captured) i det regulære udtryk ovenfor. Lyder det for indviklet, så lev med at låne andres eksempler ;-)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p class="notice--info"><strong>TIP</strong>:  Links på e-materiale siderne omskrives ikke automatisk. I skal huske at bruge URL’er med “proxy prefix”, når I linker til eressourcer rundt omkring på sitet - ikke mindst e-materiale-siderne.</p>
 
 <p>Denne vejledning handler primært om opsætningen af “Proxy Settings” under “Indstillinger” i DDB CMS (Sti: /admin/config/ting/proxy). 
 “Proxy Settings” benyttes i DDB CMS til at tilpasse url’er i brøndkilder, så biblioteksspecifikke oplysninger bliver indsat, og links kommer til at pege på bibliotekets fjernadgangsproxy.</p>
