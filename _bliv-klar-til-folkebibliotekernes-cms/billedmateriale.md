@@ -1,5 +1,5 @@
 ---
-title: "Opgave 4: Eksport af billeder eller lav nyt billedmateriale"
+title: "Opgave 7: Eksport af billeder / nyt billedmateriale"
 category: "Overgangsaktiviter"
 ---
 

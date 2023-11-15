@@ -1,5 +1,5 @@
 ---
-title: "Opgave 6: Informationsarkitektur og navigation"
+title: "Opgave 4: Informationsarkitektur og navigation"
 category: "Overgangsaktiviter"
 ---
 ## Beskrivelse ##
@@ -20,7 +20,7 @@ I Folkebibliotekernes CMS er der også:
 - **Listesider**: Som I nok kender det i dag, vil I kunne bruge listesider som fx nyhedslister og arrangementslister. 
 - **Komponenter**: På hjemmesiden kan I gøre brug af en lang række komponenter som slider, hero, banner, nyheds-komponent, materialekomponent. Komponenter er de byggeklodser som forside, sektionssider og navigationssider opbygges af.
   
-[Her kan I se eksempler på hvordan de enkelte designelementer kan bruges](https://detdigitalefolkebibliotek.dk/sites/default/files/designsystem_formidling.pdf). Lad jer inspirere til en ny måde at strukturere og vise indhold.
+[Her kan I se eksempler på hvordan de enkelte designelementer kan bruges](https://detdigitalefolkebibliotek.dk/sites/default/files/designsystem_formidling.pdf){:target="_blank" rel="noopener"}. Lad jer inspirere til en ny måde at strukturere og vise indhold.
 
 
 {% capture designsystem %}
@@ -28,7 +28,7 @@ I Folkebibliotekernes CMS er der også:
 
 Med **navigation hub konceptet** navigerer man i dybden i stedet for bredden. Man har få menupunkter i hovedmenuen. Det giver en overskuelig header med få simple valg for brugeren. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Via navigationselementer på disse sider guides brugerne "step-by-step" gennem flere niveauer, indtil de finder det indhold, de leder efter. Navigation hub princippet er velegnet til informationstunge hjemesider.
 
-Vi anbefaler jer at se designbureauets præsentation om informationsarkitektur. Målet er at ramme en struktur, der hverken er for bred (mange menupunkter) eller for dyb (mange niveauer =mange klik). [Navigationskoncept - DDF Præsentation](https://www.figma.com/proto/XLA0k1DTwIekLMLHOJ54ek/DDF-Pr%C3%A6sentation?page-id=7127%3A13870&node-id=7127-14034&viewport=1347%2C-1112%2C0.08&scaling=scale-down&starting-point-node-id=7127%3A17822&hide-ui=1) 
+Vi anbefaler jer at se designbureauets præsentation om informationsarkitektur. Målet er at ramme en struktur, der hverken er for bred (mange menupunkter) eller for dyb (mange niveauer =mange klik). [Navigationskoncept - DDF Præsentation](https://www.figma.com/proto/XLA0k1DTwIekLMLHOJ54ek/DDF-Pr%C3%A6sentation?page-id=7127%3A13870&node-id=7127-14034&viewport=1347%2C-1112%2C0.08&scaling=scale-down&starting-point-node-id=7127%3A17822&hide-ui=1){:target="_blank" rel="noopener"}
 {% endcapture %}
 <div class="notice--info">{{ designsystem | markdownify }}</div>
 
