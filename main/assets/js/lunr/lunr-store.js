@@ -11,10 +11,16 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/audience/redaktoer/",
         "teaser": null
       },{
-        "title": "Opgave 4: Eksport af billeder eller lav nyt billedmateriale",
+        "title": "Opgave 7: Eksport af billeder / nyt billedmateriale",
         "excerpt":"Resultat Et billede siger mere end 1000 ord. Det ordsprog kender de fleste af os efterhånden, og der er noget om snakken. Billeder er visuelle udtryk, der kan give bedre forståelse for dit indhold på hjemmesiden, samtidig med at det gør teksten letfordøjelig. Med denne opgave skal I tage stilling...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/billedmateriale/",
+        "teaser": null
+      },{
+        "title": "Opgave 6: Forbered indhold til det nye site",
+        "excerpt":"Beskrivelse Visse komponenter og indholdstyper i det gamle CMS findes ikke i det nye CMS. Nogle af dem er stadig er under udvikling. Dvs. de kommer på et tidspunkt, men det er svært at sige hvornår. Andre komponenter og indholdstyper udvikles slet ikke til det nye CMS. Her er en...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/forbered-indhold/",
         "teaser": null
       },{
         "title": "Bliv klar til Folkebibliotekernes CMS",
@@ -29,7 +35,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/identitetsfarve/",
         "teaser": null
       },{
-        "title": "Opgave 6: Informationsarkitektur og navigation",
+        "title": "Opgave 4: Informationsarkitektur og navigation",
         "excerpt":"Beskrivelse Ligesom når man flytter ind i et nyt hus, så skal der også indrettes på en ny hjemmeside. Hvad vil I have hvor, og hvordan skal man kunne komme rundt mellem siderne? I denne opgave vil vi give jer nogle ideer til hvordan I kan gribe opgave an. Overblik...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/informationsarkiktektur/",
@@ -42,7 +48,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 5: Oprydning i artikler på det eksisterende site",
-        "excerpt":"Beskrivelse En flytning kan være en god lejlighed til at få ryddet op i gammelt indhold. I denne opgave giver jer nogle tips til at få kvalificeret det indhold, som skal med over på den nye hjemmeside. Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal...","categories": ["Overgangsaktiviter"],
+        "excerpt":"Beskrivelse En flytning kan være en god lejlighed til at få ryddet op i gammelt indhold. I denne opgave får I nogle tips til at få kvalificeret det indhold, som skal med over på den nye hjemmeside. Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/oprydning/",
         "teaser": null
@@ -53,7 +59,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/projektorganisering-paa-biblioteket/",
         "teaser": null
       },{
-        "title": "Opgave 7: Taksonomi - kategorier og tags",
+        "title": "Opgave 8: Taksonomi - kategorier og tags",
         "excerpt":"I Folkebibliotekernes CMS har tags og kategorier samme struktur og funktion som i DDB CMS. Tags kan bruges på tværs af indholdstyper, mens kategorier er bundet til en bestemt indholdstype som et arrangement eller en artikel. Tags og kategorier anvendes til filtrering af indhold i lister og komponenter. For eksempel...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/taksonomi/",
