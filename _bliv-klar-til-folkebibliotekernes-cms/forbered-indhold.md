@@ -4,12 +4,12 @@ category: "Overgangsaktiviter"
 ---
 
 ## Beskrivelse
-Visse komponenter og indholdstyper i det gamle CMS findes ikke i det nye CMS. Nogle af dem er stadig er under udvikling. Dvs. de kommer på et tidspunkt, men det er svært at sige hvornår. Andre komponenter og indholdstyper udvikles slet ikke til det nye CMS.
+Visse komponenter og indholdstyper i det gamle CMS findes ikke i det nye CMS. Nogle udvikles slet ikke og andre er bare ikke klar endnu.
 
-Her er en oversigt over det indhold, som I skal give en ny form, hvis det skal overføres til Folkebibliotekernes CMS. 
+Her er en oversigt over indhold, som I skal gentænke, hvis det skal overføres til Folkebibliotekernes CMS. 
 
 ## Metode og fremgangsmåde
-Læs dette afsnit grundigt og beslut hvad I vil gøre ved jeres indhold. Vi anbefaler en måde at gøre det på, men der kan være lokale forhold der gør, at I vælger en anden løsning.
+Læs dette afsnit grundigt og beslut hvad I vil gøre ved jeres indhold. Vi foreslår en løsning, men I beslutter selv hvad der er bedst for jer.
 
 ### Medarbejderoversigten
 Medarbejderoversigten og staff brugertypen findes ikke i Folkebibliotekernes CMS. Hvis I ønsker en oversigt over medarbejdere, skal den laves i en liste på en side, som I manuelt vedligeholder.
@@ -24,11 +24,11 @@ Kirsten Nielsen, Assistent, Tlf: 22225555, E-mail; kini@kommune.dk
 
 ```
 ### E-ressourcer
-E-ressource oversigtssiden og indholdstypen findes ikke i Folkebibliotekernes CMS. Det betyder, at I skal beslutte, hvad I stiller op med jeres e-ressourcer.
+E-ressource oversigtssiden og e-ressource indholdstypen findes ikke i Folkebibliotekernes CMS. Det betyder, at I skal beslutte, hvad I stiller op med jeres e-ressourcer.
 
-INDSÆT BILLEDE
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d62c12f0-21dd-4f37-9035-40a29434b99e)
 
-Den simple løsning er at I laver en side, der viser en liste over jeres e-ressourcer med navn, kort beskrivelse og proxy-link. Også den kan forberedes i Notepad i god tid inden flyningen.
+Den simple løsning er, at I laver en side, der viser en liste over jeres e-ressourcer med navn, kort beskrivelse og proxy-link. Også den kan forberedes i Notepad i god tid inden flyningen.
 
 Lav en liste over e-ressoucer som denne:
 ```
@@ -44,12 +44,15 @@ https://bib751.bibbaser.dk/login?url=http://find.galegroup.com/menu/start?userGr
 Hvis det er vigtigt for jer med længere beskrivelser og billeder til hver e-ressource, kan I lave en side for hver ressource og bruge en navigationsside til at skabe det samlede overblik. Den skal I selv opbygge og holde opdateret. 
 
 
-### Sektionssider
-Sektionssider findes også i det nye CMS, men med lidt andre visningsmuligheder og komponenter. Desværre ved vi allerede nu at sektionssider ikke når at blive klar, inden I skal tage jeres nye site i brug. Det er derfor vigtigt at I får dokumenteret, hvordan jeres nuværende sektionssider er opbygget, så I kan genopbygge dem i det nye site, når det igen bliver muligt.
+### Sektionssider, karruseller og nodelists
+Sektionssider findes i det nye CMS, men med lidt andre visningsmuligheder og komponenter. Desværre ved vi allerede nu, at ikke alle features er klar, når I flytter ind på jeres site. F. eks. materialekarruseller. I skal derfor dokumentere, hvordan jeres nuværende sektionssider er opbygget, så I kan genopbygge dem i det nye site, når det bliver muligt.
+
 
 ### Kontaktsiden
+Indhold mangler
 
 ### Formularer
+Indhold mangler
 
 
 ### URL omdirigeringer (kun webmaster biblioteker)
