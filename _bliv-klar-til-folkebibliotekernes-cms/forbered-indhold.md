@@ -26,7 +26,7 @@ Kirsten Nielsen, Assistent, Tlf: 22225555, E-mail; kini@kommune.dk
 ### E-ressourcer
 E-ressource oversigtssiden og e-ressource indholdstypen findes ikke i Folkebibliotekernes CMS. Det betyder, at I skal beslutte, hvad I stiller op med jeres e-ressourcer.
 
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d62c12f0-21dd-4f37-9035-40a29434b99e)
+{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d62c12f0-21dd-4f37-9035-40a29434b99e" alt="E-ressource oversigtssiden findes ikke i FBCMS" caption="E-ressource oversigtssiden findes ikke i FBCMS" %}
 
 Den simple løsning er, at I laver en side, der viser en liste over jeres e-ressourcer med navn, kort beskrivelse og proxy-link. Også den kan forberedes i Notepad i god tid inden flyningen.
 
