@@ -69,6 +69,7 @@ Karrusel: Virkelighedens verden
 
 
 ```
+Bemærk! Vi kan ikke garantere at jeres CQL-søgninger virker i det nye CMS. Søgning i Folkebibliotekernes CMS fungerer på en helt anden måde. Læs mere XXXX
 
 ### URL omdirigeringer
 URL omdirigeringer bruges til at lave korte læsbare URL'er, som fungerer godt på plakater og i tryksager.
