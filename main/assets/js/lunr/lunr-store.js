@@ -18,7 +18,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 6: Forbered indhold til det nye site",
-        "excerpt":"Beskrivelse Visse komponenter og indholdstyper i det gamle CMS findes ikke i det nye CMS. Nogle af dem er stadig er under udvikling. Dvs. de kommer på et tidspunkt, men det er svært at sige hvornår. Andre komponenter og indholdstyper udvikles slet ikke til det nye CMS. Her er en...","categories": ["Overgangsaktiviter"],
+        "excerpt":"Beskrivelse Visse komponenter og indholdstyper i det gamle CMS findes ikke i det nye CMS. Nogle udvikles slet ikke og andre er bare ikke klar endnu. Her er en oversigt over indhold, som I skal gentænke, hvis det skal overføres til Folkebibliotekernes CMS. Metode og fremgangsmåde Læs dette afsnit grundigt...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/forbered-indhold/",
         "teaser": null
