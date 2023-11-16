@@ -43,20 +43,41 @@ https://bib751.bibbaser.dk/login?url=http://find.galegroup.com/menu/start?userGr
 ```
 Hvis det er vigtigt for jer med længere beskrivelser og billeder til hver e-ressource, kan I lave en side for hver ressource og bruge en navigationsside til at skabe det samlede overblik. Den skal I selv opbygge og holde opdateret. 
 
-
 ### Sektionssider, karruseller og nodelists
 Sektionssider findes i det nye CMS, men med lidt andre visningsmuligheder og komponenter. Desværre ved vi allerede nu, at ikke alle features er klar, når I flytter ind på jeres site. F. eks. materialekarruseller. I skal derfor dokumentere, hvordan jeres nuværende sektionssider er opbygget, så I kan genopbygge dem i det nye site, når det bliver muligt.
 
+Vi anbefaler at I går jeres sektionssider igennem én for én og beslutter om de skal overføres til det nye site. (I finder en samlet oversigt xxxx)
+For hver sektionsside, der skal bevares, skal I registere, hvordan den er bygget. Her er et eksempel: 
+```
+Navn: Krimi
+Teaser: Blodtørstig? Læs en krimi eller spændingsroman
+Image: krimi.jpg 
+
+Karrusel:Nyt på hylderne
+- Krimier 
+  facet.type=bog and facet.literaryForm=skøn* and facet.language=dansk and facet.category=voksen* and em=krimi*
+
+- Spændingsromaner
+  facet.type=bog and facet.language=dansk and facet.category=voksen* and facet.literaryform=skøn* and (em=spænding* or em=thriller*)
+
+Karrusel: Virkelighedens verden
+
+- Kriminalsager
+  (facet.type=bog and facet.category=voksen* and (facet.nonfictionsubject=forbrydelse* or facet.nonfictionsubject=kriminal*)) or (facet.category=voksen* and facet.genreCategory=nonfiktion and facet.acSource=ereolen*global and "true crime")
+
+
+
+
+```
+
+### URL omdirigeringer
+URL omdirigeringer bruges til at lave korte læsbare URL'er, som fungerer godt på plakater og i tryksager.
+Hvis I har oprettet URL omdirigeringerer i DDB CMS, som I bruger i jeres markedsføring, skal I huske at få dem med over i Folkebibliotekernes CMS. Ellers opstår der døde links. 
+
+Kig på jeres URL omdirigeringer i DDB CMS og tjek om der er nogen der er vigtige. Af oversigten fremgår om de bliver brugt. (Bemærk at omdirigeringer til arrangementer opstår automatisk. Dem skal I ikke gøre noget ved. Det er kun de omdirigeringer i selv har oprettet, som I skal tage hånd om).
 
 ### Kontaktsiden
 Indhold mangler
 
 ### Formularer
 Indhold mangler
-
-
-### URL omdirigeringer (kun webmaster biblioteker)
-URL omdirigeringer bruges til at lave korte læsbare URL'er, som fungerer godt på plakater og i tryksager.
-Hvis I har oprettet URL omdirigeringerer i DDB CMS, som I bruger i jeres markedsføring, skal I huske at få dem med over i Folkebibliotekernes CMS. Ellers opstår der døde links. 
-
-Kig på jeres URL omdirigeringer i DDB CMS og tjek om der er nogen der er vigtige. Af oversigten fremgår om de bliver brugt. (Bemærk at omdirigeringer til arrangementer opstår automatisk. Dem skal I ikke gøre noget ved. Det er kun de omdirigeringer i selv har oprettet, som I skal tage hånd om).
