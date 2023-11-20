@@ -89,20 +89,49 @@ figure {
   flex-wrap: wrap;
   margin: 2em 0;
 
-  &.fourty {
+  &.thirty {
     > a,
-    > img,
+    > img {
+      width: 100%;
+      @include breakpoint($small) {
+        width: calc(30% - 0.5em);
+      }
+    }
+
     figcaption {
       width: 100%;
       @include breakpoint($small) {
+        width: calc(70% - 0.5em);
+      }
+    }
+  }
+
+  &.fourty {
+    > a,
+    > img {
+      width: 100%;
+      @include breakpoint($small) {
         width: calc(40% - 0.5em);
+      }
+    }
+
+    figcaption {
+      width: 100%;
+      @include breakpoint($small) {
+        width: calc(60% - 0.5em);
       }
     }
   }
 
   &.fifty {
     > a,
-    > img,
+    > img {
+      width: 100%;
+      @include breakpoint($small) {
+        width: calc(50% - 0.5em);
+      }
+    }
+
     figcaption {
       width: 100%;
       @include breakpoint($small) {
