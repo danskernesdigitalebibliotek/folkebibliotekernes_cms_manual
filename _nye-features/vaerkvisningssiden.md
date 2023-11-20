@@ -14,6 +14,7 @@ På værkvisningssiden kan man skifte mellem de tilgængelige materialetyper. É
 
 
 Her er en oversigt over materialetyper og deres handleknapper.
+
 | Materialetype| Handleknap |
 | -------- | ------- |
 | Alle fysiske materialetyper  | Reservér |
