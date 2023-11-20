@@ -4,12 +4,12 @@ category: "Overgangsaktiviter"
 ---
 
 ## Beskrivelse
-Visse komponenter og indholdstyper i det gamle CMS findes ikke i det nye CMS. Nogle udvikles slet ikke og andre er bare ikke klar endnu.
+Ikke alle komponenter og indholdstyper i det gamle CMS findes i det nye CMS. Nogle udvikles slet ikke og andre når ikke at blive klar inden indflytningsdatoen.
 
 Her er en oversigt over indhold, som I skal gentænke, hvis det skal overføres til Folkebibliotekernes CMS. 
 
 ## Metode og fremgangsmåde
-Læs dette afsnit grundigt og beslut hvad I vil gøre ved jeres indhold. Vi foreslår en løsning, men I beslutter selv hvad der er bedst for jer.
+Læs dette afsnit grundigt og beslut jer for, hvad I vil gøre med jeres indhold. Vi foreslår en løsning, men I beslutter selv, hvad der fungerer bedst for jer.
 
 ### Medarbejderoversigten
 Medarbejderoversigten og staff brugertypen findes ikke i Folkebibliotekernes CMS. Hvis I ønsker en oversigt over medarbejdere, skal den laves i en liste på en side, som I manuelt vedligeholder.
@@ -44,6 +44,8 @@ https://bib751.bibbaser.dk/login?url=http://find.galegroup.com/menu/start?userGr
 Hvis det er vigtigt for jer med længere beskrivelser og billeder til hver e-ressource, kan I lave en side for hver ressource og bruge en navigationsside til at skabe det samlede overblik. Den skal I selv opbygge og holde opdateret. 
 
 ### Sektionssider, karruseller og nodelists
+*Dette afsnit er under udarbejdelse*
+
 Sektionssider findes i det nye CMS, men med lidt andre visningsmuligheder og komponenter. Desværre ved vi allerede nu, at ikke alle features er klar, når I flytter ind på jeres site. F. eks. materialekarruseller. I skal derfor dokumentere, hvordan jeres nuværende sektionssider er opbygget, så I kan genopbygge dem i det nye site, når det bliver muligt.
 
 Vi anbefaler at I går jeres sektionssider igennem én for én og beslutter om de skal overføres til det nye site. (I finder en samlet oversigt xxxx)
@@ -65,9 +67,6 @@ Karrusel: Virkelighedens verden
 - Kriminalsager
   (facet.type=bog and facet.category=voksen* and (facet.nonfictionsubject=forbrydelse* or facet.nonfictionsubject=kriminal*)) or (facet.category=voksen* and facet.genreCategory=nonfiktion and facet.acSource=ereolen*global and "true crime")
 
-
-
-
 ```
 Bemærk! Vi kan ikke garantere at jeres CQL-søgninger virker i det nye CMS. Søgning i Folkebibliotekernes CMS fungerer på en helt anden måde. Læs mere XXXX
 
@@ -75,10 +74,12 @@ Bemærk! Vi kan ikke garantere at jeres CQL-søgninger virker i det nye CMS. Sø
 URL omdirigeringer bruges til at lave korte læsbare URL'er, som fungerer godt på plakater og i tryksager.
 Hvis I har oprettet URL omdirigeringerer i DDB CMS, som I bruger i jeres markedsføring, skal I huske at få dem med over i Folkebibliotekernes CMS. Ellers opstår der døde links. 
 
-Kig på jeres URL omdirigeringer i DDB CMS og tjek om der er nogen der er vigtige. Af oversigten fremgår om de bliver brugt. (Bemærk at omdirigeringer til arrangementer opstår automatisk. Dem skal I ikke gøre noget ved. Det er kun de omdirigeringer i selv har oprettet, som I skal tage hånd om).
+Kig på jeres URL omdirigeringer i DDB CMS og tjek om der er nogen der er vigtige. Af oversigten fremgår om de bliver brugt. Bemærk at omdirigeringer til arrangementer opstår automatisk. Dem skal I ikke gøre noget ved. Det er kun de omdirigeringer, I selv har oprettet, som I skal tage hånd om.
 
-### Kontaktsiden
-Indhold mangler
+Lav en liste i Notepad over de URL omdirigeringer, som I skal huske at oprette i det nye CMS.
 
-### Formularer
-Indhold mangler
+## Resultat ##
+I får styr på det indhold, der skal omarbejdes, inden det kan kan lægges på den nye hjemmeside. 
+
+## Involverede parter ##
+Webredaktion
