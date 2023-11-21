@@ -46,29 +46,56 @@ Hvis det er vigtigt for jer med længere beskrivelser og billeder til hver e-res
 ### Sektionssider, karruseller og nodelists
 *Dette afsnit er under udarbejdelse*
 
-Sektionssider findes i det nye CMS, men med lidt andre visningsmuligheder og komponenter. Desværre ved vi allerede nu, at ikke alle features er klar, når I flytter ind på jeres site. F. eks. materialekarruseller. I skal derfor dokumentere, hvordan jeres nuværende sektionssider er opbygget, så I kan genopbygge dem i det nye site, når det bliver muligt.
+Sektionssider findes i det nye CMS, men med lidt andre visningsmuligheder og komponenter. Dokumenter hvordan jeres nuværende sektionssider er opbygget, så I kan genopbygge dem i det nye site.
 
-Vi anbefaler at I går jeres sektionssider igennem én for én og beslutter om de skal overføres til det nye site. (I finder en samlet oversigt xxxx)
+Bemærk! Ikke alle CQL-søgningestrenge kan overføres direkte til det nye CMS. I det nye CMS udføres CQL søgninger via complex search i FBI-API. Det betyder, at det nye værkbegreb spiller ind på jeres søgeresulater. Især NOT operatoren kan fjerne mere end I regner med, når det er værker der søges i. [Læs mere om værk og manifestation i FBI-API](vaerk-og-manifestation.md).
+{: .notice--info}
+
+#### Find oversigt over sektionssider i DDB CMS
+Vi anbefaler at I går jeres sektionssider igennem én for én og beslutter om de skal overføres til det nye site. 
+
+Log ind i DDB CMS og find den samlede oversigt over jeres sektionssider. Fra hovedmenuen vælg Struktur > Taksonomi > Section.
+(URL: admin/structure/taxonomy/section)
+
+INDSÆT SECTION MENU FRA DDB CMS
+
+#### Register opbygning af bevaringsværdige sektionssider
 For hver sektionsside, der skal bevares, skal I registere, hvordan den er bygget. Her er et eksempel: 
 ```
-Navn: Krimi
-Teaser: Blodtørstig? Læs en krimi eller spændingsroman
-Image: krimi.jpg 
+Navn: Letlæsning lix 5-10
+Teaser: Inspiration til letlæsningsbøger med lix-tallet 5-10.
 
-Karrusel:Nyt på hylderne
-- Krimier 
-  facet.type=bog and facet.literaryForm=skøn* and facet.language=dansk and facet.category=voksen* and em=krimi*
+Karruseller
 
-- Spændingsromaner
-  facet.type=bog and facet.language=dansk and facet.category=voksen* and facet.literaryform=skøn* and (em=spænding* or em=thriller*)
+Nye bøger
+(ix>=05 AND ix<=09) AND term.type="Bog" AND dkcclterm.op=202* and bdo=(* NOT "let faglitteratur")
 
-Karrusel: Virkelighedens verden
+Sjove bøger
+se=("Lyn 3") and term.type=bog and em="sjove bøger" and em="lydret"
 
-- Kriminalsager
-  (facet.type=bog and facet.category=voksen* and (facet.nonfictionsubject=forbrydelse* or facet.nonfictionsubject=kriminal*)) or (facet.category=voksen* and facet.genreCategory=nonfiktion and facet.acSource=ereolen*global and "true crime")
+Første bind i forskellige serier
+term.type=bog and bdo="lette fantasybøger" and ix<10 and se=1
+
+Talemåder
+phrase.titleSeries="talemåder" AND term.type="Bog" AND (ix>=05 AND ix<=10)
+
+Niki Topgaard og vennerne
+phrase.titleSeries="Niki Topgaard og vennerne " AND term.type="Bog" AND (ix>=05 AND ix<=10)
+
+Karl og Bent
+phrase.titleSeries="karl og bent " AND term.type="Bog" AND (ix>=05 AND ix<=10)
+
+Storm
+se="Storm" and term.type=bog and fo=vinther
+
+Far og Hassan
+phrase.titleSeries="far og hasan " AND term.type="Bog" AND (ix>=05 AND ix<=10)
+
+Nor og Frida
+se="Nor og Frida" and term.type=bog
 
 ```
-Bemærk! Vi kan ikke garantere at jeres CQL-søgninger virker i det nye CMS. Søgning i Folkebibliotekernes CMS fungerer på en helt anden måde. Læs mere XXXX
+
 
 ### URL omdirigeringer
 URL omdirigeringer bruges til at lave korte læsbare URL'er, som fungerer godt på plakater og i tryksager.
