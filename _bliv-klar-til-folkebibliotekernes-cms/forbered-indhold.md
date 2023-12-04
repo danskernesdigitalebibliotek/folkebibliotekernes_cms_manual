@@ -43,59 +43,6 @@ https://bib751.bibbaser.dk/login?url=http://find.galegroup.com/menu/start?userGr
 ```
 Hvis det er vigtigt for jer med længere beskrivelser og billeder til hver e-ressource, kan I lave en side for hver ressource og bruge en navigationsside til at skabe det samlede overblik. Den skal I selv opbygge og holde opdateret. 
 
-### Sektionssider, karruseller og nodelists
-*Dette afsnit er under udarbejdelse*
-
-Sektionssider findes i det nye CMS, men med lidt andre visningsmuligheder og komponenter. Dokumenter hvordan jeres nuværende sektionssider er opbygget, så I kan genopbygge dem i det nye site.
-
-Bemærk! Ikke alle CQL-søgningestrenge kan overføres direkte til det nye CMS. I det nye CMS udføres CQL søgninger via complex search i FBI-API. Det betyder, at det nye værkbegreb spiller ind på jeres søgeresulater. Især NOT operatoren kan fjerne mere end I regner med, når det er værker der søges i. [Læs mere om værk og manifestation i FBI-API](vaerk-og-manifestation.md).
-{: .notice--info}
-
-#### Find oversigt over sektionssider i DDB CMS
-Vi anbefaler at I går jeres sektionssider igennem én for én og beslutter om de skal overføres til det nye site. 
-
-Log ind i DDB CMS og find den samlede oversigt over jeres sektionssider. Fra hovedmenuen vælg Struktur > Taksonomi > Section.
-(URL: admin/structure/taxonomy/section)
-
-INDSÆT SECTION MENU FRA DDB CMS
-
-#### Register opbygning af bevaringsværdige sektionssider
-For hver sektionsside, der skal bevares, skal I registere, hvordan den er bygget. Her er et eksempel: 
-```
-Navn: Letlæsning lix 5-10
-Teaser: Inspiration til letlæsningsbøger med lix-tallet 5-10.
-
-Karruseller
-
-Nye bøger
-(ix>=05 AND ix<=09) AND term.type="Bog" AND dkcclterm.op=202* and bdo=(* NOT "let faglitteratur")
-
-Sjove bøger
-se=("Lyn 3") and term.type=bog and em="sjove bøger" and em="lydret"
-
-Første bind i forskellige serier
-term.type=bog and bdo="lette fantasybøger" and ix<10 and se=1
-
-Talemåder
-phrase.titleSeries="talemåder" AND term.type="Bog" AND (ix>=05 AND ix<=10)
-
-Niki Topgaard og vennerne
-phrase.titleSeries="Niki Topgaard og vennerne " AND term.type="Bog" AND (ix>=05 AND ix<=10)
-
-Karl og Bent
-phrase.titleSeries="karl og bent " AND term.type="Bog" AND (ix>=05 AND ix<=10)
-
-Storm
-se="Storm" and term.type=bog and fo=vinther
-
-Far og Hassan
-phrase.titleSeries="far og hasan " AND term.type="Bog" AND (ix>=05 AND ix<=10)
-
-Nor og Frida
-se="Nor og Frida" and term.type=bog
-
-```
-
 
 ### URL omdirigeringer
 URL omdirigeringer bruges til at lave korte læsbare URL'er, som fungerer godt på plakater og i tryksager.
