@@ -17,7 +17,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/billedmateriale/",
         "teaser": null
       },{
-        "title": "Opgave 6: Forbered indhold til det nye site",
+        "title": "Opgave 6: Forbered nyt indhold hvor det er påkrævet",
         "excerpt":"Beskrivelse Ikke alle komponenter og indholdstyper i det gamle CMS findes i det nye CMS. Nogle udvikles slet ikke og andre når ikke at blive klar inden indflytningsdatoen. Her er en oversigt over indhold, som I skal gentænke, hvis det skal overføres til Folkebibliotekernes CMS. Metode og fremgangsmåde Læs dette...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/forbered-indhold/",
@@ -47,7 +47,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/logo/",
         "teaser": null
       },{
-        "title": "Opgave 5: Oprydning i artikler på det eksisterende site",
+        "title": "Opgave 5: Udvælg indhold der skal flyttes med over",
         "excerpt":"Beskrivelse En flytning kan være en god lejlighed til at få ryddet op i gammelt indhold. I denne opgave får I nogle tips til at få kvalificeret det indhold, som skal med over på den nye hjemmeside. Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/oprydning/",
