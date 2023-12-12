@@ -36,7 +36,7 @@ Materialet på denne side giver indblik i, hvordan et site bedst opbygges i Folk
 Det kan være en god idé at lave et flowchart over navigationen inden I går i gang med at implementere alle siderne på hjemmesiden, så har I et overblik over hvad der skal oprettes. I kan finde en masse gratis flowchart skabeloner på nettet.  
 
 ## Resultat ##
-I har en plan for jeres:
+I har en plan for:
 - Menustruktur
 - Hvilke sider der skal oprettes
 - Hvordan siderne skal bindes sammen vha. navigationskomponenter
