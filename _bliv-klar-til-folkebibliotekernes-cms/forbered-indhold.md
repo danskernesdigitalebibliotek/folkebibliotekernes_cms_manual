@@ -1,5 +1,5 @@
 ---
-title: "Opgave 6: Forbered indhold til det nye site"
+title: "Opgave 6: Forbered nyt indhold hvor det er påkrævet"
 category: "Overgangsaktiviter"
 ---
 

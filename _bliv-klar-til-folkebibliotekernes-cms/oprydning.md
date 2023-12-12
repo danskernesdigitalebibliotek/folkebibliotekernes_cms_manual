@@ -1,5 +1,5 @@
 ---
-title: "Opgave 5: Oprydning i artikler på det eksisterende site"
+title: "Opgave 5: Udvælg indhold der skal flyttes med over"
 category: "Overgangsaktiviter"
 ---
 
