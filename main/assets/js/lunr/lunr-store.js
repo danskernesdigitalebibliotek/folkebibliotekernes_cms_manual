@@ -36,7 +36,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 4: Informationsarkitektur og navigation",
-        "excerpt":"Beskrivelse Ligesom når man flytter ind i et nyt hus, så skal der også indrettes på en ny hjemmeside. Hvad vil I have hvor, og hvordan skal man kunne komme rundt mellem siderne? I denne opgave vil vi give jer nogle ideer til hvordan I kan gribe opgave an. Overblik...","categories": ["Overgangsaktiviter"],
+        "excerpt":"Beskrivelse Designbureauet Dept har lavet grunddesign til Folkebibliotekernes CMS. Dept har arbejdet med et særligt navigationsprincip, som det er værd at sætte sig ind i. Jeres nye hjemmeside bliver bedst, hvis I benytter design systemet, som det er tiltænkt. Med navigation hub konceptet navigerer man i dybden i stedet for...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/informationsarkiktektur/",
         "teaser": null
