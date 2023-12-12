@@ -3,9 +3,12 @@ title: "Opgave 4: Informationsarkitektur og navigation"
 category: "Overgangsaktiviter"
 ---
 ## Beskrivelse ##
-Ligesom når man flytter ind i et nyt hus, så skal der også indrettes på en ny hjemmeside. Hvad vil I have hvor, og hvordan skal man kunne komme rundt mellem siderne?  
+**Designbureauet Dept** har lavet grunddesign til Folkebibliotekernes CMS. Dept har arbejdet med et særligt navigationsprincip, som det er værd at sætte sig ind i. Jeres nye hjemmeside bliver bedst, hvis I benytter design systemet, som det er tiltænkt.
 
-I denne opgave vil vi give jer nogle ideer til hvordan I kan gribe opgave an. 
+Med **navigation hub konceptet** navigerer man i dybden i stedet for bredden. Man har få menupunkter i hovedmenuen. Det giver en overskuelig header med få simple valg for brugeren. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Via navigationselementer på disse sider guides brugerne "step-by-step" gennem flere niveauer, indtil de finder det indhold, de leder efter. Navigation hub princippet er velegnet til informationstunge hjemesider.
+
+**Vi anbefaler jer at se designbureauets præsentation om informationsarkitektur. Målet er at ramme en struktur, der hverken er for bred (mange menupunkter) eller for dyb (mange niveauer =mange klik).**
+[Navigationskoncept - DDF Præsentation](https://www.figma.com/proto/XLA0k1DTwIekLMLHOJ54ek/DDF-Pr%C3%A6sentation?page-id=7127%3A13870&node-id=7127-14034&viewport=1347%2C-1112%2C0.08&scaling=scale-down&starting-point-node-id=7127%3A17822&hide-ui=1){:target="_blank" rel="noopener"}
 
 ## Overblik over komponenter og sidetyper ##
 I Folkebibliotekernes CMS er der to faste navigationskomponenter, der går igen på alle sider. 
@@ -22,19 +25,10 @@ I Folkebibliotekernes CMS er der også:
   
 [Her kan I se eksempler på hvordan de enkelte designelementer kan bruges](https://detdigitalefolkebibliotek.dk/sites/default/files/designsystem_formidling.pdf){:target="_blank" rel="noopener"}. Lad jer inspirere til en ny måde at strukturere og vise indhold.
 
-
-{% capture designsystem %}
-**Designbureauet Dept** har lavet grunddesign til Folkebibliotekernes CMS. Dept har arbejdet med et særligt navigationsprincip, som det er værd at sætte sig ind i. Jeres nye hjemmeside bliver bedst, hvis I benytter design systemet, som det er tiltænkt.
-
-Med **navigation hub konceptet** navigerer man i dybden i stedet for bredden. Man har få menupunkter i hovedmenuen. Det giver en overskuelig header med få simple valg for brugeren. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Via navigationselementer på disse sider guides brugerne "step-by-step" gennem flere niveauer, indtil de finder det indhold, de leder efter. Navigation hub princippet er velegnet til informationstunge hjemesider.
-
-Vi anbefaler jer at se designbureauets præsentation om informationsarkitektur. Målet er at ramme en struktur, der hverken er for bred (mange menupunkter) eller for dyb (mange niveauer =mange klik). [Navigationskoncept - DDF Præsentation](https://www.figma.com/proto/XLA0k1DTwIekLMLHOJ54ek/DDF-Pr%C3%A6sentation?page-id=7127%3A13870&node-id=7127-14034&viewport=1347%2C-1112%2C0.08&scaling=scale-down&starting-point-node-id=7127%3A17822&hide-ui=1){:target="_blank" rel="noopener"}
-{% endcapture %}
-<div class="notice--info">{{ designsystem | markdownify }}</div>
-
 ## Metode og fremgangsmåde ##
-På baggrund det indhold I valgte ud i den foregående opgave, så find ud af hvordan jeres indhold skal vises: 
+Læs denne side i gennem og kig grundigt på de to præsentationer af hhv. navigationsstrukturen og designelementerne. Det er pt. det bedste indblik, I kan få i forhold til de redaktionelle muligheder i Folkebibliotekernes CMS.
 
+Ud fra det kan I begynde at overveje:
 - Hvad skal ligge i headeren? 
 - Hvad skal vises i footeren? 
 - Hvad skal jeres forsiden indeholde? 
@@ -44,7 +38,7 @@ Det kan være en god idé at lave et flowchart over navigationen inden I går i 
 
 
 ## Resultat ##
-I har et overblik over hvilke sider, der skal oprettes og at alt jeres indhold får en plads på sitet. 
+I begynder at gøre jer tanker om menustruktur, hvilke sider der skal oprettes og hvordan de skal bindes sammen vha. navigationskomponenter.
 
 ## Involverede parter ##
 Webredaktionen
