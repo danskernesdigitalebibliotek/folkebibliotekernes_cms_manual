@@ -26,9 +26,8 @@ I Folkebibliotekernes CMS er der også:
 [Her kan I se eksempler på hvordan de enkelte designelementer kan bruges](https://detdigitalefolkebibliotek.dk/sites/default/files/designsystem_formidling.pdf){:target="_blank" rel="noopener"}. Lad jer inspirere til en ny måde at strukturere og vise indhold.
 
 ## Metode og fremgangsmåde ##
-Materialet på denne side giver indblik i, hvordan et site bedst opbygges i Folkebibliotekernes CMS.
+Materialet på denne side giver indblik i, hvordan et site bedst opbygges i Folkebibliotekernes CMS. Overvej nu:
 
-Ud fra det kan I begynde at overveje:
 - Hvad skal ligge i headeren? 
 - Hvad skal vises i footeren? 
 - Hvad skal jeres forsiden indeholde? 
@@ -36,9 +35,11 @@ Ud fra det kan I begynde at overveje:
 
 Det kan være en god idé at lave et flowchart over navigationen inden I går i gang med at implementere alle siderne på hjemmesiden, så har I et overblik over hvad der skal oprettes. I kan finde en masse gratis flowchart skabeloner på nettet.  
 
-
 ## Resultat ##
-I begynder at gøre jer tanker om menustruktur, hvilke sider der skal oprettes og hvordan de skal bindes sammen vha. navigationskomponenter.
+I har en plan for jeres:
+- Menustruktur
+- Hvilke sider der skal oprettes
+- Hvordan siderne skal bindes sammen vha. navigationskomponenter
 
 ## Involverede parter ##
 Webredaktionen
