@@ -22,21 +22,20 @@ Mange biblioteker har store hjemmesider med meget indhold. Hvis biblioteket akti
 Her er idéer til indhold, der kan være relevant for jer at flytte:
 - Alt i jeres footer-menu. Her linker de fleste biblioteker til låneregler og andre formalia, der skal være på plads.
 - Hjælpesider / vejledninger
-- Beskrivelser af jeres bibliotekstilbud i forhold til daginstitutioner, skoler, læseklubber, ungdomsuddannelser osv.
+- Beskrivelser af jeres bibliotekstilbud i forhold til daginstitutioner, skoler, læseklubber, ungdomsuddannelser, bogen kommer osv.
 - Tilmeldingsformularer til diverse bibliotekstilbud
 - Informationssider, som jeres bibliotekstilbud afhænger af. F. eks. oversigter over læsekredssæt/bogposer, linksamlinger til studerende, inspirationslister til dagplejere, osv.
 - Læseinspiration / "nyt på hylden"-lister
-- Udvalgte nyheder som statistikken siger bliver brugt
+- Udvalgte nyheder, som statistikken siger bliver brugt
 - Teksten på brugeroprettelsessiden
 
-I kommer naturligvis også fytte jeres arrangementer, men det vil der komme særskilt information om når tiden nærmer sig.
+I kommer naturligvis også flytte jeres arrangementer, men det vil der komme særskilt information om, når tiden nærmer sig.
 
 - **Hvad siger statistikken?** Kig også på, hvad der rent faktisk bliver brugt på jeres nuværende site. I kan bruge Mapp til at se, hvilket indhold, der er blevet læst flest gange. Vi har lavet en guide, der er lige til at følge: [Se statistik for brug af hjemmesidens redaktionelle indhold i Mapp](https://detdigitalefolkebibliotek.dk/sites/default/files/vejledning_i_at_traekke_brugsstatistik_for_redaktionelt_indhold_mapp.pdf){:target="_blank" rel="noopener"}
 
 - **Kvalitetstjek jeres indhold, så det kan findes og læses.** Når I har udvalgt, hvad der skal med, er det en god idé at tjekke indholdets kvalitet. Vi anbefaler, at I følger: [Guidelines til god webkommunikation](/guidelines-til-god-webkommunikation). Det er en kort og letforståelig tjekliste med biblioteks-relevante eksempler. Følger I den, opnår I både god tilgængelighed for synshandicappede og høj synlighed i søgemaskiner. 
 
 - **Hent indhold ned fra BPI, mens tid er** Folkebibliotekernes CMS virker ikke med BPI. Man kan hverken hente fra eller lægge indhold ind i BPI. Hvis der ligger indhold i BPI, som er vigtigt for jer, så få det hentet, mens I kan.
-
 
 ## Resultat ##
 I får gemt og kvalificeret det indhold skal lægges på den nye hjemmeside. 
