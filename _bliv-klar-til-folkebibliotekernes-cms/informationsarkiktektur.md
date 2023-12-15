@@ -19,7 +19,7 @@ For at opnå dybde og bredde i navigationen kan der fra header og footer linkes 
 - **Sektionsside/navigationsside**: I bund og grund er de to typer det samme. En sektionsside er tænkt som en samling om et bestemt emne, hvor navigationssidens primære formål er at lede brugeren videre til det indhold, de søger, og fungerer derfor primært som en transportside. Begge typer af sider kan der linkes til fra headeren.  
 
 I Folkebibliotekernes CMS er der også:
-- **Indholdstyper** Det der før hed Nyheder er omdøbt til Artikler. Arrangementer og Sider findes stadig. Det samme gør Filialsider og Medarbejderoversigten.
+- **Indholdstyper** Det der før hed Nyheder er omdøbt til Artikler. Arrangementer, Sider og Biblioteker findes stadig. 
 - **Listesider**: Som I nok kender det i dag, vil I kunne bruge listesider som fx nyhedslister og arrangementslister. 
 - **Komponenter**: På hjemmesiden kan I gøre brug af en lang række komponenter som slider, hero, banner, nyheds-komponent, materialekomponent. Komponenter er de byggeklodser som forside, sektionssider og navigationssider opbygges af.
   
