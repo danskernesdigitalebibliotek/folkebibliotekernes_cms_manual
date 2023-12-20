@@ -1,5 +1,5 @@
 ---
-title: "Webstatistik"  
+title: "Statistik"  
 ---
 
-Webstatistik
+Statistik

@@ -1,9 +1,11 @@
 ---
-title: "Fjernadgang med proxy"
-category: "Konfiguration"
-comment: "Copied from DDB CMS tutorial last updated 20/12-22"
+title: "Opsæt proxy URL'er"
+category: "Web-services"
+topic: 
+- "Fjernadgang"
+- "Elektroniske ressourcer"
+- X mangler billede
 ---
-## Baggrund og virkemåde ##
 Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til.
 
 Udbyderne af elektroniske ressourcer tilbyder som regel kun adgang fra bestemte IP-adresser, f.eks. dem på biblioternes fysiske adresser. Men udbyderne kender ikke bibliotekets lånere og deres IP-adresser, og det er her at fjernadgangsproxyen kommer ind i billedet. Proxyen kan optræde som "mellemmand" mellem bibliotekslånere og udbyder. 
@@ -35,16 +37,22 @@ Den nationale proxyløsning er bygget på ezproxy. Den drives af DBC for DDF.
 ## Proxy indstillinger ##
 Når proxyen er opsat korrekt vil links til eressourcer i søgeresultater automatisk blive omskrevet.
 
-**Klik sti:** Indstillinger > Web-services > Opsæt proxy URL'er
-\
-**URL:** `admin/config/services/dpl-url-proxy`
+### Her finder du proxy indstillingerne 
+I topmenuen klik på Indstillinger. \
+Vælg dernæst Web-services > Opsæt proxy URL'er
+
+Eller åbn via direkte link (udskift mit-domænenavn.dk):
+
+https://mit-domænenavn`/admin/config/services/dpl-url-proxy`
 {: .notice--primary}
+
+### Guide til at oprette proxy indstillinger
 
 |Feltnavn|Værdi|
 |---|---|
 |Præfiks til proxy-serverens URL|Udfyldes med `https://bib123.bibbaser.dk/login?` BEMÆRK! I skal udskifte `123` med jeres kommunenummer - svarende til ciffer 2-4 i biblioteksnummeret|
 |Hostnames / Værtsnavne|Her skrives de hostnavne/værtsnavne, som skal genkendes og omskrives til at pege mod fjernadgangsproxyen. Værtsnavnene kan normalt findes i ERMS. Er der ikke nogen anden dokumentation på hvilket værtsnavn, man skal angive, kan man aflure navnet ved at holde musecursoren over "Online"-linket på en post fra den pågældende brøndkilde|
-|Replacement|Visse kilder kræver yderligere opsætning, da url'erne skal omskrives yderligere, f.eks. med en biblioteksspecifik identifier/kode. Sektionen "Replacement" er en slags søg- og erstat-funktion. I "Regulært udtryk" beskrives hvad man leder efter. Bemærk at der ikke er tale om en almindelig tekst, men et regulært udtryk - se evt. http://en.wikipedia.org/wiki/Regular_expression . Det betyder blandt andet at man starter og slutter med skråstreg - "/", og at visse tegn skal forsynes med et en foranstillet backslash "\\"."Replacement" er en næsten normal tekststreng, idet man dog kan bruge $1, $2 osv. til at angive delstrenge som er blevet matchet (captured) i det regulære udtryk ovenfor. Lyder det for indviklet, så lev med at låne andres eksempler ;-)|
+|Replacement|Visse kilder kræver yderligere opsætning, da url'erne skal omskrives med f.eks. en biblioteksspecifik identifier/kode. De kilder der kræver replacement er beskrevet herunder.|
 
 ## Elektroniske ressourcer der kræver særlig opsætning ##
 ### Proquest Ebook Central (Ebrary) ###
@@ -112,5 +120,17 @@ Gale kræver særlig opsætning, da der i url'en indgår en parameter med et bib
 
 ### Mango languages ###
 Mango languages skal håndteres på samme måde som Gale. Men bibliotekets identifier kan godt hedde noget andet end for Gale. Se efter den konkrete værdi i ERMS
+
+## Hvordan ved jeg, om jeg har gjort det rigtigt?
+Fremsøg på jeres hjemmeside en post fra den e-ressource, som du vil tjekke.
+
+Hold musen hen over Se online knappen og verificer at URL'en er omskrevet, så det peger på proxy-URL'en.
+
+Tjek også at Se online knappen faktisk virker.
+
+INDSÆT SKÆRMBILLEDE
+
+## Hvordan virker replacement? (For nørderne)
+Sektionen "Replacement" er en slags søg- og erstat-funktion. I "Regulært udtryk" beskrives hvad man leder efter. Bemærk at der ikke er tale om en almindelig tekst, men et regulært udtryk - se evt. http://en.wikipedia.org/wiki/Regular_expression . Det betyder blandt andet at man starter og slutter med skråstreg - "/", og at visse tegn skal forsynes med et en foranstillet backslash "\\"."Replacement" er en næsten normal tekststreng, idet man dog kan bruge $1, $2 osv. til at angive delstrenge som er blevet matchet (captured) i det regulære udtryk ovenfor. Lyder det for indviklet, så lev med at låne andres eksempler ;-)
 
 

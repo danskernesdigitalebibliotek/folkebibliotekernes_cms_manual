@@ -21,10 +21,15 @@ feature_row:
     title: "Nye features i Folkebibliotekernes CMS"
     excerpt: "Få overblik over hvad er nyt i forhold til DDB CMS."
     url: "/nye-features/"
+  - image_path: /assets/images/indholdsredaktion.jpg
+    alt: "Opret indhold i Folkebibliotekernes CMS"
+    title: "Opret indhold i Folkebibliotekernes CMS"
+    excerpt: "Sådan opretter du artikler, arrangementer, sider, åbningstider mv. (Udbygges løbende)"
+    url: "/indhold/"
   - image_path: /assets/images/systemindstillinger.jpg
     alt: "Systemindstillinger i Folkebibliotekernes CMS"
     title: "Systemindstillinger i Folkebibliotekernes CMS"
-    excerpt: "Alle indstillingsmuligheder beskrevet fra en ande af (Udbygges løbende)"
+    excerpt: "Beskrivelse af alle systemets konfigurationsmuligheder (Udbygges løbende)"
     url: "/systemindstillinger/"
   - image_path: /assets/images/content.jpg
     alt: "Guidelines til god webkommunikation"

@@ -1,5 +1,5 @@
 ---
-title: "Biblioteket App'en"  
+title: "Biblioteket App"  
 ---
 
 Biblioteket App'en

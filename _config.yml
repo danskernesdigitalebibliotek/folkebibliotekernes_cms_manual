@@ -77,6 +77,9 @@ collections:
   systemindstillinger:
     output: true
     permalink: /:collection/:path/
+  indhold:
+    output: true
+    permalink: /:collection/:path/
   nye-features:
     output: true
     permalink: /:collection/:path/
@@ -116,6 +119,19 @@ defaults:
       share: false
       comments: false
       sidebar: true
+  # _indhold
+  - scope:
+      path: ""
+      type: indhold
+    values:
+      layout: single
+      toc: true
+      toc_label: "Indhold i artiklen"
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar: true
   # _nye-features
   - scope:
       path: ""
@@ -143,7 +159,6 @@ defaults:
       share: false
       comments: false
       sidebar: true
-
   # _audience
   - scope:
       path: ""

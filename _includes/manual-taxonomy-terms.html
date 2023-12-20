@@ -1,12 +1,4 @@
 <p>
-  <span class="taxonomy_header"><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Artiklens kategori</span>
-  {% assign filtered = site.category | where_exp:"category","page.category contains category.title" %}
-  {% for category in filtered %}
-    <a href="{{ category.url  | relative_url }}" class="btn btn--inverse btn--small">{{ category.title }}</a>
-  {% endfor %}
-</p>
-
-<p>
   <span class="taxonomy_header"><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Artiklens emner</span>
   {% assign filtered = site.topic | where_exp:"topic","page.topic contains topic.title" %}
   {% for topic in filtered %}

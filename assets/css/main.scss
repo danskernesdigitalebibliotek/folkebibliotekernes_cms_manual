@@ -67,6 +67,11 @@ nav ul li, nav ol li {
   line-height: 1.3em;
 }
 
+/* Hide toc if there are no entries */
+.toc:not(.toc:has(ul)) {
+  display: none;
+}
+
 /* Figure styling */
 
 figure img, figure iframe, figure .fluid-width-video-wrapper {
