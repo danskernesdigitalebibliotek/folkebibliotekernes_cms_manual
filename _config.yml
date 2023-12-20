@@ -74,7 +74,7 @@ atom_feed:
 
 # Collections
 collections:
-  manual:
+  systemindstillinger:
     output: true
     permalink: /:collection/:path/
   nye-features:
@@ -103,10 +103,10 @@ defaults:
       author_profile: false
       toc: true
       toc_label: "Indhold i artiklen"
-  # _manual
+  # _systemindstillinger
   - scope:
       path: ""
-      type: manual
+      type: systemindstillinger
     values:
       layout: single
       toc: true
