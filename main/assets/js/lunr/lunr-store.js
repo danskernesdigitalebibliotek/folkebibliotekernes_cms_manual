@@ -149,6 +149,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/category/web-services/",
         "teaser": null
       },{
+        "title": "Opret indhold i Folkebibliotekernes CMS",
+        "excerpt":"UNDER UDARBEJDELSE   Her kommer guides til at oprette du redaktionelt indhold i Folkebibliotekernes CMS.  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/indhold/",
+        "teaser": null
+      },{
         "title": "Dashboard",
         "excerpt":"[INDSÆT SKÆRMBILLEDE AF DASHBOARD] Dashboardet er en samlet indgang for brugeren til alt, hvad der vedrører brugerens lån, reserveringer, gebyrer etc. Brugeren kommer til Dashboardet ved at klikke på Dit overblik i brugermenuen. Indholdet på siden tilpasser sig brugeren, så denne kun får vist relevant indhold – fx Reserveringer klar...","categories": ["Lånerstatus og brugerprofil"],
         "tags": [],
@@ -203,28 +209,64 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/vaerkvisningssiden/",
         "teaser": null
       },{
-        "title": "Eksterne systemer",
-        "excerpt":"Folkebibliotekernes CMS har brug for at kommunikere med flere eksterne systemer. Forbindelsen til dem skal være sat korrekt op. FBS Opsæt forbindelse til bibliotekssystemet. Klik sti: Indstillinger &gt; Web-services &gt; FBS indstillinger URL: admin/config/services/fbs Feltnavn Værdi FBS Service URL https://fbs-openplatform.dbc.dk FBS Service URL Adgangsplatformen (OpenID connect) Adgangsplatformen sikrer et ensartet...","categories": ["Konfiguration"],
+        "title": "Brugeroprettelse",
+        "excerpt":"UNDER UDARBEJDELSE   Spørgsmål:     Default aldersgrænsen for seloprettelse er 18 år. Forklaring.   Er det her teksten fra adgangsplatformen skal plottes ind hvis man ønsker at genbruge den fra DDB CMS?   Har vi en standard tekst?   ","categories": ["Personer"],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/eksterne-systemer/",
+        "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/brugeroprettelse/",
+        "teaser": null
+      },{
+        "title": "FBS indstillinger",
+        "excerpt":"Opsæt forbindelse til bibliotekssystemet.   Her finder du indstillinger for FBS  I topmenuen klik på Indstillinger.   Vælg dernæst Web-services &gt; FBS indstillinger   Eller åbn via direkte link (udskift mit-domænenavn.dk):   https://mit-domænenavn.dk/admin/config/services/fbs   Standardindstillinger for FBS                  Feltnavn       Værdi                       FBS Service URL       https://fbs-openplatform.dbc.dk                     FBS Service URL        ","categories": ["Web-services"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/fbs-indstillinger/",
         "teaser": null
       },{
         "title": "Systemindstillinger i Folkebibliotekernes CMS",
-        "excerpt":"Der er adgang til systemindstillinger via menupunktet Indstillinger i top-menuen. Når du klikker på Indstillinger åbner en oversigtside, der kan have flere eller færre menupunkter alt hvilken type bruger du er logget ind med. Lokaladmin har adgang til mange indstillinger, mens Redaktøren har adgang til færre. HER INDSÆTTES SKÆRMBILLEDE AF...","categories": [],
+        "excerpt":"Der er adgang til systemindstillinger via menupunktet Indstillinger i topmenuen. Når du klikker på Indstillinger åbner en oversigtside, der kan have flere eller færre menupunkter, alt hvilken type bruger du er logget ind med. Lokaladmin har adgang til mange indstillinger, mens Redaktøren har adgang til færre. HER INDSÆTTES SKÆRMBILLEDE AF...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/",
         "teaser": null
       },{
-        "title": "Oversættelser",
-        "excerpt":"Oversæt tekst i grænsefladen De fleste tekster i grænsefladen i Folkebibliotekernes CMS kan oversættes ved at bruge den indbyggede oversættelsesfunktion. Klik sti: Indstillinger &gt; Region og sprog &gt; Oversættelse af brugergrænseflade URL: admin/config/regional/translate Fremsøg den tekststreng du ønsker at oversætte. Bemærk at du får forskellige søgeresultater afhængig af, om du...","categories": ["Konfiguration"],
+        "title": "MAPP Intelligence",
+        "excerpt":"Gennem Det Digitale Folkebibliotek har bibliotekerne adgang til web- og appstatistikløsningen MAPP, som giver indblik i brugen af bibliotekernes hjemmesider og appen Biblioteket. Læs mere om MAPP og find link til MAPP-login For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt. Sitet fødes med de...","categories": ["System"],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/oversaettelser/",
+        "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/mapp-intelligence/",
         "teaser": null
       },{
-        "title": "Fjernadgang med proxy",
-        "excerpt":"Baggrund og virkemåde Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til. Udbyderne af elektroniske ressourcer tilbyder som regel kun adgang fra bestemte IP-adresser, f.eks. dem på biblioternes fysiske adresser. Men udbyderne kender ikke bibliotekets lånere...","categories": ["Konfiguration"],
+        "title": "OpenID connect (Adgangsplatformen)",
+        "excerpt":"Adgangsplatformen sikrer et ensartet login-flow for brugerne på tværs af bibliotekstjenester. Brugeren sendes til en en selvstændig loginside. Efter login sendes brugeren retur igen. Single Sign-On gør, at brugerne kan skifte mellem bibliotekstjenester uden at skulle logge ind flere gange. Er du f. eks. logget ind i Folkebibliotekernes CMS kan...","categories": ["Web-services"],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/proxy/",
+        "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/openid-connect/",
+        "teaser": null
+      },{
+        "title": "Oversættelse af brugergrænseflade",
+        "excerpt":"De fleste tekster i grænsefladen i Folkebibliotekernes CMS kan oversættes ved at bruge den indbyggede oversættelsesfunktion. Her finder du oversættelsesfunktionen I topmenuen klik på Indstillinger. Vælg dernæst Region og sprog &gt; Oversættelse af brugergrænseflade Eller åbn via direkte link (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/regional/translate Sådan oversætter du Fremsøg den tekststreng du ønsker...","categories": ["Region og sprog"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/oversaettelse-af-brugergraenseflade/",
+        "teaser": null
+      },{
+        "title": "Publizon indstillinger",
+        "excerpt":"UNDER UDARBEJDELSE   ","categories": ["Web-services"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/publizon-indstillinger/",
+        "teaser": null
+      },{
+        "title": "RSS udgivelse",
+        "excerpt":"UNDER UDARBEJDELSE  ","categories": ["Web-services"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/rss-udgivelse/",
+        "teaser": null
+      },{
+        "title": "Opsæt proxy URL'er",
+        "excerpt":"Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til. Udbyderne af elektroniske ressourcer tilbyder som regel kun adgang fra bestemte IP-adresser, f.eks. dem på biblioternes fysiske adresser. Men udbyderne kender ikke bibliotekets lånere og deres IP-adresser,...","categories": ["Web-services"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/url-proxy-indstillinger/",
+        "teaser": null
+      },{
+        "title": "Indstillinger for viderestilling af bruger til Adgangsplatformen",
+        "excerpt":"UNDER UDARBEJDELSE   Spørgsmål:     Er der noget bibliotekerne skal tilrette her?   Hvem har brug for at forholde sig til disse indstillinger?  ","categories": ["Personer"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/viderestilling-til-adgangsplatformen/",
         "teaser": null
       },{
         "title": "Adgangsplatformen",
@@ -239,16 +281,34 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/topic/betaling/",
         "teaser": null
       },{
-        "title": "Biblioteket App'en",
+        "title": "Biblioteket App",
         "excerpt":"Biblioteket App’en  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/topic/biblioteket-app/",
+        "teaser": null
+      },{
+        "title": "Elektroniske ressourcer",
+        "excerpt":"Elektroniske ressourcer  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/topic/elektroniske-ressourcer/",
+        "teaser": null
+      },{
+        "title": "eReolen",
+        "excerpt":"eReolen  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/topic/ereolen/",
         "teaser": null
       },{
         "title": "FBS",
         "excerpt":"FBS  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/topic/fbs/",
+        "teaser": null
+      },{
+        "title": "Fjernadgang",
+        "excerpt":"Fjernadgang  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/topic/fjernadgang/",
         "teaser": null
       },{
         "title": "Formidling",
@@ -275,8 +335,8 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/topic/publizon/",
         "teaser": null
       },{
-        "title": "Webstatistik",
-        "excerpt":"Webstatistik  ","categories": [],
+        "title": "Statistik",
+        "excerpt":"Statistik  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/topic/webstatistik/",
         "teaser": null
