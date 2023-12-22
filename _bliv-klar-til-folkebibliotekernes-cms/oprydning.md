@@ -15,9 +15,9 @@ Vi anbefaler, at I systematisk gennemgår alt jeres indhold for at tage stilling
 {: .notice--info}
 
 ### Hvad skal flyttes over? 
-Mange biblioteker har store hjemmesider med meget indhold. Hvis biblioteket aktivt bruger hjemmesiden som et kommunikations- og formidlingsværktøj i bibliotekstilbuddene, kan der ligge mange guldkorn gemt, som bibliotekets webredaktion er uvidende om.
+Mange biblioteker har store hjemmesider med meget indhold. Hvis biblioteket aktivt bruger hjemmesiden som et kommunikations- og formidlingsværktøj i bibliotekstilbuddene, kan der ligge mange guldkorn gemt, som bibliotekets webredaktion er uvidende om. Spørg bredt ud i jeres organisation om hvem der bruger hjemmesiden og til hvad.
 
-**Spørg bredt ud i jeres organisation om hvem der bruger hjemmesiden og til hvad.**
+Mht. at flytte jeres arrangementer, kommer der særskilt information, når tiden nærmer sig.
 
 Her er idéer til indhold, der kan være relevant for jer at flytte:
 - Alt i jeres footer-menu. Her linker de fleste biblioteker til låneregler, gebyrtakster, virksomhedsplaner, privatlivspolitikker og andre formalia, der skal være på plads.
@@ -37,8 +37,9 @@ Her er idéer til indhold, der kan være relevant for jer at flytte:
 -	Information på betalingssider
     - Betalingssiden/Overblik over mellemværender fungerer meget forskelligt fra bibliotek til bibliotek. Nogle har debitorintegration med et eksternt betalingssite, andre har debitorintegration udelukkende med faktura-betaling og nogle bruger stadig NETS Easy. I kan have skrevet nogle tekster/oversættelser for at tilpasse DDB CMS til jeres løsning. Jeg vil råde jer til at tage screenshots af alle trin i en betalingsproces. Opret et gebyr til jer selv og betal det. Tag billeder undervejs. 
 
+**OBS!** Nets Easy integration bliver ikke mulighed i Folkebibliotekernes CMS. Det udvikles slet ikke.
+{: .notice--primary}
 
-I kommer naturligvis også flytte jeres arrangementer, men det vil der komme særskilt information om, når tiden nærmer sig.
 
 - **Hvad siger statistikken?** Kig også på, hvad der rent faktisk bliver brugt på jeres nuværende site. I kan bruge Mapp til at se, hvilket indhold, der er blevet læst flest gange. Vi har lavet en guide, der er lige til at følge: [Se statistik for brug af hjemmesidens redaktionelle indhold i Mapp](https://detdigitalefolkebibliotek.dk/sites/default/files/vejledning_i_at_traekke_brugsstatistik_for_redaktionelt_indhold_mapp.pdf){:target="_blank" rel="noopener"}
 
