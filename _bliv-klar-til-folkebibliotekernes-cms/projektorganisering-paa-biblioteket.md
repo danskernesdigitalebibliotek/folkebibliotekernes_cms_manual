@@ -16,7 +16,7 @@ Det vil være meget forskelligt, hvordan I er organiseret ude på de enkelte bib
 
 Blandt de kompetencer man kan overveje at inddrage er: 
 
-- Administrator af hjemmesiden: Står for konfigureringen af backenden og opsætningen af roller og brugere af systemet. 
+- Administrator af hjemmesiden: Tilpasser indstillinger i backenden og opretter redaktør-brugerne i systemet. 
 
 - Webredaktion: Opbygger hjemmesidens struktur i forhold til indhold og navigation. 
 
