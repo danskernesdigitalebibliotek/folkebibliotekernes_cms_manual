@@ -20,7 +20,8 @@ Mange biblioteker har store hjemmesider med meget indhold. Hvis biblioteket akti
 **Spørg bredt ud i jeres organisation om hvem der bruger hjemmesiden og til hvad.**
 
 Her er idéer til indhold, der kan være relevant for jer at flytte:
-- Alt i jeres footer-menu. Her linker de fleste biblioteker til låneregler og andre formalia, der skal være på plads.
+- Alt i jeres footer-menu. Her linker de fleste biblioteker til låneregler, gebyrtakster, virksomhedsplaner, privatlivspolitikker og andre formalia, der skal være på plads.
+
 - Hjælpesider / vejledninger
 - Beskrivelser af jeres bibliotekstilbud i forhold til daginstitutioner, skoler, læseklubber, ungdomsuddannelser, bogen kommer osv.
 - Tilmeldingsformularer til diverse bibliotekstilbud
@@ -28,6 +29,14 @@ Her er idéer til indhold, der kan være relevant for jer at flytte:
 - Læseinspiration / "nyt på hylden"-lister
 - Udvalgte nyheder, som statistikken siger bliver brugt
 - Teksten på brugeroprettelsessiden
+   - Gå ind på jeres hjemmeside. Tryk på "Log ind". Nu åbner Adgangsplatformens "Log ind"-side. Tryk på linket "Ny bruger?" Kopier teksten der vises her. (Teksten er også tilgængelig i DDB CMS backend via Indstillinger > Ding > Adgangsplatformen > Registration)
+- Teksten der vises ved "0 hits søgninger"
+    - Fremprovoker en 0-hit søgning på jeres website og kopier den tekst der vises
+- Teksten på Kontakt-formularen
+    - De fleste biblioteker har link til en kontakt-formular i hovedmenuen på deres website. Åbn kontakt siden og tag et screenshot eller kopier teksterne.
+-	Information på betalingssider
+    - Betalingssiden/Overblik over mellemværender fungerer meget forskelligt fra bibliotek til bibliotek. Nogle har debitorintegration med et eksternt betalingssite, andre har debitorintegration udelukkende med faktura-betaling og nogle bruger stadig NETS Easy. I kan have skrevet nogle tekster/oversættelser for at tilpasse DDB CMS til jeres løsning. Jeg vil råde jer til at tage screenshots af alle trin i en betalingsproces. Opret et gebyr til jer selv og betal det. Tag billeder undervejs. 
+
 
 I kommer naturligvis også flytte jeres arrangementer, men det vil der komme særskilt information om, når tiden nærmer sig.
 
