@@ -6,17 +6,21 @@ toc: false
 ---
 
 ## Brug søgefunktionen - den virker faktisk!
-INDSÆT ANIMATION
-
 Er der noget bestemt du leder så start med en søgning. Alle sider i manualen er fuldtekstindekseret. 
 Søg præcis med de ord der anvendes i backend på Folkebibliotekernes CMS. Vi bestræber os på at de ord er søgbare.
+![search-animation](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/840b9436-af5b-4368-b53e-781f552ac058)
 
-## Kig på emneoversigten
-INDSÆT BILLEDE
-Mangler du et samlet overblik så kig på emneoversigten. Den går på tværs af alle manualens sider og sektioner.
+
+
+## Kig i emneoversigten
+Mangler du et samlet overblik så kig i emneoversigten. Den går på tværs af alle manualens sider og sektioner.
+![Eneoversigt](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/8055e2d4-51d5-4022-ac98-c06ae0e6ec4a)
+
+
 
 ## Brug kategorierne på forsiden
-INDSÆT BILLEDE
 Vi har inddelt manualen i sektioner. Orienter dig i dem. De udgør grundstrukturen i manualen. Alle sider tilhører en af sektionerne.
+![frontpage-sections](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/a4fd820f-8ac7-469b-8828-f525b96895bc)
+
 
 
