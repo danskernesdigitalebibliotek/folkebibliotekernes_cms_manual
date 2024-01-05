@@ -22,5 +22,8 @@ Mangler du et samlet overblik så kig i emneoversigten. Den går på tværs af a
 Vi har inddelt manualen i sektioner. Orienter dig i dem. De udgør grundstrukturen i manualen. Alle sider tilhører en af sektionerne.
 ![frontpage-sections](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/a4fd820f-8ac7-469b-8828-f525b96895bc)
 
+![frontpage-sections](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d5f5816d-c2a7-4d44-bbdc-b74204e8a273)
+
+
 
 
