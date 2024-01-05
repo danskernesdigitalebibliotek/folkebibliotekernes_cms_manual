@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Folkebibliotekernes CMS
+subtitle: via foreningen Det Digitale Folkebibliotek
 logo: "/assets/images/layout/ddf-logo-small.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
