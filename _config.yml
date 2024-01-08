@@ -34,7 +34,7 @@ algolia:
   files_to_exclude:
    - _category/*
    - _audience/*
-   - _topic/*
+   - _emneord/*
 
 
 github: [metadata]
@@ -93,7 +93,7 @@ collections:
   category:
     output: true
     permalink: /:collection/:path/
-  topic:
+  emneord:
     output: true
     permalink: /:collection/:path/
 
@@ -180,12 +180,12 @@ defaults:
       author_profile: false
       share: false
       comments: false
-  # _topic
+  # _emneord
   - scope:
       path: ""
-      type: topic
+      type: emneord
     values:
-      layout: single
+      layout: emneord
       taxonomy-header: "Artikler om emnet"
       read_time: false
       author_profile: false

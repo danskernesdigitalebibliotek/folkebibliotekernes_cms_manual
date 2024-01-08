@@ -1,7 +1,7 @@
 ---
 title: "OpenID connect (Adgangsplatformen)"
 category: "Web-services"
-topic: 
+emneord: 
 - "Adgangsplatformen"
 ---
 

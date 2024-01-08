@@ -1,7 +1,7 @@
 ---
 title: "Indstillinger for viderestilling af bruger til Adgangsplatformen"
 category: "Personer"
-topic: 
+emneord: 
 - "Adgangsplatformen"
 - "X mangler tekst"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "RSS udgivelse"
 category: "Web-services"
-topic: 
+emneord: 
 - "Biblioteket App"
 - "X mangler indhold"
 ---

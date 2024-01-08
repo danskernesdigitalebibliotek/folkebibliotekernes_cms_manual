@@ -5,14 +5,14 @@ layout: archive
 <section id="{{ page.title | slugify | downcase }}" class="taxonomy__section">
   <h2 class="archive__subtitle">{{ page.taxonomy-header}} "{{ page.title }}"</h2>
   <div class="entries-{{ entries_layout }}">
-    {% assign docs-in-topic = "" | split: ',' %}
+    {% assign docs-in-emneord = "" | split: ',' %}
     {%- for document in site.documents  -%}
-      {% if document.topic contains page.title %}
-        {% assign docs-in-topic = docs-in-topic | push: document %}
+      {% if document.emneord contains page.title %}
+        {% assign docs-in-emneord = docs-in-emneord | push: document %}
       {% endif %}
     {%- endfor -%}
 
-    {% for post in docs-in-topic %}
+    {% for post in docs-in-emneord %}
       {% include archive-single.html type=entries_layout %}
     {% endfor %}
   </div>

@@ -19,15 +19,15 @@ layout: archive
 
 {%- for post in entries -%}
   {%- unless post.hidden -%}
-    {% assign docs-in-topic = "" | split: ',' %}
+    {% assign docs-in-emneord = "" | split: ',' %}
     {%- for document in site.documents  -%}
-      {% if document.topic contains post.title %}
-        {% assign docs-in-topic = docs-in-topic | push: document %}
+      {% if document.emneord contains post.title %}
+        {% assign docs-in-emneord = docs-in-emneord | push: document %}
       {% endif %}
     {%- endfor -%}
 
-    {% if docs-in-topic.size > 0 %}
-      {% include topic-archive-single.html %}
+    {% if docs-in-emneord.size > 0 %}
+      {% include emneord-archive-single.html %}
     {% endif %}
   
   {%- endunless -%}

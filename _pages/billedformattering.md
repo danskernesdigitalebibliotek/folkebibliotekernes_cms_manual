@@ -5,7 +5,7 @@ audience:
   - Redaktør
   - Administrator
   - Udvikler
-topic:
+emneord:
   - Grundkonfigutation
   - Formidling
   - Betaling

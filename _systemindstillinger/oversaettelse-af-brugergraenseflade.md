@@ -1,7 +1,7 @@
 ---
 title: "Oversættelse af brugergrænseflade"
 category: "Region og sprog"
-topic: "Oversættelse af brugergrænsefladen"
+emneord: "Oversættelse af brugergrænsefladen"
 audience:
 ---
 
