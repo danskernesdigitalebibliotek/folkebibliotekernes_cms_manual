@@ -1,0 +1,35 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+
+{% assign entries = site[page.collection] %}
+
+{% if page.sort_by %}
+  {% assign entries = entries | sort: page.sort_by %}
+{% endif %}
+
+{% if page.sort_order == 'reverse' %}
+  {% assign entries = entries | reverse %}
+{% endif %}
+
+{%- for post in entries -%}
+  {%- unless post.hidden -%}
+    {% assign docs-in-topic = "" | split: ',' %}
+    {%- for document in site.documents  -%}
+      {% if document.topic contains post.title %}
+        {% assign docs-in-topic = docs-in-topic | push: document %}
+      {% endif %}
+    {%- endfor -%}
+
+    {% if docs-in-topic.size > 0 %}
+      {% include topic-archive-single.html %}
+    {% endif %}
+  
+  {%- endunless -%}
+{%- endfor -%}
+</div>

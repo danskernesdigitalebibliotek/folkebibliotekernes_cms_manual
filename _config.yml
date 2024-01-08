@@ -165,8 +165,7 @@ defaults:
       path: ""
       type: audience
     values:
-      layout: taxonomy-term
-      taxonomy-header: "Artikler relevante for rollen"
+      layout: single
       read_time: false
       author_profile: false
       share: false
@@ -176,8 +175,7 @@ defaults:
       path: ""
       type: category
     values:
-      layout: taxonomy-term
-      taxonomy-header: "Artikler i kategorien"
+      layout: single
       read_time: false
       author_profile: false
       share: false
@@ -187,7 +185,7 @@ defaults:
       path: ""
       type: topic
     values:
-      layout: taxonomy-term
+      layout: single
       taxonomy-header: "Artikler om emnet"
       read_time: false
       author_profile: false
