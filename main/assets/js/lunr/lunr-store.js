@@ -12,13 +12,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 7: Eksport af billeder / nyt billedmateriale",
-        "excerpt":"Resultat Et billede siger mere end 1000 ord. Det ordsprog kender de fleste af os efterhånden, og der er noget om snakken. Billeder er visuelle udtryk, der kan give bedre forståelse for dit indhold på hjemmesiden, samtidig med at det gør teksten letfordøjelig. Med denne opgave skal I tage stilling...","categories": ["Overgangsaktiviter"],
+        "excerpt":"Et billede siger mere end 1000 ord. Det ordsprog kender de fleste af os efterhånden, og der er noget om snakken. Billeder er visuelle udtryk, der kan give bedre forståelse for dit indhold på hjemmesiden, samtidig med at det gør teksten letfordøjelig. Med denne opgave skal I tage stilling til...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/billedmateriale/",
         "teaser": null
       },{
         "title": "Opgave 6: Forbered nyt indhold, hvor det er påkrævet",
-        "excerpt":"Beskrivelse Ikke alle komponenter og indholdstyper i det gamle CMS findes i det nye CMS. Nogle udvikles slet ikke og andre når ikke at blive klar inden indflytningsdatoen. Her er en oversigt over indhold, som I skal gentænke, hvis det skal overføres til Folkebibliotekernes CMS. Metode og fremgangsmåde Læs dette...","categories": ["Overgangsaktiviter"],
+        "excerpt":"Ikke alle komponenter og indholdstyper i det gamle CMS findes i det nye CMS. Nogle udvikles slet ikke og andre når ikke at blive klar inden indflytningsdatoen. Her er en oversigt over indhold, som I skal gentænke, hvis det skal overføres til Folkebibliotekernes CMS. Metode og fremgangsmåde Læs dette afsnit...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/forbered-indhold/",
         "teaser": null
@@ -30,31 +30,31 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 3: Identitetsfarve",
-        "excerpt":"Beskrivelse Bibliotekets egen unikke identitetsfarve bruges på en lang række elementer i brugergrænsefladen. I har måske haft flere farver på jeres nuværende hjemmeside, men nu skal I kun vælge en. Metode og fremgangsmåde I skal vælge en identitetsfarve for jeres hjemmeside. I skal vælge en stærk og ren farve, da...","categories": ["Overgangsaktiviter"],
+        "excerpt":"Bibliotekets egen unikke identitetsfarve bruges på en lang række elementer i brugergrænsefladen. I har måske haft flere farver på jeres nuværende hjemmeside, men nu skal I kun vælge en. Metode og fremgangsmåde I skal vælge en identitetsfarve for jeres hjemmeside. I skal vælge en stærk og ren farve, da den...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/identitetsfarve/",
         "teaser": null
       },{
         "title": "Opgave 4: Informationsarkitektur og navigation",
-        "excerpt":"Beskrivelse Designbureauet Dept har lavet grunddesign til Folkebibliotekernes CMS. Dept har arbejdet med et særligt navigationsprincip, som det er værd at sætte sig ind i. Jeres nye hjemmeside bliver bedst, hvis I benytter design systemet, som det er tiltænkt. Med navigation hub konceptet navigerer man i dybden i stedet for...","categories": ["Overgangsaktiviter"],
+        "excerpt":"Designbureauet Dept har lavet grunddesign til Folkebibliotekernes CMS. Dept har arbejdet med et særligt navigationsprincip, som det er værd at sætte sig ind i. Jeres nye hjemmeside bliver bedst, hvis I benytter design systemet, som det er tiltænkt. Med navigation hub konceptet navigerer man i dybden i stedet for bredden....","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/informationsarkiktektur/",
         "teaser": null
       },{
         "title": "Opgave 2: Tilretning af logo til nyt design ",
-        "excerpt":"Beskrivelse Det kan godt tage tid at designe et nyt logo, så tænk allerede nu over, om bibliotekets logo overholder de krav, der er til det nye CMS. Måske får det betydning for hele bibliotekets visuelle identitet, så det er vigtigt hurtigst muligt at få det på plads. Metode og...","categories": ["Overgangsaktiviter"],
+        "excerpt":"Det kan godt tage tid at designe et nyt logo, så tænk allerede nu over, om bibliotekets logo overholder de krav, der er til det nye CMS. Måske får det betydning for hele bibliotekets visuelle identitet, så det er vigtigt hurtigst muligt at få det på plads. Metode og fremgangsmåde...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/logo/",
         "teaser": null
       },{
         "title": "Opgave 5: Udvælg indhold der skal flyttes med over",
-        "excerpt":"Beskrivelse En flytning kan være en god lejlighed til at få ryddet op i gammelt indhold. I denne opgave får I nogle tips til at få kvalificeret det indhold, som skal med over på den nye hjemmeside. Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal...","categories": ["Overgangsaktiviter"],
+        "excerpt":"En flytning kan være en god lejlighed til at få ryddet op i gammelt indhold. I denne opgave får I nogle tips til at få kvalificeret det indhold, som skal med over på den nye hjemmeside. Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal flyttes...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/oprydning/",
         "teaser": null
       },{
         "title": "Opgave 1: Projektorganisering på biblioteket",
-        "excerpt":"Mål Målet med denne opgave er at få etableret en fornuftig organisering af arbejdet med at implementere Folkebibliotekernes CMS. Beskrivelse I skal nu til at opbygge en helt ny hjemmeside, og det kommer til at tage noget tid. Derfor er det vigtigt, at I får styr på, hvem der skal...","categories": ["Overgangsaktiviter"],
+        "excerpt":"Målet med denne opgave er at få etableret en fornuftig organisering af arbejdet med at implementere Folkebibliotekernes CMS. Beskrivelse I skal nu til at opbygge en helt ny hjemmeside, og det kommer til at tage noget tid. Derfor er det vigtigt, at I får styr på, hvem der skal gøre...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/projektorganisering-paa-biblioteket/",
         "teaser": null
@@ -167,16 +167,22 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/emneord/biblioteket-app/",
         "teaser": null
       },{
+        "title": "Billeder",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/emneord/billeder/",
+        "teaser": null
+      },{
+        "title": "Brugere og roller",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/emneord/brugere-og-roller/",
+        "teaser": null
+      },{
         "title": "Elektroniske ressourcer",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/emneord/elektroniske-ressourcer/",
-        "teaser": null
-      },{
-        "title": "eReolen",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/emneord/ereolen/",
         "teaser": null
       },{
         "title": "FBS",
@@ -209,6 +215,30 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/emneord/",
         "teaser": null
       },{
+        "title": "Kategorier og tags",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/emneord/kategorier-og-tags/",
+        "teaser": null
+      },{
+        "title": "Logo og farver",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/emneord/logo-og-farver/",
+        "teaser": null
+      },{
+        "title": "Medarbejderoversigt",
+        "excerpt":"Liste over bibliotekets personale  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/emneord/medarbejderoversigt/",
+        "teaser": null
+      },{
+        "title": "Menuer og navigation",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/emneord/menuer-og-navigation/",
+        "teaser": null
+      },{
         "title": "Oversættelser",
         "excerpt":"Oversættelser  ","categories": [],
         "tags": [],
@@ -216,9 +246,15 @@ var store = [{
         "teaser": null
       },{
         "title": "Publizon",
-        "excerpt":"Publizon  ","categories": [],
+        "excerpt":"eReolen, lydbøger, e-bøger, digitale lån, digitale reserveringer  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/emneord/publizon/",
+        "teaser": null
+      },{
+        "title": "URL omdirigeringer",
+        "excerpt":"Redirects  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/emneord/url-omdirigeringer/",
         "teaser": null
       },{
         "title": "Statistik",
