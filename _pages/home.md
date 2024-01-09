@@ -5,7 +5,9 @@ layout: splash
 header:
   overlay_image: /assets/images/splash.png
   actions:
-    - label: "Tidsplan for Folkebibliotekernes CMS"
+    - label: "Hurtigguide til manualen"
+      url: "hurtigguide-til-manualen"
+    - label: "Tidsplan"
       url: "/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf"
 
 excerpt: "Manual, tidsplan og information om Folkebibliotekernes CMS. Sitets vedligeholdes af DDF og udbygges løbende."

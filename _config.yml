@@ -105,29 +105,30 @@ defaults:
     values:
       layout: single
       author_profile: false
-      toc: true
-      toc_label: "Indhold i artiklen"
+      toc: false
+      classes: wide
+      nav: overblik
   # _systemindstillinger
   - scope:
       path: ""
       type: systemindstillinger
     values:
       layout: single
-      toc: true
-      toc_label: "Indhold i artiklen"
+      toc: false
       read_time: false
       author_profile: false
       share: false
       comments: false
       sidebar: true
+      classes: wide
   # _indhold
   - scope:
       path: ""
       type: indhold
     values:
       layout: single
-      toc: true
-      toc_label: "Indhold i artiklen"
+      toc: false
+      classes: wide
       read_time: false
       author_profile: false
       share: false

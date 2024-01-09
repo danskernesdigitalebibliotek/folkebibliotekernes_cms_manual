@@ -4,6 +4,26 @@ main:
   - title: "Emneoversigt"
     url: emneord
 
+overblik:
+  - title: Overblik
+    children:
+      - title: "Hurtigguide til manualen"
+        url: hurtigguide-til-manualen
+      - title: "Emneoversigt"
+        url: emneord
+      - title: "Tidsplan"
+        url: "/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf"
+      - title: "Bliv klar til Folkebibliotekernes CMS"
+        url: "/bliv-klar-til-folkebibliotekernes-cms/"
+      - title: "Nye features i Folkebibliotekernes CMS"
+        url: "/nye-features/"
+      - title: "Opret indhold i Folkebibliotekernes CMS"
+        url: "/indhold/"
+      - title: "Systemindstillinger i Folkebibliotekernes CMS"
+        url: "/systemindstillinger/"
+      - title: "Guidelines til god webkommunikation"
+        url: "guidelines-til-god-webkommunikation"
+
 
 
  

@@ -1,8 +1,7 @@
 ---
 permalink: /hurtigguide-til-manualen
 title:  "Hurtigguide til manualen"
-classes: wide
-toc: false
+nav: "overblik"
 ---
 
 ## Brug søgefunktionen - den virker faktisk!

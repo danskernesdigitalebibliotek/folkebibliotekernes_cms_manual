@@ -1,16 +1,7 @@
-<p>
-  <span class="taxonomy_header"><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Artiklens emner</span>
+<p class="emneord">
   {% assign filtered = site.emneord | where_exp:"emneord","page.emneord contains emneord.title" %}
   {% for emneord in filtered %}
-    <a href="{{ emneord.url  | relative_url }}" class="btn btn--inverse btn--small">{{ emneord.title }}</a>
-  {% endfor %}
-</p>
-
-<p>
-  <span class="taxonomy_header"><i class="fas fa-fw fa-user-circle" aria-hidden="true"></i> Målgruppe</span>
-  {% assign filtered = site.audience | where_exp:"audience","page.audience contains audience.title" %}
-  {% for audience in filtered %}
-    <a href="{{ audience.url  | relative_url }}" class="btn btn--inverse btn--small">{{ audience.title }}</a>
+  <a href="{{ emneord.url  | relative_url }}" class="btn btn--info btn--small">{{ emneord.title }}</a>
   {% endfor %}
 </p>
 
