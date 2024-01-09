@@ -5,4 +5,6 @@ collection: emneord
 permalink: /emneord/
 author_profile: false
 classes: emneord-archive
+sidebar: true
+nav: "overblik"
 ---

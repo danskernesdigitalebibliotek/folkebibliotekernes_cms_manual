@@ -107,7 +107,8 @@ defaults:
       author_profile: false
       toc: false
       classes: wide
-      nav: overblik
+      sidebar:
+        nav: overblikk
   # _systemindstillinger
   - scope:
       path: ""

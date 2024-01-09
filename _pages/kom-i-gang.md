@@ -1,6 +1,7 @@
 ---
 permalink: /hurtigguide-til-manualen
 title:  "Hurtigguide til manualen"
+sidebar: true
 nav: "overblik"
 ---
 

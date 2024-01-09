@@ -7,15 +7,9 @@
   {% endcomment %}
 
   {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src="{{ s.image | relative_url }}"
-             alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-      {% endif %}
-      {% if s.title %}{{ s.title }}{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
-      {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
-    {% endfor %}
+    
+    {% if page.nav %}{% include nav_list nav=page.nav %}{% endif %}
+
 
     {% comment %}
       Find the collection this page belongs to

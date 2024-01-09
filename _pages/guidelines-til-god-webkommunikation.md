@@ -1,6 +1,8 @@
 ---
 permalink: /guidelines-til-god-webkommunikation
 title:  "Guidelines: God webkommunikation"
+sidebar: true
+nav: "overblik"
 ---
 
 Her er en tjekliste til god webkommunikation. Følger du den bliver dine tekster behagelige at læse på skærmen og du sikrer webtilgængeligheden. Samtidig opnår du også bedre synlighed i Google.  
