@@ -1,8 +1,9 @@
 ---
 title: "Opgave 4: Informationsarkitektur og navigation"
 category: "Overgangsaktiviter"
+emneord:
+  - Menuer og navigation
 ---
-## Beskrivelse ##
 **Designbureauet Dept** har lavet grunddesign til Folkebibliotekernes CMS. Dept har arbejdet med et særligt navigationsprincip, som det er værd at sætte sig ind i. Jeres nye hjemmeside bliver bedst, hvis I benytter design systemet, som det er tiltænkt.
 
 Med **navigation hub konceptet** navigerer man i dybden i stedet for bredden. Man har få menupunkter i hovedmenuen. Det giver en overskuelig header med få simple valg for brugeren. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Via navigationselementer på disse sider guides brugerne "step-by-step" gennem flere niveauer, indtil de finder det indhold, de leder efter. Navigation hub princippet er velegnet til informationstunge hjemesider.

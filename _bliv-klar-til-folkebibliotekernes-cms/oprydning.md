@@ -2,8 +2,6 @@
 title: "Opgave 5: Udvælg indhold der skal flyttes med over"
 category: "Overgangsaktiviter"
 ---
-
-## Beskrivelse ##
 En flytning kan være en god lejlighed til at få ryddet op i gammelt indhold. I denne opgave får I nogle tips til at få kvalificeret det indhold, som skal med over på den nye hjemmeside. 
 
 Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal flyttes med over. Det er helt op til det enkelte biblioteks strategi.  Ambitionsniveauet kunne sagtens være at have mindre indhold end nu, da meget tyder på, at vi har en tendens til at overinformere brugerne, som har svært ved at finde rundt i indholdet. 

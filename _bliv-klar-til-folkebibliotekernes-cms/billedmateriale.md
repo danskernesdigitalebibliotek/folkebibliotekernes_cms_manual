@@ -1,9 +1,9 @@
 ---
 title: "Opgave 7: Eksport af billeder / nyt billedmateriale"
 category: "Overgangsaktiviter"
+emneord: 
+  - Billeder
 ---
-
-## Resultat ##
 Et billede siger mere end 1000 ord. Det ordsprog kender de fleste af os efterhånden, og der er noget om snakken. Billeder er visuelle udtryk, der kan give bedre forståelse for dit indhold på hjemmesiden, samtidig med at det gør teksten letfordøjelig. Med denne opgave skal I tage stilling til jeres billedmateriale.  
 
 ## Metode og fremgangsmåde ##

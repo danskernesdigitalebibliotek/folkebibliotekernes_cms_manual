@@ -1,10 +1,9 @@
 ---
 title: "Opgave 1: Projektorganisering på biblioteket"
 category: "Overgangsaktiviter"
+emneord:
+  - Brugere og roller
 ---
-
-## Mål ## 
-
 Målet med denne opgave er at få etableret en fornuftig organisering af arbejdet med at implementere Folkebibliotekernes CMS.  
 
 ## Beskrivelse ## 

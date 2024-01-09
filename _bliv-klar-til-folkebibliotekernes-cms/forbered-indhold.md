@@ -1,9 +1,10 @@
 ---
 title: "Opgave 6: Forbered nyt indhold, hvor det er påkrævet"
 category: "Overgangsaktiviter"
+emneord:
+  - Elektroniske ressourcer
+  - Medarbejderoversigt
 ---
-
-## Beskrivelse
 Ikke alle komponenter og indholdstyper i det gamle CMS findes i det nye CMS. Nogle udvikles slet ikke og andre når ikke at blive klar inden indflytningsdatoen.
 
 Her er en oversigt over indhold, som I skal gentænke, hvis det skal overføres til Folkebibliotekernes CMS. 

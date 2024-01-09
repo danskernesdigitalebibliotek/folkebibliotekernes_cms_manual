@@ -1,9 +1,9 @@
 ---
 title: "Opgave 3: Identitetsfarve"
 category: "Overgangsaktiviter"
+emneord:
+  - Logo og farver
 ---
-
-## Beskrivelse ##
 Bibliotekets egen unikke identitetsfarve bruges på en lang række elementer i brugergrænsefladen. I har måske haft flere farver på jeres nuværende hjemmeside, men nu skal I kun vælge en. 
 
 ## Metode og fremgangsmåde ##

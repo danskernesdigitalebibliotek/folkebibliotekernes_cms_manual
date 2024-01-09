@@ -1,7 +1,7 @@
 <p class="emneord">
   {% assign filtered = site.emneord | where_exp:"emneord","page.emneord contains emneord.title" %}
   {% for emneord in filtered %}
-  <a href="{{ emneord.url  | relative_url }}" class="btn btn--info btn--small">{{ emneord.title }}</a>
+  <a href="{{ emneord.url  | relative_url }}" class="btn btn--inverse btn--small">{{ emneord.title }}</a>
   {% endfor %}
 </p>
 
