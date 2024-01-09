@@ -1,7 +1,7 @@
 ---
 title: "FBS indstillinger"
 category: "Web-services"
-topic: 
+emneord: 
 - "FBS"
 - "X mangler billede"
 ---

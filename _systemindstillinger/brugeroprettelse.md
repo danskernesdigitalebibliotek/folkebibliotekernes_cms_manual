@@ -1,7 +1,7 @@
 ---
 title: "Brugeroprettelse"
 category: "Personer"
-topic: 
+emneord: 
 - "Adgangsplatformen"
 - "X mangler tekst"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Systemindstillinger i Folkebibliotekernes CMS"
 permalink: /systemindstillinger/
-topic: "X mangler billede"
+emneord: "X mangler billede"
 ---
 
 Der er adgang til systemindstillinger via menupunktet Indstillinger i topmenuen.

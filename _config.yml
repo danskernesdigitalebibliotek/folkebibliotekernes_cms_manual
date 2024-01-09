@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Folkebibliotekernes CMS
+subtitle: via foreningen Det Digitale Folkebibliotek
 logo: "/assets/images/layout/ddf-logo-small.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -33,7 +34,7 @@ algolia:
   files_to_exclude:
    - _category/*
    - _audience/*
-   - _topic/*
+   - _emneord/*
 
 
 github: [metadata]
@@ -92,7 +93,7 @@ collections:
   category:
     output: true
     permalink: /:collection/:path/
-  topic:
+  emneord:
     output: true
     permalink: /:collection/:path/
 
@@ -164,8 +165,7 @@ defaults:
       path: ""
       type: audience
     values:
-      layout: taxonomy-term
-      taxonomy-header: "Artikler relevante for rollen"
+      layout: single
       read_time: false
       author_profile: false
       share: false
@@ -175,18 +175,17 @@ defaults:
       path: ""
       type: category
     values:
-      layout: taxonomy-term
-      taxonomy-header: "Artikler i kategorien"
+      layout: single
       read_time: false
       author_profile: false
       share: false
       comments: false
-  # _topic
+  # _emneord
   - scope:
       path: ""
-      type: topic
+      type: emneord
     values:
-      layout: taxonomy-term
+      layout: emneord
       taxonomy-header: "Artikler om emnet"
       read_time: false
       author_profile: false

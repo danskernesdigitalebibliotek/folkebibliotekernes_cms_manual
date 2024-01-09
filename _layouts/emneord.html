@@ -2,15 +2,17 @@
 layout: archive
 ---
 
-
-
-
-
 <section id="{{ page.title | slugify | downcase }}" class="taxonomy__section">
   <h2 class="archive__subtitle">{{ page.taxonomy-header}} "{{ page.title }}"</h2>
   <div class="entries-{{ entries_layout }}">
-    {% assign manual_in_tax = site.manual | where_exp: "manual","manual[page.collection] contains page.title" %}
-    {% for post in manual_in_tax %}
+    {% assign docs-in-emneord = "" | split: ',' %}
+    {%- for document in site.documents  -%}
+      {% if document.emneord contains page.title %}
+        {% assign docs-in-emneord = docs-in-emneord | push: document %}
+      {% endif %}
+    {%- endfor -%}
+
+    {% for post in docs-in-emneord %}
       {% include archive-single.html type=entries_layout %}
     {% endfor %}
   </div>

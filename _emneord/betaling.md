@@ -1,5 +1,3 @@
 ---
 title: "Betaling"  
 ---
-
-Betaling

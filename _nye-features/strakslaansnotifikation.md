@@ -1,7 +1,7 @@
 ---
 title: "Strakslåns-notifikation"
 category: "Søgning"
-topic: "X billede mangler"
+emneord: "X billede mangler"
 ---
 Mens man opretter en reservation kan man få en  **strakslåns-notifikation**. 
 

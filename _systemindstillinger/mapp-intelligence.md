@@ -1,7 +1,7 @@
 ---
 title: "MAPP Intelligence"
 category: "System"
-topic: 
+emneord: 
 - "Statistik"
 ---
 

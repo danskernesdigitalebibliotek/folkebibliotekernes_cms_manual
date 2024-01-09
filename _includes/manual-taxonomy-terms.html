@@ -1,8 +1,8 @@
 <p>
   <span class="taxonomy_header"><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Artiklens emner</span>
-  {% assign filtered = site.topic | where_exp:"topic","page.topic contains topic.title" %}
-  {% for topic in filtered %}
-    <a href="{{ topic.url  | relative_url }}" class="btn btn--inverse btn--small">{{ topic.title }}</a>
+  {% assign filtered = site.emneord | where_exp:"emneord","page.emneord contains emneord.title" %}
+  {% for emneord in filtered %}
+    <a href="{{ emneord.url  | relative_url }}" class="btn btn--inverse btn--small">{{ emneord.title }}</a>
   {% endfor %}
 </p>
 

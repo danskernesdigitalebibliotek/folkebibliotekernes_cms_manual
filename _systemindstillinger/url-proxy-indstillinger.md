@@ -1,7 +1,7 @@
 ---
 title: "Opsæt proxy URL'er"
 category: "Web-services"
-topic: 
+emneord: 
 - "Fjernadgang"
 - "Elektroniske ressourcer"
 - X mangler billede
