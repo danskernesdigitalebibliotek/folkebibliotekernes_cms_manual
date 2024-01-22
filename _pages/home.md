@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/images/new-features.png
     alt: "Grundkonfiguration"
     title: "Grundkonfiguration af Folkebibliotekernes CMS"
-    excerpt: "Skal udføres straks I modtager login til jeres site."
+    excerpt: "Skal udføres straks I modtager login til jeres site. (Udbygges løbende)"
     url: "/grundkonfiguration/"
   - image_path: /assets/images/indholdsredaktion.jpg
     alt: "Opret indhold i Folkebibliotekernes CMS"
