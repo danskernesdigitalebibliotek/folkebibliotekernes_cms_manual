@@ -179,6 +179,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/emneord/brugere-og-roller/",
         "teaser": null
       },{
+        "title": "Dashboard",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/emneord/dashboard/",
+        "teaser": null
+      },{
         "title": "Elektroniske ressourcer",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -221,6 +227,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/emneord/kategorier-og-tags/",
         "teaser": null
       },{
+        "title": "Lån",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/emneord/laan/",
+        "teaser": null
+      },{
         "title": "Logo og farver",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -249,6 +261,12 @@ var store = [{
         "excerpt":"eReolen, lydbøger, e-bøger, digitale lån, digitale reserveringer  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/emneord/publizon/",
+        "teaser": null
+      },{
+        "title": "Reserveringer",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/emneord/reserveringer/",
         "teaser": null
       },{
         "title": "URL omdirigeringer",
