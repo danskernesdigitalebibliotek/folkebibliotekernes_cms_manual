@@ -148,7 +148,19 @@ defaults:
       share: false
       comments: false
       sidebar: true
-       
+    # _grundkonfiguration
+  - scope:
+      path: ""
+      type: grundkonfiguration
+    values:
+      layout: single
+      classes: wide
+      toc: false
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar: true
   # _bliv-klar-til-folkebibliotekernes-cms
   - scope:
       path: ""

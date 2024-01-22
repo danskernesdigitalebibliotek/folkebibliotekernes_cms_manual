@@ -7,6 +7,8 @@ header:
   actions:
     - label: "Hurtigguide til manualen"
       url: "hurtigguide-til-manualen"
+    - label: "Onboarding FAQ"
+      url: "faq"
     - label: "Tidsplan"
       url: "/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf"
 
@@ -23,6 +25,11 @@ feature_row:
     title: "Nye features i Folkebibliotekernes CMS"
     excerpt: "Få overblik over hvad er nyt i forhold til DDB CMS."
     url: "/nye-features/"
+  - image_path: /assets/images/new-features.png
+    alt: "Grundkonfiguration"
+    title: "Grundkonfiguration af Folkebibliotekernes CMS"
+    excerpt: "Skal udføres straks I modtager login til jeres site."
+    url: "/grundkonfiguration/"
   - image_path: /assets/images/indholdsredaktion.jpg
     alt: "Opret indhold i Folkebibliotekernes CMS"
     title: "Opret indhold i Folkebibliotekernes CMS"
