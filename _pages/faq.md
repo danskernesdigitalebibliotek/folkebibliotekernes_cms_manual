@@ -4,7 +4,8 @@ title:  "Onboarding FAQ"
 sidebar: true
 nav: "overblik"
 ---
-**TIPS** Her vil du kunne finde de oftest stillede spørgsmål fra bibliotekerne i forbindelse med forberedelserne og overgangen til Folkebibliotekernes CMS. Siderne her er fuldtekstindekserede, så brug gerne søgefunktionen øverst, hvis du leder efter svar på et specifikt emne. Så vil du også få beskrivelserne i selve manualen med, hvis der findes dokumentation der.\
+**TIPS** 
+Her vil du kunne finde de oftest stillede spørgsmål fra bibliotekerne i forbindelse med forberedelserne og overgangen til Folkebibliotekernes CMS. Siderne her er fuldtekstindekserede, så brug gerne søgefunktionen øverst, hvis du leder efter svar på et specifikt emne. Så vil du også få beskrivelserne i selve manualen med, hvis der findes dokumentation der.\
 **Sidst opdateret** 23. januar 2024
 {: .notice--info}
 ***
@@ -33,14 +34,14 @@ Vi er i fuld gang med oprette en supportfunktion til jer. Her vil I kunne melde 
 
 En det af pilotbibliotekernes opgave vil være at holde netværksmøder og dele den erfaring, de har fået i pilotfasen. På den måde forsøger vi at sikre at bibliotekerne kan hjælpe hinanden ude i regionerne. Vi overvejer end videre at udbyde betalingskurser i Folkebibliotekernes CMS, hvis der viser sig at være interesse for det. Vi kan dog ikke love det før interessen og ressourcebehovet herfor er afdækket.
 
-Hvis man ønsker at blive godt klædt på til arbejdet med den nye hjemmeside er det en god ide, at følge med i den manual, der er under udarbejdelse. Læs gerne med her i [manualen](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual) 
-Vi gør opmærksom på, at manualen er under stadig ændring i takt med, at udviklingen skrider frem.
+Hvis man ønsker at blive godt klædt på til arbejdet med den nye hjemmeside er det en god ide, at følge med i den manual, der er under udarbejdelse. Læs gerne med her i  [manualen](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual)
+. Vi gør opmærksom på, at manualen er under stadig ændring i takt med, at udviklingen skrider frem.
 
 ### Migrering af indhold til Folkebibliotekernes CMS
 Hvorfor ikke bare overføre al indhold fra den ene hjemmeside til den anden? Som udgangspunkt anbefaler vi ikke en totalmigration af indholdet, da der simpelthen er for stor forskel på nuværende DDB CMS og det nye Folkebibliotekernes CMS - det gælder både teknologisk, designmæssigt, opbygning af sider, sitestruktur, tags/kategorier og integrationer mv. 
 Ved en totaloverførsel vil det ikke være muligt at sikre at indholdet lander hensigtsmæssigt på den nye hjemmeside, og det vil derfor kræve en masse ekstra arbejde at rydde op efterfølgende.
 
-Mange biblioteker (herunder København og Århus) ser det også som en oplagt chance for at rydde op i gammelt indhold, og vi har lavet en fin beskrivelse i Manualen på, hvordan I bedst muligt finder indhold og rydder op:[Bliv klar til folkebibliotekernes CMS](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/oprydning/) 
+Mange biblioteker (herunder København og Århus) ser det også som en oplagt chance for at rydde op i gammelt indhold, og vi har lavet en fin beskrivelse i manualen på, hvordan I bedst muligt finder indhold og rydder op: [Bliv klar til folkebibliotekernes CMS](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/oprydning/) 
 
 ### Hvad kommer ikke med i den første udgave af hjemmesiden? 
 Folkebibliotekernes CMS har mange af de samme features som DDB CMS. Dem vil I kunne genkende og tage i brug uden videre. Men vi har også været nødt til at prioritere i udviklingen og derfor vil der være sider og funktioner, som ikke kommer med i første udgave af hjemmesiden. I kan læse mere om dem i manualen samt læse anbefalinger til, hvordan I kan håndtere det:[Bliv klar til folkebibliotekernes CMS](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/forbered-indhold/) 
