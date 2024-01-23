@@ -4,7 +4,7 @@ title:  "Onboarding FAQ"
 sidebar: true
 nav: "overblik"
 ---
-**TIPS** Her vil du kunne finde de oftest stillede spørgsmål fra bibliotekerne i forbindelse med forberedelserne og overgangen til Folkebibliotekernes CMS. Siderne her er fuldtekstindekserede, så brug gerne søgefunktionen øverst, hvis du leder efter svar på et specifikt emne. Så vil du også få beskrivelserne i selve manualen med, hvis der findes dokumentation der. 
+**TIPS** Her vil du kunne finde de oftest stillede spørgsmål fra bibliotekerne i forbindelse med forberedelserne og overgangen til Folkebibliotekernes CMS. Siderne her er fuldtekstindekserede, så brug gerne søgefunktionen øverst, hvis du leder efter svar på et specifikt emne. Så vil du også få beskrivelserne i selve manualen med, hvis der findes dokumentation der.\
 **Sidst opdateret** 23. januar 2024
 {: .notice--info}
 ***
