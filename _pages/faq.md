@@ -4,9 +4,9 @@ title:  "Onboarding FAQ"
 sidebar: true
 nav: "overblik"
 ---
-**TIPS** 
-Her vil du kunne finde de oftest stillede spørgsmål fra bibliotekerne i forbindelse med forberedelserne og overgangen til Folkebibliotekernes CMS. Siderne her er fuldtekstindekserede, så brug gerne søgefunktionen øverst, hvis du leder efter svar på et specifikt emne. Så vil du også få beskrivelserne i selve manualen med, hvis der findes dokumentation der.\
-**Sidst opdateret** 23. januar 2024
+**TIPS**\
+ Her vil du kunne finde de oftest stillede spørgsmål fra bibliotekerne i forbindelse med forberedelserne og overgangen til Folkebibliotekernes CMS. Siderne her er fuldtekstindekserede, så brug gerne søgefunktionen øverst, hvis du leder efter svar på et specifikt emne. Så vil du også få beskrivelserne i selve manualen med, hvis der findes dokumentation der.\
+**Sidst opdateret** 24. januar 2024
 {: .notice--info}
 ***
 ### Hvorfor ny hjemmeside?
@@ -26,13 +26,13 @@ Det er dog endnu ikke besluttet, hvad den endelige pris på løsningen bliver. D
 
 ### Hostingplaner
 Det bliver muligt at tilmelde sig én af to forskellige hostingløsninger: Redaktør eller Webmaster. Der bliver IKKE mulighed for at vælge en programmørplan, som nu. Redaktør- og Webmaster planen vil i store træk være identiske med de nuværende løsninger, som kan ses beskrevet her [Hostingplaner](https://detdigitalefolkebibliotek.dk/hostingplaner) (Gælder dog IKKE programmør).
-Det er dog tanken at redaktør-planen vil få flere rettigheder end den nuværende i forhold til aktivering af speciale moduler.
+Det er dog tanken at redaktør-planen vil få flere rettigheder end den nuværende i forhold til aktivering af specielle moduler.
 Prisen vil være den samme, hvad enten I vælger Redaktør eller Webmaster-løsningen, og det vil være gratis at skifte hostingplan undervejs.
 
 ### Support og uddannelse
 Vi er i fuld gang med oprette en supportfunktion til jer. Her vil I kunne melde fejl, rettelser og ønsker ind. 
 
-En det af pilotbibliotekernes opgave vil være at holde netværksmøder og dele den erfaring, de har fået i pilotfasen. På den måde forsøger vi at sikre at bibliotekerne kan hjælpe hinanden ude i regionerne. Vi overvejer end videre at udbyde betalingskurser i Folkebibliotekernes CMS, hvis der viser sig at være interesse for det. Vi kan dog ikke love det før interessen og ressourcebehovet herfor er afdækket.
+En af pilotbibliotekernes opgave vil være at holde netværksmøder og dele den erfaring, de har fået i pilotfasen. På den måde forsøger vi at sikre at bibliotekerne kan hjælpe hinanden ude i regionerne. Vi overvejer end videre at udbyde betalingskurser i Folkebibliotekernes CMS, hvis der viser sig at være interesse for det. Vi kan dog ikke love det før interessen og ressourcebehovet herfor er afdækket.
 
 Hvis man ønsker at blive godt klædt på til arbejdet med den nye hjemmeside er det en god ide, at følge med i den manual, der er under udarbejdelse. Læs gerne med her i  [manualen](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual)
 . Vi gør opmærksom på, at manualen er under stadig ændring i takt med, at udviklingen skrider frem.
@@ -44,7 +44,7 @@ Ved en totaloverførsel vil det ikke være muligt at sikre at indholdet lander h
 Mange biblioteker (herunder København og Århus) ser det også som en oplagt chance for at rydde op i gammelt indhold, og vi har lavet en fin beskrivelse i manualen på, hvordan I bedst muligt finder indhold og rydder op: [Bliv klar til folkebibliotekernes CMS](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/oprydning/) 
 
 ### Hvad kommer ikke med i den første udgave af hjemmesiden? 
-Folkebibliotekernes CMS har mange af de samme features som DDB CMS. Dem vil I kunne genkende og tage i brug uden videre. Men vi har også været nødt til at prioritere i udviklingen og derfor vil der være sider og funktioner, som ikke kommer med i første udgave af hjemmesiden. I kan læse mere om dem i manualen samt læse anbefalinger til, hvordan I kan håndtere det:[Bliv klar til folkebibliotekernes CMS](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/forbered-indhold/) 
+Folkebibliotekernes CMS har mange af de samme features som DDB CMS. Dem vil I kunne genkende og tage i brug uden videre. Men vi har også været nødt til at prioritere i udviklingen og derfor vil der være sider og funktioner, som ikke kommer med i første udgave af hjemmesiden. I kan læse mere om dem i manualen samt læse anbefalinger til, hvordan I kan håndtere det: [Bliv klar til folkebibliotekernes CMS](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/forbered-indhold/) 
 
 Det er også vigtigt for os at sige, at der til gengæld kommer nye features, som har været efterspurgt længe. I kan læse om de nye muligheder i manualen (den vil blive udbygget i takt med at udviklingen skrider frem): [Nye features](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/nye-features/)
 
@@ -60,4 +60,4 @@ Der er pt. ikke planer om at fortsætte BPI i sin nuværende form. Men der komme
 Hvis der er noget særligt indhold fra BPI, som I er glade for, så gem endelig en kopi af tekst og billeder, så I har det til den nye hjemmeside. Det gamle indhold i BPI’en vil ikke være tilgængeligt efter 1. juli 2024.
 
 ### Fandt du ikke svaret på dit spørgsmål?
-Manualen og FAQ'en her er et forsøg på at få afdækket de mest typiske spørgsmål. har du ikke fået svar på dit spørgsmål, så skriv evt. til os (mailadresse følger snarest)
+Manualen og FAQ'en her er et forsøg på at få afdækket de mest typiske spørgsmål. har du ikke fået svar på dit spørgsmål, så skriv evt. til os kontakt@detdigitalefolkebibliotek.dk
