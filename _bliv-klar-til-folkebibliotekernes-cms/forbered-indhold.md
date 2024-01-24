@@ -44,6 +44,16 @@ https://bib751.bibbaser.dk/login?url=http://find.galegroup.com/menu/start?userGr
 ```
 Hvis det er vigtigt for jer med længere beskrivelser og billeder til hver e-ressource, kan I lave en side for hver ressource og bruge en navigationsside til at skabe det samlede overblik. Den skal I selv opbygge og holde opdateret. 
 
+### Formularer
+Det er besluttet at Webforms, som vi kender fra DDB CMS, også bliver en del af Folkebibliotekernes CMS. MEN det bliver udviklet til sidst og vil ikke være klar, når piloterne går live. 
+
+Om det er et stort eller lille problem for jer afhænger af, hvor meget I bruger formularer.
+Formularer bruges typisk til kontaktformularen og diverse tilmeldningsformularer. 
+
+Hvis I er et bibliotek der bruger formularer meget, kan det være en idé, at have en plan B i baghånden.
+- Undersøg om jeres kommune abonnerer på et formularværktøj som f. eks. SurveyExact, som I må bruge.
+- KKB siger at biblioteker der abonnerer på X-Flow til børneoprettelse, kan lave formularer derigennem (mangler verificering).
+
 
 ### URL omdirigeringer
 URL omdirigeringer bruges til at lave korte læsbare URL'er, som fungerer godt på plakater og i tryksager.
