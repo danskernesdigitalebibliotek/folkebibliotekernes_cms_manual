@@ -25,9 +25,9 @@ Fra 2025 overvejes det, hvordan medlemmerne i foreningen fremadrettet skal betal
 Det er dog endnu ikke besluttet, hvad den endelige pris på løsningen bliver. Det vil blive endeligt besluttet af Bestyrelsen i eftersommeren.  Men jo flere biblioteker der tilmelder sig løsningen, jo billigere bliver det.
 
 ### Hostingplaner
-Det bliver muligt at tilmelde sig én af to forskellige hostingløsninger: Redaktør eller Webmaster. Der bliver IKKE mulighed for at vælge en programmørplan, som nu. Redaktør- og Webmaster planen vil i store træk være identiske med de nuværende løsninger, som kan ses beskrevet her [Hostingplaner](https://detdigitalefolkebibliotek.dk/hostingplaner) (Gælder dog IKKE programmør).
-Det er dog tanken at redaktør-planen vil få flere rettigheder end den nuværende i forhold til aktivering af specielle moduler.
-Prisen vil være den samme, hvad enten I vælger Redaktør eller Webmaster-løsningen, og det vil være gratis at skifte hostingplan undervejs.
+Det Digitale Folkebibliotek tilbyder to forskellige hostingplaner til Folkebibliotekernes CMS: Redaktør eller Webmaster. Hostingplanen definerer graden af tilpasningsmuligheder og support.  Der bliver IKKE mulighed for at vælge en programmørplan, som nu. Redaktør- og Webmaster planerne vil i store træk være identiske med de planer, vi kender fra DDB CMS. Det er dog tanken, at redaktør-planen vil få flere rettigheder end den nuværende i forhold til aktivering af specielle moduler.
+Vi anbefaler jer, at I begynder på redaktørplan. I kan på sigt skifte over til webmasterløsningen, hvis behovet er der. Det koster ikke noget at skifte hostingplan, ligesom der ikke er forskel i prisen på de to hostingplaner. Læs mere om [Hostingplaner](https://detdigitalefolkebibliotek.dk/hostingplaner)
+
 
 ### Support og uddannelse
 Vi er i fuld gang med oprette en supportfunktion til jer. Her vil I kunne melde fejl, rettelser og ønsker ind. 
@@ -60,4 +60,4 @@ Der er pt. ikke planer om at fortsætte BPI i sin nuværende form. Men der komme
 Hvis der er noget særligt indhold fra BPI, som I er glade for, så gem endelig en kopi af tekst og billeder, så I har det til den nye hjemmeside. Det gamle indhold i BPI’en vil ikke være tilgængeligt efter 1. juli 2024.
 
 ### Fandt du ikke svaret på dit spørgsmål?
-Manualen og FAQ'en her er et forsøg på at få afdækket de mest typiske spørgsmål. har du ikke fået svar på dit spørgsmål, så skriv evt. til os kontakt@detdigitalefolkebibliotek.dk
+Manualen og FAQ'en her er et forsøg på at få afdækket de mest typiske spørgsmål. har du ikke fået svar på dit spørgsmål, så skriv evt. til os cms-info@kk.dk
