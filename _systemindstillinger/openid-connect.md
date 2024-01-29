@@ -9,6 +9,8 @@ Adgangsplatformen sikrer et ensartet login-flow for brugerne på tværs af bibli
 
 Single Sign-On gør, at brugerne kan skifte mellem bibliotekstjenester uden at skulle logge ind flere gange. Er du f. eks. logget ind i Folkebibliotekernes CMS kan du bruge Filmstriben eller Ereolen uden at logge ind på ny.
 
+Adgangsplatformen autoriserer også hjemmesiden til at udføre søgninger i FBI-API. Søgefeltet virker slet ikke hvis adgangsplatformen ikke er opsat korrekt.
+
 ## Her finder du indstillinger for Open ID Connect 
 I topmenuen klik på Indstillinger. \
 Vælg dernæst Web-services > OpenID Connect
