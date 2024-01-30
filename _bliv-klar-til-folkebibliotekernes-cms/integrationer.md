@@ -15,7 +15,7 @@ Kig jeres nuværende hjemmeside igennem for integrationer. Det kan være:
 - Børneindmeldelsesflow (fx fra X-flow eller e-blanketter)
 - Nyhedsbrevsmodul
 - Webforms/kontaktformularer
-- Storskærmssystemer (https://cmscontent.dbc.dk/)
+- Storskærmssystemer ([cmscontent.dbc.dk](https://cmscontent.dbc.dk/))
 - App
 - IMS
  
