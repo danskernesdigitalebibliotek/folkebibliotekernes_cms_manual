@@ -1,8 +1,7 @@
 ---
-title: "Opgave 9: Overblik over integrationer
+title: "Opgave 9: Overblik over integrationer"
 category: "Overgangsaktiviter"
-emneord:
- ---
+---
  	
 Integrationerne på jeres hjemmeside har stor betydning for de muligheder og tilbud I tilbyder jeres brugere. Derfor er det vigtigt at se på inden overgangen til den nye hjemmeside, så I tager højde for disse funktioner – også på det nye site.
 
