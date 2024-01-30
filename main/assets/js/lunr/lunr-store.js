@@ -41,6 +41,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/informationsarkiktektur/",
         "teaser": null
       },{
+        "title": "Integrationer",
+        "excerpt":"title: “Opgave 9: Overblik over integrationer category: “Overgangsaktiviter” emneord: — Integrationerne på jeres hjemmeside har stor betydning for de muligheder og tilbud I tilbyder jeres brugere. Derfor er det vigtigt at se på inden overgangen til den nye hjemmeside, så I tager højde for disse funktioner – også på det...","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/integrationer/",
+        "teaser": null
+      },{
         "title": "Opgave 2: Tilretning af logo til nyt design ",
         "excerpt":"Det kan godt tage tid at designe et nyt logo, så tænk allerede nu over, om bibliotekets logo overholder de krav, der er til det nye CMS. Måske får det betydning for hele bibliotekets visuelle identitet, så det er vigtigt hurtigst muligt at få det på plads. Metode og fremgangsmåde...","categories": ["Overgangsaktiviter"],
         "tags": [],
