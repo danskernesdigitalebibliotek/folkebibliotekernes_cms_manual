@@ -83,6 +83,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/category/brugergraenseflade/",
         "teaser": null
       },{
+        "title": "Grundkonfiguration",
+        "excerpt":"Grundkonfiguration  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/category/grundkonfiguration/",
+        "teaser": null
+      },{
         "title": "Integrationer",
         "excerpt":"Integrationer  ","categories": [],
         "tags": [],
@@ -297,6 +303,18 @@ var store = [{
         "excerpt":"Der er mangler i teksten på siden.  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/emneord/x-mangler-tekst/",
+        "teaser": null
+      },{
+        "title": "Grundkonfiguration",
+        "excerpt":"Punkterne i denne guide skal udføres som det første når I får adgang til jeres nye site. Begynd ikke at oprette indhold før alle punkter i denne guide er udført.  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/grundkonfiguration/",
+        "teaser": null
+      },{
+        "title": "Opgave 1: OpenID Connect (Adgangsplatformen)",
+        "excerpt":"Søgning i Folkebibliotekernes CMS sker via FBI-API. Læs mere om FBI-API. Adgang til FBI-API styres via Adgangsplatformen. Teknologien bag Adgangsplatformen hedder OpenID connect.   Kopier nøgler fra DDB CMS   Indsæt nøgler i Folkebibliotekernes CMS   Egenkontrol  Opgaven er løst korrekt  ","categories": ["Grundkonfiguration"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/grundkonfiguration/openid-connect/",
         "teaser": null
       },{
         "title": "Opret indhold i Folkebibliotekernes CMS",
