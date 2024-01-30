@@ -5,8 +5,9 @@ emneord:
   - Adgangsplatformen
 ---
 
-Søgning i Folkebibliotekernes CMS sker via FBI-API. Læs mere om FBI-API.
-Adgang til FBI-API styres via Adgangsplatformen. Teknologien bag Adgangsplatformen hedder OpenID connect.
+Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt.
+
+I denne opgave skal i kopiere jeres OpenID Connect adgangsnøgler fra DDB CMS over i Folkebibliotekernes CMS.
 
 ## Kopier nøgler fra DDB CMS
 

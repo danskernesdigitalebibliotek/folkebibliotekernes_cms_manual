@@ -50,9 +50,9 @@ Det er besluttet at Webforms, som vi kender fra DDB CMS, også bliver en del af 
 Om det er et stort eller lille problem for jer afhænger af, hvor meget I bruger formularer.
 Formularer bruges typisk til kontaktformularen og diverse tilmeldningsformularer. 
 
-Hvis I er et bibliotek der bruger formularer meget, kan det være en idé, at have en plan B i baghånden.
+Hvis I er et bibliotek der bruger formularer meget, kan det være en idé, at have en plan B
 - Undersøg om jeres kommune abonnerer på et formularværktøj som f. eks. SurveyExact, som I må bruge.
-- KKB siger at biblioteker der abonnerer på X-Flow til børneoprettelse, kan lave formularer derigennem (mangler verificering).
+- Københavns Biblioteker siger at biblioteker der abonnerer på X-Flow til børneoprettelse, kan lave formularer derigennem (mangler verificering).
 
 
 ### URL omdirigeringer

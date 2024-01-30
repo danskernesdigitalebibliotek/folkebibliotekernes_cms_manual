@@ -15,7 +15,7 @@ Kig jeres nuværende hjemmeside igennem for integrationer. Det kan være:
 - Børneindmeldelsesflow (fx fra X-flow eller e-blanketter)
 - Nyhedsbrevsmodul
 - Webforms/kontaktformularer
-- Storskærmssystemer ([cmscontent.dbc.dk](https://cmscontent.dbc.dk/))
+- Storskærmssystemer
 - App
 - IMS
  
@@ -33,7 +33,14 @@ Vi arbejder på at det bliver muligt at oprette forskellige brugertyper på Folk
 Der vil i Folkebibliotekernes CMS ikke være et specifikt nyhedsbrevsmodul. Derfor er det vigtigt at tænke ind om I kan linke til en nyhedsbrevsløsning et andet sted.
 
 ### Webforms/kontaktfomularer
-På grund af bl.a. GDPR-mæssige årsager vil der højest sandsynligt ikke i første omgang være mulighed for at oprette webforms/kontaktformularer på Folkebibliotekernes CMS. Derfor skal I tænke over, hvor på hjemmesiden I bruger webforms (fx til læsekredse eller tilmeldinger) og overveje hvordan I kan sikre at få oplysninger fra jeres brugere ind alligevel fx vha. en mailadresse henvisning.
+Det er besluttet at Webforms, som vi kender fra DDB CMS, også bliver en del af Folkebibliotekernes CMS. MEN det bliver udviklet til sidst og vil ikke være klar, når piloterne går live. 
+
+Om det er et stort eller lille problem for jer afhænger af, hvor meget I bruger formularer.
+Formularer bruges typisk til kontaktformularen og diverse tilmeldningsformularer. 
+
+Hvis I er et bibliotek, der bruger formularer meget, kan det være en idé, at have en plan B
+- Undersøg om jeres kommune abonnerer på et formularværktøj som f. eks. SurveyExact, som I må bruge.
+- Københavns Biblioteker siger at biblioteker der abonnerer på X-Flow til børneoprettelse, kan lave formularer derigennem (mangler verificering).
 
 ### Storskærmsintegrationer
 Måske har I i dag en storskærmsløsning som hiver fx arrangementer fra jeres hjemmeside. Det er vigtigt at jeres leverandør af storskærmsløsningen (ligesom med billetleverandøren) kan gøre brug af API’et (som vi arbejder på at kunne tilbyde) til at hente data og udstille dem.
