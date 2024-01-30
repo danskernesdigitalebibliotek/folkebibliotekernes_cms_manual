@@ -41,8 +41,8 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/informationsarkiktektur/",
         "teaser": null
       },{
-        "title": "Integrationer",
-        "excerpt":"title: “Opgave 9: Overblik over integrationer category: “Overgangsaktiviter” emneord: — Integrationerne på jeres hjemmeside har stor betydning for de muligheder og tilbud I tilbyder jeres brugere. Derfor er det vigtigt at se på inden overgangen til den nye hjemmeside, så I tager højde for disse funktioner – også på det...","categories": [],
+        "title": "Opgave 9: Overblik over integrationer",
+        "excerpt":"Integrationerne på jeres hjemmeside har stor betydning for de muligheder og tilbud I tilbyder jeres brugere. Derfor er det vigtigt at se på inden overgangen til den nye hjemmeside, så I tager højde for disse funktioner – også på det nye site. Mål Målet med denne opgave er at danne...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/integrationer/",
         "teaser": null
