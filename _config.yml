@@ -75,6 +75,9 @@ atom_feed:
 
 # Collections
 collections:
+  grundkonfiguration:
+    output: true
+    permalink: /:collection/:path/
   systemindstillinger:
     output: true
     permalink: /:collection/:path/
