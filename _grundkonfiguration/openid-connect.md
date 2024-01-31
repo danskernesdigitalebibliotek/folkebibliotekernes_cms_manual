@@ -18,10 +18,9 @@ Eller åbn via direkte link (udskift mit-domænenavn.dk):
 https://mit-domænenavn.dk`/admin/config/ding/adgangsplatformen`
 {: .notice--primary}
 
-Kopier Client ID og Clent Secret. Vær omhyggelig så det hele kommer med!
+Kopier Client ID og Client Secret. Vær omhyggelig så det hele kommer med!
 
-
-![Adgangsplatformen DDBCMS](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c2318e78-7318-4384-91b7-358b613b0e70)
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c2318e78-7318-4384-91b7-358b613b0e70" alt="Kopier Client ID og Client secret fra DDB CMS" caption="Kopier Client ID og Client secret fra DDB CMS" %} 
 
 
 ## Indsæt nøgler i Folkebibliotekernes CMS
@@ -37,8 +36,7 @@ https://mit-staging-domæne.dk`/admin/config/services/openid-connect`
 2. Udfyld feltet Agency ID (6 tal - ingen DK foran)
 3. Tryk på **Save configuration** nederst på siden
 
-
-![OpenID Connect FBCMS](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3cf6e2ff-7993-4b5a-a924-754563244a0f)
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3cf6e2ff-7993-4b5a-a924-754563244a0f" alt="Indsæt Client ID, Client secret og Agency ID i Folkebibliotekernes CMS" caption="Indsæt Client ID, Client secret og Agency ID i Folkebibliotekernes CMS" %} 
 
 
 
