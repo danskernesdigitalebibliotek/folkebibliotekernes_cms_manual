@@ -31,6 +31,4 @@ https://mit-domænenavn.dk`/admin/config/system/dpl-mapp`
 |Domæne|`responder.wt-safetag.com`|
 |ID|Et tal der udleveres af DDF (henvendelse til Tue Gaston)|
 
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/51e0fc7c-edf7-4356-916d-ed2678ca50c9" alt="MAPP indstillinger" caption="MAPP indstillinger" %} 
-
-Det er hensigtsmæssigt at konfigurere MAPP-indstillingerne før hjemmesiden sættes i drift, så det er muligt at se brugerstatistik fra første dag hjemmesiden tages i brug.
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/1228c354-f4de-4547-b1a4-98e308c8d955" alt="MAPP indstillinger" caption="MAPP indstillinger" %} 
