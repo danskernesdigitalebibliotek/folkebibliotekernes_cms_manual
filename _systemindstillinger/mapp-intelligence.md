@@ -4,14 +4,20 @@ category: "System"
 emneord: 
 - "Statistik"
 ---
+Webstatistik indgår også som en del af den hjemmesidepakke, Det Digitale Folkebibliotek tilbyder. Vi benytter det statistikværktøj, der hedder Mapp. Mapps danske leverandør hedder KPI Index.
 
-Gennem Det Digitale Folkebibliotek har bibliotekerne adgang til web- og appstatistikløsningen MAPP, som giver indblik i brugen af bibliotekernes hjemmesider og appen Biblioteket. [Læs mere om MAPP og find link til MAPP-login](https://detdigitalefolkebibliotek.dk/section/i-brug-paa-biblioteket/bibliotekernes-web-og-appstatistik)
+Alle spørgsmål om Mapp sendes til Tue Gaston [ext-pu6z@kk.dk](mailto:ext-pu6z@kk.dk). Det er også Tue I skal
+skrive til, hvis I har forlist jeres password til Mapp.
+{: .notice--info}
 
-For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt. Sitet fødes med de korrekte værdier, men det er en god ide at kontrollere om opsætningen er korrekt alligevel.
+[Læs mere om Mapp](https://detdigitalefolkebibliotek.dk/section/i-brug-paa-
+biblioteket/bibliotekernes-web-og-appstatistik). Og besøg også vores [”Kom-godt-i-gang-med-Mapp-side”](https://detdigitalefolkebibliotek.dk/node/103)
+
+For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt – ”Domæne” og ”Tag
+Integration ID”.
 
 ## Her finder du indstillinger for MAPP
-I topmenuen klik på Indstillinger. \
-Vælg dernæst System > Mapp Intelligence indstillinger
+I topmenuen klik på **Indstillinger > System > Mapp Intelligence indstillinger**
 
 Eller åbn via direkte link (udskift mit-domænenavn.dk):
 
@@ -23,7 +29,7 @@ https://mit-domænenavn.dk`/admin/config/system/dpl-mapp`
 |Feltnavn|Værdi|
 |---|---|
 |Domæne|`responder.wt-safetag.com`|
-|ID|`476651662471322`|
+|ID|Et tal der udleveres af DDF (henvendelse til Tue Gaston)|
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/51e0fc7c-edf7-4356-916d-ed2678ca50c9" alt="MAPP indstillinger" caption="MAPP indstillinger" %} 
 
