@@ -396,7 +396,7 @@ var store = [{
         "teaser": null
       },{
         "title": "MAPP Intelligence",
-        "excerpt":"Gennem Det Digitale Folkebibliotek har bibliotekerne adgang til web- og appstatistikløsningen MAPP, som giver indblik i brugen af bibliotekernes hjemmesider og appen Biblioteket. Læs mere om MAPP og find link til MAPP-login For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt. Sitet fødes med de...","categories": ["System"],
+        "excerpt":"Webstatistik indgår også som en del af den hjemmesidepakke, Det Digitale Folkebibliotek tilbyder. Vi benytter det statistikværktøj, der hedder Mapp. Mapps danske leverandør hedder KPI Index. Alle spørgsmål om Mapp sendes til Tue Gaston ext-pu6z@kk.dk. Det er også Tue I skal skrive til, hvis I har forlist jeres password til...","categories": ["System"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/mapp-intelligence/",
         "teaser": null
