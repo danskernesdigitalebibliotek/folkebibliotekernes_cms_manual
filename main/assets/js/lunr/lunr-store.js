@@ -311,6 +311,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/grundkonfiguration/",
         "teaser": null
       },{
+        "title": "Opgave 2: Mapp Intelligence",
+        "excerpt":"Via Mapp indsamles statistik for jeres hjemmeside. I skal have overflyttet jeres Mapp ID fra DDB CMS til Folkebibliotekernes CMS. Kopier Mapp ID fra DDB CMS Log ind i DDB CMS. I topmenuen klik på Indstillinger &gt; Ding &gt; Webtrekk Eller åbn via direkte link (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/ding/webtrekk Kopier TagIntegration...","categories": ["Grundkonfiguration"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/grundkonfiguration/mapp/",
+        "teaser": null
+      },{
         "title": "Opgave 1: OpenID Connect (Adgangsplatformen)",
         "excerpt":"Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt. I denne opgave skal i kopiere jeres OpenID Connect adgangsnøgler fra DDB CMS over...","categories": ["Grundkonfiguration"],
         "tags": [],
@@ -384,7 +390,7 @@ var store = [{
         "teaser": null
       },{
         "title": "FBS indstillinger",
-        "excerpt":"Opsæt forbindelse til bibliotekssystemet.   Her finder du indstillinger for FBS  I topmenuen klik på Indstillinger.   Vælg dernæst Web-services &gt; FBS indstillinger   Eller åbn via direkte link (udskift mit-domænenavn.dk):   https://mit-domænenavn.dk/admin/config/services/fbs   Standardindstillinger for FBS                  Feltnavn       Værdi                       FBS Service URL       https://fbs-openplatform.dbc.dk                     FBS Service URL        ","categories": ["Web-services"],
+        "excerpt":"Opsæt forbindelse til bibliotekssystemet.   Her finder du indstillinger for FBS  I topmenuen klik på Indstillinger.   Vælg dernæst Web-services &gt; FBS indstillinger   Eller åbn via direkte link (udskift mit-domænenavn.dk):   https://mit-domænenavn.dk/admin/config/services/fbs   Anbefalede indstillinger for FBS                  Feltnavn       Værdi                       FBS Service URL       https://fbs-openplatform.dbc.dk                     FBS Service URL        ","categories": ["Web-services"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/fbs-indstillinger/",
         "teaser": null
@@ -395,7 +401,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/",
         "teaser": null
       },{
-        "title": "MAPP Intelligence",
+        "title": "Mapp Intelligence",
         "excerpt":"Webstatistik indgår også som en del af den hjemmesidepakke, Det Digitale Folkebibliotek tilbyder. Vi benytter det statistikværktøj, der hedder Mapp. Mapps danske leverandør hedder KPI Index. Alle spørgsmål om Mapp sendes til Tue Gaston ext-pu6z@kk.dk. Det er også Tue I skal skrive til, hvis I har forlist jeres password til...","categories": ["System"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/mapp-intelligence/",
