@@ -7,6 +7,8 @@ emneord:
 
 Via Mapp indsamles statistik for jeres hjemmeside. I skal have overflyttet jeres Mapp ID fra DDB CMS til Folkebibliotekernes CMS.
 
+
+
 ## Kopier Mapp ID fra DDB CMS
 
 Log ind i DDB CMS. I topmenuen klik på **Indstillinger > Ding > Webtrekk**
@@ -25,6 +27,8 @@ Eller åbn via direkte link (udskift mit-staging-domæne.dk):
 
 https://mit-staging-domæne.dk`/admin/config/system/dpl-mapp`
 {: .notice--primary}
+
+![Mapp flytning](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3ffdbb57-b309-49b2-80a8-6a34ab2a0f7f)
 
 ## Egenkontrol
 1. 
