@@ -19,7 +19,7 @@ Eller åbn via direkte link (udskift mit-domænenavn.dk):
 https://mit-domænenavn`/admin/config/services/openid-connect`
 {: .notice--primary}
 
-## Standardindstillinger for OpenID Connect
+## Anbefalede indstillinger for OpenID Connect
 
 |Feltnavn|Værdi|
 |---|---|

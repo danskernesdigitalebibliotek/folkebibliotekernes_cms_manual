@@ -38,7 +38,6 @@ https://mit-staging-domæne.dk`/admin/config/services/openid-connect`
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3cf6e2ff-7993-4b5a-a924-754563244a0f" alt="Indsæt Client ID, Client secret og Agency ID i Folkebibliotekernes CMS" caption="Indsæt Client ID, Client secret og Agency ID i Folkebibliotekernes CMS" %} 
 
-
-
 ## Egenkontrol
-Du kan tjekke om Open ID Connect er korrekt konfigureret ved at forteage en søgning i Folkebibliotekernes CMS. Får du søgeresultater frem er der hul igennem.
+Du kan tjekke om Open ID Connect er korrekt konfigureret ved at forteage en søgning i Folkebibliotekernes CMS. Får du søgeresultater frem er der hul igennem. 
+

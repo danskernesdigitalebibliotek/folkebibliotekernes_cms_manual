@@ -1,5 +1,5 @@
 ---
-title: "MAPP Intelligence"
+title: "Mapp Intelligence"
 category: "System"
 emneord: 
 - "Statistik"
@@ -16,7 +16,7 @@ biblioteket/bibliotekernes-web-og-appstatistik). Og besøg også vores [”Kom-g
 For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt – ”Domæne” og ”Tag
 Integration ID”.
 
-## Her finder du indstillinger for MAPP
+## Her finder du indstillinger for Mapp
 I topmenuen klik på **Indstillinger > System > Mapp Intelligence indstillinger**
 
 Eller åbn via direkte link (udskift mit-domænenavn.dk):
@@ -24,11 +24,11 @@ Eller åbn via direkte link (udskift mit-domænenavn.dk):
 https://mit-domænenavn.dk`/admin/config/system/dpl-mapp`
 {: .notice--primary}
 
-## Standardindstillinger for MAPP
+## Anbefalede indstillinger for Mapp
 
 |Feltnavn|Værdi|
 |---|---|
 |Domæne|`responder.wt-safetag.com`|
 |ID|Et tal der udleveres af DDF (henvendelse til Tue Gaston)|
 
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/1228c354-f4de-4547-b1a4-98e308c8d955" alt="MAPP indstillinger" caption="MAPP indstillinger" %} 
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/1228c354-f4de-4547-b1a4-98e308c8d955" alt="MAPP indstillinger" caption="MAPP indstillinger" %} 

@@ -17,7 +17,7 @@ Eller åbn via direkte link (udskift mit-domænenavn.dk):
 https://mit-domænenavn.dk`/admin/config/services/fbs`
 {: .notice--primary}
 
-## Standardindstillinger for FBS
+## Anbefalede indstillinger for FBS
 
 |Feltnavn|Værdi|
 |---|---|
