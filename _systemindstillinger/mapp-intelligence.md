@@ -62,4 +62,6 @@ Alternativt kan du naturligvis også logge ind i Mapp og tjekke, om de handlinge
 Hvis du vælger den fremgangsmåde, skal du blot være opmærksom på to ting:
 - porings-software på din browser skal være deaktiveret
 - Du skal tjekke at det tidspunkt, der står under ”Last raw data update” i nederste højre hjørne, er senere end det tidspunkt, hvor du har udført de handlinger, du gerne vil se derinde.
+   {% include figure class="thirty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/feef5056-e591-43d7-be3e-cfef384c6ecb" alt="Mapp egenkontrol" caption="Mapp Egenkontrol" %} 
+
  
