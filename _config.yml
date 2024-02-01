@@ -75,7 +75,7 @@ atom_feed:
 
 # Collections
 collections:
-  grundkonfiguration:
+  startopsaetning:
     output: true
     permalink: /:collection/:path/
   systemindstillinger:
@@ -151,10 +151,10 @@ defaults:
       share: false
       comments: false
       sidebar: true
-    # _grundkonfiguration
+    # _startopsaetning
   - scope:
       path: ""
-      type: grundkonfiguration
+      type: startopsaetning
     values:
       layout: single
       classes: wide

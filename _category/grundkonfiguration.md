@@ -1,4 +1,4 @@
 ---
-title: "Grundkonfiguration"  
+title: "Startopsætning"  
 ---
-Grundkonfiguration
+Startopsætning

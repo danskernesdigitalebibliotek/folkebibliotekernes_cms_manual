@@ -1,6 +1,6 @@
 ---
 title: "Opgave 2: Mapp Intelligence"
-category: "Grundkonfiguration"
+category: "Startopsætning"
 emneord:
   - Statistik
 ---
@@ -27,7 +27,7 @@ https://mit-staging-domæne.dk`/admin/config/system/dpl-mapp`
 {: .notice--primary}
 
 ## Egenkontrol
-XX Mangler XX
+1. 
 
 ## Yderligere dokumentation 
 [Se systemindstillinger for MAPP Intelligence]({{ site.baseurl }}{% link _systemindstillinger/mapp-intelligence.md %})

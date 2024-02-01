@@ -25,11 +25,11 @@ feature_row:
     title: "Nye features i Folkebibliotekernes CMS"
     excerpt: "Få overblik over hvad er nyt i forhold til DDB CMS."
     url: "/nye-features/"
-  - image_path: /assets/images/grundkonfiguration.jpg
-    alt: "Grundkonfiguration"
-    title: "Grundkonfiguration af Folkebibliotekernes CMS"
+  - image_path: /assets/images/startopsaetning.jpg
+    alt: "Startopsætning"
+    title: "Startopsætning af Folkebibliotekernes CMS"
     excerpt: "Skal udføres straks I modtager login til jeres site. (Udbygges løbende)"
-    url: "/grundkonfiguration/"
+    url: "/startopsaetning/"
   - image_path: /assets/images/indholdsredaktion.jpg
     alt: "Opret indhold i Folkebibliotekernes CMS"
     title: "Opret indhold i Folkebibliotekernes CMS"

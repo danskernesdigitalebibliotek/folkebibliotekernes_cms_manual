@@ -1,3 +1,3 @@
 ---
-title: "Grundkonfiguration"  
+title: "Startopsætning"  
 ---

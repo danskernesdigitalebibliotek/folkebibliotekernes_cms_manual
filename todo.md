@@ -1,4 +1,4 @@
-# Grundkonfiguration
+# Startopsætning
 ## Log ind i Folkebibliotekernes CMS
 Hvorfra kommer URL + lokaladmin credentials?
 

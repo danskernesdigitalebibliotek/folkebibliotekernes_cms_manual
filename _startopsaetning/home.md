@@ -1,12 +1,12 @@
 ---
 title: "Startopsætning"
-permalink: /grundkonfiguration/
+permalink: /startopsaetning/
 ---
 
-Denne guide hjælper jer med at med startopsætning af jeres site. Opgaverne skal udføres i den rigtige rækkefølge og man må ikke springe over.
+Denne guide hjælper jer med startopsætning af jeres site. Opgaverne skal udføres i den rigtige rækkefølge og man må ikke springe over.
 
 ## Startopsætning - kom i gang
-I kan gå i gang med startopsætningen når I har modtaget URL og login til jeres Folkebbibliotekernes CMS staging-site
+I kan gå i gang med startopsætningen, når I har modtaget URL og login til jeres Folkebbibliotekernes CMS staging-site
 
 ## Opgaverækkefølge
 Opagverne i startopsætningen afhænger af hinanden. Hver opgave antager at de forrige opgaver er løst. Sidder I fast I en opgave, kan I altså ikke nødvendigvis bare springe til den næste.

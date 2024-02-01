@@ -1,6 +1,6 @@
 ---
 title: "Opgave 1: OpenID Connect (Adgangsplatformen)"
-category: "Grundkonfiguration"
+category: "Startopsætning"
 emneord:
   - Adgangsplatformen
 ---
