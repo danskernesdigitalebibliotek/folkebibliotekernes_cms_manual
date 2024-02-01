@@ -39,8 +39,22 @@ Tjek om der er forbindelse til Mapp. Bemærk! Det kan kun udføres fra et difts-
 3. Tryk F12 for at åbne udvikler-værktøjer.
 
 4. Vælg den fane der hedder "Network"
-5. 
-6. Sørg for at ”Request types” står til ”All”:
-7. 
-8. Under ”Filter” skriver du ”wt” (for ”Webtrekk”, som Mapp hed i gamle dage):
-9. 
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/b3778132-0fde-4aae-bf3f-799f205addc6" alt="Mapp egenkontrol" caption="Mapp Egenkontrol" %} 
+
+5. Sørg for at ”Request types” står til ”All”
+{% include figure class="thirty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/62a176bb-c0fe-4c77-aa59-68bd4f5651f9" alt="Mapp egenkontrol" caption="Mapp Egenkontrol" %} 
+
+7. Under ”Filter” skriver du ”wt” (for ”Webtrekk”, som Mapp hed i gamle dage)
+{% include figure class="thirty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c7ed1115-1b9b-4adc-aa87-a720bbf25549" alt="Mapp egenkontrol" caption="Mapp Egenkontrol" %} 
+8. Genindlæs nu siden (tryk F5)
+9. Nu kan du se alt, hvad der bliver sendt til Mapp.
+- Hvis du har konfigureret forkert, er der sandsynligvis tomt.
+- Hvis du har konfigureret korrekt, står der en masse linjer. Det kan se lidt forskelligt ud fra browser til browser.
+  Ser du en Name-kolonne skal du kigge efter linjer der starter med ”wt?p=”.
+ {% include figure class="thirty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d7d65bb9-a419-4d6e-b54e-a92e2e8e5470" alt="Mapp egenkontrol" caption="Mapp Egenkontrol" %} 
+  Ser du en URL-kolonne ser resultatet sådan ud.
+ {% include figure class="thirty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d7d65bb9-a419-4d6e-b54e-a92e2e8e5470" alt="Mapp egenkontrol" caption="Mapp Egenkontrol" %} 
+  Har du en 
+  
+   {% include figure class="thirty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/335ed487-4223-4d65-976b-b9b215650d13" alt="Mapp egenkontrol" caption="Mapp Egenkontrol" %} 
+ 
