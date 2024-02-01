@@ -83,8 +83,8 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/category/brugergraenseflade/",
         "teaser": null
       },{
-        "title": "Grundkonfiguration",
-        "excerpt":"Grundkonfiguration  ","categories": [],
+        "title": "Startopsætning",
+        "excerpt":"Startopsætning  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/category/grundkonfiguration/",
         "teaser": null
@@ -221,7 +221,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/emneord/formidling/",
         "teaser": null
       },{
-        "title": "Grundkonfiguration",
+        "title": "Startopsætning",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/emneord/grundkonfiguration/",
@@ -305,24 +305,6 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/emneord/x-mangler-tekst/",
         "teaser": null
       },{
-        "title": "Startopsætning",
-        "excerpt":"Denne guide hjælper jer med at med startopsætning af jeres site. Opgaverne skal udføres i den rigtige rækkefølge og man må ikke springe over. Startopsætning - kom i gang I kan gå i gang med startopsætningen når I har modtaget URL og login til jeres Folkebbibliotekernes CMS staging-site Opgaverækkefølge Opagverne...","categories": [],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/grundkonfiguration/",
-        "teaser": null
-      },{
-        "title": "Opgave 2: Mapp Intelligence",
-        "excerpt":"Via Mapp indsamles statistik for jeres hjemmeside. I skal have overflyttet jeres Mapp ID fra DDB CMS til Folkebibliotekernes CMS. Kopier Mapp ID fra DDB CMS Log ind i DDB CMS. I topmenuen klik på Indstillinger &gt; Ding &gt; Webtrekk Eller åbn via direkte link (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/ding/webtrekk Kopier TagIntegration...","categories": ["Grundkonfiguration"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/grundkonfiguration/mapp/",
-        "teaser": null
-      },{
-        "title": "Opgave 1: OpenID Connect (Adgangsplatformen)",
-        "excerpt":"Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt. I denne opgave skal i kopiere jeres OpenID Connect adgangsnøgler fra DDB CMS over...","categories": ["Grundkonfiguration"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/grundkonfiguration/openid-connect/",
-        "teaser": null
-      },{
         "title": "Opret indhold i Folkebibliotekernes CMS",
         "excerpt":"UNDER UDARBEJDELSE   Her kommer guides til at oprette du redaktionelt indhold i Folkebibliotekernes CMS.  ","categories": [],
         "tags": [],
@@ -381,6 +363,24 @@ var store = [{
         "excerpt":"Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på en materialetype. Filtrerer man på ”Online lydbog”, da vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”. Fra DDB CMS er vi vant...","categories": ["Søgning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/vaerkvisningssiden/",
+        "teaser": null
+      },{
+        "title": "Startopsætning",
+        "excerpt":"Denne guide hjælper jer med startopsætning af jeres site. Opgaverne skal udføres i den rigtige rækkefølge og man må ikke springe over. Startopsætning - kom i gang I kan gå i gang med startopsætningen, når I har modtaget URL og login til jeres Folkebbibliotekernes CMS staging-site Opgaverækkefølge Opagverne i startopsætningen...","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/",
+        "teaser": null
+      },{
+        "title": "Opgave 2: Mapp Intelligence",
+        "excerpt":"Via Mapp indsamles statistik for jeres hjemmeside. I skal have overflyttet jeres Mapp ID fra DDB CMS til Folkebibliotekernes CMS. Kopier Mapp ID fra DDB CMS Log ind i DDB CMS. I topmenuen klik på Indstillinger &gt; Ding &gt; Webtrekk Eller åbn via direkte link (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/ding/webtrekk Kopier TagIntegration...","categories": ["Startopsætning"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/mapp/",
+        "teaser": null
+      },{
+        "title": "Opgave 1: OpenID Connect (Adgangsplatformen)",
+        "excerpt":"Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt. I denne opgave skal i kopiere jeres OpenID Connect adgangsnøgler fra DDB CMS over...","categories": ["Startopsætning"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/openid-connect/",
         "teaser": null
       },{
         "title": "Brugeroprettelse",
