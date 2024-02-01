@@ -19,10 +19,9 @@ Integration ID”.
 ## Her finder du indstillinger for Mapp
 I topmenuen klik på **Indstillinger > System > Mapp Intelligence indstillinger**
 
-Eller åbn via direkte link (udskift mit-domænenavn.dk):
-
+Eller åbn via direkte link (udskift mit-domænenavn.dk):\
 https://mit-domænenavn.dk`/admin/config/system/dpl-mapp`
-{: .notice--primary}
+
 
 ## Anbefalede indstillinger for Mapp
 
@@ -32,3 +31,5 @@ https://mit-domænenavn.dk`/admin/config/system/dpl-mapp`
 |ID|Et tal der udleveres af DDF (henvendelse til Tue Gaston)|
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/1228c354-f4de-4547-b1a4-98e308c8d955" alt="MAPP indstillinger" caption="MAPP indstillinger" %} 
+
+## Egenkontrol
