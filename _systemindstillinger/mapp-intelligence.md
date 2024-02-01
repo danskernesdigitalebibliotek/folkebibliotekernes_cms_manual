@@ -33,3 +33,14 @@ https://mit-domænenavn.dk`/admin/config/system/dpl-mapp`
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/1228c354-f4de-4547-b1a4-98e308c8d955" alt="MAPP indstillinger" caption="MAPP indstillinger" %} 
 
 ## Egenkontrol
+Tjek om der er forbindelse til Mapp. Bemærk! Det kan kun udføres fra et difts-site. Ikke fra et staging-site.
+1. Åbn en tilfældig side på jeres website i en browser.
+2. Tjek at alle browser-udvidelser (extensions) er deaktiverede
+3. Tryk F12 for at åbne udvikler-værktøjer.
+
+4. Vælg den fane der hedder "Network"
+5. 
+6. Sørg for at ”Request types” står til ”All”:
+7. 
+8. Under ”Filter” skriver du ”wt” (for ”Webtrekk”, som Mapp hed i gamle dage):
+9. 

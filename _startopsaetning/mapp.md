@@ -29,6 +29,8 @@ Indsæt i feltet **ID**
 
 {% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3ffdbb57-b309-49b2-80a8-6a34ab2a0f7f" alt="Kopier Mapp ID fra DDB CMS til Folkebibliotekernes CMS" caption="Kopier Mapp ID fra DDB CMS til Folkebibliotekernes CMS" %} 
 
+## Egenkontrol
+Det er ikke muligt at tjekke Mapp konfigurationen så længe i arbejder på et staging-site. Når I er overgået til drift kan I udføre Egenkontrol, som beskrevet i  [Systemindstillinger for MAPP Intelligence](/systemindstillinger/mapp-intelligence/). 
 
 ## Yderligere dokumentation 
 [Se systemindstillinger for MAPP Intelligence](/systemindstillinger/mapp-intelligence/)
