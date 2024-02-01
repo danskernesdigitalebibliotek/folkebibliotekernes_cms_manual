@@ -305,8 +305,8 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/emneord/x-mangler-tekst/",
         "teaser": null
       },{
-        "title": "Grundkonfiguration",
-        "excerpt":"Punkterne i denne guide skal udføres som det første, når I får adgang til jeres nye Folkebibliotekernes CMS site. Log ind i Folkebibliotekernes CMS Hvorfra kommer URL + lokaladmin credentials? Det midlertidige staging-domæne Mens I opbygger jeres site arbejder I på et staging-domæne. Hvordan er det opbygget? Pas på med...","categories": [],
+        "title": "Startopsætning",
+        "excerpt":"Denne guide hjælper jer med at med startopsætning af jeres site. Opgaverne skal udføres i den rigtige rækkefølge og man må ikke springe over. Startopsætning - kom i gang I kan gå i gang med startopsætningen når I har modtaget URL og login til jeres Folkebbibliotekernes CMS staging-site Opgaverækkefølge Opagverne...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/grundkonfiguration/",
         "teaser": null
