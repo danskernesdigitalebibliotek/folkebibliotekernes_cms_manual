@@ -11,7 +11,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/audience/redaktoer/",
         "teaser": null
       },{
-        "title": "Opgave 10: Konfiguration af søge- og visningsprofiler",
+        "title": "Opgave 10: Opret søge- og visningsprofil i VIP",
         "excerpt":"Hjemmesiden henter data fra databrønden i mange forskellige sammenhænge, og disse sammenhænge kan overordnet inddeles i søgning og visning. Folkebibliotekernes CMS kræver to brøndprofiler i VIP-basen - en søgeprofil og en visningsprofil. I kan allerede nu bygge de to brøndprofiler. I må selv bestemme hvad de skal hedde. Kald dem...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/10vip-profiler/",
@@ -383,22 +383,28 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/vaerkvisningssiden/",
         "teaser": null
       },{
-        "title": "Startopsætning",
-        "excerpt":"Denne guide hjælper jer med startopsætning af jeres site. Opgaverne skal udføres i den rigtige rækkefølge og man må ikke springe over. Startopsætning - kom i gang I kan gå i gang med startopsætningen, når I har modtaget URL og login til jeres Folkebbibliotekernes CMS staging-site Opgaverækkefølge Opagverne i startopsætningen...","categories": [],
+        "title": "Opgave 1: OpenID Connect (Adgangsplatformen)",
+        "excerpt":"Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt. I denne opgave skal i kopiere jeres OpenID Connect adgangsnøgler fra DDB CMS over...","categories": ["Startopsætning"],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/",
+        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/1openid-connect/",
         "teaser": null
       },{
         "title": "Opgave 2: Mapp Intelligence",
         "excerpt":"Via Mapp indsamles statistik for jeres hjemmeside. I skal have overflyttet jeres Mapp ID fra DDB CMS til Folkebibliotekernes CMS. Kopier Mapp ID fra DDB CMS Log ind i DDB CMS. I topmenuen klik på Indstillinger &gt; Ding &gt; Webtrekk Eller åbn via direkte link (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/ding/webtrekk Kopier TagIntegration...","categories": ["Startopsætning"],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/mapp/",
+        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/2mapp/",
         "teaser": null
       },{
-        "title": "Opgave 1: OpenID Connect (Adgangsplatformen)",
-        "excerpt":"Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt. I denne opgave skal i kopiere jeres OpenID Connect adgangsnøgler fra DDB CMS over...","categories": ["Startopsætning"],
+        "title": "Opgave 3: Biblioteksindstillinger",
+        "excerpt":"Du har sikkert en kollega, der er en haj til Cicero, og som ofte snakker om VIP-basen. Du skal booke et møde med vedkommende, så I i fællesskab kan løse denne opgave. På denne side har vi samlet de indstillinger, der kræver biblioteksfaglig ekspertise og viden om, hvordan I gør...","categories": ["Startopsætning"],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/openid-connect/",
+        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/3soegeprofil/",
+        "teaser": null
+      },{
+        "title": "Startopsætning",
+        "excerpt":"Denne guide hjælper jer med startopsætning af jeres site. Opgaverne skal udføres i den rigtige rækkefølge og man må ikke springe over. Startopsætning - kom i gang I kan gå i gang med startopsætningen, når I har modtaget URL og login til jeres Folkebbibliotekernes CMS staging-site Opgaverækkefølge Opagverne i startopsætningen...","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/",
         "teaser": null
       },{
         "title": "Brugeroprettelse",
