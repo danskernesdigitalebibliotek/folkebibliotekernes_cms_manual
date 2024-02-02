@@ -420,7 +420,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Systemindstillinger i Folkebibliotekernes CMS",
-        "excerpt":"Der er adgang til alle systemindstillinger via menupunktet Indstillinger i topmenuen.   Der er rigtig mange systemindstillinger. Heldigvis er de fleste ikke vigtige for jer og kan ignoreres.   Her beskriver vi de systemindstillinger som det kan være relevant for bibliotekerne at arbejde med.      ","categories": [],
+        "excerpt":"Der er rigtig mange systemindstillinger. Heldigvis er de fleste ikke vigtige for jer og kan ignoreres. I denne sektion beskriver vi de systemindstillinger, der kan være relevante for bibliotekerne at ændre. Venstremenuen er inddelt så den ligner selve Indstillings-menuen. Der er adgang til alle systemindstillinger via menupunktet ‘Indstillinger’ i topmenuen...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/",
         "teaser": null
