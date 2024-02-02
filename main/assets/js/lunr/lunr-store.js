@@ -12,12 +12,12 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 10: Konfiguration af søge- og visningsprofiler",
-        "excerpt":"Hjemmesiden henter data fra databrønden i mange forskellige sammenhænge, og disse sammenhænge kan overordnet inddeles i søgning og visning.   Folkebibliotekernes CMS kræver to brøndprofiler i VIP-basen - en søgeprofil og en visningsprofil.  ","categories": ["Overgangsaktiviter"],
+        "excerpt":"Hjemmesiden henter data fra databrønden i mange forskellige sammenhænge, og disse sammenhænge kan overordnet inddeles i søgning og visning. Folkebibliotekernes CMS kræver to brøndprofiler i VIP-basen - en søgeprofil og en visningsprofil. I kan allerede nu bygge de to brøndprofiler. I må selv bestemme hvad de skal hedde. Kald dem...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/10vip-profiler/",
         "teaser": null
       },{
-        "title": "Opgave1: Projektorganisering på biblioteket",
+        "title": "Opgave 1: Projektorganisering på biblioteket",
         "excerpt":"Målet med denne opgave er at få etableret en fornuftig organisering af arbejdet med at implementere Folkebibliotekernes CMS. Beskrivelse I skal nu til at opbygge en helt ny hjemmeside, og det kommer til at tage noget tid. Derfor er det vigtigt, at I får styr på, hvem der skal gøre...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/1projektorganisering-paa-biblioteket/",
@@ -345,6 +345,12 @@ var store = [{
         "excerpt":"Samlet overblik over alle lån I Folkebibliotekernes CMS vises Overskredne lån, Lån og Digitale lån under menupunktet Lån. Derved samles alle lån på én side der giver et samlet overblik. Ny visningsmulighed - Lån grupperet efter afleveringsdato Oversigten over alle lån har to visningsmuligheder. Man kan få materialerne vist ét...","categories": ["Lånerstatus og brugerprofil"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/laan/",
+        "teaser": null
+      },{
+        "title": "Overbygningsmaterialer",
+        "excerpt":"Som noget nyt er det muligt for brugere af Folkebibliotekernes CMS at oprette fjernlån fra Centralbibliotekerne direkte på hjemmesiden, i stedet for at skulle igennem bibliotek.dk. Det er kun overbygningsmaterialerne, der kan bestilles, og kun når I ikke selv har dem i beholdning. For at stille denne funktionalitet til rådighed...","categories": ["Søgning"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/nye-features/overbygningsmaterialer/",
         "teaser": null
       },{
         "title": "Parallelreservering",
