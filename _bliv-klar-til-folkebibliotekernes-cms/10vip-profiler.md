@@ -1,5 +1,5 @@
 ---
-title: "Opgave 10: Konfiguration af søge- og visningsprofiler"
+title: "Opgave 10: Opret søge- og visningsprofil i VIP"
 category: "Overgangsaktiviter"
 weight: 10
 emneord:
