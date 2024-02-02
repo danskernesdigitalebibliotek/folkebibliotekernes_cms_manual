@@ -1,6 +1,7 @@
 ---
 title: "Opgave 3: Identitetsfarve"
 category: "Overgangsaktiviter"
+weight: 3
 emneord:
   - Logo og farver
 ---

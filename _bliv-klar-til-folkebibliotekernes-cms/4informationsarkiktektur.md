@@ -1,6 +1,7 @@
 ---
 title: "Opgave 4: Informationsarkitektur og navigation"
 category: "Overgangsaktiviter"
+weight: 4
 emneord:
   - Menuer og navigation
 ---

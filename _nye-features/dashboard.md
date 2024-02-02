@@ -3,7 +3,7 @@ title: "Dashboard"
 category: "Lånerstatus og brugerprofil"
 emneord: "X mangler billede"
 ---
-[INDSÆT SKÆRMBILLEDE AF DASHBOARD]
+[ INDSÆT SKÆRMBILLEDE AF DASHBOARD ]
 
 Dashboardet er en samlet indgang for brugeren til alt, hvad der vedrører brugerens lån, reserveringer, gebyrer etc. Brugeren kommer til Dashboardet ved at klikke på Dit overblik i brugermenuen.
 

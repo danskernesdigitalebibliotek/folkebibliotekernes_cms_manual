@@ -1,6 +1,7 @@
 ---
 title: "Opgave 2: Tilretning af logo til nyt design "
 category: "Overgangsaktiviter"
+weight: 2
 emneord:
   - Logo og farver
 ---

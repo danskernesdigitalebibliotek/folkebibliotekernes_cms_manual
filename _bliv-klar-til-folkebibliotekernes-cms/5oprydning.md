@@ -1,6 +1,7 @@
 ---
 title: "Opgave 5: Udvælg indhold der skal flyttes med over"
 category: "Overgangsaktiviter"
+weight: 5
 ---
 En flytning kan være en god lejlighed til at få ryddet op i gammelt indhold. I denne opgave får I nogle tips til at få kvalificeret det indhold, som skal med over på den nye hjemmeside. 
 

@@ -1,6 +1,7 @@
 ---
 title: "Opgave 6: Forbered nyt indhold, hvor det er påkrævet"
 category: "Overgangsaktiviter"
+weight: 6
 emneord:
   - Elektroniske ressourcer
   - Medarbejderoversigt

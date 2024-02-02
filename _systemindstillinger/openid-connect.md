@@ -14,10 +14,9 @@ Adgangsplatformen autoriserer også hjemmesiden til at udføre søgninger i FBI-
 ## Her finder du indstillinger for Open ID Connect 
 I topmenuen klik på **Indstillinger > Web-services > OpenID Connect**
 
-Eller åbn via direkte link (udskift mit-domænenavn.dk):
-
+Eller åbn via direkte link (udskift mit-domænenavn.dk):\
 https://mit-domænenavn`/admin/config/services/openid-connect`
-{: .notice--primary}
+
 
 ## Anbefalede indstillinger for OpenID Connect
 
