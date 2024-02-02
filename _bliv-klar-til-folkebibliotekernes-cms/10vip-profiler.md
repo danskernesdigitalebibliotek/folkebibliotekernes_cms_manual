@@ -11,7 +11,7 @@ sammenhænge kan overordnet inddeles i søgning og visning.
 **Folkebibliotekernes CMS kræver to brøndprofiler i [VIP-basen](http://vip.dbc.dk) - en søgeprofil
 og en visningsprofil.**
 
-I kan allerede nu bygge de to brøndprofiler. I må selv bestemme hvad de skal hedde. Kald dem f. eks. `fbcms-search` og `fbcms-display`.
+I kan allerede nu bygge de to brøndprofiler. I må selv bestemme hvad de skal hedde. Kald dem f. eks. `fbcms-soeg` og `fbcms-vis`.
 
 ## Søgeprofilen
 Søgeprofilen anvendes når brugerne foretager søgninger på bibliotekets hjemmeside både ved ’almindelig’ og avanceret søgning. Den bruges også, når der skal hentes filtre og facetter, og når autosuggesten skal hente forslag baseret på brugerens indtastninger mv.
@@ -35,3 +35,6 @@ der ikke er i lokal beholdning - typisk hvis de klikker på titlen på et fjernl
 Derfor skal visningsprofilen ikke være afgrænset til den lokale beholdning.
 
 **Vi anbefaler at i opretter visningsprofilen, så den er helt identisk med søgeprofilen. Med den ene forskel at visnings-profilen har flueben i ”Tilføj alle visningskilder”, mens søgeprofilen ikke har.**
+
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3076e60c-802e-4acc-8f8d-be779352e1f7)
+
