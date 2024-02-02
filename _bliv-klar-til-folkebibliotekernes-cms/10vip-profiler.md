@@ -30,11 +30,12 @@ Tilføj kilden ”Overbygningsmaterialer” hvis I ønsker, at brugerne skal kun
 ## Visningsprofilen
 Visningsprofilen bruges i de sammenhænge, hvor brugerne skal se detaljer om et værk. Det gælder værkvisnings-siden og lånerstatus.
 Der er en række scenarier, hvor brugerne har brug for at se en værkvisningsside for et materiale,
-der ikke er i lokal beholdning - typisk hvis de klikker på titlen på et fjernlånt materiale i deres lånerstatus, men også hvis der er tilføjet et værk til huskelisten i et andet bibliotek, eller hvis de klikker på et link til et kasseret materiale i en gammel artikel.
+der ikke er i lokal beholdning - typisk hvis de klikker på titlen på et fjernlånt materiale i deres lånerstatus, men også hvis der er tilføjet et værk til huskelisten via et andet bibliotek, eller hvis de klikker på et link til et kasseret materiale i en gammel artikel.
 
 Derfor skal visningsprofilen ikke være afgrænset til den lokale beholdning.
 
-**Vi anbefaler at i opretter visningsprofilen, så den er helt identisk med søgeprofilen. Med den ene forskel at visnings-profilen har flueben i ”Tilføj alle visningskilder”, mens søgeprofilen ikke har.**
+**Vi anbefaler at I opretter visningsprofilen, så den er helt identisk med søgeprofilen. Med den ene forskel at visnings-profilen har flueben i ”Tilføj alle visningskilder”, mens søgeprofilen ikke har.**
 
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3076e60c-802e-4acc-8f8d-be779352e1f7)
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3076e60c-802e-4acc-8f8d-be779352e1f7" alt="Visningsprofilen skal have flueben i Tilføj alle visningskilder" caption="Visningsprofilen skal have flueben i Tilføj alle visningskilder" %} 
+
 
