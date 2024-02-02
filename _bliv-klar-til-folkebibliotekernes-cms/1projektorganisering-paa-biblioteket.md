@@ -1,5 +1,5 @@
 ---
-title: "Opgave1: Projektorganisering på biblioteket"
+title: "Opgave 1: Projektorganisering på biblioteket"
 category: "Overgangsaktiviter"
 weight: 1
 emneord:
