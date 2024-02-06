@@ -414,13 +414,13 @@ var store = [{
         "teaser": null
       },{
         "title": "FBS indstillinger",
-        "excerpt":"Opsæt forbindelse til bibliotekssystemet.   Her finder du indstillinger for FBS  I topmenuen klik på Indstillinger.   Vælg dernæst Web-services &gt; FBS indstillinger   Eller åbn via direkte link (udskift mit-domænenavn.dk):   https://mit-domænenavn.dk/admin/config/services/fbs   Anbefalede indstillinger for FBS                  Feltnavn       Værdi                       FBS Service URL       https://fbs-openplatform.dbc.dk                     FBS Service URL        ","categories": ["Web-services"],
+        "excerpt":"Opsæt forbindelse til bibliotekssystemet.   Her finder du indstillinger for FBS  I topmenuen klik på Indstillinger &gt; Web-services &gt; FBS indstillinger   Eller åbn via direkte link (udskift mit-domænenavn.dk):  https://mit-domænenavn.dk/admin/config/services/fbs   Anbefalede indstillinger for FBS                  Feltnavn       Værdi                       FBS Service URL       https://fbs-openplatform.dbc.dk                     FBS Service URL        ","categories": ["Web-services"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/fbs-indstillinger/",
         "teaser": null
       },{
         "title": "Generelle indstillinger",
-        "excerpt":"De generelle biblioteksindstillinger skal udfyldes så de stemmer overens med de systemindstillinger i har valgt i Cicero. Sæt dig sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét. FBI Profiles Inden I kan udfylde disse felter skal I have oprettet de to påkrævede søge- og visningsprofiler...","categories": ["Biblioteksindstillinger"],
+        "excerpt":"De generelle biblioteksindstillinger skal udfyldes så de stemmer overens med de systemindstillinger i har valgt i Cicero. Sæt dig sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét. Her finder du Generelle Indstillinger I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Generelle indstillinger Eller åbn via...","categories": ["Biblioteksindstillinger"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/generelle-indstillinger/",
         "teaser": null
