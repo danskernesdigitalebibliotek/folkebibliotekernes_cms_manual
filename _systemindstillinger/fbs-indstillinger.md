@@ -9,13 +9,11 @@ emneord:
 Opsæt forbindelse til bibliotekssystemet.
 
 ## Her finder du indstillinger for FBS
-I topmenuen klik på Indstillinger. \
-Vælg dernæst Web-services > FBS indstillinger
+I topmenuen klik på **Indstillinger > Web-services > FBS indstillinger**
 
-Eller åbn via direkte link (udskift mit-domænenavn.dk):
-
+Eller åbn via direkte link (udskift mit-domænenavn.dk):\
 https://mit-domænenavn.dk`/admin/config/services/fbs`
-{: .notice--primary}
+
 
 ## Anbefalede indstillinger for FBS
 
