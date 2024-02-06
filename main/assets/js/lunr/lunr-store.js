@@ -419,6 +419,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/fbs-indstillinger/",
         "teaser": null
       },{
+        "title": "Generelle indstillinger",
+        "excerpt":"De generelle biblioteksindstillinger skal udfyldes så de stemmer overens med de systemindstillinger i har valgt i Cicero. Sæt dig sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét. FBI Profiles Inden I kan udfylde disse felter skal I have oprettet de to påkrævede søge- og visningsprofiler...","categories": ["Biblioteksindstillinger"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/systemindstillinger/generelle-indstillinger/",
+        "teaser": null
+      },{
         "title": "Systemindstillinger i Folkebibliotekernes CMS",
         "excerpt":"Der er rigtig mange systemindstillinger. Heldigvis er de fleste ikke vigtige for jer og kan ignoreres. I denne sektion beskriver vi de systemindstillinger, der kan være relevante for bibliotekerne at ændre. Venstremenuen er inddelt så den ligner selve Indstillings-menuen. Der er adgang til alle systemindstillinger via menupunktet ‘Indstillinger’ i topmenuen...","categories": [],
         "tags": [],
