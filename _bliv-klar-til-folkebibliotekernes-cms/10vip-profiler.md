@@ -27,7 +27,7 @@ Tilføj kilden "Bibliotekets poster med aktive beholdninger - for FBS biblioteke
 **3. Overbygningsmaterialer**\
 Tilføj kilden ”Overbygningsmaterialer” hvis I ønsker, at brugerne skal kunne fremsøge centralbibliotekernes materialer og oprette fjernlån direkte fra Folkebibliotekernes CMS. Læs mere om [Overbygningsmaterialer](/nye-features/overbygningsmaterialer). 
 
-![VIP-fbcms-soeg3](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/22dfeac7-4a4f-4a7f-8710-95b7efb70f9e)
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/22dfeac7-4a4f-4a7f-8710-95b7efb70f9e" alt="Visningsprofilen skal IKKE have flueben i Tilføj alle visningskilder" caption="Søgeprofilen skal IKKE have flueben i Tilføj alle visningskilder" %} 
 
 
 ## Visningsprofilen
@@ -39,9 +39,8 @@ Derfor skal visningsprofilen ikke være afgrænset til den lokale beholdning.
 
 **Vi anbefaler at I opretter visningsprofilen, så den er helt identisk med søgeprofilen. Med den ene forskel at visnings-profilen har flueben i ”Tilføj alle visningskilder”, mens søgeprofilen ikke har.**
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3076e60c-802e-4acc-8f8d-be779352e1f7" alt="Visningsprofilen skal have flueben i Tilføj alle visningskilder" caption="Visningsprofilen skal have flueben i Tilføj alle visningskilder" %} 
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/720a7cb1-063c-4b9c-b04d-6a33c2fb8fe1" alt="Visningsprofilen skal have flueben i Tilføj alle visningskilder" caption="Visningsprofilen skal have flueben i Tilføj alle visningskilder" %} 
 
-![VIP-fbcms-vis2](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/720a7cb1-063c-4b9c-b04d-6a33c2fb8fe1)
 
 
 
