@@ -4,8 +4,6 @@ category: "Indholdstyper"
 weight: 1
 ---
 
-**Denne side er under konstruktion**
-
 Kampagner er en selvstændig indholdstype, der vises på søgeresultat-siden – men kun hvis det,
 som brugeren søger på, udløser den.
 Kampagner kan derfor bruges målrettet til at skabe opmærksomhed om arrangementer, særlige
