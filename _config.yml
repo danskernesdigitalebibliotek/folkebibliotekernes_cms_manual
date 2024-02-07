@@ -35,6 +35,7 @@ algolia:
    - _category/*
    - _audience/*
    - _emneord/*
+   - _pages/404.md
 
 
 github: [metadata]

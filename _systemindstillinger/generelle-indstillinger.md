@@ -3,6 +3,7 @@ title: "Generelle indstillinger"
 category: "Biblioteksindstillinger"
 emneord: 
 - "Søgning"
+- "Reserveringer"
 ---
 De generelle biblioteksindstillinger skal udfyldes så de stemmer overens med de systemindstillinger i har valgt i Cicero. Sæt dig sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét.
 
@@ -40,7 +41,7 @@ Jeres site fødes med kun én værdi. Det er "180-6 måneder". Det betyder en in
 ### Default interesseperiode for reserveringer
 Efter I har gemt bliver de nye interesseperiode tilgængelige i **Default interesseperiode for reserveringer** dropdown. Vælg den nye default-interesseperiode og tryk så igen på **Gem indstillinger** nederst på siden. 
 
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/800a5193-e413-473f-8dd6-4e0cb78a53b5)
+ {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/800a5193-e413-473f-8dd6-4e0cb78a53b5" alt="Default interesseperiode for reserveringer" caption="Default interesseperiode for reserveringer" %} 
 
 
 ## FBI Profiles
