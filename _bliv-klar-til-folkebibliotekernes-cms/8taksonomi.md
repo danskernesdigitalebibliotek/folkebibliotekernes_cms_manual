@@ -21,7 +21,7 @@ Som lokal administrator i DDB CMS kan man få et samlet overblik over sine tags 
 1. Log ind i DDB CMS
 2. Klik på **Struktur** i hovedmenuen og dernæst på **Taksonomi**.
 
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c0665328-4b41-4395-8ad9-077eae737d90)
+{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c0665328-4b41-4395-8ad9-077eae737d90" alt="Taksonomier i DDB CMS" caption="Taksonomier i DDB CMS" %} 
 
 
 Lav gerne en liste over de vigtigste kategorier og tags, som I vil holde fast i og overføre til det nye cms. 
