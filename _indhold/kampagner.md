@@ -7,6 +7,7 @@ Denne side er uder konstruktion
 
 Kampagner er en selvstændig indholdstype, der vises på søgeresultat-siden – men kun hvis det,
 som brugeren søger på, udløser den.
+
 Kampagner kan derfor bruges målrettet til at skabe opmærksomhed om arrangementer, særlige
 materialer, eller andet, som biblioteket ønsker at give særlig promovering.
 
