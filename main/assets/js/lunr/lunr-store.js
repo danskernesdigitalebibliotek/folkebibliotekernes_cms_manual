@@ -95,6 +95,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/category/grundkonfiguration/",
         "teaser": null
       },{
+        "title": "Indholdstyper",
+        "excerpt":"Indholdstyper er en overskrift i Opret indhold til folkebibliotekernes CMS  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/category/indholdstyper/",
+        "teaser": null
+      },{
         "title": "Integrationer",
         "excerpt":"Integrationer  ","categories": [],
         "tags": [],
