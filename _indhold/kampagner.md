@@ -10,4 +10,5 @@ materialer, eller andet, som biblioteket ønsker at give særlig promovering.
 
 Hvis du ønsker at oprette en kampagne, skal du gå ind på /admin/content
 Klik på ”Tilføj indhold” i øverste højre hjørne:
-<img width="175" alt="kampagner_tilfoj" src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/41c63800-345d-4986-908a-7307297a1419">
+
+![billedmateriale]<img width="halvtreds" alt="kampagner_tilfoj" src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/41c63800-345d-4986-908a-7307297a1419">
