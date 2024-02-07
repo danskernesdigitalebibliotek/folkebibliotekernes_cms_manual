@@ -15,9 +15,6 @@ Hvis en bruger klikker på ”Reserver bog” øverst, oprettes automatisk paral
 
 Ønsker brugeren at reservere en specifik udgave, er det også muligt. Så skal han blot benytte den Reserver-knap, der findes ud for den ønskede udgave under ”Udgaver”. 
 
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/846994ba-4b95-49b4-b07d-781805082767)
-{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/846994ba-4b95-49b4-b07d-781805082767" alt="Browserknapper" caption="Browserknapper" %} 
-
 ## Godkend reservering
 Til slut skal brugeren godkende sine valg.
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/9cc304d3-f356-491a-8cce-0982f605716f" alt="Ved pa" caption="Skønlitterært værk med to bog-udgaver" %} 
