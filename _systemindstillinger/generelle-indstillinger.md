@@ -28,16 +28,17 @@ Her skal I angive, om I tilbyder SMS notifikationer eller ej. Hvis denne indstil
 
 
 ## Interesseperiode for reserveringer
-Alle reserveringer, der bliver oprettet, tildeles en interesseperiode. Hvis slutbrugeren ikke selv vælger en interesseperiode, bruges som udgangspunkt default-værdien. Slutbrugeren har mulighed for at tilpasse interesseperioden på hver enkelt reservering. 
-Jeres site fødes med default-værdien "180-6 måneder". Det betyder en interesseperiode på 180 dage. "6 måneder" er teksten der vises til slutbrugeren. 
+Alle reserveringer, der bliver oprettet, tildeles en interesseperiode. Hvis slutbrugeren ikke selv vælger en interesseperiode, bruges som udgangspunkt default-værdien. Slutbrugeren har mulighed for at tilpasse interesseperioden på hver enkelt reservering. I bestemmer hvilke interesseperioder der skal kunne vælges imellem.
 
-Hvis I har brug for at sætte en anden default interesseperiode er gør I sådan her:
-1. I feltet **Interesseperiode for reserveringer** tilføjer I den nye interesseperiode. Hvis jeres interesseperiode er 1 år, tilføjer I linjen "365-1 år" Bemærk det særlige format: [Antal dage]-[Tekst der vises til slutbrugeren].
+### Opret interesseperiode valgmulighederne
+Jeres site fødes med kun én værdi. Det er "180-6 måneder". Det betyder en interesseperiode på 180 dage. Denne periode er også default-værdien. Hvis I har brug for at sætte en anden default interesseperiode, eller gerne vil give jeres brugere adgang til flere valgmuligheder gør sådan:
+
+1. I feltet **Interesseperiode for reserveringer** tilføjer I en eller flere nye interesseperiode. Hvis I vil tilføje interesseperioden 1 år, tilføjer I linjen "365-1 år" Bemærk det særlige format: [Antal dage]-[Tekst der vises til slutbrugeren].
 2. Nu gemmer I formularen. Tryk på **Gem indstillinger** nederst på siden.
-3. Efter I har gemt bliver den nye interesseperiode tilgængelig i **Default interesseperiode for reserveringer** dropdown. Vælg den den nye default-interesseperiode og tryk så igen på **Gem indstillinger** nederst på siden.
+3. Nu er de nye interesseperioder gemt som valgmuligheder, som slutbrugerne kan vælge imellem.
 
-## Default interesseperiode for reserveringer
-Her sættes default-værdien for Interesseperiode. 
+### Default interesseperiode for reserveringer
+Efter I har gemt bliver de nye interesseperiode tilgængelige i **Default interesseperiode for reserveringer** dropdown. Vælg den nye default-interesseperiode og tryk så igen på **Gem indstillinger** nederst på siden. 
 
 
 ## FBI Profiles
