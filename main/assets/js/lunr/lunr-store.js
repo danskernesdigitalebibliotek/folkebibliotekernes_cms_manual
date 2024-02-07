@@ -324,7 +324,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Kampagner",
-        "excerpt":"Her kommer vejledning til indholdstypen kampagner ","categories": ["Indholdstyper"],
+        "excerpt":"","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/Kampagner/",
         "teaser": null
