@@ -40,6 +40,8 @@ Jeres site fødes med kun én værdi. Det er "180-6 måneder". Det betyder en in
 ### Default interesseperiode for reserveringer
 Efter I har gemt bliver de nye interesseperiode tilgængelige i **Default interesseperiode for reserveringer** dropdown. Vælg den nye default-interesseperiode og tryk så igen på **Gem indstillinger** nederst på siden. 
 
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/800a5193-e413-473f-8dd6-4e0cb78a53b5)
+
 
 ## FBI Profiles
 Inden I kan udfylde disse felter skal I have oprettet de to påkrævede [søge- og visningsprofiler i VIP](/bliv-klar-til-folkebibliotekernes-cms/10vip-profiler/). 
