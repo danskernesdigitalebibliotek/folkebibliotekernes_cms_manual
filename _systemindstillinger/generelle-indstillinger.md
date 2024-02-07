@@ -26,13 +26,18 @@ Nogle kommuner tilbyder at sende SMS notifikationer til brugerne om deres lån o
 
 Her skal I angive, om I tilbyder SMS notifikationer eller ej. Hvis denne indstilling er grøn, betyder det, at slutbrugerne får mulighed for at tilvælge SMS i deres brugerprofil.
 
+
 ## Interesseperiode for reserveringer
-Her sættes default-værdien for Interesseperiode. Alle reserveringer, der bliver oprettet, tildeles en interesseperiode. Hvis slutbrugeren ikke selv vælger en interesseperiode, bruges som udgangspunkt default-værdien. Slutbrugeren har mulighed for at tilpasse interesseperioden på hver enkelt reservering. 
+Alle reserveringer, der bliver oprettet, tildeles en interesseperiode. Hvis slutbrugeren ikke selv vælger en interesseperiode, bruges som udgangspunkt default-værdien. Slutbrugeren har mulighed for at tilpasse interesseperioden på hver enkelt reservering. 
+Jeres site fødes med default-værdien "180-6 måneder". Det betyder en interesseperiode på 180 dage. "6 måneder" er teksten der vises til slutbrugeren. 
 
-Jeres site fødes med værdien "180-6 måneder". Dvs. en interesseperiode på 180 dage. Teksten, der vises til slutbrugeren er "6 måneder".
-I må meget gerne tilpasse denne værdi til jeres behov.
+Hvis I har brug for at sætte en anden default interesseperiode er gør I sådan her:
+1. I feltet **Interesseperiode for reserveringer** tilføjer I den nye interesseperiode. Hvis jeres interesseperiode er 1 år, tilføjer I linjen "365-1 år" Bemærk det særlige format: [Antal dage]-[Tekst der vises til slutbrugeren].
+2. Nu gemmer I formularen. Tryk på **Gem indstillinger** nederst på siden.
+3. Efter I har gemt bliver den nye interesseperiode tilgængelig i **Default interesseperiode for reserveringer** dropdown. Vælg den den nye default-interesseperiode og tryk så igen på **Gem indstillinger** nederst på siden.
 
-**Bemærk det særlige format!** [Antal dage]-[Tekst der vises til slutbrugeren]
+## Default interesseperiode for reserveringer
+Her sættes default-værdien for Interesseperiode. 
 
 
 ## FBI Profiles
