@@ -77,6 +77,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/",
         "teaser": null
       },{
+        "title": "Indholdstyper",
+        "excerpt":"Indholdstyper er en overskrift i Opret indhold til folkebibliotekernes CMS ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/category/Indholdstyper/",
+        "teaser": null
+      },{
         "title": "Biblioteksindstillinger",
         "excerpt":"Biblioteksindstillinger er en overskrift i systemindstillinger  ","categories": [],
         "tags": [],
