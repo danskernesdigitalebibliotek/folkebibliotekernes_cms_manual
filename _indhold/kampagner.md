@@ -14,17 +14,17 @@ materialer, eller andet, som biblioteket ønsker at give særlig promovering.
 Hvis du ønsker at oprette en kampagne, skal du gå ind på /admin/content
 Klik på ”Tilføj indhold” i øverste højre hjørne:
 
-![Tilfoj_indhold](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/5d5b8807-fc0a-45aa-ad24-1f2eb6b0f972)
-
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/5d5b8807-fc0a-45aa-ad24-1f2eb6b0f972" alt="Opret en ny kampagne med knappen Tilføj indhold" caption="Opret en ny kampagne med knappen Tilføj indhold" %}
 
 Klik på ”Campaign”:
 
-![add_content](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/6765297d-82c6-4743-a310-661a56db4c27)
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/6765297d-82c6-4743-a310-661a56db4c27" alt="Klik på knappen Campaign under overskriften Add content" caption="Klik på knappen Campaign under overskriften Add content" %}
 
 Og så er du klar til at gå i gang.
 
 <img width="339" alt="Create_campaign" src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/224dd688-4913-46c1-a7c5-da84e4e44d7b">
+
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/224dd688-4913-46c1-a7c5-da84e4e44d7b" alt="Formularen til at oprette en kampagne" caption="Formularen til at oprette en kampagne" %}
 
 **Title**   
 ”Title” må ikke være tom. Det er kampagnens titel, som IKKE vises for slutbrugerne.
@@ -53,6 +53,8 @@ Under ”Term Ranking Maximum” vælges hvor højt på listen over de hyppigst 
 
 <img width="419" alt="Triggers" src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/a8b96d14-6d81-421d-a253-a0a026d9496a">
 
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/a8b96d14-6d81-421d-a253-a0a026d9496a" alt="Tilføj triggers" caption="Tilføj triggers" %}
+
 ### Eksempel:
 Ønsker man fx at oprette en kampagne, der vises på alle søgesæt, hvori Sara Blædel er blandt de forfattere, der er repræsenteret hyppigst, vælges ”Facet” -> ”Creators”, og i ”Term” skrives så ”sara blædel”.
 
@@ -64,5 +66,7 @@ I mange tilfælde er ”Emne” den mest meningsfulde facet-type at vælge. Vær
 Ønskes flere triggers, klik da på ”Tilføj Campaign Rule”.
 
 ![save](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/87397e42-6872-416c-8bdd-2d92fd78cf25)
+
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/87397e42-6872-416c-8bdd-2d92fd78cf25" alt="Tryk på Save for at gemme den nye kampagne" caption="Tryk på Save for at gemme den nye kampagne" %}
 
 Foretag gerne nogle søgninger på dit site, for at tjekke at den rent faktisk bliver udløst af de søgninger, du ønsker, og tilret, indtil dens adfærd er som du ønsker.
