@@ -35,11 +35,11 @@ feature_row:
     title: "Opret indhold i Folkebibliotekernes CMS"
     excerpt: "Sådan opretter du artikler, arrangementer, sider, åbningstider mv. (Udbygges løbende)"
     url: "/indhold/"
-  - image_path: /assets/images/systemindstillinger.jpg
-    alt: "Systemindstillinger i Folkebibliotekernes CMS"
-    title: "Systemindstillinger i Folkebibliotekernes CMS"
+  - image_path: /assets/images/konfiguration.jpg
+    alt: "Konfiguration i Folkebibliotekernes CMS"
+    title: "Konfiguration i Folkebibliotekernes CMS"
     excerpt: "Beskrivelse af alle systemets konfigurationsmuligheder (Udbygges løbende)"
-    url: "/systemindstillinger/"
+    url: "/konfiguration/"
   - image_path: /assets/images/content.jpg
     alt: "Guidelines til god webkommunikation"
     title: "Guidelines til god webkommunikation"

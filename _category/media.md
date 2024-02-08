@@ -1,4 +1,4 @@
 ---
 title: "Media"  
 ---
-Media er en overskrift i systemindstillinger
+Media er en overskrift i konfiguration

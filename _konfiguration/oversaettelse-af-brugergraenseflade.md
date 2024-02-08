@@ -1,6 +1,6 @@
 ---
 title: "Oversættelse af brugergrænseflade"
-category: "Region og sprog"
+category: "Konfiguration"
 emneord: "Oversættelse af brugergrænsefladen"
 audience:
 ---

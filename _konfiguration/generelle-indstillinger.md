@@ -1,17 +1,21 @@
 ---
-title: "Generelle indstillinger"
-category: "Biblioteksindstillinger"
+title: "Indstillinger > Biblioteksindstillinger > Generelle indstillinger"
+category: "Konfiguration"
 emneord: 
 - "Søgning"
 - "Reserveringer"
+- "SMS"
+- "Interesseperiode"
+- "VIP og søgeprofiler"
 ---
-De generelle biblioteksindstillinger skal udfyldes så de stemmer overens med de systemindstillinger i har valgt i Cicero. Sæt dig sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét.
 
-## Her finder du Generelle Indstillinger
 I topmenuen klik på **Indstillinger > Biblioteksindstillinger > Generelle indstillinger**
 
 Eller åbn via direkte link (udskift mit-domænenavn.dk):\
-https://mit-domænenavn.dk`/admin/config/dpl-library-agency/general-settings`
+`https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings`
+
+## Om Genrerelle indstillinger
+De generelle biblioteksindstillinger skal udfyldes så de stemmer overens med jeres valg i Cicero. Sæt dig sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét.
 
 ## Interesseperiode for reserveringer
 Alle reserveringer, der bliver oprettet, tildeles en interesseperiode. Hvis slutbrugeren ikke selv vælger en interesseperiode, bruges som udgangspunkt default-værdien. Slutbrugeren har mulighed for at tilpasse interesseperioden på hver enkelt reservering. I bestemmer hvilke interesseperioder, der skal kunne vælges imellem.

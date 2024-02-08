@@ -1,4 +1,4 @@
 ---
-title: "Biblioteksindstillinger"  
+title: "Indstillinger > Biblioteksindstillinger"  
 ---
-Biblioteksindstillinger er en overskrift i systemindstillinger
+Biblioteksindstillinger er en overskrift i konfiguration

@@ -1,6 +1,6 @@
 ---
 title: "Brugeroprettelse"
-category: "Personer"
+category: "Konfiguration"
 emneord: 
 - "Adgangsplatformen"
 - "X mangler tekst"

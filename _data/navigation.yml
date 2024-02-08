@@ -17,14 +17,17 @@ overblik:
         url: "/nye-features/"
       - title: "Opret indhold i FB CMS"
         url: "/indhold/"
-      - title: "Systemindstillinger i FB CMS"
-        url: "/systemindstillinger/"
+      - title: "Konfiguration i FB CMS"
+        url: "/konfiguration/"
       - title: "Guidelines til god webkommunikation"
         url: "guidelines-til-god-webkommunikation"
       - title: "Hurtigguide til manualen"
         url: hurtigguide-til-manualen
       - title: "Emneoversigt"
         url: emneord
+
+
+     
 
 
 

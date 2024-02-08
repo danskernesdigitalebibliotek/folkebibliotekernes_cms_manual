@@ -1,6 +1,6 @@
 ---
 title: "Publizon indstillinger"
-category: "Web-services"
+category: "Konfiguration"
 emneord: 
 - "Digitale lån"
 - "eReolen"

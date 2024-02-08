@@ -1,6 +1,6 @@
 ---
 title: "RSS udgivelse"
-category: "Web-services"
+category: "Konfiguration"
 emneord: 
 - "Biblioteket App"
 - "X mangler indhold"

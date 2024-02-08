@@ -1,6 +1,6 @@
 ---
 title: "Indstillinger for viderestilling af bruger til Adgangsplatformen"
-category: "Personer"
+category: "Konfiguration"
 emneord: 
 - "Adgangsplatformen"
 - "X mangler tekst"

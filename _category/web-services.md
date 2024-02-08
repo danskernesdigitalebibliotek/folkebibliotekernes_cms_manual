@@ -1,4 +1,4 @@
 ---
-title: "Web-services"  
+title: "Indstillinger > Web-services"  
 ---
-Web-services er en overskrift i systemindstillinger
+Web-services er en overskrift i konfiguration

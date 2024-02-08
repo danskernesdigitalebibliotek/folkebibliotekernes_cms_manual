@@ -1,6 +1,6 @@
 ---
 title: "Opsæt proxy URL'er"
-category: "Web-services"
+category: "Konfiguration"
 emneord: 
 - "Fjernadgang"
 - "Elektroniske ressourcer"

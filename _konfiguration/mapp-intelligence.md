@@ -1,6 +1,6 @@
 ---
 title: "Mapp Intelligence"
-category: "System"
+category: "Konfiguration"
 emneord: 
 - "Statistik"
 ---

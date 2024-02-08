@@ -1,4 +1,4 @@
 ---
 title: "Udvikling"  
 ---
-Udvikling er en overskrift i systemindstillinger
+Udvikling er en overskrift i konfiguration

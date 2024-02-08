@@ -1,4 +1,4 @@
 ---
-title: "System"  
+title: "Indstillinger > System"  
 ---
-System er en overskrift i systemindstillinger
+System er en overskrift i konfiguration

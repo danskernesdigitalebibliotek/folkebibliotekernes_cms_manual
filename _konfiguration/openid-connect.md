@@ -1,6 +1,6 @@
 ---
 title: "OpenID connect (Adgangsplatformen)"
-category: "Web-services"
+category: "Konfiguration"
 emneord: 
 - "Adgangsplatformen"
 ---

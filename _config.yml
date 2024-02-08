@@ -79,7 +79,7 @@ collections:
   startopsaetning:
     output: true
     permalink: /:collection/:path/
-  systemindstillinger:
+  konfiguration:
     output: true
     permalink: /:collection/:path/
   indhold:
@@ -111,12 +111,10 @@ defaults:
       author_profile: false
       toc: false
       classes: wide
-      sidebar:
-        nav: overblikk
-  # _systemindstillinger
+  # _konfiguration
   - scope:
       path: ""
-      type: systemindstillinger
+      type: konfiguration
     values:
       layout: single
       toc: false
