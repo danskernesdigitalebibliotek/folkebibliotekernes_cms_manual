@@ -9,7 +9,9 @@ som brugeren søger på, udløser den.
 Kampagner kan derfor bruges målrettet til at skabe opmærksomhed om arrangementer, særlige
 materialer, eller andet, som biblioteket ønsker at give særlig promovering.
 
-Hvis du ønsker at oprette en kampagne, skal du gå ind på https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk)
+Hvis du ønsker at oprette en kampagne, skal du gå ind på   
+https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk).    
+
 Klik på ”Tilføj indhold” i øverste højre hjørne:
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/5d5b8807-fc0a-45aa-ad24-1f2eb6b0f972" alt="Opret en ny kampagne med knappen Tilføj indhold" caption="Opret en ny kampagne med knappen Tilføj indhold" %}
