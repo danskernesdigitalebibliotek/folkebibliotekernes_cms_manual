@@ -13,9 +13,6 @@ I topmenuen klik på **Indstillinger > Biblioteksindstillinger > Generelle indst
 Eller åbn via direkte link (udskift mit-domænenavn.dk):\
 https://mit-domænenavn.dk`/admin/config/dpl-library-agency/general-settings`
 
-
-
-
 ## Interesseperiode for reserveringer
 Alle reserveringer, der bliver oprettet, tildeles en interesseperiode. Hvis slutbrugeren ikke selv vælger en interesseperiode, bruges som udgangspunkt default-værdien. Slutbrugeren har mulighed for at tilpasse interesseperioden på hver enkelt reservering. I bestemmer hvilke interesseperioder, der skal kunne vælges imellem.
 
