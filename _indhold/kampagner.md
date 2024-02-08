@@ -16,6 +16,8 @@ Klik på ”Tilføj indhold” i øverste højre hjørne:
 
 ![Tilfoj_indhold](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/5d5b8807-fc0a-45aa-ad24-1f2eb6b0f972)
 
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/5d5b8807-fc0a-45aa-ad24-1f2eb6b0f972" alt="Opret en ny kampagne med knappen Tilføj indhold" caption="Opret en ny kampagne med knappen Tilføj indhold" %}
+
 Klik på ”Campaign”:
 
 ![add_content](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/6765297d-82c6-4743-a310-661a56db4c27)
@@ -64,5 +66,3 @@ I mange tilfælde er ”Emne” den mest meningsfulde facet-type at vælge. Vær
 ![save](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/87397e42-6872-416c-8bdd-2d92fd78cf25)
 
 Foretag gerne nogle søgninger på dit site, for at tjekke at den rent faktisk bliver udløst af de søgninger, du ønsker, og tilret, indtil dens adfærd er som du ønsker.
-
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/a32325a3-f6e4-4dfd-b589-15d2f8bb07b4" alt="Opret en ny kampagne med knappen Tilføj indhold" caption="Opret en ny kampagne med knappen Tilføj indhold" %}
