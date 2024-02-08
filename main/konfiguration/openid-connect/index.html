@@ -9,22 +9,19 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Konfiguration af Folkebibliotekernes CMS - Folkebibliotekernes CMS</title>
-<meta name="description" content="Manual, tidsplan og information om Folkebibliotekernes CMS. Sitets vedligeholdes af DDF  og udbygges løbende.">
+<!-- begin _includes/seo.html --><title>OpenID connect (Adgangsplatformen) - Folkebibliotekernes CMS</title>
+<meta name="description" content="Adgangsplatformen sikrer et ensartet login-flow for brugerne på tværs af bibliotekstjenester. Brugeren sendes til en en selvstændig loginside. Efter login sendes brugeren retur igen.">
 
 
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Konfiguration af Folkebibliotekernes CMS">
-<meta property="og:url" content="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration">
+<meta property="og:title" content="OpenID connect (Adgangsplatformen)">
+<meta property="og:url" content="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/openid-connect/">
 
 
-  <meta property="og:description" content="Manual, tidsplan og information om Folkebibliotekernes CMS. Sitets vedligeholdes af DDF  og udbygges løbende.">
-
-
-
+  <meta property="og:description" content="Adgangsplatformen sikrer et ensartet login-flow for brugerne på tværs af bibliotekstjenester. Brugeren sendes til en en selvstændig loginside. Efter login sendes brugeren retur igen.">
 
 
 
@@ -32,9 +29,14 @@
 
 
 
+  <meta property="article:published_time" content="2024-02-08T15:56:58+00:00">
 
 
-<link rel="canonical" href="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration">
+
+
+
+
+<link rel="canonical" href="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/openid-connect/">
 
 
 
@@ -153,7 +155,17 @@
         <span class="sep">/</span>
       
       
-        <li class="current">Konfiguration af Folkebibliotekernes CMS</li>
+        
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/folkebibliotekernes_cms_manual/main/konfiguration" itemprop="item"><span itemprop="name">Konfiguration</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        <span class="sep">/</span>
+      
+    
+      
+      
+        <li class="current">OpenID connect (Adgangsplatformen)</li>
       
     
   </ol>
@@ -192,6 +204,61 @@
     <label for="ac-toc">Toggle Menu</label>
     <ul class="nav__items">
 
+      
+      
+
+        
+        <li>
+          <span class="nav__sub-title">Konfiguration</span>        
+          <ul>
+            
+            
+            
+
+            
+              
+                <li><a href="/folkebibliotekernes_cms_manual/main/konfiguration/brugeroprettelse/">Brugeroprettelse</a></li>
+              
+            
+              
+                <li><a href="/folkebibliotekernes_cms_manual/main/konfiguration/fbs-indstillinger/">FBS indstillinger</a></li>
+              
+            
+              
+                <li><a href="/folkebibliotekernes_cms_manual/main/konfiguration/generelle-indstillinger/">Indstillinger > Biblioteksindstillinger > Generelle indstillinger</a></li>
+              
+            
+              
+                <li><a href="/folkebibliotekernes_cms_manual/main/konfiguration/viderestilling-til-adgangsplatformen/">Indstillinger for viderestilling af bruger til Adgangsplatformen</a></li>
+              
+            
+              
+                <li><a href="/folkebibliotekernes_cms_manual/main/konfiguration/mapp-intelligence/">Mapp Intelligence</a></li>
+              
+            
+              
+                <li><a href="/folkebibliotekernes_cms_manual/main/konfiguration/openid-connect/" class="active">OpenID connect (Adgangsplatformen)</a></li>
+              
+            
+              
+                <li><a href="/folkebibliotekernes_cms_manual/main/konfiguration/url-proxy-indstillinger/">Opsæt proxy URL'er</a></li>
+              
+            
+              
+                <li><a href="/folkebibliotekernes_cms_manual/main/konfiguration/oversaettelse-af-brugergraenseflade/">Oversættelse af brugergrænseflade</a></li>
+              
+            
+              
+                <li><a href="/folkebibliotekernes_cms_manual/main/konfiguration/publizon-indstillinger/">Publizon indstillinger</a></li>
+              
+            
+              
+                <li><a href="/folkebibliotekernes_cms_manual/main/konfiguration/rss-udgivelse/">RSS udgivelse</a></li>
+              
+            
+          </ul>
+        </li>
+        
            
     </ul>
   </nav>
@@ -202,8 +269,8 @@
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Konfiguration af Folkebibliotekernes CMS">
-    
+    <meta itemprop="headline" content="OpenID connect (Adgangsplatformen)">
+    <meta itemprop="description" content="Adgangsplatformen sikrer et ensartet login-flow for brugerne på tværs af bibliotekstjenester. Brugeren sendes til en en selvstændig loginside. Efter login sendes brugeren retur igen.">
     
     
 
@@ -212,7 +279,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration" class="u-url" itemprop="url">Konfiguration af Folkebibliotekernes CMS
+            <a href="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/openid-connect/" class="u-url" itemprop="url">OpenID connect (Adgangsplatformen)
 </a>
           </h1>
           
@@ -220,6 +287,8 @@
 
           <p class="emneord">
   
+  
+  <a href="/folkebibliotekernes_cms_manual/main/emneord/adgangsplatformen/" class="btn btn--inverse btn--small">Adgangsplatformen</a>
   
 </p>
 
@@ -235,15 +304,71 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <p>Der ligger konfigurationsmuligheder gemt i flere steder i topmenuen.</p>
+        <p>Adgangsplatformen sikrer et ensartet login-flow for brugerne på tværs af bibliotekstjenester. Brugeren sendes til en en selvstændig loginside. Efter login sendes brugeren retur igen.</p>
 
-<p>Her er et overblik:</p>
+<p>Single Sign-On gør, at brugerne kan skifte mellem bibliotekstjenester uden at skulle logge ind flere gange. Er du f. eks. logget ind i Folkebibliotekernes CMS kan du bruge Filmstriben eller Ereolen uden at logge ind på ny.</p>
 
-<p><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/1b0427d5-605a-4561-bd78-c25cbc6d349e" alt="topbar-indstillinger" /></p>
+<p>Adgangsplatformen autoriserer også hjemmesiden til at udføre søgninger i FBI-API. Søgefeltet virker slet ikke hvis adgangsplatformen ikke er opsat korrekt.</p>
 
-<p><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f55ccf41-8e1b-4da4-884f-a41a0e69bfb5" alt="topbar-personer" /></p>
+<h2 id="her-finder-du-indstillinger-for-open-id-connect">Her finder du indstillinger for Open ID Connect</h2>
+<p>I topmenuen klik på <strong>Indstillinger &gt; Web-services &gt; OpenID Connect</strong></p>
 
-<p><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/6e1d3b3c-dfb7-4663-8e4f-329baa8e51d4" alt="topbar-udseende" /></p>
+<p>Eller åbn via direkte link (udskift mit-domænenavn.dk):<br />
+https://mit-domænenavn<code class="language-plaintext highlighter-rouge">/admin/config/services/openid-connect</code></p>
+
+<h2 id="anbefalede-indstillinger-for-openid-connect">Anbefalede indstillinger for OpenID Connect</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Feltnavn</th>
+      <th>Værdi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Enabled OpenID Connect clients</td>
+      <td><code class="language-plaintext highlighter-rouge">Adgangsplatformen</code> (kun det)</td>
+    </tr>
+    <tr>
+      <td>Klient ID</td>
+      <td>Oplyses ved henvendelse til DBC via https://kundeservice.dbc.dk/</td>
+    </tr>
+    <tr>
+      <td>Client secret</td>
+      <td>Oplyses ved henvendelse til DBC via https://kundeservice.dbc.dk/</td>
+    </tr>
+    <tr>
+      <td>Token endpoint</td>
+      <td><code class="language-plaintext highlighter-rouge">https://login.bib.dk/oauth/token/</code></td>
+    </tr>
+    <tr>
+      <td>UserInfo endpoint</td>
+      <td><code class="language-plaintext highlighter-rouge">https://login.bib.dk/userinfo/</code></td>
+    </tr>
+    <tr>
+      <td>Logout endpoint</td>
+      <td><code class="language-plaintext highlighter-rouge">https://login.bib.dk/logout</code></td>
+    </tr>
+    <tr>
+      <td>Agency ID</td>
+      <td>Jeres biblioteksnummer (6 cifre - ingen DK foran)</td>
+    </tr>
+  </tbody>
+</table>
+
+<figure class="thirty">
+  <img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2c2ae8ab-a365-49ca-afde-167ed05a612a" alt="Aktiver KUN Adgangsplatformen - ikke andet" /><figcaption>
+      Aktiver KUN Adgangsplatformen - ikke andet
+
+    </figcaption></figure>
+
+<figure class="eighty">
+  <img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3cf6e2ff-7993-4b5a-a924-754563244a0f" alt="De fleste felter er udfyldt korrekt. I skal selv udfylde Client ID, Client secret og Agency ID" /><figcaption>
+      De fleste felter er udfyldt korrekt. I skal selv udfylde Client ID, Client secret og Agency ID
+
+    </figcaption></figure>
+
 
         
       </section>
