@@ -3,8 +3,6 @@ title: "Kampagner"
 category: "Indholdstyper"
 weight: 1
 ---
-## Denne side er uder konstruktion
-
 Kampagner er en selvstændig indholdstype, der vises på søgeresultat-siden – men kun hvis det,
 som brugeren søger på, udløser den.
 
@@ -21,8 +19,6 @@ Klik på ”Campaign”:
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/6765297d-82c6-4743-a310-661a56db4c27" alt="Klik på knappen Campaign under overskriften Add content" caption="Klik på knappen Campaign under overskriften Add content" %}
 
 Og så er du klar til at gå i gang.
-
-<img width="339" alt="Create_campaign" src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/224dd688-4913-46c1-a7c5-da84e4e44d7b">
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/224dd688-4913-46c1-a7c5-da84e4e44d7b" alt="Formularen til at oprette en kampagne" caption="Formularen til at oprette en kampagne" %}
 
@@ -51,8 +47,6 @@ Under ”Facet” vælges hvilken facet, triggeren baseres på.
 Under ”Term” vælges hvilken værdi, triggeren skal udløses af. Bemærk, at denne værdi skal skrives som den vises under ”flere filtre” i søgeresultatet. Hvis der står ”A. CONAN DOYLE” under forfatter, så udløses kampagnen ikke, hvis man har skrevet ”conan doyle”. Bemærk også, at feltet er case sensitivt, og at alle værdierne udelukkende skal skrives med små bogstaver. Tjek, at du kan udløse din kampagne for at sikre, at du har skrevet værdierne rigtigt.
 Under ”Term Ranking Maximum” vælges hvor højt på listen over de hyppigst forekommende værdier i søgesættet, den valgte værdi skal figurere under den valgte facet, for at kampagnen vises.
 
-<img width="419" alt="Triggers" src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/a8b96d14-6d81-421d-a253-a0a026d9496a">
-
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/a8b96d14-6d81-421d-a253-a0a026d9496a" alt="Tilføj triggers" caption="Tilføj triggers" %}
 
 ### Eksempel:
@@ -64,8 +58,6 @@ Under ”Term Ranking Maximum” vælges hvor højt på listen over de hyppigst 
 I mange tilfælde er ”Emne” den mest meningsfulde facet-type at vælge. Vær opmærksom på, at vælge emne-ord, der svarer til sprogbrugen i de katalogiserede materialer. Skriv fx ikke ”EU”, men ”den europæiske union”, da det er det emneord, DBC ved katalogisering tildeler materiale om EU.
 
 Ønskes flere triggers, klik da på ”Tilføj Campaign Rule”.
-
-![save](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/87397e42-6872-416c-8bdd-2d92fd78cf25)
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/87397e42-6872-416c-8bdd-2d92fd78cf25" alt="Tryk på Save for at gemme den nye kampagne" caption="Tryk på Save for at gemme den nye kampagne" %}
 
