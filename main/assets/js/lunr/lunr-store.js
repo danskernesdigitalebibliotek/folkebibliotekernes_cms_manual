@@ -324,7 +324,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opret indhold i Folkebibliotekernes CMS",
-        "excerpt":"UNDER UDARBEJDELSE   Her kommer guides til at oprette du redaktionelt indhold i Folkebibliotekernes CMS.  ","categories": [],
+        "excerpt":"UNDER UDARBEJDELSE   Her kommer guides til at oprette du redaktionelt indhold i Folkebibliotekernes CMS.     ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/",
         "teaser": null
