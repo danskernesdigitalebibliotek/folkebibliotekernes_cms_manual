@@ -341,70 +341,52 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/kampagner/",
         "teaser": null
       },{
-        "title": "Brugeroprettelse",
-        "excerpt":"UNDER UDARBEJDELSE   Spørgsmål:     Default aldersgrænsen for seloprettelse er 18 år. Forklaring.   Er det her teksten fra adgangsplatformen skal plottes ind hvis man ønsker at genbruge den fra DDB CMS?   Har vi en standard tekst?   ","categories": ["Konfiguration"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/konfiguration/brugeroprettelse/",
-        "teaser": null
-      },{
         "title": "FBS indstillinger",
-        "excerpt":"Opsæt forbindelse til bibliotekssystemet.   Her finder du indstillinger for FBS  I topmenuen klik på Indstillinger &gt; Web-services &gt; FBS indstillinger   Eller åbn via direkte link (udskift mit-domænenavn.dk):  https://mit-domænenavn.dk/admin/config/services/fbs   Anbefalede indstillinger for FBS                  Feltnavn       Værdi                       FBS Service URL       https://fbs-openplatform.dbc.dk                     FBS Service URL        ","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Web-services &gt; FBS indstillinger   Eller åbn via URL (udskift mit-domænenavn.dk):  https://mit-domænenavn.dk/admin/config/services/fbs   Om FBS indstillinger  Opsæt forbindelse til bibliotekssystemet.   Anbefalede indstillinger for FBS                  Feltnavn       Værdi                       FBS Service URL       https://fbs-openplatform.dbc.dk                     FBS Service URL        ","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/fbs-indstillinger/",
         "teaser": null
       },{
-        "title": "Indstillinger > Biblioteksindstillinger > Generelle indstillinger",
-        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Generelle indstillinger Eller åbn via direkte link (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings Om Genrerelle indstillinger De generelle biblioteksindstillinger skal udfyldes så de stemmer overens med jeres valg i Cicero. Sæt dig sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét....","categories": ["Konfiguration"],
+        "title": "Generelle indstillinger",
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Generelle indstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings Om Generelle indstillinger De generelle biblioteksindstillinger skal udfyldes så de stemmer overens med jeres valg i Cicero. Sæt dig sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét. Interesseperiode...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/generelle-indstillinger/",
         "teaser": null
       },{
-        "title": "Konfiguration i Folkebibliotekernes CMS",
+        "title": "Konfiguration af Folkebibliotekernes CMS",
         "excerpt":"Der er rigtig mange konfigurationsmuligheder i Folkebibliotekernes CMS. De fleste ligger under menupunktet Indstillinger i topmenuen. Men der er også konfigurationsmuligheder under andre hovedmenupunkter. Hvordan finder jeg rundt? Menuen til venstre er struktureret som menusystemet i Folkebibliotekernes CMS. Kender du klik-stien til en side i backend, er det nemt finde...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/",
         "teaser": null
       },{
         "title": "Mapp Intelligence",
-        "excerpt":"Webstatistik indgår også som en del af den hjemmesidepakke, Det Digitale Folkebibliotek tilbyder. Vi benytter det statistikværktøj, der hedder Mapp. Mapps danske leverandør hedder KPI Index. Alle spørgsmål om Mapp sendes til Tue Gaston ext-pu6z@kk.dk. Det er også Tue I skal skrive til, hvis I har forlist jeres password til...","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; System &gt; Mapp Intelligence indstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/system/dpl-mapp Om Mapp Intelligence Webstatistik indgår også som en del af den hjemmesidepakke, Det Digitale Folkebibliotek tilbyder. Vi benytter det statistikværktøj, der hedder Mapp. Mapps danske leverandør hedder KPI Index. Alle spørgsmål om...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/mapp-intelligence/",
         "teaser": null
       },{
         "title": "OpenID connect (Adgangsplatformen)",
-        "excerpt":"Adgangsplatformen sikrer et ensartet login-flow for brugerne på tværs af bibliotekstjenester. Brugeren sendes til en en selvstændig loginside. Efter login sendes brugeren retur igen. Single Sign-On gør, at brugerne kan skifte mellem bibliotekstjenester uden at skulle logge ind flere gange. Er du f. eks. logget ind i Folkebibliotekernes CMS kan...","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Web-services &gt; OpenID Connect Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn/admin/config/services/openid-connect Om OpenID connect (Adgangsplatformen) Adgangsplatformen sikrer et ensartet login-flow for brugerne på tværs af bibliotekstjenester. Brugeren sendes til en en selvstændig loginside. Efter login sendes brugeren retur igen. Single Sign-On gør, at brugerne...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/openid-connect/",
         "teaser": null
       },{
         "title": "Oversættelse af brugergrænseflade",
-        "excerpt":"De fleste tekster i grænsefladen i Folkebibliotekernes CMS kan oversættes ved at bruge den indbyggede oversættelsesfunktion. Her finder du oversættelsesfunktionen I topmenuen klik på Indstillinger. Vælg dernæst Region og sprog &gt; Oversættelse af brugergrænseflade Eller åbn via direkte link (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/regional/translate Sådan oversætter du Fremsøg den tekststreng du ønsker...","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Region og sprog &gt; Oversættelse af brugergrænseflade Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/regional/translate Om oversættelse af brugergrænseflade De fleste tekster i grænsefladen i Folkebibliotekernes CMS kan oversættes ved at bruge den indbyggede oversættelsesfunktion. Sådan oversætter du Fremsøg den tekststreng du ønsker at oversætte....","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/oversaettelse-af-brugergraenseflade/",
         "teaser": null
       },{
-        "title": "Publizon indstillinger",
-        "excerpt":"UNDER UDARBEJDELSE   ","categories": ["Konfiguration"],
+        "title": "Logo, identitetsfarve og favicon",
+        "excerpt":"I topmenuen klik på Udseende &gt; Novel &gt; Indstillinger   Eller åbn via URL (udskift mit-domænenavn.dk):  https://mit-domænenavn.dk/admin/appearance/settings/novel   Om logo, identitetsfarve og logo  Folkebibliotekernes CMS bruger et standard tema, der hedder “Novel”.  I kan ændre nogle få ting i standard-temaet:     Logo   Identitetsfarve   Favicon   ","categories": ["Konfiguration"],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/konfiguration/publizon-indstillinger/",
-        "teaser": null
-      },{
-        "title": "RSS udgivelse",
-        "excerpt":"UNDER UDARBEJDELSE  ","categories": ["Konfiguration"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/konfiguration/rss-udgivelse/",
+        "url": "/folkebibliotekernes_cms_manual/main/konfiguration/udseende/",
         "teaser": null
       },{
         "title": "Opsæt proxy URL'er",
-        "excerpt":"Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til. Udbyderne af elektroniske ressourcer tilbyder som regel kun adgang fra bestemte IP-adresser, f.eks. dem på biblioternes fysiske adresser. Men udbyderne kender ikke bibliotekets lånere og deres IP-adresser,...","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Web-services &gt; Opsæt proxy URL’er Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn/admin/config/services/dpl-url-proxy Om proxy URL’er Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til. Udbyderne af elektroniske ressourcer tilbyder som...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/url-proxy-indstillinger/",
-        "teaser": null
-      },{
-        "title": "Indstillinger for viderestilling af bruger til Adgangsplatformen",
-        "excerpt":"UNDER UDARBEJDELSE   Spørgsmål:     Er der noget bibliotekerne skal tilrette her?   Hvem har brug for at forholde sig til disse indstillinger?  ","categories": ["Konfiguration"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/konfiguration/viderestilling-til-adgangsplatformen/",
         "teaser": null
       },{
         "title": "Dashboard",
