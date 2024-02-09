@@ -2,7 +2,7 @@
 title: "Oversættelse af brugergrænseflade"
 click-path: "Indstillinger > Region og sprog > Oversættelse af brugergrænseflade"
 category: "Konfiguration"
-emneord: "Oversættelse af brugergrænsefladen"
+emneord: "Oversættelser"
 ---
 I topmenuen klik på **{{ page.click-path }}**
 
