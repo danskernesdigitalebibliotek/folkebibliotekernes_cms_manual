@@ -13,7 +13,7 @@ På denne side har vi samlet de indstillinger, der kræver biblioteksfaglig eksp
 
 ## 1. Søge- og visningsprofil
 
-Tjek at I har fået oprettet de to påkrævede [søge- og visningsprofiler i VIP](/bliv-klar-til-folkebibliotekernes-cms/10vip-profiler/). 
+Tjek at I har fået oprettet de to påkrævede [søge- og visningsprofiler i VIP]({{ site.baseurl }}{% link _bliv-klar-til-folkebibliotekernes-cms/10vip-profiler.md %}).
 
 Indsæt navn på søgeprofil og visningsprofil i konfiguration i Folkebibliotekernes CMS. Følg denne vejledning.
 

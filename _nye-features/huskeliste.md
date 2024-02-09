@@ -14,7 +14,8 @@ Hjerteikonet optræder på alle værker, i materialekomponent og andre formidlin
 Huskelisten er en væsentlig funktion for mange slutbrugere, og den har derfor fået en fremtrædende plads i top-menuen.  
 
 ## Værkbaseret huskeliste
-Huskeliste i Folkebibliotekernes CMS er baseret på værker og ikke manifestationer (som i det nuværende DDB CMS). [Læs mere om værker og manifestationer](vaerk-og-manifestation.md). 
+Huskeliste i Folkebibliotekernes CMS er baseret på værker og ikke manifestationer (som i det nuværende DDB CMS). [Læs mere om værker og manifestationer] 
+({{ site.baseurl }}{% link _nye-features/vaerk-og-manifestation.md %}).
 
 Det betyder at brugernes huskelister er blevet konverteret, sådan at der nu vises værker. Har en bruger engang tilføjet en lydbog til sin huskeliste vil hun opleve, at det blot er værket, der står på huskelisten uden nogen materialetype specificeret. Det vil være et lille datatab, men det er der desværre ikke rigtig noget at gøre ved – og det er også en ringe pris at betale for de fordele, indførelsen af værkbegrebet medfører.
 
