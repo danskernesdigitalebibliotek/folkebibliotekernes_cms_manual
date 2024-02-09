@@ -1,18 +1,17 @@
 ---
 title: "FBS indstillinger"
+click-path: "Indstillinger > Web-services > FBS indstillinger"
 category: "Konfiguration"
 emneord: 
 - "FBS"
-- "X mangler billede"
 ---
+I topmenuen klik på **{{ page.click-path }}**
 
+Eller åbn via URL (udskift mit-domænenavn.dk):\
+`https://mit-domænenavn.dk/admin/config/services/fbs`
+
+## Om FBS indstillinger
 Opsæt forbindelse til bibliotekssystemet.
-
-## Her finder du indstillinger for FBS
-I topmenuen klik på **Indstillinger > Web-services > FBS indstillinger**
-
-Eller åbn via direkte link (udskift mit-domænenavn.dk):\
-https://mit-domænenavn.dk`/admin/config/services/fbs`
 
 
 ## Anbefalede indstillinger for FBS

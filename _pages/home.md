@@ -20,16 +20,16 @@ feature_row:
     title: "Bliv klar til Folkebibliotekernes CMS"
     excerpt: "Kom i gang med forberedelserne allerede nu."
     url: "/bliv-klar-til-folkebibliotekernes-cms/"
-  - image_path: /assets/images/new-features.png
-    alt: "Nye features i Folkebibliotekernes CMS"
-    title: "Nye features i Folkebibliotekernes CMS"
-    excerpt: "Få overblik over hvad er nyt i forhold til DDB CMS."
-    url: "/nye-features/"
   - image_path: /assets/images/startopsaetning.jpg
     alt: "Startopsætning"
     title: "Startopsætning af Folkebibliotekernes CMS"
     excerpt: "Skal udføres straks I modtager login til jeres site. (Udbygges løbende)"
     url: "/startopsaetning/"
+  - image_path: /assets/images/new-features.png
+    alt: "Nye features i Folkebibliotekernes CMS"
+    title: "Nye features i Folkebibliotekernes CMS"
+    excerpt: "Få overblik over hvad er nyt i forhold til DDB CMS."
+    url: "/nye-features/"
   - image_path: /assets/images/indholdsredaktion.jpg
     alt: "Opret indhold i Folkebibliotekernes CMS"
     title: "Opret indhold i Folkebibliotekernes CMS"
@@ -37,7 +37,7 @@ feature_row:
     url: "/indhold/"
   - image_path: /assets/images/konfiguration.jpg
     alt: "Konfiguration i Folkebibliotekernes CMS"
-    title: "Konfiguration i Folkebibliotekernes CMS"
+    title: "Konfiguration af Folkebibliotekernes CMS"
     excerpt: "Beskrivelse af alle systemets konfigurationsmuligheder (Udbygges løbende)"
     url: "/konfiguration/"
   - image_path: /assets/images/content.jpg

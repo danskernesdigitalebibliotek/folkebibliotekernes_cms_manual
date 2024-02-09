@@ -1,5 +1,6 @@
 ---
-title: "Indstillinger > Biblioteksindstillinger > Generelle indstillinger"
+title: "Generelle indstillinger"
+click-path: "Indstillinger > Biblioteksindstillinger > Generelle indstillinger"
 category: "Konfiguration"
 emneord: 
 - "Søgning"
@@ -9,12 +10,12 @@ emneord:
 - "VIP og søgeprofiler"
 ---
 
-I topmenuen klik på **Indstillinger > Biblioteksindstillinger > Generelle indstillinger**
+I topmenuen klik på **{{ page.click-path }}**
 
-Eller åbn via direkte link (udskift mit-domænenavn.dk):\
+Eller åbn via URL (udskift mit-domænenavn.dk):\
 `https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings`
 
-## Om Genrerelle indstillinger
+## Om Generelle indstillinger
 De generelle biblioteksindstillinger skal udfyldes så de stemmer overens med jeres valg i Cicero. Sæt dig sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét.
 
 ## Interesseperiode for reserveringer

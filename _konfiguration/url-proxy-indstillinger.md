@@ -1,11 +1,19 @@
 ---
 title: "Opsæt proxy URL'er"
+click-path: "Indstillinger > Web-services > Opsæt proxy URL'er"
 category: "Konfiguration"
 emneord: 
 - "Fjernadgang"
 - "Elektroniske ressourcer"
 - X mangler billede
 ---
+I topmenuen klik på **{{ page.click-path }}**
+
+Eller åbn via URL (udskift mit-domænenavn.dk):\
+`https://mit-domænenavn/admin/config/services/dpl-url-proxy`
+
+## Om proxy URL'er
+
 Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til.
 
 Udbyderne af elektroniske ressourcer tilbyder som regel kun adgang fra bestemte IP-adresser, f.eks. dem på biblioternes fysiske adresser. Men udbyderne kender ikke bibliotekets lånere og deres IP-adresser, og det er her at fjernadgangsproxyen kommer ind i billedet. Proxyen kan optræde som "mellemmand" mellem bibliotekslånere og udbyder. 
@@ -36,15 +44,6 @@ Den nationale proxyløsning er bygget på ezproxy. Den drives af DBC for DDF.
 
 ## Proxy indstillinger ##
 Når proxyen er opsat korrekt vil links til eressourcer i søgeresultater automatisk blive omskrevet.
-
-### Her finder du proxy indstillingerne 
-I topmenuen klik på Indstillinger. \
-Vælg dernæst Web-services > Opsæt proxy URL'er
-
-Eller åbn via direkte link (udskift mit-domænenavn.dk):
-
-https://mit-domænenavn`/admin/config/services/dpl-url-proxy`
-{: .notice--primary}
 
 ### Guide til at oprette proxy indstillinger
 

@@ -49,11 +49,12 @@
           <ul>
             {% assign docs = page_collection.docs | where:"category", category.title %}
             {% assign docs = docs | sort: "title" %}
+            {% assign docs = docs | sort: "click-path" %}
             {% assign docs = docs | sort: "weight" %}
 
             {% for doc in docs %}
               {% if doc.omit_from_sidebar == blank or doc.omit_from_sidebar == false %}
-                <li><a href="{{ doc.url | relative_url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+                <li><a href="{{ doc.url | relative_url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.click-path | default: doc.title }}</a></li>
               {% endif %}
             {% endfor %}
           </ul>

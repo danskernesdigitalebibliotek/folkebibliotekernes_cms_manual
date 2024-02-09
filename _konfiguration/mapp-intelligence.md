@@ -1,9 +1,16 @@
 ---
 title: "Mapp Intelligence"
+click-path: Indstillinger > System > Mapp Intelligence indstillinger
 category: "Konfiguration"
 emneord: 
 - "Statistik"
 ---
+I topmenuen klik på **{{ page.click-path }}**
+
+Eller åbn via URL (udskift mit-domænenavn.dk):\
+`https://mit-domænenavn.dk/admin/config/system/dpl-mapp`
+
+## Om Mapp Intelligence
 Webstatistik indgår også som en del af den hjemmesidepakke, Det Digitale Folkebibliotek tilbyder. Vi benytter det statistikværktøj, der hedder Mapp. Mapps danske leverandør hedder KPI Index.
 
 Alle spørgsmål om Mapp sendes til Tue Gaston [ext-pu6z@kk.dk](mailto:ext-pu6z@kk.dk). Det er også Tue I skal
@@ -15,13 +22,6 @@ biblioteket/bibliotekernes-web-og-appstatistik). Og besøg også vores [”Kom-g
 
 For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt – ”Domæne” og ”Tag
 Integration ID”.
-
-## Her finder du indstillinger for Mapp
-I topmenuen klik på **Indstillinger > System > Mapp Intelligence indstillinger**
-
-Eller åbn via direkte link (udskift mit-domænenavn.dk):\
-https://mit-domænenavn.dk`/admin/config/system/dpl-mapp`
-
 
 ## Anbefalede indstillinger for Mapp
 
