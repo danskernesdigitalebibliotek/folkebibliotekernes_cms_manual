@@ -10,7 +10,7 @@ overblik:
       - title: "Tidsplan"
         url: "/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf"
       - title: "Onboarding FAQ"
-        url: "/faq/"     
+        url: "/faq"     
       - title: "Bliv klar til FB CMS"
         url: "/bliv-klar-til-folkebibliotekernes-cms/"
       - title: "Nye features i FB CMS"
