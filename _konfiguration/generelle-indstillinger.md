@@ -38,7 +38,7 @@ Efter I har gemt bliver de nye interesseperiode tilgængelige i **Default intere
 
 
 ## FBI Profiles
-Inden I kan udfylde disse felter skal I have oprettet de to påkrævede [søge- og visningsprofiler i VIP](/bliv-klar-til-folkebibliotekernes-cms/10vip-profiler/). 
+Inden I kan udfylde disse felter skal I have oprettet de to påkrævede [søge- og visningsprofiler i VIP]({{ site.baseurl }}{% link _bliv-klar-til-folkebibliotekernes-cms/10vip-profiler.md %}).
 
 ### Anbefalede indstillinger for FBI Profiles
 
