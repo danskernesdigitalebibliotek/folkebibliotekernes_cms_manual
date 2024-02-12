@@ -27,10 +27,8 @@ I kan ændre nogle få ting i standard-temaet:
 
 3. Klik på choose file og upload dit logo  - Se vejledning for logostørrelse
 
-[Se vejledning for logostørrelse]([https://www.makeuseof.com](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/edit/main/_konfiguration/udseende.md#:~:text=paa%2Dbiblioteket.md-,2logo,-.md))
-
 4. Udfyld Title feltet. Denne tekst erstatter logoet på små skærme.
 
-5. Udfyld evt. Placeholder tekst. Denne tekst bliver vist under logoet (og bliver læst op af skærmlæsere???)
+5. Udfyld evt. Placeholder tekst. Denne tekst bliver vist under logoet - og bliver læst op af skærmlæsere???
 
 Klik på Gem indstillinger.
