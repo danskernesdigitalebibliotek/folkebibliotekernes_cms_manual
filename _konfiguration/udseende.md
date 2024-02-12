@@ -19,16 +19,15 @@ I kan ændre nogle få ting i standard-temaet:
 
 ## Ændring af logo
 
-1. Fold fanen "logo billede" ud ved at klikke på pilen til venstre.
+Fold fanen "logo billede" ud ved at klikke på pilen til venstre.
 
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/62ec5cab-d775-442d-8b0b-6bb771829985" alt="Tilføj et nyt logo" caption="Tilføj et nyt logo" %}
 
-2. Klik på knappen Use the logo supplied by the theme for at slå funktionen fra.
+Klik på knappen Use the logo supplied by the theme for at slå funktionen fra.
 
-3. Klik på choose file og upload dit logo  - Se vejledning for logostørrelse
+Klik på choose file og upload dit logo  - Se vejledning for logostørrelse
 
-4. Udfyld Title feltet. Denne tekst erstatter logoet på små skærme.
+Udfyld Title feltet. Denne tekst erstatter logoet på små skærme.
 
-5. Udfyld evt. Placeholder tekst. Denne tekst bliver vist under logoet - og bliver læst op af skærmlæsere???
+Udfyld evt. Placeholder tekst. Denne tekst bliver vist under logoet - og bliver læst op af skærmlæsere???
 
 Klik på Gem indstillinger.
