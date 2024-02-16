@@ -17,13 +17,15 @@ I kan ændre nogle få ting i standard-temaet:
 - Identitetsfarve
 - Favicon
 
-##Ændring af logo
+**Ændring af logo**
 
 Klik på Udseende i toppen af siden
 
 Klik på Indstillinger for Novel temaet
 
 Fold rubrikken Logo billede ud. 
+
+<img width="710" alt="logo" src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/4f896db3-9388-40c5-989f-b2972bcf6aec">
 
 Afmarker knappen Use the logo supplied by the theme.
 
