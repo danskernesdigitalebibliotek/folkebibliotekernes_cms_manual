@@ -21,25 +21,31 @@ I kan ændre nogle få ting i standard-temaet:
 
 Klik på Udseende i toppen af siden.
 
-Klik på Indstillinger for Novel temaet
+Klik på Indstillinger for Novel temaet.
 
 Fold rubrikken Logo billede ud. 
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/4f896db3-9388-40c5-989f-b2972bcf6aec" alt="Tilføj et nyt logo" caption="Tilføj et nyt logo" %}
 
-Afmarkér knappen "Use the logo supplied by the theme".
+Afmarkér knappen med titlen Use the logo supplied by the theme.
 
-Klik på knappen "Vælg fil" og upload dit billede - husk alternativ titel og placeholder.
+Klik på knappen Vælg fil og upload dit billede - husk at udfylde felterene Title Place. Title er tekst, der vises på mindre skærme i stedet for logoet. Place teksten vises under logoet.
+
+Klik på knappen Gem indstillinger i bunden af siden.
 
 **Ændring af identitetsfarve**
 
+Læs mere om [identitetsfarvens betydning] (https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/3identitetsfarve/) for sitet.
+
 Klik på Udseende i toppen af siden.
 
-Klik på Indstillinger for Novel temaet
+Klik på Indstillinger for Novel temaet.
 
-Klik på "Identity Color" og vælg en identitetsfarve. Farven kan også vælges ved at indsætte RGB (red-green-blue) farvekoden.
+Klik på Identity Color og vælg en identitetsfarve. Farven kan også vælges ved at indsætte RGB (red-green-blue) farvekode.
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/03cd2d76-43d6-48c7-ae83-ffd714ca352e" alt="Tilføj et ny identitetsfarve" caption="Tilføj et ny identitetsfarve" %}
+
+Klik på knappen Gem indstillinger i bunden af siden.
 
 **Ændring af favicon**
 
@@ -47,7 +53,7 @@ Et favicon vises i browserens adresselinje og som bogmærke ikon.
 
 Klik på Udseende i toppen af siden.
 
-Klik på Indstillinger for Novel temaet
+Klik på Indstillinger for Novel temaet.
 
 Afmarkér knappen "Use the favicon supplied by the theme"
 
