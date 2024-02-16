@@ -35,7 +35,7 @@ Klik på knappen Gem indstillinger i bunden af siden.
 
 **Ændring af identitetsfarve**
 
-Læs mere om [identitetsfarvens betydning] (https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/3identitetsfarve/) for sitet.
+Læs mere om [identitetsfarvens betydning](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/3identitetsfarve/) for sitet.
 
 Klik på Udseende i toppen af siden.
 
