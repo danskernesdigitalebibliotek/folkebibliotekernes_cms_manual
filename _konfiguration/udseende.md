@@ -17,9 +17,14 @@ I kan ændre nogle få ting i standard-temaet:
 - Identitetsfarve
 - Favicon
 
-Ændring af logo
+##Ændring af logo
 
 Klik på Udseende i toppen af siden
+
 Klik på Indstillinger for Novel temaet
-Fold rubrikken Logo billede ud. Afmarker knappen Use the logo supplied by the theme.
+
+Fold rubrikken Logo billede ud. 
+
+Afmarker knappen Use the logo supplied by the theme.
+
 Klik på knappen Vælg fil og upload dit billede - husk alternativ titel og placeholder
