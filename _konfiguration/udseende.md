@@ -25,8 +25,8 @@ Klik på Indstillinger for Novel temaet
 
 Fold rubrikken Logo billede ud. 
 
-<img width="710" alt="logo" src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/4f896db3-9388-40c5-989f-b2972bcf6aec">
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/4f896db3-9388-40c5-989f-b2972bcf6aec" alt="Tilføj et nyt logo" caption="Tilføj et nyt logo" %}
 
-Afmarker knappen Use the logo supplied by the theme.
+Afmarkér knappen "Use the logo supplied by the theme".
 
-Klik på knappen Vælg fil og upload dit billede - husk alternativ titel og placeholder
+Klik på knappen "Vælg fil" og upload dit billede - husk alternativ titel og placeholder.
