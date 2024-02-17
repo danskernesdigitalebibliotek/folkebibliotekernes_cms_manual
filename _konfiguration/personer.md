@@ -1,5 +1,5 @@
 ---
-title: "Opret og rediger systembrugere"
+title: "Opret systembruger og skift password"
 click-path: "Personer"
 category: "Konfiguration"
 emneord: 
