@@ -473,6 +473,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/3soegeprofil/",
         "teaser": null
       },{
+        "title": "Opgave 4: Opret systembrugere",
+        "excerpt":"Du er sikkert ikke den eneste, der skal lave indhold til jeres website. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden. Vi anbefaler meget, at I bruger individuelle logins med kun de nødvendige rettigheder tilknyttet. I DDB CMS skulle man...","categories": ["Startopsætning"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/4redaktoerbrugere/",
+        "teaser": null
+      },{
         "title": "Startopsætning",
         "excerpt":"Denne guide hjælper jer med startopsætning af jeres site. Opgaverne skal udføres i den rigtige rækkefølge og man må ikke springe over. Startopsætning - kom i gang I kan gå i gang med startopsætningen, når I har modtaget URL og login til jeres Folkebbibliotekernes CMS staging-site Opgaverækkefølge Opagverne i startopsætningen...","categories": [],
         "tags": [],
