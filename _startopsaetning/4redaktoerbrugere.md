@@ -9,7 +9,7 @@ emneord:
 Du er sikkert ikke den eneste, der skal lave indhold til jeres website. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden.
 Vi anbefaler meget, at I bruger individuelle logins med kun de nødvendige rettigheder tilknyttet.
 
-I DDB CMS skulle man oprette alle bibliotekets medarbejdere på sitet og tildele dem rollen Staff. Derved blev de vist i medarbejderoversigten. Da den automatisk genererede medarbejderoversigt ikke findes i Folkebibliotekernes CMS gælder det ikke lænegre. KUN de medarbejdere der rent faktisk skal arbejde med hjemmesiden skal oprettes. 
+**Bemærk:** I DDB CMS skulle man oprette alle bibliotekets medarbejdere på sitet og tildele dem rollen Staff. Derved blev de vist i medarbejderoversigten. Da den automatisk genererede medarbejderoversigt ikke findes i Folkebibliotekernes CMS gælder det ikke lænegre. KUN de medarbejdere der rent faktisk skal arbejde med hjemmesiden skal oprettes. {: .notice--info}
 
 ## Roller
 
