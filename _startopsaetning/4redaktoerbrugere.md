@@ -13,7 +13,7 @@ Vi anbefaler meget, at I bruger individuelle logins med kun de nødvendige retti
 
 ## Roller
 
-Når du opretter en ny systembrugere skal han/hun tildeles en rolle. Har kan du læse om de roller der findes i Folkebibliotekernes CMS.
+Når du opretter en ny systembrugere skal han/hun tildeles en rolle. Her kan du læse om de roller der findes i Folkebibliotekernes CMS.
 
 ### Local administrator
 xx tekst mangler
