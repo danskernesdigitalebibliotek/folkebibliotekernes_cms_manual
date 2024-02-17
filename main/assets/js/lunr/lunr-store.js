@@ -380,7 +380,7 @@ var store = [{
         "title": "Opret og rediger systembrugere",
         "excerpt":"I topmenuen klik på Personer   Eller åbn via URL (udskift mit-domænenavn.dk):  https://mit-domænenavn.dk/admin/people   ","categories": ["Konfiguration"],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/konfiguration/people/",
+        "url": "/folkebibliotekernes_cms_manual/main/konfiguration/personer/",
         "teaser": null
       },{
         "title": "test",
