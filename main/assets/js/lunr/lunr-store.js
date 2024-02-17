@@ -377,7 +377,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/oversaettelse-af-brugergraenseflade/",
         "teaser": null
       },{
-        "title": "Opret og rediger systembrugere",
+        "title": "Opret systembruger og skift password",
         "excerpt":"I topmenuen klik på Personer   Eller åbn via URL (udskift mit-domænenavn.dk):  https://mit-domænenavn.dk/admin/people   ","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/personer/",
