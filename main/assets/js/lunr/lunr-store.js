@@ -348,7 +348,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Generelle indstillinger",
-        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Generelle indstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings Om Generelle indstillinger De generelle biblioteksindstillinger skal udfyldes så de stemmer overens med jeres valg i Cicero. Sæt dig sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét. Interesseperiode...","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Generelle indstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings Om Generelle indstillinger De generelle biblioteksindstillinger skal udfyldes, så de matcher de forretningsgange, I benytter jer af på biblioteket. De er ofte udtrykt i via indstillinger i Cicero. Sæt dig derfor sammen med...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/generelle-indstillinger/",
         "teaser": null
@@ -483,6 +483,12 @@ var store = [{
         "excerpt":"Du er sikkert ikke den eneste, der skal lave indhold til jeres website. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden. Vi anbefaler meget, at I bruger individuelle logins med kun de nødvendige rettigheder tilknyttet. Bemærk: I DDB CMS skulle...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/4redaktoerbrugere/",
+        "teaser": null
+      },{
+        "title": "Opgave 5: Opret obligatoriske sider",
+        "excerpt":"Flere steder i brugergrænsefladen er der links til sider, der skal give slutbrugerne uddybende forklaring. Det drejer sig om følgende sider: Reserveringspause Jeres site er ikke født med disse sider. Dem skal I selv oprette. Hvis I ikke gør det, vil slutbrugerne støde ind i døde links, når de bruger...","categories": ["Startopsætning"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/5obligatoriske-sider/",
         "teaser": null
       },{
         "title": "Startopsætning",

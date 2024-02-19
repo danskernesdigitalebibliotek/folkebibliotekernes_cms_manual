@@ -29,7 +29,7 @@
 
 
 
-  <meta property="article:published_time" content="2024-02-17T10:15:08+00:00">
+  <meta property="article:published_time" content="2024-02-19T12:01:18+00:00">
 
 
 
@@ -268,7 +268,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Generelle indstillinger">
     <meta itemprop="description" content="I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Generelle indstillinger">
-    <meta itemprop="datePublished" content="2024-02-17T10:15:08+00:00">
+    <meta itemprop="datePublished" content="2024-02-19T12:01:18+00:00">
     
 
     <div class="page__inner-wrap">
@@ -315,10 +315,15 @@
 <code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings</code></p>
 
 <h2 id="om-generelle-indstillinger">Om Generelle indstillinger</h2>
-<p>De generelle biblioteksindstillinger skal udfyldes så de stemmer overens med jeres valg i Cicero. Sæt dig sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét.</p>
+<p>De generelle biblioteksindstillinger skal udfyldes, så de matcher de forretningsgange, I benytter jer af på biblioteket. De er ofte udtrykt i via indstillinger i Cicero. Sæt dig derfor sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét.</p>
+
+<h2 id="sms-notifikationer">SMS notifikationer</h2>
+<p>Nogle kommuner tilbyder at sende SMS notifikationer til brugerne om deres lån og reserveringer, mens andre kommuner af økonomiske hensyn har fravalgt dette tilbud. SMS beskederne sendes fra FBS.</p>
+
+<p>Her skal I angive, om I tilbyder SMS notifikationer eller ej. Hvis denne indstilling er grøn, betyder det, at slutbrugerne får mulighed for at tilvælge SMS i deres brugerprofil.</p>
 
 <h2 id="interesseperiode-for-reserveringer">Interesseperiode for reserveringer</h2>
-<p>Alle reserveringer, der bliver oprettet, tildeles en interesseperiode. Hvis slutbrugeren ikke selv vælger en interesseperiode, bruges som udgangspunkt default-værdien. Slutbrugeren har mulighed for at tilpasse interesseperioden på hver enkelt reservering. I bestemmer hvilke interesseperioder, der skal kunne vælges imellem.</p>
+<p>Alle reserveringer, der bliver oprettet, tildeles en interesseperiode. Hvis slutbrugeren ikke selv vælger en interesseperiode, bruges som udgangspunkt default-værdien. Slutbrugeren har mulighed for at tilpasse interesseperioden på hver enkelt reservering. I bestemmer default interesseperioden og hvilke interesseperioder, der skal kunne vælges imellem.</p>
 
 <h3 id="opret-interesseperiode-valgmulighederne">Opret interesseperiode valgmulighederne</h3>
 <p>Jeres site fødes med kun én værdi. Det er “180-6 måneder”. Det betyder en interesseperiode på 180 dage. Denne periode er også default-værdien. Hvis I har brug for at sætte en anden default interesseperiode, eller gerne vil give jeres brugere adgang til flere valgmuligheder gør sådan:</p>
@@ -338,8 +343,65 @@
 
     </figcaption></figure>
 
-<p>## Tillad sletning af opfyldte reserveringer
- Her vælger I om brugerne må slette en reservering der er opfyldt.</p>
+<h2 id="tillad-sletning-af-opfyldte-reserveringer">Tillad sletning af opfyldte reserveringer</h2>
+<p>Her vælger I, om brugerne må slette en reservering, der er opfyldt. Som standard er det ikke tilladt. Hvis det skal være tilladt, skal det aktiveres her.</p>
+
+<h2 id="link-til-min-side-på-ereolen">Link til Min side på eReolen</h2>
+<p>Er som standard korrekt udfyldt. Den skal der ikke pilles ved.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Feltnavn</th>
+      <th>Værdi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Link til Min side på eReolen</td>
+      <td>https://ereolen.dk/user/me</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="link-til-ereolen">Link til eReolen</h2>
+<p>Er som standard korrekt udfyldt. Den skal der ikke pilles ved.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Feltnavn</th>
+      <th>Værdi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Link til eReolen</td>
+      <td>https://ereolen.dk</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="link-til-side-om-reserveringspause">Link til side om reserveringspause</h2>
+<p>Her skal du indsætte link til <a href="/folkebibliotekernes_cms_manual/main/startopsaetning/5obligatoriske-sider/">siden Pausefunktionen, som I selv har oprettet</a>. Er du i tvivl om, hvordan du finder sidens URL kan denne denne guide hjælpe dig.
+XX URL’er til indhold XX</p>
+
+<p>Som standard er feltet ikke udfyldt. Det skal udfyldes. Ellers vises der et uvirksomt link til jeres brugere, når de benytter pausefuktionen.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Feltnavn</th>
+      <th>Anbefalet værdi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Link til side om reserveringspause</td>
+      <td>URL til side om Pausefunktionen. Siden skal I selv oprette.</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="fbi-profiles">FBI Profiles</h2>
 <p>Inden I kan udfylde disse felter skal I have oprettet de to påkrævede <a href="/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/10vip-profiler/">søge- og visningsprofiler i VIP</a>.</p>
@@ -386,10 +448,6 @@ de pågældende filialer.</p>
   <li>Blacklist i <strong>Afhentningsbibliotek</strong> så det ikke bliver muligt for slutbrugere at vælge filialen som afhentningsbibliotek</li>
 </ul>
 
-<h2 id="sms-notifikationer">SMS notifikationer</h2>
-<p>Nogle kommuner tilbyder at sende SMS notifikationer til brugerne om deres lån og reserveringer, mens andre kommuner af økonomiske hensyn har fravalgt dette tilbud. SMS beskederne sendes fra FBS.</p>
-
-<p>Her skal I angive, om I tilbyder SMS notifikationer eller ej. Hvis denne indstilling er grøn, betyder det, at slutbrugerne får mulighed for at tilvælge SMS i deres brugerprofil.</p>
 
         
       </section>
@@ -401,7 +459,7 @@ de pågældende filialer.</p>
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-02-17T10:15:08+00:00">February 17, 2024</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-02-19T12:01:18+00:00">February 19, 2024</time></p>
 
       </footer>
 
