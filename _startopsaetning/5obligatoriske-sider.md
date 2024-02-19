@@ -22,7 +22,7 @@ Inden I går i gang, skal I sikre jer, at I ved, hvordan man opretter en side. D
 ## Reserveringspause
 Slutbrugerne kan sætte en reserveringspause. Det kan de øverst på siden Reserveringer, når de er logget ind.
 
-XX Indsæt billede
+![pausefunktionen](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/37089ecd-de60-4179-ac69-cbb82478697d)
 
 Læg mærke til, at der er et link, med teksten, "Læs mere om pausefunktionen". 
 
