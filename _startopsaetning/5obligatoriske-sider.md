@@ -24,8 +24,6 @@ Slutbrugerne kan sætte en reserveringspause. Det kan de øverst på siden Reser
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/37089ecd-de60-4179-ac69-cbb82478697d" alt="Siden bag linket Læs mere om pausefunktionen skal oprettes" caption="Siden bag linket Læs mere om pausefunktionen skal oprettes" %} 
 
-Læg mærke til, at der er et link, med teksten, "Læs mere om pausefunktionen". 
-
 I skal oprette den side, som I ønsker vist, når jeres brugere trykker på linket "Læs mere om pausefunktionen". Giv siden titlen "Pausefunktionen".
 
 Her er forslag til en tekst, som I kan vælge at bruge:
