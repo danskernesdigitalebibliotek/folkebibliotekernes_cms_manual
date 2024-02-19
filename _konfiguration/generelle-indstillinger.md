@@ -8,6 +8,7 @@ emneord:
 - "SMS"
 - "Interesseperiode"
 - "VIP og søgeprofiler"
+- "X mangler indhold"
 ---
 
 I topmenuen klik på **{{ page.click-path }}**
@@ -16,10 +17,15 @@ Eller åbn via URL (udskift mit-domænenavn.dk):\
 `https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings`
 
 ## Om Generelle indstillinger
-De generelle biblioteksindstillinger skal udfyldes så de stemmer overens med jeres valg i Cicero. Sæt dig sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét.
+De generelle biblioteksindstillinger skal udfyldes, så de matcher de forretningsgange, I benytter jer af på biblioteket. De er ofte udtrykt i via indstillinger i Cicero. Sæt dig derfor sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét.
+
+## SMS notifikationer
+Nogle kommuner tilbyder at sende SMS notifikationer til brugerne om deres lån og reserveringer, mens andre kommuner af økonomiske hensyn har fravalgt dette tilbud. SMS beskederne sendes fra FBS. 
+
+Her skal I angive, om I tilbyder SMS notifikationer eller ej. Hvis denne indstilling er grøn, betyder det, at slutbrugerne får mulighed for at tilvælge SMS i deres brugerprofil.
 
 ## Interesseperiode for reserveringer
-Alle reserveringer, der bliver oprettet, tildeles en interesseperiode. Hvis slutbrugeren ikke selv vælger en interesseperiode, bruges som udgangspunkt default-værdien. Slutbrugeren har mulighed for at tilpasse interesseperioden på hver enkelt reservering. I bestemmer hvilke interesseperioder, der skal kunne vælges imellem.
+Alle reserveringer, der bliver oprettet, tildeles en interesseperiode. Hvis slutbrugeren ikke selv vælger en interesseperiode, bruges som udgangspunkt default-værdien. Slutbrugeren har mulighed for at tilpasse interesseperioden på hver enkelt reservering. I bestemmer default interesseperioden og hvilke interesseperioder, der skal kunne vælges imellem.
 
 ### Opret interesseperiode valgmulighederne
 Jeres site fødes med kun én værdi. Det er "180-6 måneder". Det betyder en interesseperiode på 180 dage. Denne periode er også default-værdien. Hvis I har brug for at sætte en anden default interesseperiode, eller gerne vil give jeres brugere adgang til flere valgmuligheder gør sådan:
@@ -31,10 +37,34 @@ Jeres site fødes med kun én værdi. Det er "180-6 måneder". Det betyder en in
 ### Default interesseperiode for reserveringer
 Efter I har gemt bliver de nye interesseperiode tilgængelige i **Default interesseperiode for reserveringer** dropdown. Vælg den nye default-interesseperiode og tryk så igen på **Gem indstillinger** nederst på siden. 
 
- {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/800a5193-e413-473f-8dd6-4e0cb78a53b5" alt="Default interesseperiode for reserveringer" caption="Default interesseperiode for reserveringer" %} 
+{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/800a5193-e413-473f-8dd6-4e0cb78a53b5" alt="Default interesseperiode for reserveringer" caption="Default interesseperiode for reserveringer" %} 
+ 
+## Tillad sletning af opfyldte reserveringer
+Her vælger I, om brugerne må slette en reservering, der er opfyldt. Som standard er det ikke tilladt. Hvis det skal være tilladt, skal det aktiveres her.
 
- ## Tillad sletning af opfyldte reserveringer
- Her vælger I om brugerne må slette en reservering der er opfyldt.
+## Link til Min side på eReolen
+Er som standard korrekt udfyldt. Den skal der ikke pilles ved.
+
+|Feltnavn|Værdi|
+|---|---|
+|Link til Min side på eReolen|https://ereolen.dk/user/me|
+
+## Link til eReolen
+Er som standard korrekt udfyldt. Den skal der ikke pilles ved.
+
+|Feltnavn|Værdi|
+|---|---|
+|Link til eReolen|https://ereolen.dk|
+
+## Link til side om reserveringspause
+Her skal du indsætte link til [siden Pausefunktionen, som I selv har oprettet]({{ site.baseurl }}{% link _startopsaetning/5obligatoriske-sider.md %}). Er du i tvivl om, hvordan du finder sidens URL kan denne denne guide hjælpe dig.
+XX URL'er til indhold XX
+
+Som standard er feltet ikke udfyldt. Det skal udfyldes. Ellers vises der et uvirksomt link til jeres brugere, når de benytter pausefuktionen.
+
+|Feltnavn|Anbefalet værdi|
+|---|---|
+|Link til side om reserveringspause|URL til side om Pausefunktionen. Siden skal I selv oprette.|
 
 
 ## FBI Profiles
@@ -59,7 +89,4 @@ de pågældende filialer.
 - Blacklist i **Tilgængelighhed** hvis filialens materialer ikke skal indgå  i beholdningsvisning og heller ikke indgå når tilgængelighed beregnes
 - Blacklist i **Afhentningsbibliotek** så det ikke bliver muligt for slutbrugere at vælge filialen som afhentningsbibliotek 
 
-## SMS notifikationer
-Nogle kommuner tilbyder at sende SMS notifikationer til brugerne om deres lån og reserveringer, mens andre kommuner af økonomiske hensyn har fravalgt dette tilbud. SMS beskederne sendes fra FBS. 
 
-Her skal I angive, om I tilbyder SMS notifikationer eller ej. Hvis denne indstilling er grøn, betyder det, at slutbrugerne får mulighed for at tilvælge SMS i deres brugerprofil.
