@@ -77,6 +77,8 @@ Hvis en bruger er blokeret pga. af overskredet gebyrgrænse vises en pop-up til 
 
 ## Advarsel om at udløbsdato nærmer sig
 Det er vigtigt at den 
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2ac3dcb8-8c9a-4b57-a844-dc5f6663fafc)
+
 
 ## FBI Profiles
 Inden I kan udfylde disse felter skal I have oprettet de to påkrævede [søge- og visningsprofiler i VIP]({{ site.baseurl }}{% link _bliv-klar-til-folkebibliotekernes-cms/10vip-profiler.md %}).
