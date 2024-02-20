@@ -81,6 +81,8 @@ Materialer, der snart skal afleveres, vises fremhævet på brugerens dashboard. 
 
 ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2ac3dcb8-8c9a-4b57-a844-dc5f6663fafc)
 Det er vigtigt at denne indstilling passer sammen med FBS-indstillingen "Periode hvor lån kan fornyes", således at I ungår at opfordre til at forny lån, der ikke må fornys.
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/b2d1ab40-8592-483b-ac68-7698e5a9d411)
+
 
 Hvis "Periode hvor lån kan fornys" i FBS er sat til 7, da skal denne indstilling sættes til 6 eller mindre.
 
