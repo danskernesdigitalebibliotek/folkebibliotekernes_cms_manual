@@ -76,9 +76,13 @@ Hvis en bruger er blokeret pga. af overskredet gebyrgrænse vises en pop-up til 
 |Link i modal til blokeret bruger|Link til betalingsside / alternativ side om betalingsmuligheder. Hvis feltet ikke udfyldes, skjules linket.|
 
 ## Advarsel om at udløbsdato nærmer sig
-Det er vigtigt at den 
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2ac3dcb8-8c9a-4b57-a844-dc5f6663fafc)
+Materialer, der snart skal afleveres, vises fremhævet på brugerens dashboard. I bestemmer, hvor mange dage før aflevringsfristen at denne fremhævning starter.
 
+
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2ac3dcb8-8c9a-4b57-a844-dc5f6663fafc)
+Det er vigtigt at denne indstilling passer sammen med FBS-indstillingen "Periode hvor lån kan fornyes", således at I ungår at opfordre til at forny lån, der ikke må fornys.
+
+Hvis "Periode hvor lån kan fornys" i FBS er sat til 7, da skal denne indstilling sættes til 6 eller mindre.
 
 ## FBI Profiles
 Inden I kan udfylde disse felter skal I have oprettet de to påkrævede [søge- og visningsprofiler i VIP]({{ site.baseurl }}{% link _bliv-klar-til-folkebibliotekernes-cms/10vip-profiler.md %}).
