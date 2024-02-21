@@ -55,3 +55,6 @@ Klik på Admin ikonet i øverste højre hjørne og vælg Edit profile.
 
 Udfyld felterne med det nuværende password og det nye.
 Hvis du ikke kan huske det nuværende password, kan du klikke på linket Reset your password. En vejledning bliver du sendt til din email.
+
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/42efd3ec-175f-4a02-b99e-b0315e86b5da" alt="Skift adgangskode" caption="Skift adgangskode" %}
+
