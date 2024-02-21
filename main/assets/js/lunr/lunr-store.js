@@ -378,7 +378,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opret systembruger og skift password",
-        "excerpt":"I topmenuen klik på Personer   Eller åbn via URL (udskift mit-domænenavn.dk):  https://mit-domænenavn.dk/admin/people   ","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Personer Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/people Opret bruger Klik på Personer i topmenuen. Klik på knappen Add user i øverste højre hjørne. Indtast oplysninger om: email Username Password Status: Er automatisk sat til Active. Hvis brugeren skal blokeres vælges Blocked. Roles: Vælg brugerens rolle....","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/personer/",
         "teaser": null
