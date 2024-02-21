@@ -44,3 +44,14 @@ Afslut opretningen ved at klikke på Create new account
 **Eksempel på systembruger formular:**
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/122aaf9b-c55a-45c5-bac3-fe38d2a5e28f" alt="En tom systembruger formular" caption="En tom systembruger formular" %}
+
+## Skit password for systembruger
+
+Log ind som systembruger.
+
+Klik på Admin ikonet i øverste højre hjørne og vælg Edit profile.
+
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/c20cd123-8f6f-4006-866d-166ccdcd687b" alt="Edit profile" caption="Edit profile" %}
+
+Udfyld felterne med det nuværende password og det nye.
+Hvis du ikke kan huske det nuværende password, kan du klikke på linket Reset your password. En vejledning bliver du sendt til din email.
