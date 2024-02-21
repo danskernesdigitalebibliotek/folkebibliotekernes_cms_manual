@@ -20,9 +20,9 @@ Du skal nu udfylde en formular med oplysninger om den nye systembruger. Se et ek
 
 Indtast oplysningerne i formularen:
 
-+ Email adress - systembrugerens email
-+ Username - systembrugerens interne brugernavn
-+ Password - systembrugerens adgangskode
++ Email adress - systembrugerens email.
++ Username - systembrugerens interne brugernavn (er kun synligt i kontrolpanelet).
++ Password - systembrugerens adgangskode.
 
 **Status:**
 Er automatisk sat til Active. Hvis brugeren skal blokeres vælges Blocked.
@@ -30,7 +30,7 @@ Er automatisk sat til Active. Hvis brugeren skal blokeres vælges Blocked.
 **Roles:**
 Vælg systembrugerens rolle. For de fleste almindelige redaktører vil rollen Editor være tilstrækkelig. Editor kan oprette indhold, men har ikke adgang til at ændre indstillinger på siden.
 
-For mere information om brugerroller - se manualens punkt [Startopsætning - opgave 4: opret systembrugere](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/4redaktoerbrugere/)
+For mere information om brugerroller - se manualens punkt [Startopsætning - opgave 4:  opret systembrugere](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/4redaktoerbrugere/)
 
 **Notify:**
 Knappen Notify kan markeres, hvis alle øvrige systembrugere skal informeres om oprettelse af den nye systembruger.
