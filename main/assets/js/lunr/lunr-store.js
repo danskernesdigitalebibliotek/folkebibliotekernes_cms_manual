@@ -378,7 +378,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opret systembruger og skift password",
-        "excerpt":"I topmenuen klik på Personer Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/people Opret systembruger Klik på Personer i topmenuen. Klik på knappen Personer Klik på knappen Add user i øverste højre hjørne. Klik på knappen Add user Du skal nu udfylde en formular med oplysninger om den nye systembruger. Se...","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Personer Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/people Opret systembruger Klik på knappen Add user i øverste højre hjørne. Klik på knappen Add user Du skal nu udfylde en formular med oplysninger om den nye systembruger. Se et eksempel på formularen nedenfor. Indtast oplysningerne i formularen:...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/personer/",
         "teaser": null
