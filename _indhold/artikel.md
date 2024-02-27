@@ -10,17 +10,18 @@ I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/
 domænenavn.dk)
 
 Klik på **Tilføj indhold** i øverste højre hjørne:
-BILLEDE
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/bb91fe76-7eea-4b71-be46-b7da64513851)
 
 Klik på Article:
-BILLEDE
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/cb12a6a3-01d0-4398-9717-f5b899b47adc)
 
 Artiklens indhold opbygges via et hovedindholdsfelt (findes der er bedre ord??) til venstre og et
 sidebar-panel til højre.
 
 - Hovedindholdsfeltet indeholder bl.a. Title, Subtitle og Paragraphs.
 - Sidebar-panelet indeholder Teaser text, Teaser image, Planlægning mv.
-BILLEDE
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/08aff2c9-f12c-4e92-8783-48fc5fb58ffa)
+
 
 ## Opbygning af artikel-indhold
 
@@ -131,7 +132,8 @@ En canonical URL bør indsættes, hvis indholdet er blevet duplikeret fra andre 
 Skal være en ekstern URL som f.eks. http://example.com.
 
 ## Gennemse/Gem
-BILLEDE
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/0d43f364-aa54-4f09-8075-a2c77e54fe96)
+
 Det er muligt via **Gennemse** at vurdere artiklens slutbruger-visning inden publicering.
 Tryk på **Gem** for at gemme/publicere artiklen.
 
