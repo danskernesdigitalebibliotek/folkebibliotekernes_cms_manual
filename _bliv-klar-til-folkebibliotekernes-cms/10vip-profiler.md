@@ -6,10 +6,10 @@ emneord:
   - Søgning
   - VIP og søgeprofiler
 ---
-Hjemmesiden henter data fra [databrønden](https://www.dbc.dk/fbi/databronden) i mange forskellige sammenhænge, og disse
+Hjemmesiden henter data fra [databrønden](https://www.dbc.dk/fbi/databronden){:target="_blank"} i mange forskellige sammenhænge, og disse
 sammenhænge kan overordnet inddeles i søgning og visning.
 
-**Folkebibliotekernes CMS kræver to brøndprofiler i [VIP-basen](http://vip.dbc.dk) - en søgeprofil
+**Folkebibliotekernes CMS kræver to brøndprofiler i [VIP-basen](http://vip.dbc.dk){:target="_blank"} - en søgeprofil
 og en visningsprofil.**
 
 I kan allerede nu bygge de to brøndprofiler. I må selv bestemme hvad de skal hedde. Kald dem f. eks. `fbcms-soeg` og `fbcms-vis`.

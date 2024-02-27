@@ -16,7 +16,7 @@ Folkebibliotekernes CMS består af en ny basisplatform, et nyt designsystem og a
 ### Vigtige datoer: Tilmelding og nedlukning af DDB CMS   
 Inden 5. februar skal I som bibliotek har tilmeldt jer den nye hjemmesideløsning. Tilmeldingen er sendt til bibliotekscheferne. Som udgangspunkt lukker DDB CMS ned den 1. juli 2024, men DBC har meddelt, at det er muligt at tilkøbe videre drift af DDB CMS året ud mod en fast pris pr. påbegyndt måned, så man kun betaler for den periode, man har brug for at have DDB CMS kørende. Hvis I er interesseret i en forlængelse af driften hos DBC, kan I kontakte Piet Seiden, pse@dbc.dk hurtigst muligt.
 
-Tidsplanen for udrulningen af Folkebibliotekernes CMS kan du finde her: [Nyeste tidsplan](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf)
+Tidsplanen for udrulningen af Folkebibliotekernes CMS kan du finde her: [Nyeste tidsplan](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf){:target="_blank" rel="noopener"}
 
 ### Hvad kommer hjemmesiden til at koste?  
 Ved tilslutning i 2024 er overgangen dækket af betalingen til Basispakken. Dvs. at det ikke vil medføre ekstra udgifter for jer i 2024 – også selvom I ikke har betalt til hjemmesidepakken. Alle, der betaler for basispakken i 2024, har adgang til begge løsninger. 
@@ -26,7 +26,7 @@ Det er dog endnu ikke besluttet, hvad den endelige pris på løsningen bliver. D
 
 ### Hostingplaner
 Det Digitale Folkebibliotek tilbyder to forskellige hostingplaner til Folkebibliotekernes CMS: Redaktør eller Webmaster. Hostingplanen definerer graden af tilpasningsmuligheder og support.  Der bliver IKKE mulighed for at vælge en programmørplan, som nu. Redaktør- og Webmaster planerne vil i store træk være identiske med de planer, vi kender fra DDB CMS. Det er dog tanken, at redaktør-planen vil få flere rettigheder end den nuværende i forhold til aktivering af specielle moduler.
-Vi anbefaler jer, at I begynder på redaktørplan. I kan på sigt skifte over til webmasterløsningen, hvis behovet er der. Det koster ikke noget at skifte hostingplan, ligesom der ikke er forskel i prisen på de to hostingplaner. Læs mere om [Hostingplaner](https://detdigitalefolkebibliotek.dk/hostingplaner)
+Vi anbefaler jer, at I begynder på redaktørplan. I kan på sigt skifte over til webmasterløsningen, hvis behovet er der. Det koster ikke noget at skifte hostingplan, ligesom der ikke er forskel i prisen på de to hostingplaner. Læs mere om [Hostingplaner](https://detdigitalefolkebibliotek.dk/hostingplaner){:target="_blank" rel="noopener"}
 
 
 ### Support og uddannelse
@@ -34,7 +34,7 @@ Vi er i fuld gang med oprette en supportfunktion til jer. Her vil I kunne melde 
 
 En af pilotbibliotekernes opgave vil være at holde netværksmøder og dele den erfaring, de har fået i pilotfasen. På den måde forsøger vi at sikre at bibliotekerne kan hjælpe hinanden ude i regionerne. Vi overvejer end videre at udbyde betalingskurser i Folkebibliotekernes CMS, hvis der viser sig at være interesse for det. Vi kan dog ikke love det før interessen og ressourcebehovet herfor er afdækket.
 
-Hvis man ønsker at blive godt klædt på til arbejdet med den nye hjemmeside er det en god ide, at følge med i den manual, der er under udarbejdelse. Læs gerne med her i  [manualen](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual)
+Hvis man ønsker at blive godt klædt på til arbejdet med den nye hjemmeside er det en god ide, at følge med i den manual, der er under udarbejdelse. Læs gerne med her i  [manualen](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual){:target="_blank" rel="noopener"}
 . Vi gør opmærksom på, at manualen er under stadig ændring i takt med, at udviklingen skrider frem.
 
 ### Migrering af indhold til Folkebibliotekernes CMS

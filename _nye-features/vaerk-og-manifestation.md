@@ -2,9 +2,9 @@
 title: "Værk og manifestation"
 category: "Søgning"
 ---
-Søgeresultater i  Folkebibliotekernes CMS leveres fra [brønden](https://www.dbc.dk/fbi/databronden). Søgninger sendes afsted og resultater modtages via en ny-udviklet snitflade der hedder [FBI-API](https://fbi-api.dbc.dk/). Den virker helt anderledes end den snitflade der bruges i DDB CMS.
+Søgeresultater i  Folkebibliotekernes CMS leveres fra [brønden](https://www.dbc.dk/fbi/databronden){:target="_blank" rel="noopener"}. Søgninger sendes afsted og resultater modtages via en ny-udviklet snitflade der hedder [FBI-API](https://fbi-api.dbc.dk/){:target="_blank" rel="noopener"}. Den virker helt anderledes end den snitflade der bruges i DDB CMS.
 
-FBI-API skelner mellem **værker** og **manifestationer**. Det er begreber, der er hentet fra [Dublin Core](https://www.dublincore.org/), som er en samling af internationale standarder for katalogisering.
+FBI-API skelner mellem **værker** og **manifestationer**. Det er begreber, der er hentet fra [Dublin Core](https://www.dublincore.org/){:target="_blank" rel="noopener"}, som er en samling af internationale standarder for katalogisering.
 
 Her er en skematisk oversigt over hvordan der skelnes mellem værk og manifestation i FBI-API. Læg f. eks. mærke til at en oversættelse af et værk betragtes som et selvstændigt værk, mens en nyoversættelse i samme sprog blot er en ny manifestation.
 
