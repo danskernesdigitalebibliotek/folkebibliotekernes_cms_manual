@@ -15,12 +15,11 @@ Klik på **Tilføj indhold** i øverste højre hjørne:
 Klik på Article:
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/cb12a6a3-01d0-4398-9717-f5b899b47adc" alt="Klik på Article" caption="Klik på Article" %} 
 
-Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et
-sidebar-panel til højre.
+Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-panel til højre.
 
 - Hovedindholdsfeltet indeholder bl.a. Title, Subtitle og Paragraphs.
 - Sidebar-panelet indeholder Teaser text, Teaser image, Planlægning mv.
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/08aff2c9-f12c-4e92-8783-48fc5fb58ffa" alt="Opret Article siden" caption="Opret Article siden" %} 
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/08aff2c9-f12c-4e92-8783-48fc5fb58ffa" alt="Opret Article siden" caption="Opret Article siden" %} 
 
 
 ## Opbygning af artikel-indhold
