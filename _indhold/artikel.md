@@ -2,6 +2,8 @@
 title: "Artikel"
 category: "Indholdstyper"
 weight: 1
+emneord:
+- "X Mangler tekst"
 ---
 Artikel svarer til den indholdstype, der i det gamle CMS hed ”Nyhed”.
 
@@ -25,7 +27,7 @@ Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-pa
 ## Opbygning af artikel-indhold
 
 ### Title
-**Title** må ikke være tom. Det er din artikels overskrift.
+Title må ikke være tom. Det er din artikels overskrift.
 
 ### Subtitle
 Subtitle er din artikels manchet/indledningstekst. Dette felt er valgfrit.
@@ -36,7 +38,7 @@ Hvis du ønsker, at artiklen skal have en anden forfatter-byline end dit navn �
 
 ### Categories
 Kategori, fx ’Vi anbefaler’, kan vælges i dropdown-menu.
-XXXDu opretter selv dine kategorier andetsteds i backend’en (hvor?)
+XXXDu opretter selv dine kategorier andetsteds i backend’en.
 
 ### Tags
 Her kan du tilknytte valgfrie ’tags’, emneord, til din artikel
