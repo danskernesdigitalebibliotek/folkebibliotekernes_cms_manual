@@ -492,7 +492,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Startopsætning",
-        "excerpt":"Denne guide hjælper jer med startopsætning af jeres site. Opgaverne skal udføres i den rigtige rækkefølge og man må ikke springe over. Startopsætning - kom i gang I kan gå i gang med startopsætningen, når I har modtaget URL og login til jeres Folkebbibliotekernes CMS staging-site Opgaverækkefølge Opagverne i startopsætningen...","categories": [],
+        "excerpt":"Denne guide hjælper jer med startopsætning af jeres site. Opgaverne skal udføres i den rigtige rækkefølge og man må ikke springe over. Startopsætning - kom i gang I kan gå i gang med startopsætningen, når I har modtaget URL og login til jeres Folkebibliotekernes CMS staging-site Opgaverækkefølge Opgaverne i startopsætningen...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/",
         "teaser": null
