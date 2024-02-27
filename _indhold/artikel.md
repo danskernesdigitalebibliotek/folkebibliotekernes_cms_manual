@@ -10,17 +10,19 @@ I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/
 domænenavn.dk)
 
 Klik på **Tilføj indhold** i øverste højre hjørne:
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/bb91fe76-7eea-4b71-be46-b7da64513851)
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/bb91fe76-7eea-4b71-be46-b7da64513851" alt="Tilføj indhold" caption="Tilføj indhold" %} 
 
 Klik på Article:
 ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/cb12a6a3-01d0-4398-9717-f5b899b47adc)
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/cb12a6a3-01d0-4398-9717-f5b899b47adc" alt="Klik på Article" caption="Klik på Article" %} 
 
-Artiklens indhold opbygges via et hovedindholdsfelt (findes der er bedre ord??) til venstre og et
+Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et
 sidebar-panel til højre.
 
 - Hovedindholdsfeltet indeholder bl.a. Title, Subtitle og Paragraphs.
 - Sidebar-panelet indeholder Teaser text, Teaser image, Planlægning mv.
 ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/08aff2c9-f12c-4e92-8783-48fc5fb58ffa)
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/08aff2c9-f12c-4e92-8783-48fc5fb58ffa" alt="Opret Article siden" caption="Opret Article siden" %} 
 
 
 ## Opbygning af artikel-indhold
@@ -133,6 +135,7 @@ Skal være en ekstern URL som f.eks. http://example.com.
 
 ## Gennemse/Gem
 ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/0d43f364-aa54-4f09-8075-a2c77e54fe96)
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/08aff2c9-f12c-4e92-8783-48fc5fb58ffa" alt="Opret Article siden" caption="Opret Article siden" %} 
 
 Det er muligt via **Gennemse** at vurdere artiklens slutbruger-visning inden publicering.
 Tryk på **Gem** for at gemme/publicere artiklen.
