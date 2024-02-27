@@ -336,7 +336,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opret indhold i Folkebibliotekernes CMS",
-        "excerpt":"Redaktionelt indhold er alt det indhold I producerer på jeres site. Ofte er det sider, artikler og arrangementer, men også åbningstider, biblioteker, kampagner, tags og kategorier betragter vi som redaktionelt indhold. At arbejde med redaktionelt indhold Indhold oprettes og redigeres via menupunktet Indhold i topmenuen. Indhold oprettes og redigeres via...","categories": [],
+        "excerpt":"Redaktionelt indhold er alt det indhold I producerer på jeres site. Det i typisk tænker på er sider, artikler og arrangementer. Men også åbningstider, biblioteker, kampagner, tags og kategorier betragter vi som redaktionelt indhold. Det meste oprettes og redigeres via menupunktet Indhold i topmenuen. Indhold oprettes og redigeres via menupunktet...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/",
         "teaser": null
