@@ -335,6 +335,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/artikel/",
         "teaser": null
       },{
+        "title": "Event",
+        "excerpt":"Event svarer til den indholdstype, der i det gamle CMS hed ”Begivenhed”. Sådan opretter du en event I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk) Klik på Tilføj arrangement i øverste højre hjørne: BILLEDE Enkeltstående eller gentagende event? Folkebibliotekernes CMS tilbyder en række nye muligheder for at oprette event-serier. Event-serier er nyttige,...","categories": ["Indholdstyper"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/indhold/event/",
+        "teaser": null
+      },{
         "title": "Opret indhold i Folkebibliotekernes CMS",
         "excerpt":"Redaktionelt indhold er alt det indhold I producerer på jeres site. Det i typisk tænker på er sider, artikler og arrangementer. Men også åbningstider, biblioteker, kampagner, tags og kategorier betragter vi som redaktionelt indhold. Det meste oprettes og redigeres via menupunktet Indhold i topmenuen. Indhold oprettes og redigeres via menupunktet...","categories": [],
         "tags": [],
