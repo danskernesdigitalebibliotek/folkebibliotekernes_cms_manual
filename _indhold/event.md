@@ -120,7 +120,7 @@ Her kan du tilføje et billede, som vises øverst på selve din begivenhed.
 Obligatorisk felt. Din events tilstand, fx udsolgt eller aflyst, angiver du via dropdown’en. 
 Som udgangspunkt er feltet altid sat til Active.
 
-{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d77b689a-d4a9-44f2-bef0-0556aba9dee7" alt="Hovedindholdsfelt i et event" caption="Hovedindholdsfelt i et event" %} 
+{% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d77b689a-d4a9-44f2-bef0-0556aba9dee7" alt="State er obligatorisk felt" caption="State er et obligatorisk felt" %} 
 
 Andre State-valgmuligheder er:
 - Ticket sale not open
