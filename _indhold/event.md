@@ -12,7 +12,8 @@ I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/
 
 Klik på **Tilføj arrangement** i øverste højre hjørne:
 
-BILLEDE
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2857824a-e4cb-47b5-952f-bc8578192138)
+
 
 ## Enkeltstående eller gentagende event?
 
@@ -24,7 +25,8 @@ Når du opretter en event, skal du i **Recur Type**-feltet tage stilling til, om
 Skal du kun oprette en enkelt event (ikke en serie), vælges **Custom/Single Event** i dropdown under
 **Recur Type**.
 
-BILLEDE
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/cbd0bf66-95dc-4d09-805e-57c5638a20ab)
+
 
 ## Serie-events
 
@@ -47,7 +49,8 @@ Eventens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-pan
 - Hovedindholdsfeltet indeholder bl.a. Title, Recur type, Description og Paragraphs.
 - Sidebar-panelet indeholder bl.a. State, Link (billetsalg), Teaser text, Teaser image, Tagging, Planlægning mv.
 
-BILLEDE
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/b73db42b-16c7-43dd-8cd8-148a231f8aa4)
+
 
 ## Opbygning af event-indhold
 
@@ -154,7 +157,8 @@ Der kan sættes et fremtidigt publicerings-tidspunkt og/eller et fremtidigt afpu
 
 ## Udgivet/Gem
 
-BILLEDE
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/87da4b71-cb4c-4347-9f46-cde3db93a57d)
+
 
 Tryk på **Gem** for at gemme/publicere eventen.
 
