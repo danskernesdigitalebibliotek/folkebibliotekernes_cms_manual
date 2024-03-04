@@ -116,7 +116,7 @@ Eventuelle samarbejdspartnere kan indtastes her.
 ### Image
 Her kan du tilføje et billede, som vises øverst på selve din begivenhed.
 
-## State
+### State
 Obligatorisk felt. Din events tilstand, fx udsolgt eller aflyst, angiver du via dropdown’en. 
 Som udgangspunkt er feltet altid sat til Active.
 
