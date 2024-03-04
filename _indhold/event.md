@@ -53,7 +53,7 @@ Eventens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-pan
 ## Opbygning af event-indhold
 
 ### Title
-”Title” må ikke være tom. Det er navnet på din event.
+Title må ikke være tom. Det er navnet på din event.
 
 ### Recur Type
 Påkrævet felt. Valg af enkeltstående eller gentagende event. Se beskrivelse ovenfor. 
@@ -89,7 +89,7 @@ Paragraphs-mulighederne er:
 - Links
 - Media(s)
 
-XXX Se nederst for beskrivelse af Paragraph-komponenternes features.
+[Her er en beskrivelse af Paragraph-komponenternes features](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/event/#beskrivelse-af-paragraphs-elementernes-indholdfunktioner)
 
 ### Ticket categories
 Her tilknyttes billetnavn (Name) og pris (Price). 
@@ -103,7 +103,7 @@ Det er muligt at tilføje flere Ticket categories, hvis dit arrangement har bill
 ### Address
 Adresse, hvor arrangementet afholdes. Obligatorisk felt.
 Adresse-oplysninger indtastes pt manuelt.
-På sigt vil feltet blive automatisk udfyldt, når der er oprettet biblioteker i CMS XX.
+På sigt vil feltet blive automatisk udfyldt, når der er oprettet biblioteker i CMS.
 
 ### Place
 Her kan angives specifik lokation, hvor arrangementet afholdes, fx Børnebiblioteket eller Store Sal.
@@ -137,9 +137,7 @@ Teaser-felterne er det indhold, som trækkes ud i visningskort (udtræk, der fun
 
 *Tip: Måske ønskes samme tekst i Teaser text-feltet som i Description-feltet. Det vil i en del tilfælde være oplagt. Man kan så manuelt kopiere teksten fra det ene felt og indsætte den i det andet.*
 
-Teaserbillede vælges via knappen ’Tilføj media’. Teaserbillede er dog ikke påkrævet.
-
-Hvis man ikke vælger et teaserbillede, vises teaserteksten på farvet baggrund i kort-udtrækkene.
+Teaserbillede vælges via knappen **Tilføj media**. Teaserbillede er dog ikke påkrævet. Hvis man ikke vælger et teaserbillede, vises teaserteksten på farvet baggrund i kort-udtrækkene.
 
 ### Categories
 Kategori, fx ’Litteratur’ eller ’Digitalt’, kan vælges i dropdown-menu.
@@ -190,7 +188,6 @@ Trækker ikke teaserfotos ud, kun teasertekst (hvis tilvalgt)
 
 ### Navigation spots – manual
 Mulighed for at fremhæve redaktørudvalgt indhold. 
-
 Trækker teaserfotos med.
 
 ### Recommendation
