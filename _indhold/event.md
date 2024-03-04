@@ -12,7 +12,7 @@ I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/
 
 Klik på **Tilføj arrangement** i øverste højre hjørne:
 
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ad036889-9305-4286-b13c-271f2ffb7860)
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ad036889-9305-4286-b13c-271f2ffb7860" alt="Tilføj arrangement" caption="Tilføj arrangement" %} 
 
 
 ## Enkeltstående eller gentagende event?
@@ -25,7 +25,7 @@ Når du opretter en event, skal du i **Recur Type**-feltet tage stilling til, om
 Skal du kun oprette en enkelt event (ikke en serie), vælges **Custom/Single Event** i dropdown under
 **Recur Type**.
 
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/bf7ce6c7-e7c8-4f8b-aaf0-067d6689157c)
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/bf7ce6c7-e7c8-4f8b-aaf0-067d6689157c" alt="Vælg recur type" caption="Vælg recur type" %} 
 
 ## Serie-events
 
@@ -48,7 +48,7 @@ Eventens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-pan
 - Hovedindholdsfeltet indeholder bl.a. Title, Recur type, Description og Paragraphs.
 - Sidebar-panelet indeholder bl.a. State, Link (billetsalg), Teaser text, Teaser image, Tagging, Planlægning mv.
 
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/4b59aa35-460a-4fec-a7e1-c23daa1c3bef)
+{% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/4b59aa35-460a-4fec-a7e1-c23daa1c3bef" alt="Vælg Recur Type" caption="Vælg Recur Type" %} 
 
 ## Opbygning af event-indhold
 
@@ -120,7 +120,7 @@ Her kan du tilføje et billede, som vises øverst på selve din begivenhed.
 Obligatorisk felt. Din events tilstand, fx udsolgt eller aflyst, angiver du via dropdown’en. 
 Som udgangspunkt er feltet altid sat til Active.
 
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d77b689a-d4a9-44f2-bef0-0556aba9dee7)
+{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d77b689a-d4a9-44f2-bef0-0556aba9dee7" alt="Hovedindholdsfelt i et event" caption="Hovedindholdsfelt i et event" %} 
 
 Andre State-valgmuligheder er:
 - Ticket sale not open
@@ -155,7 +155,7 @@ Der kan sættes et fremtidigt publicerings-tidspunkt og/eller et fremtidigt afpu
 
 ## Udgivet/Gem
 
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/eb881bd7-8bf9-41b0-86b5-9f557008d720)
+{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/eb881bd7-8bf9-41b0-86b5-9f557008d720" alt="Hovedindholdsfelt i et event" caption="Hovedindholdsfelt i et event" %} 
 
 
 Tryk på **Gem** for at gemme/publicere eventen.
