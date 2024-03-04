@@ -25,7 +25,7 @@ Når du opretter en event, skal du i **Recur Type**-feltet tage stilling til, om
 Skal du kun oprette en enkelt event (ikke en serie), vælges **Custom/Single Event** i dropdown under
 **Recur Type**.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/bf7ce6c7-e7c8-4f8b-aaf0-067d6689157c" alt="Vælg recur type" caption="Vælg recur type" %} 
+{% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/bf7ce6c7-e7c8-4f8b-aaf0-067d6689157c" alt="Vælg Recur Type" caption="Vælg Recur Type" %} 
 
 ## Serie-events
 
@@ -48,7 +48,7 @@ Eventens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-pan
 - Hovedindholdsfeltet indeholder bl.a. Title, Recur type, Description og Paragraphs.
 - Sidebar-panelet indeholder bl.a. State, Link (billetsalg), Teaser text, Teaser image, Tagging, Planlægning mv.
 
-{% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/4b59aa35-460a-4fec-a7e1-c23daa1c3bef" alt="Vælg Recur Type" caption="Vælg Recur Type" %} 
+{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/4b59aa35-460a-4fec-a7e1-c23daa1c3bef" alt="Hovedindholdsfeltet i et event" caption="Hovedindholdsfeltet i et event" %} 
 
 ## Opbygning af event-indhold
 
