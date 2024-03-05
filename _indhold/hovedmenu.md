@@ -5,7 +5,8 @@ weight: 1
 emneord:
 - "Menuer og navigation"
 ---
-I topmenuen klik på Struktur - > Menuer eller https://mit-domænenavn.dk/admin/structure/menu (udskift mit-domænenavn.dk)
+I topmenuen klik på Struktur - > Menuer
+eller brug adressen https://mit-domænenavn.dk/admin/structure/menu (udskift mit-domænenavn.dk)
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/628fd9b7-d78e-4f23-87b4-22ac29761e67" alt="Vælg Struktur og herefter Menuer i topmeuen" caption="Vælg Struktur og herefter Menuer i topmeuen" %}
 
