@@ -1,11 +1,11 @@
 ---
-title: "Event"
+title: "Opret event"
 category: "Indholdstyper"
 weight: 1
 emneord:
 - "X Mangler tekst"
 ---
-Event svarer til den indholdstype, der i det gamle CMS hed ”Begivenhed”. 
+Event svarer til den indholdstype, der i det gamle CMS hed ”Begivenhed”. Events kaldes også arrangementer.
 
 ## Sådan opretter du en event
 I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/content` (udskift mit-domænenavn.dk)

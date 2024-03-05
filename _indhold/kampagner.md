@@ -1,5 +1,5 @@
 ---
-title: "Kampagner"
+title: "Opret kampagne"
 category: "Indholdstyper"
 weight: 1
 ---
