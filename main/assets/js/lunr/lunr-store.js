@@ -372,7 +372,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Rediger hovedmenuen",
-        "excerpt":"TEKST PÅ VEJ  ","categories": ["Menuer"],
+        "excerpt":"I topmenuen klik på Struktur - &gt; Menuer eller https://mit-domænenavn.dk/admin/structure/menu (udskift mit-domænenavn.dk) Klik på Redigér menu i linjen Main navigation. Klik på knappen Tilføj link i øverste højre hjørne. Udfyld formularen med følgende oplysninger: Titel: Ordet, der vises i topmenuen Link: Linkadresse til menupunktet Aktiveret: skal menupunktet være synligt eller...","categories": ["Menuer"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/hovedmenu/",
         "teaser": null
