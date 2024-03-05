@@ -12,7 +12,7 @@ I topmenuen klik på Indhold -> Footer settings eller brug adressen https://mit-
 Hver kolonne i Footeren udfyldes med sin egen rubrik, der indeholder felterne Navn og Indhold. Navn er overskriften på kolonnen og Indhold er den information, som skal fremgå af kolonnen. Eksempler på indhold kan være:
 
 - Adresse- og kontaktoplysninger
-- Information i punktopstilling
+- Links i punktopstilling
 - Anden information
 
 Links, menupunkter og anden tekstformattering laves direkte i feltet Indhold via værktøjerne øverst i Indhold feltet.
