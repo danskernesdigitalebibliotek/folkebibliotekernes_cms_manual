@@ -360,7 +360,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Rediger footermenuen",
-        "excerpt":"I topmenuen klik på Indhold -&gt; Footer settings eller brug adressen https://mit-domænenavn.dk/admin/structure/footer (udskift mit-domænenavn.dk) Vælg Indhold og herefter Footer Settings i topmeue Hver kolonne i Footeren udfyldes med sin egen rubrik, der indeholder felterne Navn og Indhold. Navn er overskriften på kolonnen og Indhold er den information, som skal fremgå...","categories": ["Menuer"],
+        "excerpt":"I topmenuen klik på Indhold &gt; Footer settings eller brug adressen https://mit-domænenavn.dk/admin/structure/footer (udskift mit-domænenavn.dk) Vælg Indhold og herefter Footer Settings i topmeue Hver kolonne i footeren udfyldes med sin egen rubrik, der indeholder felterne Navn og Indhold. Navn er overskriften på kolonnen og Indhold er den information, som skal fremgå...","categories": ["Menuer"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/footermenu/",
         "teaser": null
@@ -372,7 +372,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Rediger hovedmenuen",
-        "excerpt":"I topmenuen klik på Struktur - &gt; Menuer eller brug adressen https://mit-domænenavn.dk/admin/structure/menu (udskift mit-domænenavn.dk) Vælg Struktur og herefter Menuer i topmeuen Klik på Redigér menu i linjen Main navigation. Klik på knappen Redigér menu Klik på knappen Tilføj link i øverste højre hjørne. Udfyld formularen med følgende oplysninger: Titel: Ordet,...","categories": ["Menuer"],
+        "excerpt":"I topmenuen klik på Struktur &gt; Menuer eller brug adressen https://mit-domænenavn.dk/admin/structure/menu (udskift mit-domænenavn.dk) Vælg Struktur og herefter Menuer i topmeuen Klik på Redigér menu i linjen Main navigation. Klik på knappen Redigér menu Klik på knappen Tilføj link i øverste højre hjørne. Udfyld formularen med følgende oplysninger: Titel: Ordet, der...","categories": ["Menuer"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/hovedmenu/",
         "teaser": null
