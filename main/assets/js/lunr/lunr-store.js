@@ -360,7 +360,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Rediger footermenuen",
-        "excerpt":"TEKST PÅ VEJ  ","categories": ["Menuer"],
+        "excerpt":"I topmenuen klik på Indhold -&gt; Footer settings eller brug adressen https://mit-domænenavn.dk/admin/structure/footer (udskift mit-domænenavn.dk) Vælg Indhold og herefter Footer Settings i topmeue Hver kolonne i Footeren udfyldes med sin egen rubrik, der indeholder felterne Navn og Indhold. Navn er overskriften på kolonnen og Indhold er den information, som skal fremgå...","categories": ["Menuer"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/footermenu/",
         "teaser": null
