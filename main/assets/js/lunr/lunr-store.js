@@ -96,7 +96,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Indholdstyper",
-        "excerpt":"Indholdstyper er en overskrift i Opret indhold til folkebibliotekernes CMS  ","categories": [],
+        "excerpt":"Indholdstyper er en overskrift i “Opret indhold i folkebibliotekernes CMS”  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/category/indholdstyper/",
         "teaser": null
@@ -123,6 +123,12 @@ var store = [{
         "excerpt":"Media er en overskrift i konfiguration  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/category/media/",
+        "teaser": null
+      },{
+        "title": "Menuer",
+        "excerpt":"Menuer er en overskrift i “Opret indhold i folkebibliotekernes CMS”  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/category/menuer/",
         "teaser": null
       },{
         "title": "Oprettelse af indhold",
@@ -165,6 +171,18 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/emneord/adgangsplatformen/",
+        "teaser": null
+      },{
+        "title": "Arrangement",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/emneord/arrangement/",
+        "teaser": null
+      },{
+        "title": "Artikel",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/emneord/artikel/",
         "teaser": null
       },{
         "title": "Betaling",
@@ -329,16 +347,22 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/emneord/x-mangler-tekst/",
         "teaser": null
       },{
-        "title": "Artikel",
+        "title": "Opret artikel",
         "excerpt":"Artikel svarer til den indholdstype, der i det gamle CMS hed ”Nyhed”. Sådan opretter du en artikel I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit- domænenavn.dk) Klik på Tilføj indhold i øverste højre hjørne: Tilføj indhold Klik på Article: Klik på Article Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-panel...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/artikel/",
         "teaser": null
       },{
-        "title": "Event",
-        "excerpt":"Event svarer til den indholdstype, der i det gamle CMS hed ”Begivenhed”. Sådan opretter du en event I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk) Klik på Tilføj arrangement i øverste højre hjørne: Tilføj arrangement Enkeltstående eller gentagende event? Folkebibliotekernes CMS tilbyder en række nye muligheder for at oprette event-serier. Event-serier er...","categories": ["Indholdstyper"],
+        "title": "Opret event",
+        "excerpt":"Event svarer til den indholdstype, der i det gamle CMS hed ”Begivenhed”. Events kaldes også arrangementer. Sådan opretter du en event I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk) Klik på Tilføj arrangement i øverste højre hjørne: Tilføj arrangement Enkeltstående eller gentagende event? Folkebibliotekernes CMS tilbyder en række nye muligheder for at...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/event/",
+        "teaser": null
+      },{
+        "title": "Rediger footermenuen",
+        "excerpt":"TEKST PÅ VEJ  ","categories": ["Menuer"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/indhold/footermenu/",
         "teaser": null
       },{
         "title": "Opret indhold i Folkebibliotekernes CMS",
@@ -347,7 +371,13 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/",
         "teaser": null
       },{
-        "title": "Kampagner",
+        "title": "Rediger hovedmenuen",
+        "excerpt":"TEKST PÅ VEJ  ","categories": ["Menuer"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/indhold/hovedmenu/",
+        "teaser": null
+      },{
+        "title": "Opret kampagne",
         "excerpt":"Kampagner er en selvstændig indholdstype, der vises på søgeresultat-siden – men kun hvis det, som brugeren søger på, udløser den. Kampagner kan derfor bruges målrettet til at skabe opmærksomhed om arrangementer, særlige materialer, eller andet, som biblioteket ønsker at give særlig promovering. Sådan opretter du en kampagne I topmenuen klik...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/kampagner/",
