@@ -26,7 +26,8 @@ Tryk Gem, nederst til venstre.
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/6e1893f7-5cfe-4511-bea0-ef08e64f0dda" alt="Formularen Tilføj link" caption="Formularen Tilføj link" %}
 
-** Bemærk: angående antallet af menupunkter
+**Bemærk: angående antallet af menupunkter**
+
 Undgå for mange menupunkter. Hvis antallet af menupunkter overstiger det, der kan vises på siden, så vil menuen automatisk folde sig sammen til en "burgermenu" - altså et ikon med tre vandrette linjer. Det samme sker, hvis man reducerer bredden af browservinduet, eller hvis skærmbredden af andre årsager reduceres.
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/76ce0448-6348-4738-8178-a73491e70a71" alt="Eksempel på burgermenu" caption="Eksempel på burgermenu" %}
