@@ -113,3 +113,23 @@ Tilknytning af links til artiklen, fx interne/eksterne links og links til søger
 Tilknytning af billeder. Tilladte filtyper: png gif jpg jpeg.
 
 *Bemærk: Paragraphs kan tilføjes både over og under allerede indsatte paragraphs.*
+
+## Sidebar-panel
+
+### Entity Clone Template
+
+Her kan du vælge at gøre siden til en skabelon ved at aktivere knappen (grøn). Skabeloner kan benyttes som udgangspunkt for hurtig oprettelse af andre, lignende sider.
+
+### Planlægning
+
+Udgivelse af siden kan planlægges via sidebar-panelet. Der kan sættes et fremtidigt publicerings-tidspunkt og/eller et fremtidigt afpublicerings-tidspunkt.
+
+### Forfatter
+
+Forfatternavn kan ændres. 
+
+Tidspunkt for sidens oprettelse kan også ændres her.
+
+### Indstillinger for forfremmelse
+
+Her kan du vælge at aktivere knapperne **Promoted to front** page og/eller **Klæbrig**. 
