@@ -20,7 +20,7 @@ Klik på Event Series:
 
 Folkebibliotekernes CMS tilbyder en række nye muligheder for at oprette event-serier. Event-serier er nyttige, hvis du har tilbagevendende events, fx læseklubber, legestue etc.
 
-Når du opretter en event, skal du i **Recur Type**-feltet tage stilling til, om du vil oprette en enkeltstående event eller en serie.
+Når du opretter en event, skal du i **Recur Type**-feltet tage stilling til, om du vil oprette en enkeltstående event eller en serie. Uanset om du vil oprette en enkelt event eller en serie, skal du altså vælge Event Series, når du opretter den.
 
 ## Enkeltstående event
 Skal du kun oprette en enkelt event (ikke en serie), vælges **Custom/Single Event** i dropdown under
