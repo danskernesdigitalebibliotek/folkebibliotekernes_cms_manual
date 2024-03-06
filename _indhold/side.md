@@ -76,7 +76,9 @@ Card grid - manual kan trække op til seks indholdselementer ind, men man kan og
 
 ### Content slider
 Giver mulighed for redaktionelt at udvælge et vilkårligt antal af arrangementer og artikler i en redaktørudvalgt rækkefølge. 
+
 Afhængigt af om du har valgt billede for indhold vises i slidere et billede eller en alternativ teasertekst på baggrund af bibliotekets signaturfarve.
+
 På sigt kan der sættes automatikker op, så den henter en bestemt type indhold ind - fx arrangementer inden for en bestemt kategori. XX
 
 ### Files
@@ -87,16 +89,22 @@ Linkende indgangsbillede og tekst i toppen af side.
 
 ### Navigation grid – manual
 Mulighed for at tilføje spots for redaktørudvalgt indhold. 
+
 Lægger sig som et grid (felter). 
+
 Trækker ikke teaserfotos ud, kun teasertekst (hvis tilvalgt)
 
 ### Navigation spots – manual
 Mulighed for at fremhæve redaktørudvalgt indhold. 
+
 Trækker teaserfotos med.
 
 ### Recommendation
 Anvendes til anbefaling af bøger og andre materialer. 
-Materialet trækkes ind via Work ID. Eksempel: work-of:870970-basis:136336282. I øjeblikket hentes dette ved at udføre en søgning efter et materiale manuelt i søgefeltet på hjemmesiden og kopiere værdien fra søgeresultatet i URL'en.
+
+Materialet trækkes ind via Work ID. 
+Eksempel: work-of:870970-basis:136336282. 
+I øjeblikket hentes dette ved at udføre en søgning efter et materiale manuelt i søgefeltet på hjemmesiden og kopiere værdien fra søgeresultatet i URL'en.
 
 Det er muligt at ændre værkets titel og beskrivelse manuelt.
 
