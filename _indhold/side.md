@@ -5,7 +5,7 @@ weight: 1
 emneord:
 - "X Mangler tekst"
 ---
-Indholdstypen Side bruges til at oprette forsider eller andre samlende indgange til tilknyttet indhold på dit site.
+Indholdstypen Side bruges til at oprette forsider og lignende samlende indgange til tilknyttet indhold på dit site.
 
 FB CMS benytter betegnelserne sektionsside og navigationsside, men det henviser blot til deres funktioner – der er er ikke forskel på, hvordan man som udgangspunkt opretter dem. 
 
