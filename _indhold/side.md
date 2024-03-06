@@ -132,4 +132,4 @@ Tidspunkt for sidens oprettelse kan også ændres her.
 
 ### Indstillinger for forfremmelse
 
-Her kan du vælge at aktivere knapperne **Promoted to front** page og/eller **Klæbrig**. 
+Her kan du vælge at aktivere knapperne **Promoted to front page** og/eller **Klæbrig**. 
