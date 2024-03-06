@@ -19,6 +19,7 @@ Klik på **Add Content** i øverste højre hjørne:
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/26601a79-3284-494f-a817-1a5a5ca4c4b1" alt="Tilføj indhold" caption="Add Content" %} 
 
 Klik på Page
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/1deb5772-166e-46fd-a58f-8aaae6f059d0" alt="Klik på Page" caption="Klik på Page" %} 
 
 Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-panel til højre.
 
