@@ -461,6 +461,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/huskeliste/",
         "teaser": null
       },{
+        "title": "Intelligente facetter",
+        "excerpt":" ","categories": ["Søgning"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/nye-features/intelligente-facetter/",
+        "teaser": null
+      },{
         "title": "Låneoversigten",
         "excerpt":"Samlet overblik over alle lån I Folkebibliotekernes CMS vises Overskredne lån, Lån og Digitale lån under menupunktet Lån. Derved samles alle lån på én side der giver et samlet overblik. Ny visningsmulighed - Lån grupperet efter afleveringsdato Oversigten over alle lån har to visningsmuligheder. Man kan få materialerne vist ét...","categories": ["Lånerstatus og brugerprofil"],
         "tags": [],
@@ -477,6 +483,12 @@ var store = [{
         "excerpt":"I FBS har det længe været en muligt at oprette parallelreserveringer – men det er først med Folkebibliotekernes CMS at det bliver muligt for slutbrugerne selv at oprette dem. Opret reservering Her er en værkvisningsside for et skønlitterært værk, hvor der er to manifestationer i den valgte materialetype (bog). Skønlitterært...","categories": ["Søgning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/parallelreservering/",
+        "teaser": null
+      },{
+        "title": "Rankering of fuzzy match",
+        "excerpt":" ","categories": ["Søgning"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/nye-features/rankering-og-fuzzy-match/",
         "teaser": null
       },{
         "title": "Reserveringsoversigten",
