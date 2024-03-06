@@ -102,7 +102,7 @@ Trækker teaserfotos med.
 ### Recommendation
 Anvendes til anbefaling af bøger og andre materialer. 
 
-Materialet trækkes ind via Work ID. Eksempel: work-of:870970-basis:136336282. 
+Materialet trækkes ind via Work ID. **Eksempel:** work-of:870970-basis:136336282. 
 
 I øjeblikket hentes dette ved at udføre en søgning efter et materiale manuelt i søgefeltet på hjemmesiden og kopiere værdien fra søgeresultatet i URL'en.
 
@@ -141,3 +141,11 @@ Tidspunkt for sidens oprettelse kan også ændres her.
 ### Indstillinger for forfremmelse
 
 Her kan du vælge at aktivere knapperne **Promoted to front page** og/eller **Klæbrig**. 
+
+## Udgivet/Gem
+
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/eb881bd7-8bf9-41b0-86b5-9f557008d720" alt="Gem og udgiv findes i øverste højre hjørne" caption="Gem og udgiv findes i øverste højre hjørne" %} 
+
+Tryk på **Gem** for at gemme/publicere siden.
+
+Det er muligt at gemme siden uden at publicere ved slukke for **den grønne knap** ved **Udgivet**.
