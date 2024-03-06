@@ -166,14 +166,21 @@ Det er muligt at gemme eventen uden at publicere ved slukke for **den grønne kn
 En type indhold med en liste af overskrifter stablet oven på hinanden. Når der klikkes på en overskrift, vil den enten åbne eller lukke en tilknyttet indholdsrude.
 
 ### Card grid – automatic
-Beskrivelse følger. XX
+Kan opsættes, så den automatisk trækker spots for indhold ind på din artikel, side, begivenhed etc. 
+
+Hvilken indholdstype, der skal trækkes ind, vælger du ved afkrydsning i komponenten.
+Content types-valgmuligheder i Card grid - automatic er pt: Page, Article, Branch, Campaign og User Registration. Du kan godt vælge mere end en.
+
+Card grid - automatic trækker seks indholdselementer ind.
 
 ### Card grid – manual
-Beskrivelse følger. XX
+Giver dig mulighed for manuelt at udvælge specifikt indhold, fx artikler eller begivenheder, som vises som spots på din artikel, side, begivenhed etc. 
+
+Card grid - manual kan trække op til seks indholdselementer ind, men man kan også vælge at benytte færre.
 
 ### Content slider
 Giver mulighed for redaktionelt at udvælge et vilkårligt antal af arrangementer og artikler i en redaktørudvalgt rækkefølge. 
-Afhængigt af om redaktøren har valgt billede for indhold vises i slidere et billede eller en alternativ teasertekst på baggrund af bibliotekets signaturfarve.
+Afhængigt af om du har valgt billede for indhold vises i slidere et billede eller en alternativ teasertekst på baggrund af bibliotekets signaturfarve.
 På sigt kan der sættes automatikker op, så den henter en bestemt type indhold ind - fx arrangementer inden for en bestemt kategori. XX
 
 ### Files
