@@ -39,7 +39,7 @@ Titel-feltet skal udfyldes. Det er din sides navn i back-enden, men vises ikke f
 ### Paragraphs
 Du kan nu opbygge din sides indhold og udseende ved hjælp af Paragraphs-komponenterne.
 
-Klik på **+ Add** for at tilføje flere paragraphs, som du ønsker, at din event skal indeholde.
+Klik på **+ Add** for at tilføje de paragraphs, som du ønsker, at din side skal bestå af.
 
 Der er følgende Paragraphs-komponenter at vælge fra:
 - Accordion
