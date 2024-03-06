@@ -9,7 +9,7 @@ Indholdstypen Side bruges til at oprette forsider eller andre samlende indgange 
 
 FB CMS benytter betegnelserne sektionsside og navigationsside, men det henviser blot til deres funktioner – der er er ikke forskel på, hvordan man som udgangspunkt opretter dem. 
 
-Du kan se eksempler på, hvordan sektions- og navigationssider kan se ud i Design-manualen.
+Du kan se eksempler på, hvordan sektions- og navigationssider kan se ud i [Design-manualen](https://www.figma.com/file/Zx9GrkFA3l4ISvyZD2q0Qi/Designsystem?type=design&node-id=7477-38814&mode=design)
 
 
 ## Sådan opretter du en side
