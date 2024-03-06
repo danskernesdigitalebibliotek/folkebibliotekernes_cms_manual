@@ -383,6 +383,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/kampagner/",
         "teaser": null
       },{
+        "title": "Opret side",
+        "excerpt":"Indholdstypen Side bruges til at oprette forsider eller andre samlende indgange til tilknyttet indhold på dit site. FB CMS benytter betegnelserne sektionsside og navigationsside, men det henviser blot til deres funktioner – der er er ikke forskel på, hvordan man som udgangspunkt opretter dem. Du kan se eksempler på, hvordan...","categories": ["Indholdstyper"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/indhold/side/",
+        "teaser": null
+      },{
         "title": "FBS indstillinger",
         "excerpt":"I topmenuen klik på Indstillinger &gt; Web-services &gt; FBS indstillinger   Eller åbn via URL (udskift mit-domænenavn.dk):  https://mit-domænenavn.dk/admin/config/services/fbs   Om FBS indstillinger  Opsæt forbindelse til bibliotekssystemet.   Anbefalede indstillinger for FBS                  Feltnavn       Værdi                       FBS Service URL       https://fbs-openplatform.dbc.dk                     FBS Service URL        ","categories": ["Konfiguration"],
         "tags": [],
