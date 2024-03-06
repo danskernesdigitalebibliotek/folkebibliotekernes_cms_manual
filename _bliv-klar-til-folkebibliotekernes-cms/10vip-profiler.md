@@ -38,7 +38,7 @@ der ikke er i lokal beholdning - typisk hvis de klikker på titlen på et fjernl
 
 Derfor skal visningsprofilen ikke være afgrænset til den lokale beholdning.
 
-**Vi anbefaler at I opretter visningsprofilen, så den er helt identisk med søgeprofilen. Med den ene forskel at visnings-profilen har flueben i ”Tilføj alle visningskilder”, mens søgeprofilen ikke har.**
+**Vi anbefaler, at I opretter visningsprofilen, så ALLE kilder er slået til, samt at den har flueben i "Tilføj alle visningskilder", hvilket søgeprofilen ikke må have.**
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/720a7cb1-063c-4b9c-b04d-6a33c2fb8fe1" alt="Visningsprofilen skal have flueben i Tilføj alle visningskilder" caption="Visningsprofilen skal have flueben i Tilføj alle visningskilder" %} 
 
