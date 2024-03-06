@@ -199,8 +199,11 @@ Mulighed for at fremhæve redaktørudvalgt indhold.
 Trækker teaserfotos med.
 
 ### Recommendation
-Anvendes til anbefaling af bøger og andre materialer. 
-Materialet trækkes ind via Work ID. Eksempel: work-of:870970-basis:136336282. I øjeblikket hentes dette ved at udføre en søgning efter et materiale manuelt i søgefeltet på hjemmesiden og kopiere værdien fra søgeresultatet i URL'en.
+Anvendes til anbefaling af bøger og andre materialer.
+
+Materialet trækkes ind via Work ID. **Eksempel:** work-of:870970-basis:136336282.
+
+I øjeblikket hentes dette ved at udføre en søgning efter et materiale manuelt i søgefeltet på hjemmesiden og kopiere værdien fra søgeresultatet i URL’en.
 
 Det er muligt at ændre værkets titel og beskrivelse manuelt.
 
