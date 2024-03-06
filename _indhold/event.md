@@ -10,10 +10,11 @@ Event svarer til den indholdstype, der i det gamle CMS hed ”Begivenhed”. Eve
 ## Sådan opretter du en event
 I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/content` (udskift mit-domænenavn.dk)
 
-Klik på **Tilføj arrangement** i øverste højre hjørne:
+Klik på **Add Content** i øverste højre hjørne:
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/26601a79-3284-494f-a817-1a5a5ca4c4b1" alt="Tilføj indhold" caption="Add Content" %} 
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ad036889-9305-4286-b13c-271f2ffb7860" alt="Tilføj arrangement" caption="Tilføj arrangement" %} 
-
+Klik på Event Series:
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/835d2eae-ce6c-487b-8cb1-c0e48448d280" alt="Klik på Event Series" caption="Klik på Event Series" %} 
 
 ## Enkeltstående eller gentagende event?
 
