@@ -126,7 +126,9 @@ Tilknytning af billeder. Tilladte filtyper: png gif jpg jpeg.
 
 ### Entity Clone Template
 
-Her kan du vælge at gøre siden til en skabelon ved at aktivere knappen (grøn). Skabeloner kan benyttes som udgangspunkt for hurtig oprettelse af andre, lignende sider, som du efterfølgende kan arbejde videre med og ændre.
+Her kan du vælge at gøre siden til en skabelon ved at aktivere knappen (grøn). 
+
+Skabeloner kan benyttes som udgangspunkt for hurtig oprettelse af andre, lignende sider, som du efterfølgende kan arbejde videre med og ændre.
 
 ### Planlægning
 
