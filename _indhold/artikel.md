@@ -11,11 +11,11 @@ Artikel svarer til den indholdstype, der i det gamle CMS hed ”Nyhed”.
 I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/content` (udskift mit-
 domænenavn.dk)
 
-Klik på **Tilføj indhold** i øverste højre hjørne:
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/bb91fe76-7eea-4b71-be46-b7da64513851" alt="Tilføj indhold" caption="Tilføj indhold" %} 
+Klik på **Add Content** i øverste højre hjørne:
+{% include figure class="sixty" image_path="[https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/bb91fe76-7eea-4b71-be46-b7da64513851](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/26601a79-3284-494f-a817-1a5a5ca4c4b1" alt="Tilføj indhold" caption="Add Content" %} 
 
 Klik på Article:
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/cb12a6a3-01d0-4398-9717-f5b899b47adc" alt="Klik på Article" caption="Klik på Article" %} 
+{% include figure class="sixty" image_path="[https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/cb12a6a3-01d0-4398-9717-f5b899b47adc](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/0ba3a563-b887-4aad-b5b7-855bb0d7becb" alt="Klik på Article" caption="Klik på Article" %} 
 
 Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-panel til højre.
 
