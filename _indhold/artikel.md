@@ -41,7 +41,7 @@ Kategori, fx ’Vi anbefaler’, kan vælges i dropdown-menu.
 XXXDu opretter selv dine kategorier andetsteds i backend’en.
 
 ### Tags
-Her kan du tilknytte valgfrie ’tags’, emneord, til din artikel
+Her kan du tilknytte valgfrie ’tags’, emneord, til din artikel. Vil du bruge flere tags, adskilles de med komma.
 
 ### Paragraphs
 Paragraphs er dine indholdskomponenter, bl.a. brødtekst (text body), billeder, filer samt spots for andre relevante artikler/events/sider. 
