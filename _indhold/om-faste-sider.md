@@ -11,7 +11,7 @@ Tanken er, at I bruger standardsiderne, men tilretter teksterne efter lokale for
 {: .notice--info}
 
 ## Hjælp! Jeg er kommet til at slette en "fast side"
-Læs om den pågældende side her i manualen. Her finder du hjælp til at genoprette standardsiden.
+Læs om den pågældende side her i manualen. Det er forskelligt for hver af de faste sider, hvordan den bedst genoprettes.
 
 ## Yderligere info
 Vi er i færd med at lave en funktionalitet, der advarer redaktører, hvis de er ved at slette en side, der linkes til fra backened’en.
