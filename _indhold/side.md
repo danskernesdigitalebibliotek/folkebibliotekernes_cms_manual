@@ -163,11 +163,12 @@ I øjeblikket hentes Work ID ved at udføre en søgning efter et materiale manue
 
 Antallet af materialer skal være deleligt med fire. Du kan altså indsætte 4 materialer eller 8 eller 12 osv. 
 
-Tilføjer du fx 7 materialer, vil der kun blive vist 4. Du må så tilføje et mere, så der er 8 i alt for at få vist dem alle.
+Indsætter du fx 7 materialer, vil der kun blive vist 4. Du må så tilføje et mere, så der er 8 i alt for at få vist dem alle.
 
 Du kan dog godt indsætte blot et, to eller tre materialer.
 
 Maksimalt kan der indsættes 32 materialer.
+
 
 
 *Bemærk: Paragraphs kan tilføjes både over og under allerede indsatte paragraphs.*
