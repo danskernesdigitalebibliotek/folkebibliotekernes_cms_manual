@@ -137,9 +137,9 @@ Automatic-varianten trækker materialer ind via en CQL-søgestreng.
 
 CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion og kopiere søgestrengen derfra. 
 
-Klik på **avanceret søgning**.
+Klik på **Avanceret søgning**.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/4e64d74b-726d-4975-b314-e91b891a2e66" alt="Klik på avanceret søgning" caption="Klik på Page" %}
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/4e64d74b-726d-4975-b314-e91b891a2e66" alt="Klik på Avanceret søgning" caption="Klik på Page" %}
 
 Lav din søgning og klik på **Kopier søgestreng**.
 
