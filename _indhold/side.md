@@ -34,7 +34,13 @@ Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-pa
 I dropdown’en under Branch kan du tilknytte siden til en af dine bibliotekssider, fx Hovedbiblioteket eller Østerby Lokalbibliotek.
 
 ### Titel
-Titel-feltet skal udfyldes. Det er din sides navn i back-enden, men vises ikke for slutbrugeren.
+Titel-feltet skal udfyldes. Det er din sides navn i back-enden, men vises som udgangspunkt ikke for slutbrugeren.
+
+Hvis du gerne vil have, at der vises en overskrift og eventuelt en under-overskrift på siden, kan du slå det til ved at aktivere toggle-knappen, så den bliver grøn.
+
+Det giver mulighed for at udfylde felterne **Hero title** og **Subtitle**. Hero title er en overskrift - subtitle er en under-overskrift.
+
+Hvis toggle-knappen er aktiveret, men du ikke skriver noget i Hero title-feltet, vil sidens titel vises for slutbrugeren som overskrift.
 
 ### Paragraphs
 Du kan nu opbygge din sides indhold og udseende ved hjælp af Paragraphs-komponenterne.
