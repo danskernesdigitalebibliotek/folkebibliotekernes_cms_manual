@@ -3,7 +3,7 @@ title: "Opret indhold i Folkebibliotekernes CMS"
 permalink: /indhold/
 ---
 
-Redaktionelt indhold er alt det indhold I producerer på jeres site. 
+Redaktionelt indhold er alt det indhold, som I selv opretter på jeres site. 
 
 - Sider
 - Artikler
