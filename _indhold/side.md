@@ -139,15 +139,15 @@ CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets sø
 
 Klik på **Avanceret søgning**.
 
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/4e64d74b-726d-4975-b314-e91b891a2e66" alt="Klik på Avanceret søgning" caption="Klik på Page" %}
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/4e64d74b-726d-4975-b314-e91b891a2e66" alt="Klik på Avanceret søgning" caption="Klik på Avanceret søgning" %}
 
 Lav din søgning og klik på **Kopier søgestreng**.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/39811f60-a69e-4304-88d1-9583cf180d08" alt="Klik på Kopier søgestreng" caption="Klik på Page" %}
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/39811f60-a69e-4304-88d1-9583cf180d08" alt="Klik på Kopier søgestreng" caption="Klik på Kopier søgestreng" %}
 
 Indsæt søgestrengen i feltet **CQL Search** i Material grid automatic-komponenten.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/ebbf641f-1280-4da0-ad2d-9394c90d59c8" alt="Indsæt søgestrengen i CQL Search-feltet" caption="Klik på Page" %}
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/ebbf641f-1280-4da0-ad2d-9394c90d59c8" alt="Indsæt søgestrengen i CQL Search-feltet" caption="Indsæt søgestrengen i CQL Search-feltet" %}
 
 Du kan indstille komponenten til at vise et bestemt antal materialer. Antallet skal være deleligt med fire. Antallet bestemmer du i feltet **Amount of materials**.
 
