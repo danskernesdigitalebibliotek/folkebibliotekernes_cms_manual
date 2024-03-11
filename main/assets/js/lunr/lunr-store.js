@@ -432,7 +432,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Tilgængelighedserklæring",
-        "excerpt":" ","categories": ["Faste sider"],
+        "excerpt":"Vi laver er forslag til en tilgængelighedserklæring, som også er obligatorisk. Denne bør man linke til fra servicemenuen i bunden af footeren.  ","categories": ["Faste sider"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/tilgaengelighedserkl%C3%A6ring/",
         "teaser": null
