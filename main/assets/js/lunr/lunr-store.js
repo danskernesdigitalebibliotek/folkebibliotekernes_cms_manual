@@ -431,6 +431,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/takster/",
         "teaser": null
       },{
+        "title": "Tilgængelighedserklæring",
+        "excerpt":" ","categories": ["Faste sider"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/indhold/tilgaengelighedserkl%C3%A6ring/",
+        "teaser": null
+      },{
         "title": "Velkommen",
         "excerpt":" ","categories": ["Faste sider"],
         "tags": [],
