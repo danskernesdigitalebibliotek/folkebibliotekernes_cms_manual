@@ -18,12 +18,10 @@ Standardteksten må gerne tilrettes:
 2. Tryk på **Rediger siden** og tilret teksten efter ønske.
 3. Tryk Gem
 
-## Erstat standardsiden med en anden side
+## Erstat standardsiden for Pausefuktion med en anden side
 
-Er du kommet til at slette siden Pausefunktion, kan du oprette en ny side, og få linket til at pege på den.
-Sådan konfigurerer du en selvvalgt Pausefunktion side
-
-Pausefunktion (node/8) - Sættes som “Pause reservation link” - admin/config/dpl-library-agency/general-settings
+Er du kommet til at slette siden Pausefunktion, kan du oprette en ny side, og få linket til at pege på den.\
+[Registrer en selvvalgt Pausefunktion side](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/generelle-indstillinger/)
 
 ## Pausefuktion standardteksten
 Har du mistet standardteksten, så er den her:
