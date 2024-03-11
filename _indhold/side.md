@@ -62,6 +62,8 @@ Der er følgende Paragraphs-komponenter at vælge fra:
 - Text body
 - Links
 - Media(s)
+- Material grid automatic
+- Material grid manual
 
 ## Beskrivelse af Paragraphs-elementernes indhold/funktioner
 
@@ -109,7 +111,7 @@ Trækker teaserfotos med.
 ### Recommendation
 Anvendes til anbefaling af bøger og andre materialer.
 
-Materialet trækkes ind via Work ID. **Eksempel:** work-of:870970-basis:136336282.
+Materialet trækkes ind via Work ID. **Eksempel:** work-of:870970-basis:136336282
 
 I øjeblikket hentes Work ID ved at udføre en søgning efter et materiale manuelt i søgefeltet på hjemmesiden og kopiere værdien fra søgeresultatet i URL’en.
 
@@ -126,6 +128,47 @@ Tilknytning af links til artiklen, fx interne/eksterne links og links til søger
 
 ### Media(s)
 Tilknytning af billeder. Tilladte filtyper: png gif jpg jpeg.
+
+### Material grid automatic
+
+Med Material grid-komponenten kan du udstille bøger og andre materialer.
+
+Automatic-varianten trækker materialer ind via en CQL-søgestreng.
+
+CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion og kopiere søgestrengen derfra. 
+
+Klik på **avanceret søgning**.
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/4e64d74b-726d-4975-b314-e91b891a2e66" alt="Klik på Page" caption="Klik på Page" %}
+
+Lav din søgning og klik på **Kopier søgestreng**.
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/39811f60-a69e-4304-88d1-9583cf180d08" alt="Klik på Page" caption="Klik på Page" %}
+
+Indsæt søgestrengen i feltet **CQL Search** i Material grid automatic-komponenten.
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/ebbf641f-1280-4da0-ad2d-9394c90d59c8" alt="Klik på Page" caption="Klik på Page" %}
+
+Du kan indstille komponenten til at vise et bestemt antal materialer. Antallet skal være deleligt med fire. Antallet bestemmer du i feltet **Amount of materials**.
+
+Komponenten viser minimum fire materialer og kan maksimalt sættes til 32 materialer.
+
+### Material grid manual
+
+I Material grid manual-varianten vælger du selv manuelt de materialer, du vil udstille.
+
+Materialer trækkes ind via Work ID. **Eksempel:** work-of:870970-basis:135822388
+
+I øjeblikket hentes Work ID ved at udføre en søgning efter et materiale manuelt i søgefeltet på hjemmesiden og kopiere værdien fra søgeresultatet i URL’en.
+
+Antallet af materialer skal være deleligt med fire. Du kan altså indsætte fire materialer eller otte eller 12 osv. 
+
+Tilføjer du fx 7 materialer, vil der kun blive vist 4. Du må så tilføje et mere, så der er 8 i alt for at få vist dem alle.
+
+Du kan dog godt indsætte blot et, to eller tre materialer.
+
+Maksimalt kan der indsættes 32 materialer.
+
 
 *Bemærk: Paragraphs kan tilføjes både over og under allerede indsatte paragraphs.*
 
