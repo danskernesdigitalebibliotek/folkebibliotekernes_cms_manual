@@ -3,3 +3,47 @@ title: "Pausefunktion"
 category: "Faste sider"
 weight: 2
 ---
+**Pausefunktion** er en informationside om at sætte sine reserveringer på pause. Det er en standardside eller "fast side".
+
+**På brugernes reserveringsoversigt, er der et link til denne side.**
+
+INDSÆT BILLEDE
+
+## Tilret teksten for Pausefunktion
+
+INDSÆT BILLEDE
+
+Standardteksten må gerne tilrettes:
+1. Find siden der hedder **Pausefuktion**. Den hedder også node/8.
+2. Tryk på **Rediger siden** og tilret teksten efter ønske.
+3. Tryk Gem
+
+## Erstat standardsiden med en anden side
+
+Er du kommet til at slette siden Pausefunktion, kan du oprette en ny side, og få linket til at pege på den.
+Sådan konfigurerer du en selvvalgt Pausefunktion side
+
+Pausefunktion (node/8) - Sættes som “Pause reservation link” - admin/config/dpl-library-agency/general-settings
+
+## Pausefuktion standardteksten
+Har du mistet standardteksten, så er den her:
+>
+> Pausefunktion
+>
+> Skal du på ferie, kan du stadig holde din plads i reserveringskøen.
+>
+> Hvis du ikke har mulighed for at komme og hente dine reserveringer i en periode, kan du angive en pauseperiode. Det betyder, at dine reserveringer bliver sat på pause.
+> 
+> Fordelen for dig er, at du undgår at komme bag i køen, hvis du ikke kan nå at hente dine reserveringer. I stedet bliver du sprunget over i køen, indtil din pauseperiode udløber.
+> 
+> Reserveringspausen gælder kun de reserveringer, vi ikke allerede har gjort klar til dig, og kun fysiske materialer.
+> 
+> OBS: Denne service gælder for alle reserveringer på bibliotekets egne materialer, men ikke for de materialer, der skaffes hjem fra andre biblioteker.
+> 
+> Sådan sætter du dine reserveringer på pause:
+> 
+> 1. Log ind på hjemmesiden
+> 2. Tryk på brugerikonet så brugermenuen åbner
+> 3. Tryk på Reserveringer
+> 4. Under Sæt dine reserveringer på pause kan du vælge en fraværsperiode. Vær opmærksom på at begge dage er omfanget af perioden
+> 5. Tryk Gem for at gemme dine valg.
