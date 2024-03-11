@@ -3,13 +3,17 @@ title: "Om faste sider"
 category: "Faste sider"
 weight: 1
 ---
-Folkebibliotekernes CMS fødes med nogle ”faste sider”:
+Folkebibliotekernes CMS fødes med nogle **faste side** eller **standardsider**. Faste sider er præcis som alle andre sider. De er der bare fra starten af, når I får systemet.
 
-Tanken er at bibliotekerne selv tilretter teksten, så de kommer til at afspejle bibliotekets lokale forhold samt evt. tone. Det tilrådes ikke at slette siderne, da der linkes til dem fra backend’en og brugerne risikerer at møde døde links og/eller at sitet kaster fejl. 
+Rundt omkring på jeres website, er der links til de faste sider. Hvis de mangler, risikerer I, at jeres brugere møder døde links og/eller at sitet fejler. 
 
-Hvis man vil slette en side, bør man erstatte den med en anden og huske at rette URL’en in backenden.
+Tanken er, at I bruger standardsiderne, men tilretter teksterne efter lokale forhold samt evt. tone.
+{: .notice--info}
+
+## Hjælp! Jeg er kommet til at slette en "fast side"
+Læs om den pågældende side her i manualen. Her finder du hjælp til at genoprette standardsiden.
 
 ## Yderligere info
 Vi er i færd med at lave en funktionalitet, der advarer redaktører, hvis de er ved at slette en side, der linkes til fra backened’en.
-Hvis man har oprettet en forside og dermed ikke kan se login for adminbrugere skal man gå til /user – ligesom i DDB CMS.
+
 
