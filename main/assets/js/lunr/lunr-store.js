@@ -360,7 +360,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Brugeroprettelsesside",
-        "excerpt":" ","categories": ["Faste sider"],
+        "excerpt":"Denne side er vi i gang med, vi mangler noget styling før vi kan introducere den.  ","categories": ["Faste sider"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/brugeroprettelsesside/",
         "teaser": null
