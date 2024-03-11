@@ -151,7 +151,7 @@ Indsæt søgestrengen i feltet **CQL Search** i Material grid automatic-komponen
 
 Du kan indstille komponenten til at vise et bestemt antal materialer. Antallet skal være deleligt med fire. Antallet bestemmer du i feltet **Amount of materials**.
 
-Komponenten viser minimum fire materialer og kan maksimalt sættes til 32 materialer.
+Komponenten viser minimum 4 materialer og kan maksimalt sættes til 32 materialer.
 
 ### Material grid manual
 
@@ -161,7 +161,7 @@ Materialer trækkes ind via Work ID. **Eksempel:** work-of:870970-basis:13582238
 
 I øjeblikket hentes Work ID ved at udføre en søgning efter et materiale manuelt i søgefeltet på hjemmesiden og kopiere værdien fra søgeresultatet i URL’en.
 
-Antallet af materialer skal være deleligt med fire. Du kan altså indsætte fire materialer eller otte eller 12 osv. 
+Antallet af materialer skal være deleligt med fire. Du kan altså indsætte 4 materialer eller 8 eller 12 osv. 
 
 Tilføjer du fx 7 materialer, vil der kun blive vist 4. Du må så tilføje et mere, så der er 8 i alt for at få vist dem alle.
 
