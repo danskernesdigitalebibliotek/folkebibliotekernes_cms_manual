@@ -89,6 +89,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/category/brugergraenseflade/",
         "teaser": null
       },{
+        "title": "Faste sider",
+        "excerpt":"Faste sider  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/category/faste-sider/",
+        "teaser": null
+      },{
         "title": "Startopsætning",
         "excerpt":"Startopsætning  ","categories": [],
         "tags": [],
