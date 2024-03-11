@@ -395,6 +395,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/om-faste-sider/",
         "teaser": null
       },{
+        "title": "Pausefunktion",
+        "excerpt":" ","categories": ["Faste sider"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/indhold/pausefunktion/",
+        "teaser": null
+      },{
         "title": "Opret side",
         "excerpt":"Indholdstypen Side bruges til at oprette forsider og lignende samlende indgange til tilknyttet indhold på dit site. FB CMS benytter betegnelserne sektionsside og navigationsside, men det henviser blot til deres funktioner – der er er ikke forskel på, hvordan man som udgangspunkt opretter dem. Du kan se eksempler på, hvordan...","categories": ["Indholdstyper"],
         "tags": [],
