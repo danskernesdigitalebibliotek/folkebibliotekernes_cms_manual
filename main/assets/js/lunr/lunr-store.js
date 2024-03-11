@@ -396,7 +396,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Om faste sider",
-        "excerpt":"Folkebibliotekernes CMS fødes med nogle ”faste sider”: Tanken er at bibliotekerne selv tilretter teksten, så de kommer til at afspejle bibliotekets lokale forhold samt evt. tone. Det tilrådes ikke at slette siderne, da der linkes til dem fra backend’en og brugerne risikerer at møde døde links og/eller at sitet kaster...","categories": ["Faste sider"],
+        "excerpt":"Folkebibliotekernes CMS fødes med nogle faste side eller standardsider. Faste sider er præcis som alle andre sider. De er der bare fra starten af, når I får systemet. Rundt omkring på jeres website, er der links til de faste sider. Hvis de mangler, risikerer I, at jeres brugere møder døde...","categories": ["Faste sider"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/om-faste-sider/",
         "teaser": null
