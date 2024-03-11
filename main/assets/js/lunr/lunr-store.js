@@ -414,7 +414,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Reglement",
-        "excerpt":" ","categories": ["Faste sider"],
+        "excerpt":"Reglement (node/11) - Der linkes på nuværende tidspunkt ikke til denne side nogen steder. Det er oplagt at linke til denne side fra brugeroprettelses siden. Det ville også give mening at linke til reglementet fra servicemenuen. Menupunktet “Servicedeklaration” kan erstattes med “Reglement”. Se eksempel på Reglement DPL CMS (reload.dk) Det...","categories": ["Faste sider"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/reglement/",
         "teaser": null
