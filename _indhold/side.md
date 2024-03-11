@@ -143,11 +143,11 @@ Klik på **Avanceret søgning**.
 
 Lav din søgning og klik på **Kopier søgestreng**.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/39811f60-a69e-4304-88d1-9583cf180d08" alt="Klik på Kopier søgestreng" caption="Klik på Kopier søgestreng" %}
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/39811f60-a69e-4304-88d1-9583cf180d08" alt="Klik på Kopier søgestreng" caption="Klik på Kopier søgestreng" %}
 
 Indsæt søgestrengen i feltet **CQL Search** i Material grid automatic-komponenten.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/ebbf641f-1280-4da0-ad2d-9394c90d59c8" alt="Indsæt søgestrengen i CQL Search-feltet" caption="Indsæt søgestrengen i CQL Search-feltet" %}
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/ebbf641f-1280-4da0-ad2d-9394c90d59c8" alt="Indsæt søgestrengen i CQL Search-feltet" caption="Indsæt søgestrengen i CQL Search-feltet" %}
 
 Du kan indstille komponenten til at vise et bestemt antal materialer. Antallet skal være deleligt med fire. Antallet bestemmer du i feltet **Amount of materials**.
 
