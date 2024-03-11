@@ -16,7 +16,7 @@ Hvis I ikke gør det, vil slutbrugerne støde ind i døde links, når de bruger 
 
 I denne opgave, opretter I alle siderne. I de efterfølgende opgaver, kommer I til at registrere dem i backend, så de kobles til de rigtige links i brugergrænsefladen.
 
-Inden I går i gang, skal I sikre jer, at I ved, hvordan man opretter en side. Det kan I læse om her: XX Sådan oprettes en side XX
+Inden I går i gang, skal I sikre jer, at I ved, hvordan man opretter en side. [Det kan I læse om her](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/side/)
 
 
 ## Reserveringspause
