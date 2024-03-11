@@ -479,6 +479,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/url-proxy-indstillinger/",
         "teaser": null
       },{
+        "title": "Complex search",
+        "excerpt":"Her kommer der information om complex search.   CQL Søgekoder i Complex Search Her findes en komplet liste over alle de søgekoder, der virker i CQL i Complex Search.  ","categories": ["Søgning"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/nye-features/complex-search/",
+        "teaser": null
+      },{
         "title": "Dashboard",
         "excerpt":"[ INDSÆT SKÆRMBILLEDE AF DASHBOARD ] Dashboardet er en samlet indgang for brugeren til alt, hvad der vedrører brugerens lån, reserveringer, gebyrer etc. Brugeren kommer til Dashboardet ved at klikke på Dit overblik i brugermenuen. Indholdet på siden tilpasser sig brugeren, så denne kun får vist relevant indhold – fx...","categories": ["Lånerstatus og brugerprofil"],
         "tags": [],
