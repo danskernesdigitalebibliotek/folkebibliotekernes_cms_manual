@@ -528,7 +528,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Intelligente facetter",
-        "excerpt":" ","categories": ["Søgning"],
+        "excerpt":"Under udarbejdelse 12 marts Et søgeresultatet vises sådan her. Facet-båndet er markeret med rødt. Der findes 12 forskellige facet-bånd, der kan vises for brugerne: Studerende, Børnebøger, Ebøger, Faglitteratur, Film, Film for børn, Lydbøger, Lydbøger for børn, Musik, Skønlitteratur, Spil og Spil for børn. Ud fra det søgeresultat, brugerens søgning har...","categories": ["Søgning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/intelligente-facetter/",
         "teaser": null
