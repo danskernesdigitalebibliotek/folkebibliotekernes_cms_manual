@@ -1,5 +1,5 @@
 ---
-title: "Complex search"
+title: "Avanceret søgning og CQL Søgning"
 category: "Søgning"
 ---
 Her kommer der information om complex search.
