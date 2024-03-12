@@ -10,7 +10,7 @@ Rundt omkring på jeres website, er der links til de faste sider. Hvis de mangle
 Tanken er, at I bruger standardsiderne, men tilretter teksterne efter lokale forhold samt evt. tone.
 {: .notice--info}
 
-## Liste over de faste sider
+## Liste over faste sider
 
 ## Sådan fremsøges de faste sider
 
