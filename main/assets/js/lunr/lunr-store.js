@@ -551,7 +551,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/parallelreservering/",
         "teaser": null
       },{
-        "title": "Rankering of fuzzy match",
+        "title": "Rankering af fuzzy match",
         "excerpt":"Der er kun ét søgefelt i Folkebibliotekernes CMS, og der er rigtig mange, meget forskelligartede brugerbehov.For at kunne understøtte så mange som muligt af disse, benyttes ”fuzzy match”. Ordet “fuzzy” betegner noget der er uskarpt, sløret, ikke helt præcist, og det er dækkende for, hvad der sker. Systemet finder nogle...","categories": ["Søgning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/rankering-og-fuzzy-match/",
