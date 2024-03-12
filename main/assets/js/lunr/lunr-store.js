@@ -503,10 +503,10 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/url-proxy-indstillinger/",
         "teaser": null
       },{
-        "title": "Complex search",
+        "title": "Avanceret søgning og CQL Søgning",
         "excerpt":"Her kommer der information om complex search.   CQL Søgekoder i Complex Search Her findes en komplet liste over alle de søgekoder, der virker i CQL i Complex Search.  ","categories": ["Søgning"],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/nye-features/complex-search/",
+        "url": "/folkebibliotekernes_cms_manual/main/nye-features/avanceret-soeging/",
         "teaser": null
       },{
         "title": "Dashboard",
