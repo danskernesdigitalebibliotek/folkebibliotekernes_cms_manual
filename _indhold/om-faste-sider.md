@@ -12,7 +12,7 @@ Tanken er, at I bruger standardsiderne, men tilretter teksterne efter lokale for
 
 ## Liste over faste sider
 
-## Sådan fremsøges de faste sider
+## Her finder du de faste sider i backend
 
 ## Hjælp! Jeg er kommet til at slette en fast side
 Læs om den specifikke side her i manualen. Det er forskelligt for hver af de faste sider, hvordan den bedst genoprettes.
