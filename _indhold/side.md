@@ -135,7 +135,7 @@ Med Material grid-komponenten kan du udstille bøger og andre materialer.
 
 Automatic-varianten trækker materialer ind via en CQL-søgestreng.
 
-CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion og kopiere søgestrengen derfra. [Læs mere om avanceret søgning og CQL søgedokumentationen.](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/nye-features/avanceret-soeging/)
+CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion og kopiere søgestrengen derfra. [Læs mere om avanceret søgning](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/nye-features/avanceret-soeging/) [Link til FBI-API's Complex Search Documentation](https://fbi-api.dbc.dk/indexmapper/){:target="_blank" rel="noopener"}
 
 Klik på **Avanceret søgning**.
 
