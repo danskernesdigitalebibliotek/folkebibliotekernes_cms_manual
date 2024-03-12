@@ -552,7 +552,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Rankering of fuzzy match",
-        "excerpt":" ","categories": ["Søgning"],
+        "excerpt":"under udarbejdelse 12 marts Der er kun ét søgefelt i Folkebibliotekernes CMS, og der er rigtig mange, meget forskelligartede brugerbehov. For at kunne understøtte så mange som muligt af disse, benyttes ”fuzzy match”. Ordet “fuzzy” betegner noget der er uskarpt, sløret, ikke helt præcist, og det er dækkende for, hvad...","categories": ["Søgning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/rankering-og-fuzzy-match/",
         "teaser": null
