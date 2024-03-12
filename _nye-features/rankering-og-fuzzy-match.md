@@ -2,7 +2,7 @@
 title: "Rankering af fuzzy match"
 category: "Søgning"
 ---
-Der er kun ét søgefelt i Folkebibliotekernes CMS, og der er rigtig mange, meget forskelligartede brugerbehov.For at kunne understøtte så mange som muligt af disse, benyttes ”fuzzy match”.
+Der er kun ét søgefelt i Folkebibliotekernes CMS, og der er rigtig mange, meget forskelligartede brugerbehov. For at kunne understøtte så mange som muligt af disse, benyttes ”fuzzy match”.
 
 Ordet "fuzzy" betegner noget der er uskarpt, sløret, ikke helt præcist, og det er dækkende for, hvad der sker. Systemet finder nogle svar, der ikke passer præcist med det, der er spurgt efter, men som dog er i nærheden af det.
 
