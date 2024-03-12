@@ -4,7 +4,7 @@ category: "Søgning"
 ---
 Et søgeresultat vises sådan her. Facet-båndet er markeret med rødt.
 
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/338fa7c1-f19a-4c27-b2b1-5d14d6345c2e" alt="Søgefacetter i et søgeresultat" caption="Søgefacetter i et søgeresultat" %}
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/17db49c3-5d86-4552-be9a-aa486173c532" alt="Søgefacetter i et søgeresultat" caption="Søgefacetter i et søgeresultat" %}
 
 Der findes 12 forskellige facet-bånd, der kan vises for brugerne: Studerende, Børnebøger, Ebøger, Faglitteratur, Film, Film for børn, Lydbøger, Lydbøger for børn, Musik, Skønlitteratur, Spil og Spil for børn.
 
