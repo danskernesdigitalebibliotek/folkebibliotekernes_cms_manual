@@ -10,6 +10,10 @@ Rundt omkring på jeres website, er der links til de faste sider. Hvis de mangle
 Tanken er, at I bruger standardsiderne, men tilretter teksterne efter lokale forhold samt evt. tone.
 {: .notice--info}
 
+## Liste over de faste sider
+
+## Sådan fremsøges de faste sider
+
 ## Hjælp! Jeg er kommet til at slette en "fast side"
 Læs om den specifikke side her i manualen. Det er forskelligt for hver af de faste sider, hvordan den bedst genoprettes.
 
