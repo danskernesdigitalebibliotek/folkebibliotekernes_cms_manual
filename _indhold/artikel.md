@@ -30,8 +30,11 @@ Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-pa
 Title må ikke være tom. Det er din artikels overskrift.
 
 ### Subtitle
-Subtitle er din artikels manchet/indledningstekst. Dette felt er valgfrit.
-Bemærk at subtitle ikke er det samme som Teaser text. Teaser text er den tekst, der trækkes ud som appetizer for artiklen andre steder på sitet. Teaser text tilføjes i sidebar-panelet. 
+Subtitle er din artikels manchet/indledningstekst. Dette felt er valgfrit. 
+
+Bemærk at subtitle ikke er det samme som Teaser text. Teaserteksten er den tekst, der trækkes ud som appetizer andre steder på sitet. 
+Bemærk også at teaserteksten kun vises som appetizer i de tilfælde, hvor der ikke er valgt et teaserbillede. 
+Teaser text tilføjes i sidebar-panelet.
 
 ### Override author
 Hvis du ønsker, at artiklen skal have en anden forfatter-byline end dit navn – fx Redaktionen - kan du aktivere denne knap og indtaste en valgfri byline her.
