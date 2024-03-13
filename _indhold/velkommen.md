@@ -1,7 +1,5 @@
 ---
 title: "Velkommen"
-category: "Faste sider"
-weight: 2
 ---
 
 Velkomstside (node/12) - Sættes som “Redirect on create” - /admin/config/people/registration.
