@@ -1,5 +1,5 @@
 ---
-title: "Pausefunktion"
+title: "Reserveringspause"
 category: "Faste sider"
 weight: 2
 ---
