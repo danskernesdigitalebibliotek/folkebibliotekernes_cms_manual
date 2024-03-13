@@ -377,6 +377,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/event/",
         "teaser": null
       },{
+        "title": "Faste sider",
+        "excerpt":"Folkebibliotekernes CMS fødes med nogle faste side eller standardsider. Faste sider er præcis som alle andre sider. De er der bare fra starten af, når I får systemet. Rundt omkring på jeres website, er der links til de faste sider. Hvis de mangler, risikerer I, at jeres brugere møder døde...","categories": ["Generelt"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/indhold/faste-sider/",
+        "teaser": null
+      },{
         "title": "Rediger footermenuen",
         "excerpt":"I topmenuen klik på Indhold &gt; Footer settings eller brug adressen https://mit-domænenavn.dk/admin/structure/footer (udskift mit-domænenavn.dk) Vælg Indhold og herefter Footer Settings i topmeue Hver kolonne i footeren udfyldes med sin egen rubrik, der indeholder felterne Navn og Indhold. Navn er overskriften på kolonnen og Indhold er den information, som skal fremgå...","categories": ["Menuer"],
         "tags": [],
@@ -399,12 +405,6 @@ var store = [{
         "excerpt":"Kampagner er en selvstændig indholdstype, der vises på søgeresultat-siden – men kun hvis det, som brugeren søger på, udløser den. Kampagner kan derfor bruges målrettet til at skabe opmærksomhed om arrangementer, særlige materialer, eller andet, som biblioteket ønsker at give særlig promovering. Sådan opretter du en kampagne I topmenuen klik...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/kampagner/",
-        "teaser": null
-      },{
-        "title": "Om faste sider",
-        "excerpt":"Folkebibliotekernes CMS fødes med nogle faste side eller standardsider. Faste sider er præcis som alle andre sider. De er der bare fra starten af, når I får systemet. Rundt omkring på jeres website, er der links til de faste sider. Hvis de mangler, risikerer I, at jeres brugere møder døde...","categories": ["Faste sider"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/indhold/om-faste-sider/",
         "teaser": null
       },{
         "title": "Privatlivspolitik",
