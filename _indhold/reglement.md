@@ -1,7 +1,5 @@
 ---
 title: "Reglement"
-category: "Faste sider"
-weight: 2
 ---
 
 Reglement (node/11) - Der linkes på nuværende tidspunkt ikke til denne side nogen steder. Det er oplagt at linke til denne side fra brugeroprettelses siden. Det ville også give mening at linke til reglementet fra servicemenuen. Menupunktet “Servicedeklaration” kan erstattes med “Reglement”.
