@@ -1,4 +1,4 @@
 ---
 title: "Billedbeskæring"  
-category: Generelt
+category: "Generelt"
 ---
