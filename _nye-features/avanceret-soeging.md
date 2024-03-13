@@ -41,6 +41,7 @@ Bemærk, at mens man taster og tilføjer sine valg, tilretter CQL-søgestrengen 
 
 
 
+
 Her kommer der information om complex search.
 
 [CQL Søgekoder i Complex Search](https://fbi-api.dbc.dk/indexmapper/)
