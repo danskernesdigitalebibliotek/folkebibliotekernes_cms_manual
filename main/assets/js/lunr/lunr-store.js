@@ -365,6 +365,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/artikel/",
         "teaser": null
       },{
+        "title": "Billedbeskæring",
+        "excerpt":" ","categories": ["Generelt"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/indhold/billedbeskaering/",
+        "teaser": null
+      },{
         "title": "Brugeroprettelsesside",
         "excerpt":"Denne side er vi i gang med, vi mangler noget styling før vi kan introducere den.  ","categories": [],
         "tags": [],
