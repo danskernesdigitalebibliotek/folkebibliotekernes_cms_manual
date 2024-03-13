@@ -9,5 +9,5 @@ Privatlivspolitik (node/10) - Skal linkes til fra servicemenuen i footeren under
 Der linkes til denne side under “Delete patron link” på /admin/config/dpl-library-agency/patron-page-settings . 
 Se eksempel på Privatlivspolitik | DPL CMS (reload.dk)
 
-Denne side linkes der til fra brugeroprettelsessiden. Det er et lovkrav at have en privatlivspolitik på hjemmesiden.
+Denne side linkes der til fra brugeroprettelsessiden. Det er et lovkrav at have en privatlivspolitik på hjemmesiden..
 
