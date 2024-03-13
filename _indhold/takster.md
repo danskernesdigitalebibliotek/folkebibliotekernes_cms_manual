@@ -1,7 +1,5 @@
 ---
 title: "Takster"
-category: "Faste sider"
-weight: 2
 ---
 
 Takster (node/9) - Sættes som “Fees and replacement cost URL” - /admin/config/dpl-library-agency/fees
