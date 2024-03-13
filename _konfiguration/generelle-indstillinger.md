@@ -57,8 +57,7 @@ Er som standard korrekt udfyldt. Den skal der ikke pilles ved.
 |Link til eReolen|https://ereolen.dk|
 
 ## Link til side om reserveringspause
-Her skal du indsætte link til [siden Pausefunktionen, som I selv har oprettet]({{ site.baseurl }}{% link _startopsaetning/5obligatoriske-sider.md %}). Er du i tvivl om, hvordan du finder sidens URL kan denne denne guide hjælpe dig.
-XX URL'er til indhold XX
+XX Link til faste sider XX
 
 Som standard er feltet ikke udfyldt. Det skal udfyldes. Ellers vises der et uvirksomt link til jeres brugere, når de benytter pausefuktionen.
 
