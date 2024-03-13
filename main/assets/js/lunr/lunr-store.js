@@ -504,9 +504,9 @@ var store = [{
         "teaser": null
       },{
         "title": "Avanceret søgning og CQL Søgning",
-        "excerpt":"Her kommer der information om complex search.   CQL Søgekoder i Complex Search Her findes en komplet liste over alle de søgekoder, der virker i CQL i Complex Search.  ","categories": ["Søgning"],
+        "excerpt":"Når man søger i Folkebibliotekernes CMS, så benyttes som udgangspunkt Simple Search, da det er bygget til at understøtte de hyppigste brugsscenarier. Men der er også brugs-scenarier, hvor der er behov for traditionel feltsøgning. Studerende og undervisere, der skal finde litteratur til en opgave, og har f. eks. ofte behov...","categories": ["Søgning"],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/nye-features/avanceret-soeging/",
+        "url": "/folkebibliotekernes_cms_manual/main/nye-features/avanceret-sogning/",
         "teaser": null
       },{
         "title": "Dashboard",
@@ -605,10 +605,10 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/4redaktoerbrugere/",
         "teaser": null
       },{
-        "title": "Opgave 5: Opret obligatoriske sider",
-        "excerpt":"Flere steder i brugergrænsefladen er der links til sider, der skal give slutbrugerne uddybende forklaring. Det drejer sig om følgende sider: Reserveringspause Jeres site er ikke født med disse sider. Dem skal I selv oprette. Hvis I ikke gør det, vil slutbrugerne støde ind i døde links, når de bruger...","categories": ["Startopsætning"],
+        "title": "Opgave 5: Gennemse faste sider",
+        "excerpt":"Folkebibliotekernes CMS fødes med nogle faste sider eller standardsider. Faste sider opfører sig præcis som alle andre sider. De er der bare fra starten af, når I får systemet. Rundt omkring på jeres website, er der links til de faste sider. Hvis de mangler, risikerer I, at jeres brugere møder...","categories": ["Startopsætning"],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/5obligatoriske-sider/",
+        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/5faste-sider/",
         "teaser": null
       },{
         "title": "Startopsætning",
