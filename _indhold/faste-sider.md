@@ -1,6 +1,6 @@
 ---
-title: "Om faste sider"
-category: "Faste sider"
+title: "Faste sider"
+category: "Generelt"
 weight: 1
 ---
 Folkebibliotekernes CMS fødes med nogle **faste side** eller **standardsider**. Faste sider er præcis som alle andre sider. De er der bare fra starten af, når I får systemet.
