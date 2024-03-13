@@ -377,6 +377,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/brugeroprettelsesside/",
         "teaser": null
       },{
+        "title": "CQL Søgestrenge",
+        "excerpt":" ","categories": ["Generelt"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/indhold/cql-soegestrenge/",
+        "teaser": null
+      },{
         "title": "Opret event",
         "excerpt":"Event svarer til den indholdstype, der i det gamle CMS hed ”Begivenhed”. Events kaldes også arrangementer. Sådan opretter du en event I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk) Klik på Add Content i øverste højre hjørne: Add Content Klik på Event Series: Klik på Event Series Enkeltstående eller gentagende event? Folkebibliotekernes CMS...","categories": ["Indholdstyper"],
         "tags": [],
