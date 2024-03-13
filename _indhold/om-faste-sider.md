@@ -11,8 +11,13 @@ Tanken er, at I bruger standardsiderne, men tilretter teksterne efter lokale for
 {: .notice--info}
 
 ## Liste over faste sider
-[Brugeroprettelsesside](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/brugeroprettelsesside/)
-[Reserveringspause](
+- [Brugeroprettelsesside](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/brugeroprettelsesside/)
+- [Reserveringspause](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/blob/main/_indhold/reserveringspause.md)
+- [Privatlivspolitik](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/privatlivspolitik/)
+- [Reglement](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/reglement/)
+- [Takster](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/takster/)
+- [Tilgængelighedserklæring](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/tilgaengelighedserkl%C3%A6ring/)
+- [Velkommen](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/velkommen/)
 
 ## Her finder du de faste sider i backend
 
