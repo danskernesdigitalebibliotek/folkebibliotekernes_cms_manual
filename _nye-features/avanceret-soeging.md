@@ -20,8 +20,6 @@ Vi har forsøgt at gøre den så selvforklarende som muligt.
 
 I felterne, hvor der står ”Søg på forfatter, titel mv.” kan man skrive sine søgetermer og derpå kan man i dropdown’en til højre vælge, hvilket indeks, der skal søges i:
 
-<img width="73" alt="Avanceret_sogning3" src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/1f3a4ba5-cf3f-47d8-b891-40934847e685">
-
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/1f3a4ba5-cf3f-47d8-b891-40934847e685" alt="Billedet viser udvalget af søgeindekser" caption="Billedet viser udvalget af søgeindekser" %}
 
 Nedenunder kan man vælge ”Materialetype”. Bemærk, at det er generel materialetype (dvs fx ”Lydbog”) – ikke specifik materialetype (dvs ikke ”Lydbog (MP3)”, ”Lydbog (CD)” eller ”Lydbog (online)”):
