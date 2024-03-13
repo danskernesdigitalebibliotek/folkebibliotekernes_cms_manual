@@ -30,13 +30,5 @@ Nedenunder kan man vælge ”Materialetype”. Bemærk, at det er generel materi
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/f78a78ed-e962-49e0-9a54-6499ab69ee6a" alt="Billedet viser hvordan man vælger skøn- eller faglitteratur" caption="Billedet viser hvordan man vælger skøn- eller faglitteratur" %}
 
-…. Eller ”Fysisk/online”:
-
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/2ed782ff-6288-418e-9b22-c461a200ccdb" alt="Billedet viser hvordan man vælger fysiske eller online materialer" caption="Billedet viser hvordan man vælger fysiske eller online materialer" %}
-
-Bemærk, at mens man taster og tilføjer sine valg, tilretter CQL-søgestrengen i boksen til højre sig:
-....
-Her kommer der information om complex search.
-
 [CQL Søgekoder i Complex Search](https://fbi-api.dbc.dk/indexmapper/)
 Her findes en komplet liste over alle de søgekoder, der virker i CQL i Complex Search.
