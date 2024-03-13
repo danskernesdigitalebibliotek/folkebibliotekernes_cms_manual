@@ -11,6 +11,8 @@ Tanken er, at I bruger standardsiderne, men tilretter teksterne efter lokale for
 {: .notice--info}
 
 ## Liste over faste sider
+[Brugeroprettelsesside](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/brugeroprettelsesside/)
+[Reserveringspause](
 
 ## Her finder du de faste sider i backend
 
