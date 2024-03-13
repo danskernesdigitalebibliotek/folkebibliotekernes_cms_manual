@@ -95,6 +95,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/category/faste-sider/",
         "teaser": null
       },{
+        "title": "Generelt",
+        "excerpt":"Generelt  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/category/generelt/",
+        "teaser": null
+      },{
         "title": "Startopsætning",
         "excerpt":"Startopsætning  ","categories": [],
         "tags": [],
