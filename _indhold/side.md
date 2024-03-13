@@ -134,8 +134,6 @@ Tilknytning af billeder. Tilladte filtyper: png gif jpg jpeg.
 Med Material grid-komponenten kan du udstille bøger og andre materialer.
 
 Automatic-varianten trækker materialer ind via en CQL-søgestreng.\
-[Læs mere om avanceret søgning og CQL søgning](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/nye-features/avanceret-soeging/)\
-[Link til FBI-API's Complex Search Documentation](https://fbi-api.dbc.dk/indexmapper/){:target="_blank" rel="noopener"}
 
 CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion og kopiere søgestrengen derfra.
 
@@ -150,6 +148,9 @@ Lav din søgning og klik på **Kopier søgestreng**.
 Indsæt søgestrengen i feltet **CQL Search** i Material grid automatic-komponenten.
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/ebbf641f-1280-4da0-ad2d-9394c90d59c8" alt="Indsæt søgestrengen i CQL Search-feltet" caption="Indsæt søgestrengen i CQL Search-feltet" %}
+
+[Læs mere om avanceret søgning og CQL søgning](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/nye-features/avanceret-soeging/)\
+[Link til FBI-API's Complex Search Documentation](https://fbi-api.dbc.dk/indexmapper/){:target="_blank" rel="noopener"}
 
 Du kan indstille komponenten til at vise et bestemt antal materialer. Antallet skal være deleligt med fire. Antallet bestemmer du i feltet **Amount of materials**.
 
