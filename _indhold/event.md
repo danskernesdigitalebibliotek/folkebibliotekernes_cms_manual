@@ -89,6 +89,8 @@ Paragraphs-mulighederne er:
 - Text body
 - Links
 - Media(s)
+- Material grid automatic
+- Material grid manual
 
 [Her er en beskrivelse af Paragraph-komponenternes features](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/event/#beskrivelse-af-paragraphs-elementernes-indholdfunktioner)
 
@@ -217,5 +219,36 @@ Tilknytning af links til artiklen, fx interne/eksterne links og links til søger
 
 ### Media(s)
 Tilknytning af billeder. Tilladte filtyper: png gif jpg jpeg.
+
+### Material grid automatic
+
+Med Material grid-komponenten kan du udstille bøger og andre materialer.
+
+Automatic-varianten trækker materialer ind via en CQL-søgestreng.
+
+CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion og kopiere søgestrengen derfra.
+
+[Sådan opretter du CQL-søgestrenge](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/cql-soegestrenge/)
+
+Du kan indstille komponenten til at vise et bestemt antal materialer. Antallet skal være deleligt med fire. Antallet bestemmer du i feltet **Amount of materials**.
+
+Komponenten viser minimum 4 materialer og kan maksimalt sættes til 32 materialer.
+
+### Material grid manual
+
+I Material grid manual-varianten vælger du selv manuelt de materialer, du vil udstille.
+
+Materialer trækkes ind via Work ID. **Eksempel:** work-of:870970-basis:135822388
+
+I øjeblikket hentes Work ID ved at udføre en søgning efter et materiale manuelt i søgefeltet på hjemmesiden og kopiere værdien fra søgeresultatet i URL’en.
+
+Antallet af materialer skal være deleligt med fire. Du kan altså indsætte 4 materialer eller 8 eller 12 osv. 
+
+Indsætter du fx 7 materialer, vil der kun blive vist 4. Du må så tilføje et mere, så der er 8 i alt for at få vist dem alle.
+
+Du kan dog godt indsætte blot et, to eller tre materialer.
+
+Maksimalt kan der indsættes 32 materialer.
+
 
 *Bemærk: Paragraphs kan tilføjes både over og under allerede indsatte paragraphs.*
