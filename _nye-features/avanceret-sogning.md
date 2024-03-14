@@ -20,7 +20,7 @@ Vi har forsøgt at gøre den så selvforklarende som muligt.
 
 I felterne, hvor der står ”Søg på forfatter, titel mv.” kan man skrive sine søgetermer og derpå kan man i dropdown’en til højre vælge, hvilket indeks, der skal søges i:
 
-{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/1f3a4ba5-cf3f-47d8-b891-40934847e685" alt="Billedet viser udvalget af søgeindekser" caption="Billedet viser udvalget af søgeindekser" %}
+{% include figure class="thirty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/1f3a4ba5-cf3f-47d8-b891-40934847e685" alt="Billedet viser udvalget af søgeindekser" caption="Billedet viser udvalget af søgeindekser" %}
 
 Nedenunder kan man vælge ”Materialetype”. Bemærk, at det er generel materialetype (dvs fx ”Lydbog”) – ikke specifik materialetype (dvs ikke ”Lydbog (MP3)”, ”Lydbog (CD)” eller ”Lydbog (online)”):
 
@@ -50,11 +50,11 @@ For det første er der ingen filtre – hvis man ønsker at tilrette sin søgnin
 
 For det andet, gives der en mulighed for ”Link til denne søgning”:
 
-{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/1a463418-91ab-4e62-94ef-2f89fe3cd47d" alt="Billedet viser knappen Link til denne søgning" caption="Billedet viser knappen Link til denne søgning" %}
+{% include figure class="thirty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/1a463418-91ab-4e62-94ef-2f89fe3cd47d" alt="Billedet viser knappen Link til denne søgning" caption="Billedet viser knappen Link til denne søgning" %}
 
 Ved klik kopieres linket over til éns udklipsholder:
 
-{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/557d79b1-57bd-4682-bbb3-b04581879f02" alt="Billedet viser at link til søgning er kopieret til udklipsholder" caption="Billedet viser at link til søgning er kopieret til udklipsholder" %}
+{% include figure class="thirty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/557d79b1-57bd-4682-bbb3-b04581879f02" alt="Billedet viser at link til søgning er kopieret til udklipsholder" caption="Billedet viser at link til søgning er kopieret til udklipsholder" %}
 
 Muligheden for at linke direkte til et søgeresultat inkl. filtrering findes ikke i simple search. Ønsker man at dele et link til en søgning, er man derfor nødt til at foretage den vha Avanceret Søgning.
 
