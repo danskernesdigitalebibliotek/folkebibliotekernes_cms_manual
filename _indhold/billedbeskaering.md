@@ -20,9 +20,11 @@ Om kvadratet er i midten, i et hjørne eller helt ude i siden betyder ikke noget
 Du kan/skal selvfølgelig anvende hele canvas'et, men vær opmærksom på at alt udenfor kvadratet på de 500x500 px kan risikere at blive beskåret, alt efter hvilken sammenhæng billedet anvendes i.
 3. Upload billedet til CMS'et, og sæt fokuspunktet i midten af kvadratet - and Bob's your uncle: nu kan du være sikker på at beskæringerne ikke ødelægger det indhold, som du har placeret inden i kvadratet.
 
+{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3a16390f-78a0-4172-af3b-68a7cd58018e" alt="Det gule kvadrat bliver ikke berørt af beskæringen" caption="Det gule kvadrat bliver ikke berørt af beskæringen" %} 
 
 
+{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3a16390f-78a0-4172-af3b-68a7cd58018e" alt="Det gule kvadrat bliver ikke berørt af beskæringen" caption="Det gule kvadrat bliver ikke berørt af beskæringen" %} 
 
-
+![billedbeskæring 1](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ba934452-ae49-401c-8a47-e2423df4efcc)
 
 
