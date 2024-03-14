@@ -30,7 +30,3 @@ Nedenunder kan man vælge ”Materialetype”. Bemærk, at det er generel materi
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/f78a78ed-e962-49e0-9a54-6499ab69ee6a" alt="Billedet viser hvordan man vælger skøn- eller faglitteratur" caption="Billedet viser hvordan man vælger skøn- eller faglitteratur" %}
 
-[CQL Søgekoder i Complex Search](https://fbi-api.dbc.dk/indexmapper/)
-Her findes en komplet liste over alle de søgekoder, der virker i CQL i Complex Search.
-
-Test test
