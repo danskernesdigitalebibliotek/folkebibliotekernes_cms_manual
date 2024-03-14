@@ -43,7 +43,7 @@ Så kommer man til et felt, hvor man kan skrive alle søgekoder:
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/c68e6232-5e0a-4a7f-93e9-bea12fdca0dd" alt="Billedet viser feltet Avanceret søgning" caption="Billedet viser feltet Avanceret søgning" %}
 
-Den komplette liste over alle søgekoder, der kan bruges, findes her: https://fbi-api.dbc.dk/indexmapper/
+Den komplette liste over alle søgekoder, der kan bruges, findes her: [https://fbi-api.dbc.dk/indexmapper/](https://fbi-api.dbc.dk/indexmapper/)
 
 Når man har klikket ”Søg”, kommer man til et søgeresultat, der afviger fra det normale på flere måder:
 For det første er der ingen filtre – hvis man ønsker at tilrette sin søgning, skal man scrolle op til toppen, hvor ”Avanceret-søgning” brugergrænsefladen befinder sig.
