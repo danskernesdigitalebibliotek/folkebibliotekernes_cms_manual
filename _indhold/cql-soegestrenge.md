@@ -17,7 +17,7 @@ Lav din søgning og klik på **Kopier søgestreng**.
 
 {% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/39811f60-a69e-4304-88d1-9583cf180d08" alt="Klik på Kopier søgestreng" caption="Klik på Kopier søgestreng" %}
 
-Indsæt søgestrengen i feltet **CQL Search** i Material grid automatic-komponenten.
+Hvis du skal bruge søgestrengen i Material grid automatic- komponenten, skal du indsætte den i feltet **CQL Search**. Sådan her:
 
 {% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/ebbf641f-1280-4da0-ad2d-9394c90d59c8" alt="Indsæt søgestrengen i CQL Search-feltet" caption="Indsæt søgestrengen i CQL Search-feltet" %}
 
