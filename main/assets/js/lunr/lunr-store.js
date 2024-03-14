@@ -522,7 +522,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Avanceret søgning og CQL Søgning",
-        "excerpt":"Når man søger i Folkebibliotekernes CMS, så benyttes som udgangspunkt Simple Search, da det er bygget til at understøtte de hyppigste brugsscenarier. Men der er også brugs-scenarier, hvor der er behov for traditionel feltsøgning. Studerende og undervisere, der skal finde litteratur til en opgave, og har f. eks. ofte behov...","categories": ["Søgning"],
+        "excerpt":"Bemærk: Den komplette liste over alle søgekoder, der kan bruges, findes her: https://fbi-api.dbc.dk/indexmapper/ Når man søger i Folkebibliotekernes CMS, så benyttes som udgangspunkt Simple Search, da det er bygget til at understøtte de hyppigste brugsscenarier. Men der er også brugs-scenarier, hvor der er behov for traditionel feltsøgning. Studerende og undervisere,...","categories": ["Søgning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/avanceret-sogning/",
         "teaser": null
