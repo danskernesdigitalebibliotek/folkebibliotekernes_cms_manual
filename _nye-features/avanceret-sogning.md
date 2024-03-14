@@ -2,6 +2,10 @@
 title: "Avanceret søgning og CQL Søgning"
 category: "Søgning"
 ---
+
+Bemærk: Den komplette liste over alle søgekoder, der kan bruges, findes her: [https://fbi-api.dbc.dk/indexmapper/](https://fbi-api.dbc.dk/indexmapper/)
+{: .notice--info}
+
 Når man søger i Folkebibliotekernes CMS, så benyttes som udgangspunkt Simple Search, da det er bygget til at understøtte de hyppigste brugsscenarier.
 
 Men der er også brugs-scenarier, hvor der er behov for traditionel feltsøgning. Studerende og undervisere, der skal finde litteratur til en opgave, og har f. eks. ofte behov for at foretage præcise, verifikative søgninger, som ikke understøttes i simple search. Simple Search understøtter nemlig ikke kommandosøgning og boolsk logik.
