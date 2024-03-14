@@ -22,9 +22,7 @@ Du kan/skal selvfølgelig anvende hele canvas'et, men vær opmærksom på at alt
 
 {% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3a16390f-78a0-4172-af3b-68a7cd58018e" alt="Det gule kvadrat bliver ikke berørt af beskæringen" caption="Det gule kvadrat bliver ikke berørt af beskæringen" %} 
 
+{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3a16390f-78a0-4172-af3b-68a7cd58018e" alt="Grafik med pæn beskæring uanset billedratio" caption="Grafik med pæn beskæring uanset billedratio" %} 
 
-{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3a16390f-78a0-4172-af3b-68a7cd58018e" alt="Det gule kvadrat bliver ikke berørt af beskæringen" caption="Det gule kvadrat bliver ikke berørt af beskæringen" %} 
-
-![billedbeskæring 1](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ba934452-ae49-401c-8a47-e2423df4efcc)
 
 
