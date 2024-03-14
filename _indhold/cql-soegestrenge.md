@@ -11,7 +11,7 @@ CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets sø
 
 Klik på **Avanceret søgning**.
 
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/4e64d74b-726d-4975-b314-e91b891a2e66" alt="Klik på Avanceret søgning" caption="Klik på Avanceret søgning" %}
+{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/4e64d74b-726d-4975-b314-e91b891a2e66" alt="Klik på Avanceret søgning" caption="Klik på Avanceret søgning" %}
 
 Lav din søgning og klik på **Kopier søgestreng**.
 
