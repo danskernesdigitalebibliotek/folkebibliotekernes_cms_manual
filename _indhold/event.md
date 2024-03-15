@@ -80,10 +80,10 @@ På sigt vil feltet blive automatisk udfyldt, når der er oprettet biblioteker i
 Hvis der er billetsalg til dit arrangement, lægges link til billetkøb ind her.
 
 ### Ticket categories
-Her tilknyttes billetnavn (Name) og pris (Price). 
-Pris kan også være 0 kr. (gratis).
-Arrangementer har pt ved oprettelse ingen Ticket category. Dette er for at tilgodese, at arrangementer ikke nødvendigvis kræver billet.
-Hvis dit arrangement kræver billet, skal du altså manuelt tilføje Ticket category.
+Her tilknyttes billetnavn (Name) og pris (Price). Pris kan også være 0 kr. (gratis).
+
+Arrangementer har pt ved oprettelse ingen Ticket category. Dette er for at tilgodese, at arrangementer ikke nødvendigvis kræver billet. Hvis dit arrangement kræver billet, skal du altså manuelt tilføje Ticket category.
+
 Det er muligt at tilføje flere Ticket categories, hvis dit arrangement har billetter i forskellige prisklasser.
 
 ### Place
@@ -120,6 +120,10 @@ Paragraphs-mulighederne er:
 
 ## Sidebar-panel
 
+### Planlægning
+Udgivelse af arrangementet kan planlægges via sidebar-panelet.
+Der kan sættes et fremtidigt publicerings-tidspunkt og/eller et fremtidigt afpublicerings-tidspunkt.
+
 ### Image
 Her kan du tilføje et billede, som vises øverst på selve dit arrangement.
 
@@ -134,10 +138,6 @@ Andre State-valgmuligheder er:
 - Sold out
 - Canceled
 - Occurred
-
-### Link
-Link til billetkøb hos billetudbyder indsættes i dette felt.
-Er arrangementet uden billet, efterlades feltet tomt.
 
 ### Teasertekst og teaserbillede
 Teaser-felterne er det indhold, som trækkes ud i visningskort (udtræk, der fungerer som appetizers for artiklen andre steder på sitet). 
@@ -154,17 +154,6 @@ Du opretter selv dine kategorier andetsteds i backend’en. XX
 Her kan du tilknytte valgfrie ’tags’, emneord, til dit arrangement.
 Vil du tilknytte flere tags, skal de adskilles af et komma.
 
-### Planlægning
-Udgivelse af arrangementet kan planlægges via sidebar-panelet.
-Der kan sættes et fremtidigt publicerings-tidspunkt og/eller et fremtidigt afpublicerings-tidspunkt.
-
-## Udgivet/Gem
-
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/eb881bd7-8bf9-41b0-86b5-9f557008d720" alt="Gem og udgiv findes i øverste højre hjørne" caption="Gem og udgiv findes i øverste højre hjørne" %} 
-
-Tryk på **Gem** for at gemme/publicere arrangementet.
-
-Det er muligt at gemme arrangementet uden at publicere ved slukke for **den grønne knap** ved **Udgivet**.
 
 ## Beskrivelse af Paragraphs-elementernes indhold/funktioner
 
