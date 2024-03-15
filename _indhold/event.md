@@ -252,3 +252,26 @@ Maksimalt kan der indsættes 32 materialer.
 
 
 *Bemærk: Paragraphs kan tilføjes både over og under allerede indsatte paragraphs.*
+
+
+## Vigtig viden om arrangementers struktur i back-end'en
+
+I FB CMS' backend har alle arrangementer både en serie-visning **(master)** og en visning af det enkelte arrangement **(instans)**. 
+
+Det gælder også for arrangementer, som er enkelstående og ikke indgår i en serie - og det skal man lige vænne sig til.
+ 
+Selve arrangementets indhold ligger i masteren. 
+
+Klikker du ind på den enkelte instans i backend’en (altså en af begivenhederne i serien), så fremstår den tom, fordi den trækker indholdet fra masteren. 
+
+Ændrer du indholdet i masteren, slår det igennem i alle instanserne i serien.
+
+Hvis du kun vil ændre indholdet i én eller nogle af instanserne i serien, skal du klikke ind på den eller de instanser, som du vil rette. I første omgang vil de fremstå med tomme indholdsfelter. Her skal du fylde indhold i disse felter.
+
+Ved enkeltstående events har man på samme måde en serievisning (master) og en instansvisning. Det kan virke logisk, at der er en serievisning, eftersom det her ikke drejer sig om en serie – der er kun én begivenhed. 
+
+Alligevel vil man her også som udgangspunkt blive bedt af systemet om at lave indholdsændringer i masteren - ikke i instansen.
+
+Systemet viser en dialogboks, der fortæller, når man befinder sig i instans-visning og tilbyder mulighed for at tilgå masteren (serievisningen) ved at klikke på **Redigér hele serien her**.
+
+(Årsagen til, at der ved enkeltstående arrangementer også er en serie-visning (master), er, at det skal være muligt at omdanne enkeltstående arrangementer til serier).
