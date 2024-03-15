@@ -58,18 +58,39 @@ Arrangementets indhold opbygges via et hovedindholdsfelt til venstre og et sideb
 ### Title
 Title må ikke være tom. Det er navnet på dit arrangement.
 
-### Recur Type
-Påkrævet felt. Valg af enkeltstående eller gentagende arrangement. Se beskrivelse ovenfor. 
-
-### Dato/tid
-Bemærk at udseendet af dette felt og valgmulighederne i det ændrer sig, afhængigt af hvilken type arrangement, der er valgt i Recur Type.
-
 ### Description
 Description er dit arrangements manchet/indledningstekst. 
 
 Bemærk at description ikke er det samme som Teaser text. Teaser text er den tekst, der trækkes ud som appetizer for arrangementet andre steder på sitet. Teaser text tilføjes i sidebar-panelet. 
 
 Description-teksten lægger sig ved siden af feltet med praktisk information i slutbruger-visningen.
+
+### Recur Type
+Påkrævet felt. Valg af enkeltstående eller gentagende arrangement. Se beskrivelse ovenfor. 
+
+### Dato/tid
+Bemærk at udseendet af dette felt og valgmulighederne i det ændrer sig, afhængigt af hvilken type arrangement, der er valgt i Recur Type.
+
+### Address
+Adresse, hvor arrangementet afholdes. Obligatorisk felt.
+Adresse-oplysninger indtastes pt manuelt.
+På sigt vil feltet blive automatisk udfyldt, når der er oprettet biblioteker i CMS.
+
+### Ticket link
+Hvis der er billetsalg til dit arrangement, lægges link til billetkøb ind her.
+
+### Ticket categories
+Her tilknyttes billetnavn (Name) og pris (Price). 
+Pris kan også være 0 kr. (gratis).
+Arrangementer har pt ved oprettelse ingen Ticket category. Dette er for at tilgodese, at arrangementer ikke nødvendigvis kræver billet.
+Hvis dit arrangement kræver billet, skal du altså manuelt tilføje Ticket category.
+Det er muligt at tilføje flere Ticket categories, hvis dit arrangement har billetter i forskellige prisklasser.
+
+### Place
+Her kan angives specifik lokation, hvor arrangementet afholdes, fx Børnebiblioteket eller Store Sal.
+
+### Partners
+Eventuelle samarbejdspartnere kan indtastes her.
 
 ### Paragraphs
 Paragraphs er dine indholdskomponenter, bl.a. brødtekst (text body), billeder, filer samt spots for andre relevante artikler/events/sider. 
@@ -96,23 +117,6 @@ Paragraphs-mulighederne er:
 
 [Her er en beskrivelse af Paragraph-komponenternes features](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/event/#beskrivelse-af-paragraphs-elementernes-indholdfunktioner)
 
-### Ticket categories
-Her tilknyttes billetnavn (Name) og pris (Price). 
-Pris kan også være 0 kr. (gratis).
-Arrangementer har pt ved oprettelse ingen Ticket category. Dette er for at tilgodese, at arrangementer ikke nødvendigvis kræver billet.
-Hvis dit arrangement kræver billet, skal du altså manuelt tilføje Ticket category.
-Det er muligt at tilføje flere Ticket categories, hvis dit arrangement har billetter i forskellige prisklasser.
-
-### Address
-Adresse, hvor arrangementet afholdes. Obligatorisk felt.
-Adresse-oplysninger indtastes pt manuelt.
-På sigt vil feltet blive automatisk udfyldt, når der er oprettet biblioteker i CMS.
-
-### Place
-Her kan angives specifik lokation, hvor arrangementet afholdes, fx Børnebiblioteket eller Store Sal.
-
-### Partners
-Eventuelle samarbejdspartnere kan indtastes her.
 
 ## Sidebar-panel
 
