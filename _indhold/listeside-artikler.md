@@ -1,5 +1,4 @@
 ---
 title: "Artikler"
-category: "Generelt"
 ---
 
