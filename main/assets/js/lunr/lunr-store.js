@@ -420,13 +420,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Arrangementer",
-        "excerpt":" ","categories": ["Generelt"],
+        "excerpt":" ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/listeside-arrangementer/",
         "teaser": null
       },{
         "title": "Artikler",
-        "excerpt":" ","categories": ["Generelt"],
+        "excerpt":" ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/listeside-artikler/",
         "teaser": null
