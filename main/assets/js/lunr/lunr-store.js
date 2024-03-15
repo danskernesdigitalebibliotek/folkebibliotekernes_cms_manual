@@ -432,7 +432,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Biblioteker",
-        "excerpt":" ","categories": ["Generelt"],
+        "excerpt":" ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/listeside-biblioteker/",
         "teaser": null
