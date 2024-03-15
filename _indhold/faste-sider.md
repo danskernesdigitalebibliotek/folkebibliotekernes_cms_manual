@@ -11,10 +11,13 @@ Tanken er, at I bruger standardsiderne, men tilretter teksterne efter lokale for
 {: .notice--info}
 
 ## Liste over faste sider
+- [Arrangementer](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/listeside-arrangementer/)
+- [Artikler](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/listeside-artikler/)
+- [Biblioteker](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/listeside-biblioteker/)
 - [Brugeroprettelsesside](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/brugeroprettelsesside/)
 - [Privatlivspolitik](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/privatlivspolitik/)
 - [Reglement](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/reglement/)
-- [Reserveringspause](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/blob/main/indhold/reserveringspause/)
+- [Reserveringspause](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/reserveringspause/)
 - [Takster](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/takster/)
 - [Tilgængelighedserklæring](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/tilgaengelighedserklaering/)
 - [Velkommen](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/velkommen/)
