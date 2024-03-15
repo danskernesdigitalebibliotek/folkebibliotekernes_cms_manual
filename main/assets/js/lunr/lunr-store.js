@@ -419,6 +419,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/kampagner/",
         "teaser": null
       },{
+        "title": "Artikler",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/indhold/listeside-artikler/",
+        "teaser": null
+      },{
         "title": "Privatlivspolitik",
         "excerpt":"Privatlivspolitik (node/10) - Skal linkes til fra servicemenuen i footeren under “Behandling af persondata”. Denne er på nuværende tidspunkt hardcoded, hvilket rettes i kommende release. Det ønskes at titlen på linket skal være “Privatlivspolitik” så det matcher “Privatlivspolitik” siden. Der linkes til denne side under “Delete patron link” på /admin/config/dpl-library-agency/patron-page-settings...","categories": [],
         "tags": [],
