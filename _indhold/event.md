@@ -264,13 +264,13 @@ Selve arrangementets indhold ligger i masteren.
 
 Klikker du ind på den enkelte instans i backend’en (altså en af begivenhederne i serien), så fremstår den tom, fordi den trækker indholdet fra masteren. 
 
-Ændrer du indholdet i masteren, slår det igennem i alle instanserne i serien.
+Ændrer du indholdet i masteren, slår det igennem i alle instanserne i serien. Det er altså nemt at redigere alle arrangementer i en serie hurtigt ved at rette i masteren (serievisningen).
 
 Hvis du kun vil ændre indholdet i én eller nogle af instanserne i serien, skal du klikke ind på den eller de instanser, som du vil rette. I første omgang vil de fremstå med tomme indholdsfelter. Her skal du fylde indhold i disse felter.
 
-Ved enkeltstående events har man på samme måde en serievisning (master) og en instansvisning. Det kan virke logisk, at der er en serievisning, eftersom det her ikke drejer sig om en serie – der er kun én begivenhed. 
+Ved enkeltstående events har man på samme måde en serievisning (master) og en instansvisning. Her kan det virke ulogisk med denne to-delte struktur - altså at der også er en serievisning - eftersom der er kun er tale om én begivenhed, ikke en serie. 
 
-Alligevel vil man her også som udgangspunkt blive bedt af systemet om at lave indholdsændringer i masteren - ikke i instansen.
+Alligevel vil man ved enkeltstående arrangementer også som udgangspunkt blive bedt af systemet om at lave indholdsændringer i masteren - ikke i instansen.
 
 Systemet viser en dialogboks, der fortæller, når man befinder sig i instans-visning og tilbyder mulighed for at tilgå masteren (serievisningen) ved at klikke på **Redigér hele serien her**.
 
