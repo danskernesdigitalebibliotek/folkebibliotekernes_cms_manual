@@ -53,7 +53,7 @@ Arrangementets indhold opbygges via et hovedindholdsfelt til venstre og et sideb
 
 {% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/4b59aa35-460a-4fec-a7e1-c23daa1c3bef" alt="Hovedindholdsfeltet i et event" caption="Hovedindholdsfeltet i et event" %} 
 
-## Opbygning af event-indhold
+## Opbygning af arrangements-indhold
 
 ### Title
 Title må ikke være tom. Det er navnet på dit arrangement.
