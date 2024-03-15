@@ -268,7 +268,7 @@ Klikker du ind på den enkelte instans i back-end’en (altså et af arrangement
 
 Hvis du kun vil ændre indholdet i én eller nogle af instanserne i serien, skal du klikke ind på den eller de instanser, som du vil rette. I første omgang vil de fremstå med tomme indholdsfelter. Her skal du fylde indhold i disse felter.
 
-Ved enkeltstående arrangementer har man på samme måde en serie-visning (master) og en instansvisning. Her kan det virke ulogisk med denne to-delte struktur - altså at der også er en serie-visning - eftersom der kun er tale om ét arrangement, ikke en serie. 
+Ved enkeltstående arrangementer har man på samme måde en serie-visning (master) og en instans-visning. Her kan det virke ulogisk med denne to-delte struktur - altså at der også er en serie-visning - eftersom der kun er tale om ét arrangement, ikke en serie. 
 
 Alligevel vil man ved enkeltstående arrangementer også som udgangspunkt blive bedt af systemet om at lave indholdsændringer i masteren - ikke i instansen.
 
