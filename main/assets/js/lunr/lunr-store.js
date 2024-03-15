@@ -468,7 +468,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Tilgængelighedserklæring",
-        "excerpt":"Vi laver er forslag til en tilgængelighedserklæring, som også er obligatorisk. Denne bør man linke til fra servicemenuen i bunden af footeren.  ","categories": [],
+        "excerpt":"Vi laver er forslag til en tilgængelighedserklæring, som også er obligatorisk. Denne bør man linke til fra servicemenuen i bunden af footeren.  ","categories": ["Generelt"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/tilgaengelighedserklaering/",
         "teaser": null
