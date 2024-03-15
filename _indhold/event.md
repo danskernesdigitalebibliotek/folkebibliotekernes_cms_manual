@@ -268,7 +268,7 @@ Klikker du ind på den enkelte instans i backend’en (altså en af begivenheder
 
 Hvis du kun vil ændre indholdet i én eller nogle af instanserne i serien, skal du klikke ind på den eller de instanser, som du vil rette. I første omgang vil de fremstå med tomme indholdsfelter. Her skal du fylde indhold i disse felter.
 
-Ved enkeltstående events har man på samme måde en serievisning (master) og en instansvisning. Her kan det virke ulogisk med denne to-delte struktur - altså at der også er en serievisning - eftersom der er kun er tale om én begivenhed, ikke en serie. 
+Ved enkeltstående events har man på samme måde en serievisning (master) og en instansvisning. Her kan det virke ulogisk med denne to-delte struktur - altså at der også er en serievisning - eftersom der kun er tale om én begivenhed, ikke en serie. 
 
 Alligevel vil man ved enkeltstående arrangementer også som udgangspunkt blive bedt af systemet om at lave indholdsændringer i masteren - ikke i instansen.
 
