@@ -155,6 +155,16 @@ Her kan du tilknytte valgfrie ’tags’, emneord, til dit arrangement.
 Vil du tilknytte flere tags, skal de adskilles af et komma.
 
 
+## Udgivet/Gem
+
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/eb881bd7-8bf9-41b0-86b5-9f557008d720" alt="Gem og udgiv findes i øverste højre hjørne" caption="Gem og udgiv findes i øverste højre hjørne" %} 
+
+Tryk på **Gem** for at gemme/publicere arrangementet.
+
+Det er muligt at gemme arrangementet uden at publicere ved slukke for **den grønne knap** ved **Udgivet**.
+
+
+
 ## Beskrivelse af Paragraphs-elementernes indhold/funktioner
 
 ### Accordion
