@@ -22,8 +22,8 @@ Adgangsplatformen autoriserer også hjemmesiden til at udføre søgninger i FBI-
 |Feltnavn|Værdi|
 |---|---|
 |Enabled OpenID Connect clients|`Adgangsplatformen` (kun det)|
-|Klient ID|Oplyses ved henvendelse til DBC via https://kundeservice.dbc.dk/|
-|Client secret|Oplyses ved henvendelse til DBC via https://kundeservice.dbc.dk/|
+|Klient ID|[Skal kopieres fra DDB CMS.](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/1openid-connect/)|
+|Client secret|[Skal kopieres fra DDB CMS.](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/1openid-connect/)|
 |Token endpoint|`https://login.bib.dk/oauth/token/`|
 |UserInfo endpoint|`https://login.bib.dk/userinfo/`|
 |Logout endpoint|`https://login.bib.dk/logout`|
