@@ -1,4 +1,3 @@
 ---
 title: "Arrangementer"
-category: "Generelt"
 ---
