@@ -7,32 +7,32 @@ emneord:
 ---
 Event svarer til den indholdstype, der i det gamle CMS hed ”Begivenhed”. Events kaldes også arrangementer.
 
-## Sådan opretter du en event
+## Sådan opretter du et arrangement
 I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/content` (udskift mit-domænenavn.dk)
 
-Klik på **Add Content** i øverste højre hjørne:
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/26601a79-3284-494f-a817-1a5a5ca4c4b1" alt="Tilføj indhold" caption="Add Content" %} 
+Klik på **Tilføj indhold** i øverste højre hjørne:
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/3acbbb9d-734d-4423-8621-fad6d257d997" alt="Tilføj indhold" caption="Tilføj indhold" %} 
 
-Klik på Event Series:
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/835d2eae-ce6c-487b-8cb1-c0e48448d280" alt="Klik på Event Series" caption="Klik på Event Series" %} 
+Klik på Arrangementsserier:
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/148b9ab9-6ca5-4a79-bd2c-5697afcb8772" alt="Klik på Arrangementsserier" caption="Klik på Arrangementsserier" %} 
 
-## Enkeltstående eller gentagende event?
+## Enkeltstående eller gentagende arrangement?
 
-Folkebibliotekernes CMS tilbyder en række nye muligheder for at oprette event-serier. Event-serier er nyttige, hvis du har tilbagevendende events, fx læseklubber, legestue etc.
+Folkebibliotekernes CMS tilbyder en række nye muligheder for at oprette arrangementsserier. Arrangementsserier er nyttige, hvis du har tilbagevendende arrangementer, fx læseklubber, legestuer etc.
 
-Når du opretter en event, skal du i **Recur Type**-feltet tage stilling til, om du vil oprette en enkeltstående event eller en serie. Uanset om du vil oprette en enkelt event eller en serie, skal du altså vælge Event Series, når du opretter den.
+Når du opretter et arrangement, skal du i **Recur Type**-feltet tage stilling til, om du vil oprette en enkeltstående event eller en serie. Uanset om du vil oprette en enkelt event eller en serie, skal du altså vælge Event Series, når du opretter den.
 
-## Enkeltstående event
-Skal du kun oprette en enkelt event (ikke en serie), vælges **Custom/Single Event** i dropdown under
+## Enkeltstående arrangement
+Skal du kun oprette et enkelt arrangement (ikke en serie), vælges **Custom/Single Event** i dropdown under
 **Recur Type**.
 
 {% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/bf7ce6c7-e7c8-4f8b-aaf0-067d6689157c" alt="Vælg Recur Type" caption="Vælg Recur Type" %} 
 
-## Serie-events
+## Arrangementsserier
 
-Vil du oprette en serie af events, vælger du gentagelses-typen i dropdown under Recur Type.
+Vil du oprette en serie af arrangementer, vælger du gentagelses-typen i dropdown under Recur Type.
 
-Serie-events har følgende valgmuligheder:
+Arrangementsserier har følgende valgmuligheder:
 
 - Consecutive Event
 - Daily Event
@@ -40,11 +40,11 @@ Serie-events har følgende valgmuligheder:
 - Monthly Event
 - Yearly Event
 
-*Consecutive event* kan fx bruges, hvis du har flere events af samme slags, som finder sted samme dag – eksempelvis en workshop, som afholdes flere gange på en bestemt dato.
+*Consecutive event* kan fx bruges, hvis du har flere arrangementer af samme slags, som finder sted samme dag – eksempelvis en workshop, som afholdes flere gange på en bestemt dato.
 
 ## Indhold
 
-Eventens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-panel til højre.
+Arrangementets indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-panel til højre.
 
 - Hovedindholdsfeltet indeholder bl.a. Title, Recur type, Description og Paragraphs.
 - Sidebar-panelet indeholder bl.a. State, Link (billetsalg), Teaser text, Teaser image, Tagging, Planlægning mv.
@@ -54,24 +54,24 @@ Eventens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-pan
 ## Opbygning af event-indhold
 
 ### Title
-Title må ikke være tom. Det er navnet på din event.
+Title må ikke være tom. Det er navnet på dit arrangement.
 
 ### Recur Type
-Påkrævet felt. Valg af enkeltstående eller gentagende event. Se beskrivelse ovenfor. 
+Påkrævet felt. Valg af enkeltstående eller gentagende arrangement. Se beskrivelse ovenfor. 
 
 ### Dato/tid
-Bemærk at udseendet af dette felt og valgmulighederne i det ændrer sig, afhængigt af hvilken type Event, der er valgt i Recur Type.
+Bemærk at udseendet af dette felt og valgmulighederne i det ændrer sig, afhængigt af hvilken type arrangement, der er valgt i Recur Type.
 
 ### Description
-Description er din events manchet/indledningstekst. 
+Description er dit arrangements manchet/indledningstekst. 
 
-Bemærk at description ikke er det samme som Teaser text. Teaser text er den tekst, der trækkes ud som appetizer for event’en andre steder på sitet. Teaser text tilføjes i sidebar-panelet. 
+Bemærk at description ikke er det samme som Teaser text. Teaser text er den tekst, der trækkes ud som appetizer for arrangementet andre steder på sitet. Teaser text tilføjes i sidebar-panelet. 
 
 Description-teksten lægger sig ved siden af feltet med praktisk information i slutbruger-visningen.
 
 ### Paragraphs
 Paragraphs er dine indholdskomponenter, bl.a. brødtekst (text body), billeder, filer samt spots for andre relevante artikler/events/sider. 
-Event er født med en **Text body**-paragraph (brødtekst). 
+Arrangementer er født med en **Text body**-paragraph (brødtekst). 
 Denne Text body-paragraph kan fjernes manuelt ved behov.
 Klik på **+ Add** for at tilføje flere paragraphs, som du ønsker, at din event skal indeholde.
 
@@ -97,7 +97,7 @@ Paragraphs-mulighederne er:
 ### Ticket categories
 Her tilknyttes billetnavn (Name) og pris (Price). 
 Pris kan også være 0 kr. (gratis).
-Events har pt ved oprettelse ingen Ticket category. Dette er for at tilgodese, at events ikke nødvendigvis kræver billet.
+Arrangementer har pt ved oprettelse ingen Ticket category. Dette er for at tilgodese, at arrangementer ikke nødvendigvis kræver billet.
 Hvis dit arrangement kræver billet, skal du altså manuelt tilføje Ticket category.
 Det er muligt at tilføje flere Ticket categories, hvis dit arrangement har billetter i forskellige prisklasser.
 
@@ -117,10 +117,10 @@ Eventuelle samarbejdspartnere kan indtastes her.
 ## Sidebar-panel
 
 ### Image
-Her kan du tilføje et billede, som vises øverst på selve din begivenhed.
+Her kan du tilføje et billede, som vises øverst på selve dit arrangement.
 
 ### State
-Obligatorisk felt. Din events tilstand, fx udsolgt eller aflyst, angiver du via dropdown’en. 
+Obligatorisk felt. Dit arrangements tilstand, fx udsolgt eller aflyst, angiver du via dropdown’en. 
 Som udgangspunkt er feltet altid sat til Active.
 
 {% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d77b689a-d4a9-44f2-bef0-0556aba9dee7" alt="State er obligatorisk felt" caption="State er et obligatorisk felt" %} 
@@ -147,20 +147,20 @@ Kategori, fx ’Litteratur’ eller ’Digitalt’, kan vælges i dropdown-menu.
 Du opretter selv dine kategorier andetsteds i backend’en. XX
 
 ### Tags
-Her kan du tilknytte valgfrie ’tags’, emneord, til din event.
+Her kan du tilknytte valgfrie ’tags’, emneord, til dit arrangement.
 Vil du tilknytte flere tags, skal de adskilles af et komma.
 
 ### Planlægning
-Udgivelse af eventen kan planlægges via sidebar-panelet.
+Udgivelse af arrangementet kan planlægges via sidebar-panelet.
 Der kan sættes et fremtidigt publicerings-tidspunkt og/eller et fremtidigt afpublicerings-tidspunkt.
 
 ## Udgivet/Gem
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/eb881bd7-8bf9-41b0-86b5-9f557008d720" alt="Gem og udgiv findes i øverste højre hjørne" caption="Gem og udgiv findes i øverste højre hjørne" %} 
 
-Tryk på **Gem** for at gemme/publicere eventen.
+Tryk på **Gem** for at gemme/publicere arrangementet.
 
-Det er muligt at gemme eventen uden at publicere ved slukke for **den grønne knap** ved **Udgivet**.
+Det er muligt at gemme arrangementet uden at publicere ved slukke for **den grønne knap** ved **Udgivet**.
 
 ## Beskrivelse af Paragraphs-elementernes indhold/funktioner
 
