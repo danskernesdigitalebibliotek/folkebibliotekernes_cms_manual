@@ -1,3 +1,4 @@
 ---
 title: "Biblioteker"
+category: "Generelt"
 ---
