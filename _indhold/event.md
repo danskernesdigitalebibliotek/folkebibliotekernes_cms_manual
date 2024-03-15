@@ -274,6 +274,6 @@ Alligevel vil man ved enkeltstående arrangementer også som udgangspunkt blive 
 
 Systemet viser en dialogboks, der fortæller, når man befinder sig i instans-visning og tilbyder mulighed for at tilgå masteren (serievisningen) ved at klikke på **Redigér hele serien her**.
 
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/627ed5b1-2a31-469a-860e-e0a1ee3e5e49" alt="Du kan tilgå serien ved at klikke på Redigér hele serien her" caption="Du kan tilgå serien ved at klikke på Redigér hele serien her" %} 
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/627ed5b1-2a31-469a-860e-e0a1ee3e5e49" alt="Du kan tilgå serie-visningen ved at klikke på Redigér hele serien her" caption="Du kan tilgå serie-visningen ved at klikke på Redigér hele serien her" %} 
 
 Årsagen til, at der ved enkeltstående arrangementer også er en serie-visning (master), er, at det skal være muligt at omdanne enkeltstående arrangementer til serier.
