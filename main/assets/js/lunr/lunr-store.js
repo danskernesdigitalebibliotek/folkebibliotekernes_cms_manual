@@ -419,6 +419,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/kampagner/",
         "teaser": null
       },{
+        "title": "Arrangementer",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/indhold/listeside-arrangementer/",
+        "teaser": null
+      },{
         "title": "Artikler",
         "excerpt":" ","categories": [],
         "tags": [],
