@@ -426,7 +426,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Artikler",
-        "excerpt":" ","categories": [],
+        "excerpt":" ","categories": ["Generelt"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/listeside-artikler/",
         "teaser": null
