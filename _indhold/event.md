@@ -103,8 +103,6 @@ Arrangementer har pt ved oprettelse ingen Ticket category. Dette er for at tilgo
 Hvis dit arrangement kræver billet, skal du altså manuelt tilføje Ticket category.
 Det er muligt at tilføje flere Ticket categories, hvis dit arrangement har billetter i forskellige prisklasser.
 
-*Bemærk: Selve linket til billetkøb/billetudbyder skal du tilføje i sidebar-panelet.*
-
 ### Address
 Adresse, hvor arrangementet afholdes. Obligatorisk felt.
 Adresse-oplysninger indtastes pt manuelt.
