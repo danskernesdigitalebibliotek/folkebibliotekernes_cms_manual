@@ -259,7 +259,7 @@ Maksimalt kan der indsættes 32 materialer.
 I FB CMS' backend har alle arrangementer både en serie-visning **(master)** og en visning af det enkelte arrangement **(instans)**. 
 
 Det gælder også for arrangementer, som er enkelstående og ikke indgår i en serie - og det skal man lige vænne sig til.
- 
+
 Selve arrangementets indhold ligger i masteren. 
 
 Klikker du ind på den enkelte instans i backend’en (altså en af begivenhederne i serien), så fremstår den tom, fordi den trækker indholdet fra masteren. 
