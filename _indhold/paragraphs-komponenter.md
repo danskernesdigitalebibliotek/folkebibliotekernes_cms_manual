@@ -9,6 +9,8 @@ Klik på **+ Add** for at tilføje de paragraphs, som du ønsker, at din side sk
 
 {% include figure class="eightty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/1087bbdc-877c-41cc-9575-86d0b136762c" alt="Klik på + Add" caption="Klik på + Add" %}
 
+Paragraphs kan tilføjes både over og under allerede indsatte paragraphs.
+
 ## Beskrivelse af Paragraphs-komponenternes indhold og funktioner
 
 ### Accordion
@@ -101,7 +103,3 @@ Indsætter du fx 7 materialer, vil der kun blive vist 4. Du må så tilføje et 
 Du kan dog godt indsætte blot et, to eller tre materialer.
 
 Maksimalt kan der indsættes 32 materialer.
-
-
-
-*Bemærk: Paragraphs kan tilføjes både over og under allerede indsatte paragraphs.*
