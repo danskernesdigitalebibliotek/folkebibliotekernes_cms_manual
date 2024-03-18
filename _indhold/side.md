@@ -46,6 +46,8 @@ Hvis toggle-knappen er aktiveret, men du ikke skriver noget i Hero title-feltet,
 ### Paragraphs
 Du kan nu opbygge din sides indhold og udseende ved hjælp af Paragraphs-komponenterne.
 
+[Læs om Paragraphs-komponenterne og deres funktioner](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/paragraphs-komponenter/)
+
 Klik på **+ Add** for at tilføje de paragraphs, som du ønsker, at din side skal bestå af.
 
 Der er følgende Paragraphs-komponenter at vælge fra:
