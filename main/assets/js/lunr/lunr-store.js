@@ -438,7 +438,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Paragraphs Komponenterne",
-        "excerpt":" ","categories": ["Generelt"],
+        "excerpt":"Beskrivelse af Paragraphs-elementernes indhold/funktioner Accordion En type indhold med en liste af overskrifter stablet oven på hinanden. Når der klikkes på en overskrift, vil den enten åbne eller lukke en tilknyttet indholdsrude. Card grid – automatic Den automatiske variant af Card grid-komponenten kan automatisk trække spots for indhold ind på...","categories": ["Generelt"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/paragraphs-komponenter/",
         "teaser": null
