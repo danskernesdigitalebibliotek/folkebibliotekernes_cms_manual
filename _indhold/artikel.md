@@ -67,7 +67,7 @@ Der er følgende Paragraphs-komponenter at vælge fra:
 - Media(s)
 - Material grid automatic
 - Material grid manual
-- 
+
 
 ## Sidebar-panel
 
