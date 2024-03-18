@@ -438,7 +438,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Paragraphs Komponenterne",
-        "excerpt":"De komponenter, som du opbygger dit indhold i artikler, begivenheder og sider af, kaldes Paragraphs. Beskrivelse af Paragraphs-komponenternes indhold og funktioner Accordion En type indhold med en liste af overskrifter stablet oven på hinanden. Når der klikkes på en overskrift, vil den enten åbne eller lukke en tilknyttet indholdsrude. Card...","categories": ["Generelt"],
+        "excerpt":"De komponenter, som du opbygger dit indhold i artikler, begivenheder og sider af, kaldes Paragraphs. Klik på + Add for at tilføje de paragraphs, som du ønsker, at din side skal bestå af. Beskrivelse af Paragraphs-komponenternes indhold og funktioner Accordion En type indhold med en liste af overskrifter stablet oven...","categories": ["Generelt"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/paragraphs-komponenter/",
         "teaser": null
