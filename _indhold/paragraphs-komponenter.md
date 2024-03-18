@@ -7,7 +7,7 @@ De komponenter, som du opbygger dit indhold i artikler, begivenheder og sider af
 
 Klik på **+ Add** for at tilføje de paragraphs, som du ønsker, at din side skal bestå af.
 
-{% include figure class="eightty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/1087bbdc-877c-41cc-9575-86d0b136762c" alt="Klik på + Add" caption="Klik på + Add" %}
+{% include figure class="eightty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/e4d6ebdd-2d4a-44f4-9992-7d70ef05a726" alt="Klik på + Add" caption="Klik på + Add" %}
 
 Paragraphs kan tilføjes både over og under allerede indsatte paragraphs.
 
