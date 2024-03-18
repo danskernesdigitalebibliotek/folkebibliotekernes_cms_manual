@@ -3,7 +3,9 @@ title: "Paragraphs Komponenterne"
 category: "Generelt"
 ---
 
-## Beskrivelse af Paragraphs-elementernes indhold/funktioner
+De komponenter, som du opbygger dit indhold i artikler, begivenheder og sider af, kaldes **Paragraphs**.
+
+## Beskrivelse af Paragraphs-komponenternes indhold og funktioner
 
 ### Accordion
 En type indhold med en liste af overskrifter stablet oven på hinanden. Når der klikkes på en overskrift, vil den enten åbne eller lukke en tilknyttet indholdsrude.
