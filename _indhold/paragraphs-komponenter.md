@@ -5,6 +5,8 @@ category: "Generelt"
 
 De komponenter, som du opbygger dit indhold i artikler, begivenheder og sider af, kaldes **Paragraphs**.
 
+Klik på **+ Add** for at tilføje de paragraphs, som du ønsker, at din side skal bestå af.
+
 ## Beskrivelse af Paragraphs-komponenternes indhold og funktioner
 
 ### Accordion
