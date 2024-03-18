@@ -27,9 +27,9 @@ Integration ID”.
 |Feltnavn|Værdi|
 |---|---|
 |Domæne|`responder.wt-safetag.com`|
-|ID|Et tal der udleveres af DDF (henvendelse til Tue Gaston)|
+|ID|476651662471322 (der anvendes samme ID på alle biblioteker)|
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/1228c354-f4de-4547-b1a4-98e308c8d955" alt="MAPP indstillinger" caption="MAPP indstillinger" %} 
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/602f4804-e46b-4eb8-b211-0bb9096262d9" alt="MAPP indstillinger" caption="MAPP indstillinger" %} 
 
 ## Egenkontrol
 Tjek om der er forbindelse til Mapp. Bemærk! Det kan kun udføres fra et difts-site. Ikke fra et staging-site.
