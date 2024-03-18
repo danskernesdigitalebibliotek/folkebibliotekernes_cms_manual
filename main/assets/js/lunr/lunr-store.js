@@ -438,7 +438,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Paragraphs Komponenterne",
-        "excerpt":"De komponenter, som du opbygger dit indhold i artikler, begivenheder og sider af, kaldes Paragraphs. Klik på + Add for at tilføje de paragraphs, som du ønsker, at din side skal bestå af. Klik på + Add Beskrivelse af Paragraphs-komponenternes indhold og funktioner Accordion En type indhold med en liste...","categories": ["Generelt"],
+        "excerpt":"De komponenter, som du opbygger dit indhold i artikler, begivenheder og sider af, kaldes Paragraphs. Klik på + Add for at tilføje de paragraphs, som du ønsker, at din side skal bestå af. Klik på + Add Paragraphs kan tilføjes både over og under allerede indsatte paragraphs. Beskrivelse af Paragraphs-komponenternes...","categories": ["Generelt"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/paragraphs-komponenter/",
         "teaser": null
