@@ -52,7 +52,7 @@ Arrangementets indhold opbygges via et hovedindholdsfelt til venstre og et sideb
 - Hovedindholdsfeltet indeholder bl.a. Title, Recur type, Description, Ticket categories og Paragraphs.
 - Sidebar-panelet indeholder bl.a. State, Teaser text, Teaser image, Tagging, Planlægning mv.
 
-{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/4b59aa35-460a-4fec-a7e1-c23daa1c3bef" alt="Hovedindholdsfeltet i et event" caption="Hovedindholdsfeltet i et event" %} 
+{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/4b59aa35-460a-4fec-a7e1-c23daa1c3bef" alt="Hovedindholdsfelt til venstre, sidebar til højre" caption="Hovedindholdsfelt til venstre, sidebar til højre" %} 
 
 ## Opbygning af arrangements-indhold
 
