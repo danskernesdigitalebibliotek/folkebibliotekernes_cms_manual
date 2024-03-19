@@ -25,7 +25,9 @@ Folkebibliotekernes CMS tilbyder en række nye muligheder for at oprette **arran
 
 Arrangementsserier er nyttige, hvis du har tilbagevendende arrangementer, fx læseklubber, legestuer etc.
 
-Når du opretter et arrangement, skal du i **Recur Type**-feltet tage stilling til, om du vil oprette en enkeltstående event eller en serie. Uanset om du vil oprette et enkelt arrangement eller en serie, skal du altså vælge Event Series, når du opretter den.
+Når du opretter et arrangement, skal du i **Recur Type**-feltet tage stilling til, om du vil oprette en enkeltstående event eller en serie. 
+
+Uanset om du vil oprette et enkelt arrangement eller en serie, skal du altså vælge Arrangementer, når du opretter det.
 
 ## Enkeltstående arrangement
 Skal du kun oprette et enkelt arrangement (ikke en serie), vælges **Custom/Single Event** i dropdown under
