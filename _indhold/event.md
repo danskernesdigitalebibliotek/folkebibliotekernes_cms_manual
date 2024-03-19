@@ -16,7 +16,8 @@ Klik på **Tilføj indhold** i øverste højre hjørne:
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/3acbbb9d-734d-4423-8621-fad6d257d997" alt="Tilføj indhold" caption="Tilføj indhold" %} 
 
 Klik på Arrangementer:
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/148b9ab9-6ca5-4a79-bd2c-5697afcb8772" alt="Klik på Arrangementer" caption="Klik på Arrangementer" %} 
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/3f664866-4011-48e6-9e33-a0a2789a85c2" alt="Klik på Arrangementer" caption="Klik på Arrangementer" %} 
+
 
 ## Enkeltstående eller gentagende arrangement?
 
