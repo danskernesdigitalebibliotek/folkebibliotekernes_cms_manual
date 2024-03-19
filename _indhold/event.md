@@ -21,7 +21,9 @@ Klik på Arrangementer:
 
 ## Enkeltstående eller gentagende arrangement?
 
-Folkebibliotekernes CMS tilbyder en række nye muligheder for at oprette arrangementsserier. Arrangementsserier er nyttige, hvis du har tilbagevendende arrangementer, fx læseklubber, legestuer etc.
+Folkebibliotekernes CMS tilbyder en række nye muligheder for at oprette **arrangementsserier**. 
+
+Arrangementsserier er nyttige, hvis du har tilbagevendende arrangementer, fx læseklubber, legestuer etc.
 
 Når du opretter et arrangement, skal du i **Recur Type**-feltet tage stilling til, om du vil oprette en enkeltstående event eller en serie. Uanset om du vil oprette et enkelt arrangement eller en serie, skal du altså vælge Event Series, når du opretter den.
 
