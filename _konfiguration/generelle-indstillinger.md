@@ -20,7 +20,7 @@ Eller åbn via URL (udskift mit-domænenavn.dk):\
 De generelle biblioteksindstillinger skal udfyldes, så de matcher de forretningsgange, I benytter jer af på biblioteket. De er ofte udtrykt i via indstillinger i Cicero. Sæt dig derfor sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét.
 
 ## SMS notifikationer
-{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/aab48f76-0977-4f84-8be0-ab1de803330e" alt="SMS notifikationer" caption="SMS notifikationer" %} 
+{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/aab48f76-0977-4f84-8be0-ab1de803330e" alt="Angiv om I sender SMS notifikationer" caption="Angiv om I sender SMS notifikationer" %} 
 
 Nogle kommuner tilbyder at sende SMS notifikationer til brugerne om deres lån og reserveringer, mens andre kommuner af økonomiske hensyn har fravalgt dette tilbud. SMS beskederne sendes fra FBS. 
 
