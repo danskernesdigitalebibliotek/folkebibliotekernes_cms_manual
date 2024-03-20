@@ -157,7 +157,7 @@ Vil du tilknytte flere tags, skal de adskilles af et komma.
 
 ## Udgivet/Gem
 
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/eb881bd7-8bf9-41b0-86b5-9f557008d720" alt="Gem og udgiv findes i øverste højre hjørne" caption="Gem og udgiv findes i øverste højre hjørne" %} 
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/eb881bd7-8bf9-41b0-86b5-9f557008d720" alt="Gem findes i øverste højre hjørne" caption="Gem findes i øverste højre hjørne" %} 
 
 Tryk på **Gem** for at gemme/publicere arrangementet.
 
@@ -169,7 +169,7 @@ Det er muligt at gemme arrangementet uden at publicere ved at slukke for **den g
 
 I FB CMS' backend har alle arrangementer både en serie-visning **(master)** og en visning af det enkelte arrangement **(instans)**. 
 
-Det gælder også for arrangementer, som er enkelstående og ikke indgår i en serie - og det skal man lige vænne sig til.
+Det gælder også for arrangementer, som er enkeltstående og ikke indgår i en serie - og det skal man lige vænne sig til.
 
 Selve arrangementets indhold ligger i masteren. 
 
