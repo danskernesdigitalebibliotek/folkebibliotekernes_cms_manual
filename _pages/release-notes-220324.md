@@ -1,6 +1,8 @@
 ---
 permalink: /release-notes-220324
 title:  "Release Notes 22-03-2024"
+sidebar: true
+nav: "overblik"
 ---
 
 ## Nye features
