@@ -85,8 +85,8 @@ En canonical URL bør indsættes, hvis indholdet er blevet duplikeret fra andre 
 Skal være en ekstern URL som f.eks. http://example.com.
 
 ## Gennemse/Gem
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/0d43f364-aa54-4f09-8075-a2c77e54fe96)
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/08aff2c9-f12c-4e92-8783-48fc5fb58ffa" alt="Opret Article siden" caption="Opret Article siden" %} 
+
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/08aff2c9-f12c-4e92-8783-48fc5fb58ffa" alt="Opret Article siden" caption="Opret Article siden" %} 
 
 Det er muligt via **Gennemse** at vurdere artiklens slutbruger-visning inden publicering.
 Tryk på **Gem** for at gemme/publicere artiklen.
