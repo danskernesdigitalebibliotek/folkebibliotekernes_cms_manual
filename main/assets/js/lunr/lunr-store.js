@@ -620,7 +620,7 @@ var store = [{
         "title": "Release Notes 22-03-2024",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": [],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/release-notes-220324",
+        "url": "/folkebibliotekernes_cms_manual/main/release-notes/release-notes-220324/",
         "teaser": null
       },{
         "title": "Opgave 1: OpenID Connect (Adgangsplatformen)",
