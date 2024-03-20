@@ -7,12 +7,11 @@ title: "Reserveringspause"
 
 INDSÆT BILLEDE
 
-## Tilret teksten for Pausefunktion
-
-INDSÆT BILLEDE
+## Tilret teksten på siden Pausefunktion
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2d257bd1-7cce-4b53-8fba-f7439fa64445" alt="Find siden Pausefunktion under indhold og tilret teksten efter jeres behov" caption="Find siden Pausefunktion under indhold og tilret teksten efter jeres behov" %} 
 
 Standardteksten må gerne tilrettes:
-1. Find siden der hedder **Pausefuktion**. Den hedder også node/8.
+1. Find siden der hedder **Pausefuktion**. Den kan fremsøges under **Indhold**.
 2. Tryk på **Rediger siden** og tilret teksten efter ønske.
 3. Tryk Gem
 
