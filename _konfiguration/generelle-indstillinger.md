@@ -93,7 +93,7 @@ Materialer, der snart skal afleveres, vises fremhævet på brugerens dashboard. 
 
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2ac3dcb8-8c9a-4b57-a844-dc5f6663fafc" alt="Sådan fremhæves materialer der snart skal afleveres på dashboard" caption="Sådan fremhæves materialer der snart skal afleveres på dashboard" %} 
 
-Det er vigtigt at denne indstilling passer sammen med FBS-indstillingen "Periode hvor lån kan fornyes", således at I ungår at opfordre til at forny lån, der ikke må fornys.
+Det er vigtigt at denne indstilling passer sammen med FBS-indstillingen "Periode hvor lån kan fornyes", så I undgår at hjemmesiden opfordre til at forny lån, der ikke kan/må fornys.
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/b2d1ab40-8592-483b-ac68-7698e5a9d411" alt="Det er vigtigt at synkronisere med FBS-indstillingen 'Periode hvor lån kan fornyes'" caption="Det er vigtigt at synkronisere med FBS-indstillingen 'Periode hvor lån kan fornyes'" %} 
 
