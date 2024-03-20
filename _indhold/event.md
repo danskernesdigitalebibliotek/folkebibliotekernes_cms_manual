@@ -5,7 +5,7 @@ weight: 1
 emneord:
 - "X Mangler tekst"
 ---
-Når du skal oprette et arrangement i FB CMS, skal du vælge **Arrangementer**. 
+Når du skal oprette et arrangement i FB CMS, skal du vælge **Arrangement(er)**. 
 
 Det gælder uanset om du vil oprette et enkeltstående arrangement eller en serie af arrangementer.
 
@@ -15,8 +15,8 @@ I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/
 Klik på **Tilføj indhold** i øverste højre hjørne:
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/3acbbb9d-734d-4423-8621-fad6d257d997" alt="Tilføj indhold" caption="Tilføj indhold" %} 
 
-Klik på Arrangementer:
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/3f664866-4011-48e6-9e33-a0a2789a85c2" alt="Klik på Arrangementer" caption="Klik på Arrangementer" %} 
+Klik på Arrangement(er):
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/5dd4e1f9-4b8d-488b-b850-82c1c3cd506f" alt="Klik på Arrangement(er)" caption="Klik på Arrangement(er)" %} 
 
 
 ## Enkeltstående eller gentagende arrangement?
@@ -26,8 +26,6 @@ Folkebibliotekernes CMS tilbyder en række nye muligheder for at oprette **arran
 Arrangementsserier er nyttige, hvis du har tilbagevendende arrangementer, fx læseklubber, legestuer etc.
 
 Når du opretter et arrangement, skal du i **Recur Type**-feltet tage stilling til, om du vil oprette en enkeltstående event eller en serie. 
-
-Uanset om du vil oprette et enkelt arrangement eller en serie, skal du altså vælge Arrangementer, når du opretter det.
 
 ## Enkeltstående arrangement
 Skal du kun oprette et enkelt arrangement (ikke en serie), vælges **Custom/Single Event** i dropdown under
