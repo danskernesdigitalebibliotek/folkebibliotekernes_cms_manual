@@ -161,7 +161,7 @@ Vil du tilknytte flere tags, skal de adskilles af et komma.
 
 Tryk på **Gem** for at gemme/publicere arrangementet.
 
-Det er muligt at gemme arrangementet uden at publicere ved slukke for **den grønne knap** ved **Udgivet**.
+Det er muligt at gemme arrangementet uden at publicere ved at slukke for **den grønne knap** ved **Udgivet**.
 
 
 
