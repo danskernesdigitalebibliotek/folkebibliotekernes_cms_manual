@@ -40,8 +40,8 @@ Teaser text tilføjes i sidebar-panelet.
 Hvis du ønsker, at artiklen skal have en anden forfatter-byline end dit navn – fx Redaktionen - kan du aktivere denne knap og indtaste en valgfri byline her.
 
 ### Categories
-Kategori, fx ’Vi anbefaler’, kan vælges i dropdown-menu.
-XXXDu opretter selv dine kategorier andetsteds i backend’en.
+Kategori, fx ’Litteratur’ eller ’Digitalt’, kan vælges i dropdown-menu.
+Du opretter selv dine kategorier via **Struktur > Taksonomi**
 
 ### Tags
 Her kan du tilknytte valgfrie ’tags’, emneord, til din artikel. Vil du tilknytte flere tags, skal de adskilles af et komma.
