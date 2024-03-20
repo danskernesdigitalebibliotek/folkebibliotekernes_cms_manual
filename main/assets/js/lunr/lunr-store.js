@@ -347,6 +347,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/emneord/x-mangler-tekst/",
         "teaser": null
       },{
+        "title": "Opret arrangement",
+        "excerpt":"Når du skal oprette et arrangement i FB CMS, skal du vælge Arrangement(er). Det gælder uanset om du vil oprette et enkeltstående arrangement eller en serie af arrangementer. Sådan opretter du et arrangement I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk) Klik på Tilføj indhold i øverste højre hjørne: Tilføj indhold Klik...","categories": ["Indholdstyper"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/indhold/arrangement/",
+        "teaser": null
+      },{
         "title": "Opret artikel",
         "excerpt":"Artikel svarer til den indholdstype, der i det gamle CMS hed ”Nyhed”. Sådan opretter du en artikel I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit- domænenavn.dk) Klik på Tilføj indhold i øverste højre hjørne: Tilføj indhold Klik på Article: Klik på Article Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-panel...","categories": ["Indholdstyper"],
         "tags": [],
@@ -369,12 +375,6 @@ var store = [{
         "excerpt":"CQL-søgestrenge bruges fx til at trække materialer ind i den paragraph, der hedder Material grid automatic. Sådan opretter du nemt en CQL-søgestreng CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion og kopiere søgestrengen derfra. Klik på Avanceret søgning. Klik på Avanceret søgning Lav din søgning...","categories": ["Generelt"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/cql-soegestrenge/",
-        "teaser": null
-      },{
-        "title": "Opret event",
-        "excerpt":"Når du skal oprette et arrangement i FB CMS, skal du vælge Arrangement(er). Det gælder uanset om du vil oprette et enkeltstående arrangement eller en serie af arrangementer. Sådan opretter du et arrangement I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk) Klik på Tilføj indhold i øverste højre hjørne: Tilføj indhold Klik...","categories": ["Indholdstyper"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/indhold/event/",
         "teaser": null
       },{
         "title": "Faste sider",
