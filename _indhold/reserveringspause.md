@@ -3,7 +3,7 @@ title: "Reserveringspause"
 ---
 **Pausefunktion** er en informationside om at sætte sine reserveringer på pause. Det er en standardside eller "fast side".
 
-**På brugernes reserveringsoversigt, er der et link til denne side.**
+**På brugernes reserveringsoversigt, er der et link til siden Pausefunktion.**
 
 INDSÆT BILLEDE
 
