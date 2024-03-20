@@ -86,10 +86,7 @@ Skal være en ekstern URL som f.eks. http://example.com.
 
 ## Gennemse/Gem
 
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/08aff2c9-f12c-4e92-8783-48fc5fb58ffa" alt="Opret Article siden" caption="Opret Article siden" %} 
-
 Det er muligt via **Gennemse** at vurdere artiklens slutbruger-visning inden publicering.
-Tryk på **Gem** for at gemme/publicere artiklen.
+Tryk **Gem** for at gemme/publicere artiklen.
 
-
-
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/08aff2c9-f12c-4e92-8783-48fc5fb58ffa" alt="Kli på Gennemse eller Gem" caption="Klik på Gennemse eller Gem" %} 
