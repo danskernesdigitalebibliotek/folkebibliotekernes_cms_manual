@@ -13,10 +13,10 @@ Det gælder uanset om du vil oprette et enkeltstående arrangement eller en seri
 I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/content` (udskift mit-domænenavn.dk)
 
 Klik på **Tilføj indhold** i øverste højre hjørne:
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/3acbbb9d-734d-4423-8621-fad6d257d997" alt="Tilføj indhold" caption="Tilføj indhold" %} 
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/3acbbb9d-734d-4423-8621-fad6d257d997" alt="Tilføj indhold" caption="Tilføj indhold" %} 
 
 Klik på Arrangement(er):
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/5dd4e1f9-4b8d-488b-b850-82c1c3cd506f" alt="Klik på Arrangement(er)" caption="Klik på Arrangement(er)" %} 
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/5dd4e1f9-4b8d-488b-b850-82c1c3cd506f" alt="Klik på Arrangement(er)" caption="Klik på Arrangement(er)" %} 
 
 
 ## Enkeltstående eller gentagende arrangement?
@@ -148,7 +148,7 @@ Teaserbillede vælges via knappen **Tilføj media**. Teaserbillede er dog ikke p
 
 ### Categories
 Kategori, fx ’Litteratur’ eller ’Digitalt’, kan vælges i dropdown-menu.
-Du opretter selv dine kategorier andetsteds i backend’en. XX
+Du opretter selv dine kategorier via **Struktur > Taksonomi**
 
 ### Tags
 Her kan du tilknytte valgfrie ’tags’, emneord, til dit arrangement.
