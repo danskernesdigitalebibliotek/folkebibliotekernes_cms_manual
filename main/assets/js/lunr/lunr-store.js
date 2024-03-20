@@ -443,6 +443,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/paragraphs-komponenter/",
         "teaser": null
       },{
+        "title": "Pausefunktion",
+        "excerpt":"Pausefunktion er en informationside om at sætte sine reserveringer på pause. Det er en standardside eller “fast side”. På brugernes reserveringsoversigt, er der et link til siden Pausefunktion. INDSÆT BILLEDE Tilret teksten på siden Pausefunktion Find siden Pausefunktion under indhold og tilret teksten efter jeres behov Standardteksten må gerne tilrettes:...","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/indhold/pausefunktion/",
+        "teaser": null
+      },{
         "title": "Privatlivspolitik",
         "excerpt":"Privatlivspolitik (node/10) - Skal linkes til fra servicemenuen i footeren under “Behandling af persondata”. Denne er på nuværende tidspunkt hardcoded, hvilket rettes i kommende release. Det ønskes at titlen på linket skal være “Privatlivspolitik” så det matcher “Privatlivspolitik” siden. Der linkes til denne side under “Delete patron link” på /admin/config/dpl-library-agency/patron-page-settings...","categories": [],
         "tags": [],
@@ -453,12 +459,6 @@ var store = [{
         "excerpt":"Reglement (node/11) - Der linkes på nuværende tidspunkt ikke til denne side nogen steder. Det er oplagt at linke til denne side fra brugeroprettelses siden. Det ville også give mening at linke til reglementet fra servicemenuen. Menupunktet “Servicedeklaration” kan erstattes med “Reglement”. Se eksempel på Reglement DPL CMS (reload.dk) Det...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/reglement/",
-        "teaser": null
-      },{
-        "title": "Reserveringspause",
-        "excerpt":"Pausefunktion er en informationside om at sætte sine reserveringer på pause. Det er en standardside eller “fast side”. På brugernes reserveringsoversigt, er der et link til siden Pausefunktion. INDSÆT BILLEDE Tilret teksten på siden Pausefunktion Find siden Pausefunktion under indhold og tilret teksten efter jeres behov Standardteksten må gerne tilrettes:...","categories": [],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/indhold/reserveringspause/",
         "teaser": null
       },{
         "title": "Opret side",
