@@ -17,8 +17,15 @@ Standardteksten må gerne tilrettes:
 
 ## Erstat standardsiden for Pausefuktion med en anden side
 
-Er du kommet til at slette siden Pausefunktion, kan du oprette en ny side, og få linket til at pege på den.\
-[Registrer en selvvalgt Pausefunktion side](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/generelle-indstillinger/)
+Er du kommet til at slette siden Pausefunktion, kan du oprette en ny side, og få linket fra reserveringsoversigten til at pege på den.\
+I topmenuen klik på Indstillinger > Biblioteksindstillinger > Generelle indstillinger
+
+Eller åbn via URL (udskift mit-domænenavn.dk):
+https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings
+
+Find og udfyld feltet **Link til side om reserveringspause** med navnet på den side, som du har oprettet.
+
+Læs mere om [Registrer en selvvalgt Pausefunktion side](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/generelle-indstillinger/)
 
 ## Pausefuktion standardteksten
 Har du mistet standardteksten, så er den her:
