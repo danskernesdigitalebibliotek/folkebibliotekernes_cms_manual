@@ -92,4 +92,4 @@ Det er også muligt via **Gennemse** at vurdere artiklens slutbruger-visning ind
 
 Du kan gemme artiklen uden at publicere ved slukke for den grønne knap ved **Udgivet**.
 
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/70d09f84-7cd5-4547-8d6c-9fcb42fa7504" alt="Gem og udgiv findes i øverste højre hjørne" caption="Gem og udgiv findes i øverste højre hjørne" %} 
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/70d09f84-7cd5-4547-8d6c-9fcb42fa7504" alt="Gem findes i øverste højre hjørne" caption="Gem findes i øverste højre hjørne" %} 
