@@ -1,5 +1,6 @@
 ---
 title:  "Release Notes 22-03-2024"
+category: "Release Notes"
 ---
 
 ## Nye features
