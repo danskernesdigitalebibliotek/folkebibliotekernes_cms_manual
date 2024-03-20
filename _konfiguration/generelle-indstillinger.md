@@ -42,7 +42,7 @@ Efter I har gemt bliver de nye interesseperiode tilgængelige i **Default intere
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/800a5193-e413-473f-8dd6-4e0cb78a53b5" alt="Default interesseperiode for reserveringer" caption="Default interesseperiode for reserveringer" %} 
  
 ## Tillad sletning af opfyldte reserveringer
-{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/25a42b99-47fa-468d-af1e-b5ad3dc11667" alt="Angiv her, om I ønsker at tillade sletning af opfyldte reserveringer" caption="Angiv her, om I ønsker at tillade sletning af opfyldte reserveringer" %} 
+{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/25a42b99-47fa-468d-af1e-b5ad3dc11667" alt="Angiv her, om I vil tillade at brugerne sletter opfyldte reserveringer" caption="Angiv her, om I vil tillade at brugerne sletter opfyldte reserveringer" %} 
 
 Her vælger I, om brugerne må slette en reservering, der er opfyldt. Som standard er det ikke tilladt. Hvis det skal være tilladt, skal det aktiveres her.
 
