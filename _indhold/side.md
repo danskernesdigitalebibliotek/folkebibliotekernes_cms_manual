@@ -90,8 +90,10 @@ Her kan du vælge at aktivere knapperne **Promoted to front page** og/eller **Kl
 
 ## Udgivet/Gem
 
+Tryk **Gem** for at gemme/publicere siden.
+
+Det er også muligt via **Gennemse** at vurdere sidens slutbruger-visning inden publicering.
+
+Du kan gemme siden uden at publicere ved slukke for den grønne knap ved **Udgivet**.
+
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/aa1d35c3-168f-4648-b371-d1120e0c2f39" alt="Gem og udgiv findes i øverste højre hjørne" caption="Gem og udgiv findes i øverste højre hjørne" %} 
-
-Tryk på **Gem** for at gemme/publicere siden.
-
-Det er muligt at gemme siden uden at publicere ved slukke for **den grønne knap** ved **Udgivet**.
