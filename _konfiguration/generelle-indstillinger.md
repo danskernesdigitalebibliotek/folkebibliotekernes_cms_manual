@@ -46,8 +46,8 @@ Efter I har gemt bliver de nye interesseperiode tilgængelige i **Default intere
 
 Her vælger I, om brugerne må slette en reservering, der er opfyldt. Som standard er det ikke tilladt. Hvis det skal være tilladt, skal det aktiveres her.
 
-## Link til Min side på eReolen
-{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/6f4990b1-80a1-48ce-8a48-778eeb764b58" alt="Link til Min side på eReolen" caption="Link til Min side på eReolen" %} 
+## Link til 'Min side' på eReolen
+{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/6f4990b1-80a1-48ce-8a48-778eeb764b58" alt="Link til 'Min side' på eReolen" caption="Link til Min side på eReolen" %} 
 
 Er som standard korrekt udfyldt. Den skal der ikke pilles ved.
 
