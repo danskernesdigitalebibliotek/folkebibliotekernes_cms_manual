@@ -1,16 +1,4 @@
 var store = [{
-        "title": "Administrator",
-        "excerpt":"Administrator  ","categories": [],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/audience/administrator/",
-        "teaser": null
-      },{
-        "title": "Redaktør",
-        "excerpt":"Redaktør  ","categories": [],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/audience/redaktoer/",
-        "teaser": null
-      },{
         "title": "Opgave 10: Opret søge- og visningsprofil i VIP",
         "excerpt":"Hjemmesiden henter data fra databrønden i mange forskellige sammenhænge, og disse sammenhænge kan overordnet inddeles i søgning og visning. Folkebibliotekernes CMS kræver to brøndprofiler i VIP-basen - en søgeprofil og en visningsprofil. I kan allerede nu bygge de to brøndprofiler. I må selv bestemme hvad de skal hedde. Kald dem...","categories": ["Overgangsaktiviter"],
         "tags": [],
@@ -621,6 +609,18 @@ var store = [{
         "excerpt":"Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på en materialetype. Filtrerer man på ”Online lydbog”, da vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”. Fra DDB CMS er vi vant...","categories": ["Søgning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/nye-features/vaerkvisningssiden/",
+        "teaser": null
+      },{
+        "title": "Release Notes",
+        "excerpt":"   Release Notes 22-03-2024  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/release-notes/",
+        "teaser": null
+      },{
+        "title": "Release Notes 22-03-2024",
+        "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/release-notes-220324",
         "teaser": null
       },{
         "title": "Opgave 1: OpenID Connect (Adgangsplatformen)",
