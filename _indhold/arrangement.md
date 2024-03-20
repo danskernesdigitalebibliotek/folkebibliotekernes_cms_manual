@@ -1,5 +1,5 @@
 ---
-title: "Opret event"
+title: "Opret arrangement"
 category: "Indholdstyper"
 weight: 1
 emneord:
