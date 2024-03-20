@@ -15,7 +15,7 @@ Tanken er, at I bruger standardsiderne, men tilretter teksterne efter lokale for
 - [Artikler](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/listeside-artikler/)
 - [Biblioteker](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/listeside-biblioteker/)
 - [Brugeroprettelsesside](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/brugeroprettelsesside/)
-- [Pausefunktion](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/reserveringspause/)
+- [Pausefunktion](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/pausefunktion/)
 - [Privatlivspolitik](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/privatlivspolitik/)
 - [Reglement](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/reglement/)
 - [Takster](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/takster/)
