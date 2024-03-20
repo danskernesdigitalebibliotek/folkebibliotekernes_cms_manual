@@ -33,7 +33,6 @@ algolia:
   nodes_to_index: 'h1,h2,h3,h4,h5,h6,p,blockquote,li'
   files_to_exclude:
    - _category/*
-   - _audience/*
    - _emneord/*
    - _pages/404.md
 
@@ -91,7 +90,7 @@ collections:
   bliv-klar-til-folkebibliotekernes-cms:
     output: true
     permalink: /:collection/:path/
-  audience:
+  release-notes:
     output: true
     permalink: /:collection/:path/
   category:
@@ -176,16 +175,18 @@ defaults:
       share: false
       comments: false
       sidebar: true
-  # _audience
+  # _release-notes
   - scope:
       path: ""
-      type: audience
+      type: release-notes
     values:
       layout: single
+      classes: wide
       read_time: false
       author_profile: false
       share: false
       comments: false
+      sidebar: true
   # _category
   - scope:
       path: ""
