@@ -182,6 +182,7 @@ defaults:
     values:
       layout: single
       classes: wide
+      toc: false
       read_time: false
       author_profile: false
       share: false
