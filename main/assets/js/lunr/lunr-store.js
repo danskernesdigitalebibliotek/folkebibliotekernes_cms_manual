@@ -143,6 +143,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/category/overgangsaktiviteter/",
         "teaser": null
       },{
+        "title": "Release Notes",
+        "excerpt":"Release Notes  ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/category/release-notes/",
+        "teaser": null
+      },{
         "title": "Søgning",
         "excerpt":"Søgning  ","categories": [],
         "tags": [],
