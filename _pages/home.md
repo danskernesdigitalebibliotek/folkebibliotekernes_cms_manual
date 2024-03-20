@@ -11,6 +11,8 @@ header:
       url: "/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf"
     - label: "Hostingplaner"
       url: "https://detdigitalefolkebibliotek.dk/hostingplaner"
+    - label: "Release Notes"
+      url: "/release-notes/"
 
 excerpt: "Manual, tidsplan og information om Folkebibliotekernes CMS. Sitets vedligeholdes af DDF og udbygges løbende."
 
