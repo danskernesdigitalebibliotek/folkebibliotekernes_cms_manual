@@ -90,4 +90,6 @@ Tryk **Gem** for at gemme/publicere artiklen.
 
 Det er også muligt via **Gennemse** at vurdere artiklens slutbruger-visning inden publicering.
 
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/08aff2c9-f12c-4e92-8783-48fc5fb58ffa" alt="Klik på Gennemse eller Gem" caption="Klik på Gennemse eller Gem" %} 
+Du kan gemme siden uden at publicere ved slukke for den grønne knap ved **Udgivet**.
+
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/70d09f84-7cd5-4547-8d6c-9fcb42fa7504" alt="Klik på Gennemse eller Gem" caption="Klik på Gennemse eller Gem" %} 
