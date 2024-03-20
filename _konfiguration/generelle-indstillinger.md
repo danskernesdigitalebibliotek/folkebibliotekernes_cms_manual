@@ -20,6 +20,9 @@ Eller åbn via URL (udskift mit-domænenavn.dk):\
 De generelle biblioteksindstillinger skal udfyldes, så de matcher de forretningsgange, I benytter jer af på biblioteket. De er ofte udtrykt i via indstillinger i Cicero. Sæt dig derfor sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét.
 
 ## SMS notifikationer
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/aab48f76-0977-4f84-8be0-ab1de803330e)
+{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/aab48f76-0977-4f84-8be0-ab1de803330e" alt="SMS notifikationer" caption="SMS notifikationer" %} 
+
 Nogle kommuner tilbyder at sende SMS notifikationer til brugerne om deres lån og reserveringer, mens andre kommuner af økonomiske hensyn har fravalgt dette tilbud. SMS beskederne sendes fra FBS. 
 
 Her skal I angive, om I tilbyder SMS notifikationer eller ej. Hvis denne indstilling er grøn, betyder det, at slutbrugerne får mulighed for at tilvælge SMS i deres brugerprofil.
@@ -40,9 +43,13 @@ Efter I har gemt bliver de nye interesseperiode tilgængelige i **Default intere
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/800a5193-e413-473f-8dd6-4e0cb78a53b5" alt="Default interesseperiode for reserveringer" caption="Default interesseperiode for reserveringer" %} 
  
 ## Tillad sletning af opfyldte reserveringer
+{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/25a42b99-47fa-468d-af1e-b5ad3dc11667" alt="Tillad sletning af opfyldte reserveringer" caption="Tillad sletning af opfyldte reserveringer" %} 
+
 Her vælger I, om brugerne må slette en reservering, der er opfyldt. Som standard er det ikke tilladt. Hvis det skal være tilladt, skal det aktiveres her.
 
 ## Link til Min side på eReolen
+{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/6f4990b1-80a1-48ce-8a48-778eeb764b58" alt="Link til Min side på eReolen" caption="Link til Min side på eReolen" %} 
+
 Er som standard korrekt udfyldt. Den skal der ikke pilles ved.
 
 |Feltnavn|Værdi|
@@ -50,6 +57,8 @@ Er som standard korrekt udfyldt. Den skal der ikke pilles ved.
 |Link til Min side på eReolen|https://ereolen.dk/user/me|
 
 ## Link til eReolen
+{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/567dd09d-2d0a-47c1-8e17-8881ed1394a6" alt="Link til eReolen" caption="Link til eReolen" %} 
+
 Er som standard korrekt udfyldt. Den skal der ikke pilles ved.
 
 |Feltnavn|Værdi|
@@ -57,15 +66,19 @@ Er som standard korrekt udfyldt. Den skal der ikke pilles ved.
 |Link til eReolen|https://ereolen.dk|
 
 ## Link til side om reserveringspause
-XX Link til faste sider XX
+{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/4cc4467c-736d-4215-982b-7fa22e3c3067" alt="Link til side om reserveringspause" caption="Link til side om reserveringspause" %} 
 
-Som standard er feltet ikke udfyldt. Det skal udfyldes. Ellers vises der et uvirksomt link til jeres brugere, når de benytter pausefuktionen.
+`Pausefunktion` er navnet på en [fast side](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/faste-sider/) som Folkebibliotekernes CMS leveres med.
+Ønsker I ikke at bruge pausefunktion-standardsiden, kan man her udfylde med URL til en alternativ side.
 
 |Feltnavn|Anbefalet værdi|
 |---|---|
-|Link til side om reserveringspause|URL til side om Pausefunktionen. Siden skal I selv oprette.|
+|Link til side om reserveringspause|URL til side om Pausefunktionen. Standardværdien er `/pausefunktion`|
 
-## Blokeret bruger -  Link i modal til blokeret bruger (til fx Mit betalingsoverblik)
+## Link til åbningstider
+{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/99ecacda-9899-4b3a-9728-06f4d1e0e79e" alt="Link til åbningstider" caption="Link til åbningstider" %} 
+
+## Blokeret bruger -  Link i modal til blokeret bruger (til fx Mit betalingsoverblik) XX SKAL FLYTTES XX
 Hvis en bruger er blokeret pga. af overskredet gebyrgrænse vises en pop-up til brugeren ved login. I den pop-up har I mulighed for at tilføje link til jeres betalingsløsning - f. eks. Mit betalingsoverblik. Det er ikke påkrævet at udfylde feltet. Hvis det ikke er udfyldt, vises der bare ingen link i pop-op vinduet. XX uddybende tekst om betalingsmuligheder XX
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2585e42e-af01-44cc-a543-4df5494c22a7" alt="Pop-up, der vises til blokerede brugere med overskredet gebyrgrænse. I bestemmer, hvor linket markeret med rødt peger hen, eller om det overhovedet skal vises." caption="Pop-up, der vises til blokerede brugere med overskredet gebyrgrænse. I bestemmer, hvor linket markeret med rødt peger hen, eller om det overhovedet skal vises." %} 
@@ -75,6 +88,8 @@ Hvis en bruger er blokeret pga. af overskredet gebyrgrænse vises en pop-up til 
 |Link i modal til blokeret bruger|Link til betalingsside / alternativ side om betalingsmuligheder. Hvis feltet ikke udfyldes, skjules linket.|
 
 ## Advarsel om at udløbsdato nærmer sig
+{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c63dc258-09e6-4456-8791-e3444e7c74f6" alt="Advarsel om at udløbsdato nærmer sig" caption="Advarsel om at udløbsdato nærmer sig" %} 
+
 Materialer, der snart skal afleveres, vises fremhævet på brugerens dashboard. I bestemmer, hvor mange dage før aflevringsfristen at denne fremhævning starter.
 
 
@@ -85,8 +100,19 @@ Det er vigtigt at denne indstilling passer sammen med FBS-indstillingen "Periode
 
 Hvis "Periode hvor lån kan fornys" i FBS er sat til 7, da skal denne indstilling sættes til 6 eller mindre.
 
+## Blacklistede filialer
+Mange biblioteker har filialer, hvis materialer ikke er tilgængelige for slutbrugerne (fx på gymnasier,
+hospitaler, fængsler, plejehjem), og disse skal skjules på hjemmesiden. Dette gøres ved at blackliste
+de pågældende filialer.
+
+- Blacklist i **Søgning** hvis filialens materialer ikke skal vises i søgeresultater.
+- Blacklist i **Tilgængelighhed** hvis filialens materialer ikke skal indgå  i beholdningsvisning og heller ikke indgå når tilgængelighed beregnes
+- Blacklist i **Afhentningsbibliotek** så det ikke bliver muligt for slutbrugere at vælge filialen som afhentningsbibliotek 
+
 ## FBI Profiles
 Inden I kan udfylde disse felter skal I have oprettet de to påkrævede [søge- og visningsprofiler i VIP]({{ site.baseurl }}{% link _bliv-klar-til-folkebibliotekernes-cms/10vip-profiler.md %}).
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d8edea7f-ba6c-4b1e-b1b1-47487c9630e0" alt="Udfyld de to øverste felter med navnet på søgeprofilen. Nederste felt udfyldes med navnet på visningsprofilen" caption="Udfyld de to øverste felter med navnet på søgeprofilen. Nederste felt udfyldes med navnet på visningsprofilen" %} 
 
 ### Anbefalede indstillinger for FBI Profiles
 
@@ -96,15 +122,8 @@ Inden I kan udfylde disse felter skal I have oprettet de to påkrævede [søge- 
 |Search profile|Navnet på jeres **søgeprofil** i VIP|
 |Material profile|Navnet på jeres **visningsprofil** i VIP|
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d8edea7f-ba6c-4b1e-b1b1-47487c9630e0" alt="Udfyld de to øverste felter med navnet på søgeprofilen. Nederste felt udfyldes med navnet på visningsprofilen" caption="Udfyld de to øverste felter med navnet på søgeprofilen. Nederste felt udfyldes med navnet på visningsprofilen" %} 
 
-## Blacklistede filialer
-Mange biblioteker har filialer, hvis materialer ikke er tilgængelige for slutbrugerne (fx på gymnasier,
-hospitaler, fængsler, plejehjem), og disse skal skjules på hjemmesiden. Dette gøres ved at blackliste
-de pågældende filialer.
 
-- Blacklist i **Søgning** hvis filialens materialer ikke skal vises i søgeresultater.
-- Blacklist i **Tilgængelighhed** hvis filialens materialer ikke skal indgå  i beholdningsvisning og heller ikke indgå når tilgængelighed beregnes
-- Blacklist i **Afhentningsbibliotek** så det ikke bliver muligt for slutbrugere at vælge filialen som afhentningsbibliotek 
+
 
 
