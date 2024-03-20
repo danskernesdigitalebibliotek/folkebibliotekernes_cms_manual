@@ -1,5 +1,5 @@
 ---
-title: "Reserveringspause"
+title: "Pausefunktion"
 ---
 **Pausefunktion** er en informationside om at sætte sine reserveringer på pause. Det er en standardside eller "fast side".
 
