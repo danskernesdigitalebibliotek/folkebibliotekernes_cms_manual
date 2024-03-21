@@ -12,16 +12,16 @@ I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/
 domænenavn.dk)
 
 Klik på **Tilføj indhold** i øverste højre hjørne:
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/3acbbb9d-734d-4423-8621-fad6d257d997" alt="Tilføj indhold" caption="Tilføj indhold" %} 
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/3acbbb9d-734d-4423-8621-fad6d257d997" alt="Tilføj indhold" caption="Tilføj indhold" %} 
 
 Klik på Article:
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/0ba3a563-b887-4aad-b5b7-855bb0d7becb" alt="Klik på Article" caption="Klik på Article" %} 
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/0ba3a563-b887-4aad-b5b7-855bb0d7becb" alt="Klik på Article" caption="Klik på Article" %} 
 
 Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-panel til højre.
 
 - Hovedindholdsfeltet indeholder bl.a. Title, Subtitle og Paragraphs.
 - Sidebar-panelet indeholder Teaser text, Teaser image, Planlægning mv.
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/08aff2c9-f12c-4e92-8783-48fc5fb58ffa" alt="Opret Article siden" caption="Opret Article siden" %} 
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/08aff2c9-f12c-4e92-8783-48fc5fb58ffa" alt="Hovedindholdsfelt til venstre, sidebar til højre" caption="Hovedindholdsfelt til venstre, sidebar til højre" %} 
 
 
 ## Opbygning af artikel-indhold
