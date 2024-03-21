@@ -623,10 +623,10 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/release-notes/",
         "teaser": null
       },{
-        "title": "Release Notes 22-03-2024",
-        "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
+        "title": "Release Notes 2024.11.0",
+        "excerpt":"Nye features Artikelliste: /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj en...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/release-notes/release-notes-220324/",
+        "url": "/folkebibliotekernes_cms_manual/main/release-notes/release-notes-2024-11-0/",
         "teaser": null
       },{
         "title": "Opgave 1: OpenID Connect (Adgangsplatformen)",
