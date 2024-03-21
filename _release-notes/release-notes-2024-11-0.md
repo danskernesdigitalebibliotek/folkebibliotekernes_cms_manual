@@ -1,17 +1,17 @@
 ---
-title:  "Release Notes 22-03-2024"
+title:  "Release Notes 2024.11.0"
 category: "Release Notes"
 ---
 
-## Nye features
+Nye features
 
-- Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier.
+- Artikelliste: /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier.
 
 - Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund.
 
 - Automatisk materialeparagraph: Tilføj en liste med materialer til din artikel eller anden indholdstype. Listen genereres på baggrund af CQL-søgestreng.
 
-- Manuel materialeparagraph: Tilføj en liste med materialer til din artikel eller anden indholdstype. Listen genereres manuelt indsatte ID'er på den enkelte værker f.eks. work-of:870970-basis:136336282
+- Manuel materialeparagraph: Tilføj en liste med materialer til din artikel eller anden indholdstype. Listen genereres på baggrund af manuelt indsatte ID'er for de enkelte værker f.eks. work-of:870970-basis:136336282
 
 - Anbefalingsparagraph (recommendation): Tidligere har det kun været muligt at linke til et værk og ikke til de specifikke materialetyper værket eksisterer som. Det er det nu. F.eks. kan man henvise direkte til en e-bog.
 
@@ -23,7 +23,7 @@ category: "Release Notes"
 
 - Filialnavn vises nu i relation til arrangementer i diverse lister.
 
-- Arrangementer kan nu afpubliseres automatisk: Under /admin/config/dpl-event/settings kan redaktører nu konfigurere hvornår arrangementer som udgangspunkt skal afpubliceres.
+- Arrangementer kan nu afpubliceres automatisk: Under /admin/config/dpl-event/settings kan redaktører nu konfigurere hvornår arrangementer som udgangspunkt skal afpubliceres.
 
 - Knap til billetsystem viser nu retvisende tekst for gratisarrangementer. Default tekst er nu "Get tickets"/"Hent billet" ved gratis arrangementer, som kræver billet/tilmelding.
 
@@ -51,6 +51,6 @@ category: "Release Notes"
 
 - Arrangementsliste: Layoutet skrider ikke længere i toppen af arrangementslisten.
 
-- Pargraph: "Card grid automatic" og "Card grid manual" viser nu udelukkende indholdstypen artikler.
+- Paragraph: "Card grid automatic" og "Card grid manual" viser nu udelukkende indholdstypen artikler.
 
 - Artikler: Nu vises dato kun én gang på artikler.
