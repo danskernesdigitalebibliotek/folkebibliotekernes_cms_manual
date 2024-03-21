@@ -491,6 +491,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/generelle-indstillinger/",
         "teaser": null
       },{
+        "title": "Grundlæggende indstillinger",
+        "excerpt":"I topmenuen klik på Indstillinger &gt; System &gt; Grundlæggende indstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/system/site-information Her er en beskrivelse af de felter, der har betydning for jeres site. Sitets navn Skriv bibliotekets officielle navn her. Det vises ikke direkte på hjemmesiden, men indgår i sidens metadata. Det vil...","categories": ["Konfiguration"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/konfiguration/grundlaeggende-indstillinger/",
+        "teaser": null
+      },{
         "title": "Konfiguration af Folkebibliotekernes CMS",
         "excerpt":"Der er rigtig mange konfigurationsmuligheder i Folkebibliotekernes CMS. De fleste ligger under menupunktet Indstillinger i topmenuen. Men der er også konfigurationsmuligheder under andre hovedmenupunkter. Hvordan finder jeg rundt? Menuen til venstre er struktureret som menusystemet i Folkebibliotekernes CMS. Kender du klik-stien til en side i backend, er det nemt finde...","categories": [],
         "tags": [],
