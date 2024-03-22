@@ -9,7 +9,7 @@ emneord:
 ## Gennemgå de faste sider
 Folkebibliotekernes CMS fødes med nogle **faste sider** eller **standardsider**. De faste sider kan redigeres, præcis som sider I selv har oprettet. De er der bare fra starten af, når I får systemet.
 
-Rundt omkring på jeres website, er der links til de faste sider. Hvis de faste sider mangler, risikerer I, at jeres brugere møder døde links og/eller at sitet fejler.
+Rundt omkring på jeres website, er der links til de faste sider. Hvis de faste sider mangler, risikerer I, at jeres brugere møder døde links og/eller at sitet fejler. Derfor skal I ikke slette dem.
 
 Tanken er, at I skal bruge de medfølgende standardsider, men at I tilretter teksterne efter lokale forhold samt evt. tone.
 
