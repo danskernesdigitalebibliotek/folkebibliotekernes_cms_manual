@@ -3,7 +3,7 @@ title: "Gebyrindstillinger"
 click-path: "Indstillinger > Biblioteksindstillinger > Gebyrindstillinger"
 category: "Konfiguration"
 emneord: 
-- "FBS"
+- "Betaling"
 ---
 I topmenuen klik på **{{ page.click-path }}**
 
