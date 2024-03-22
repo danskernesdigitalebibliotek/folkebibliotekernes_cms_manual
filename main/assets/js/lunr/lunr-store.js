@@ -662,7 +662,7 @@ var store = [{
         "title": "Opgave 4: Opret systembrugere",
         "excerpt":"Du er sikkert ikke den eneste, der skal lave indhold til jeres website. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden. Vi anbefaler meget, at I bruger individuelle logins med kun de nødvendige rettigheder tilknyttet. Bemærk: I DDB CMS skulle...","categories": ["Startopsætning"],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/4redaktoerbrugere/",
+        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/4systembrugere/",
         "teaser": null
       },{
         "title": "Startopsætning",
