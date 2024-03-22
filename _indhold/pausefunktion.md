@@ -2,10 +2,9 @@
 title: "Pausefunktion"
 ---
 **Pausefunktion** er en informationside om at sætte sine reserveringer på pause. Det er en standardside eller "fast side".
+På brugernes reserveringsoversigt, er der et link til siden Pausefunktion.
 
-**På brugernes reserveringsoversigt, er der et link til siden Pausefunktion.**
-
-INDSÆT BILLEDE
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162302286/11084c2c-060a-46d6-ab00-6de9f7110252" alt="Fra reserveringsoversigten linkes til den faste side Pausefunktion" caption="Fra reserveringsoversigten linkes til den faste side Pausefunktion" %} 
 
 ## Tilret teksten på siden Pausefunktion
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2d257bd1-7cce-4b53-8fba-f7439fa64445" alt="Find siden Pausefunktion under indhold og tilret teksten efter jeres behov" caption="Find siden Pausefunktion under indhold og tilret teksten efter jeres behov" %} 
@@ -15,15 +14,15 @@ Standardteksten må gerne tilrettes:
 2. Tryk på **Rediger siden** og tilret teksten efter ønske.
 3. Tryk Gem
 
-## Erstat standardsiden for Pausefuktion med en anden side
+## Erstat den faste side Pausefuktion med en anden side
 
-Er du kommet til at slette siden Pausefunktion, kan du oprette en ny side, og få linket fra reserveringsoversigten til at pege på den.\
-I topmenuen klik på Indstillinger > Biblioteksindstillinger > Generelle indstillinger
+Er du kommet til at slette siden Pausefunktion, kan du oprette en ny side, og få de indbyggede links til at pege på den.
 
-Eller åbn via URL (udskift mit-domænenavn.dk):
-https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings
+1. I topmenuen klik på **Indstillinger > Biblioteksindstillinger > Generelle indstillinger**\
+Eller åbn via URL: https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings (udskift mit-domænenavn.dk)
 
-Find og udfyld feltet **Link til side om reserveringspause** med navnet på den side, som du har oprettet.
+2. På siden **Generelle indstillinger** find feltet **Link til side om reserveringspause**
+3. Udfyld med den relative URL på den selvvalgte side, som I ønsker, skal erstatte den faste side Pausefunktion. F. eks. `node/xxx`, hvor xxx er et tal.
 
 Læs mere om [Registrer en selvvalgt Pausefunktion side](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/generelle-indstillinger/)
 
