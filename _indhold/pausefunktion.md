@@ -20,8 +20,8 @@ Standardteksten må gerne tilrettes:
 
 Er du kommet til at slette siden Pausefunktion, kan du oprette en ny side, og få de indbyggede links til at pege på den.
 
-1. Opret en ny side, der skal erstatte den faste side Pausefunktion. Læg mærke til sidens URL. Den kan du se i browserens adresselinje. Den hedder noget med **node/xxx**. (xxx er et tal)
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/69bc79be-20e9-42a6-a10f-18cb52aff1b7" alt="Læg mærke til forsidens URL" caption="Læg mærke til forsidens URL" %} 
+1. Opret en ny side, der skal erstatte den faste side Pausefunktion. Læg mærke til sidens URL. Den kan du se i browserens adresselinje. Den hedder noget med **node/xxx**. (xxx er et tal)\
+  {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/69bc79be-20e9-42a6-a10f-18cb52aff1b7" alt="Læg mærke til forsidens URL" caption="Læg mærke til forsidens URL" %} 
 2. I topmenuen klik på **Indstillinger > Biblioteksindstillinger > Generelle indstillinger**\
 Eller åbn via URL: https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings (udskift mit-domænenavn.dk)
 3. På siden **Generelle indstillinger** find feltet **Link til side om reserveringspause**
