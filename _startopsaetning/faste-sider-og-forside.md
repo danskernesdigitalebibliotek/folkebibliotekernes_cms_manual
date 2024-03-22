@@ -1,6 +1,6 @@
 ---
 title: "Opgave 2: Faste sider og forsiden"
-weight: 5
+weight: 2
 category: "Startopsætning"
 emneord:
 - X Mangler tekst
