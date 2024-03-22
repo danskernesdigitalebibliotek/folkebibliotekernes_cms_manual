@@ -1,5 +1,5 @@
 ---
-title: "Opgave 5: Gennemse faste sider"
+title: "Opgave 2: Faste sider og forsiden"
 weight: 5
 category: "Startopsætning"
 emneord:
