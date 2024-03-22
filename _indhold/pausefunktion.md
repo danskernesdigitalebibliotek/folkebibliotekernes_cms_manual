@@ -4,7 +4,7 @@ emneord:
 - "Reserveringer"
 ---
 **Pausefunktion** er en informationside om at sætte sine reserveringer på pause. Det er en standardside eller "fast side".
-På brugernes reserveringsoversigt, er der et link til siden Pausefunktion.
+Fra brugernes reserveringsoversigt kan reserveringer sættes på pause. Og herfra er der link til siden Pausefunktion.
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162302286/11084c2c-060a-46d6-ab00-6de9f7110252" alt="Fra reserveringsoversigten linkes til den faste side Pausefunktion" caption="Fra reserveringsoversigten linkes til den faste side Pausefunktion" %} 
 
