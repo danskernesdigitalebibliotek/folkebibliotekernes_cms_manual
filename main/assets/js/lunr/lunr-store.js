@@ -641,6 +641,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/1openid-connect/",
         "teaser": null
       },{
+        "title": "Opgave 2: Faste sider og forsiden",
+        "excerpt":"Folkebibliotekernes CMS fødes med nogle faste sider eller standardsider. Faste sider opfører sig præcis som alle andre sider. De er der bare fra starten af, når I får systemet. Rundt omkring på jeres website, er der links til de faste sider. Hvis de mangler, risikerer I, at jeres brugere møder...","categories": ["Startopsætning"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/2faste-sider-og-forside/",
+        "teaser": null
+      },{
         "title": "Opgave 2: Generelle indstillinger",
         "excerpt":"I denne opgave laver du den grundlæggende konfiguration af sitet. Det er noget du kun skal gøre én gang, og med stor sandsynelighed aldrig røre ved igen. Men det er vigtigt, at det bliver gjort ordentligt. Sæt dig sammen med med en kollega, der ved rigtig meget om jeres bibliotek....","categories": ["Startopsætning"],
         "tags": [],
@@ -657,12 +663,6 @@ var store = [{
         "excerpt":"Du er sikkert ikke den eneste, der skal lave indhold til jeres website. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden. Vi anbefaler meget, at I bruger individuelle logins med kun de nødvendige rettigheder tilknyttet. Bemærk: I DDB CMS skulle...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/4redaktoerbrugere/",
-        "teaser": null
-      },{
-        "title": "Opgave 5: Gennemse faste sider",
-        "excerpt":"Folkebibliotekernes CMS fødes med nogle faste sider eller standardsider. Faste sider opfører sig præcis som alle andre sider. De er der bare fra starten af, når I får systemet. Rundt omkring på jeres website, er der links til de faste sider. Hvis de mangler, risikerer I, at jeres brugere møder...","categories": ["Startopsætning"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/5faste-sider/",
         "teaser": null
       },{
         "title": "Startopsætning",
