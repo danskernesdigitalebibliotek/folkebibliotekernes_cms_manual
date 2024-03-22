@@ -1,14 +1,11 @@
 ---
 title: "Takster"
 ---
+**Takster** er en informationsside om gebyrtakster, erstatninger og betaling.
+Der linkes til denne side flere steder, bla. fra Gebyrer & Erstatninger, men også fra materialer, som er ved at udløbe.
 
-Takster (node/9) - Sættes som “Fees and replacement cost URL” - /admin/config/dpl-library-agency/fees
+(node/9) - Sættes som “Fees and replacement cost URL” - /admin/config/dpl-library-agency/fees
 Se eksempel på: Takster | DPL CMS (reload.dk)
-Der linkes til denne side flere steder, bla. Fra Gebyrer & Erstatninger, men også fra materialer som er ved at udløbe.
-
----
-title: "Pausefunktion"
----
 **Pausefunktion** er en informationside om at sætte sine reserveringer på pause. Det er en standardside eller "fast side".
 
 **På brugernes reserveringsoversigt, er der et link til siden Pausefunktion.**
@@ -39,13 +36,14 @@ Læs mere om [Registrer en selvvalgt Pausefunktion side](https://danskernesdigit
 Har du mistet standardteksten, så er den her:
 
 >
-> Takster
+> ## Takster
+>
 > Her kan du se gældende regler og satser for lånetider, gebyrer og erstatninger.
 >
-> Du skal betale gebyr efter gældende takst, hvis du afleverer for sent. Gebyrerne er fastsat af Kommunalbestyrelsen i [Dannevang Kommune].
+> Du skal betale gebyr efter gældende takst, hvis du afleverer for sent. Gebyrerne er fastsat af Kommunalbestyrelsen i **[Dannevang Kommune]**.
 >
 > Du kan på hjemmesiden under Gebyrer & Erstatninger se, om du skylder et eller flere gebyrer.
-> Eventuelle rykkergebyr fremgår ikke på hjemmesiden, men dem vil du kunne få oplyst ved henvendelse til Opkrævningen tlf. [XXXXXXX]
+> Eventuelle rykkergebyr fremgår ikke på hjemmesiden, men dem vil du kunne få oplyst ved henvendelse til Opkrævningen tlf. **[XXXXXXX]**
 >
 > Du er selv ansvarlig for løbende at kontrollere, hvad du har lånt og få det afleveret til tiden. Du kan se dine lån under Lån, hvor du også har mulighed for at forny.  Du kan også kontrollere din lånerstatus på > udlånsautomaterne på biblioteket.
 > 
@@ -90,10 +88,10 @@ Har du mistet standardteksten, så er den her:
 > Bortkommet eller beskadiget materiale, skal erstattes med bibliotekets indkøbspris inkl. moms. Udover erstatningsbeløbet skal du betale for udgifter til fx indbinding og licensrettigheder. For DVD, video og multimedier som cd-rom og konsolspil bliver din udgift typisk flere gange den pris, varen fås til i almindelig detailhandel. Det skyldes, at bibliotekets pris indeholder betaling til rettighedshaverne for at få tilladelse til udlån.
 > 
 > ### Advis og hjemkaldelse på sms, e-mail eller App
-> Hvis du har oplyst din e-mailadresse og/eller dit mobilnummer, vil du få tilsendt en advis [XX] dage før afleveringsfristen. Du kan indsætte dit mobilnummer og/eller din e-mail under brugerprofil, når du er logget ind. Du kan også få adviseringer som Push-beskeder i App’en ”Biblioteket”.
+> Hvis du har oplyst din e-mailadresse og/eller dit mobilnummer, vil du få tilsendt en advis **[XX]** dage før afleveringsfristen. Du kan indsætte dit mobilnummer og/eller din e-mail under brugerprofil, når du er logget ind. Du kan også få adviseringer som Push-beskeder i App’en ”Biblioteket”.
 >  
 > ### Vi rykker kun én gang
-> Vær opmærksom på, at biblioteket kun udsender én hjemkaldelse ved overskridelse af lånetiden. Vi sender hjemkaldelsen [XX] dage efter, at lånetiden er udløbet. Du skal altid betale gebyr, hvis du afleverer for sent, også selvom du ikke har modtaget en påmindelse eller hjemkaldelse før afleveringsfristen.
+> Vær opmærksom på, at biblioteket kun udsender én hjemkaldelse ved overskridelse af lånetiden. Vi sender hjemkaldelsen **[XX]** dage efter, at lånetiden er udløbet. Du skal altid betale gebyr, hvis du afleverer for sent, også selvom du ikke har modtaget en påmindelse eller hjemkaldelse før afleveringsfristen.
 >  
 > ### Hold styr på udlåns- og afleveringsdatoerne
 > På din udlånskvittering og i din lånerstatus står datoen for, hvornår du skal aflevere dine lånte materialer. Dette er sidste dag, du kan aflevere materialet, uden gebyr.
@@ -102,11 +100,11 @@ Har du mistet standardteksten, så er den her:
 > På Mit Betalingsoverblik kan du altid se en opdateret status på dine betalinger til biblioteket.
 >  
 > ### Sådan betaler du
-> Betaling af regninger skal ske via [Dannevang Kommunes] Mit Betalingsoverblik, Netbank med MitID eller i banken. Har du spørgsmål til selve betalingen, skal du kontakte [XX] på tlf. [XXXX]
+> Betaling af regninger skal ske via **[Dannevang Kommunes]** Mit Betalingsoverblik, Netbank med MitID eller i banken. Har du spørgsmål til selve betalingen, skal du kontakte **[XX]** på tlf. **[XXXX]**
 >
 > ### Det er vigtigt få betalt
-Betaler du ikke inden betalingsfristen, vil der komme rykkergebyrer på regningen:
+> Betaler du ikke inden betalingsfristen, vil der komme rykkergebyrer på regningen:
 > 
 > - For gæld under 500 kr. er rykkergebyret 150 kr.
 > - For gæld over 500 kr. er rykkergebyret 250 kr.
-> Har du spørgsmål til din regning kan du kontakte Opkrævningen tlf. [XXXXXXX]
+> Har du spørgsmål til din regning kan du kontakte Opkrævningen tlf. **[XXXXXXX]**
