@@ -642,7 +642,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 2: Faste sider og forsiden",
-        "excerpt":"Folkebibliotekernes CMS fødes med nogle faste sider eller standardsider. Faste sider opfører sig præcis som alle andre sider. De er der bare fra starten af, når I får systemet. Rundt omkring på jeres website, er der links til de faste sider. Hvis de mangler, risikerer I, at jeres brugere møder...","categories": ["Startopsætning"],
+        "excerpt":"Gennemgå de faste sider Folkebibliotekernes CMS fødes med nogle faste sider eller standardsider. De faste sider kan redigeres, præcis som sider I selv har oprettet. De er der bare fra starten af, når I får systemet. Rundt omkring på jeres website, er der links til de faste sider. Hvis de...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/2faste-sider-og-forside/",
         "teaser": null
