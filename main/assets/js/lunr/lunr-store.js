@@ -650,19 +650,19 @@ var store = [{
         "title": "Opgave 2: Generelle indstillinger",
         "excerpt":"I denne opgave laver du den grundlæggende konfiguration af sitet. Det er noget du kun skal gøre én gang, og med stor sandsynelighed aldrig røre ved igen. Men det er vigtigt, at det bliver gjort ordentligt. Sæt dig sammen med med en kollega, der ved rigtig meget om jeres bibliotek....","categories": ["Startopsætning"],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/2generelle-indstillinger/",
-        "teaser": null
-      },{
-        "title": "Opgave 2: Mapp Intelligence",
-        "excerpt":"Via Mapp indsamles statistik for jeres hjemmeside. I skal have overflyttet jeres Mapp ID fra DDB CMS til Folkebibliotekernes CMS. Kopier Mapp ID fra DDB CMS Log ind i DDB CMS. I topmenuen klik på Indstillinger &gt; Ding &gt; Webtrekk Eller åbn via direkte link (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/ding/webtrekk Kopier TagIntegration...","categories": ["Startopsætning"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/2mapp/",
+        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/generelle-indstillinger/",
         "teaser": null
       },{
         "title": "Startopsætning",
         "excerpt":"Denne guide hjælper jer med startopsætning af jeres site. Opgaverne skal udføres i den rigtige rækkefølge og man må ikke springe over. Startopsætning - kom i gang I kan gå i gang med startopsætningen, når I har modtaget URL og login til jeres Folkebibliotekernes CMS staging-site Opgaverækkefølge Opgaverne i startopsætningen...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/",
+        "teaser": null
+      },{
+        "title": "Opgave 2: Mapp Intelligence",
+        "excerpt":"Via Mapp indsamles statistik for jeres hjemmeside. I skal have overflyttet jeres Mapp ID fra DDB CMS til Folkebibliotekernes CMS. Kopier Mapp ID fra DDB CMS Log ind i DDB CMS. I topmenuen klik på Indstillinger &gt; Ding &gt; Webtrekk Eller åbn via direkte link (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/ding/webtrekk Kopier TagIntegration...","categories": ["Startopsætning"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/mapp/",
         "teaser": null
       },{
         "title": "Opgave 4: Opret systembrugere",
