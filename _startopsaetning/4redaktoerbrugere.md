@@ -14,16 +14,29 @@ Vi anbefaler meget, at I bruger individuelle logins med kun de nødvendige retti
 
 ## Roller
 
-Når du opretter en ny systembrugere skal han/hun tildeles en rolle. Her kan du læse om de roller der findes i Folkebibliotekernes CMS.
+Når du opretter en ny systembrugere skal han/hun tildeles en rolle. 
 
-### Local administrator
-xx tekst mangler
+Som udgangspunkt skal jeres brugere ikke tildeles flere rettigheder, end dem der er nødvendige, for at de kan løse deres arbejdsopgaver.
+{: .notice}
 
-### Editor
-xx tekst mangler
+**Redaktørbiblioteker** kan oprette tre typer brugere:
 
-### Mediator
-xx tekst mangler
+- **Formidler (mediator)** er til brugere som ofte laver det dynamiske indhold på hjemmesiden, som formidlingsopgaverne fx oprette arrangementer og artikler. 
 
-## Egenkontrol
-xx tekst mangler
+- **Redaktør (editor)** er til brugere som udover formidlingsopgaver også skal stå for det faste indhold (fx åbningstider) og opbygning af siden (fx sider, menuer, kategorier). De kan have ansvaret for at koordinere og styre formidlernes arbejde. 
+
+- **Lokal administrator (local administrator)** er til brugere som skal indstille hjemmesiden ift. indstillinger, udseende, integrationer, overordnet oplysninger, biblioteksbrug etc. 
+
+**Webmasterbiblioteker** har en ekstra brugertype:
+- **Administrator** kan ændre siden udover CMS'ets standardindstillinger fx ved at aktivere og deaktivere moduler.
+
+**Patron** er lånerne. Patron-brugerprofilen oprettes automatisk, når en låner første gang logger ind på websitet via Adgangsplatformen. Patron-brugerne skal være der, og der bliver automatisk ryddet op i dem.   
+
+
+
+
+
+
+
+
+
