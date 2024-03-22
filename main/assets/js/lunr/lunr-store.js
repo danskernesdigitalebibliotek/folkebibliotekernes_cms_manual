@@ -641,16 +641,16 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/1openid-connect/",
         "teaser": null
       },{
+        "title": "Opgave 2: Generelle indstillinger",
+        "excerpt":"I denne opgave laver du den grundlæggende konfiguration af sitet. Det er noget du kun skal gøre én gang, og med stor sandsynelighed aldrig røre ved igen. Men det er vigtigt, at det bliver gjort ordentligt. Sæt dig sammen med med en kollega, der ved rigtig meget om jeres bibliotek....","categories": ["Startopsætning"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/2generelle-indstillinger/",
+        "teaser": null
+      },{
         "title": "Opgave 2: Mapp Intelligence",
         "excerpt":"Via Mapp indsamles statistik for jeres hjemmeside. I skal have overflyttet jeres Mapp ID fra DDB CMS til Folkebibliotekernes CMS. Kopier Mapp ID fra DDB CMS Log ind i DDB CMS. I topmenuen klik på Indstillinger &gt; Ding &gt; Webtrekk Eller åbn via direkte link (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/ding/webtrekk Kopier TagIntegration...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/2mapp/",
-        "teaser": null
-      },{
-        "title": "Opgave 3: Biblioteksindstillinger",
-        "excerpt":"Du har sikkert en kollega, der er en haj til Cicero, og som ofte snakker om VIP-basen. Du skal booke et møde med vedkommende, så I i fællesskab kan løse denne opgave. På denne side har vi samlet de indstillinger, der kræver biblioteksfaglig ekspertise og viden om, hvordan I gør...","categories": ["Startopsætning"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/3soegeprofil/",
         "teaser": null
       },{
         "title": "Opgave 4: Opret systembrugere",
