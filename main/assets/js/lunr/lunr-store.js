@@ -485,6 +485,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/fbs-indstillinger/",
         "teaser": null
       },{
+        "title": "Gebyrindstillinger",
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Gebyrindstillinger   Eller åbn via URL (udskift mit-domænenavn.dk):  https://mit-domænenavn.dk/admin/config/dpl-library-agency/fees  ","categories": ["Konfiguration"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/konfiguration/gebyrindstillinger/",
+        "teaser": null
+      },{
         "title": "Generelle indstillinger",
         "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Generelle indstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings Om Generelle indstillinger De generelle biblioteksindstillinger skal udfyldes, så de matcher de forretningsgange, I benytter jer af på biblioteket. De er ofte udtrykt i via indstillinger i Cicero. Sæt dig derfor sammen med...","categories": ["Konfiguration"],
         "tags": [],

@@ -9,19 +9,19 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Opret systembruger og skift password - Folkebibliotekernes CMS</title>
-<meta name="description" content="I topmenuen klik på Personer">
+<!-- begin _includes/seo.html --><title>Gebyrindstillinger - Folkebibliotekernes CMS</title>
+<meta name="description" content="I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Gebyrindstillinger">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Opret systembruger og skift password">
-<meta property="og:url" content="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/personer/">
+<meta property="og:title" content="Gebyrindstillinger">
+<meta property="og:url" content="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/gebyrindstillinger/">
 
 
-  <meta property="og:description" content="I topmenuen klik på Personer">
+  <meta property="og:description" content="I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Gebyrindstillinger">
 
 
 
@@ -36,7 +36,7 @@
 
 
 
-<link rel="canonical" href="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/personer/">
+<link rel="canonical" href="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/gebyrindstillinger/">
 
 
 
@@ -165,7 +165,7 @@
     
       
       
-        <li class="current">Opret systembruger og skift password</li>
+        <li class="current">Gebyrindstillinger</li>
       
     
   </ol>
@@ -218,7 +218,7 @@
 
             
               
-                <li><a href="/folkebibliotekernes_cms_manual/main/konfiguration/gebyrindstillinger/">Indstillinger > Biblioteksindstillinger > Gebyrindstillinger</a></li>
+                <li><a href="/folkebibliotekernes_cms_manual/main/konfiguration/gebyrindstillinger/" class="active">Indstillinger > Biblioteksindstillinger > Gebyrindstillinger</a></li>
               
             
               
@@ -250,7 +250,7 @@
               
             
               
-                <li><a href="/folkebibliotekernes_cms_manual/main/konfiguration/personer/" class="active">Personer</a></li>
+                <li><a href="/folkebibliotekernes_cms_manual/main/konfiguration/personer/">Personer</a></li>
               
             
               
@@ -270,8 +270,8 @@
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Opret systembruger og skift password">
-    <meta itemprop="description" content="I topmenuen klik på Personer">
+    <meta itemprop="headline" content="Gebyrindstillinger">
+    <meta itemprop="description" content="I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Gebyrindstillinger">
     <meta itemprop="datePublished" content="2024-03-22T08:44:57+00:00">
     
 
@@ -280,7 +280,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/personer/" class="u-url" itemprop="url">Opret systembruger og skift password
+            <a href="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/gebyrindstillinger/" class="u-url" itemprop="url">Gebyrindstillinger
 </a>
           </h1>
           
@@ -289,7 +289,7 @@
           <p class="emneord">
   
   
-  <a href="/folkebibliotekernes_cms_manual/main/emneord/brugere-og-roller/" class="btn btn--inverse btn--small">Brugere og roller</a>
+  <a href="/folkebibliotekernes_cms_manual/main/emneord/fbs/" class="btn btn--inverse btn--small">FBS</a>
   
 </p>
 
@@ -305,77 +305,10 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <p>I topmenuen klik på <strong>Personer</strong></p>
+        <p>I topmenuen klik på <strong>Indstillinger &gt; Biblioteksindstillinger &gt; Gebyrindstillinger</strong></p>
 
 <p>Eller åbn via URL (udskift mit-domænenavn.dk):<br />
-<code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/admin/people</code></p>
-
-<h2 id="opret-systembruger">Opret systembruger</h2>
-
-<p>Klik på knappen Add user i øverste højre hjørne.</p>
-
-<figure class="seventy">
-  <img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/c461ffc6-a518-4612-b8e9-6242c774c6fd" alt="Klik på knappen Add user" /><figcaption>
-      Klik på knappen Add user
-
-    </figcaption></figure>
-
-<p>Du skal nu udfylde en formular med oplysninger om den nye systembruger. Se et eksempel på formularen nedenfor.</p>
-
-<p>Indtast oplysningerne i formularen:</p>
-
-<ul>
-  <li>Email adress - systembrugerens email.</li>
-  <li>Username - systembrugerens interne brugernavn (er kun synligt i kontrolpanelet).</li>
-  <li>Password - systembrugerens adgangskode.</li>
-</ul>
-
-<p><strong>Status:</strong>
-Er automatisk sat til Active. Hvis brugeren skal blokeres vælges Blocked.</p>
-
-<p><strong>Roles:</strong>
-Vælg systembrugerens rolle. For de fleste almindelige redaktører vil rollen Editor være tilstrækkelig. Editor kan oprette indhold, men har ikke adgang til at ændre indstillinger på siden.</p>
-
-<p>For mere information om brugerroller - se manualens punkt <a href="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/4redaktoerbrugere/">Startopsætning - opgave 4:  opret systembrugere</a></p>
-
-<p><strong>Notify:</strong>
-Knappen Notify kan markeres, hvis alle øvrige systembrugere skal informeres om oprettelse af den nye systembruger.</p>
-
-<p><strong>Language settings:</strong>
-Vælg mellem dansk og engelsk sprog for den nye systembrugers kontrolpanel.</p>
-
-<p><strong>Create new account:</strong>
-Afslut opretningen ved at klikke på Create new account</p>
-
-<p><strong>Eksempel på systembruger formular:</strong></p>
-
-<figure class="seventy">
-  <img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/122aaf9b-c55a-45c5-bac3-fe38d2a5e28f" alt="En tom systembruger formular" /><figcaption>
-      En tom systembruger formular
-
-    </figcaption></figure>
-
-<h2 id="skit-password-for-systembruger">Skit password for systembruger</h2>
-
-<p>Log ind som systembruger.</p>
-
-<p>Klik på Admin ikonet i øverste højre hjørne og vælg Edit profile.</p>
-
-<figure class="seventy">
-  <img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/c20cd123-8f6f-4006-866d-166ccdcd687b" alt="Edit profile" /><figcaption>
-      Edit profile
-
-    </figcaption></figure>
-
-<p>Udfyld felterne med det nuværende password og det nye.
-Hvis du ikke kan huske det nuværende password, kan du klikke på linket Reset your password. En vejledning bliver du sendt til din email.</p>
-
-<figure class="seventy">
-  <img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/42efd3ec-175f-4a02-b99e-b0315e86b5da" alt="Skift adgangskode" /><figcaption>
-      Skift adgangskode
-
-    </figcaption></figure>
-
+<code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/admin/config/dpl-library-agency/fees</code></p>
 
         
       </section>
