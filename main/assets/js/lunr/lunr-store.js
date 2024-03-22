@@ -527,12 +527,6 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/personer/",
         "teaser": null
       },{
-        "title": "test",
-        "excerpt":"test test ","categories": ["konfiguration"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/konfiguration/test/",
-        "teaser": null
-      },{
         "title": "Logo, identitetsfarve og favicon",
         "excerpt":"I topmenuen klik på Udseende &gt; Novel &gt; Indstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/appearance/settings/novel Om logo, identitetsfarve og favicon Folkebibliotekernes CMS bruger et standard tema, der hedder “Novel”. I kan ændre nogle få ting i standard-temaet: Logo Identitetsfarve Favicon Ændring af logo Klik på Udseende i toppen af...","categories": ["Konfiguration"],
         "tags": [],
