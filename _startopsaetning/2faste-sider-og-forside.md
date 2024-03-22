@@ -23,6 +23,8 @@ Folkebibliotekernes CMS fødes ikke med en forside. Den skal I selv opbygge. En 
 Vi anbefaler, at I opretter en side med navnet Forside. I behøver ikke gøre den færdig rent indholdsmæssigt. For nu er det ok, at den er tom. 
 1. Log ind. [Følg guiden for at oprette en ny side](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/side/). Navngiv siden Forside. Tryk Gem.
 2. Nu vises Forside. Læg mærke til sidens URL. Den kan du se i browserens adresselinje. Den hedder noget med **node/xxx**. (xxx er et tal)
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/69bc79be-20e9-42a6-a10f-18cb52aff1b7)
+
 
 Forsidens URL skal du bruge i næste opgave.
 
