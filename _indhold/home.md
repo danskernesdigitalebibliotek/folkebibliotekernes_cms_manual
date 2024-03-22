@@ -5,13 +5,13 @@ permalink: /indhold/
 
 Redaktionelt indhold er alt det indhold, som I selv opretter på jeres site. 
 
-- Sider
-- Artikler
-- Arrangementer.
+- [Sider](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/side/)
+- [Artikler](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/artikel/)
+- [Arrangementer](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/arrangement/)
 - Åbningstider
 - Biblioteker
-- Kampagner
-- Menuer
+- [Kampagner](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/kampagner/)
+- [Hovedmenu](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/hovedmenu/) og [footermenu](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/footermenu/)
 - Tags og kategorier
 
 Sider, artikler, arrangementer og kampagner oprettes og redigeres via menupunktet **Indhold** i topmenuen. 
