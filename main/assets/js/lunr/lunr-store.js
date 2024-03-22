@@ -438,7 +438,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Pausefunktion",
-        "excerpt":"Pausefunktion er en informationside om at sætte sine reserveringer på pause. Det er en standardside eller “fast side”. På brugernes reserveringsoversigt, er der et link til siden Pausefunktion. INDSÆT BILLEDE Tilret teksten på siden Pausefunktion Find siden Pausefunktion under indhold og tilret teksten efter jeres behov Standardteksten må gerne tilrettes:...","categories": [],
+        "excerpt":"Pausefunktion er en informationside om at sætte sine reserveringer på pause. Det er en standardside eller “fast side”. På brugernes reserveringsoversigt, er der et link til siden Pausefunktion. Fra reserveringsoversigten linkes til den faste side Pausefunktion Tilret teksten på siden Pausefunktion Find siden Pausefunktion under indhold og tilret teksten efter...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/pausefunktion/",
         "teaser": null
