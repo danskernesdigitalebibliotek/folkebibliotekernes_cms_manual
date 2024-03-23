@@ -29,8 +29,6 @@ Eller åbn via URL: https://mit-domænenavn.dk/admin/config/dpl-library-agency/g
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/69bc79be-20e9-42a6-a10f-18cb52aff1b7" alt="Læg mærke til den nye sides URL" caption="Læg mærke til den nye sides URL." %} 
 
-Læs mere om [Registrer en selvvalgt Pausefunktion side](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/generelle-indstillinger/)
-
 ## Pausefuktion standardteksten
 Har du mistet standardteksten, så er den her:
 >
