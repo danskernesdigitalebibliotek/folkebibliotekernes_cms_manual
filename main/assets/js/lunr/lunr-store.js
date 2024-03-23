@@ -462,7 +462,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Takster",
-        "excerpt":"Takster er en informationsside om gebyrtakster, erstatninger og betaling. Der linkes til denne side flere steder, bla. fra Gebyrer &amp; Erstatninger, men også fra materialer, som er ved at udløbe. Fra Gebyrer &amp; erstatninger er der link til siden Takster Tilret teksten på siden Takster Find siden Pausefunktion under indhold...","categories": [],
+        "excerpt":"Takster er en informationsside om gebyrtakster, erstatninger og betaling. Der linkes til denne side flere steder, bla. fra Gebyrer &amp; Erstatninger, men også fra materialer, som er ved at udløbe. Fra Gebyrer &amp; erstatninger er der link til siden Takster Tilret teksten på siden Takster Find siden Takster under indhold...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/takster/",
         "teaser": null
