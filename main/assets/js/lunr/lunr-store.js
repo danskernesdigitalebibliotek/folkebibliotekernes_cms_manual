@@ -462,7 +462,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Takster",
-        "excerpt":"Takster er en informationsside om gebyrtakster, erstatninger og betaling. Der linkes til denne side flere steder, bla. fra Gebyrer &amp; Erstatninger, men også fra materialer, som er ved at udløbe. (node/9) - Sættes som “Fees and replacement cost URL” - /admin/config/dpl-library-agency/fees Se eksempel på: Takster | DPL CMS (reload.dk) Pausefunktion...","categories": [],
+        "excerpt":"Takster er en informationsside om gebyrtakster, erstatninger og betaling. Der linkes til denne side flere steder, bla. fra Gebyrer &amp; Erstatninger, men også fra materialer, som er ved at udløbe. INDSÆT BILLEDE Tilret teksten på siden Takster Find siden Pausefunktion under indhold og tilret teksten efter jeres behov Standardteksten må...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/takster/",
         "teaser": null

@@ -29,7 +29,7 @@
 
 
 
-  <meta property="article:published_time" content="2024-03-23T09:38:11+00:00">
+  <meta property="article:published_time" content="2024-03-23T09:41:20+00:00">
 
 
 
@@ -304,7 +304,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Takster">
     <meta itemprop="description" content="Takster er en informationsside om gebyrtakster, erstatninger og betaling.Der linkes til denne side flere steder, bla. fra Gebyrer &amp; Erstatninger, men også fra materialer, som er ved at udløbe.">
-    <meta itemprop="datePublished" content="2024-03-23T09:38:11+00:00">
+    <meta itemprop="datePublished" content="2024-03-23T09:41:20+00:00">
     
 
     <div class="page__inner-wrap">
@@ -338,15 +338,9 @@
         <p><strong>Takster</strong> er en informationsside om gebyrtakster, erstatninger og betaling.
 Der linkes til denne side flere steder, bla. fra Gebyrer &amp; Erstatninger, men også fra materialer, som er ved at udløbe.</p>
 
-<p>(node/9) - Sættes som “Fees and replacement cost URL” - /admin/config/dpl-library-agency/fees
-Se eksempel på: Takster | DPL CMS (reload.dk)
-<strong>Pausefunktion</strong> er en informationside om at sætte sine reserveringer på pause. Det er en standardside eller “fast side”.</p>
-
-<p><strong>På brugernes reserveringsoversigt, er der et link til siden Pausefunktion.</strong></p>
-
 <p>INDSÆT BILLEDE</p>
 
-<h2 id="tilret-teksten-på-siden-pausefunktion">Tilret teksten på siden Pausefunktion</h2>
+<h2 id="tilret-teksten-på-siden-takster">Tilret teksten på siden Takster</h2>
 <figure class="eighty">
   <img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2d257bd1-7cce-4b53-8fba-f7439fa64445" alt="Find siden Pausefunktion under indhold og tilret teksten efter jeres behov" /><figcaption>
       Find siden Pausefunktion under indhold og tilret teksten efter jeres behov
@@ -355,22 +349,29 @@ Se eksempel på: Takster | DPL CMS (reload.dk)
 
 <p>Standardteksten må gerne tilrettes:</p>
 <ol>
-  <li>Find siden der hedder <strong>Pausefuktion</strong>. Den kan fremsøges under <strong>Indhold</strong>.</li>
+  <li>Find siden der hedder <strong>Takster</strong>. Den kan fremsøges under <strong>Indhold</strong>.</li>
   <li>Tryk på <strong>Rediger siden</strong> og tilret teksten efter ønske.</li>
-  <li>Tryk Gem</li>
+  <li>Tryk <strong>Gem</strong></li>
 </ol>
 
-<h2 id="erstat-standardsiden-for-pausefuktion-med-en-anden-side">Erstat standardsiden for Pausefuktion med en anden side</h2>
+<h2 id="erstat-den-faste-side-takster-med-en-anden-side">Erstat den faste side Takster med en anden side</h2>
 
-<p>Er du kommet til at slette siden Pausefunktion, kan du oprette en ny side, og få linket fra reserveringsoversigten til at pege på den.<br />
-I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Generelle indstillinger</p>
+<p>Er du kommet til at slette siden Pausefunktion, kan du oprette en ny side, og få de indbyggede links til at pege på den.</p>
 
-<p>Eller åbn via URL (udskift mit-domænenavn.dk):
-https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings</p>
+<ol>
+  <li>Opret en ny side, der skal erstatte den faste side Pausefunktion. Læg mærke til sidens URL. Den kan du se i browserens adresselinje. Det er den sidste del der er interessant. Den hedder noget med <strong>node/xxx</strong>. (xxx er et tal)</li>
+  <li>Nu skal du registerer den nye sides URL i indstillinger for websiden. Log ind med en bruger, der har rollen <strong>Lokal administrator</strong>.</li>
+  <li>I topmenuen klik på <strong>Indstillinger &gt; Biblioteksindstillinger &gt; Generelle indstillinger</strong><br />
+Eller åbn via URL: https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings (udskift mit-domænenavn.dk)</li>
+  <li>På siden <strong>Generelle indstillinger</strong> find feltet <strong>Link til side om reserveringspause</strong></li>
+  <li>Udfyld med den relative URL på den nyoprettede side. Dvs. <code class="language-plaintext highlighter-rouge">node/xxx</code>, hvor xxx er et tal.</li>
+</ol>
 
-<p>Find og udfyld feltet <strong>Link til side om reserveringspause</strong> med navnet på den side, som du har oprettet.</p>
+<figure class="eighty">
+  <img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/69bc79be-20e9-42a6-a10f-18cb52aff1b7" alt="Læg mærke til den nye sides URL" /><figcaption>
+      Læg mærke til den nye sides URL.
 
-<p>Læs mere om <a href="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/generelle-indstillinger/">Registrer en selvvalgt Pausefunktion side</a></p>
+    </figcaption></figure>
 
 <h2 id="takster-standardteksten">Takster standardteksten</h2>
 <p>Har du mistet standardteksten, så er den her:</p>
@@ -463,7 +464,7 @@ Har du spørgsmål til din regning kan du kontakte Opkrævningen tlf. <strong>[X
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-03-23T09:38:11+00:00">March 23, 2024</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-03-23T09:41:20+00:00">March 23, 2024</time></p>
 
       </footer>
 
