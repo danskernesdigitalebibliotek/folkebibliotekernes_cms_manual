@@ -474,7 +474,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Velkommen",
-        "excerpt":"Velkomstside (node/12) - Sættes som “Redirect on create” - /admin/config/people/registration.                  Se eksempel på: Velkommen       DPL CMS (reload.dk)           Denne side redirectes brugere til ved succesfuld brugeroprettelse via hjemmesiden.   ","categories": [],
+        "excerpt":"Den faste sider Velkommen er en velkomstside til nyoprettede brugere. Efter succesfuld brugeroprettelse via hjemmesiden bliver brugerne omdirigeret til denne side. Tilret teksten på siden Velkommen Find siden Velkommen under indhold og tilret teksten efter jeres behov Standardteksten må gerne tilrettes: Find siden der hedder Velkommen. Den kan fremsøges under...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/velkommen/",
         "teaser": null

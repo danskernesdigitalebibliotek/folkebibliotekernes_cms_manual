@@ -10,7 +10,7 @@
     <meta charset="utf-8">
 
 <!-- begin _includes/seo.html --><title>Velkommen - Folkebibliotekernes CMS</title>
-<meta name="description" content="Velkomstside (node/12) - Sættes som “Redirect on create” - /admin/config/people/registration.">
+<meta name="description" content="Den faste sider Velkommen er en velkomstside til nyoprettede brugere. Efter succesfuld brugeroprettelse via hjemmesiden bliver brugerne omdirigeret til denne side.">
 
 
 
@@ -21,7 +21,7 @@
 <meta property="og:url" content="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/velkommen/">
 
 
-  <meta property="og:description" content="Velkomstside (node/12) - Sættes som “Redirect on create” - /admin/config/people/registration.">
+  <meta property="og:description" content="Den faste sider Velkommen er en velkomstside til nyoprettede brugere. Efter succesfuld brugeroprettelse via hjemmesiden bliver brugerne omdirigeret til denne side.">
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-  <meta property="article:published_time" content="2024-03-23T12:37:21+00:00">
+  <meta property="article:published_time" content="2024-03-23T12:54:11+00:00">
 
 
 
@@ -303,8 +303,8 @@
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Velkommen">
-    <meta itemprop="description" content="Velkomstside (node/12) - Sættes som “Redirect on create” - /admin/config/people/registration.">
-    <meta itemprop="datePublished" content="2024-03-23T12:37:21+00:00">
+    <meta itemprop="description" content="Den faste sider Velkommen er en velkomstside til nyoprettede brugere. Efter succesfuld brugeroprettelse via hjemmesiden bliver brugerne omdirigeret til denne side.">
+    <meta itemprop="datePublished" content="2024-03-23T12:54:11+00:00">
     
 
     <div class="page__inner-wrap">
@@ -335,18 +335,40 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <p>Velkomstside (node/12) - Sættes som “Redirect on create” - /admin/config/people/registration.</p>
+        <p>Den faste sider <strong>Velkommen</strong> er en velkomstside til nyoprettede brugere. Efter succesfuld brugeroprettelse via hjemmesiden bliver brugerne omdirigeret til denne side.</p>
 
-<table>
-  <tbody>
-    <tr>
-      <td>Se eksempel på: Velkommen</td>
-      <td>DPL CMS (reload.dk)</td>
-    </tr>
-  </tbody>
-</table>
+<h2 id="tilret-teksten-på-siden-velkommen">Tilret teksten på siden Velkommen</h2>
+<figure class="eighty">
+  <img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3d398128-45ab-4e07-b26d-6c011ff78c29" alt="Find siden Velkommen under indhold og tilret teksten efter jeres behov" /><figcaption>
+      Find siden Velkommen under indhold og tilret teksten efter jeres behov
 
-<p>Denne side redirectes brugere til ved succesfuld brugeroprettelse via hjemmesiden.</p>
+    </figcaption></figure>
+
+<p>Standardteksten må gerne tilrettes:</p>
+<ol>
+  <li>Find siden der hedder <strong>Velkommen</strong>. Den kan fremsøges under <strong>Indhold</strong>.</li>
+  <li>Tryk på <strong>Rediger siden</strong> og tilret teksten efter ønske.</li>
+  <li>Tryk <strong>Gem</strong></li>
+</ol>
+
+<h2 id="erstat-den-faste-side-velkommen-med-en-anden-side">Erstat den faste side Velkommen med en anden side</h2>
+
+<p>Er du kommet til at slette siden Velkommen, kan du oprette en ny side, og få de indbyggede links til at pege på den.</p>
+
+<ol>
+  <li>Opret en ny side, der skal erstatte den faste side Velkommen. Læg mærke til sidens URL. Den kan du se i browserens adresselinje. Det er den sidste del der er interessant. Den hedder noget med <strong>node/xxx</strong>. (xxx er et tal)</li>
+  <li>Nu skal du registerer den nye sides URL i indstillinger for websiden. Log ind med en bruger, der har rollen <strong>Lokal administrator</strong>.</li>
+  <li>I topmenuen klik på <strong>Indstillinger &gt; Biblioteksindstillinger &gt; Brugeroprettelse</strong><br />
+Eller åbn via URL: https://mit-domænenavn.dk/admin/config/people/registration (udskift mit-domænenavn.dk)</li>
+  <li>På siden <strong>Brugeroprettelse</strong> find feltet <strong>Side som låner omdirigeres til ved oprettelse</strong></li>
+  <li>Udfyld med den relative URL på den nyoprettede side. Dvs. <code class="language-plaintext highlighter-rouge">node/xxx</code>, hvor xxx er et tal.</li>
+</ol>
+
+<figure class="eighty">
+  <img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/69bc79be-20e9-42a6-a10f-18cb52aff1b7" alt="Læg mærke til den nye sides URL" /><figcaption>
+      Læg mærke til den nye sides URL.
+
+    </figcaption></figure>
 
 
         
@@ -359,7 +381,7 @@
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-03-23T12:37:21+00:00">March 23, 2024</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-03-23T12:54:11+00:00">March 23, 2024</time></p>
 
       </footer>
 
