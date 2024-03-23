@@ -29,3 +29,4 @@ Eller åbn via URL: https://mit-domænenavn.dk/admin/config/dpl-library-agency/f
 
 ## Takster standardteksten
 Har du mistet standardteksten, så er den her:
+[Standardteksten til siden Takster](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/takster-standardtekst/)
