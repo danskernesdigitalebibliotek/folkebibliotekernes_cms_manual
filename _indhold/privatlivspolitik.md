@@ -9,3 +9,7 @@ Se eksempel på Privatlivspolitik | DPL CMS (reload.dk)
 
 Denne side linkes der til fra brugeroprettelsessiden. Det er et lovkrav at have en privatlivspolitik på hjemmesiden..
 
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d5250e9e-20c7-495f-9946-6056a9950067)
+Nederst på Brugerprofil (user/me)
+
+
