@@ -4,7 +4,7 @@ title: "Takster"
 **Takster** er en informationsside om gebyrtakster, erstatninger og betaling.
 Der linkes til denne side flere steder, bla. fra Gebyrer & Erstatninger, men også fra materialer, som er ved at udløbe.
 
-INDSÆT BILLEDE
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/9cc5c619-8716-434b-8122-77ab2df80bcc" alt="Fra Gebyrer & erstatninger er der link til siden Takster" caption="Fra Gebyrer & erstatninger er der link til siden Takster" %} 
 
 ## Tilret teksten på siden Takster
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2965b5e9-631f-4def-96c1-a9ecc1989de3" alt="Find siden Pausefunktion under indhold og tilret teksten efter jeres behov" caption="Find siden Pausefunktion under indhold og tilret teksten efter jeres behov" %} 
