@@ -14,6 +14,7 @@ Redaktionelt indhold er alt det indhold, som I selv opretter på jeres site.
 - [Hovedmenu](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/hovedmenu/) og [footermenu](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/footermenu/)
 - Tags og kategorier
 
-Sider, artikler, arrangementer og kampagner oprettes og redigeres via menupunktet **Indhold** i topmenuen. 
-{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ae33b5bc-d761-43ed-90c6-9b60a6a0c30f" alt="Indhold oprettes og redigeres via menupunktet Indhold" caption="Indhold oprettes og redigeres via menupunktet Indhold" %} 
+## Faste sider
+Folkebibliotekernes CMS fødes med nogle [faste sider](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/faste-sider/) eller standardsider. Faste sider er præcis som alle andre sider. De er der bare fra starten af, når I får systemet. Tanken er, at I tilretter teksterne på de faste sider efter lokale forhold samt evt. tone.
+Slet ikke de faste sider, for hvis de mangler, kan der opstå døde links og systemfejl.
 
