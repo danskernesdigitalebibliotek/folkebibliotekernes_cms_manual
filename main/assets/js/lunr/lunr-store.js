@@ -485,8 +485,8 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/fbs-indstillinger/",
         "teaser": null
       },{
-        "title": "Gebyrindstillinger",
-        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Gebyrindstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/fees Blokeret bruger - Link i modal til blokeret bruger (til fx Mit betalingsoverblik) Hvis en bruger er blokeret pga. af overskredet gebyrgrænse vises en pop-up til brugeren ved login. I den pop-up har I...","categories": ["Konfiguration"],
+        "title": "Indstillinger for gebyrside",
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for gebyrside Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/fees Blokeret bruger - Link i modal til blokeret bruger (til fx Mit betalingsoverblik) Hvis en bruger er blokeret pga. af overskredet gebyrgrænse vises en pop-up til brugeren ved login. I den pop-up...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/gebyrindstillinger/",
         "teaser": null
