@@ -1,6 +1,6 @@
 ---
-title: "Gebyrindstillinger"
-click-path: "Indstillinger > Biblioteksindstillinger > Gebyrindstillinger"
+title: "Indstillinger for gebyrside"
+click-path: "Indstillinger > Biblioteksindstillinger > Indstillinger for gebyrside"
 category: "Konfiguration"
 emneord: 
 - "Betaling"
