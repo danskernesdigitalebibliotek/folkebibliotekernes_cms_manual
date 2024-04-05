@@ -450,7 +450,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Privatlivspolitik",
-        "excerpt":"Privatlivspolitik (node/10) - Skal linkes til fra servicemenuen i footeren under “Behandling af persondata”. Denne er på nuværende tidspunkt hardcoded, hvilket rettes i kommende release. Det ønskes at titlen på linket skal være “Privatlivspolitik” så det matcher “Privatlivspolitik” siden. Der linkes til denne side under “Delete patron link” på /admin/config/dpl-library-agency/patron-page-settings...","categories": [],
+        "excerpt":"Privatlivspolitik er en oplysningsside om behandling af personoplysninger. Det er et lovkrav at have en privatlivspolitik på hjemmesiden. Der link til privatlivspolitik to steder i Folkebibliotekernes CMS: Fra servicemenuen i footeren under “Behandling af persondata”. (Denne er på nuværende tidspunkt hardcoded, hvilket rettes i kommende release. Det ønskes at titlen...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/privatlivspolitik/",
         "teaser": null
