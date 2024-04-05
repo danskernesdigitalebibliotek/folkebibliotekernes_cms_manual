@@ -510,7 +510,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Indstillinger for brugerprofil",
-        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for brugerprofil Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/patron-page-settings Url til side om hvordan man bliver slettet som bruger af biblioteket Angiv her URL til side om reserveringspause Her kan du indsætte et link til en hjælpeside om, hvordan man bliver...","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for brugerprofil Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/patron-page-settings Url til side om hvordan man bliver slettet som bruger af biblioteket Vises som et link nederst i brugerprofilen (/user/me) Her kan du indsætte et link til en hjælpeside om, hvordan man...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/indstillinger-for-brugerprofil/",
         "teaser": null
