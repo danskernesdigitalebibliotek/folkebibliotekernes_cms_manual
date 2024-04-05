@@ -227,6 +227,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/emneord/elektroniske-ressourcer/",
         "teaser": null
       },{
+        "title": "Faste sider",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/emneord/faste-sider/",
+        "teaser": null
+      },{
         "title": "FBS",
         "excerpt":" ","categories": [],
         "tags": [],
