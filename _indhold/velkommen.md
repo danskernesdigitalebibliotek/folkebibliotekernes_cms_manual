@@ -1,5 +1,7 @@
 ---
 title: "Velkommen"
+emneord:
+- "Faste sider"
 ---
 Den faste sider **Velkommen** er en velkomstside til nyoprettede brugere. Efter succesfuld brugeroprettelse via hjemmesiden bliver brugerne omdirigeret til denne side.
 
