@@ -9,7 +9,7 @@ emneord:
 Der link til privatlivspolitik to steder i Folkebibliotekernes CMS:
 
 - Fra servicemenuen i footeren under “Behandling af persondata”. (Denne er på nuværende tidspunkt hardcoded, hvilket rettes i kommende release. Det ønskes at titlen på linket skal være “Privatlivspolitik” så det matcher “Privatlivspolitik” siden. XX)
-  
+
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c166ec9c-d227-4070-bd76-0c30305ceaed" alt="Der er link til privatlivspolitik fra servicemenuen i footeren" caption="Der er link til privatlivspolitik fra servicemenuen i footeren" %} 
 
 - Fra bunden af brugerprofilen (/user/me), hvor linket hedder "Sådan sletter du din brugerprofil".
