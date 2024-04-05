@@ -1,5 +1,9 @@
-
-Her er standardteksten til siden Takster:
+---
+title: "Standardtekst for Takster"
+emneord:
+- "Faste sider"
+---
+Har du mistet standardteksten til den faste side "Takster", så er den her:
 
 ## Takster
 Her kan du se gældende regler og satser for lånetider, gebyrer og erstatninger.
