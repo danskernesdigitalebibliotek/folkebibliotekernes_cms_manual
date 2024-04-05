@@ -29,14 +29,14 @@ Her kan du indsætte et link til en hjælpeside om, hvordan man bliver slettet s
 XX TEKST MANGLER XX
 
 ## Pinkodelængde (minimumslængde)
-I Cicero har I indstillet, hvor lange brugernes pinkoder skal være. Det mest almindelige er 4 cifre, men nogle kommuner bruger 5 cifre. Nogle kommuner bruger et miks af de to. Det er vigtigt at I her oplyser den rigtige pin kode længde.
+I Cicero har I indstillet, hvor lange brugernes pinkoder skal være. Det mest almindelige er 4 cifre, men nogle kommuner bruger 5 cifre. Nogle kommuner bruger et miks af de to. Det er vigtigt, at I her oplyser den rigtige pin kode længde.
  
 |Feltnavn|Standardværdi|
 |---|---|
 |Pinkodelængde (minimumslængde)|4|
 
 ## Pinkodelængde (maksimumslængde)
-I Cicero har I indstillet, hvor lange brugernes pinkoder skal være. Det mest almindelige er 4 cifre, men nogle kommuner bruger 5 cifre. Nogle kommuner bruger et miks af de to. Det er vigtigt at I her oplyser den rigtige pinkode længde.
+I Cicero har I indstillet, hvor lange brugernes pinkoder skal være. Det mest almindelige er 4 cifre, men nogle kommuner bruger 5 cifre. Nogle kommuner bruger et miks af de to. Det er vigtigt, at I her oplyser den rigtige pinkode længde.
 
 |Feltnavn|Standardværdi|
 |---|---|
