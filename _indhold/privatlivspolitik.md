@@ -17,6 +17,12 @@ Der link til privatlivspolitik to steder i Folkebibliotekernes CMS:
 
 ## Tilret teksten på siden Privatlivspolitik
 
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/955e98ec-3af8-4841-b620-eafcf313a86a" alt="Find siden Privatlivspolitik under indhold og tilret teksten efter jeres behov" caption="Find siden Privatlivspolitik under indhold og tilret teksten efter jeres behov" %} 
+
+Standardteksten må gerne tilrettes:
+1. Find siden der hedder **Privatlivspolitik**. Den kan fremsøges under **Indhold**.
+2. Tryk på **Rediger siden** og tilret teksten efter ønske.
+3. Tryk **Gem**
 
 
 
