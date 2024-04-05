@@ -1,5 +1,7 @@
 ---
 title: "Takster"
+emneord:
+- "Faste sider"
 ---
 **Takster** er en informationsside om gebyrtakster, erstatninger og betaling.
 Der linkes til denne side flere steder, bla. fra Gebyrer & Erstatninger, men også fra materialer, som er ved at udløbe.
