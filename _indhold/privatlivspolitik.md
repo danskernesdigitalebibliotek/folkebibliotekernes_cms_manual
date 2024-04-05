@@ -24,12 +24,31 @@ Standardteksten må gerne tilrettes:
 2. Tryk på **Rediger siden** og tilret teksten efter ønske.
 3. Tryk **Gem**
 
+## Erstat den faste side Privatlivspolitik med en anden side
 
+Er du kommet til at slette siden Privatlivspolitik, kan du oprette en ny side, og få de indbyggede links til at pege på den.
+
+### Sådan ændrer du linket i bunden af brugerprofilen:
+1. Opret en ny side, der skal erstatte den faste side Privatlivspolitik. Læg mærke til sidens URL. Den kan du se i browserens adresselinje. Det er den sidste del der er interessant. Den hedder noget med **node/xxx**. (xxx er et tal)
+2. Nu skal du registerer den nye sides URL i indstillinger for websiden. Log ind med en bruger, der har rollen **Lokal administrator**.
+3. I topmenuen klik på **Indstillinger > Biblioteksindstillinger > Indstillinger for brugerprofil**\
+Eller åbn via URL: https://mit-domænenavn.dk/admin/config/dpl-library-agency/patron-page-settings (udskift mit-domænenavn.dk)
+4. På siden **Indstillinger for brugerprofil** find feltet **Url til side om hvordan man bliver slettet som bruger af biblioteket**
+5. Udfyld med den relative URL på den nye side. Dvs. `node/xxx`, hvor xxx er et tal.
+
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/69bc79be-20e9-42a6-a10f-18cb52aff1b7" alt="Læg mærke til den nye sides URL" caption="Læg mærke til den nye sides URL." %} 
+
+### Sådan ændrer du linket i footerens servicemenu
+Pt. er linket i servicemenuen hardcodet og kan ikke ændres. XX
 
 Der linkes til denne side under “Delete patron link” på /admin/config/dpl-library-agency/patron-page-settings . 
 Se eksempel på Privatlivspolitik | DPL CMS (reload.dk)
 
-Denne side linkes der til fra brugeroprettelsessiden. .
+Denne side linkes der til fra brugeroprettelsessiden.
+
+## Privatlivspolitik standardteksten
+Har du mistet standardteksten, så er den her:
+[Standardteksten til siden Privatlivspolitik](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/takster-standardtekst/)
 
 
 Nederst på Brugerprofil (user/me)
