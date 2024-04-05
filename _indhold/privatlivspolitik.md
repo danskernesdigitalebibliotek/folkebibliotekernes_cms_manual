@@ -43,16 +43,6 @@ Eller åbn via URL: https://mit-domænenavn.dk/admin/config/dpl-library-agency/p
 ### Sådan ændrer du linket i footerens servicemenu
 Pt. er linket i servicemenuen hardcodet og kan ikke ændres. XX
 
-Der linkes til denne side under “Delete patron link” på /admin/config/dpl-library-agency/patron-page-settings . 
-Se eksempel på Privatlivspolitik | DPL CMS (reload.dk)
-
-Denne side linkes der til fra brugeroprettelsessiden.
-
 ## Privatlivspolitik standardteksten
 Har du mistet standardteksten, så er den her:
 [Standardteksten til siden Privatlivspolitik](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/takster-standardtekst/)
-
-
-Nederst på Brugerprofil (user/me)
-
-
