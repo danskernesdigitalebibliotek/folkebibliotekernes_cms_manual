@@ -5,7 +5,7 @@ emneord:
 ---
 Har du mistet standardteksten til den faste side "Privatlivspolitik", så er den her:
 
-## Privatlivsplitik
+## Privatlivspolitik
 **Oplysningstekst om behandling af personoplysninger.**
 
 I forbindelse med din oprettelse som bruger hos **[Dannevang Kommunes Biblioteker]** samt din fremadrettede brug af **[Dannevangs Bibliotekers]** selvbetjeningsløsninger, herunder selvbetjeningsautomater, hjemmeside, åbne biblioteker (dvs. benytte biblioteket udenfor betjent åbningstid) og bibliotekets APP ”Biblioteket”, skal vi jf. Databeskyttelsesforordningen informere dig om en række detaljer i vores håndtering af dine oplysninger og oplyse dig om dine rettigheder i den forbindelse.
