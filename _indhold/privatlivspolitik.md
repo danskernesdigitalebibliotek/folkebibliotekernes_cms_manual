@@ -45,4 +45,4 @@ Pt. er linket i servicemenuen hardcodet og kan ikke ændres. XX
 
 ## Privatlivspolitik standardteksten
 Har du mistet standardteksten, så er den her:
-[Standardteksten til siden Privatlivspolitik](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/takster-standardtekst/)
+[Standardteksten til siden Privatlivspolitik](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/privatlivspolitik-standardtekst/)
