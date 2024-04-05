@@ -53,35 +53,19 @@ Du har efter databeskyttelsesforordningen en række rettigheder i forhold til vo
 Du har ret til at få indsigt i de oplysninger, som vi behandler om dig, samt en række yderligere oplysninger.
 
 ### Ret til berigtigelse (rettelse)
-</h3>
-<p>
-    Du har ret til at få urigtige oplysninger om dig selv rettet. Du har også ret til at få dine oplysninger suppleret med yderligere oplysninger, hvis dette vil gøre dine personoplysninger mere fuldstændige og/eller ajourførte.
-</p>
-<h3>
-    <br>
-    Ret til sletning
-</h3>
-<p>
-    I visse tilfælde har du ret til at få slettet oplysninger om dig, inden tidspunktet for vores almindelige generelle sletning indtræffer.<br>
-    &nbsp;
-</p>
-<h3>
-    Ret til begrænsning af behandling
-</h3>
-<p>
-    Du har i visse tilfælde ret til at få behandlingen af dine oplysninger begrænset. Hvis du har ret til at få begrænset behandlingen, må vi fremover kun behandle oplysningerne – bortset fra opbevaring – med dit samtykke, eller med henblik på at retskrav kan fastlægges, gøres gældende eller forsvares, eller for at beskytte en person eller vigtige samfundsinteresser.<br>
-    &nbsp;
-</p>
-<h3>
-    Ret til indsigelse
-</h3>
-<p>
-    Du har i visse tilfælde ret til at gøre indsigelse mod vores ellers lovlige behandling af dine personoplysninger.<br>
-    Du kan læse mere om dine rettigheder i Datatilsynets vejledning om de registreredes rettigheder, som du finder på&nbsp;<a href="http://www.datatilsynet.dk/">www.datatilsynet.dk</a>.<br>
-    <br>
-    Den dataansvarlige er&nbsp;<strong>[Danevang Kommunes Biblioteker</strong><br>
-    <strong>Danevangs Plads 1, 1111 Danevang Ø]</strong>, som kan kontaktes på telefon&nbsp;<strong>[1111 1111]</strong>&nbsp;eller<strong>&nbsp;[XXX@dannevang.dk]&nbsp;</strong>Har du spørgsmål i forbindelse med&nbsp;[Dannevang Kommunes]​​​​​​​&nbsp;behandlinger af dine oplysninger, så kan du også kontakte&nbsp;<strong>[Dannevang Kommunes]</strong>&nbsp;databeskyttelsesrådgiver på mail&nbsp;<strong>[XXXX@Dannevang.dk.]</strong>
-</p>
-<p>
-    Du skal slutteligt vide at det er muligt at klage til Datatilsynet over behandlingen af personoplysningerne.
-</p>
+Du har ret til at få urigtige oplysninger om dig selv rettet. Du har også ret til at få dine oplysninger suppleret med yderligere oplysninger, hvis dette vil gøre dine personoplysninger mere fuldstændige og/eller ajourførte.
+
+### Ret til sletning
+I visse tilfælde har du ret til at få slettet oplysninger om dig, inden tidspunktet for vores almindelige generelle sletning indtræffer.<br>
+
+### Ret til begrænsning af behandling
+Du har i visse tilfælde ret til at få behandlingen af dine oplysninger begrænset. Hvis du har ret til at få begrænset behandlingen, må vi fremover kun behandle oplysningerne – bortset fra opbevaring – med dit samtykke, eller med henblik på at retskrav kan fastlægges, gøres gældende eller forsvares, eller for at beskytte en person eller vigtige samfundsinteresser.
+
+### Ret til indsigelse
+Du har i visse tilfælde ret til at gøre indsigelse mod vores ellers lovlige behandling af dine personoplysninger.
+Du kan læse mere om dine rettigheder i Datatilsynets vejledning om de registreredes rettigheder, som du finder på [www.datatilsynet.dk](http://www.datatilsynet.dk/).
+
+Den dataansvarlige er **[Danevang Kommunes Biblioteker, Danevangs Plads 1, 1111 Danevang Ø]**, som kan kontaktes på telefon **[1111 1111]** eller **[XXX@dannevang.dk]** Har du spørgsmål i forbindelse med **[Dannevang Kommunes]​​​​​​​** behandlinger af dine oplysninger, så kan du også kontakte **[Dannevang Kommunes]** databeskyttelsesrådgiver på mail **[XXXX@Dannevang.dk.]**
+
+Du skal slutteligt vide at det er muligt at klage til Datatilsynet over behandlingen af personoplysningerne.
+
