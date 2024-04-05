@@ -509,6 +509,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/",
         "teaser": null
       },{
+        "title": "Indstillinger for brugerprofil",
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for brugerprofil   Eller åbn via URL (udskift mit-domænenavn.dk):  https://mit-domænenavn.dk/admin/config/dpl-library-agency/patron-page-settings   ","categories": ["Konfiguration"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/konfiguration/indstillinger-for-brugerprofil/",
+        "teaser": null
+      },{
         "title": "Mapp Intelligence",
         "excerpt":"I topmenuen klik på Indstillinger &gt; System &gt; Mapp Intelligence indstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/system/dpl-mapp Om Mapp Intelligence Webstatistik indgår også som en del af den hjemmesidepakke, Det Digitale Folkebibliotek tilbyder. Vi benytter det statistikværktøj, der hedder Mapp. Mapps danske leverandør hedder KPI Index. Alle spørgsmål om...","categories": ["Konfiguration"],
         "tags": [],
