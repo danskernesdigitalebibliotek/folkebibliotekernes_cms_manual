@@ -2,6 +2,7 @@
 **Oplysningstekst om behandling af personoplysninger.**
 
 I forbindelse med din oprettelse som bruger hos **[Dannevang Kommunes Biblioteker]** samt din fremadrettede brug af **[Dannevangs Bibliotekers]** selvbetjeningsløsninger, herunder selvbetjeningsautomater, hjemmeside, åbne biblioteker (dvs. benytte biblioteket udenfor betjent åbningstid) og bibliotekets APP ”Biblioteket”, skal vi jf. Databeskyttelsesforordningen informere dig om en række detaljer i vores håndtering af dine oplysninger og oplyse dig om dine rettigheder i den forbindelse.
+
 **[Dannevang Kommunes Biblioteker]** er dataansvarlig for de personoplysninger om dig, som vi benytter i biblioteket. Formålet med behandlingen af personoplysninger er at tilbyde en række services iht. rammerne for Lov om biblioteksvirksomhed (Biblioteksloven).
 
 Retsgrundlaget for vores behandling af personoplysninger er databeskyttelsesforordningens artikel 6, stk. 1, litra c) om behandling, der er nødvendig for at overholde en retlig forpligtelse, som påhviler den dataansvarlige og artikel 6, stk. 1, litra e) om behandling, der er nødvendig af hensyn til udførelse af en opgave i samfundets interesse.
