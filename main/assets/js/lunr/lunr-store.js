@@ -473,6 +473,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/side/",
         "teaser": null
       },{
+        "title": "Standardtekst for Takster",
+        "excerpt":"Har du mistet standardteksten til den faste side “Takster”, så er den her: Takster Her kan du se gældende regler og satser for lånetider, gebyrer og erstatninger. Du skal betale gebyr efter gældende takst, hvis du afleverer for sent. Gebyrerne er fastsat af Kommunalbestyrelsen i [Dannevang Kommune] Du kan på...","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/indhold/takster-standardtekst/",
+        "teaser": null
+      },{
         "title": "Takster",
         "excerpt":"Takster er en informationsside om gebyrtakster, erstatninger og betaling. Der linkes til denne side flere steder, bla. fra Gebyrer &amp; Erstatninger, men også fra materialer, som er ved at udløbe. Fra Gebyrer &amp; erstatninger er der link til siden Takster Tilret teksten på siden Takster Find siden Takster under indhold...","categories": [],
         "tags": [],
