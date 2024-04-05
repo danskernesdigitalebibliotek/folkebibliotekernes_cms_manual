@@ -8,6 +8,7 @@ emneord:
 - "SMS"
 - "Interesseperiode"
 - "VIP og søgeprofiler"
+- "FBS"
 - "X mangler indhold"
 ---
 
