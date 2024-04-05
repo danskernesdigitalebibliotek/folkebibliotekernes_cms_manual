@@ -450,7 +450,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Standardtekst for Privatlivspolitik",
-        "excerpt":"Har du mistet standardteksten til den faste side “Privatlivspolitik”, så er den her: Privatlivsplitik Oplysningstekst om behandling af personoplysninger. I forbindelse med din oprettelse som bruger hos [Dannevang Kommunes Biblioteker] samt din fremadrettede brug af [Dannevangs Bibliotekers] selvbetjeningsløsninger, herunder selvbetjeningsautomater, hjemmeside, åbne biblioteker (dvs. benytte biblioteket udenfor betjent åbningstid) og...","categories": [],
+        "excerpt":"Har du mistet standardteksten til den faste side “Privatlivspolitik”, så er den her: Privatlivspolitik Oplysningstekst om behandling af personoplysninger. I forbindelse med din oprettelse som bruger hos [Dannevang Kommunes Biblioteker] samt din fremadrettede brug af [Dannevangs Bibliotekers] selvbetjeningsløsninger, herunder selvbetjeningsautomater, hjemmeside, åbne biblioteker (dvs. benytte biblioteket udenfor betjent åbningstid) og...","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/privatlivspolitik-standardtekst/",
         "teaser": null
