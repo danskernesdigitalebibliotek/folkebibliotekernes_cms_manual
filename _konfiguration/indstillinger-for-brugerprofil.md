@@ -21,5 +21,5 @@ Her kan du indsætte et link til en hjælpeside om, hvordan man bliver slettet s
 
 |Feltnavn|Anbefalet værdi|
 |---|---|
-|Url til side om hvordan man bliver slettet som bruger af biblioteket|. Standardværdien er `/privatlivspolitik`. Kan udskiftes med en anden URL efter ønske.|
+|Url til side om hvordan man bliver slettet som bruger af biblioteket|Standardværdien er `/privatlivspolitik`. Kan udskiftes med en anden URL efter ønske.|
 
