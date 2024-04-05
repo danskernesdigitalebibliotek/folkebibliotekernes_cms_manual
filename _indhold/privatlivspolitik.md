@@ -1,5 +1,7 @@
 ---
 title: "Privatlivspolitik"
+emneord:
+- "Faste sider"
 ---
 
 Privatlivspolitik (node/10) - Skal linkes til fra servicemenuen i footeren under “Behandling af persondata”. Denne er på nuværende tidspunkt hardcoded, hvilket rettes i kommende release. Det ønskes at titlen på linket skal være “Privatlivspolitik” så det matcher “Privatlivspolitik” siden. 
