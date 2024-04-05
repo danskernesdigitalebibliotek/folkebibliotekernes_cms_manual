@@ -9,6 +9,7 @@ emneord:
 - "Interesseperiode"
 - "VIP og søgeprofiler"
 - "FBS"
+- "Faste sider"
 - "X mangler indhold"
 ---
 
