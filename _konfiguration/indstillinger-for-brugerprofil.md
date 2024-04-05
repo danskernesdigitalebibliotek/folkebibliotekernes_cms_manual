@@ -19,7 +19,7 @@ Her kan du indsætte et link til en hjælpeside om, hvordan man bliver slettet s
 [**Privatlivspolitik**](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/privatlivspolitik/), der er navnet på en [fast side](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/faste-sider/) som Folkebibliotekernes CMS leveres med.
 Ønsker I at linke til en anden side end privatlivspolitik, indsætter I bare en anden URL i feltet.
 
-|Feltnavn|Anbefalet værdi|
+|Feltnavn|Standardværdi|
 |---|---|
 |Url til side om hvordan man bliver slettet som bruger af biblioteket|Standardværdien er `/privatlivspolitik`. Kan udskiftes med en anden URL efter ønske.|
 
@@ -27,7 +27,17 @@ Her kan du indsætte et link til en hjælpeside om, hvordan man bliver slettet s
 XX TEKST MANGLER XX
 
 ## Pinkodelængde (minimumslængde)
+I Cicero har I valgt hvor lange jeres brugeres pinkoder skal være. Det mest almindelige er 4 cifre, men nogle kommuner bruger 5 cifre.
+Det er vigtigt at I her registerer den rigtige pin kode længde.
+
+|Feltnavn|Standardværdi|
+|---|---|
+|Pinkodelængde (minimumslængde)|4|
 
 ## Pinkodelængde (maksimumslængde)
+
+|Feltnavn|Standardværdi|
+|---|---|
+|Pinkodelængde (maksimumslængde)|4|
 
 
