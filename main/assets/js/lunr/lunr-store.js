@@ -449,6 +449,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/pausefunktion/",
         "teaser": null
       },{
+        "title": "Standardtekst for Privatlivspolitik",
+        "excerpt":"Har du mistet standardteksten til den faste side “Privatlivspolitik”, så er den her: Privatlivsplitik Oplysningstekst om behandling af personoplysninger. I forbindelse med din oprettelse som bruger hos [Dannevang Kommunes Biblioteker] samt din fremadrettede brug af [Dannevangs Bibliotekers] selvbetjeningsløsninger, herunder selvbetjeningsautomater, hjemmeside, åbne biblioteker (dvs. benytte biblioteket udenfor betjent åbningstid) og...","categories": [],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/indhold/privatlivspolitik-standardtekst/",
+        "teaser": null
+      },{
         "title": "Privatlivspolitik",
         "excerpt":"Privatlivspolitik er en oplysningsside om behandling af personoplysninger. Det er et lovkrav at have en privatlivspolitik på hjemmesiden. Der link til privatlivspolitik to steder i Folkebibliotekernes CMS: Fra servicemenuen i footeren under “Behandling af persondata”. (Denne er på nuværende tidspunkt hardcoded, hvilket rettes i kommende release. Det ønskes at titlen...","categories": [],
         "tags": [],
