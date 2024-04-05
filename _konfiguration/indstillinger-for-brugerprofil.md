@@ -23,3 +23,11 @@ Her kan du indsætte et link til en hjælpeside om, hvordan man bliver slettet s
 |---|---|
 |Url til side om hvordan man bliver slettet som bruger af biblioteket|Standardværdien er `/privatlivspolitik`. Kan udskiftes med en anden URL efter ønske.|
 
+## eReolens titler som altid er tilgængelige
+XX TEKST MANGLER XX
+
+## Pinkodelængde (minimumslængde)
+
+## Pinkodelængde (maksimumslængde)
+
+
