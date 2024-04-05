@@ -17,9 +17,9 @@ Eller åbn via URL (udskift mit-domænenavn.dk):\
 
 Her kan du indsætte et link til en hjælpeside om, hvordan man bliver slettet som bruger på biblioteket. Som standard linkes til 
 **Privatlivspolitik**, der er navnet på en [fast side](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/faste-sider/) som Folkebibliotekernes CMS leveres med.
-Ønsker I ikke at bruge pausefunktion-standardsiden, kan man her udfylde med URL til en alternativ side.
+Ønsker I at linke til en anden side end privatlivspolitik, indsætter I bare en anden URL i feltet.
 
 |Feltnavn|Anbefalet værdi|
 |---|---|
-|Link til side om reserveringspause|URL til side om Pausefunktionen. Standardværdien er `/pausefunktion`|
+|Url til side om hvordan man bliver slettet som bruger af biblioteket|. Standardværdien er `/privatlivspolitik`. Kan udskiftes med en anden URL efter ønske.|
 
