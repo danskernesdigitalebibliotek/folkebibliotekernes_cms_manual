@@ -5,6 +5,7 @@ category: "Konfiguration"
 emneord: 
 - "FBS"
 - "Publizon"
+- "Faste sider"
 
 ---
 
