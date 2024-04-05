@@ -3,7 +3,8 @@ title: "Indstillinger for brugerprofil"
 click-path: "Indstillinger > Biblioteksindstillinger > Indstillinger for brugerprofil"
 category: "Konfiguration"
 emneord: 
-- "Adgangsplatformen"
+- "FBS"
+- "Publizon"
 
 ---
 
