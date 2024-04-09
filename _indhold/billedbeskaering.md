@@ -10,7 +10,9 @@ Her ses et eksempel, hvor flere billedratioer er i brug:
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3a16390f-78a0-4172-af3b-68a7cd58018e" alt="Billeder beskæres automatisk i fire forskellige billedratioer" caption="Billeder beskæres automatisk i fire forskellige billedratioer" %} 
 
 ## Fokusfunktion
-Når du har uploadet et billede til CMS’en, bør du sikre dig at det ser godt ud i alle beskæringer i de forskellige paragraphs. Dette skal du gøre, fordi du billedet kan bruges flere steder, hvis fx den artikel du skriver bliver fremhævet i en nyhedskomponent på forsiden, eller trukket ind i et inspirationsbånd/slider. Jo flere grafiske elementer et billede indeholder, jo sværere kan det være at få det pænt i alle beskæringer, så det er vigtigt at overveje, hvad der er det vigtigste element i et billede.
+Når du har uploadet et billede til CMS’en, bør du sikre dig at det ser godt ud i alle beskæringer i de forskellige paragraphs. Dette skal du gøre, fordi du billedet kan bruges flere steder, hvis fx den artikel du skriver bliver fremhævet i en nyhedskomponent på forsiden, eller trukket ind i et inspirationsbånd/slider. 
+
+Jo flere grafiske elementer et billede indeholder, jo sværere kan det være at få det pænt i alle beskæringer, så det er vigtigt at overveje, hvad der er det vigtigste element i et billede.
 
 Sådan gør du:
 1. Når billedet er uploadet og gemt i mediebiblioteket, vises det med en lille blyant som indikerer, at du kan redigere det. Tryk på blyanten for at åbne redigeringstilstand.
