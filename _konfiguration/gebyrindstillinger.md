@@ -10,6 +10,10 @@ I topmenuen klik på **{{ page.click-path }}**
 Eller åbn via URL (udskift mit-domænenavn.dk):\
 `https://mit-domænenavn.dk/admin/config/dpl-library-agency/fees`
 
+## Blokeret bruger - Link til blokeret bruger som vises i modal
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/cc02b26e-f7d1-4791-ae12-a8615972ef7a)
+
+
 ## Blokeret bruger -  Link i modal til blokeret bruger (til fx Mit betalingsoverblik)
 Hvis en bruger er blokeret pga. af overskredet gebyrgrænse vises en pop-up til brugeren ved login. I den pop-up har I mulighed for at tilføje link til jeres betalingsløsning - f. eks. Mit betalingsoverblik. Det er ikke påkrævet at udfylde feltet. Hvis det ikke er udfyldt, vises der bare ingen link i pop-op vinduet. Har I ikke har Mit betalingsoverblik kan det give god mening at linke til siden /takster i stedet.
 
