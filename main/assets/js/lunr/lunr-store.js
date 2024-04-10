@@ -372,7 +372,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Billedbeskæring",
-        "excerpt":"I Folkebibliotekernes CMS resizes og beskæres billeder automatisk. alt efter hvilken kontekst de indgår i. Når man lægger et billede ind, bruger man det nye fokusværktøj til at udpege et fokuspunkt i billedet, som beskæring skal ske omkring. Det skulle gerne lette arbejdet med billederne. Der er ingen faste krav...","categories": ["Generelt"],
+        "excerpt":"I Folkebibliotekernes CMS resizes og beskæres billeder automatisk, alt efter hvilken kontekst de indgår i. Når man lægger et billede ind, bruger man det nye fokusværktøj til at udpege et fokuspunkt i billedet, som beskæring skal ske omkring. Det skulle gerne lette arbejdet med billederne. Der er ingen faste krav...","categories": ["Generelt"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/billedbeskaering/",
         "teaser": null
