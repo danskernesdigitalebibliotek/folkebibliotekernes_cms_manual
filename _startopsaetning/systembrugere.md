@@ -1,6 +1,6 @@
 ---
-title: "Opgave 4: Opret systembrugere"
-weight: 4
+title: "Opgave 3: Opret systembrugere"
+weight: 3
 category: "Startopsætning"
 emneord:
   - Brugere og roller
