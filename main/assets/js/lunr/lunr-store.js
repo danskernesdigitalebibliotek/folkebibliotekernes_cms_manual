@@ -689,6 +689,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/openid-connect/",
         "teaser": null
       },{
+        "title": "Opgave 6: Fjernadgang - Proxy indstillinger",
+        "excerpt":"Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til.  ","categories": ["Startopsætning"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/proxyindstillinger/",
+        "teaser": null
+      },{
         "title": "Opgave 3: Opret systembrugere",
         "excerpt":"Du er sikkert ikke den eneste, der skal lave indhold til jeres website. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden. Vi anbefaler meget, at I bruger individuelle logins med kun de nødvendige rettigheder tilknyttet. Bemærk: I DDB CMS skulle...","categories": ["Startopsætning"],
         "tags": [],
