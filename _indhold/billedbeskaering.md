@@ -2,7 +2,7 @@
 title: "Billedbeskæring"  
 category: "Generelt"
 ---
-I Folkebibliotekernes CMS resizes og beskæres billeder automatisk. alt efter hvilken kontekst de indgår i. Når man lægger et billede ind, bruger man det nye fokusværktøj til at udpege et fokuspunkt i billedet, som beskæring skal ske omkring. Det skulle gerne lette arbejdet med billederne.
+I Folkebibliotekernes CMS resizes og beskæres billeder automatisk, alt efter hvilken kontekst de indgår i. Når man lægger et billede ind, bruger man det nye fokusværktøj til at udpege et fokuspunkt i billedet, som beskæring skal ske omkring. Det skulle gerne lette arbejdet med billederne.
 
 Der er ingen faste krav til billedstørrelser, men det gælder om at bruge billeder i så høj opløsning som muligt. Billederne beskæres i fire forskellige billedratioer: 1:1, 3:4, 4:3 og 16:9. Når man uploader et billede, får man vist de mulige beskæringer inden udgivelsen.
 
