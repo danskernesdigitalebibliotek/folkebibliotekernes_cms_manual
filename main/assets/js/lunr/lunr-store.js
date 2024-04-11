@@ -401,7 +401,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/faste-sider/",
         "teaser": null
       },{
-        "title": "Footermenuen",
+        "title": "Footermenu",
         "excerpt":"I topmenuen klik på Indhold &gt; Footer settings eller brug adressen https://mit-domænenavn.dk/admin/structure/footer (udskift mit-domænenavn.dk) Vælg Indhold og herefter Footer Settings i topmeue Hver kolonne i footeren udfyldes med sin egen rubrik, der indeholder felterne Navn og Indhold. Navn er overskriften på kolonnen og Indhold er den information, som skal fremgå...","categories": ["Navigation"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/footermenu/",
