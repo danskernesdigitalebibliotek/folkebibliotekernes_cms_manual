@@ -1,5 +1,5 @@
 ---
-title: "Opret arrangement"
+title: "Arrangement"
 category: "Indholdstyper"
 weight: 1
 emneord:
