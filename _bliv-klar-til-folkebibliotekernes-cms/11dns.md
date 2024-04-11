@@ -6,7 +6,7 @@ weight: 11
 
 **DNS** står for Domain Name Service. Det er DNS registreringen der gør, at jeres hjemmeside adresse virker og peger hen på det rigtige website. Når I skifter fra DDB CMS til Folkebibliotekernes CMS skal jeres hjemmeside adresse (domænenavn) pege på en ny webserver (ip-adresse).
 
-I er selv ansvarlige for at hoste DNS registreringen. Det gør I allerede i dag. Nogle biblioteker står selv for DNS-opsætningen, mens andre får hjælp af IT-afdelingen i deres kommune.
+I er selv ansvarlige for at lave DNS registreringen. Det gør I allerede i dag. Nogle biblioteker står selv for DNS-opsætningen, mens andre får hjælp af IT-afdelingen i deres kommune.
 I skal finde ud af, hvem der står for jeres DNS-opsætning, og sikre jer at I har adgang til at få lavet en ny DNS registrering, den dag I skal skifte til Folkebibliotekernes CMS.
 
 Sådan gør du:
