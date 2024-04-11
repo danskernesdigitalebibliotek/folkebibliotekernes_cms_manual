@@ -1,5 +1,5 @@
 ---
-title: "Hovedmenuen"
+title: "Hovedmenu"
 category: "Navigation"
 weight: 1
 emneord:
