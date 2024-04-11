@@ -1,5 +1,6 @@
 ---
 title: "Tilgængelighedserklæring"
+category: "Faste sider"
 emneord:
 - "Faste sider"
 ---
