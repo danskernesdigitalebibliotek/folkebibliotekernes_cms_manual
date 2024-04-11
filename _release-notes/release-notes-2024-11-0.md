@@ -1,6 +1,7 @@
 ---
 title:  "Release Notes 2024.11.0"
 category: "Release Notes"
+weight: 999
 ---
 
 **Flere og bedre mulighed for at præsentere materialer, nye redaktionelle funktioner og listevisninger en masse**
