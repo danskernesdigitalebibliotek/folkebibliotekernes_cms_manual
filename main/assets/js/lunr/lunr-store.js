@@ -59,6 +59,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/9integrationer/",
         "teaser": null
       },{
+        "title": "Opgave 11: DNS opsætning",
+        "excerpt":"DNS står for Domain Name Service. Det er DNS registreringen der gør, at jeres hjemmeside adresse virker og peger hen på det rigtige website. Når I skifter fra DDB CMS til Folkebibliotekernes CMS skal jeres hjemmeside adresse (domænenavn) pege på en ny webserver (ip-adresse). I er selv ansvarlige for at...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/dns/",
+        "teaser": null
+      },{
         "title": "Bliv klar til Folkebibliotekernes CMS",
         "excerpt":"Her kan I danne jer et overblik over de aktiviteter, I skal igennem ifm. overgangen til Folkebibliotekernes CMS. Tag stilling til indholdet på jeres nuværende website og skitsér en plan for det nye. Kig på de nye designelementer og lad jer inspirere til en ny måde at strukturere og vise...","categories": [],
         "tags": [],
