@@ -1,5 +1,6 @@
 ---
 title: "Velkommen"
+category: "Faste sider"
 emneord:
 - "Faste sider"
 ---
