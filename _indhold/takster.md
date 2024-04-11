@@ -1,5 +1,6 @@
 ---
 title: "Takster"
+category: "Faste sider"
 emneord:
 - "Faste sider"
 ---
