@@ -1,13 +1,11 @@
 ---
-title:  "Release Notes 2024.11.0"
+title:  "Release Notes 2024.15.0"
 category: "Release Notes"
 ---
 
 **Denne release gør det let for brugerne at finde rundt på dit site med brødkrumme og slutbrugervenlige URL'er. Nu mulighed for at redigere servicemenu.**
 
-2024.15.0 Release Note 
-
-Nye features 
+## Nye features
 
 Filialer: Vælg at filial skal vises i toppen af /branches. Hvis flere filialer er tildelt topplacering listes disse alfabetisk. 
 
@@ -21,16 +19,19 @@ Servicemenu: Servicemenuen (den der ligger under footeren) er nu redigerbar unde
 
 Åbningstider (Bemærk brug ikke til endeligt indhold): Mulighed for at oprette åbningstider. Oprettelse sker via fane på indholdstypen filial/branch. Åbningstider kan trækkes fra andre applikationer via API. 
 
-Brødkrumme: Sider kan manuelt tildeles brødkrumme under /admin/structure/taxonomy/manage/breadcrumb_structure/overview (se efter bagværk i menulinjen). Opret på følgende måde: 1) Lav først de strukturerende sider dvs. sider som ender med at fungere som lister over andre sider. Det kan f.eks. være en oversigt som liste licenser eller licenskategorier eller hjælpesideoversigt a la https://bibliotek.kk.dk/hjaelp/gebyr-og-erstatning. 2) Opret brødkrumme der linker til de strukturerende sider 3) Opret de enkelte indholdssider (det kunne f.eks. for et afsnit af sitet, som skal indeholde hjælpesider være https://bibliotek.kk.dk/hjaelp/gebyr-og-erstatning/betalingsfrister). Under oprettelsen kan de tildeles placering i brødkrummestrukturen (breadcrumb children til sider i brødkrummestrukturen). 
+Brødkrumme: Sider kan manuelt tildeles brødkrumme under /admin/structure/taxonomy/manage/breadcrumb_structure/overview (se efter bagværk i menulinjen). 
+Opret på følgende måde: 
+1) Lav først de strukturerende sider dvs. sider som ender med at fungere som lister over andre sider. Det kan f.eks. være en oversigt som liste licenser eller licenskategorier eller hjælpesideoversigt a la https://bibliotek.kk.dk/hjaelp/gebyr-og-erstatning. 
+2) Opret brødkrumme der linker til de strukturerende sider 
+3) Opret de enkelte indholdssider (det kunne f.eks. for et afsnit af sitet, som skal indeholde hjælpesider være https://bibliotek.kk.dk/hjaelp/gebyr-og-erstatning/betalingsfrister). Under oprettelsen kan de tildeles placering i brødkrummestrukturen (breadcrumb children til sider i brødkrummestrukturen). 
 Bemærk at der er en række kendte fejl og forbedringer, som allerede er oprettet i relation til løsningen. Se under "Kendte fejl i releasen". Der genereres automatisk brødkrumme i relation til artikler (baseret på indholdstype, kategori og artikel). 
 
 Dokumentation af API (Bemærk ikke klar til brug): API (til udveksling af arrangementer med billetsystem) opdateret efter dialog med billetleverandør. Dokumentation på https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/event-integration/ og https://github.com/danskernesdigitalebibliotek/dpl-cms/blob/develop/openapi.json
 
-
 Artikler og arrangementer: Hvis man har oprettet indlejrede kategorier - f.eks. børn -> 0-2år - vil hierarkiet også fremgå af filtreringer under /articles og /events. 
 
 
-Fejlrettelser og forbedringer
+## Fejlrettelser og forbedringer
 
 Arrangement: Teasertekst (farvet boks) vises nu igen i listevisninger. 
 
