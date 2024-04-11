@@ -444,7 +444,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Privatlivspolitik",
-        "excerpt":"Privatlivspolitik er en oplysningsside om behandling af personoplysninger. Det er et lovkrav at have en privatlivspolitik på hjemmesiden. Der link til privatlivspolitik to steder i Folkebibliotekernes CMS: Fra servicemenuen i footeren under “Behandling af persondata”. (Denne er på nuværende tidspunkt hardcoded, hvilket rettes i kommende release. Det ønskes at titlen...","categories": [],
+        "excerpt":"Privatlivspolitik er en oplysningsside om behandling af personoplysninger. Det er et lovkrav at have en privatlivspolitik på hjemmesiden. Der link til privatlivspolitik to steder i Folkebibliotekernes CMS: Fra servicemenuen i footeren under “Behandling af persondata”. (Denne er på nuværende tidspunkt hardcoded, hvilket rettes i kommende release. Det ønskes at titlen...","categories": ["Faste sider"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/privatlivspolitik/",
         "teaser": null
