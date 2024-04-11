@@ -13,9 +13,6 @@ Tanken er, at I bruger standardsiderne, men tilretter teksterne efter lokale for
 {: .notice--info}
 
 ## Liste over faste sider
-- [Arrangementer](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/listeside-arrangementer/)
-- [Artikler](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/listeside-artikler/)
-- [Biblioteker](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/listeside-biblioteker/)
 - [Brugeroprettelsesside](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/brugeroprettelsesside/)
 - [Pausefunktion](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/pausefunktion/)
 - [Privatlivspolitik](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/privatlivspolitik/)
@@ -23,6 +20,8 @@ Tanken er, at I bruger standardsiderne, men tilretter teksterne efter lokale for
 - [Takster](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/takster/)
 - [Tilgængelighedserklæring](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/tilgaengelighedserklaering/)
 - [Velkommen](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/velkommen/)
+
+Ud over de faste sider er der også nogle listesider, som systemet er født med. Det drejer sig om Arrangementer, Artikler og Biblioteker. Dem kan man ikke slette og heller ikke ændre på.
 
 ## Her finder du de faste sider i backend
 
