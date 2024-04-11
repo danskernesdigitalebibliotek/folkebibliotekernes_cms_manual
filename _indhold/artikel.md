@@ -1,5 +1,5 @@
 ---
-title: "Opret artikel"
+title: "Artikel"
 category: "Indholdstyper"
 weight: 1
 emneord:
