@@ -1,5 +1,6 @@
 ---
 title: "Pausefunktion"
+category: "Faste sider"
 emneord: 
 - "Reserveringer"
 - "Faste sider"
