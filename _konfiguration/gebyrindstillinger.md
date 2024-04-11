@@ -31,6 +31,9 @@ På brugersiden vil det nu se således ud:
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/772addb4-9c5d-48dc-886a-7905f2e66270" alt="Gebyr på brugerprofilen" caption="Gebyr på brugerprofilen" %}
 
+Når man trykker på knappen "Se mere" under overskriften "Dit overblik" får man en detaljeret oversigt over hvilket materialer der er pålagt gebyr og med knap til betaling på Mit betalingsoverblik.
+
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/f15f8d81-801d-47da-9e67-f29312cbb02e" alt="Oversigt over begyrer" caption="Oversigt over begyrer" %}
 
 
 Hvis man har overskredet gebyrgrænsen vil det således ud:
