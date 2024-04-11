@@ -5,12 +5,12 @@ permalink: /indhold/
 
 Redaktionelt indhold er alt det indhold, som I selv opretter på jeres site. 
 
-- [Sider](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/side/)
-- [Artikler](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/artikel/)
-- [Arrangementer](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/arrangement/)
+- [Side](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/side/)
+- [Artikel](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/artikel/)
+- [Arrangement](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/arrangement/)
 - Åbningstider
-- Biblioteker
-- [Kampagner](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/kampagner/)
+- Bibliotek
+- [Kampagne](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/kampagner/)
 - [Hovedmenu](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/hovedmenu/) og [footermenu](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/footermenu/)
 - Tags og kategorier
 - Brødkrummer
