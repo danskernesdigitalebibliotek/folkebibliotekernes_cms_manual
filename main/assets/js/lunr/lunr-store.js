@@ -648,7 +648,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes",
-        "excerpt":"   Release Notes 2024.11.0  ","categories": [],
+        "excerpt":"   Release Notes 2024.15.0   Release Notes 2024.11.0   Release Notes 220324  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/release-notes/",
         "teaser": null
