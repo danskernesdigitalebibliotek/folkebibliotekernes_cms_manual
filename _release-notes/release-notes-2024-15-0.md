@@ -1,6 +1,7 @@
 ---
 title:  "Release Notes 2024.15.0"
 category: "Release Notes"
+weight: 998
 ---
 
 **Denne release gør det let for brugerne at finde rundt på dit site med brødkrumme og slutbrugervenlige URL'er. Nu mulighed for at redigere servicemenu.**
