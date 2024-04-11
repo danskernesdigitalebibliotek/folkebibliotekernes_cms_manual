@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Release Notes 2024.11.0 - Folkebibliotekernes CMS</title>
+<!-- begin _includes/seo.html --><title>Release Notes 2024.15.0 - Folkebibliotekernes CMS</title>
 <meta name="description" content="Denne release gør det let for brugerne at finde rundt på dit site med brødkrumme og slutbrugervenlige URL’er. Nu mulighed for at redigere servicemenu.">
 
 
@@ -17,7 +17,7 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Release Notes 2024.11.0">
+<meta property="og:title" content="Release Notes 2024.15.0">
 <meta property="og:url" content="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/release-notes/release-notes-2024-15-0/">
 
 
@@ -29,7 +29,7 @@
 
 
 
-  <meta property="article:published_time" content="2024-04-11T07:06:39+00:00">
+  <meta property="article:published_time" content="2024-04-11T08:18:10+00:00">
 
 
 
@@ -165,7 +165,7 @@
     
       
       
-        <li class="current">Release Notes 2024.11.0</li>
+        <li class="current">Release Notes 2024.15.0</li>
       
     
   </ol>
@@ -222,7 +222,7 @@
               
             
               
-                <li><a href="/folkebibliotekernes_cms_manual/main/release-notes/release-notes-2024-15-0/" class="active">Release Notes 2024.11.0</a></li>
+                <li><a href="/folkebibliotekernes_cms_manual/main/release-notes/release-notes-2024-15-0/" class="active">Release Notes 2024.15.0</a></li>
               
             
           </ul>
@@ -238,9 +238,9 @@
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Release Notes 2024.11.0">
+    <meta itemprop="headline" content="Release Notes 2024.15.0">
     <meta itemprop="description" content="Denne release gør det let for brugerne at finde rundt på dit site med brødkrumme og slutbrugervenlige URL’er. Nu mulighed for at redigere servicemenu.">
-    <meta itemprop="datePublished" content="2024-04-11T07:06:39+00:00">
+    <meta itemprop="datePublished" content="2024-04-11T08:18:10+00:00">
     
 
     <div class="page__inner-wrap">
@@ -248,7 +248,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/release-notes/release-notes-2024-15-0/" class="u-url" itemprop="url">Release Notes 2024.11.0
+            <a href="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/release-notes/release-notes-2024-15-0/" class="u-url" itemprop="url">Release Notes 2024.15.0
 </a>
           </h1>
           
@@ -273,9 +273,7 @@
         
         <p><strong>Denne release gør det let for brugerne at finde rundt på dit site med brødkrumme og slutbrugervenlige URL’er. Nu mulighed for at redigere servicemenu.</strong></p>
 
-<p>2024.15.0 Release Note</p>
-
-<p>Nye features</p>
+<h2 id="nye-features">Nye features</h2>
 
 <p>Filialer: Vælg at filial skal vises i toppen af /branches. Hvis flere filialer er tildelt topplacering listes disse alfabetisk.</p>
 
@@ -289,14 +287,18 @@
 
 <p>Åbningstider (Bemærk brug ikke til endeligt indhold): Mulighed for at oprette åbningstider. Oprettelse sker via fane på indholdstypen filial/branch. Åbningstider kan trækkes fra andre applikationer via API.</p>
 
-<p>Brødkrumme: Sider kan manuelt tildeles brødkrumme under /admin/structure/taxonomy/manage/breadcrumb_structure/overview (se efter bagværk i menulinjen). Opret på følgende måde: 1) Lav først de strukturerende sider dvs. sider som ender med at fungere som lister over andre sider. Det kan f.eks. være en oversigt som liste licenser eller licenskategorier eller hjælpesideoversigt a la https://bibliotek.kk.dk/hjaelp/gebyr-og-erstatning. 2) Opret brødkrumme der linker til de strukturerende sider 3) Opret de enkelte indholdssider (det kunne f.eks. for et afsnit af sitet, som skal indeholde hjælpesider være https://bibliotek.kk.dk/hjaelp/gebyr-og-erstatning/betalingsfrister). Under oprettelsen kan de tildeles placering i brødkrummestrukturen (breadcrumb children til sider i brødkrummestrukturen). 
+<p>Brødkrumme: Sider kan manuelt tildeles brødkrumme under /admin/structure/taxonomy/manage/breadcrumb_structure/overview (se efter bagværk i menulinjen). 
+Opret på følgende måde: 
+1) Lav først de strukturerende sider dvs. sider som ender med at fungere som lister over andre sider. Det kan f.eks. være en oversigt som liste licenser eller licenskategorier eller hjælpesideoversigt a la https://bibliotek.kk.dk/hjaelp/gebyr-og-erstatning. 
+2) Opret brødkrumme der linker til de strukturerende sider 
+3) Opret de enkelte indholdssider (det kunne f.eks. for et afsnit af sitet, som skal indeholde hjælpesider være https://bibliotek.kk.dk/hjaelp/gebyr-og-erstatning/betalingsfrister). Under oprettelsen kan de tildeles placering i brødkrummestrukturen (breadcrumb children til sider i brødkrummestrukturen). 
 Bemærk at der er en række kendte fejl og forbedringer, som allerede er oprettet i relation til løsningen. Se under “Kendte fejl i releasen”. Der genereres automatisk brødkrumme i relation til artikler (baseret på indholdstype, kategori og artikel).</p>
 
 <p>Dokumentation af API (Bemærk ikke klar til brug): API (til udveksling af arrangementer med billetsystem) opdateret efter dialog med billetleverandør. Dokumentation på https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/event-integration/ og https://github.com/danskernesdigitalebibliotek/dpl-cms/blob/develop/openapi.json</p>
 
 <p>Artikler og arrangementer: Hvis man har oprettet indlejrede kategorier - f.eks. børn -&gt; 0-2år - vil hierarkiet også fremgå af filtreringer under /articles og /events.</p>
 
-<p>Fejlrettelser og forbedringer</p>
+<h2 id="fejlrettelser-og-forbedringer">Fejlrettelser og forbedringer</h2>
 
 <p>Arrangement: Teasertekst (farvet boks) vises nu igen i listevisninger.</p>
 
@@ -342,7 +344,7 @@ Bemærk at der er en række kendte fejl og forbedringer, som allerede er oprette
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-04-11T07:06:39+00:00">April 11, 2024</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-04-11T08:18:10+00:00">April 11, 2024</time></p>
 
       </footer>
 

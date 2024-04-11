@@ -659,8 +659,8 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/release-notes/release-notes-2024-11-0/",
         "teaser": null
       },{
-        "title": "Release Notes 2024.11.0",
-        "excerpt":"Denne release gør det let for brugerne at finde rundt på dit site med brødkrumme og slutbrugervenlige URL’er. Nu mulighed for at redigere servicemenu. 2024.15.0 Release Note Nye features Filialer: Vælg at filial skal vises i toppen af /branches. Hvis flere filialer er tildelt topplacering listes disse alfabetisk. Slutbrugervenlige URL’er:...","categories": ["Release Notes"],
+        "title": "Release Notes 2024.15.0",
+        "excerpt":"Denne release gør det let for brugerne at finde rundt på dit site med brødkrumme og slutbrugervenlige URL’er. Nu mulighed for at redigere servicemenu. Nye features Filialer: Vælg at filial skal vises i toppen af /branches. Hvis flere filialer er tildelt topplacering listes disse alfabetisk. Slutbrugervenlige URL’er: Alt indhold vises...","categories": ["Release Notes"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/release-notes/release-notes-2024-15-0/",
         "teaser": null
