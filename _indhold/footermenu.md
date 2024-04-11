@@ -1,5 +1,5 @@
 ---
-title: "Footermenuen"
+title: "Footermenu"
 category: "Navigation"
 weight: 1
 emneord:
