@@ -377,7 +377,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/billedbeskaering/",
         "teaser": null
       },{
-        "title": "Brugeroprettelsesside",
+        "title": "Opret bruger",
         "excerpt":"Denne side er vi i gang med, vi mangler noget styling før vi kan introducere den.  ","categories": [],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/brugeroprettelsesside/",
