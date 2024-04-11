@@ -359,7 +359,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/emneord/x-mangler-tekst/",
         "teaser": null
       },{
-        "title": "Opret arrangement",
+        "title": "Arrangement",
         "excerpt":"Når du skal oprette et arrangement i FB CMS, skal du vælge Arrangement(er). Det gælder uanset om du vil oprette et enkeltstående arrangement eller en serie af arrangementer. Sådan opretter du et arrangement I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk) Klik på Tilføj indhold i øverste højre hjørne: Tilføj indhold Klik...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/arrangement/",
