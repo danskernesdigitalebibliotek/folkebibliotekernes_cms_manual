@@ -1,6 +1,5 @@
 ---
 title: "Standardtekst for Privatlivspolitik"
-category: "Faste sider"
 emneord:
 - "Faste sider"
 ---
