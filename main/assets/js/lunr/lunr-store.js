@@ -419,7 +419,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/hovedmenu/",
         "teaser": null
       },{
-        "title": "Opret kampagne",
+        "title": "Kampagne",
         "excerpt":"Kampagner er en selvstændig indholdstype, der vises på søgeresultat-siden – men kun hvis det, som brugeren søger på, udløser den. Kampagner kan derfor bruges målrettet til at skabe opmærksomhed om arrangementer, særlige materialer, eller andet, som biblioteket ønsker at give særlig promovering. Sådan opretter du en kampagne I topmenuen klik...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/kampagner/",
@@ -455,7 +455,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/reglement/",
         "teaser": null
       },{
-        "title": "Opret side",
+        "title": "Side",
         "excerpt":"Indholdstypen Side bruges til at oprette forsider og lignende samlende indgange til tilknyttet indhold på dit site. FB CMS benytter betegnelserne sektionsside og navigationsside, men det henviser blot til deres funktioner – der er er ikke forskel på, hvordan man som udgangspunkt opretter dem. Du kan se eksempler på, hvordan...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/side/",
