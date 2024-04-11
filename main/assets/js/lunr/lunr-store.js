@@ -365,7 +365,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/arrangement/",
         "teaser": null
       },{
-        "title": "Opret artikel",
+        "title": "Artikel",
         "excerpt":"Artikel svarer til den indholdstype, der i det gamle CMS hed ”Nyhed”. Sådan opretter du en artikel I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit- domænenavn.dk) Klik på Tilføj indhold i øverste højre hjørne: Tilføj indhold Klik på Article: Klik på Article Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-panel...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/artikel/",
