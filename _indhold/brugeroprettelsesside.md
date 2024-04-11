@@ -1,5 +1,5 @@
 ---
-title: "Brugeroprettelsesside"
+title: "Opret bruger"
 emneord:
 - "Faste sider"
 ---
