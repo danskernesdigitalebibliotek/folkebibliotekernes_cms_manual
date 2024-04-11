@@ -1,6 +1,6 @@
 ---
-title: "Rediger footermenuen"
-category: "Menuer"
+title: "Footermenuen"
+category: "Navigation"
 weight: 1
 emneord:
 - "Menuer og navigation"
