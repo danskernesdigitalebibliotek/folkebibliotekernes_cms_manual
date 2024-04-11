@@ -498,7 +498,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Indstillinger for gebyrside",
-        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for gebyrside Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/fees Blokeret bruger - Link til blokeret bruger som vises i modal Blokeret bruger - Link i modal til blokeret bruger (til fx Mit betalingsoverblik) Hvis en bruger er blokeret pga. af overskredet...","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for gebyrside Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/fees Benyttelse af Mit Betalingsoverblik Først skal du hente linket til Mit Betalingsoverblik fra DDB CMS. Dette gøres ved at følge stien Indstillinger - Betaling - Ding Payment. Under overskriften Payment Button finder...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/gebyrindstillinger/",
         "teaser": null
