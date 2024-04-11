@@ -26,7 +26,7 @@ Ud over de faste sider er der også nogle listesider, som systemet er født med.
 ## Her finder du de faste sider i backend
 
 ## Hjælp! Jeg er kommet til at slette en fast side
-Læs om den specifikke side her i manualen. Det er forskelligt for hver af de faste sider, hvordan den bedst genoprettes.
+Gå ind på manualsiden om præcis den side, du er kommet til at slette. Det er forskelligt hvordan de faste sider kan genoprettes.
 
 ## Yderligere info
 Vi er i færd med at lave en funktionalitet, der advarer redaktører, hvis de er ved at slette en side, der linkes til fra backened’en.
