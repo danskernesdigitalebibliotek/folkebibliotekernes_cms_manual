@@ -1,5 +1,6 @@
 ---
 title: "Privatlivspolitik"
+category: "Faste sider"
 emneord:
 - "Faste sider"
 ---
