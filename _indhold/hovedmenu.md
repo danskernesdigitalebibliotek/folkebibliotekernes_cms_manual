@@ -1,6 +1,6 @@
 ---
-title: "Rediger hovedmenuen"
-category: "Menuer"
+title: "Hovedmenuen"
+category: "Navigation"
 weight: 1
 emneord:
 - "Menuer og navigation"
