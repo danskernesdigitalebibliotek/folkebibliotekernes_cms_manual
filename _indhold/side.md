@@ -1,5 +1,5 @@
 ---
-title: "Opret side"
+title: "Side"
 category: "Indholdstyper"
 weight: 1
 emneord:
