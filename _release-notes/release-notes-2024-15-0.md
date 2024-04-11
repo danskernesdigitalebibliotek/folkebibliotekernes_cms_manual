@@ -1,3 +1,8 @@
+---
+title:  "Release Notes 2024.11.0"
+category: "Release Notes"
+---
+
 **Denne release gør det let for brugerne at finde rundt på dit site med brødkrumme og slutbrugervenlige URL'er. Nu mulighed for at redigere servicemenu.**
 
 2024.15.0 Release Note 
