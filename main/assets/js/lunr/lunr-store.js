@@ -384,7 +384,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opret bruger",
-        "excerpt":"      Denne side er vi i gang med, vi mangler noget styling før vi kan introducere den.  ","categories": ["Faste sider"],
+        "excerpt":"Link til Opret bruger vises når man trykker på brugerikonet. Hvis man ikke i forvejen er logget ind, vises en modal der giver mulighed for Log ind eller Opret bruger.      Denne side er vi i gang med, vi mangler noget styling før vi kan introducere den.  ","categories": ["Faste sider"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/indhold/brugeroprettelsesside/",
         "teaser": null
