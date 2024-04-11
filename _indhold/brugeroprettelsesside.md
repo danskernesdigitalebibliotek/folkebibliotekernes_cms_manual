@@ -1,5 +1,6 @@
 ---
 title: "Opret bruger"
+category: "Faste sider"
 emneord:
 - "Faste sider"
 ---
