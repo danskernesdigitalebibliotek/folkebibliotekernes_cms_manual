@@ -1,5 +1,6 @@
 ---
 title: "Reglement"
+category: "Faste sider"
 emneord:
 - "Faste sider"
 ---
