@@ -1,6 +1,7 @@
 ---
 title:  "Release Notes 220324"
 category: "Release Notes"
+weight: 1000
 ---
 
 ## Nye features
