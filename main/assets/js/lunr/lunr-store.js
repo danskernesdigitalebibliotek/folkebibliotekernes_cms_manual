@@ -125,10 +125,10 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/category/media/",
         "teaser": null
       },{
-        "title": "Menuer",
-        "excerpt":"Menuer er en overskrift i “Opret indhold i folkebibliotekernes CMS”  ","categories": [],
+        "title": "Navigation",
+        "excerpt":"Navigation er en overskrift i “Opret indhold i folkebibliotekernes CMS”  ","categories": [],
         "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/category/menuer/",
+        "url": "/folkebibliotekernes_cms_manual/main/category/navigation/",
         "teaser": null
       },{
         "title": "Oprettelse af indhold",
