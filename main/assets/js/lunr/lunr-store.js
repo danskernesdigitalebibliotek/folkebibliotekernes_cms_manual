@@ -5,6 +5,12 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/10vip-profiler/",
         "teaser": null
       },{
+        "title": "Opgave 11: DNS opsætning",
+        "excerpt":"DNS står for Domain Name Service. Det er DNS registreringen der gør, at jeres hjemmeside adresse virker og peger hen på det rigtige website. Når I skifter fra DDB CMS til Folkebibliotekernes CMS skal jeres hjemmeside adresse (domænenavn) pege på en ny webserver (ip-adresse). I er selv ansvarlige for at...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/11dns/",
+        "teaser": null
+      },{
         "title": "Opgave 1: Projektorganisering på biblioteket",
         "excerpt":"Målet med denne opgave er at få etableret en fornuftig organisering af arbejdet med at implementere Folkebibliotekernes CMS. Beskrivelse I skal nu til at opbygge en helt ny hjemmeside, og det kommer til at tage noget tid. Derfor er det vigtigt, at I får styr på, hvem der skal gøre...","categories": ["Overgangsaktiviter"],
         "tags": [],
@@ -57,12 +63,6 @@ var store = [{
         "excerpt":"Integrationerne på jeres hjemmeside har stor betydning for de muligheder og tilbud I tilbyder jeres brugere. Derfor er det vigtigt at se på inden overgangen til den nye hjemmeside, så I tager højde for disse funktioner – også på det nye site. Mål Målet med denne opgave er at danne...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/9integrationer/",
-        "teaser": null
-      },{
-        "title": "Opgave 11: DNS opsætning",
-        "excerpt":"DNS står for Domain Name Service. Det er DNS registreringen der gør, at jeres hjemmeside adresse virker og peger hen på det rigtige website. Når I skifter fra DDB CMS til Folkebibliotekernes CMS skal jeres hjemmeside adresse (domænenavn) pege på en ny webserver (ip-adresse). I er selv ansvarlige for at...","categories": ["Overgangsaktiviter"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/dns/",
         "teaser": null
       },{
         "title": "Bliv klar til Folkebibliotekernes CMS",
