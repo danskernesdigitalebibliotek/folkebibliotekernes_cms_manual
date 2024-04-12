@@ -11,11 +11,13 @@ Du skal kopiere indstillinger fra DDB CMS over i Folkebibliotekernes CMS.
 
 ### Find oplysninger i DDB CMS
 1. Log ind i DDB CMS med en bruger der har "Lokal administrator" rollen.
-2.  I topmenuen klik på **Indstillinger > Betaling > Ding Payment**
+2. I topmenuen klik på **Indstillinger > Betaling > Ding Payment**\
+   Eller åbn via URL (udskift mit-ddbcms-domænenavn.dk):\
+  `https://mit-ddbcms-domænenavn.dk/admin/config/payment/ding`
+3. Du skal bruge linket under **Payment Button URL** og knapteksten under **Payment Buuton Text**.
+   {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/7135c8f1-92b1-4332-9b24-2ebc7c41192c" alt="Siden Ding Payment i DDB CMS" caption="Siden Ding Payment i DDB CMS" %}
 
-Eller åbn via URL (udskift mit-ddbcms-domænenavn.dk):
-`https://mit-ddbcms-domænenavn.dk/admin/config/payment/ding`
-
+5. 
 Kopier Client ID og Client Secret. Vær omhyggelig så det hele kommer med!
 
 
@@ -28,7 +30,7 @@ Indsæt oplysninger i Folkebibliotekernes CMS
 
 Først skal du hente linket til Mit Betalingsoverblik fra DDB CMS. Dette gøres ved at følge stien Indstillinger - Betaling - Ding Payment. Under overskriften Payment Button finder du linket, der skal bruges i Next
 
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/7135c8f1-92b1-4332-9b24-2ebc7c41192c" alt="Siden Ding Payment i DDB CMS" caption="Siden Ding Payment i DDB CMS" %}
+
 
 
 I Next tilgår du nu siden Indstillinger for begyrside, som angivet ovenfor.
