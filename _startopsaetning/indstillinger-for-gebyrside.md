@@ -18,7 +18,7 @@ Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibli
 
 
 ## Indsæt oplysninger i Folkebibliotekernes CMS
-1. Log ind med en bruger, der har "Lokal administrator" rollen på jeres nye hjemmeside
+1. Log ind på jeres nye hjemmeside med en bruger, der har rollen "Lokal administrator".
 2. Åbn siden med **Indstillinger for gebyrside**. Den ligger her: **Indstillinger > Biblioteksindstillinger > Indstillinger for gebyrside**
 3. 
 - Gennemgå og udfyld alle felter. 
