@@ -695,7 +695,7 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/mapp/",
         "teaser": null
       },{
-        "title": "Opgave 1: OpenID Connect (Adgangsplatformen)",
+        "title": "Opgave 2: OpenID Connect (Adgangsplatformen)",
         "excerpt":"Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt. I denne opgave skal I kopiere jeres OpenID Connect adgangsnøgler fra DDB CMS over...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/openid-connect/",
