@@ -8,7 +8,7 @@ emneord:
 
 Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibliotekernes CMS.
 
-## Find oplysninger i DDB CMS
+## Kopier oplysninger fra DDB CMS
 1. Log ind i DDB CMS med en bruger der har "Lokal administrator" rollen.
 2. I topmenuen klik på **Indstillinger > Betaling > Ding Payment**\
    Eller åbn via URL (udskift mit-ddbcms-domænenavn.dk):\
