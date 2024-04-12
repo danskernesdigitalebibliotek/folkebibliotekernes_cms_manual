@@ -11,10 +11,10 @@ Du skal kopiere indstillinger fra DDB CMS over i Folkebibliotekernes CMS.
 
 ### Find oplysninger i DDB CMS
 1. Log ind i DDB CMS med en bruger der har "Lokal administrator" rollen.
-2.  I topmenuen klik på Indstillinger > Ding > Adgangsplatformen
+2.  I topmenuen klik på **Indstillinger > Betaling > Ding Payment**
 
-Eller åbn via direkte link (udskift mit-domænenavn.dk):
-https://mit-domænenavn.dk/admin/config/ding/adgangsplatformen
+Eller åbn via URL (udskift mit-ddbcms-domænenavn.dk):
+`https://mit-ddbcms-domænenavn.dk/admin/config/payment/ding`
 
 Kopier Client ID og Client Secret. Vær omhyggelig så det hele kommer med!
 
