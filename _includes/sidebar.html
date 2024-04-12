@@ -31,8 +31,17 @@
     {% endfor %}
 
     {% assign categories_in_collection_docs = categories_in_collection_docs | uniq %}
-    {% assign categories_in_collection_docs = categories_in_collection_docs | sort %}
-    {% assign categories_in_collection_docs = categories_in_collection_docs | sort: "weight" %}
+    
+    {% assign filtered_categories = "" | split: "" %}
+
+    {% for category in site.category %}
+      {% if categories_in_collection_docs contains category.title %}
+        {% assign filtered_categories = filtered_categories | push: category %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign sorted_categories = filtered_categories | sort: "title" %}
+    {% assign sorted_categories = sorted_categories | sort: "weight" %}
    
 
   <nav class="nav__list">
@@ -40,11 +49,7 @@
     <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
     <ul class="nav__items">
 
-      {% for cat_title in categories_in_collection_docs %}
-      {% assign category = site.category 
-        | where_exp:"category", "category.title == cat_title" 
-        | first %}
-
+      {% for category in sorted_categories %}
         {% if category %}
         <li>
           <span class="nav__sub-title">{{ category.title }}</span>        
