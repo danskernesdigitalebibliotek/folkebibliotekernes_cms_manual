@@ -1,6 +1,6 @@
 ---
-title: "Opgave 1: OpenID Connect (Adgangsplatformen)"
-weight: 1
+title: "Opgave 2: OpenID Connect (Adgangsplatformen)"
+weight: 2
 category: "Startopsætning"
 emneord:
   - Adgangsplatformen
