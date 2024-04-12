@@ -1,12 +1,11 @@
 ---
-title: "Opgave 1: Generelle indstillinger"
+title: "Opgave 3: Indstillinger for gebyrside"
 category: "Startopsætning"
-weight: 1
+weight: 3
 emneord:
   - Betaling
 ---
 
-## 3. Indstillinger for gebyrside
 **Her indstiller du link til *Mit betalingsoverblik* eller linker til hjælpeside vedr. betaling**
 - Log ind som lokaladmin på jeres nye hjemmeside
 - Åbn siden med **Indstillinger for gebyrside**. Den ligger her: Indstillinger > Biblioteksindstillinger > Indstillinger for gebyrside
