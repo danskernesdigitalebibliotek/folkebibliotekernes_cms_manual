@@ -690,7 +690,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 3: Indstillinger for gebyrside",
-        "excerpt":"Her indstiller du link til Mit betalingsoverblik eller linker til hjælpeside vedr. betaling Log ind som lokaladmin på jeres nye hjemmeside Åbn siden med Indstillinger for gebyrside. Den ligger her: Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for gebyrside Gennemgå og udfyld alle felter. Du kan finde hjælp til alle felter på...","categories": ["Startopsætning"],
+        "excerpt":"For biblioteker der bruger Mit Betalingsoverblik Du skal kopiere indstillinger fra DDB CMS over i Folkebibliotekernes CMS. Find oplysninger i DDB CMS Log ind i DDB CMS med en bruger der har “Lokal administrator” rollen. I topmenuen klik på Indstillinger &gt; Ding &gt; Adgangsplatformen Eller åbn via direkte link (udskift...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/indstillinger-for-gebyrside/",
         "teaser": null
