@@ -17,14 +17,10 @@ Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibli
    {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c99ae7a4-7027-4544-bda1-ebe471158cb5" alt="Siden Ding Payment i DDB CMS" caption="Siden Ding Payment i DDB CMS" %}
 
 
-5. 
-Kopier Client ID og Client Secret. Vær omhyggelig så det hele kommer med!
-
-
-
 ## Indsæt oplysninger i Folkebibliotekernes CMS
-1. Log ind som lokaladmin på jeres nye hjemmeside
-2. Åbn siden med **Indstillinger for gebyrside**. Den ligger her: Indstillinger > Biblioteksindstillinger > Indstillinger for gebyrside
+1. Log ind med en bruger, der har "Lokal administrator" rollen på jeres nye hjemmeside
+2. Åbn siden med **Indstillinger for gebyrside**. Den ligger her: **Indstillinger > Biblioteksindstillinger > Indstillinger for gebyrside**
+3. 
 - Gennemgå og udfyld alle felter. 
 
 
