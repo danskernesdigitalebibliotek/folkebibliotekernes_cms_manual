@@ -14,8 +14,9 @@ Du skal kopiere indstillinger fra DDB CMS over i Folkebibliotekernes CMS.
 2. I topmenuen klik på **Indstillinger > Betaling > Ding Payment**\
    Eller åbn via URL (udskift mit-ddbcms-domænenavn.dk):\
   `https://mit-ddbcms-domænenavn.dk/admin/config/payment/ding`
-3. Du skal bruge linket under **Payment Button URL** og knapteksten under **Payment Buuton Text**.
-   {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/7135c8f1-92b1-4332-9b24-2ebc7c41192c" alt="Siden Ding Payment i DDB CMS" caption="Siden Ding Payment i DDB CMS" %}
+3. Under overskriften **Payment Button** ligger de oplysninger der skal kopieres. Du skal bruge linket under **Payment Button URL** og knapteksten under **Payment Buuton Text**.
+   {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c99ae7a4-7027-4544-bda1-ebe471158cb5" alt="Siden Ding Payment i DDB CMS" caption="Siden Ding Payment i DDB CMS" %}
+
 
 5. 
 Kopier Client ID og Client Secret. Vær omhyggelig så det hele kommer med!
