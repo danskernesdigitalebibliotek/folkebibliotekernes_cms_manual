@@ -13,7 +13,7 @@ Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibli
 2. I topmenuen klik på **Indstillinger > Betaling > Ding Payment**\
    Eller åbn via URL (udskift mit-ddbcms-domænenavn.dk):\
   `https://mit-ddbcms-domænenavn.dk/admin/config/payment/ding`
-3. Under overskriften **Payment Button** ligger de oplysninger der skal kopieres. Du skal bruge linket under **Payment Button URL** og knapteksten under **Payment Button Text**.
+3. Under overskriften **Payment Button** ligger de oplysninger der skal kopieres. Du skal bruge linket under **Payment Button URL** og knapteksten under **Payment Button Text**. Vær omhyggelig med at få det hele med når du kopierer!
    {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c99ae7a4-7027-4544-bda1-ebe471158cb5" alt="Siden Ding Payment i DDB CMS" caption="Siden Ding Payment i DDB CMS" %}
 
 
