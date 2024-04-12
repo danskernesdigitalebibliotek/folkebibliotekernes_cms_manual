@@ -689,8 +689,8 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/",
         "teaser": null
       },{
-        "title": "Opgave 1: Generelle indstillinger",
-        "excerpt":"3. Indstillinger for gebyrside Her indstiller du link til Mit betalingsoverblik eller linker til hjælpeside vedr. betaling Log ind som lokaladmin på jeres nye hjemmeside Åbn siden med Indstillinger for gebyrside. Den ligger her: Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for gebyrside Gennemgå og udfyld alle felter. Du kan finde hjælp...","categories": ["Startopsætning"],
+        "title": "Opgave 3: Indstillinger for gebyrside",
+        "excerpt":"Her indstiller du link til Mit betalingsoverblik eller linker til hjælpeside vedr. betaling Log ind som lokaladmin på jeres nye hjemmeside Åbn siden med Indstillinger for gebyrside. Den ligger her: Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for gebyrside Gennemgå og udfyld alle felter. Du kan finde hjælp til alle felter på...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/indstillinger-for-gebyrside/",
         "teaser": null
