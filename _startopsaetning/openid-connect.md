@@ -12,7 +12,7 @@ I denne opgave skal I kopiere jeres OpenID Connect adgangsnøgler fra DDB CMS ov
 
 ## Kopier nøgler fra DDB CMS
 
-Log ind i DDB CMS. I topmenuen klik på **Indstillinger > Ding > Adgangsplatformen**
+Log ind i DDB CMS med en bruger der har "Lokal administrator" rollen. I topmenuen klik på **Indstillinger > Ding > Adgangsplatformen**
 
 Eller åbn via direkte link (udskift mit-domænenavn.dk):\
 https://mit-domænenavn.dk`/admin/config/ding/adgangsplatformen`
