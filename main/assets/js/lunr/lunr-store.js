@@ -690,7 +690,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 3: Indstillinger for gebyrside",
-        "excerpt":"Kopier betalingslink og betalingsknaptekst fra DDB CMS over i Folkebibliotekernes CMS. Kopier oplysninger fra DDB CMS Log ind i DDB CMS med en bruger, der har “Lokal administrator” rollen. I topmenuen klik på Indstillinger &gt; Betaling &gt; Ding Payment Eller åbn via URL (udskift mit-ddbcms-domænenavn.dk): https://mit-ddbcms-domænenavn.dk/admin/config/payment/ding Under overskriften Payment Button...","categories": ["Startopsætning"],
+        "excerpt":"Kopier betalingslink og betalingsknaptekst fra DDB CMS over i Folkebibliotekernes CMS. Særligt for biblioteker der kommer fra Nets EASY Kopier oplysninger fra DDB CMS Log ind i DDB CMS med en bruger, der har “Lokal administrator” rollen. I topmenuen klik på Indstillinger &gt; Betaling &gt; Ding Payment Eller åbn via...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/indstillinger-for-gebyrside/",
         "teaser": null
