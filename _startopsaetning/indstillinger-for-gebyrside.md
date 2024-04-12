@@ -8,7 +8,7 @@ emneord:
 
 Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibliotekernes CMS.
 
-### Find oplysninger i DDB CMS
+## Find oplysninger i DDB CMS
 1. Log ind i DDB CMS med en bruger der har "Lokal administrator" rollen.
 2. I topmenuen klik på **Indstillinger > Betaling > Ding Payment**\
    Eller åbn via URL (udskift mit-ddbcms-domænenavn.dk):\
@@ -22,7 +22,7 @@ Kopier Client ID og Client Secret. Vær omhyggelig så det hele kommer med!
 
 
 
-Indsæt oplysninger i Folkebibliotekernes CMS
+## Indsæt oplysninger i Folkebibliotekernes CMS
 1. Log ind som lokaladmin på jeres nye hjemmeside
 2. Åbn siden med **Indstillinger for gebyrside**. Den ligger her: Indstillinger > Biblioteksindstillinger > Indstillinger for gebyrside
 - Gennemgå og udfyld alle felter. 
@@ -41,5 +41,7 @@ I Next tilgår du nu siden Indstillinger for begyrside, som angivet ovenfor.
 Linket skal indsættes i to felter på siden: Indstillinger for knap til betaling, og Blokeret bruger.
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/2e16d2f6-9d3f-4a7e-af7a-eaee1e0aa13a" alt="Indstillinger for begyrside" caption="Indstillinger for begyrside" %}
+
+## For biblioteker der skifter fra Nets EASY
 
 Du kan finde hjælp til alle felter på [manualsiden om Indstillinger for gebyrside](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/gebyrindstillinger/).
