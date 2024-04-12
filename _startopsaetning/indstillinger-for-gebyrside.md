@@ -31,6 +31,7 @@ Særligt for biblioteker der kommer fra Nets EASY
 Først skal du hente linket til Mit Betalingsoverblik fra DDB CMS. Dette gøres ved at følge stien Indstillinger - Betaling - Ding Payment. Under overskriften Payment Button finder du linket, der skal bruges i Next
 
 
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ed9403ca-fe18-4fc1-ab4a-361c7b0b587c)
 
 
 I Next tilgår du nu siden Indstillinger for begyrside, som angivet ovenfor.
