@@ -8,6 +8,8 @@ emneord:
 
 Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibliotekernes CMS.
 
+Særligt for biblioteker der kommer fra Nets EASY
+
 ## Kopier oplysninger fra DDB CMS
 1. Log ind i DDB CMS med en bruger, der har "Lokal administrator" rollen.
 2. I topmenuen klik på **Indstillinger > Betaling > Ding Payment**\
@@ -20,6 +22,8 @@ Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibli
 ## Indsæt oplysninger i Folkebibliotekernes CMS
 1. Log ind på jeres nye hjemmeside med en bruger, der har rollen "Lokal administrator".
 2. Via topmenuen åbn **Indstillinger > Biblioteksindstillinger > Indstillinger for gebyrside**
+    {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/e230e220-e845-4899-9940-b11c6821a915" alt="Indstillinger for gebyrside" caption="Indstillinger for gebyrside" %}
+
 3. 
 - Gennemgå og udfyld alle felter. 
 
@@ -31,13 +35,12 @@ Først skal du hente linket til Mit Betalingsoverblik fra DDB CMS. Dette gøres 
 
 I Next tilgår du nu siden Indstillinger for begyrside, som angivet ovenfor.
 
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/e230e220-e845-4899-9940-b11c6821a915" alt="Indstillinger for begyrside" caption="Indstillinger for begyrside" %}
 
 
 Linket skal indsættes i to felter på siden: Indstillinger for knap til betaling, og Blokeret bruger.
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/2e16d2f6-9d3f-4a7e-af7a-eaee1e0aa13a" alt="Indstillinger for begyrside" caption="Indstillinger for begyrside" %}
 
-## For biblioteker der skifter fra Nets EASY
+## For biblioteker der kommer fra Nets EASY
 
 Du kan finde hjælp til alle felter på [manualsiden om Indstillinger for gebyrside](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/gebyrindstillinger/).
