@@ -8,7 +8,7 @@ emneord:
 
 Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibliotekernes CMS.
 
-Særligt for biblioteker der kommer fra Nets EASY
+[Særligt for biblioteker der kommer fra Nets EASY](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/indstillinger-for-gebyrside/#for-biblioteker-der-kommer-fra-nets-easy)
 
 ## Kopier oplysninger fra DDB CMS
 1. Log ind i DDB CMS med en bruger, der har "Lokal administrator" rollen.
