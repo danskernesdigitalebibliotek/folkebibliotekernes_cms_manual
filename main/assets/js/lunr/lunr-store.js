@@ -690,7 +690,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 3: Indstillinger for gebyrside",
-        "excerpt":"Kopier betalingslink og betalingsknaptekst fra DDB CMS over i Folkebibliotekernes CMS.   ","categories": ["Startopsætning"],
+        "excerpt":"Kopier betalingslink og betalingsknaptekst fra DDB CMS over i Folkebibliotekernes CMS.   Særligt for biblioteker, der ikke har Mit betalingsoverblik  ","categories": ["Startopsætning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/indstillinger-for-gebyrside/",
         "teaser": null
