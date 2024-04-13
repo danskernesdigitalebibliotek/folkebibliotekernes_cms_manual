@@ -8,7 +8,7 @@ emneord:
 
 Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibliotekernes CMS.
 
-[Særligt for biblioteker der kommer fra Nets EASY](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/indstillinger-for-gebyrside/#for-biblioteker-der-kommer-fra-nets-easy)
+[Særligt for biblioteker, der ikke har Mit betalingsoverblik](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/indstillinger-for-gebyrside/#for-biblioteker-der-kommer-fra-nets-easy)
 
 ## Kopier oplysninger fra DDB CMS
 1. Log ind i DDB CMS med en bruger, der har "Lokal administrator" rollen.
@@ -31,6 +31,6 @@ Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibli
 {% include figure class="seventy" image_path="[https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/2e16d2f6-9d3f-4a7e-af7a-eaee1e0aa13a](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ed9403ca-fe18-4fc1-ab4a-361c7b0b587c)" alt="Indstillinger for begyrside" caption="Indstillinger for begyrside" %}
 
 
-## For biblioteker der kommer fra Nets EASY
+## For biblioteker, der ikke har Mit betalingsoverblik
 
 Du kan finde hjælp til alle felter på [manualsiden om Indstillinger for gebyrside](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/gebyrindstillinger/).
