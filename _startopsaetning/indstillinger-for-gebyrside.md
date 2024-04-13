@@ -8,4 +8,4 @@ emneord:
 
 Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibliotekernes CMS.
 
-[Særligt for biblioteker, der ikke har Mit betalingsoverblik]()
+[For biblioteker der ikke har Mit betalingsoverblik]()
