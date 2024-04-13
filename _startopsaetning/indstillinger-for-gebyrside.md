@@ -29,14 +29,16 @@ Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibli
    {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ed9403ca-fe18-4fc1-ab4a-361c7b0b587c" alt="Indstillinger for gebyrside" caption="Indstillinger for gebyrside" %}
 
 ## For biblioteker, der ikke har Mit betalingsoverblik
-Biblioteker, der hidtil har modtaget betalinger via Nets EASY betalingsmodulet på den gamle hjemmeside, skal finde en ny løsning. Folkebibliotekernes CMS har ikke integration til Nets EASY og får det heller ikke. Årsagen ligger i det kommende FBS udbud, hvor al betalingsfunktionalitet udgår.
+Biblioteker der pt. bruger Nets EASY betalingsmodulet, skal finde en ny løsning. Folkebibliotekernes CMS har ikke integration til Nets EASY og får det heller ikke. Årsagen ligger i det kommende FBS udbud, hvor al betalingsfunktionalitet udgår.
 
-De fleste kommuner er i dag overgået til [ØiR](https://digitaliseringskataloget.dk/l%C3%B8sninger/oekonomi-i-rammearkitekturen). I kommuner med KMD Opus økonomisystemet samles borgernes udeståender i "Mit betalingsoverblik". I kommuner, der bruger andre økonomisystemer, er det anderledes. Ikke alle har en betalingsside, der kan linkes til. Her sendes opkrævninger via Digital Post og betaling skal ske via bankoverførsel.
+De fleste kommuner er i dag overgået til [ØiR](https://digitaliseringskataloget.dk/l%C3%B8sninger/oekonomi-i-rammearkitekturen). Mange kommuner bruger KMD Opus økonomisystemet, hvor borgernes udeståender samles i "Mit betalingsoverblik". I kommuner, der bruger andre økonomisystemer, er det anderledes. Ikke alle har en betalingsside, der kan linkes til. Her sendes opkrævninger via Digital Post og betaling sker via bankoverførsel.
 
-Virker det sådan i din kommune, skal du  udfylde felterne anderledes.
+Har I ikke "Mit betalingsoverblik", skal du udfylde gebyrindstillingerne anderledes.
 
-Først 
-
+Her er en guide:
+1. Feltet **Indledende tekst** må ikke stå tomt. Hvis det står tomt, kommer der automatisk en tekst frem på gebyrsiden, der henviser til "Mit betalingsoverblik". Lav en kort beskrivelse af, hvordan betaling skal ske i jeres kommune.
+2. Opret selv en [side]() med uddybende forklaring om vilkår for betaling. Indsæt link til denne side i felterne **Link til betalingsside** og **Link til blokeret bruger, som vises i modal**.
+3. På gebyrsiden vises en knap til jeres side om betalingsvilkår. I bestemmer hvad der skal stå på knappen. udfyld **Tekst på knap til betalingsside** med ønsket knaptekst.
 
 
 Du kan finde hjælp til alle felter på [manualsiden om Indstillinger for gebyrside](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/gebyrindstillinger/).
