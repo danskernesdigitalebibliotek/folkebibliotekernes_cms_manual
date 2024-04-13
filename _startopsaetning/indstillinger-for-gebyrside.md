@@ -29,7 +29,7 @@ Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibli
    {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ed9403ca-fe18-4fc1-ab4a-361c7b0b587c" alt="Indstillinger for gebyrside" caption="Indstillinger for gebyrside" %}
 
 ## For biblioteker, der ikke har Mit betalingsoverblik
-Biblioteker der pt. bruger Nets EASY betalingsmodulet, skal finde en ny løsning. Folkebibliotekernes CMS har ikke integration til Nets EASY og får det heller ikke. Årsagen ligger i det kommende FBS udbud, hvor al betalingsfunktionalitet udgår.
+Biblioteker der pt. bruger **Nets EASY betalingsmodulet**, skal finde en ny løsning. Folkebibliotekernes CMS har ikke integration til Nets EASY og får det heller ikke. Årsagen ligger i det kommende FBS udbud, hvor al betalingsfunktionalitet udgår.{: .notice}
 
 De fleste kommuner er i dag overgået til [ØiR](https://digitaliseringskataloget.dk/l%C3%B8sninger/oekonomi-i-rammearkitekturen){:target="_blank"}. Mange kommuner bruger desuden KMD Opus økonomisystemet, hvor borgernes udeståender samles i "Mit betalingsoverblik". 
 
