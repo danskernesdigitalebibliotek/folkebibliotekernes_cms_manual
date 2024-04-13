@@ -24,23 +24,12 @@ Særligt for biblioteker der kommer fra Nets EASY
 2. Via topmenuen åbn **Indstillinger > Biblioteksindstillinger > Indstillinger for gebyrside**
     {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/e230e220-e845-4899-9940-b11c6821a915" alt="Indstillinger for gebyrside" caption="Indstillinger for gebyrside" %}
 
-3. 
-- Gennemgå og udfyld alle felter. 
+3. Indsæt **Payment Button URL** i to felter på siden: **Link til betalingsside** og **Link til blokeret bruger, som vises i modal**.
+4. Indsæt **Payment Button Text** i feltet **Tekst på knap til betalingsside**.
 
 
-Først skal du hente linket til Mit Betalingsoverblik fra DDB CMS. Dette gøres ved at følge stien Indstillinger - Betaling - Ding Payment. Under overskriften Payment Button finder du linket, der skal bruges i Next
+{% include figure class="seventy" image_path="[https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/2e16d2f6-9d3f-4a7e-af7a-eaee1e0aa13a](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ed9403ca-fe18-4fc1-ab4a-361c7b0b587c)" alt="Indstillinger for begyrside" caption="Indstillinger for begyrside" %}
 
-
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ed9403ca-fe18-4fc1-ab4a-361c7b0b587c)
-
-
-I Next tilgår du nu siden Indstillinger for begyrside, som angivet ovenfor.
-
-
-
-Linket skal indsættes i to felter på siden: Indstillinger for knap til betaling, og Blokeret bruger.
-
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/2e16d2f6-9d3f-4a7e-af7a-eaee1e0aa13a" alt="Indstillinger for begyrside" caption="Indstillinger for begyrside" %}
 
 ## For biblioteker der kommer fra Nets EASY
 
