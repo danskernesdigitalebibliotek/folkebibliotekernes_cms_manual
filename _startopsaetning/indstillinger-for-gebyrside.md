@@ -5,10 +5,10 @@ weight: 3
 emneord:
   - Betaling
 ---
+I skal selv overføre indstillinger for fra DDB CMS. Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibliotekernes CMS.
 
-Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibliotekernes CMS.
-
-[For biblioteker der ikke har Mit betalingsoverblik](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/indstillinger-for-gebyrside/#for-biblioteker-der-ikke-har-mit-betalingsoverblik)
+[Biblioteker, der ikke har Mit betalingsoverblik, skal læse mere her](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/indstillinger-for-gebyrside/#for-biblioteker-der-ikke-har-mit-betalingsoverblik)
+{: .notice--primary}
 
 ## Kopier oplysninger fra DDB CMS
 1. Log ind i DDB CMS med en bruger, der har "Lokal administrator" rollen.
@@ -27,6 +27,19 @@ Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibli
 4. Indsæt **Payment Button Text** i feltet **Tekst på knap til betalingsside**.
 
    {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ed9403ca-fe18-4fc1-ab4a-361c7b0b587c" alt="Indstillinger for gebyrside" caption="Indstillinger for gebyrside" %}
+
+## Sådan ser det ud for brugerne
+
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/772addb4-9c5d-48dc-886a-7905f2e66270" alt="Gebyr på brugerprofilen" caption="Gebyr på brugerprofilen" %}
+
+Når man trykker på knappen "Se mere" under overskriften "Dit overblik" får man en detaljeret oversigt over hvilket materialer der er pålagt gebyr og med knap til betaling på Mit betalingsoverblik.
+
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/f15f8d81-801d-47da-9e67-f29312cbb02e" alt="Oversigt over begyrer" caption="Oversigt over begyrer" %}
+
+
+Hvis man har overskredet gebyrgrænsen vil det således ud:
+
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/95400b0e-5f52-4d01-9edc-0047ade881bf" alt="Pop up vindue med besked om at begybrgrænsen er overskredet" caption="Pop up vindue med besked om at begybrgrænsen er overskredet" %}
 
 ## For biblioteker, der ikke har Mit betalingsoverblik
 Biblioteker der pt. bruger **Nets EASY betalingsmodulet**, skal finde en ny løsning. Folkebibliotekernes CMS har ikke integration til Nets EASY og får det heller ikke. Årsagen ligger i det kommende FBS udbud, hvor al betalingsfunktionalitet udgår.
