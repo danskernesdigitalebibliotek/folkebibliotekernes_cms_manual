@@ -504,7 +504,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Indstillinger for gebyrside",
-        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for gebyrside Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/fees Benyttelse af Mit Betalingsoverblik Først skal du hente linket til Mit Betalingsoverblik fra DDB CMS. Dette gøres ved at følge stien Indstillinger - Betaling - Ding Payment. Under overskriften Payment Button finder...","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for gebyrside Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/fees Skal du i gang med gebyr-konfiguration? Gå til klik-opgaven Indstillinger for gebyrside. Indledende tekst Indledende tekst, som vises øverst på brugernes oversigt over “Gebyrer &amp; erstatninger”. Efterlades feltet tomt, vises teksten “Gebyrer...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/konfiguration/gebyrindstillinger/",
         "teaser": null
@@ -690,7 +690,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 3: Indstillinger for gebyrside",
-        "excerpt":"Kopier betalingslink og betalingsknaptekst fra DDB CMS over i Folkebibliotekernes CMS. For biblioteker der ikke har Mit betalingsoverblik Kopier oplysninger fra DDB CMS Log ind i DDB CMS med en bruger, der har “Lokal administrator” rollen. I topmenuen klik på Indstillinger &gt; Betaling &gt; Ding Payment Eller åbn via URL...","categories": ["Startopsætning"],
+        "excerpt":"I skal selv overføre indstillinger for fra DDB CMS. Kopier betalingslink og betalingsknaptekst fra DDB CMS over i Folkebibliotekernes CMS. Biblioteker, der ikke har Mit betalingsoverblik, skal læse mere her Kopier oplysninger fra DDB CMS Log ind i DDB CMS med en bruger, der har “Lokal administrator” rollen. I topmenuen...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/folkebibliotekernes_cms_manual/main/startopsaetning/indstillinger-for-gebyrside/",
         "teaser": null
