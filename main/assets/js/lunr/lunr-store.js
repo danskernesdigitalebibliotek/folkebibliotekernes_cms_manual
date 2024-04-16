@@ -485,12 +485,6 @@ var store = [{
         "url": "/folkebibliotekernes_cms_manual/main/indhold/takster/",
         "teaser": null
       },{
-        "title": "Tilgængelighedserklæring",
-        "excerpt":"Vi laver er forslag til en tilgængelighedserklæring, som også er obligatorisk. Denne bør man linke til fra servicemenuen i bunden af footeren.  ","categories": ["Faste sider"],
-        "tags": [],
-        "url": "/folkebibliotekernes_cms_manual/main/indhold/tilgaengelighedserklaering/",
-        "teaser": null
-      },{
         "title": "Velkommen",
         "excerpt":"Den faste sider Velkommen er en velkomstside til nyoprettede brugere. Efter succesfuld brugeroprettelse via hjemmesiden bliver brugerne omdirigeret til denne side. Tilret teksten på siden Velkommen Find siden Velkommen under indhold og tilret teksten efter jeres behov Standardteksten må gerne tilrettes: Find siden der hedder Velkommen. Den kan fremsøges under...","categories": ["Faste sider"],
         "tags": [],
