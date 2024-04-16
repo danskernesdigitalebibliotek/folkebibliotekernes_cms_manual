@@ -21,8 +21,6 @@ Tanken er, at I bruger standardsiderne, men tilretter teksterne efter lokale for
 
 Ud over de faste sider er der også nogle listesider, som systemet er født med. Det drejer sig om Arrangementer, Artikler og Biblioteker. Dem kan man ikke slette og heller ikke ændre på.
 
-## Her finder du de faste sider i backend
-
 ## Hjælp! Jeg er kommet til at slette en fast side
 Gå ind på manualsiden om præcis den side, du er kommet til at slette. Det er forskelligt hvordan de faste sider kan genoprettes.
 
