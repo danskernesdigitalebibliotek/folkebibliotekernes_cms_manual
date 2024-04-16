@@ -1,7 +1,6 @@
 ---
 title: "Faste sider - overblik"
 category: "Faste sider"
-weight: 1
 emneord:
 - "Faste sider"
 ---
