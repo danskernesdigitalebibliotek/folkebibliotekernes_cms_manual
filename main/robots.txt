@@ -1,1 +1,1 @@
-Sitemap: http://www.folkebibliotekernescms.dk/folkebibliotekernes_cms_manual/main/sitemap.xml
+Sitemap: http://www.folkebibliotekernescms.dk/main/sitemap.xml
