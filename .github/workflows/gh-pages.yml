@@ -63,7 +63,7 @@ jobs:
         with:
           valueFile: '_config.yml'
           propertyPath: 'baseurl'
-          value: '/${{ env.REPO_NAME }}/${{ steps.github-pages.outputs.directory }}'
+          value: '/${{ steps.github-pages.outputs.directory }}'
           commitChange: false
       - name: Build Jekyll site
         uses: actions/jekyll-build-pages@v1
