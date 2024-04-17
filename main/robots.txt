@@ -1,1 +1,1 @@
-Sitemap: https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/sitemap.xml
+Sitemap: http://www.folkebibliotekernescms.dk/folkebibliotekernes_cms_manual/main/sitemap.xml
