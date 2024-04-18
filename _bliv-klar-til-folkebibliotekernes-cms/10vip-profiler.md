@@ -32,7 +32,7 @@ Tilføj kilden ”Overbygningsmaterialer” hvis I ønsker, at brugerne skal kun
 
 
 ## Visningsprofilen
-Visningsprofilen bruges i de sammenhænge, hvor brugerne skal se detaljer om et værk. Det gælder værkvisnings-siden og lånerstatus.
+Visningsprofilen bruges i de sammenhænge, hvor brugerne skal se detaljer om et værk. Det gælder værkvisnings-siden, lånerstatus og huskeliste. For at sikre at fjernlånte materialer og materialer på huskelisten fra andre biblioteker vises korrekt skal ALLE kilder slås t
 Der er en række scenarier, hvor brugerne har brug for at se en værkvisningsside for et materiale,
 der ikke er i lokal beholdning - typisk hvis de klikker på titlen på et fjernlånt materiale i deres lånerstatus, men også hvis der er tilføjet et værk til huskelisten via et andet bibliotek, eller hvis de klikker på et link til et kasseret materiale i en gammel artikel.
 
