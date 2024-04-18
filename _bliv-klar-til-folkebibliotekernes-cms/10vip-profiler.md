@@ -34,13 +34,10 @@ Tilføj kilden ”Overbygningsmaterialer” hvis I ønsker, at brugerne skal kun
 ## Visningsprofilen
 Visningsprofilen bruges i de sammenhænge, hvor brugerne skal se detaljer om et værk. Det gælder værkvisnings-siden, lånerstatus og huskelisten. Der er en række scenarier, hvor brugerne har brug for at se en værkvisningsside for et materiale, der ikke er i lokal beholdning. F. eks. hvis de klikker på titlen på et fjernlånt materiale i deres lånerstatus, men også hvis der er tilføjet et værk til huskelisten via et andet bibliotek, eller hvis de klikker på et link til et kasseret materiale i en gammel artikel.
 
-Derfor skal ALLE kilder slås til. Dvs. alle flueben under alle kilder skal markeres. Uanset om I har abonnement eller ej. Det er en kæmpe opgave, hvor der skal sættes over 500 flueben. Jeg er i øvrigt i dialog med DBC om en løsning, så der kommer en universel visningsprofil, som alle biblioteker bare kan vælge i stedet, så jeg håber, vi finder en nemmere løsning for jer. 
-
-
-
-Derfor skal visningsprofilen ikke være afgrænset til den lokale beholdning.
-
 **Vi anbefaler, at I opretter visningsprofilen, så ALLE kilder er slået til, samt at den har flueben i "Tilføj alle visningskilder", hvilket søgeprofilen ikke må have.**
+
+Vi er godt klar over, at der skal sættes rigtig mange flueben, og at det kan virke sært at aktivere kilder, som I aldrig ville overveje at abonnere på. Men gør det alligevel.
+Vi er i dialog med DBC om en løsning, så der kommer en universel visningsprofil, som alle biblioteker bare kan vælge i stedet, så jeg håber, at vi finder en nemmere løsning for jer. 
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/720a7cb1-063c-4b9c-b04d-6a33c2fb8fe1" alt="Visningsprofilen skal have flueben i Tilføj alle visningskilder" caption="Visningsprofilen skal have flueben i Tilføj alle visningskilder" %} 
 
