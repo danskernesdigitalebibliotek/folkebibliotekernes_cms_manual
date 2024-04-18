@@ -32,9 +32,11 @@ Tilføj kilden ”Overbygningsmaterialer” hvis I ønsker, at brugerne skal kun
 
 
 ## Visningsprofilen
-Visningsprofilen bruges i de sammenhænge, hvor brugerne skal se detaljer om et værk. Det gælder værkvisnings-siden, lånerstatus og huskeliste. For at sikre at fjernlånte materialer og materialer på huskelisten fra andre biblioteker vises korrekt skal ALLE kilder slås t
-Der er en række scenarier, hvor brugerne har brug for at se en værkvisningsside for et materiale,
-der ikke er i lokal beholdning - typisk hvis de klikker på titlen på et fjernlånt materiale i deres lånerstatus, men også hvis der er tilføjet et værk til huskelisten via et andet bibliotek, eller hvis de klikker på et link til et kasseret materiale i en gammel artikel.
+Visningsprofilen bruges i de sammenhænge, hvor brugerne skal se detaljer om et værk. Det gælder værkvisnings-siden, lånerstatus og huskelisten. Der er en række scenarier, hvor brugerne har brug for at se en værkvisningsside for et materiale, der ikke er i lokal beholdning. F. eks. hvis de klikker på titlen på et fjernlånt materiale i deres lånerstatus, men også hvis der er tilføjet et værk til huskelisten via et andet bibliotek, eller hvis de klikker på et link til et kasseret materiale i en gammel artikel.
+
+Derfor skal ALLE kilder slås til. Dvs. alle flueben under alle kilder skal markeres. Uanset om I har abonnement eller ej. Det er en kæmpe opgave, hvor der skal sættes over 500 flueben. Jeg er i øvrigt i dialog med DBC om en løsning, så der kommer en universel visningsprofil, som alle biblioteker bare kan vælge i stedet, så jeg håber, vi finder en nemmere løsning for jer. 
+
+
 
 Derfor skal visningsprofilen ikke være afgrænset til den lokale beholdning.
 
