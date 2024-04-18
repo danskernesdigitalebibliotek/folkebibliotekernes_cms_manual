@@ -30,7 +30,7 @@ Er automatisk sat til Active. Hvis brugeren skal blokeres vælges Blocked.
 **Roles:**
 Vælg systembrugerens rolle. For de fleste almindelige redaktører vil rollen Editor være tilstrækkelig. Editor kan oprette indhold, men har ikke adgang til at ændre indstillinger på siden.
 
-For mere information om brugerroller - se manualens punkt [Startopsætning - opgave 4:  opret systembrugere](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/4redaktoerbrugere/)
+For mere information om brugerroller - se manualens punkt [Startopsætning - opgave 4:  opret systembrugere](https://www.folkebibliotekernescms.dk/main/startopsaetning/systembrugere/)
 
 **Notify:**
 Knappen Notify kan markeres, hvis alle øvrige systembrugere skal informeres om oprettelse af den nye systembruger.
