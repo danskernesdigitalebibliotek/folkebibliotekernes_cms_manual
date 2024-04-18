@@ -13,7 +13,7 @@ Rundt omkring på jeres website, er der links til de faste sider. Hvis de faste 
 
 Tanken er, at I skal bruge de medfølgende standardsider, men at I tilretter teksterne efter lokale forhold samt evt. tone.
 
-1. [Læs om de faste sider.](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/om-faste-sider/) Der er uddybende information om hver af dem.
+1. [Læs om de faste sider.](https://www.folkebibliotekernescms.dk/main/indhold/faste-sider/) Der er uddybende information om hver af dem.
 2. Log ind på jeres site og fremsøg hver af de faste sider under "Indhold"
 3. Tilret siderne efter behov
 
