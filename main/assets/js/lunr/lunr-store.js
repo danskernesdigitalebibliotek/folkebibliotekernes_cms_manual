@@ -708,7 +708,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 3: Opret systembrugere",
-        "excerpt":"Du er sikkert ikke den eneste, der skal lave indhold til jeres nye hjemmeside. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden. Vi anbefaler meget, at I bruger individuelle logins med kun de nødvendige rettigheder tilknyttet. Bemærk: I DDB CMS...","categories": ["Startopsætning"],
+        "excerpt":"Du er sikkert ikke den eneste, der skal lave indhold til jeres nye hjemmeside. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden. Vi anbefaler meget, at I bruger individuelle logins med kun de nødvendige rettigheder tilknyttet. I DDB CMS skulle...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/main/startopsaetning/systembrugere/",
         "teaser": null
