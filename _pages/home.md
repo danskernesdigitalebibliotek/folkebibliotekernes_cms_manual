@@ -18,28 +18,28 @@ excerpt: "Manual, tidsplan og information om Folkebibliotekernes CMS. Sitets ved
 
 feature_row:
   - image_path: /assets/images/overgang-til-folkebibliotekernes-cms.jpg
-    alt: "Bliv klar til Folkebibliotekernes CMS"
-    title: "Bliv klar til Folkebibliotekernes CMS"
+    alt: "Bliv klar til Folkebibliotekernes CM"
+    title: "Bliv klar"
     excerpt: "Kom i gang med forberedelserne allerede nu."
     url: "/bliv-klar-til-folkebibliotekernes-cms/"
   - image_path: /assets/images/startopsaetning.jpg
     alt: "Startopsætning"
-    title: "Startopsætning af Folkebibliotekernes CMS"
+    title: "Startopsætning"
     excerpt: "Skal udføres straks I modtager login til jeres site. (Udbygges løbende)"
     url: "/startopsaetning/"
   - image_path: /assets/images/new-features.png
-    alt: "Nye features i Folkebibliotekernes CMS"
-    title: "Nye features i Folkebibliotekernes CMS"
+    alt: "Nye features i Folkebibliotekernes CM"
+    title: "Nye features"
     excerpt: "Få overblik over hvad er nyt i forhold til DDB CMS."
     url: "/nye-features/"
   - image_path: /assets/images/indholdsredaktion.jpg
     alt: "Opret indhold i Folkebibliotekernes CMS"
-    title: "Opret indhold i Folkebibliotekernes CMS"
+    title: "Opret indhold"
     excerpt: "Sådan opretter du artikler, arrangementer, sider, åbningstider mv. (Udbygges løbende)"
     url: "/indhold/"
   - image_path: /assets/images/konfiguration.jpg
     alt: "Konfiguration i Folkebibliotekernes CMS"
-    title: "Konfiguration af Folkebibliotekernes CMS"
+    title: "Konfiguration"
     excerpt: "Beskrivelse af alle systemets konfigurationsmuligheder (Udbygges løbende)"
     url: "/konfiguration/"
   - image_path: /assets/images/content.jpg
