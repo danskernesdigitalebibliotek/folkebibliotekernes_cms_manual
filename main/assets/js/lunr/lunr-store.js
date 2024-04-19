@@ -671,7 +671,7 @@ var store = [{
         "url": "/main/startopsaetning/faste-sider-og-forside/",
         "teaser": null
       },{
-        "title": "Opgave 1: Generelle indstillinger",
+        "title": "Opgave 2: Generelle indstillinger",
         "excerpt":"I denne opgave laver du den grundlæggende konfiguration af sitet. Det er noget, du kun skal gøre én gang, og med stor sandsynlighed aldrig røre ved igen. Men det er vigtigt, at det bliver gjort ordentligt. Sæt dig sammen med med en kollega, der ved rigtig meget om jeres bibliotek....","categories": ["Startopsætning"],
         "tags": [],
         "url": "/main/startopsaetning/generelle-indstillinger/",
