@@ -30,7 +30,7 @@ Er automatisk sat til Active. Hvis brugeren skal blokeres vælges Blocked.
 **Roles:**
 Vælg systembrugerens rolle. For de fleste almindelige redaktører vil rollen Editor være tilstrækkelig. Editor kan oprette indhold, men har ikke adgang til at ændre indstillinger på siden.
 
-For mere information om brugerroller - se manualens punkt [Startopsætning - opgave 4:  opret systembrugere](https://www.folkebibliotekernescms.dk/main/startopsaetning/systembrugere/)
+Læs mere om de tilgængelige brugerroller.
 
 **Notify:**
 Knappen Notify kan markeres, hvis alle øvrige systembrugere skal informeres om oprettelse af den nye systembruger.
@@ -44,6 +44,26 @@ Afslut opretningen ved at klikke på Create new account
 **Eksempel på systembruger formular:**
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/122aaf9b-c55a-45c5-bac3-fe38d2a5e28f" alt="En tom systembruger formular" caption="En tom systembruger formular" %}
+
+## Roller
+
+Når du opretter en ny systembrugere skal han/hun tildeles en rolle. 
+
+Som udgangspunkt skal jeres brugere ikke tildeles flere rettigheder, end dem der er nødvendige, for at de kan løse deres arbejdsopgaver.
+{: .notice}
+
+**Redaktørbiblioteker** kan oprette tre typer brugere:
+
+- **Formidler (mediator)** er til brugere som ofte laver det dynamiske indhold på hjemmesiden, som formidlingsopgaverne fx oprette arrangementer og artikler. 
+
+- **Redaktør (editor)** er til brugere som udover formidlingsopgaver også skal stå for det faste indhold (fx åbningstider) og opbygning af siden (fx sider, menuer, kategorier). De kan have ansvaret for at koordinere og styre formidlernes arbejde. 
+
+- **Lokal administrator (local administrator)** er til brugere som skal indstille hjemmesiden ift. indstillinger, udseende, integrationer, overordnet oplysninger, biblioteksbrug etc. 
+
+**Webmasterbiblioteker** har en ekstra brugertype:
+- **Administrator** kan ændre siden udover CMS'ets standardindstillinger fx ved at aktivere og deaktivere moduler.
+
+**Patron** er lånerne. Patron-brugerprofilen oprettes automatisk, når en låner første gang logger ind på websitet via Adgangsplatformen. Patron-brugerne skal være der, og der bliver automatisk ryddet op i dem. 
 
 ## Skit password for systembruger
 
