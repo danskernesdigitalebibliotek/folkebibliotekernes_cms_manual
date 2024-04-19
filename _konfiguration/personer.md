@@ -36,7 +36,7 @@ Læs mere om de tilgængelige brugerroller.
 Knappen Notify kan markeres, hvis alle øvrige systembrugere skal informeres om oprettelse af den nye systembruger.
 
 **Language settings:**
-Vælg mellem dansk og engelsk sprog for den nye systembrugers kontrolpanel.
+Vælg mellem dansk og engelsk sprog for den nye systembrugers kontrolpanel. Det er vigtigt at sætte sproget til dansk. I manualen benyttes den danske navngivning.
 
 **Create new account:**
 Afslut opretningen ved at klikke på Create new account
