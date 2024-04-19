@@ -12,7 +12,7 @@ Eller åbn via URL (udskift mit-domænenavn.dk):\
 
 ## Opret systembruger
 
-Log på med en bruger der har rollen **administrator** eller **lokal administrator**.
+Log på med en bruger der har rollen **administrator** eller **lokal administrator**. Ellers har du ikke nok rettigheder, til at kunne oprette brugere.
 
 Klik på knappen **Add user** i øverste højre hjørne.
 
