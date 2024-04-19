@@ -12,7 +12,8 @@ Eller åbn via URL (udskift mit-domænenavn.dk):\
 
 ## Opret systembruger
 
-Klik på knappen Add user i øverste højre hjørne.
+Log på med en bruger der har rollen **administrator** eller **lokal administrator**.
+Klik på knappen **Add user** i øverste højre hjørne.
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/c461ffc6-a518-4612-b8e9-6242c774c6fd" alt="Klik på knappen Add user" caption="Klik på knappen Add user" %}
 
