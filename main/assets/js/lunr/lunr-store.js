@@ -701,7 +701,7 @@ var store = [{
         "url": "/main/startopsaetning/openid-connect/",
         "teaser": null
       },{
-        "title": "Opgave 6: Fjernadgang - Proxy indstillinger",
+        "title": "Opgave 7: Fjernadgang - Proxy indstillinger",
         "excerpt":"Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til.  ","categories": ["Startopsætning"],
         "tags": [],
         "url": "/main/startopsaetning/proxyindstillinger/",
