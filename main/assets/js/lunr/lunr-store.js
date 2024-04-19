@@ -504,7 +504,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Generelle indstillinger",
-        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Generelle indstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings Om Generelle indstillinger De generelle biblioteksindstillinger skal udfyldes, så de matcher de forretningsgange, I benytter jer af på biblioteket. De er ofte udtrykt i via indstillinger i Cicero. Sæt dig derfor sammen med...","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Generelle indstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings De generelle biblioteksindstillinger skal udfyldes, så de matcher jeres forretningsgange og indstillinger i Cicero. Sæt dig derfor sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét. SMS notifikationer Angiv...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/main/konfiguration/generelle-indstillinger/",
         "teaser": null
