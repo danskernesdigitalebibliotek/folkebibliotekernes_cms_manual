@@ -18,8 +18,7 @@ I topmenuen klik på **{{ page.click-path }}**
 Eller åbn via URL (udskift mit-domænenavn.dk):\
 `https://mit-domænenavn.dk/admin/config/dpl-library-agency/general-settings`
 
-## Om Generelle indstillinger
-De generelle biblioteksindstillinger skal udfyldes, så de matcher de forretningsgange, I benytter jer af på biblioteket. De er ofte udtrykt i via indstillinger i Cicero. Sæt dig derfor sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét.
+De generelle biblioteksindstillinger skal udfyldes, så de matcher jeres forretningsgange og indstillinger i Cicero. Sæt dig derfor sammen med jeres lokale Cicero Sysadmin og gå felterne igennem ét for ét.
 
 ## SMS notifikationer
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/aab48f76-0977-4f84-8be0-ab1de803330e" alt="Angiv om I sender SMS notifikationer" caption="Angiv om I sender SMS notifikationer" %} 
