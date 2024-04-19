@@ -1,7 +1,7 @@
 ---
-title: "Opgave 5: Mapp Intelligence"
+title: "Opgave 6: Mapp Intelligence"
 category: "Startopsætning"
-weight: 5
+weight: 6
 emneord:
   - Statistik
 ---
