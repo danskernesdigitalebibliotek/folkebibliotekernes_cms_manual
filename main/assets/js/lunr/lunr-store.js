@@ -689,7 +689,7 @@ var store = [{
         "url": "/main/startopsaetning/indstillinger-for-gebyrside/",
         "teaser": null
       },{
-        "title": "Opgave 5: Mapp Intelligence",
+        "title": "Opgave 6: Mapp Intelligence",
         "excerpt":"Via Mapp indsamles statistik for jeres hjemmeside. I skal have overflyttet jeres Mapp ID fra DDB CMS til Folkebibliotekernes CMS. Kopier Mapp ID fra DDB CMS Log ind i DDB CMS. I topmenuen klik på Indstillinger &gt; Ding &gt; Webtrekk Eller åbn via direkte link (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/ding/webtrekk Kopier TagIntegration...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/main/startopsaetning/mapp/",
