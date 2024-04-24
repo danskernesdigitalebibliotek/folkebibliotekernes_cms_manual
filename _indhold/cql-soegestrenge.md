@@ -26,7 +26,7 @@ Hvis du skal bruge søgestrengen i Material grid automatic- komponenten, skal du
 [Link til FBI-API's Complex Search Documentation](https://fbi-api.dbc.dk/indexmapper/){:target="_blank" rel="noopener"}
 
 
-{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/0d5d3bd2-d962-45ab-9df3-25f5d328f236" alt="Her er et skærmbillede" caption="Her er et skærmbillede" %}
+{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/0d5d3bd2-d962-45ab-9df3-25f5d328f236" alt="Her er et skærmbillede" caption="Her er et skærmbillede" %}
 
 
 
