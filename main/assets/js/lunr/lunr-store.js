@@ -384,7 +384,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Brødkrummesti",
-        "excerpt":" ","categories": ["Navigation"],
+        "excerpt":"1. Planlæg strukturen af hjemmesiden For at oprette strukturen på jeres hjemmesiden, kan I benytte det arbejde, som I lavede i forberedelsesopgave 4: Informationsarkitektur og navigation. Hvis I ikke har lavet det endnu, kan det bruges som inspiration til hvordan I vil bygge siden op. \\ Vi tager udgangspunkt i...","categories": ["Navigation"],
         "tags": [],
         "url": "/main/indhold/broedkrummesti/",
         "teaser": null
