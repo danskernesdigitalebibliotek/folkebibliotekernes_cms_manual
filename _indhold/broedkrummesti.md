@@ -6,7 +6,9 @@ emneord:
 - "Menuer og navigation"
 ---
 
-***Forklar hvad brødkrummer er.***
+En brødkrummesti er en lille linje øverst under headeren, der viser brugeren hvor man er på siden, og giver mulighed for at man kan navigere tilbage i sidens struktur. I kan selv definere hvordan brødkrummestien skal være opbygget. I Folkebibliotekernes CMS opretter man både en brødkrumme og en side til hver strukturpunkt for at I kan skræddersy jeres brødkrummer. 
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/3f3c57ae-df55-4d6b-8aed-c2ac4cd8eec0" alt="En brødkrummesti" caption="En brødkrummesti" %}
 
 ## 1. Planlæg strukturen af hjemmesiden
 
@@ -16,13 +18,16 @@ For at oprette strukturen på jeres hjemmesiden, kan I benytte det arbejde, som 
 Vi tager udgangspunkt i en eksempelstruktur for punkterne i hovedmenuen, der ser ud som nedenstående:
 - Det sker
 - Inspiration
+  - Film
+  - Musik
   - Litteratur
     - Læseklubber
       - Tove Ditlevsen klubben
 - Netmedier
 - For børn
 
-***Forklar børn, forældre og søskende***
+### Sidernes relationer (forældre, børn og søskende)
+Siderne har relationer til hinanden i forhold til, hvor i strukturen de er. Hvis en side er et overordnet punkt i strukturen ift en anden side er det en forældre. Hvis en side er et underordnet punkt til en anden side er det et barn. Hvis to punkter har samme forældre, så er de søskende. Fx i ovenstående eksempel er Litteratur et barn ift Inspiration. Hvor inspiration er forældre. Mens Film, Musik og Litteratur alle er søskende.
 
 ## 2. Opret sider til det faste indhold
 Start med at oprette de sider, som strukturen skal bestå af. Se hvordan man opretter sider i guiden [Opret indhold: Side]({{ site.baseurl }}{% link _indhold/side.md %})
@@ -45,3 +50,6 @@ Vælg om der skal vises sidebørn i **Vis sidebørn**. Det betyder om der skal v
 Vælg om den skal publiceres i **Publiceret**.
 
 Vælg eventuelt et overordnet ord i **Overordnede ord**. Hvis du ønsker en brødkrummesti som følger: Inspiration > Litteratur > Læseklubber > Tove Ditlevsen klubben. Så skal Inspiration vælges som overordnet ord på brødkrummen Litteratur, og Litteratur skal vælges på Læseklubber, og Læseklubber skal vælges på Tove Ditlevsen klubben.
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/9b2b87ff-8585-44bb-8453-3670a33609ca" alt="Udfyld felterne" caption="Udfyld felterne" %}
+
