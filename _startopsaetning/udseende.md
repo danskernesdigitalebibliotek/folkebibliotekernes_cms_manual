@@ -7,6 +7,6 @@ emneord:
 ---
 
 ## Ændr sidens udseende
-Man kan ændre sidens udseende til at passe til jeres identitet. Man kan skifte identitetsfarve, logo og favicon.\\
+Man kan ændre sidens udseende til at passe til jeres identitet. Man kan skifte identitetsfarve, logo og favicon.
 
 Følg guiden i [Konfiguration for Logo, identitetsfarve og favicon]({{ site.baseurl }}{% link _konfiguration/udseende.md %}). 
