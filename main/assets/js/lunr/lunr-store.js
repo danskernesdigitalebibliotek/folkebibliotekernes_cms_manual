@@ -654,7 +654,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2024.15.0",
-        "excerpt":"Denne release gør det let for brugerne at finde rundt på dit site med brødkrumme og slutbrugervenlige URL’er. Nu mulighed for at redigere servicemenu. Nye features Filialer: Vælg at filial skal vises i toppen af /branches. Hvis flere filialer er tildelt topplacering listes disse alfabetisk. Slutbrugervenlige URL’er: Alt indhold vises...","categories": ["Release Notes"],
+        "excerpt":"Rediger overskrifter og vis manchet på brødkrummesider, få vist tekstformatering i dine accordions og formater citater i editor Nye features Information om CMS-version vises i redaktørmenuen. Brødkrumme: Muligt at redigere overskriften for listede breadcrumb children. Slutbrugervenlige URL’er på filialer og arrangementer. Fejlrettelser og forbedringer Arrangementer: Byline er fjernet på teaserbilleder,...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/release-notes/release-notes-2024-15-0/",
         "teaser": null
