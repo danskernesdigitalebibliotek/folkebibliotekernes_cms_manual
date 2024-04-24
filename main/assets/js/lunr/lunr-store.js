@@ -485,6 +485,12 @@ var store = [{
         "url": "/main/indhold/takster/",
         "teaser": null
       },{
+        "title": "Url-omdirigeringer og omdøbninger",
+        "excerpt":" ","categories": ["Generelt"],
+        "tags": [],
+        "url": "/main/indhold/urler/",
+        "teaser": null
+      },{
         "title": "Velkommen",
         "excerpt":"Den faste sider Velkommen er en velkomstside til nyoprettede brugere. Efter succesfuld brugeroprettelse via hjemmesiden bliver brugerne omdirigeret til denne side. Tilret teksten på siden Velkommen Find siden Velkommen under indhold og tilret teksten efter jeres behov Standardteksten må gerne tilrettes: Find siden der hedder Velkommen. Den kan fremsøges under...","categories": ["Faste sider"],
         "tags": [],
