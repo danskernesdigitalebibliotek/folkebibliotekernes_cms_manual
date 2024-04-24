@@ -714,7 +714,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 8: Logo, identitetsfarve og favicon",
-        "excerpt":"## Ændr sidens udseende Følg guiden i [Konfiguration for Logo, identitetsfarve og favicon](/main/konfiguration/udseende/).  ","categories": ["Startopsætning"],
+        "excerpt":"Ændr sidens udseende  Følg guiden i Konfiguration for Logo, identitetsfarve og favicon.  ","categories": ["Startopsætning"],
         "tags": [],
         "url": "/main/startopsaetning/udseende/",
         "teaser": null
