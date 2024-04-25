@@ -24,7 +24,7 @@ Vi anbefaler, at I opretter en side med navnet Forside. I behøver ikke gøre de
 1. Log ind. [Opret en ny side via denne guide](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/side/). Navngiv siden **Forside**. Tryk **Gem**.
 2. Nu vises Forside. Læg mærke til sidens navn i URLen. Den kan du se i browserens adresselinje. Har du givet siden navnet Forside, hedder den sikkert\ 
 `https://mit-domænenavn.dk/forside`.
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/66bf938f-6d4a-417d-a528-4f2c59346f18" alt="Læg mærke til forsidens URL." caption="Læg mærke til forsidens URL." %}
+   {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/66bf938f-6d4a-417d-a528-4f2c59346f18" alt="Læg mærke til forsidens URL." caption="Læg mærke til forsidens URL." %}
 3. Indsæt sidens navn fra URL'en i feltet **Forside** under de [Grundlæggende indstillinger](https://www.folkebibliotekernescms.dk/main/konfiguration/grundlaeggende-indstillinger/).
    {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/4e3b450b-36ce-40aa-bdb7-f2665723480e" alt="Indsæt forsidens navn som den fremgår af URL'en" caption="Indsæt forsidens navn som den fremgår af URL'en" %}
 
