@@ -16,11 +16,11 @@ Sådan gør du:
 4. I dette tilfælde kan du se at udbyderen Gigahost.dk er ansvarlig for DNS opsætningen (andre eksempler er drabib.dk som anvender eurodns.com, bibliotek.kk.dk anvender One.com og bronderslevbib.dk anvender både DBC og KMD).
 5. Kontakt den person eller afdeling hos kommunen som er ansvarlig for jeres hjemmesides tekniske drift og har adgang til Gigahost.dk (spørg efter en som kender alt til A-records, MX-records, CNAME m.v.)
 6. Med DDF aftales hvilken dato og tidspunkt, I går live. Det skal være en onsdag. Opret en sag i Jira, hvor I skriver, hvilken onsdag I gerne vil gå live.
-7. Før golive dagen:
+7. Før golive dagen:\
    a. Jeres DNS-udbyder kan sænke TTL (time-to-live) på jeres domæne for at sikre en hurtig overgang
-9. På golive dagen:
+9. På golive dagen:\
    a. DNS for jeres domæner skal ændres til at pege på følgende IP-adresse: **20.86.109.250**
-10. Efter golive:
+10. Efter golive:\
    a. Jeres DNS udbyder kan med fordel hæve TTL på jeres domæner igen
 13. Bed den teknisk ansvarlige om at teste, at alle dele af den nye opsætning fungerer: e-mail, domæne omdirigeringer, certifikater m.m.
 
