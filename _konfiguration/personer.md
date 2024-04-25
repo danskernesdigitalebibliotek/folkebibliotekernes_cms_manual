@@ -1,6 +1,6 @@
 ---
 title: "Opret systembruger og skift password"
-click-path: "Personer"
+click-path: "Redaktionelle brugere"
 category: "Konfiguration"
 emneord: 
 - "Brugere og roller"
