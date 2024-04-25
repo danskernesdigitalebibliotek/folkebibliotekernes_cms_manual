@@ -15,7 +15,7 @@ I denne opgave skal I kopiere jeres OpenID Connect adgangsnøgler fra DDB CMS ov
 Log ind i DDB CMS med en bruger der har "Lokal administrator" rollen. I topmenuen klik på **Indstillinger > Ding > Adgangsplatformen**
 
 Eller åbn via direkte link (udskift mit-domænenavn.dk):\
-https://mit-domænenavn.dk`/admin/config/ding/adgangsplatformen`
+`https://mit-domænenavn.dk/admin/config/ding/adgangsplatformen`
 
 Kopier Client ID og Client Secret. Vær omhyggelig så det hele kommer med!
 
@@ -27,7 +27,7 @@ Kopier Client ID og Client Secret. Vær omhyggelig så det hele kommer med!
 Log ind i Folkebibliotekernes CMS. I topmenuen klik på **Indstillinger > Web-services > OpenID Connect**
 
 Eller åbn via direkte link (udskift mit-staging-domæne.dk):\
-https://mit-staging-domæne.dk`/admin/config/services/openid-connect`
+`https://mit-staging-domæne.dk/admin/config/services/openid-connect`
 
 
 1. Indsæt Client ID og Clent Secret. Vær igen omhyggelig så det hele kommer med!
