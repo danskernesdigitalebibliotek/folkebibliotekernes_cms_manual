@@ -384,7 +384,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Brødkrummesti",
-        "excerpt":"Forklar hvad brødkrummer er. 1. Planlæg strukturen af hjemmesiden For at oprette strukturen på jeres hjemmesiden, kan I benytte det arbejde, som I lavede i forberedelsesopgave 4: Informationsarkitektur og navigation. Hvis I ikke har lavet det endnu, kan det bruges som inspiration til hvordan I vil bygge siden op. Eksempel...","categories": ["Navigation"],
+        "excerpt":"En brødkrummesti er en lille linje øverst under headeren, der viser brugeren hvor man er på siden, og giver mulighed for at man kan navigere tilbage i sidens struktur. I kan selv definere hvordan brødkrummestien skal være opbygget. I Folkebibliotekernes CMS opretter man både en brødkrumme og en side til...","categories": ["Navigation"],
         "tags": [],
         "url": "/main/indhold/broedkrummesti/",
         "teaser": null
@@ -660,7 +660,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2024.15.0",
-        "excerpt":"Rediger overskrifter og vis manchet på brødkrummesider, få vist tekstformatering i dine accordions og formater citater i editor Nye features Information om CMS-version vises i redaktørmenuen. Brødkrumme: Muligt at redigere overskriften for listede breadcrumb children. Slutbrugervenlige URL’er på filialer og arrangementer. Fejlrettelser og forbedringer Arrangementer: Byline er fjernet på teaserbilleder,...","categories": ["Release Notes"],
+        "excerpt":"Denne release gør det let for brugerne at finde rundt på dit site med brødkrumme og slutbrugervenlige URL’er. Nu mulighed for at redigere servicemenu. Nye features Filialer: Vælg at filial skal vises i toppen af /branches. Hvis flere filialer er tildelt topplacering listes disse alfabetisk. Slutbrugervenlige URL’er: Alt indhold vises...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/release-notes/release-notes-2024-15-0/",
         "teaser": null
