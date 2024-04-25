@@ -10,7 +10,3 @@ Der vises et link til den faste side **Opret bruger** vises, hvis man ikke i for
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/357b0f9d-2592-49fd-b0b4-50796636c2fb" alt="Indsæt forsidens navn som den fremgår af URL'en" caption="Indsæt forsidens navn som den fremgår af URL'en" %}
 
 
-
-
-
-Denne side er vi i gang med, vi mangler noget styling før vi kan introducere den.
