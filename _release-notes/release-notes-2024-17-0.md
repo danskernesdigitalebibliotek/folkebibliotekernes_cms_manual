@@ -1,7 +1,7 @@
 ---
 title:  "Release Notes 2024.17.0"
 category: "Release Notes"
-weight: 998
+weight: 997
 ---
 
 **Rediger overskrifter og vis manchet på brødkrummesider, få vist tekstformatering i dine accordions og formater citater i editor**
