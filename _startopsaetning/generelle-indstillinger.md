@@ -6,9 +6,9 @@ emneord:
   - Søgning
 ---
 
-I denne opgave laver du den grundlæggende konfiguration af sitet. Det er noget, du kun skal gøre én gang, og med stor sandsynlighed aldrig røre ved igen. 
+I denne opgave laver du den grundlæggende konfiguration af sitet. Det er noget, du kun skal gøre én gang, men det er vigtigt, at det bliver gjort ordentligt. 
 
-Men det er vigtigt, at det bliver gjort ordentligt. Sæt dig sammen med med en kollega, der ved rigtig meget om jeres bibliotek. Ham/hende der er en haj til Cicero, og ofte snakker om VIP-basen.
+Sæt dig sammen med med en kollega, der ved rigtig meget om jeres bibliotek. Ham/hende der er en haj til Cicero, og ofte snakker om VIP-basen.
 I skal i fællesskab løse denne opgave.
 
 ## 1. Generelle biblioteksindstillinger
