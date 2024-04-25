@@ -42,6 +42,9 @@ Er du kommet til at slette siden Privatlivspolitik, kan du oprette en ny side, o
 Eller åbn via URL: https://mit-domænenavn.dk/admin/config/dpl-library-agency/patron-page-settings (udskift mit-domænenavn.dk)
 5. På siden **Indstillinger for brugerprofil** find feltet **Url til side om hvordan man bliver slettet som bruger af biblioteket**
 6. Udfyld med den relative URL på den nye side. (den del der ligger efter domænenavnet)
+   {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/172c1528-0518-48b4-ab07-131b15bebb71" alt="Indæt her" caption="Indsæt her" %} 
+
+
 
 
 ### Sådan ændrer du linket i footerens servicemenu
