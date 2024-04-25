@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2024-04-25T07:50:34+00:00">
+  <meta property="article:published_time" content="2024-04-25T08:13:21+00:00">
 
 
 
@@ -282,7 +282,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Opgave 11: DNS opsætning">
     <meta itemprop="description" content="DNS står for Domain Name Service. Det er DNS registreringen der gør, at jeres hjemmeside adresse virker og peger hen på det rigtige website. Når I skifter fra DDB CMS til Folkebibliotekernes CMS skal jeres hjemmeside adresse (domænenavn) pege på en ny webserver (ip-adresse).">
-    <meta itemprop="datePublished" content="2024-04-25T07:50:34+00:00">
+    <meta itemprop="datePublished" content="2024-04-25T08:13:21+00:00">
     
 
     <div class="page__inner-wrap">
@@ -332,9 +332,17 @@ I skal finde ud af, hvem der står for jeres DNS-opsætning, og sikre jer at I h
 <ol>
   <li>I dette tilfælde kan du se at udbyderen Gigahost.dk er ansvarlig for DNS opsætningen (andre eksempler er drabib.dk som anvender eurodns.com, bibliotek.kk.dk anvender One.com og bronderslevbib.dk anvender både DBC og KMD).</li>
   <li>Kontakt den person eller afdeling hos kommunen som er ansvarlig for jeres hjemmesides tekniske drift og har adgang til Gigahost.dk (spørg efter en som kender alt til A-records, MX-records, CNAME m.v.)</li>
-  <li>I forbindelsen med overgangen til ny hjemmeside har I modtaget en række tekniske informationer fra Reload omkring IP-adresser m.v. Disse informationer skal indtastes hos Gigahost.dk (eller hvem der er nu er jeres DNS ansvarlige) af den teknisk kyndige.</li>
+  <li>Med DDF aftales hvilken dato og tidspunkt, I går live. Det skal være en onsdag. Opret en sag i Jira, hvor I skriver, hvilken onsdag I gerne vil gå live.</li>
+  <li>Før golive dagen:
+a. Jeres DNS-udbyder kan sænke TTL (time-to-live) på jeres domæne for at sikre en hurtig overgang</li>
+  <li>På golive dagen:
+a. DNS for jeres domæner skal ændres til at pege på følgende IP-adresse: <strong>20.86.109.250</strong></li>
+  <li>Efter golive:
+   a. Jeres DNS udbyder kan med fordel hæve TTL på jeres domæner igen</li>
   <li>Bed den teknisk ansvarlige om at teste, at alle dele af den nye opsætning fungerer: e-mail, domæne omdirigeringer, certifikater m.m.</li>
 </ol>
+
+<p class="notice--primary"><strong>Bemærk!</strong> SSL certifikater skal I ikke selv stå for. De provisioneres vha. Lets Encrypt af Reload.</p>
 
 <p>Hvis I ønsker at købe nye domænenavne eller tjekke oplysninger for eksisterende, sker det her: punktum.dk (tidligere kaldet DK-Hostmaster)
 Bemærk at nye .dk domæner både kan købes hos Punktum.dk samt via forhandlere af webhotel, typisk som en del af en pakke.</p>
@@ -357,7 +365,7 @@ Bemærk at nye .dk domæner både kan købes hos Punktum.dk samt via forhandlere
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-04-25T07:50:34+00:00">April 25, 2024</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-04-25T08:13:21+00:00">April 25, 2024</time></p>
 
       </footer>
 
