@@ -35,12 +35,12 @@ Standardteksten må gerne tilrettes:
 Er du kommet til at slette siden Privatlivspolitik, kan du oprette en ny side, og få de indbyggede links til at pege på den.
 
 ### Sådan ændrer du linket i bunden af brugerprofilen:
-1. Opret en ny side, der skal erstatte den faste side Privatlivspolitik. Læg mærke til sidens URL. Den kan du se i browserens adresselinje. Det er den sidste del der er interessant. Den hedder noget med **node/xxx**. (xxx er et tal)
+1. Opret en ny side, der skal erstatte den faste side Privatlivspolitik. Læg mærke til sidens URL. Den kan du se i browserens adresselinje. Det er den sidste del efter domænenavnet, der er interessant. 
 2. Nu skal du registerer den nye sides URL i indstillinger for websiden. Log ind med en bruger, der har rollen **Lokal administrator**.
 3. I topmenuen klik på **Indstillinger > Biblioteksindstillinger > Indstillinger for brugerprofil**\
 Eller åbn via URL: https://mit-domænenavn.dk/admin/config/dpl-library-agency/patron-page-settings (udskift mit-domænenavn.dk)
 4. På siden **Indstillinger for brugerprofil** find feltet **Url til side om hvordan man bliver slettet som bruger af biblioteket**
-5. Udfyld med den relative URL på den nye side. Dvs. `node/xxx`, hvor xxx er et tal.
+5. Udfyld med den relative URL på den nye side. (den del der ligger efter domænenavnet)
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/69bc79be-20e9-42a6-a10f-18cb52aff1b7" alt="Læg mærke til den nye sides URL" caption="Læg mærke til den nye sides URL." %} 
 
