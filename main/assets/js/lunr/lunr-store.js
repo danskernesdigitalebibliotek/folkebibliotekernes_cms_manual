@@ -390,7 +390,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opret bruger",
-        "excerpt":"Der vises et link til den faste side Opret bruger vises når man trykker på brugerikonet. Hvis man ikke i forvejen er logget ind, vises en modal der giver mulighed for Log ind eller Opret profil. Denne side er vi i gang med, vi mangler noget styling før vi kan...","categories": ["Faste sider"],
+        "excerpt":"Der vises et link til den faste side Opret bruger vises, hvis man ikke i forvejen er logget ind og man trykker på brugerikonet.             Indsæt forsidens navn som den fremgår af URL’en        Denne side er vi i gang med, vi mangler noget styling før vi kan introducere den.  ","categories": ["Faste sider"],
         "tags": [],
         "url": "/main/indhold/brugeroprettelsesside/",
         "teaser": null
