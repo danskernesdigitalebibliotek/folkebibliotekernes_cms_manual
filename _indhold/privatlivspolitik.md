@@ -17,6 +17,9 @@ Der link til privatlivspolitik to steder i Folkebibliotekernes CMS:
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d5250e9e-20c7-495f-9946-6056a9950067" alt="Der er link til privatlivspolitik fra bunden af brugerprofilen" caption="Der er link til privatlivspolitik fra bunden af brugerprofilen" %} 
 
+## Privatlivspolitik og cookie information
+Det er med vilje, at der ikke står noget om cookies i privatlivspolitikken. Folkebibliotekernes CMS kommer til at implementere cookie dialogboksen fra Cookie Information. Via teksten i denne dialogboks informeres korrekt og lovformeligt om cookies anvendt på sitet. Reglerne omkring cookie deklaration er komplekse, og vælger I selv at skrive cookies, kan DDF ikke validere tekstens gyldighed.
+
 
 ## Tilret teksten på siden Privatlivspolitik
 
