@@ -516,7 +516,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Grundlæggende indstillinger",
-        "excerpt":"I topmenuen klik på Indstillinger &gt; System &gt; Grundlæggende indstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/system/site-information Her er en beskrivelse af de felter, der har betydning for jeres site. Sitets navn Skriv bibliotekets officielle navn her. Det vises ikke direkte på hjemmesiden, men indgår i sidens metadata. Det vil...","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; System &gt; Grundlæggende indstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/system/site-information Her er en beskrivelse af de felter, der har betydning for jeres site. Sitets navn Bibliotekets officielle navn Skriv bibliotekets officielle navn her. Det vises ikke direkte på hjemmesiden, men indgår i sidens...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/main/konfiguration/grundlaeggende-indstillinger/",
         "teaser": null
