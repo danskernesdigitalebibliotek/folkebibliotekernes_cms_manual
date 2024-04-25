@@ -11,12 +11,12 @@ Eller åbn via URL (udskift mit-domænenavn.dk):\
 Her er en beskrivelse af de felter, der har betydning for jeres site.
 
 ## Sitets navn
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/156894ca-0efe-4925-9ae2-5e0df7f88245)
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/156894ca-0efe-4925-9ae2-5e0df7f88245" alt="Bibliotekets officielle navn" caption="Bibliotekets officielle navn" %}
 
 Skriv bibliotekets officielle navn her. Det vises ikke direkte på hjemmesiden, men indgår i sidens metadata. Det vil være synligt i Googles søgeresultater. Påkrævet felt.
 
 ## E-mail-adresse
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/9a8eb057-2427-4eeb-8d88-3b9f69dda717)
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/9a8eb057-2427-4eeb-8d88-3b9f69dda717" alt="Bibliotekets officielle e-mail adresse" caption="Bibliotekets officielle e-mail adresse" %}
 
 Skriv bibliotekts officielle email adresse her. Anvendes som afsender email adresse på mails sendt fra websitet. Påkrævet felt.
 
