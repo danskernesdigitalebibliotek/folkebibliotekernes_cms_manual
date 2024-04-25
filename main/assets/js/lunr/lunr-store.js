@@ -665,6 +665,12 @@ var store = [{
         "url": "/main/release-notes/release-notes-2024-15-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.17.0",
+        "excerpt":"Rediger overskrifter og vis manchet på brødkrummesider, få vist tekstformatering i dine accordions og formater citater i editor Nye features Information om CMS-version vises i redaktørmenuen. Brødkrumme: Muligt at redigere overskriften for listede breadcrumb children. Slutbrugervenlige URL’er på filialer og arrangementer. Fejlrettelser og forbedringer Arrangementer: Byline er fjernet på teaserbilleder,...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/release-notes/release-notes-2024-17-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
