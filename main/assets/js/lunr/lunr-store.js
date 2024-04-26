@@ -719,6 +719,12 @@ var store = [{
         "url": "/main/startopsaetning/proxyindstillinger/",
         "teaser": null
       },{
+        "title": "Opgave 9: Byg sidens faste struktur og menuer",
+        "excerpt":"1. Planlæg strukturen af hjemmesiden For at oprette strukturen på jeres hjemmesiden, kan I benytte det arbejde, som I lavede i forberedelsesopgave 4: Informationsarkitektur og navigation. Hvis I ikke har lavet det endnu, kan det bruges som inspiration til hvordan I vil bygge siden op. 2. Opret jeres sider Start...","categories": ["Startopsætning"],
+        "tags": [],
+        "url": "/main/startopsaetning/struktur-og-menuer/",
+        "teaser": null
+      },{
         "title": "Opgave 4: Opret systembrugere",
         "excerpt":"Du er sikkert ikke den eneste, der skal lave indhold til jeres nye hjemmeside. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden. Vi anbefaler meget, at I bruger individuelle logins med kun de nødvendige rettigheder tilknyttet. I DDB CMS skulle...","categories": ["Startopsætning"],
         "tags": [],
