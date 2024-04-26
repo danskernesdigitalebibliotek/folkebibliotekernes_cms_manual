@@ -35,7 +35,7 @@ Som et eksempel tager vi udgangspunkt i ovenstående eksempel på en struktur, o
 Siderne skal oprettes inden man kan oprette brødkrummerne.
 {: .notice--warning}
 
-I topmenuen klik på **Brødkrumme** eller åbn `https://mit-domænenavn.dk/admin/structure/taxonomy/manage/breadcrumb_structure/overview` (udskift mit-domænenavn.dk)
+I topmenuen klik på **Brødkrumme** eller åbn `https://mit-domænenavn.dk/admin/structure/taxonomy/manage/breadcrumb_structure/overview` (udskift mit-domænenavn.dk).
 
 Klik på **Tilføj ord** i øverste højre hjørne:
 
@@ -52,7 +52,11 @@ Vælg om der skal vises sidebørn i **Vis sidebørn**. Det betyder om der skal v
 
 Vælg om den skal publiceres i **Publiceret**.
 
-Vælg eventuelt et overordnet ord i **Overordnede ord**. Hvis du ønsker en brødkrummesti som følger: Inspiration > Litteratur > Læseklubber > Tove Ditlevsen klubben. Så skal Inspiration vælges som overordnet ord på brødkrummen Litteratur, og Litteratur skal vælges på Læseklubber, og Læseklubber skal vælges på Tove Ditlevsen klubben.
+Fold **Relationer** ud. Vælg eventuelt et overordnet ord i **Overordnede ord**. Hvis du ønsker en brødkrummesti som følger: Inspiration > Litteratur > Læseklubber > Tove Ditlevsen klubben. Så skal Inspiration vælges som overordnet ord på brødkrummen Litteratur, og Litteratur skal vælges på Læseklubber, og Læseklubber skal vælges på Tove Ditlevsen klubben.
+
+Hvis du går tilbage til Brødkrummestiens konfiguration ved at klikke på **Brødkrumme** i topmenuen eller åbn `https://mit-domænenavn.dk/admin/structure/taxonomy/manage/breadcrumb_structure/overview` (udskift mit-domænenavn.dk). Så kan du bruge brødkrummernes træk-og-slip-håndtag til at omorganisere dem i forhold til hvad der er overordnede og underordnede brødkrummer.
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/9e5ecaea-cc81-4d4f-90e2-3a755b93f0c4" alt="Træk og slip" caption="Træk og slip" %}
 
 ## Mere information
 
