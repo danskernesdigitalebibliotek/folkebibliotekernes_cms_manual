@@ -10,6 +10,10 @@ En brødkrummesti er en lille linje øverst under headeren, der viser brugeren h
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/3f3c57ae-df55-4d6b-8aed-c2ac4cd8eec0" alt="En brødkrummesti" caption="En brødkrummesti" %}
 
+**Url'er**
+Den måde I opbygger jeres brødkrummer påvirker hvordan url'en for en side bliver lavet. Hvis jeres brødkrumme ser således ud: Inspiration > Litteratur > Læseklubber, så vil url'en se således ud: www.eksempelbibliotek.dk/inspiration/litteratur/laeseklubber.
+{: .notice--primary}
+
 ## 1. Planlæg strukturen af hjemmesiden
 
 For at oprette strukturen på jeres hjemmesiden, kan I benytte det arbejde, som I lavede i [forberedelsesopgave 4: Informationsarkitektur og navigation]({{ site.baseurl }}{% link _bliv-klar-til-folkebibliotekernes-cms/4informationsarkiktektur.md %}). Hvis I ikke har lavet det endnu, kan det bruges som inspiration til hvordan I vil bygge siden op. 
