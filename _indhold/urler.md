@@ -23,6 +23,9 @@ Indtast den ønskede nye url ind i **Sti**.
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/096ab0e3-3504-4d7c-8844-d6f299b872e2" alt="Indtast sti" caption="Indtast sti" %}
 
 ## Url-omdøbning
-Denne løsning overskriver den automatiske logik, der opretter url'erne i CMS'et.
+Denne løsning overskriver den automatiske logik, der opretter url'erne i CMS'et. Dette er kun muligt for webmaster- og programmørbiblioteker. Denne løsning er ikke anbefalet, og skal kun bruges, hvis man er helt sikker på at det er den korrekte løsning. 
+{: .notice--danger}
 
-Dette er kun muligt for webmaster- og programmørbiblioteker. Denne løsning er ikke anbefalet, og skal kun bruges, hvis man er helt sikker på at det er den korrekte løsning. 
+Fold **Alternativ URL** ud. Slå **Opret automatisk URL alias** fra. Og indtast ny url i feltet **Alternativ URL**.
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/08eceda5-0bd7-4dfa-a84b-64dcbe9c44bd" alt="Indtast url" caption="Indtast url" %}
