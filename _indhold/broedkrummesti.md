@@ -50,6 +50,8 @@ Udfyld **Indhold der linkes til** med den side, som skal tilknyttes. Der SKAL ti
 
 Vælg om der skal vises sidebørn i **Vis sidebørn**. Det betyder om der skal vises en automatisk liste med indhold, som referer til dette element. Fx en liste med Litteratur, Musik, Film, Spil på siden Inspiration.
 
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/8d152ecf-07e3-45b6-aea4-36a613393713" alt="Sidebørn" caption="Sådan vises sidebørn" %}
+
 Vælg om den skal publiceres i **Publiceret**.
 
 Fold **Relationer** ud. Vælg eventuelt et overordnet ord i **Overordnede ord**. Hvis du ønsker en brødkrummesti som følger: Inspiration > Litteratur > Læseklubber > Tove Ditlevsen klubben. Så skal Inspiration vælges som overordnet ord på brødkrummen Litteratur, og Litteratur skal vælges på Læseklubber, og Læseklubber skal vælges på Tove Ditlevsen klubben.
