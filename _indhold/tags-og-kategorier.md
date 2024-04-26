@@ -14,7 +14,7 @@ Sider struktureres ved at opbygge brødkrummer, og man kan med fordel afspejle n
 ## Kategorier
 Kategorier fungerer på tværs af artikler og arrangementer, så man opretter kun én kategori, der hedder Litteratur,  og ikke som i DDB CMS hvor man oprettede både en arrangementskategori og en artikelkategori. Indhold kan kun have én kategori tilknyttet. Kategorien påvirker også url'en på arrangementer og artikler.
 
-## Opret kategorier 
+### Opret kategorier 
 I topmenuen klik på **Struktur** eller åbn https://mit-domænenavn.dk/admin/structure (udskift mit-domænenavn.dk)
 
 Tryk på **Taksonomi**
