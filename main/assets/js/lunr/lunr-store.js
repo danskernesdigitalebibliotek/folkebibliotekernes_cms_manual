@@ -468,7 +468,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Tags og kategorier",
-        "excerpt":" ","categories": ["Navigation"],
+        "excerpt":"Man kan samle artikler og arrangementer på tværs af indholdstyper med kategorier og tags. Dette kan I bruge til at oprette diverse komponenter fx hvis du vil indsætte en Card grid - automatic med arrangementer, der handler om litteratur. Derudover kan brugerne filtrere artikellisten og arrangementslisten efter kategori. Sider struktureres...","categories": ["Navigation"],
         "tags": [],
         "url": "/main/indhold/tags-og-kategorier/",
         "teaser": null
