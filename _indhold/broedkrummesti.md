@@ -46,7 +46,7 @@ Udfyld felterne
 
 Udfyld **Navn** med det, som skal vises i brødkrummestien. Det behøver ikke at være det samme, som det den tilknyttede side hedder. Brødkrummens navn kan med fordel være kortere og mere præcist end sidenavnet. Fx kan en side i strukturen hedde 'Blåovre læseklubber - genre' hedde Læseklubber i brødkrummen.
 
-Udfyld **Indhold der linkes til** med den side, som skal tilknyttes. Der SKAL tilknytttes en side. 
+Udfyld **Indhold der linkes til** med den side, som skal tilknyttes. Der SKAL tilknytttes en side. Når der tastes titlen på den side, som du vil tilknytte, så kommer siderne frem i en dropdown.
 
 Vælg om der skal vises sidebørn i **Vis sidebørn**. Det betyder om der skal vises en automatisk liste med indhold, som referer til dette element. Fx en liste med Litteratur, Musik, Film, Spil på siden Inspiration.
 
