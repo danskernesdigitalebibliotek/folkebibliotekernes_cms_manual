@@ -13,11 +13,7 @@ En brødkrummesti er en lille linje øverst under headeren, der viser brugeren h
 Den måde I opbygger jeres brødkrummer påvirker hvordan url'en for en side bliver lavet. Hvis jeres brødkrumme ser således ud: Inspiration > Litteratur > Læseklubber, så vil url'en se således ud: www.eksempelbibliotek.dk/inspiration/litteratur/laeseklubber. [Se også hvordan man laver url-omdirigeringer og omdøbninger]({{ site.baseurl }}{% link _indhold/urler.md %}).
 {: .notice--primary}
 
-## 1. Planlæg strukturen af hjemmesiden
-
-For at oprette strukturen på jeres hjemmesiden, kan I benytte det arbejde, som I lavede i [forberedelsesopgave 4: Informationsarkitektur og navigation]({{ site.baseurl }}{% link _bliv-klar-til-folkebibliotekernes-cms/4informationsarkiktektur.md %}). Hvis I ikke har lavet det endnu, kan det bruges som inspiration til hvordan I vil bygge siden op. 
-
-### Eksempel på en struktur
+## Eksempel på en struktur
 Vi tager udgangspunkt i en eksempelstruktur for punkterne i hovedmenuen, der ser ud som nedenstående:
 - Det sker
 - Inspiration
@@ -29,12 +25,12 @@ Vi tager udgangspunkt i en eksempelstruktur for punkterne i hovedmenuen, der ser
 - Netmedier
 - For børn
 
-## 2. Opret sider til det faste indhold
+## 1. Opret sider til det faste indhold
 Start med at oprette de sider, som strukturen skal bestå af. Se hvordan man opretter sider i guiden [Opret indhold: Side]({{ site.baseurl }}{% link _indhold/side.md %}). 
 
 Som et eksempel tager vi udgangspunkt i ovenstående eksempel på en struktur, og fokuserer på at lave menupunktet 'Inspiration' hele vejen ned til siden 'Tove Ditlevsen klubben'. I dette eksempel ville vi oprette siderne: 1. Inspiration, 2. Litteratur, 3. Læseklubber og 4. Tove Ditlevsen klubben.
 
-## 3. Opret brødkrummer og tilknyt siderne
+## 2. Opret brødkrummer og tilknyt siderne
 Siderne skal oprettes inden man kan oprette brødkrummerne.
 {: .notice--warning}
 
