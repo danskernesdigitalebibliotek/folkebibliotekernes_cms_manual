@@ -11,6 +11,9 @@ FB CMS benytter betegnelserne sektionsside og navigationsside, men det henviser 
 
 Du kan se eksempler på, hvordan sektions- og navigationssider kan se ud i [Design-manualen](https://www.figma.com/file/Zx9GrkFA3l4ISvyZD2q0Qi/Designsystem?type=design&node-id=7477-38814&mode=design){:target="_blank" rel="noopener"}
 
+Hvis du vil opbygge dine sider i en struktur, der også laver en brødkrummesti og url'er, så kan du læse 
+[Guiden: Brødkrummesti]({{ site.baseurl }}{% link _indhold/broedkrummesti.md %}).
+{: .notice--primary}
 
 ## Sådan opretter du en side
 I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/content` (udskift mit-domænenavn.dk)
