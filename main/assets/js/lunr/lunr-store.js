@@ -486,7 +486,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Url-omdirigeringer og omdøbninger",
-        "excerpt":" ","categories": ["Generelt"],
+        "excerpt":"Der er flere måder at ændre url’erne til jeres sider. Brødkrummestien Den bedste måde at ændre url’er er ved at opbygge sidens struktur ved brødkrummer. Fordelen ved dette er at man både opbygger brødkrummestien og url’erne på en gang, og de afspejler hinanden fx hvis jeres brødkrummesti ser således ud:...","categories": ["Generelt"],
         "tags": [],
         "url": "/main/indhold/urler/",
         "teaser": null
