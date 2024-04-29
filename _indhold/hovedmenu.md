@@ -5,7 +5,7 @@ weight: 1
 emneord:
 - "Menuer og navigation"
 ---
-Vær opmærksom på at der kan gå lidt tid før at punkterne i hovedmenuen indlæses på siden.
+Vær opmærksom på at der kan gå lidt tid før at punkterne i hovedmenuen indlæses på siden efter at de er oprettet.
 {: .notice--warning}
 
 I topmenuen klik på **Struktur > Menuer** eller brug adressen `https://mit-domænenavn.dk/admin/structure/menu` (udskift mit-domænenavn.dk)
