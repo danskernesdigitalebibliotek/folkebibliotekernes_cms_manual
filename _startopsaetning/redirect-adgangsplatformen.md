@@ -8,10 +8,10 @@ emneord:
 Fra **Adgangsplatformen** er der et link til siden **Opret bruger** på jeres gamle hjemmeside. Det link skal pege på den nye hjemmeside fra den dag I går live. Det kan I selv sørge for, ved at lave et redirect. 
 
 I må gerne oprette redirect med det samme. Det har ingen effekt før I går live, så det ødelægger ikke noget.
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/27deb1eb-6372-4d24-beff-47b36e52569f)
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/27deb1eb-6372-4d24-beff-47b36e52569f" alt="Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside" caption="Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside" %}
 
 ## Sådan opretter i et redirect fra Adgangsplatformen til Opret bruger siden
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/7a8cc0a8-38b3-412d-94d2-b95501cd8447)
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/27deb1eb-6372-4d24-beff-47b36e52569f" alt="Opret redirect fra Adgangsplatformen til siden Opret bruger" caption="Opret redirect fra Adgangsplatformen til siden Opret bruger" %}
 
 For at sikre at Adgangsplatformen peger på den rigtige brugeroprettelsesside, skal I tilføje et redirect til jeres site.
 1. Log ind med en bruger der har rollen **Lokal administrator**
