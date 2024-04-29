@@ -14,7 +14,7 @@ I må gerne oprette redirect nu med det samme. Det har ingen effekt før I går 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f667990e-fa06-43da-8a55-c51ff41e8ce8" alt="Opret redirect fra Adgangsplatformen til siden Opret bruger" caption="Opret redirect fra Adgangsplatformen til siden Opret bruger" %}
 
 For at sikre at Adgangsplatformen peger på den rigtige brugeroprettelsesside, skal I tilføje et redirect til jeres site.
-1. Log ind med en bruger der har rollen **Lokal administrator**
+1. Log ind med en bruger, der har rollen **Lokal administrator**
 2.	Vælg **Redirects** i hovedmenuen
 3.	I feltet **Sti** skriver du `registration`
 4.	I feltet **Til** skriver du `/opret-bruger`
