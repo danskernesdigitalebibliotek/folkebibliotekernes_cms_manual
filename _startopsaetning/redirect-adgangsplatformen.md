@@ -1,5 +1,5 @@
 ---
-title: "Opgave 10: Reparer link fra Adgangsplatformen til Opret bruger"
+title: "Opgave 10: Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside"
 category: "Startopsætning"
 weight: 10
 emneord:
