@@ -725,6 +725,12 @@ var store = [{
         "url": "/main/startopsaetning/proxyindstillinger/",
         "teaser": null
       },{
+        "title": "Opgave 10: Reparer link fra Adgangsplatformen til Opret bruger",
+        "excerpt":"Fra Adgangsplatformen er der et link til siden Opret bruger på jeres gamle hjemmeside. Det link skal pege på den nye hjemmeside fra den dag I går live. Det kan I selv sørge for, ved at lave et redirect. I må gerne oprette redirect med det samme. Det har ingen...","categories": ["Startopsætning"],
+        "tags": [],
+        "url": "/main/startopsaetning/redirect-adgangsplatformen/",
+        "teaser": null
+      },{
         "title": "Opgave 9: Byg sidens faste struktur og menuer",
         "excerpt":"1. Planlæg strukturen af hjemmesiden For at oprette strukturen på jeres hjemmesiden, kan I benytte det arbejde, som I lavede i forberedelsesopgave 4: Informationsarkitektur og navigation. Hvis I ikke har lavet det endnu, kan det bruges som inspiration til hvordan I vil bygge siden op. 2. Opret jeres sider Start...","categories": ["Startopsætning"],
         "tags": [],
