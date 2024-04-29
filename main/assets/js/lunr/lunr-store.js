@@ -420,7 +420,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Hovedmenu",
-        "excerpt":"I topmenuen klik på Struktur &gt; Menuer eller brug adressen https://mit-domænenavn.dk/admin/structure/menu (udskift mit-domænenavn.dk) Vælg Struktur og herefter Menuer i topmeuen Klik på Redigér menu i linjen Main navigation. Klik på knappen Redigér menu Klik på knappen Tilføj link i øverste højre hjørne. Udfyld formularen med følgende oplysninger: Titel: Ordet, der...","categories": ["Navigation"],
+        "excerpt":"Vær opmærksom på at der kan gå lidt tid før at punkterne i hovedmenuen indlæses på siden. I topmenuen klik på Struktur &gt; Menuer eller brug adressen https://mit-domænenavn.dk/admin/structure/menu (udskift mit-domænenavn.dk) Vælg Struktur og herefter Menuer i topmeuen Klik på Redigér menu i linjen Main navigation. Klik på knappen Redigér menu...","categories": ["Navigation"],
         "tags": [],
         "url": "/main/indhold/hovedmenu/",
         "teaser": null
