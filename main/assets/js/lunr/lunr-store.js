@@ -696,7 +696,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Startopsætning",
-        "excerpt":"Denne guide hjælper jer med startopsætning af jeres site. Det er en god idé at gennemføre startopsætningen, inden I begynder at oprette indhold.   Startopsætning - kom i gang  I kan gå i gang med startopsætningen, når I har modtaget URL og login til jeres Folkebibliotekernes CMS staging-site   ","categories": [],
+        "excerpt":"Denne guide hjælper jer med startopsætning af jeres site. Det er en god idé at gennemføre startopsætningen, inden I begynder at oprette indhold.   Startopsætning - kom i gang  I kan gå i gang med startopsætningen, når I har modtaget URL og login til jeres Folkebibliotekernes CMS site   ","categories": [],
         "tags": [],
         "url": "/main/startopsaetning/",
         "teaser": null
