@@ -21,7 +21,7 @@ Du kan indsætte et billede i **Indstil et billede til indholdsskabelonen**, som
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/a666a139-0b73-4e71-83b8-4f7c51a3e10d" alt="Fold Gem som skabelon ud" caption="Fold Gem som skabelon ud" %}
 
-Udfyld alle indholdsfelterne. Hvis du opretter skabelonen med eksempel indhold, så kan du afpbulicere siden, artiklen eller hvad du har valgt at oprette.
+Udfyld alle indholdsfelterne. Hvis du opretter skabelonen med eksempelindhold, så kan du afpbulicere siden, artiklen eller hvad du har valgt at oprette. Derefter vil siden med eksempelindhold ikke være publiceret på hjemmesiden.
 
 Tryk på **Gem**
 
