@@ -5,7 +5,7 @@ weight: 10
 emneord:
   - Adgangsplatformen
 ---
-Fra **Adgangsplatformen** er der et link til siden registration på jeres gamle hjemmeside. Det link skal ændres så det peger på siden **Opret bruger** fra den dag I går live. Det skal I selv sørge for, ved at lave et redirect. 
+Fra **Adgangsplatformen** er der et link til siden registration på jeres gamle hjemmeside. Det link skal ændres, så det peger på siden **Opret bruger**, fra den dag I går live. Det skal I selv sørge for, ved at lave et redirect. 
 
 I må gerne oprette redirect nu med det samme. Det har ingen effekt før I går live, så det ødelægger ikke noget.
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/27deb1eb-6372-4d24-beff-47b36e52569f" alt="Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside" caption="Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside" %}
