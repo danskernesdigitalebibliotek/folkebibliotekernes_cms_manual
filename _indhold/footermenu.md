@@ -48,4 +48,4 @@ Link indsættes i **Link**. Dette kan enten være et eksternt link fx https://ww
 
 Under **Links til sociale medier** indtastes links til de sociale medie kanaler man ønsker at tilføje.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/2f237ae2-4d24-4936-b955-45cfcd8f92f0)36" alt="Udfyld felterne" caption="Udfyld felterne" %}
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/2f237ae2-4d24-4936-b955-45cfcd8f92f0" alt="Udfyld felterne" caption="Udfyld felterne" %}
