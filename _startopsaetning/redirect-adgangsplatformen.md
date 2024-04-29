@@ -10,7 +10,7 @@ Fra **Adgangsplatformen** er der et link til siden registration på jeres gamle 
 I må gerne oprette redirect nu med det samme. Det har ingen effekt før I går live, så det ødelægger ikke noget.
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/27deb1eb-6372-4d24-beff-47b36e52569f" alt="Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside" caption="Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside" %}
 
-## Sådan opretter i et redirect fra Adgangsplatformen til Opret bruger siden
+## Lav et redirect fra Adgangsplatformen til Opret bruger siden
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f667990e-fa06-43da-8a55-c51ff41e8ce8" alt="Opret redirect fra Adgangsplatformen til siden Opret bruger" caption="Opret redirect fra Adgangsplatformen til siden Opret bruger" %}
 
 For at sikre at Adgangsplatformen peger på den rigtige brugeroprettelsesside, skal I tilføje et redirect til jeres site.
