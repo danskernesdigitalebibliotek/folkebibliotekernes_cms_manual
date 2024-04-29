@@ -726,7 +726,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 10: Reparer link fra Adgangsplatformen til Opret bruger",
-        "excerpt":"Fra Adgangsplatformen er der et link til siden Opret bruger på jeres gamle hjemmeside. Det link skal pege på den nye hjemmeside fra den dag I går live. Det kan I selv sørge for, ved at lave et redirect. I må gerne oprette redirect med det samme. Det har ingen...","categories": ["Startopsætning"],
+        "excerpt":"Fra Adgangsplatformen er der et link til siden registration på jeres gamle hjemmeside. Det link skal ændres så det peger på siden Opret bruger fra den dag I går live. Det skal I selv sørge for, ved at lave et redirect. I må gerne oprette redirect med det samme. Det...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/main/startopsaetning/redirect-adgangsplatformen/",
         "teaser": null
