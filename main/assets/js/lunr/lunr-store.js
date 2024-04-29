@@ -390,7 +390,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opret bruger",
-        "excerpt":"Der vises et link til den faste side Opret bruger, når man trykker på brugerikonet. (Man må ikke i forvejen være logget ind.)             Herfra linkes til siden Opret bruger        ","categories": ["Faste sider"],
+        "excerpt":"Der vises et link til den faste side Opret bruger, når man trykker på brugerikonet. (Man må ikke i forvejen være logget ind.) Herfra linkes til siden Opret bruger Tilret teksten på siden Opret bruger Find siden Opret bruger under indhold og tilret teksten efter jeres behov Standardteksten må gerne...","categories": ["Faste sider"],
         "tags": [],
         "url": "/main/indhold/brugeroprettelsesside/",
         "teaser": null
