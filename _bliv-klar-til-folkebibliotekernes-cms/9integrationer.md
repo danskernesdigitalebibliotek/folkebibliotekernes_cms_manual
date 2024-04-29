@@ -22,15 +22,14 @@ Kig jeres nuværende hjemmeside igennem for integrationer. Det kan være:
  
 
 ### Billetintegration
-Vi arbejder på at arrangementerne på Folkebibliotekernes CMS bliver udstillet i et API, som billetleverandørerne kan vælge at hente data fra (dette kræver i det fleste tilfælde at leverandøren udvikler et anvendersystem, som kan hente disse data og udstille dem i deres setup). Det Digitale Folkebibliotek vil kontakte de fleste billetleverandører for at forklare dem, hvordan det kommende API vil kunne bruges, så de har mulighed for at udvikle en ny løsning inden implementeringen.
+Folkebibliotekernes CMS tilbyder alle typer eksterne systemer at hente de arrangementer. Det Digitale Folkebibliotek vil kontakte de fleste billetleverandører for at forklare dem, hvordan det nye API vil kunne bruges, så de har mulighed for at udvikle en ny løsning inden implementeringen.
 
-Kontakt jeres billetleverandør for få en afklaring på, om de har udviklet en løsning der kan hente data fra API’et.
+Kontakt jeres billetleverandør for få en afklaring på, om de har udviklet en løsning der kan hente data fra API’et. Læs mere om arrangements API'et her.
 
 ### Børneindmeldelsesflow
 Vi arbejder på at det bliver muligt at oprette forskellige brugertyper på Folkebibliotekernes CMS. Det betyder at I i administrationsgrænsefladen kan angive en specifik URL for oprettelse efter brugertype fx til X-Flow eller en kommunal e-blanket til oprettelse af jeres børnelånere. Gem URL I evt. bruger på det nuværende site, så I har den til at sætte ind i administrationen.
 
 ### Nyhedsbrevsmodul
-
 Der vil i Folkebibliotekernes CMS ikke være et specifikt nyhedsbrevsmodul. Derfor er det vigtigt at tænke ind om I kan linke til en nyhedsbrevsløsning et andet sted.
 
 ### Webforms/kontaktfomularer
@@ -44,7 +43,7 @@ Hvis I er et bibliotek, der bruger formularer meget, kan det være en idé, at h
 - Københavns Biblioteker siger at biblioteker der abonnerer på X-Flow til børneoprettelse, kan lave formularer derigennem (mangler verificering).
 
 ### Storskærmsintegrationer
-Måske har I i dag en storskærmsløsning som hiver fx arrangementer fra jeres hjemmeside. Det er vigtigt at jeres leverandør af storskærmsløsningen (ligesom med billetleverandøren) kan gøre brug af API’et (som vi arbejder på at kunne tilbyde) til at hente data og udstille dem.
+Måske har I i dag en storskærmsløsning som hiver fx arrangementer fra jeres hjemmeside. Jeres leverandør af storskærmsløsningen kan gøre brug af det nye API til at hente data og udstille dem. Læs mere om arrangements API'et her.
 
 ### APP
 I det nuværende DDBCMS kan man vinge af at arrangementer, nyheder og åbningstider kan vises på Biblioteket APP’en. Vi arbejder på at denne mulighed også bliver muligt i det nye CMS.
