@@ -468,7 +468,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Skabeloner",
-        "excerpt":"Hvis man fx skal oprette flere sider, hvor indholdet ligner hinanden fx forskellige læseklubber, så kan man oprette skabeloner. Man kan oprette skabeloner til sider, biblioteker, kampagner og artikler. Opret en skabelon Du skal først oprette en skabelon, som passer til det indhold, der skal være på siderne. Eksempel på...","categories": ["Generelt"],
+        "excerpt":"Hvis man fx skal oprette flere sider, hvor indholdet ligner hinanden fx forskellige læseklubber, så kan man oprette skabeloner. Man kan oprette skabeloner til sider, biblioteker, kampagner og artikler. Opret en skabelon Det nemmeste er først at oprette en skabelon, som passer til det indhold, der skal være på siderne....","categories": ["Generelt"],
         "tags": [],
         "url": "/main/indhold/skabeloner/",
         "teaser": null
