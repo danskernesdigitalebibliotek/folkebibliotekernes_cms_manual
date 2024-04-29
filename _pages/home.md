@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/startopsaetning.jpg
     alt: "Startopsætning"
     title: "Startopsætning"
-    excerpt: "Skal udføres straks I modtager login til jeres site. (Udbygges løbende)"
+    excerpt: "Skal udføres straks I modtager login til jeres site."
     url: "/startopsaetning/"
   - image_path: /assets/images/new-features.png
     alt: "Nye features i Folkebibliotekernes CM"
