@@ -11,6 +11,12 @@ var store = [{
         "url": "/main/bliv-klar-til-folkebibliotekernes-cms/11dns/",
         "teaser": null
       },{
+        "title": "Opgave 12: Arrangements API",
+        "excerpt":"Arrangements API til brug for eksterne systemer Folkebibliotekernes CMS tilbyder alle typer eksterne systemer at hente de arrangementer, der hører til det enkelte bibliotek. Disse systemer kan eksempelvis være: Billetsystemer (Place2Book, Biletto, YourTicket m.fl.) Kultunaut Storskærms-systemer Vores system tilbyder følgende: Hent arrangementer: Åben snitflade som alle kan bruge. Det eksterne...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/main/bliv-klar-til-folkebibliotekernes-cms/12arrangements-api/",
+        "teaser": null
+      },{
         "title": "Opgave 1: Projektorganisering på biblioteket",
         "excerpt":"Målet med denne opgave er at få etableret en fornuftig organisering af arbejdet med at implementere Folkebibliotekernes CMS. Beskrivelse I skal nu til at opbygge en helt ny hjemmeside, og det kommer til at tage noget tid. Derfor er det vigtigt, at I får styr på, hvem der skal gøre...","categories": ["Overgangsaktiviter"],
         "tags": [],
