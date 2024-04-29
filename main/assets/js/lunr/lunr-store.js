@@ -408,7 +408,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Footermenu",
-        "excerpt":"I topmenuen klik på Indhold &gt; Footer settings eller brug adressen https://mit-domænenavn.dk/admin/structure/footer (udskift mit-domænenavn.dk) Vælg Indhold og herefter Footer Settings i topmeue Hver kolonne i footeren udfyldes med sin egen rubrik, der indeholder felterne Navn og Indhold. Navn er overskriften på kolonnen og Indhold er den information, som skal fremgå...","categories": ["Navigation"],
+        "excerpt":"Footermenuen består af to dele 1. selve footmenuen og 2. en servicemenu, hvor I kan indsætte links til fx tilgængelighedserklæring, privatlivspolitik etc. og indsættte links til jeres sociale medie kanaler. Footermenu I topmenuen klik på Indhold &gt; Footer settings eller brug adressen https://mit-domænenavn.dk/admin/structure/footer (udskift mit-domænenavn.dk) Vælg Indhold og herefter Footer...","categories": ["Navigation"],
         "tags": [],
         "url": "/main/indhold/footermenu/",
         "teaser": null
