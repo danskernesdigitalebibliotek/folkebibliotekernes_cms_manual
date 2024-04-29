@@ -467,6 +467,12 @@ var store = [{
         "url": "/main/indhold/side/",
         "teaser": null
       },{
+        "title": "Skabeloner",
+        "excerpt":"Hvis man fx skal oprette flere sider, hvor indholdet ligner hinanden fx forskellige læseklubber, så kan man oprette skabeloner. Man kan oprette skabeloner til sider, biblioteker, kampagner og artikler. Opret en skabelon Du skal først oprette en skabelon, som passer til det indhold, der skal være på siderne. Eksempel på...","categories": ["Generelt"],
+        "tags": [],
+        "url": "/main/indhold/skabeloner/",
+        "teaser": null
+      },{
         "title": "Tags og kategorier",
         "excerpt":"Man kan samle artikler og arrangementer på tværs af indholdstyper med kategorier og tags. Dette kan I bruge til at oprette diverse komponenter fx hvis du vil indsætte en Card grid - automatic med arrangementer, der handler om litteratur. Derudover kan brugerne filtrere artikellisten og arrangementslisten efter kategori. Sider struktureres...","categories": ["Navigation"],
         "tags": [],
