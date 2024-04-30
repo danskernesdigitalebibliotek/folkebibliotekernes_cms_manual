@@ -20,3 +20,6 @@ Sider struktureres ved at opbygge brødkrummer. Se hvordan man laver en brødkru
 Se hvordan du opbygger hovedmenuen i guiden [Opret indhold: Hovedmenu]({{ site.baseurl }}{% link _indhold/hovedmenu.md %}).
 
 Se hvordan du opbygger footermenuen i guiden [Opret indhold: Footermenu]({{ site.baseurl }}{% link _indhold/footermenu.md %}).
+
+## 5. Opret jeres biblioteker
+Se hvordan du opretter biblioteker i guiden [Opret indhold: Biblioteker]({{ site.baseurl }}{% link _indhold/bibliotek-og-åbningstider.md %}).
