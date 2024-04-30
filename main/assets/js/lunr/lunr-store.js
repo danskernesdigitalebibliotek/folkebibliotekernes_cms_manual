@@ -714,7 +714,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 6: Mapp Intelligence",
-        "excerpt":"Via Mapp indsamles statistik for jeres hjemmeside. I skal have overflyttet jeres Mapp ID fra DDB CMS til Folkebibliotekernes CMS. Kopier Mapp ID fra DDB CMS Log ind i DDB CMS. I topmenuen klik på Indstillinger &gt; Ding &gt; Webtrekk Eller åbn via direkte link (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/ding/webtrekk Kopier TagIntegration...","categories": ["Startopsætning"],
+        "excerpt":"Via Mapp indsamles statistik for jeres hjemmeside. Indsæt Mapp ID i Folkebibliotekernes CMS I topmenuen klik på Indstillinger &gt; System &gt; Mapp Intelligence indstillinger Eller åbn via direkte link (udskift mit-staging-domæne.dk): https://mit-staging-domæne.dk/admin/config/system/dpl-mapp Indsæt 476651662471322 i feltet ID Tryk på Gem indstillinger Egenkontrol Det er ikke muligt at tjekke Mapp konfigurationen...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/main/startopsaetning/mapp/",
         "teaser": null
