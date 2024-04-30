@@ -21,7 +21,7 @@ I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/
 Klik på **Tilføj indhold** i øverste højre hjørne:
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/3acbbb9d-734d-4423-8621-fad6d257d997" alt="Klik på Tilføj indhold" caption="Klik på Tilføj indhold" %} 
 
-Klik på **Page**
+Klik på **Side**
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/1deb5772-166e-46fd-a58f-8aaae6f059d0" alt="Klik på Page" caption="Klik på Page" %} 
 
 Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-panel til højre.
@@ -71,11 +71,13 @@ Der er følgende Paragraphs-komponenter at vælge fra:
 
 ## Sidebar-panel
 
-### Entity Clone Template
+### Gem som skabelon
 
 Her kan du vælge at gøre siden til en skabelon ved at aktivere knappen (grøn). 
 
 Skabeloner kan benyttes som udgangspunkt for hurtig oprettelse af andre, lignende sider, som du efterfølgende kan arbejde videre med og ændre.
+
+Se hvordan du opretter skabeloner i guiden [Opret indhold: Skabelon]({{ site.baseurl }}{% link _indhold/skabeloner.md %}).
 
 ### Planlægning
 
