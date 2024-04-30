@@ -660,7 +660,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes",
-        "excerpt":"   Release Notes 2024.17.0   Release Notes 2024.15.0   Release Notes 2024.11.0   Release Notes 220324  ","categories": [],
+        "excerpt":"Her er release notes:     Release Notes 2024.17.0   Release Notes 2024.15.0   Release Notes 2024.11.0   Release Notes 220324   ","categories": [],
         "tags": [],
         "url": "/main/release-notes/",
         "teaser": null
