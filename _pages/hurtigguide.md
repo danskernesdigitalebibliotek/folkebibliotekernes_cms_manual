@@ -1,5 +1,5 @@
 ---
-permalink: /hurtigguide-til-manualen
+permalink: /overblik/hurtigguide-til-manualen
 title:  "Hurtigguide til manualen"
 sidebar: true
 nav: "overblik"

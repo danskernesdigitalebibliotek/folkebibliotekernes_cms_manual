@@ -1,5 +1,5 @@
 ---
-permalink: /faq
+permalink: /overblik/faq
 title:  "Onboarding FAQ"
 sidebar: true
 nav: "overblik"

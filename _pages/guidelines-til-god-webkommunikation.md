@@ -1,5 +1,5 @@
 ---
-permalink: /guidelines-til-god-webkommunikation
+permalink: /overblik/guidelines-til-god-webkommunikation
 title:  "Guidelines: God webkommunikation"
 sidebar: true
 nav: "overblik"

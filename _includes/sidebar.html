@@ -6,10 +6,11 @@
     The docs' collection needs to have a sidebar defined in config.yml
   {% endcomment %}
 
-  {% if page.sidebar %}
+  {% if page.sidebar and page.nav %}
     
-    {% if page.nav %}{% include nav_list nav=page.nav %}{% endif %}
+    {% include nav_list nav=page.nav %}
 
+  {% elsif page.sidebar %}
 
     {% comment %}
       Find the collection this page belongs to

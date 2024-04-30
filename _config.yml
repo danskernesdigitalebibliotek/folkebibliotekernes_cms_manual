@@ -92,13 +92,13 @@ collections:
     permalink: /:collection/:path/
   release-notes:
     output: true
-    permalink: /:collection/:path/
+    permalink: /overblik/:collection/:path/
   category:
     output: true
     permalink: /:collection/:path/
   emneord:
     output: true
-    permalink: /:collection/:path/
+    permalink: /overblik/:collection/:path/
 
 defaults:
   # _pages

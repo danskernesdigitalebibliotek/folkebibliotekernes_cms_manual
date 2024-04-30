@@ -1,8 +1,8 @@
 main:
   - title: "Hurtigguide til manualen"
-    url: hurtigguide-til-manualen
+    url: /overblik/hurtigguide-til-manualen
   - title: "Emneoversigt"
-    url: emneord
+    url: /overblik/emneord
 
 overblik:
   - title: Overblik
@@ -10,23 +10,17 @@ overblik:
       - title: "Tidsplan"
         url: "/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf"
       - title: "Onboarding FAQ"
-        url: "/faq"  
+        url: "/overblik/faq"  
       - title: "Release Notes"
-        url: "/release-notes"     
-      - title: "Bliv klar til FB CMS"
-        url: "/bliv-klar-til-folkebibliotekernes-cms/"
-      - title: "Nye features i FB CMS"
-        url: "/nye-features/"
-      - title: "Opret indhold i FB CMS"
-        url: "/indhold/"
-      - title: "Konfiguration i FB CMS"
-        url: "/konfiguration/"
-      - title: "Guidelines til god webkommunikation"
-        url: "guidelines-til-god-webkommunikation"
+        url: "/overblik/release-notes"  
+      - title: "Hostingplaner"
+        url: "https://detdigitalefolkebibliotek.dk/hostingplaner"
+      - title: "Tilgængelighedserklæring"
+        url: "/overblik/tilgaengelighedserklaering"      
       - title: "Hurtigguide til manualen"
-        url: hurtigguide-til-manualen
+        url: /overblik/hurtigguide-til-manualen
       - title: "Emneoversigt"
-        url: emneord
+        url: /overblik/emneord
 
 
      

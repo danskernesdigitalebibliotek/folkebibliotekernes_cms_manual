@@ -6,13 +6,15 @@ header:
   overlay_image: /assets/images/splash.png
   actions:
     - label: "Onboarding FAQ"
-      url: "faq"
+      url: "/overblik/faq"
     - label: "Tidsplan"
       url: "/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf"
     - label: "Hostingplaner"
       url: "https://detdigitalefolkebibliotek.dk/hostingplaner"
     - label: "Release Notes"
-      url: "/release-notes/"
+      url: "/overblik/release-notes/"
+    - label: "Tilgængelighedserklæring"
+      url: "/overblik/tilgaengelighedserklaering" 
 
 excerpt: "Manual, tidsplan og information om Folkebibliotekernes CMS. Sitets vedligeholdes af DDF og udbygges løbende."
 
