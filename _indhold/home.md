@@ -8,11 +8,11 @@ Redaktionelt indhold er alt det indhold, som I selv opretter på jeres site.
 - [Side](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/side/)
 - [Artikel](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/artikel/)
 - [Arrangement](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/arrangement/)
-- [Bibliotek og åbningstider](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/kampagner/](https://www.folkebibliotekernescms.dk/main/indhold/bibliotek-og-%C3%A5bningstider/))
+- [Bibliotek og åbningstider](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/kampagner/](https://www.folkebibliotekernescms.dk/main/indhold/bibliotek-og-%C3%A5bningstider/)
 - [Kampagne](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/kampagner/)
 - [Hovedmenu](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/hovedmenu/) og [footermenu](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/footermenu/)
 - [Tags og kategorier](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/kampagner/](https://www.folkebibliotekernescms.dk/main/indhold/tags-og-kategorier/))
-- [Brødkrummesti](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/kampagner/](https://www.folkebibliotekernescms.dk/main/indhold/broedkrummesti/))
+- [Brødkrummesti](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/kampagner/](https://www.folkebibliotekernescms.dk/main/indhold/broedkrummesti/)
 
 ## Faste sider
 Folkebibliotekernes CMS fødes med nogle [faste sider](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/faste-sider/) eller standardsider. 
