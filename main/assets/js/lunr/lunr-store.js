@@ -182,187 +182,187 @@ var store = [{
         "title": "Adgangsplatformen",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/adgangsplatformen/",
+        "url": "/main/overblik/emneord/adgangsplatformen/",
         "teaser": null
       },{
         "title": "Arrangement",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/arrangement/",
+        "url": "/main/overblik/emneord/arrangement/",
         "teaser": null
       },{
         "title": "Artikel",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/artikel/",
+        "url": "/main/overblik/emneord/artikel/",
         "teaser": null
       },{
         "title": "Betaling",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/betaling/",
+        "url": "/main/overblik/emneord/betaling/",
         "teaser": null
       },{
         "title": "Biblioteket App",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/biblioteket-app/",
+        "url": "/main/overblik/emneord/biblioteket-app/",
         "teaser": null
       },{
         "title": "Billeder",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/billeder/",
+        "url": "/main/overblik/emneord/billeder/",
         "teaser": null
       },{
         "title": "Brugere og roller",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/brugere-og-roller/",
+        "url": "/main/overblik/emneord/brugere-og-roller/",
         "teaser": null
       },{
         "title": "Dashboard",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/dashboard/",
+        "url": "/main/overblik/emneord/dashboard/",
         "teaser": null
       },{
         "title": "Elektroniske ressourcer",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/elektroniske-ressourcer/",
+        "url": "/main/overblik/emneord/elektroniske-ressourcer/",
         "teaser": null
       },{
         "title": "Faste sider",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/faste-sider/",
+        "url": "/main/overblik/emneord/faste-sider/",
         "teaser": null
       },{
         "title": "FBS",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/fbs/",
+        "url": "/main/overblik/emneord/fbs/",
         "teaser": null
       },{
         "title": "Fjernadgang",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/fjernadgang/",
+        "url": "/main/overblik/emneord/fjernadgang/",
         "teaser": null
       },{
         "title": "Formidling",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/formidling/",
+        "url": "/main/overblik/emneord/formidling/",
         "teaser": null
       },{
         "title": "Startopsætning",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/grundkonfiguration/",
+        "url": "/main/overblik/emneord/grundkonfiguration/",
         "teaser": null
       },{
         "title": "Alfabetisk emneoversigt",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/",
+        "url": "/main/overblik/emneord/",
         "teaser": null
       },{
         "title": "Interesseperiode",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/interesseperiode/",
+        "url": "/main/overblik/emneord/interesseperiode/",
         "teaser": null
       },{
         "title": "Kategorier og tags",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/kategorier-og-tags/",
+        "url": "/main/overblik/emneord/kategorier-og-tags/",
         "teaser": null
       },{
         "title": "Lån",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/laan/",
+        "url": "/main/overblik/emneord/laan/",
         "teaser": null
       },{
         "title": "Logo og farver",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/logo-og-farver/",
+        "url": "/main/overblik/emneord/logo-og-farver/",
         "teaser": null
       },{
         "title": "Medarbejderoversigt",
         "excerpt":"Liste over bibliotekets personale  ","categories": [],
         "tags": [],
-        "url": "/main/emneord/medarbejderoversigt/",
+        "url": "/main/overblik/emneord/medarbejderoversigt/",
         "teaser": null
       },{
         "title": "Menuer og navigation",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/menuer-og-navigation/",
+        "url": "/main/overblik/emneord/menuer-og-navigation/",
         "teaser": null
       },{
         "title": "Oversættelser",
         "excerpt":"Oversættelser  ","categories": [],
         "tags": [],
-        "url": "/main/emneord/overs%C3%A6ttelser/",
+        "url": "/main/overblik/emneord/overs%C3%A6ttelser/",
         "teaser": null
       },{
         "title": "Publizon",
         "excerpt":"eReolen, lydbøger, e-bøger, digitale lån, digitale reserveringer  ","categories": [],
         "tags": [],
-        "url": "/main/emneord/publizon/",
+        "url": "/main/overblik/emneord/publizon/",
         "teaser": null
       },{
         "title": "Reserveringer",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/reserveringer/",
+        "url": "/main/overblik/emneord/reserveringer/",
         "teaser": null
       },{
         "title": "SMS",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/sms/",
+        "url": "/main/overblik/emneord/sms/",
         "teaser": null
       },{
         "title": "Søgning",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/s%C3%B8gning/",
+        "url": "/main/overblik/emneord/s%C3%B8gning/",
         "teaser": null
       },{
         "title": "URL omdirigeringer",
         "excerpt":"Redirects  ","categories": [],
         "tags": [],
-        "url": "/main/emneord/url-omdirigeringer/",
+        "url": "/main/overblik/emneord/url-omdirigeringer/",
         "teaser": null
       },{
         "title": "VIP og søgeprofiler",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/main/emneord/vip%20og%20s%C3%B8geprofiler/",
+        "url": "/main/overblik/emneord/vip%20og%20s%C3%B8geprofiler/",
         "teaser": null
       },{
         "title": "Statistik",
         "excerpt":"Statistik  ","categories": [],
         "tags": [],
-        "url": "/main/emneord/webstatistik/",
+        "url": "/main/overblik/emneord/webstatistik/",
         "teaser": null
       },{
         "title": "X mangler billede",
         "excerpt":"Der mangler screenshots eller anden grafisk materiale på siden  ","categories": [],
         "tags": [],
-        "url": "/main/emneord/x-mangler-billede/",
+        "url": "/main/overblik/emneord/x-mangler-billede/",
         "teaser": null
       },{
         "title": "X mangler tekst",
         "excerpt":"Der er mangler i teksten på siden.  ","categories": [],
         "tags": [],
-        "url": "/main/emneord/x-mangler-tekst/",
+        "url": "/main/overblik/emneord/x-mangler-tekst/",
         "teaser": null
       },{
         "title": "Arrangement",
@@ -660,33 +660,33 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes",
-        "excerpt":"Her er release notes:     Release Notes 2024.17.0   Release Notes 2024.15.0   Release Notes 2024.11.0   Release Notes 220324   ","categories": [],
+        "excerpt":"Hold dig ajour med de ændringer der sker i Folkebibliotekernes CMS.   Release Notes publiseres forud for opdateringen.   ","categories": [],
         "tags": [],
-        "url": "/main/release-notes/",
+        "url": "/main/overblik/release-notes/",
         "teaser": null
       },{
         "title": "Release Notes 2024.11.0",
         "excerpt":"Flere og bedre mulighed for at præsentere materialer, nye redaktionelle funktioner og listevisninger en masse Nye features • Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. • Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/release-notes/release-notes-2024-11-0/",
+        "url": "/main/overblik/release-notes/release-notes-2024-11-0/",
         "teaser": null
       },{
         "title": "Release Notes 2024.15.0",
         "excerpt":"Denne release gør det let for brugerne at finde rundt på dit site med brødkrumme og slutbrugervenlige URL’er. Nu mulighed for at redigere servicemenu. Nye features Filialer: Vælg at filial skal vises i toppen af /branches. Hvis flere filialer er tildelt topplacering listes disse alfabetisk. Slutbrugervenlige URL’er: Alt indhold vises...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/release-notes/release-notes-2024-15-0/",
+        "url": "/main/overblik/release-notes/release-notes-2024-15-0/",
         "teaser": null
       },{
         "title": "Release Notes 2024.17.0",
         "excerpt":"Rediger overskrifter og vis manchet på brødkrummesider, få vist tekstformatering i dine accordions og formater citater i editor Nye features Information om CMS-version vises i redaktørmenuen. Brødkrumme: Muligt at redigere overskriften for listede breadcrumb children. Slutbrugervenlige URL’er på filialer og arrangementer. Fejlrettelser og forbedringer Arrangementer: Byline er fjernet på teaserbilleder,...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/release-notes/release-notes-2024-17-0/",
+        "url": "/main/overblik/release-notes/release-notes-2024-17-0/",
         "teaser": null
       },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/release-notes/release-notes-220324/",
+        "url": "/main/overblik/release-notes/release-notes-220324/",
         "teaser": null
       },{
         "title": "Opgave 5: Faste sider og forsiden",
