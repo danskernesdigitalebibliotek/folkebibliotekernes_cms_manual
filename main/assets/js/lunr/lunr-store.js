@@ -377,6 +377,12 @@ var store = [{
         "url": "/main/indhold/artikel/",
         "teaser": null
       },{
+        "title": "Bibliotek og åbningstider",
+        "excerpt":"Opret biblioteker I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk) Klik på Tilføj indhold i øverste højre hjørne: Klik på Bibliotek Udfyld felterne: Titel, Adresse og eventuelt Hovedbillede, Email og Telefon Hvis man ønsker et bibliotek skal være øverst på listen af biblioteker, så kan man slå Vis...","categories": ["Indholdstyper"],
+        "tags": [],
+        "url": "/main/indhold/bibliotek-og-%C3%A5bningstider/",
+        "teaser": null
+      },{
         "title": "Billedbeskæring",
         "excerpt":"I Folkebibliotekernes CMS resizes og beskæres billeder automatisk, alt efter hvilken kontekst de indgår i. Når man lægger et billede ind, bruger man det nye fokusværktøj til at udpege et fokuspunkt i billedet, som beskæring skal ske omkring. Det skulle gerne lette arbejdet med billederne. Der er ingen faste krav...","categories": ["Generelt"],
         "tags": [],
