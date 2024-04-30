@@ -44,7 +44,7 @@ Hvis man har overskredet gebyrgrænsen vil det således ud:
 ## Tilret gebyrlabels i Cicero
 Folkebibliotekernes CMS viser via labels om et mellemværende er et gebyrer eller en erstatning. Labeltekster hentes fra Cicero.
 
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c74189b1-d44f-47e9-9364-eb80a9bc0797" alt="Labeltekster hentes fra Cicero." caption="Labeltekster hentes fra Cicero." %}
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c74189b1-d44f-47e9-9364-eb80a9bc0797" alt="Labeltekster hentes fra Cicero." caption="Labeltekster hentes fra Cicero." %}
 
 I kan tilrette de viste labels i Cicero.
 1. Log ind som administrator i Cicero og gå til **F7 - SYSADMIN**
