@@ -41,6 +41,18 @@ Hvis man har overskredet gebyrgrænsen vil det således ud:
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/95400b0e-5f52-4d01-9edc-0047ade881bf" alt="Pop up vindue med besked om at begybrgrænsen er overskredet" caption="Pop up vindue med besked om at begybrgrænsen er overskredet" %}
 
+## Tilret gebyrlabels i Cicero
+Folkebibliotekernes CMS viser via labels om et mellemværende er et gebyrer eller en erstatning. Labeltekster hentes fra Cicero.
+
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c74189b1-d44f-47e9-9364-eb80a9bc0797" alt="Labeltekster hentes fra Cicero." caption="Labeltekster hentes fra Cicero." %}
+
+I kan tilrette de viste labels i Cicero.
+1. Log ind som administrator i Cicero og gå til **F7 - SYSADMIN**
+2. Søg på **systemoprettede**
+3. Tilret værdierne for de tre viste parametre. Hvis de er for lange, bliver de ikke vist korrekt i Folkebibliotekernes CMS. Vi anbefaler at I giver dem værdierne **Erstatning**, **Gebyr** og **Gebyr (for sent)**
+
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/b31fa84a-ab01-4df2-adfe-7cc42ac49ff9" alt="Tilret labeltekster i Cicero." caption="Tilret labeltekster i Cicero." %}
+
 ## For biblioteker, der ikke har Mit betalingsoverblik
 Biblioteker der pt. bruger **Nets EASY betalingsmodulet**, skal finde en ny løsning. Folkebibliotekernes CMS har ikke integration til Nets EASY og får det heller ikke. Årsagen ligger i det kommende FBS udbud, hvor al betalingsfunktionalitet udgår.
 {: .notice}
