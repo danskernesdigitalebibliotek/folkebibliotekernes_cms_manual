@@ -17,12 +17,12 @@ Her er de visuelle navigationskomponenter, som kan henvise og fremvise til andet
 ### Filtered event list
 Her kan du oprette en liste af arrangement, som du kan filtrere på bibliotek, kategorier, tags etc.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/73045ad4-8ccb-465c-b0f4-587acca53acb alt="Eksempel på en event list" caption="Eksempel på en event list" %}
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/73045ad4-8ccb-465c-b0f4-587acca53acb" alt="Eksempel på en event list" caption="Eksempel på en event list" %}
 
 ### Manual event list
 Her kan du oprette en liste af arrangement, hvor du udvælge specifikke arrangementer.
 
-
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/73045ad4-8ccb-465c-b0f4-587acca53acb" alt="Eksempel på en event list" caption="Eksempel på en event list" %}
 
 ### Card grid – automatic
 Den automatiske variant af Card grid-komponenten kan automatisk trække spots for indhold ind på din begivenhed, side, artikel etc.
