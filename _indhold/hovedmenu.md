@@ -24,6 +24,9 @@ Udfyld formularen med følgende oplysninger:
 - Aktiveret: skal menupunktet være synligt eller ej
 - Vægt: Rækkefølgen af menupunkter
 
+Hvis du ønsker et menupunkt til listen af arrangementer, skal du indsætte /events i **Link**. For listen af artikler, skal du indsætte /articles i **Link**. For listen af biblioteker, skal du indsætte /branches i **Link**. 
+{: .notice--primary}
+
 Tryk **Gem**, nederst til venstre.
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/6e1893f7-5cfe-4511-bea0-ef08e64f0dda" alt="Formularen Tilføj link" caption="Formularen Tilføj link" %}
