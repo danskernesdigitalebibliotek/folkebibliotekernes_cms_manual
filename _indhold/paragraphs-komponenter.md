@@ -54,6 +54,8 @@ Her er de komponenter, som man kan bruge til at indsætte indhold såsom tekst, 
 ### Accordion
 En type indhold med en liste af overskrifter stablet oven på hinanden. Når der klikkes på en overskrift, vil den enten åbne eller lukke en tilknyttet indholdsrude.
 
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/2e85ebe3-3bad-4721-9abd-1b7f6e3547f3" alt="Eksempel på en accordion" caption="Eksempel på en accordion" %}
+
 ### Files
 Tilknytning af filer til artiklen, fx pdf, mp3, mp4, mov etc.
 
@@ -63,8 +65,12 @@ Video fra YouTube eller Vimeo kan trækkes ind via url.
 ### Media(s)
 Tilknytning af billeder. Tilladte filtyper: png gif jpg jpeg.
 
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/9f25c9b4-459a-436a-85bf-e0cb72ee37d6" alt="Eksempel på en media" caption="Eksempel på en media" %}
+
 ### Text body
 Artiklens brødtekst.
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/93770c7d-a38a-4dbd-aec1-9daa14e23d0b" alt="Eksempel på en text body" caption="Eksempel på en text body" %}
 
 ## Navigationskomponenter
 Her er de tekst- og linksbaseret navigationskomponenter, som kan henvise til andet indhold på siden fx navigation grid.
