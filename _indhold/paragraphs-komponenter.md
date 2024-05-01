@@ -59,8 +59,12 @@ En type indhold med en liste af overskrifter stablet oven på hinanden. Når der
 ### Files
 Tilknytning af filer til artiklen, fx pdf, mp3, mp4, mov etc.
 
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/46cb3949-21aa-4a91-9bca-7f4a0a04113a" alt="Eksempel på files" caption="Eksempel på files" %}
+
 ### Video
 Video fra YouTube eller Vimeo kan trækkes ind via url.
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/9a8a1b8c-be99-4727-a8fd-b5c7750064ea" alt="Eksempel på video" caption="Eksempel på video" %}
 
 ### Media(s)
 Tilknytning af billeder. Tilladte filtyper: png gif jpg jpeg.
@@ -81,6 +85,8 @@ Mulighed for at tilføje spots for redaktørudvalgt indhold.
 Lægger sig som et grid (felter). 
 
 Trækker ikke teaserfotos ud, kun teasertekst (hvis tilvalgt)
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/25220686-3ab4-4f66-aecd-f713140d1b3e" alt="Eksempel på en navigation grid" caption="Eksempel på en navigation grid" %}
 
 ### Navigation spots – manual
 Mulighed for at fremhæve redaktørudvalgt indhold. 
