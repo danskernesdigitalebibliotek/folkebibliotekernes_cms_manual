@@ -95,7 +95,7 @@ Her er de tekst- og linksbaseret navigationskomponenter, som kan henvise til and
 ### Breadcrumb children
 Her kan du indsætte en automatisk oprettet liste i grid format med sider under en bestemt sideforælder. Læs mere om brødkrummer i guiden [Ooret indhold: Brødkrummesti]({{ site.baseurl }}{% link _indhold/broedkrummesti.md %}).
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/0133f7d2-cc7f-47b8-b21b-8db622bdd78b alt="Eksempel på en breadcrumb children" caption="Eksempel på en breadcrumb children" %}
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/0133f7d2-cc7f-47b8-b21b-8db622bdd78b" alt="Eksempel på en breadcrumb children" caption="Eksempel på en breadcrumb children" %}
 
 ### Navigation grid – manual
 Mulighed for at tilføje spots for redaktørudvalgt indhold. 
