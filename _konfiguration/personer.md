@@ -56,14 +56,14 @@ Som udgangspunkt skal jeres brugere ikke tildeles flere rettigheder, end dem der
 
 **Redaktørbiblioteker** kan oprette tre typer brugere:
 
-- **Formidler (mediator)** er til brugere som ofte laver det dynamiske indhold på hjemmesiden, som formidlingsopgaverne fx oprette arrangementer og artikler. 
+- **Formidler (mediator)** er til brugere som ofte laver det dynamiske formidlingsindhold på hjemmesiden. Har adgang til at oprette og redigere arrangementer, artikler, sider og kampagner. 
 
-- **Redaktør (editor)** er til brugere som udover formidlingsopgaver også skal stå for det faste indhold (fx åbningstider) og opbygning af siden (fx sider, menuer, kategorier). De kan have ansvaret for at koordinere og styre formidlernes arbejde. 
+- **Redaktør (editor)** er til brugere som udover formidlingsopgaver også skal stå for det faste indhold (fx åbningstider) og opbygning af sidens struktur. De kan have ansvaret for at koordinere og styre formidlernes arbejde. Har adgang til det samme som formidler plus alle indholdstyper i /admin/content samt taksonomi og menuer i admin/structure.
 
-- **Lokal administrator (local administrator)** er til brugere som skal indstille hjemmesiden ift. indstillinger, udseende, integrationer, overordnet oplysninger, biblioteksbrug etc. 
+- **Lokal administrator (local administrator)** er til brugere som skal indstille hjemmesiden ift. indstillinger, udseende, integrationer, overordnet oplysninger, biblioteksbrug etc. Har adgang til det samme som redaktør plus sidens konfigurationsmuligheder i /admin/config, oprettelse af brugere i /admin/people og ændring af sidens udseende i /admin/appearance.
 
 **Webmasterbiblioteker** har en ekstra brugertype:
-- **Administrator** kan ændre siden udover CMS'ets standardindstillinger fx ved at aktivere og deaktivere moduler.
+- **Administrator** kan ændre siden udover CMS'ets standardindstillinger fx ved at aktivere og deaktivere moduler. Har adgang til alt i CMS'et.
 
 **Patron** er lånerne. Patron-brugerprofilen oprettes automatisk, når en låner første gang logger ind på websitet via Adgangsplatformen. Patron-brugerne skal være der, og der bliver automatisk ryddet op i dem. 
 
