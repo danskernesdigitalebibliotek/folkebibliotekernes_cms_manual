@@ -14,6 +14,10 @@ Paragraphs kan tilføjes både over og under allerede indsatte paragraphs.
 ## Formidlingskomponenter
 Her er de visuelle navigationskomponenter, som kan henvise og fremvise til andet indhold på siden fx content slider.
 
+### Filtered event list
+
+### Manual event list
+
 ### Card grid – automatic
 Den automatiske variant af Card grid-komponenten kan automatisk trække spots for indhold ind på din begivenhed, side, artikel etc.
 
@@ -21,10 +25,14 @@ Den eneste indholdstype, som Card grid-komponenten trækker ind, er artikler. De
 
 Card grid - automatic trækker seks spots ind.
 
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på et card grid" caption="Eksempel på et card grid" %}
+
 ### Card grid – manual
 Den manuelle variant af Card grid-komponenten giver dig mulighed for individuelt at udvælge specifikke artikler, som vises som spots på din begivenhed, side, artikel etc.
 
 Card grid - manual kan trække op til seks artikler ind, men du kan også vælge at tilknytte færre.
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på et card grid" caption="Eksempel på et card grid" %}
 
 ### Content slider
 Giver mulighed for redaktionelt at udvælge et vilkårligt antal af arrangementer og artikler i en redaktørudvalgt rækkefølge. 
@@ -33,8 +41,12 @@ Afhængigt af om du har valgt billede for indhold vises i slidere et billede ell
 
 På sigt kan der sættes automatikker op, så den henter en bestemt type indhold ind - fx arrangementer inden for en bestemt kategori. XX
 
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/74bc26c6-990d-4a24-89be-e79d4b4c3485" alt="Eksempel på en content slider" caption="Eksempel på en content slider" %}
+
 ### Hero
 Linkende indgangsbillede og tekst i toppen af side.
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/4c3894d2-1d63-44f2-8e4e-409e785edace" alt="Eksempel på en hero" caption="Eksempel på en hero" %}
 
 ## Indholdskomponenter
 Her er de komponenter, som man kan bruge til at indsætte indhold såsom tekst, billeder og video.
