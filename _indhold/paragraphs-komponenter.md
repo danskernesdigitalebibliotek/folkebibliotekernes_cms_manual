@@ -11,10 +11,8 @@ Klik på **+ Add** for at tilføje de paragraphs, som du ønsker, at din side sk
 
 Paragraphs kan tilføjes både over og under allerede indsatte paragraphs.
 
-## Beskrivelse af Paragraphs-komponenternes indhold og funktioner
-
-### Accordion
-En type indhold med en liste af overskrifter stablet oven på hinanden. Når der klikkes på en overskrift, vil den enten åbne eller lukke en tilknyttet indholdsrude.
+## Formidlingskomponenter
+Her er de visuelle navigationskomponenter, som kan henvise og fremvise til andet indhold på siden fx content slider.
 
 ### Card grid – automatic
 Den automatiske variant af Card grid-komponenten kan automatisk trække spots for indhold ind på din begivenhed, side, artikel etc.
@@ -35,11 +33,29 @@ Afhængigt af om du har valgt billede for indhold vises i slidere et billede ell
 
 På sigt kan der sættes automatikker op, så den henter en bestemt type indhold ind - fx arrangementer inden for en bestemt kategori. XX
 
+### Hero
+Linkende indgangsbillede og tekst i toppen af side.
+
+## Indholdskomponenter
+Her er de komponenter, som man kan bruge til at indsætte indhold såsom tekst, billeder og video.
+
+### Accordion
+En type indhold med en liste af overskrifter stablet oven på hinanden. Når der klikkes på en overskrift, vil den enten åbne eller lukke en tilknyttet indholdsrude.
+
 ### Files
 Tilknytning af filer til artiklen, fx pdf, mp3, mp4, mov etc.
 
-### Hero
-Linkende indgangsbillede og tekst i toppen af side.
+### Video
+Video fra YouTube eller Vimeo kan trækkes ind via url.
+
+### Media(s)
+Tilknytning af billeder. Tilladte filtyper: png gif jpg jpeg.
+
+### Text body
+Artiklens brødtekst.
+
+## Navigationskomponenter
+Her er de tekst- og linksbaseret navigationskomponenter, som kan henvise til andet indhold på siden fx navigation grid.
 
 ### Navigation grid – manual
 Mulighed for at tilføje spots for redaktørudvalgt indhold. 
@@ -53,6 +69,12 @@ Mulighed for at fremhæve redaktørudvalgt indhold.
 
 Trækker teaserfotos med.
 
+### Links
+Tilknytning af links til artiklen, fx interne/eksterne links og links til søgeresultater.
+
+## Materialekomponenter
+Her er de komponenter, som man kan bruge til at fremhæve bibliotekets materialer.
+
 ### Recommendation
 Anvendes til anbefaling af bøger og andre materialer.
 
@@ -61,18 +83,6 @@ Materialet trækkes ind via Work ID. **Eksempel:** work-of:870970-basis:13633628
 I øjeblikket hentes Work ID ved at udføre en søgning efter et materiale manuelt i søgefeltet på hjemmesiden og kopiere værdien fra søgeresultatet i URL’en.
 
 Det er muligt at ændre værkets titel og beskrivelse manuelt.
-
-### Video
-Video fra YouTube eller Vimeo kan trækkes ind via url.
-
-### Text body
-Artiklens brødtekst.
-
-### Links
-Tilknytning af links til artiklen, fx interne/eksterne links og links til søgeresultater.
-
-### Media(s)
-Tilknytning af billeder. Tilladte filtyper: png gif jpg jpeg.
 
 ### Material grid automatic
 
