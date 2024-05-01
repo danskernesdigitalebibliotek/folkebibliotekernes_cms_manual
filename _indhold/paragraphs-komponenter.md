@@ -15,8 +15,14 @@ Paragraphs kan tilføjes både over og under allerede indsatte paragraphs.
 Her er de visuelle navigationskomponenter, som kan henvise og fremvise til andet indhold på siden fx content slider.
 
 ### Filtered event list
+Her kan du oprette en liste af arrangement, som du kan filtrere på bibliotek, kategorier, tags etc.
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/73045ad4-8ccb-465c-b0f4-587acca53acb alt="Eksempel på en event list" caption="Eksempel på en event list" %}
 
 ### Manual event list
+Her kan du oprette en liste af arrangement, hvor du udvælge specifikke arrangementer.
+
+
 
 ### Card grid – automatic
 Den automatiske variant af Card grid-komponenten kan automatisk trække spots for indhold ind på din begivenhed, side, artikel etc.
@@ -85,6 +91,11 @@ Artiklens brødtekst.
 
 ## Navigationskomponenter
 Her er de tekst- og linksbaseret navigationskomponenter, som kan henvise til andet indhold på siden fx navigation grid.
+
+### Breadcrumb children
+Her kan du indsætte en automatisk oprettet liste i grid format med sider under en bestemt sideforælder. Læs mere om brødkrummer i guiden [Ooret indhold: Brødkrummesti]({{ site.baseurl }}{% link _indhold/broedkrummesti.md %}).
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/0133f7d2-cc7f-47b8-b21b-8db622bdd78b alt="Eksempel på en breadcrumb children" caption="Eksempel på en breadcrumb children" %}
 
 ### Navigation grid – manual
 Mulighed for at tilføje spots for redaktørudvalgt indhold. 
