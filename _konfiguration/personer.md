@@ -56,9 +56,9 @@ Som udgangspunkt skal jeres brugere ikke tildeles flere rettigheder, end dem der
 
 **Redaktørbiblioteker** kan oprette tre typer brugere:
 
-- **Formidler (mediator)** er til brugere som ofte laver det dynamiske formidlingsindhold på hjemmesiden. Har adgang til at oprette og redigere arrangementer, artikler, sider og kampagner. 
+- **Formidler (mediator)** er til brugere som ofte laver det dynamiske formidlingsindhold på hjemmesiden. Har adgang til at oprette og redigere arrangementer, artikler, sider og kampagner i /admin/content. 
 
-- **Redaktør (editor)** er til brugere som udover formidlingsopgaver også skal stå for det faste indhold (fx åbningstider) og opbygning af sidens struktur. De kan have ansvaret for at koordinere og styre formidlernes arbejde. Har adgang til det samme som formidler plus alle indholdstyper i /admin/content samt taksonomi og menuer i admin/structure.
+- **Redaktør (editor)** er til brugere som udover formidlingsopgaver også skal stå for det faste indhold (fx åbningstider) og opbygning af sidens struktur. De kan have ansvaret for at koordinere og styre formidlernes arbejde. Har adgang til det samme som formidler plus alle indholdstyper i /admin/content samt taksonomi og menuer i /admin/structure.
 
 - **Lokal administrator (local administrator)** er til brugere som skal indstille hjemmesiden ift. indstillinger, udseende, integrationer, overordnet oplysninger, biblioteksbrug etc. Har adgang til det samme som redaktør plus sidens konfigurationsmuligheder i /admin/config, oprettelse af brugere i /admin/people og ændring af sidens udseende i /admin/appearance.
 
