@@ -48,6 +48,13 @@ Linkende indgangsbillede og tekst i toppen af side.
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/4c3894d2-1d63-44f2-8e4e-409e785edace" alt="Eksempel på en hero" caption="Eksempel på en hero" %}
 
+### Navigation spots – manual
+Mulighed for at fremhæve redaktørudvalgt indhold. 
+
+Trækker teaserfotos med.
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/9fd232f1-cf98-4f0f-81f0-11f9c8e014cd" alt="Eksempel på et navigation spot" caption="Eksempel på et navigation spot" %}
+
 ## Indholdskomponenter
 Her er de komponenter, som man kan bruge til at indsætte indhold såsom tekst, billeder og video.
 
@@ -88,13 +95,10 @@ Trækker ikke teaserfotos ud, kun teasertekst (hvis tilvalgt)
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/25220686-3ab4-4f66-aecd-f713140d1b3e" alt="Eksempel på en navigation grid" caption="Eksempel på en navigation grid" %}
 
-### Navigation spots – manual
-Mulighed for at fremhæve redaktørudvalgt indhold. 
-
-Trækker teaserfotos med.
-
 ### Links
 Tilknytning af links til artiklen, fx interne/eksterne links og links til søgeresultater.
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/31d057c2-0fc4-4496-871c-aa59405d48dd" alt="Eksempel på links" caption="Eksempel på links" %}
 
 ## Materialekomponenter
 Her er de komponenter, som man kan bruge til at fremhæve bibliotekets materialer.
@@ -107,6 +111,8 @@ Materialet trækkes ind via Work ID. **Eksempel:** work-of:870970-basis:13633628
 I øjeblikket hentes Work ID ved at udføre en søgning efter et materiale manuelt i søgefeltet på hjemmesiden og kopiere værdien fra søgeresultatet i URL’en.
 
 Det er muligt at ændre værkets titel og beskrivelse manuelt.
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/6996deb1-de64-4d29-99b3-b2aa4aa50544" alt="Eksempel på en recommendation" caption="Eksempel på en recommendation" %}
 
 ### Material grid automatic
 
@@ -121,6 +127,8 @@ CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets sø
 Du kan indstille komponenten til at vise et bestemt antal materialer. Antallet skal være deleligt med fire. Antallet bestemmer du i feltet **Amount of materials**.
 
 Komponenten viser minimum 4 materialer og kan maksimalt sættes til 32 materialer.
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/f5d5382b-8ff7-4b84-a795-5f80ffdb1458" alt="Eksempel på en material grid" caption="Eksempel på en material grid" %}
 
 ### Material grid manual
 
@@ -137,3 +145,5 @@ Indsætter du fx 7 materialer, vil der kun blive vist 4. Du må så tilføje et 
 Du kan dog godt indsætte blot et, to eller tre materialer.
 
 Maksimalt kan der indsættes 32 materialer.
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/f5d5382b-8ff7-4b84-a795-5f80ffdb1458" alt="Eksempel på en material grid" caption="Eksempel på en material grid" %}
