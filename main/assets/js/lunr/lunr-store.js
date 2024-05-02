@@ -743,7 +743,7 @@ var store = [{
         "url": "/main/startopsaetning/redirect-adgangsplatformen/",
         "teaser": null
       },{
-        "title": "Opgave 9: Byg sidens faste struktur og menuer",
+        "title": "Opgave 10: Byg sidens faste struktur og menuer",
         "excerpt":"1. Planlæg strukturen af hjemmesiden For at oprette strukturen på jeres hjemmesiden, kan I benytte det arbejde, som I lavede i forberedelsesopgave 4: Informationsarkitektur og navigation. Hvis I ikke har lavet det endnu, kan det bruges som inspiration til hvordan I vil bygge siden op. 2. Opret jeres sider Start...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/main/startopsaetning/struktur-og-menuer/",
