@@ -11,7 +11,7 @@ Det nemmeste er først at oprette en skabelon, som passer til det indhold, der s
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/cc053ad1-40a0-4e85-845a-6c476a279fb8" alt="Eksempel på en læseklubsskabelon" caption="Eksempel på en læseklubsskabelon" %}
 
-I topmenuen klik på **Indhold** eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk)
+I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/content` (udskift mit-domænenavn.dk)
 
 Vælg den type indhold, som du vil oprette en skabelon til.
 
@@ -27,7 +27,7 @@ Tryk på **Gem**
 
 ## Opret indhold baseret på en skabelon
 
-I topmenuen klik på **Indhold** eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk)
+I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/content` (udskift mit-domænenavn.dk)
 
 Tryk på knappen **Brug skabelon** i listen **Opret indhold fra skabelon** ud for den skabelon, som du vil bruge
 
