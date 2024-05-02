@@ -18,7 +18,7 @@ Der findes andre kategorier på hjemmesiden, som bruges andre steder fx åbnings
 {: .notice--primary}
 
 ### Opret kategorier 
-I topmenuen klik på **Struktur** eller åbn https://mit-domænenavn.dk/admin/structure (udskift mit-domænenavn.dk)
+I topmenuen klik på **Struktur** eller åbn `https://mit-domænenavn.dk/admin/structure` (udskift mit-domænenavn.dk)
 
 Tryk på **Taksonomi**
 
