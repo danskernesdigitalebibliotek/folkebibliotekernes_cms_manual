@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2024-05-02T08:15:30+00:00">
+  <meta property="article:published_time" content="2024-05-02T08:16:23+00:00">
 
 
 
@@ -276,7 +276,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Opgave 11: Ændr kontaktformularens konfiguration">
     <meta itemprop="description" content="Jeres kontaktformular /kontakt skal ændres, så det information der sendes til brugerne er korrekt og de rigtigte personer modtager henvendelserne fra brugerne.">
-    <meta itemprop="datePublished" content="2024-05-02T08:15:30+00:00">
+    <meta itemprop="datePublished" content="2024-05-02T08:16:23+00:00">
     
 
     <div class="page__inner-wrap">
@@ -377,7 +377,7 @@
 
 <p>Ret teksten i feltet <strong>Bekræftelse</strong>ryk på <strong>Gem</strong></p>
 
-<p>Dette kunne være “Tak for din besked. Vi besvarer din mail indenfor X dage.”</p>
+<p class="notice--primary">Dette kunne være “Tak for din besked. Vi besvarer din mail indenfor X dage.”</p>
 
 <figure class="sixty">
   <img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/8ac9f35d-0d0a-42d8-a2e9-f4e823ea81cc" alt="Ret teksten" /><figcaption>
@@ -416,6 +416,25 @@
 
     </figcaption></figure>
 
+<p>I teksten er der variabler, som indsætter information baseret på det, som borgeren har indtastet i formularen. Fx indsætter [webform_submission:values:name] det navn, som brugeren indtaster i feltet Navn i kontaktformularen.</p>
+
+<p class="notice--primary">Variabler I kan bruge er fx
+[webform_submission:values:name] er det som blev indtastet i Navn i formularen
+[webform_submission:created] er tidspunktet som henvendelsen i kontaktformularen blev indsendt
+[webform_submission:values:subject] er det som blev indtastet i Emne i formularen
+[webform_submission:values:message] er det som blev indtastet i Besked i formularen
+[webform_submission:values:email] er det som blev indtastet i Email i formularen</p>
+
+<p class="notice--primary">En email besked kunne fx være:
+Kære [webform_submission:values:name]
+Vi har modtaget din besked. Vi besvarer henvendelser indenfor X dage.
+Besked blev modtaget: [webform_submission:created]
+Din besked
+[webform_submission:values:subject
+[webform_submission:values:message]
+Med venlig hilsen
+Eksempel Bibliotekerne</p>
+
 <p>Tryk på <strong>Gem</strong></p>
 
         
@@ -428,7 +447,7 @@
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-05-02T08:15:30+00:00">May 2, 2024</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-05-02T08:16:23+00:00">May 2, 2024</time></p>
 
       </footer>
 
