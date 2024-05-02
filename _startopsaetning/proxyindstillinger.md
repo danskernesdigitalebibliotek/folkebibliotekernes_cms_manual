@@ -20,7 +20,7 @@ Eller åbn via direkte link (udskift mit-domænenavn.dk):\
 - Kopier Proxy server URL prefix
 - Kopier værtsnavne og replacements
 
-**Bemærk!** Replacement skal foldes ud, før man kan se, om der er indhold i. De fleste kilder har en tom Replacement, men der er undtagelser. F. eks. Ebook Central. Det er meget vigtigt, at få replaceement med, hvis den er der.
+**Bemærk!** Replacement skal foldes ud, før man kan se, om der er indhold i. De fleste kilder har en tom Replacement, men der er undtagelser. F. eks. Ebook Central. Det er meget vigtigt, at få replacement med, hvis den er der.
 
 ## Indsæt proxy indstillinger i Folkebibliotekernes CMS
 
