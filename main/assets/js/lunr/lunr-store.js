@@ -737,7 +737,7 @@ var store = [{
         "url": "/main/startopsaetning/proxyindstillinger/",
         "teaser": null
       },{
-        "title": "Opgave 10: Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside",
+        "title": "Opgave 9: Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside",
         "excerpt":"Fra Adgangsplatformen er der et link til siden registration på jeres gamle hjemmeside. Det link skal ændres, så det peger på siden Opret bruger, fra den dag I går live. Det skal I selv sørge for, ved at lave et redirect. I må gerne oprette redirect nu med det samme....","categories": ["Startopsætning"],
         "tags": [],
         "url": "/main/startopsaetning/redirect-adgangsplatformen/",
