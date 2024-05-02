@@ -1,7 +1,7 @@
 ---
-title: "Opgave 10: Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside"
+title: "Opgave 9: Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside"
 category: "Startopsætning"
-weight: 10
+weight: 9
 emneord:
   - Adgangsplatformen
 ---
