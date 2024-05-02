@@ -45,7 +45,7 @@ Vælg kategorien i **Kategorier**.
 Tags er mere ukontrollerede end kategorier, og der kan tilføjes flere tags på artikler og arrangementer.
 
 ### Opret tags
-I topmenuen klik på **Struktur** eller åbn https://mit-domænenavn.dk/admin/structure (udskift mit-domænenavn.dk)
+I topmenuen klik på **Struktur** eller åbn `https://mit-domænenavn.dk/admin/structure` (udskift mit-domænenavn.dk)
 
 Tryk på **Taksonomi**
 
