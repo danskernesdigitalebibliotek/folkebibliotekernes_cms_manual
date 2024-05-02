@@ -38,6 +38,5 @@ Eller åbn via direkte link (udskift mit-staging-domæne.dk):\
 
 ## Egenkontrol
 - Tjek at biblioteksbrugere nu kan logge ind via Adgangsplatformen.
-- Tjek at søgning fungerer. Du skal kunne fremsøge bibliotekets egne materialer.
 
 
