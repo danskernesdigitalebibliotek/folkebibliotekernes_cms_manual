@@ -407,6 +407,12 @@ var store = [{
         "url": "/main/indhold/cql-soegestrenge/",
         "teaser": null
       },{
+        "title": "Logoer til DBCs digitale tilbud",
+        "excerpt":"DBC har lavet en PR-pakke til deres digitale digitale tilbud. Den indeholder logoer i forskellige udgaver og i høj opløsning. Der er logo til Bibliotek.dk, Børnebiffen, Buggi, Faktalink, Filmstriben, Forfatterweb samt Læsekompasset.   Download PR-pakke med logo-filer til DBCs tjenester  ","categories": ["Generelt"],
+        "tags": [],
+        "url": "/main/indhold/dbc-logoer/",
+        "teaser": null
+      },{
         "title": "Faste sider - overblik",
         "excerpt":"Folkebibliotekernes CMS fødes med nogle faste side eller standardsider. Faste sider er præcis som alle andre sider. De er der bare fra starten af, når I får systemet. Rundt omkring på jeres website, er der links til de faste sider. Hvis de mangler, risikerer I, at jeres brugere møder døde...","categories": ["Faste sider"],
         "tags": [],
