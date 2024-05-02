@@ -726,7 +726,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 11: Ændr kontaktformularens konfiguration",
-        "excerpt":"Jeres kontaktformular /kontakt skal ændres, så det information der sendes til brugerne er korrekt og de rigtigte personer modtager henvendelserne fra brugerne. Kontaktformularen 1. Opret de korrekte email kategorier I kontaktformularen kan brugerne vælge en kategori, som henvendelsen omhandler, og I kan tilknytte en email til de kategorier, så de...","categories": ["Startopsætning"],
+        "excerpt":"Kommer først med release 18. Jeres kontaktformular /kontakt skal ændres, så det information der sendes til brugerne er korrekt og de rigtigte personer modtager henvendelserne fra brugerne. Kontaktformularen 1. Opret de korrekte email kategorier I kontaktformularen kan brugerne vælge en kategori, som henvendelsen omhandler, og I kan tilknytte en email...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/main/startopsaetning/kontaktformular/",
         "teaser": null
