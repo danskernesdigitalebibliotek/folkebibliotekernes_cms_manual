@@ -16,7 +16,7 @@ header:
     - label: "Tilgængelighedserklæring"
       url: "/overblik/tilgaengelighedserklaering" 
 
-excerpt: "Manual, tidsplan og information om Folkebibliotekernes CMS. Sitets vedligeholdes af DDF og udbygges løbende."
+excerpt: "Manual, tidsplan og information om Folkebibliotekernes CMS. Sitets vedligeholdes af DDF."
 
 feature_row:
   - image_path: /assets/images/overgang-til-folkebibliotekernes-cms.jpg
@@ -37,12 +37,12 @@ feature_row:
   - image_path: /assets/images/indholdsredaktion.jpg
     alt: "Opret indhold i Folkebibliotekernes CMS"
     title: "Opret indhold"
-    excerpt: "Sådan opretter du artikler, arrangementer, sider, åbningstider mv. (Udbygges løbende)"
+    excerpt: "Sådan opretter du artikler, arrangementer, sider, åbningstider mv."
     url: "/indhold/"
   - image_path: /assets/images/konfiguration.jpg
     alt: "Konfiguration i Folkebibliotekernes CMS"
     title: "Konfiguration"
-    excerpt: "Beskrivelse af alle systemets konfigurationsmuligheder (Udbygges løbende)"
+    excerpt: "Beskrivelse af alle systemets konfigurationsmuligheder."
     url: "/konfiguration/"
   - image_path: /assets/images/content.jpg
     alt: "Guidelines til god webkommunikation"
