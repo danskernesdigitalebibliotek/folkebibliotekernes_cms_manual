@@ -366,7 +366,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Arrangement",
-        "excerpt":"Når du skal oprette et arrangement i FB CMS, skal du vælge Arrangement(er). Det gælder uanset om du vil oprette et enkeltstående arrangement eller en serie af arrangementer. Er du opmærksom på, at man kan oprette en skabelon for arrangementstyper, som man har flere af? F. eks. Læseklub-skabelon. På den...","categories": ["Indholdstyper"],
+        "excerpt":"Når du skal oprette et arrangement i FB CMS, skal du vælge Arrangement(er). Det gælder uanset om du vil oprette et enkeltstående arrangement eller en serie af arrangementer. Sådan opretter du et arrangement I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk) Klik på Tilføj indhold i øverste højre hjørne: Tilføj indhold Klik...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/main/indhold/arrangement/",
         "teaser": null
