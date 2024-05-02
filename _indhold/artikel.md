@@ -49,6 +49,9 @@ Her kan du tilknytte valgfrie ’tags’, emneord, til din artikel. Vil du tilkn
 ### Paragraphs
 Du kan nu opbygge din sides indhold og udseende ved hjælp af Paragraphs-komponenterne.
 
+En ny funktion i Folkebibliotekernes CMS er **skabeloner**. De er nyttige, hvis I vil lave en artikelserie, der har et genkendeligt "look". Det kan være "Bibliotekaren anbefaler", "Månedens digt", "Fredagsfilmen" eller lignende tematiske tilbagevendende artikler. [Læs mere om skabeloner](https://www.folkebibliotekernescms.dk/main/indhold/skabeloner/)
+{: .notice}
+
 [Læs om Paragraphs-komponenterne og deres funktioner](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/paragraphs-komponenter/)
 
 Der er følgende Paragraphs-komponenter at vælge fra:
