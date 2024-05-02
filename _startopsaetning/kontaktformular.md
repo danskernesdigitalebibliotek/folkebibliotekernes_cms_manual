@@ -83,10 +83,14 @@ Variabler I kan bruge er fx
 [webform_submission:values:email] er det som blev indtastet i Email i formularen
 {: .notice--primary}
 
-En email besked kunne fx være:\ \
+En email besked kunne fx være:\
+\
 Kære [webform_submission:values:name]\
+\
 Vi har modtaget din besked. Vi besvarer henvendelser indenfor X dage.\
+\
 Besked blev modtaget: [webform_submission:created]\
+\
 Din besked\
 [webform_submission:values:subject\
 [webform_submission:values:message]\
