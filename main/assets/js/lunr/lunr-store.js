@@ -726,7 +726,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 11: Ændr kontaktformularens konfiguration",
-        "excerpt":"Kommer først med release 18. Læs mere om releases her: Release nptes Jeres kontaktformular /kontakt skal ændres, så det information der sendes til brugerne er korrekt og de rigtigte personer modtager henvendelserne fra brugerne. Kontaktformularen 1. Opret de korrekte email kategorier I kontaktformularen kan brugerne vælge en kategori, som henvendelsen...","categories": ["Startopsætning"],
+        "excerpt":"Kommer først med release 18. Læs mere om releases i Release notes. Jeres kontaktformular /kontakt skal ændres, så det information der sendes til brugerne er korrekt og de rigtigte personer modtager henvendelserne fra brugerne. Kontaktformularen 1. Opret de korrekte email kategorier I kontaktformularen kan brugerne vælge en kategori, som henvendelsen...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/main/startopsaetning/kontaktformular/",
         "teaser": null
