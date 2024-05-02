@@ -50,6 +50,7 @@ Tryk på **Bekræftelse**
 Ret teksten i feltet **Bekræftelse**ryk på **Gem**
 
 Dette kunne være "Tak for din besked. Vi besvarer din mail indenfor X dage."
+{: .notice--primary}
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/8ac9f35d-0d0a-42d8-a2e9-f4e823ea81cc" alt="Ret teksten" caption="Ret teksten" %}
 
@@ -71,5 +72,26 @@ Tryk på **Rediger** ud for den Email bekræftelse, som har ID'et email_confirma
 Scroll ned til **Besked** og ret teksten
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/1479b81a-85a7-4ca5-99f6-809908528830" alt="Ret teksten" caption="Ret teksten" %}
+
+I teksten er der variabler, som indsætter information baseret på det, som borgeren har indtastet i formularen. Fx indsætter [webform_submission:values:name] det navn, som brugeren indtaster i feltet Navn i kontaktformularen.
+
+Variabler I kan bruge er fx
+[webform_submission:values:name] er det som blev indtastet i Navn i formularen
+[webform_submission:created] er tidspunktet som henvendelsen i kontaktformularen blev indsendt
+[webform_submission:values:subject] er det som blev indtastet i Emne i formularen
+[webform_submission:values:message] er det som blev indtastet i Besked i formularen
+[webform_submission:values:email] er det som blev indtastet i Email i formularen
+{: .notice--primary}
+
+En email besked kunne fx være:
+Kære [webform_submission:values:name]
+Vi har modtaget din besked. Vi besvarer henvendelser indenfor X dage.
+Besked blev modtaget: [webform_submission:created]
+Din besked
+[webform_submission:values:subject
+[webform_submission:values:message]
+Med venlig hilsen
+Eksempel Bibliotekerne
+{: .notice--primary}
 
 Tryk på **Gem**
