@@ -23,3 +23,6 @@ I skal i fællesskab løse denne opgave.
 - Åbn siden med **Indstillinger for brugerprofil**. Den ligger her: Indstillinger > Biblioteksindstillinger > Indstillinger for brugerprofil
 - Gennemgå og udfyld alle felter. Du kan finde hjælp til alle felter på [manualsiden om Indstillinger for brugerprofil](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/indstillinger-for-brugerprofil/).
 
+## Egenkontrol
+- Tjek at søgning fungerer. Du skal kunne fremsøge bibliotekets egne materialer.
+
