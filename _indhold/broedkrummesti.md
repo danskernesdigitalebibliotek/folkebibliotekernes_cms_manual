@@ -6,7 +6,10 @@ emneord:
 - "Menuer og navigation"
 ---
 
-En brødkrummesti er en lille linje øverst under headeren, der viser brugeren hvor man er på siden, og giver mulighed for at man kan navigere tilbage i sidens struktur. I kan selv definere hvordan brødkrummestien skal være opbygget. I Folkebibliotekernes CMS opretter man både en brødkrumme og en side til hver strukturpunkt for at I kan skræddersy jeres brødkrummer. 
+En brødkrummesti er en lille linje øverst under headeren, der viser brugeren, hvor man er på siden, og giver mulighed for at man kan navigere tilbage i sidens struktur. I kan selv definere, hvordan brødkrummestien skal være opbygget. 
+
+I Folkebibliotekernes CMS opretter man både en brødkrumme og en side til hver strukturpunkt for at I kan skræddersy jeres brødkrummer. 
+{: .notice--primary}
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/84932260-d405-4ac4-81c8-9c05cc2b98e2" alt="En brødkrummesti" caption="En brødkrummesti" %}
 
