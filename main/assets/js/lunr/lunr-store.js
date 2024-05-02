@@ -468,7 +468,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Reglement",
-        "excerpt":"Reglement (node/11) - Der linkes på nuværende tidspunkt ikke til denne side nogen steder. Det er oplagt at linke til denne side fra brugeroprettelses siden. Det ville også give mening at linke til reglementet fra servicemenuen. Menupunktet “Servicedeklaration” kan erstattes med “Reglement”. Se eksempel på Reglement DPL CMS (reload.dk) Det...","categories": ["Faste sider"],
+        "excerpt":"Der linkes til siden Reglement fra siden Opret bruger. Ønsker I ikke at have en side, der hedder Reglement, må I gerne slette den. I skal bare først sørge for at fjerne linket til den fra Opret bruger, hvor der henvises til den fra en Links-paragraph.   ","categories": ["Faste sider"],
         "tags": [],
         "url": "/main/indhold/reglement/",
         "teaser": null
