@@ -100,4 +100,8 @@ Med venlig hilsen\
 Eksempel Bibliotekerne
 {: .notice--primary}
 
+Det vil se således ud i mail til brugeren
+
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/696744f5-5025-4ba1-92b4-fd923217d46f" alt="Eksempel mail" caption="Eksempel mail" %}
+
 Tryk på **Gem**
