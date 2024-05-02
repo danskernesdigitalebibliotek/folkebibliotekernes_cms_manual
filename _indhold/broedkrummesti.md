@@ -10,8 +10,14 @@ En brødkrummesti er en lille linje øverst under headeren, der viser brugeren h
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/84932260-d405-4ac4-81c8-9c05cc2b98e2" alt="En brødkrummesti" caption="En brødkrummesti" %}
 
-Den måde I opbygger jeres brødkrummer påvirker hvordan url'en for en side bliver lavet. Hvis jeres brødkrumme ser således ud: Inspiration > Litteratur > Læseklubber, så vil url'en se således ud: www.eksempelbibliotek.dk/inspiration/litteratur/laeseklubber. [Se også hvordan man laver url-omdirigeringer og omdøbninger]({{ site.baseurl }}{% link _indhold/urler.md %}).
-{: .notice--primary}
+Den måde I opbygger jeres brødkrummer påvirker hvordan url'en for en side bliver lavet. 
+
+Hvis jeres brødkrumme ser således ud: Inspiration > Litteratur > Læseklubber
+
+Så vil url'en se således ud: 
+`www.eksempelbibliotek.dk/inspiration/litteratur/laeseklubber`. 
+
+[Se også hvordan man laver url-omdirigeringer og omdøbninger]({{ site.baseurl }}{% link _indhold/urler.md %}).
 
 ## Eksempel på en struktur
 Vi tager udgangspunkt i en eksempelstruktur for punkterne i hovedmenuen, der ser ud som nedenstående:
