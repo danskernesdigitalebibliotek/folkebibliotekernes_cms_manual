@@ -719,6 +719,12 @@ var store = [{
         "url": "/main/startopsaetning/indstillinger-for-gebyrside/",
         "teaser": null
       },{
+        "title": "Opgave 11: Ændr kontaktformularens konfiguration",
+        "excerpt":"Jeres kontaktformular /kontakt skal ændres, så det information der sendes til brugerne er korrekt og de rigtigte personer modtager henvendelserne fra brugerne. Kontaktformularen 1. Opret de korrekte email kategorier I kontaktformularen kan brugerne vælge en kategori, som henvendelsen omhandler, og I kan tilknytte en email til de kategorier, så de...","categories": ["Startopsætning"],
+        "tags": [],
+        "url": "/main/startopsaetning/kontaktformular/",
+        "teaser": null
+      },{
         "title": "Opgave 6: Mapp Intelligence",
         "excerpt":"Via Mapp indsamles statistik for jeres hjemmeside. Indsæt Mapp ID i Folkebibliotekernes CMS I topmenuen klik på Indstillinger &gt; System &gt; Mapp Intelligence indstillinger Eller åbn via direkte link (udskift mit-staging-domæne.dk): https://mit-staging-domæne.dk/admin/config/system/dpl-mapp Indsæt 476651662471322 i feltet ID Tryk på Gem indstillinger Egenkontrol Det er ikke muligt at tjekke Mapp konfigurationen...","categories": ["Startopsætning"],
         "tags": [],
