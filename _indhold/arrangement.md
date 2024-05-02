@@ -9,6 +9,9 @@ Når du skal oprette et arrangement i FB CMS, skal du vælge **Arrangement(er)**
 
 Det gælder uanset om du vil oprette et enkeltstående arrangement eller en serie af arrangementer.
 
+Er du opmærksom på, at man kan oprette en **skabelon** for arrangementstyper, som man har flere af? F. eks. Læseklub-skabelon. På den måde bliver det hurtigere at oprette arrangementer og de bliver mere ensartede. [Læs mere om skabeloner](https://www.folkebibliotekernescms.dk/main/indhold/skabeloner/)
+{: .notice--primary}
+
 ## Sådan opretter du et arrangement
 I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/content` (udskift mit-domænenavn.dk)
 
