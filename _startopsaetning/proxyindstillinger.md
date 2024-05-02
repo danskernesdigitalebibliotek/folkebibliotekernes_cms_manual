@@ -23,7 +23,7 @@ Eller åbn via direkte link (udskift mit-domænenavn.dk):\
 
 ## Indsæt proxy indstillinger i Folkebibliotekernes CMS
 
-Proxy-indstillinger indsættes som beskrevet i herunder. Det er præcis samme fremgangsmåde som i DDB CMS.
+Proxy-indstillinger indsættes som beskrevet i vejledningen herunder. Det er præcis samme fremgangsmåde som i DDB CMS.
 
 [Vejledningen om opsætning af proxy URLer](https://www.folkebibliotekernescms.dk/main/konfiguration/url-proxy-indstillinger/).
 
