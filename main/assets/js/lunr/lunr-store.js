@@ -390,7 +390,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Brødkrummesti",
-        "excerpt":"En brødkrummesti er en lille linje øverst under headeren, der viser brugeren hvor man er på siden, og giver mulighed for at man kan navigere tilbage i sidens struktur. I kan selv definere hvordan brødkrummestien skal være opbygget. I Folkebibliotekernes CMS opretter man både en brødkrumme og en side til...","categories": ["Navigation"],
+        "excerpt":"En brødkrummesti er en lille linje øverst under headeren, der viser brugeren, hvor man er på siden, og giver mulighed for at man kan navigere tilbage i sidens struktur. I kan selv definere, hvordan brødkrummestien skal være opbygget. I Folkebibliotekernes CMS opretter man både en brødkrumme og en side til...","categories": ["Navigation"],
         "tags": [],
         "url": "/main/indhold/broedkrummesti/",
         "teaser": null
