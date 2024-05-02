@@ -3,6 +3,9 @@ title: "Opgave 11: Ændr kontaktformularens konfiguration"
 category: "Startopsætning"
 weight: 11
 ---
+Kommer først med release 18.
+{: .notice--warning}
+
 Jeres kontaktformular `/kontakt` skal ændres, så det information der sendes til brugerne er korrekt og de rigtigte personer modtager henvendelserne fra brugerne.
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/9ef4152e-6912-4bc9-8e07-7f8c9e33c24b" alt="Kontaktformularen" caption="Kontaktformularen" %}
