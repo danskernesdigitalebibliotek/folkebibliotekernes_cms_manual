@@ -22,7 +22,7 @@ Standardteksten må gerne tilrettes:
 Du kan godt bruge en anden side som erstatning for siden Takster, og få de indbyggede links til at pege på den.
 
 1. Opret en ny side, der skal erstatte den faste side Takster. Læg mærke til sidens URL. Den kan du se i browserens adresselinje. Det er den sidste del der er interessant. 
-2. Nu skal du registerer den nye sides URL i indstillinger for websiden. Log ind med en bruger, der har rollen **Lokal administrator**.
+2. Nu skal du registerer den nye sides URL. Log ind med en bruger, der har rollen **Lokal administrator**.
 3. I topmenuen klik på **Indstillinger > Biblioteksindstillinger > Indstillinger for gebyrside**\
 Eller åbn via URL: https://mit-domænenavn.dk/admin/config/dpl-library-agency/fees (udskift mit-domænenavn.dk)
 4. På siden **Gebyrindstillinger** find feltet **URL**
