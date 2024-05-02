@@ -8,7 +8,7 @@ emneord:
 
 En brødkrummesti er en lille linje øverst under headeren, der viser brugeren hvor man er på siden, og giver mulighed for at man kan navigere tilbage i sidens struktur. I kan selv definere hvordan brødkrummestien skal være opbygget. I Folkebibliotekernes CMS opretter man både en brødkrumme og en side til hver strukturpunkt for at I kan skræddersy jeres brødkrummer. 
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/3f3c57ae-df55-4d6b-8aed-c2ac4cd8eec0" alt="En brødkrummesti" caption="En brødkrummesti" %}
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/84932260-d405-4ac4-81c8-9c05cc2b98e2" alt="En brødkrummesti" caption="En brødkrummesti" %}
 
 Den måde I opbygger jeres brødkrummer påvirker hvordan url'en for en side bliver lavet. Hvis jeres brødkrumme ser således ud: Inspiration > Litteratur > Læseklubber, så vil url'en se således ud: www.eksempelbibliotek.dk/inspiration/litteratur/laeseklubber. [Se også hvordan man laver url-omdirigeringer og omdøbninger]({{ site.baseurl }}{% link _indhold/urler.md %}).
 {: .notice--primary}
