@@ -5,7 +5,6 @@ category: "Konfiguration"
 emneord: 
 - "Fjernadgang"
 - "Elektroniske ressourcer"
-- X mangler billede
 ---
 I topmenuen klik på **{{ page.click-path }}**
 
@@ -119,15 +118,6 @@ Gale kræver særlig opsætning, da der i url'en indgår en parameter med et bib
 
 ### Mango languages ###
 Mango languages skal håndteres på samme måde som Gale. Men bibliotekets identifier kan godt hedde noget andet end for Gale. Se efter den konkrete værdi i ERMS
-
-## Hvordan ved jeg, om jeg har gjort det rigtigt?
-Fremsøg på jeres hjemmeside en post fra den e-ressource, som du vil tjekke.
-
-Hold musen hen over Se online knappen og verificer at URL'en er omskrevet, så det peger på proxy-URL'en.
-
-Tjek også at Se online knappen faktisk virker.
-
-INDSÆT SKÆRMBILLEDE
 
 ## Hvordan virker replacement? (For nørderne)
 Sektionen "Replacement" er en slags søg- og erstat-funktion. I "Regulært udtryk" beskrives hvad man leder efter. Bemærk at der ikke er tale om en almindelig tekst, men et regulært udtryk - se evt. http://en.wikipedia.org/wiki/Regular_expression . Det betyder blandt andet at man starter og slutter med skråstreg - "/", og at visse tegn skal forsynes med et en foranstillet backslash "\\"."Replacement" er en næsten normal tekststreng, idet man dog kan bruge $1, $2 osv. til at angive delstrenge som er blevet matchet (captured) i det regulære udtryk ovenfor. Lyder det for indviklet, så lev med at låne andres eksempler ;-)
