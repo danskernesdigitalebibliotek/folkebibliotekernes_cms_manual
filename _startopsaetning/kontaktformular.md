@@ -84,13 +84,13 @@ Variabler I kan bruge er fx
 {: .notice--primary}
 
 En email besked kunne fx være:
-Kære [webform_submission:values:name]
-Vi har modtaget din besked. Vi besvarer henvendelser indenfor X dage.
-Besked blev modtaget: [webform_submission:created]
-Din besked
-[webform_submission:values:subject
-[webform_submission:values:message]
-Med venlig hilsen
+Kære [webform_submission:values:name]\
+Vi har modtaget din besked. Vi besvarer henvendelser indenfor X dage.\
+Besked blev modtaget: [webform_submission:created]\
+Din besked\
+[webform_submission:values:subject\
+[webform_submission:values:message]\
+Med venlig hilsen\
 Eksempel Bibliotekerne
 {: .notice--primary}
 
