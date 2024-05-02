@@ -17,7 +17,8 @@ Log ind i DDB CMS med en bruger der har "Lokal administrator" rollen. I topmenue
 Eller åbn via direkte link (udskift mit-domænenavn.dk):\
 `https://mit-domænenavn.dk/admin/config/ting/proxy`
 
-**Kopier værtsnavne og replacements**
+- Kopier Proxy server URL prefix
+- Kopier værtsnavne og replacements
 
 **Bemærk!** Replacement skal foldes ud, før man kan se, om der er indhold i. De fleste kilder har en tom Replacement, men der er undtagelser. F. eks. Ebook Central. Det er meget vigtigt, at få replaceement med, hvis den er der.
 
