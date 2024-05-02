@@ -672,7 +672,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes",
-        "excerpt":"Hold dig ajour med de ændringer der sker i Folkebibliotekernes CMS.   Release Notes publiseres forud for opdateringen.   Når du er logget ind, så kan du se hvilken release, som jeres side er på øverst til venstre i menubaren.             Se hvilken release jeres side er på        ","categories": [],
+        "excerpt":"Hold dig ajour med de ændringer der sker i Folkebibliotekernes CMS. Release Notes publiseres forud for opdateringen. Se hvilken release i er på Når du er logget ind, så kan du se hvilken release, som jeres side er på øverst til venstre i menubaren. Se hvilken release jeres side er...","categories": [],
         "tags": [],
         "url": "/main/overblik/release-notes/",
         "teaser": null
