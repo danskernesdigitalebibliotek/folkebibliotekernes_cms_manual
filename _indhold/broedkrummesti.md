@@ -16,9 +16,7 @@ I Folkebibliotekernes CMS opretter man både en brødkrumme og en side til hver 
 Den måde I opbygger jeres brødkrummer påvirker hvordan url'en for en side bliver lavet. 
 
 Hvis jeres brødkrumme ser således ud: Inspiration > Litteratur > Læseklubber
-
-Så vil url'en se således ud: 
-`www.eksempelbibliotek.dk/inspiration/litteratur/laeseklubber`. 
+Så vil url'en se således ud: `www.eksempelbibliotek.dk/inspiration/litteratur/laeseklubber`. 
 
 [Se også hvordan man laver url-omdirigeringer og omdøbninger]({{ site.baseurl }}{% link _indhold/urler.md %}).
 
