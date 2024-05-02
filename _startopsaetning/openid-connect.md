@@ -35,8 +35,3 @@ Eller åbn via direkte link (udskift mit-staging-domæne.dk):\
 3. Tryk på **Save configuration** nederst på siden
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3cf6e2ff-7993-4b5a-a924-754563244a0f" alt="Indsæt Client ID, Client secret og Agency ID i Folkebibliotekernes CMS" caption="Indsæt Client ID, Client secret og Agency ID i Folkebibliotekernes CMS" %} 
-
-## Egenkontrol
-- Tjek at biblioteksbrugere nu kan logge ind via Adgangsplatformen.
-
-
