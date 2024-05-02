@@ -5,12 +5,10 @@ weight: 1
 emneord:
 - "X Mangler tekst"
 ---
+
 Når du skal oprette et arrangement i FB CMS, skal du vælge **Arrangement(er)**. 
 
 Det gælder uanset om du vil oprette et enkeltstående arrangement eller en serie af arrangementer.
-
-Er du opmærksom på, at man kan oprette en **skabelon** for arrangementstyper, som man har flere af? F. eks. Læseklub-skabelon. På den måde bliver det hurtigere at oprette arrangementer og de bliver mere ensartede. [Læs mere om skabeloner](https://www.folkebibliotekernescms.dk/main/indhold/skabeloner/)
-{: .notice--primary}
 
 ## Sådan opretter du et arrangement
 I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/content` (udskift mit-domænenavn.dk)
@@ -21,7 +19,6 @@ Klik på **Tilføj indhold** i øverste højre hjørne:
 Klik på Arrangement(er):
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/5dd4e1f9-4b8d-488b-b850-82c1c3cd506f" alt="Klik på Arrangement(er)" caption="Klik på Arrangement(er)" %} 
 
-
 ## Enkeltstående eller gentagende arrangement?
 
 Folkebibliotekernes CMS tilbyder en række nye muligheder for at oprette **arrangementsserier**. 
@@ -29,6 +26,9 @@ Folkebibliotekernes CMS tilbyder en række nye muligheder for at oprette **arran
 Arrangementsserier er nyttige, hvis du har tilbagevendende arrangementer, fx læseklubber, legestuer etc.
 
 Når du opretter et arrangement, skal du i **Recur Type**-feltet tage stilling til, om du vil oprette en enkeltstående event eller en serie. 
+
+Noget ny i Folkebibliotekernes CMS er **skabeloner**. Brug en skabelon, hvis du har flere arrangementer der ligner hinanden, men uden at de skal oprettes i en arrangementsserie. En Læseklub-skabelon er et godt eksempel. Det gør det hurtigere at oprette arrangementer og de bliver mere ensartede. [Læs mere om skabeloner](https://www.folkebibliotekernescms.dk/main/indhold/skabeloner/)
+{: .notice}
 
 ## Enkeltstående arrangement
 Skal du kun oprette et enkelt arrangement (ikke en serie), vælges **Custom/Single Event** i dropdown under
