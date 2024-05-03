@@ -14,7 +14,7 @@ I DDB CMS skulle man oprette alle bibliotekets medarbejdere på sitet og tildele
 
 **OBS!** Når du opretter dine kolleger, er det vigtigt, at du sætter sproget til dansk. Hele manualen  er skrevet ud fra den danske oversættelse, så dine kolleger kan nemt blive forvirrede, hvis de ser backend på engelsk. 
 
-Systembrugere skal ikke logge ind via Adgangsplatformen. De skal logge ind via login boks på siden ´user´
+Systembrugere skal ikke logge ind via Adgangsplatformen. De skal logge ind via login boks på siden **/user**
 `https://mit-domænenavn.dk/user` (udskift mit-domænenavn.dk)
 {: .notice--info}
 
