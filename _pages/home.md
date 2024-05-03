@@ -14,7 +14,9 @@ header:
     - label: "Release Notes"
       url: "/overblik/release-notes/"
     - label: "Tilgængelighedserklæring"
-      url: "/overblik/tilgaengelighedserklaering" 
+      url: "/overblik/tilgaengelighedserklaering"
+    - label: "Status på udvikling og fejlrettelser"
+      url: "/overblik/status"
 
 excerpt: "Manual, tidsplan og information om Folkebibliotekernes CMS. Sitets vedligeholdes af DDF."
 
