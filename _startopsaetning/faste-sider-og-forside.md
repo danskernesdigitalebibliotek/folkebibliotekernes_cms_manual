@@ -28,6 +28,9 @@ Vi anbefaler, at I opretter en side med navnet Forside. I behøver ikke gøre de
 3. Indsæt sidens navn fra URL'en i feltet **Forside** under de [Grundlæggende indstillinger](https://www.folkebibliotekernescms.dk/main/konfiguration/grundlaeggende-indstillinger/).
    {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/4e3b450b-36ce-40aa-bdb7-f2665723480e" alt="Indsæt forsidens navn som den fremgår af URL'en" caption="Indsæt forsidens navn som den fremgår af URL'en" %}
 
+**Hvor blev login-siden af?** Fra start af er login-siden sat som forside. Efter I har registreret jeres rigtige forside, kan det føles som om login-siden er "blevet væk". Systembrugere skal få til siden **/user** for at logge ind\ 
+https://mit-domænenavn.dk/user (udskift mit-domænenavn.dk) {: .notice--info}
+
 
 
 
