@@ -9,18 +9,18 @@ Designsystemet bag Folkebibliotekernes CMS er opbygget af formidlingskomponenter
 I er også meget velkomne til at kigge på pilotbibliotekernes nye hjemmesider og lade jer inspirere (de vil løbende komme i drift hen over maj måned): 
 
 6. maj:
-Billund Bibliotekerne og Borgerservice: https://billundbib.dk 
-Herlev Bibliotek: https://www.herlevbibliotek.dk 
+Billund Bibliotekerne og Borgerservice: [https://billundbib.dk](https://billundbib.dk ){:target="_blank"}
+Herlev Bibliotek: [https://www.herlevbibliotek.dk](https://www.herlevbibliotek.dk ){:target="_blank"}
 
-13. maj
-Aalborg Bibliotekerne: https://www.aalborgbibliotekerne.dk 
+13. maj:
+Aalborg Bibliotekerne: [https://www.aalborgbibliotekerne.dk](https://www.aalborgbibliotekerne.dk ){:target="_blank"}
 
 21. maj
-Herning Bibliotekerne: https://www.herningbib.dk/
-Faxe Bibliotek og Borgerservice: https://www.faxebibliotek.dk
+Herning Bibliotekerne: [https://www.herningbib.dk/](https://www.herningbib.dk/){:target="_blank"}
+Faxe Bibliotek og Borgerservice: [https://www.faxebibliotek.dk](https://www.faxebibliotek.dk){:target="_blank"}
 
 27. maj
-Københavns Biblioteker: https://bibliotek.kk.dk
-Struer Bibliotek: https://www.struerbibliotek.dk  
+Københavns Biblioteker: [https://bibliotek.kk.dk](https://bibliotek.kk.dk){:target="_blank"}
+Struer Bibliotek: [https://www.struerbibliotek.dk](https://www.struerbibliotek.dk){:target="_blank"}
 
 
