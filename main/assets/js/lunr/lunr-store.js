@@ -546,7 +546,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Forsiden",
-        "excerpt":"Forsiden er en side som alle andre. Alle sider kan i princippet bruges som forside. I backend skal I selv indstille, hvilken side, der skal væres jeres forside. Læs hvordan man indstiller hvilken side, der er forside. Forsiden er bygget op af inspirationskomponenter, og det er redaktionelt muligt for det...","categories": ["Formidlingsinspiration"],
+        "excerpt":"Forsiden er en side som alle andre. Alle sider kan i princippet bruges som forside. I backend skal I selv indstille, hvilken side, der skal væres jeres forside. Læs hvordan man registrerer en side som forside. Forsiden er bygget op af inspirationskomponenter, og det er redaktionelt muligt for det enkelte...","categories": ["Formidlingsinspiration"],
         "tags": [],
         "url": "/main/inspiration/forsiden/",
         "teaser": null
