@@ -521,6 +521,12 @@ var store = [{
         "url": "/main/indhold/webforms/",
         "teaser": null
       },{
+        "title": "Inspiration",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/main/inspiration/",
+        "teaser": null
+      },{
         "title": "FBS indstillinger",
         "excerpt":"I topmenuen klik på Indstillinger &gt; Web-services &gt; FBS indstillinger   Eller åbn via URL (udskift mit-domænenavn.dk):  https://mit-domænenavn.dk/admin/config/services/fbs   Om FBS indstillinger  Opsæt forbindelse til bibliotekssystemet.   Anbefalede indstillinger for FBS                  Feltnavn       Værdi                       FBS Service URL       https://fbs-openplatform.dbc.dk                  FBS Service URL        ","categories": ["Konfiguration"],
         "tags": [],
