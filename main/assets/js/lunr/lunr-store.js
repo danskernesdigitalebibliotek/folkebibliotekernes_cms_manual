@@ -570,7 +570,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Personalesiden",
-        "excerpt":"Folkebibliotekernes CMS er ikke født med en personaleside, så man skal selv være kreativ, hvis den skal opbygges. Her er et eksempel på hvordan en simpel personaleside kan opbygges vha. formidlingskomponenten accordion: Hvis I meget gerne vil have billeder på, kan I finde inspiration hos Struer, hvor man via en...","categories": ["Formidlingsinspiration"],
+        "excerpt":"Folkebibliotekernes CMS er ikke født med en personaleside, så man skal selv være kreativ, hvis den skal opbygges. Her er et eksempel på hvordan en simpel personaleside kan opbygges vha. formidlingskomponenten accordion: Personaleoversigt opbygget med Accordion Hvis I meget gerne vil have billeder på, kan I finde inspiration hos Struer,...","categories": ["Formidlingsinspiration"],
         "tags": [],
         "url": "/main/inspiration/personalesiden/",
         "teaser": null
