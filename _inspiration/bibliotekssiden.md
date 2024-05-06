@@ -17,3 +17,6 @@ Et bibliotek kan bygges op af følgende:
 
 Du kan linke til en ny samleside for alle biblioteker. Læs hvordan her: https://www.folkebibliotekernescms.dk/main/indhold/hovedmenu/ 
 
+![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/41abd0d6-c7b5-404e-9e06-f6be6f2d211a)
+
+
