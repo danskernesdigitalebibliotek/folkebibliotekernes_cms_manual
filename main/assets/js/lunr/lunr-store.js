@@ -533,48 +533,6 @@ var store = [{
         "url": "/main/indhold/webforms/",
         "teaser": null
       },{
-        "title": "Biblioteker",
-        "excerpt":"Start med oprette alle jeres biblioteker (branches) under indhold. Et bibliotek kan bygges op af følgende: Et navn Et hovedbillede En brødtekst (paragraph) Et navigation grid til fx arrangementer (paragraph) Åbningstider (paragraph) Eksempel på bibliotek Du kan lave link til en ny samleside for alle biblioteker fra hovedmenuen. Læs hvordan...","categories": ["Formidlingsinspiration"],
-        "tags": [],
-        "url": "/main/inspiration/bibliotekssiden/",
-        "teaser": null
-      },{
-        "title": "Digitale tilbud",
-        "excerpt":"Folkebibliotekernes CMS er ikke født med en linksamling til digitale tilbud (licenser, netmedier eller hvad I kalder det). Derfor skal I selv opbygge en side med dem. Hvis I ikke har mange licenser, kan I med fordel bruge Navigation spots – manual, hvor der blot linkes til et indhold. Nedenstående...","categories": ["Formidlingsinspiration"],
-        "tags": [],
-        "url": "/main/inspiration/digitale-tilbud/",
-        "teaser": null
-      },{
-        "title": "Forsiden",
-        "excerpt":"Forsiden er en side som alle andre. Alle sider kan i princippet bruges som forside. I backend skal I selv indstille, hvilken side, der skal væres jeres forside. Læs hvordan man registrerer en side som forside. Forsiden er bygget op af inspirationskomponenter, og det er redaktionelt muligt for det enkelte...","categories": ["Formidlingsinspiration"],
-        "tags": [],
-        "url": "/main/inspiration/forsiden/",
-        "teaser": null
-      },{
-        "title": "Hjælpesiden",
-        "excerpt":"Hjælpesiden kan med opbygges vha. et card grid som her i København, hvor der er lavet underliggende sider med hjælp. Hjælp-side opbygget med Card Grid undersider En anden mulighed er at opbygge sider med en brødtekst og en accordion, som kan vejlede brugeren trin for trin: En lang informationsside er...","categories": ["Formidlingsinspiration"],
-        "tags": [],
-        "url": "/main/inspiration/hjaelpesiden/",
-        "teaser": null
-      },{
-        "title": "Inspiration til formidling",
-        "excerpt":"Designsystemet bag Folkebibliotekernes CMS er opbygget af formidlingskomponenter (paragraphs), som kan bruges efter behov. Vi har her samlet eksempler på opbygning af forskellige typer sider, som I kan lade jer inspirere af. Der er mange formidlingskomponenter (paragraphs) at vælge imellem I er også meget velkomne til at kigge på pilotbibliotekernes...","categories": [],
-        "tags": [],
-        "url": "/main/inspiration/",
-        "teaser": null
-      },{
-        "title": "Inspiration / litteratur",
-        "excerpt":"Der er et utal af muligheder for at formidle litteratur på hjemmesiden. Her er et eksempel fra Billund, hvor der er bygget et inspirationsunivers op ved hjælp af følgende paragraphs: Material grid automatic Links Eksempel på bibliotek Der er også muligt at oprette forskellige artikler som kan trækkes ind i...","categories": ["Formidlingsinspiration"],
-        "tags": [],
-        "url": "/main/inspiration/inspiration-litteratur/",
-        "teaser": null
-      },{
-        "title": "Personalesiden",
-        "excerpt":"Folkebibliotekernes CMS er ikke født med en personaleside, så man skal selv være kreativ, hvis den skal opbygges. Her er et eksempel på hvordan en simpel personaleside kan opbygges vha. formidlingskomponenten accordion: Personaleoversigt opbygget med Accordion Hvis I meget gerne vil have billeder på, kan I finde inspiration hos Struer,...","categories": ["Formidlingsinspiration"],
-        "tags": [],
-        "url": "/main/inspiration/personalesiden/",
-        "teaser": null
-      },{
         "title": "FBS indstillinger",
         "excerpt":"I topmenuen klik på Indstillinger &gt; Web-services &gt; FBS indstillinger   Eller åbn via URL (udskift mit-domænenavn.dk):  https://mit-domænenavn.dk/admin/config/services/fbs   Om FBS indstillinger  Opsæt forbindelse til bibliotekssystemet.   Anbefalede indstillinger for FBS                  Feltnavn       Værdi                       FBS Service URL       https://fbs-openplatform.dbc.dk                  FBS Service URL        ","categories": ["Konfiguration"],
         "tags": [],
