@@ -546,7 +546,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Forsiden",
-        "excerpt":"Forsiden er bygget op af inspirationskomponenter, og det er redaktionelt muligt for det enkelte bibliotek at bestemme, hvilke inspirationskomponenter der benyttes, samt rækkefølgen på dem. Her er et eksempel fra København: Følgende formidlingskomponenter er anvendt på denne forside: Hero Card grid – automatic (den hiver automatisk 6 artikler ind på...","categories": ["Formidlingsinspiration"],
+        "excerpt":"Forsiden er en side som alle andre. Alle sider kan i princippet bruges som forside. I backend skal I selv indstille, hvilken side, der skal væres jeres forside. Læs hvordan man indstiller hvilken side, der er forside. Forsiden er bygget op af inspirationskomponenter, og det er redaktionelt muligt for det...","categories": ["Formidlingsinspiration"],
         "tags": [],
         "url": "/main/inspiration/forsiden/",
         "teaser": null
