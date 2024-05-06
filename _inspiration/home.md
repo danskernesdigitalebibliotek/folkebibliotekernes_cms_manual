@@ -4,7 +4,7 @@ permalink: /inspiration/
 ---
 Designsystemet bag Folkebibliotekernes CMS er opbygget af formidlingskomponenter (paragraphs), som kan bruges efter behov.  Vi har her samlet eksempler på opbygning af forskellige typer sider, som I kan lade jer inspirere af.
 
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/28c94162-7ef8-455f-a385-dbfc79bd4301)
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/28c94162-7ef8-455f-a385-dbfc79bd4301" alt="Der er mange formidlingskomponenter (paragraphs) at vælge imellem" caption="Der er mange formidlingskomponenter (paragraphs) at vælge imellem" %}
 
 I er også meget velkomne til at kigge på pilotbibliotekernes nye hjemmesider og lade jer inspirere (de vil løbende komme i drift hen over maj måned): 
 
