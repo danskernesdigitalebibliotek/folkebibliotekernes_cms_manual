@@ -89,6 +89,12 @@ var store = [{
         "url": "/main/category/faste-sider/",
         "teaser": null
       },{
+        "title": null,
+        "excerpt":" ","categories": [],
+        "tags": null,
+        "url": "/main/category/formidlingsinspiration/",
+        "teaser": null
+      },{
         "title": "Generelt",
         "excerpt":"Generelt  ","categories": [],
         "tags": [],
