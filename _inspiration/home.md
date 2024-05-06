@@ -1,1 +1,4 @@
-
+---
+title: "Inspiration"
+permalink: /inspiration/
+---
