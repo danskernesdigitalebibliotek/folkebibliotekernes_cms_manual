@@ -378,7 +378,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Biblioteker",
-        "excerpt":"Start med oprette alle jeres biblioteker (branches) under indhold. Et bibliotek kan bygges op af følgende: Et navn Et hovedbillede En brødtekst (paragraph) Et navigation grid til fx arrangementer (paragraph) Åbningstider (paragraph) Eksempel på bibliotek Du kan lave et link til samlesiden for alle biblioteker fra hovedmenuen. Samlesiden hedder \\biblioteker....","categories": ["Formidlingsinspiration"],
+        "excerpt":"Start med oprette alle jeres biblioteker (branches) under indhold. Et bibliotek kan bygges op af følgende: Et navn Et hovedbillede En brødtekst (paragraph) Et navigation grid til fx arrangementer (paragraph) Åbningstider (paragraph) Eksempel på bibliotek Du kan lave et link til samlesiden for alle biblioteker fra hovedmenuen. Samlesiden hedder /biblioteker....","categories": ["Formidlingsinspiration"],
         "tags": [],
         "url": "/main/formidlingsinspiration/bibliotekssiden/",
         "teaser": null
