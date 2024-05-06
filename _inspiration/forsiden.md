@@ -4,7 +4,7 @@ category: "Formidlingsinspiration"
 emneord:
 - "Formidlingsinspiration"
 ---
-Forsiden er en side som alle andre. Alle sider kan i princippet bruges som forside. I backend skal I selv indstille, hvilken side, der skal væres jeres forside. [Læs hvordan man indstiller hvilken side, der er forside.](https://www.folkebibliotekernescms.dk/main/startopsaetning/faste-sider-og-forside/)
+Forsiden er en side som alle andre. Alle sider kan i princippet bruges som forside. I backend skal I selv indstille, hvilken side, der skal væres jeres forside. [Læs hvordan man registrerer en side som forside.](https://www.folkebibliotekernescms.dk/main/startopsaetning/faste-sider-og-forside/)
 
 Forsiden er bygget op af inspirationskomponenter, og det er redaktionelt muligt for det enkelte bibliotek at bestemme, hvilke inspirationskomponenter der benyttes, samt rækkefølgen på dem.
 
