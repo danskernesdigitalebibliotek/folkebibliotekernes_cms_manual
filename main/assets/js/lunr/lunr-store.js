@@ -521,6 +521,12 @@ var store = [{
         "url": "/main/indhold/webforms/",
         "teaser": null
       },{
+        "title": "Bibliotekssiden",
+        "excerpt":" ","categories": ["Formidlingsinspiration"],
+        "tags": [],
+        "url": "/main/inspiration/bibliotekssiden/",
+        "teaser": null
+      },{
         "title": "Inspiration til formidling",
         "excerpt":"Designsystemet bag Folkebibliotekernes CMS er opbygget af formidlingskomponenter (paragraphs), som kan bruges efter behov. Vi har her samlet eksempler på opbygning af forskellige typer sider, som I kan lade jer inspirere af. I er også meget velkomne til at kigge på pilotbibliotekernes nye hjemmesider og lade jer inspirere (de vil...","categories": [],
         "tags": [],
