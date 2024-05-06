@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Folkebibliotekernes CMS er på vej"
+title: "Folkebibliotekernes CMS"
 layout: splash
 header:
   overlay_image: /assets/images/splash.png
@@ -18,7 +18,7 @@ header:
     - label: "Status på udvikling og fejlrettelser"
       url: "/overblik/status"
 
-excerpt: "Manual, tidsplan og information om Folkebibliotekernes CMS. Sitets vedligeholdes af DDF."
+excerpt: "Manual, tidsplan og information om Folkebibliotekernes CMS."
 
 feature_row:
   - image_path: /assets/images/overgang-til-folkebibliotekernes-cms.jpg
