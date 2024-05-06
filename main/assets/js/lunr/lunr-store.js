@@ -528,7 +528,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Bibliotekssiden",
-        "excerpt":" ","categories": ["Formidlingsinspiration"],
+        "excerpt":"Start med oprette alle jeres biblioteker (branches) under indhold.  Et bibliotek kan bygges op af følgende:     Et navn   Et hovedbillede   En brødtekst (paragraph)   Et navigation grid til fx arrangementer (paragraph)   Åbningstider (paragraph)      Du kan linke til en ny samleside for alle biblioteker. Læs hvordan her: https://www.folkebibliotekernescms.dk/main/indhold/hovedmenu/   ","categories": ["Formidlingsinspiration"],
         "tags": [],
         "url": "/main/inspiration/bibliotekssiden/",
         "teaser": null
