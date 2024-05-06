@@ -257,6 +257,12 @@ var store = [{
         "url": "/main/overblik/emneord/formidling/",
         "teaser": null
       },{
+        "title": "Formidlingsinspiration",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/main/overblik/emneord/formidlingsinspiration/",
+        "teaser": null
+      },{
         "title": "Startopsætning",
         "excerpt":" ","categories": [],
         "tags": [],
