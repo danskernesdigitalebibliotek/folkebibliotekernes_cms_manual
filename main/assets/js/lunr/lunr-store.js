@@ -534,7 +534,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Digitale tilbud",
-        "excerpt":" ","categories": ["Formidlingsinspiration"],
+        "excerpt":"Folkebibliotekernes CMS er ikke født med en linksamling til digitale tilbud (licenser, netmedier eller hvad I kalder det). Derfor skal I selv opbygge en side med dem. Hvis I ikke har mange licenser, kan I med fordel bruge Navigation spots – manual, hvor der blot linkes til et indhold. Nedenstående...","categories": ["Formidlingsinspiration"],
         "tags": [],
         "url": "/main/inspiration/digitale-tilbud/",
         "teaser": null
