@@ -31,11 +31,11 @@ feature_row:
     title: "Startopsætning"
     excerpt: "Skal udføres straks I modtager login til jeres site."
     url: "/startopsaetning/"
-  - image_path: /assets/images/new-features.png
-    alt: "Nye features i Folkebibliotekernes CM"
-    title: "Nye features"
-    excerpt: "Få overblik over hvad er nyt i forhold til DDB CMS."
-    url: "/nye-features/"
+  - image_path: /assets/images/inspiration.png
+    alt: "Formidlingsinspiration i Folkebibliotekernes CMS"
+    title: "Formidlingsinspiration"
+    excerpt: "Gode eksempler på sideopbygning og brug af formidlingskomponenterne."
+    url: "/formidlingsinspiration/"
   - image_path: /assets/images/indholdsredaktion.jpg
     alt: "Opret indhold i Folkebibliotekernes CMS"
     title: "Opret indhold"
@@ -46,11 +46,11 @@ feature_row:
     title: "Konfiguration"
     excerpt: "Beskrivelse af alle systemets konfigurationsmuligheder."
     url: "/konfiguration/"
-  - image_path: /assets/images/inspiration.png
-    alt: "Formidlingsinspiration i Folkebibliotekernes CMS"
-    title: "Formidlingsinspiration"
-    excerpt: "Gode eksempler på sideopbygning og brug af formidlingskomponenterne."
-    url: "/konfiguration/"
+  - image_path: /assets/images/new-features.png
+    alt: "Nye features i Folkebibliotekernes CM"
+    title: "Nye features"
+    excerpt: "Få overblik over hvad er nyt i forhold til DDB CMS."
+    url: "/nye-features/"
   - image_path: /assets/images/content.jpg
     alt: "Guidelines til god webkommunikation"
     title: "Guidelines til god webkommunikation"
