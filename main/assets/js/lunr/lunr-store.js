@@ -558,7 +558,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Inspiration / litteratur",
-        "excerpt":" ","categories": ["Formidlingsinspiration"],
+        "excerpt":"Der er et utal af muligheder for at formidle litteratur på hjemmesiden. Her er et eksempel fra Billund, hvor der er bygget et inspirationsunivers op ved hjælp af følgende paragraphs: Material grid automatic Links Der er også muligt at oprette forskellige artikler som kan trækkes ind i for eksempel et...","categories": ["Formidlingsinspiration"],
         "tags": [],
         "url": "/main/inspiration/inspiration-litteratur/",
         "teaser": null
