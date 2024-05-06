@@ -546,7 +546,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Hjælpesiden",
-        "excerpt":" ","categories": ["Formidlingsinspiration"],
+        "excerpt":"Hjælpesiden kan med opbygges vha. et card grid som her i København, hvor der er lavet underliggende sider med hjælp. En anden mulighed er at opbygge sider med en brødtekst og en accordion, som kan vejlede brugeren trin for trin: Informationssiden kan opbygges ligesom i Herning, hvor der er brugt...","categories": ["Formidlingsinspiration"],
         "tags": [],
         "url": "/main/inspiration/hjaelpesiden/",
         "teaser": null
