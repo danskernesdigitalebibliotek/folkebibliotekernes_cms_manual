@@ -1,5 +1,5 @@
 ---
-title: "Bibliotekssiden"
+title: "Biblioteker"
 category: "Formidlingsinspiration"
 emneord:
 - "Formidlingsinspiration"
@@ -13,10 +13,10 @@ Et bibliotek kan bygges op af følgende:
 -	Et navigation grid til fx arrangementer (paragraph)
 -	Åbningstider (paragraph)
 
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/9d5a3888-14ef-46cb-b552-2d4c24a31333)
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/9d5a3888-14ef-46cb-b552-2d4c24a31333" alt="Eksempel på bibliotek" caption="Eksempel på bibliotek" %}
 
-Du kan linke til en ny samleside for alle biblioteker. Læs hvordan her: https://www.folkebibliotekernescms.dk/main/indhold/hovedmenu/ 
+Du kan lave link til en ny samleside for alle biblioteker fra hovedmenuen. Læs hvordan her: [https://www.folkebibliotekernescms.dk/main/indhold/hovedmenu/](https://www.folkebibliotekernescms.dk/main/indhold/hovedmenu/)
 
-![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/41abd0d6-c7b5-404e-9e06-f6be6f2d211a)
+{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/41abd0d6-c7b5-404e-9e06-f6be6f2d211a" alt="Eksempel på bibliotek" caption="Eksempel på bibliotek" %}
 
 
