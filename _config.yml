@@ -90,6 +90,9 @@ collections:
   bliv-klar-til-folkebibliotekernes-cms:
     output: true
     permalink: /:collection/:path/
+  inspiration:
+    output: true
+    permalink: /:collection/:path/
   release-notes:
     output: true
     permalink: /overblik/:collection/:path/
@@ -153,6 +156,19 @@ defaults:
   - scope:
       path: ""
       type: startopsaetning
+    values:
+      layout: single
+      classes: wide
+      toc: false
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar: true
+  # _inspiration
+  - scope:
+      path: ""
+      type: inspiration
     values:
       layout: single
       classes: wide
