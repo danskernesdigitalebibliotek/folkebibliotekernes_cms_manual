@@ -1,6 +1,6 @@
 ---
 title: "Inspiration til formidling"
-permalink: /inspiration/
+permalink: /formidlingsinspiration/
 ---
 Designsystemet bag Folkebibliotekernes CMS er opbygget af formidlingskomponenter (paragraphs), som kan bruges efter behov.  Vi har her samlet eksempler på opbygning af forskellige typer sider, som I kan lade jer inspirere af.
 
