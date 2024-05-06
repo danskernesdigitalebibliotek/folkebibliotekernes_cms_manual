@@ -33,7 +33,7 @@ feature_row:
     url: "/startopsaetning/"
   - image_path: /assets/images/inspiration.png
     alt: "Formidlingsinspiration i Folkebibliotekernes CMS"
-    title: "Formidlingsinspiration"
+    title: "Inspiration til formidling"
     excerpt: "Gode eksempler på sideopbygning og brug af formidlingskomponenterne."
     url: "/formidlingsinspiration/"
   - image_path: /assets/images/indholdsredaktion.jpg
