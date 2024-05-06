@@ -109,9 +109,9 @@ Inden I kan udfylde disse felter skal I have oprettet de to påkrævede [søge- 
 
 |Feltnavn|Værdi|
 |---|---|
-|Default profile|Navnet på jeres **søgeprofil** i VIP|
-|Search profile|Navnet på jeres **søgeprofil** i VIP|
-|Material profile|Navnet på jeres **visningsprofil** i VIP|
+|Standardprofil|Navnet på jeres **søgeprofil** i VIP|
+|Søgningsprofil|Navnet på jeres **søgeprofil** i VIP|
+|Visningsprofil|Navnet på jeres **visningsprofil** i VIP|
 
 
 
