@@ -46,6 +46,11 @@ feature_row:
     title: "Konfiguration"
     excerpt: "Beskrivelse af alle systemets konfigurationsmuligheder."
     url: "/konfiguration/"
+  - image_path: /assets/images/inspiration.png
+    alt: "Formidlingsinspiration i Folkebibliotekernes CMS"
+    title: "Formidlingsinspiration"
+    excerpt: "Gode eksempler på sideopbygning og brug af formidlingskomponenterne."
+    url: "/konfiguration/"
   - image_path: /assets/images/content.jpg
     alt: "Guidelines til god webkommunikation"
     title: "Guidelines til god webkommunikation"
