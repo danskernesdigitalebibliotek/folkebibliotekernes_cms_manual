@@ -15,7 +15,7 @@ Hvis I har rigtigt mange licenser, så kan I kan I bruge **Navigation grid**. Hu
 
 ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/9d290481-b5b6-4e69-b86f-d5c8fc490384)
 
-Fra den selvstændige side om tilbuddet kan du bruge paragraph Links til at linke til den konkrete licens. Læs mere om opsætning af proxy-URL: https://www.folkebibliotekernescms.dk/main/konfiguration/url-proxy-indstillinger/ 
+Fra den selvstændige side om tilbuddet kan du bruge paragraph Links til at linke til den konkrete licens. [Læs mere om opsætning af proxy-URL](https://www.folkebibliotekernescms.dk/main/konfiguration/url-proxy-indstillinger/)
 
 ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/acdaf752-799a-4c1a-b952-f2f70e371d0d)
 
