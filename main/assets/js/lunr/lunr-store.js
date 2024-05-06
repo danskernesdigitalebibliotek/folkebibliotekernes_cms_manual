@@ -89,9 +89,9 @@ var store = [{
         "url": "/main/category/faste-sider/",
         "teaser": null
       },{
-        "title": null,
+        "title": "Formidlingsinspiration",
         "excerpt":" ","categories": [],
-        "tags": null,
+        "tags": [],
         "url": "/main/category/formidlingsinspiration/",
         "teaser": null
       },{
