@@ -90,7 +90,7 @@ collections:
   bliv-klar-til-folkebibliotekernes-cms:
     output: true
     permalink: /:collection/:path/
-  inspiration:
+  formidlingsinspiration:
     output: true
     permalink: /:collection/:path/
   release-notes:
@@ -165,10 +165,10 @@ defaults:
       share: false
       comments: false
       sidebar: true
-  # _inspiration
+  # _formidlingsinspiration
   - scope:
       path: ""
-      type: inspiration
+      type: formidlingsinspiration
     values:
       layout: single
       classes: wide
