@@ -1,8 +1,8 @@
 ---
-title: "PR pakke"
-category: "Formidlingsinspiration"
-emneord:
-- "Formidlingsinspiration"
+permalink: /overblik/pr-pakke
+title:  "PR-pakke"
+sidebar: true
+nav: "overblik"
 ---
 Vi har lavet en lille pakke med materiale, I kan bruge i forbindelse med lanceringen af jeres nye hjemmeside.
 
