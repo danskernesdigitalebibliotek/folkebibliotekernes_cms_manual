@@ -17,6 +17,8 @@ header:
       url: "/overblik/release-notes/"
     - label: "Tilgængelighedserklæring"
       url: "/overblik/tilgaengelighedserklaering"
+    - label: "PR-pakke"
+      url: "/overblik/pr-pakke"
     - label: "Status på udvikling og fejlrettelser"
       url: "/overblik/status"
 
