@@ -23,16 +23,17 @@ I kan ændre nogle få ting i standard-temaet:
 
 2. Klik på **Indstillinger** for Novel temaet.
 
-3. Fold rubrikken **Logo billede** ud. {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/4f896db3-9388-40c5-989f-b2972bcf6aec" alt="Tilføj et nyt logo" caption="Tilføj et nyt logo" %}
+3. Fold rubrikken **Logo billede** ud.
+   {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/4f896db3-9388-40c5-989f-b2972bcf6aec" alt="Tilføj et nyt logo" caption="Tilføj et nyt logo" %}
 
-4. Afmarkér knappen med titlen **Use the logo supplied by the theme**.
+5. Afmarkér knappen med titlen **Use the logo supplied by the theme**.
 
-5. Klik på knappen **Vælg fil** og upload dit billede.
+6. Klik på knappen **Vælg fil** og upload dit billede.
 
-6. **Vigtigt!** Husk at udfylde felterne **Title** og **Place**. De bliver vist *i stedet* for logoet på små skærme. Title bliver vist med fed skrift og Place med normal skrift nedenunder. Title SKAL være udfyldt. Place er frivillig. Slet standardteksten i Place, så den er tom, hvis I ikke har indhold til feltet.
+7. **Vigtigt!** Husk at udfylde felterne **Title** og **Place**. De bliver vist *i stedet* for logoet på små skærme. Title bliver vist med fed skrift og Place med normal skrift nedenunder. Title SKAL være udfyldt. Place er frivillig. Slet standardteksten i Place, så den er tom, hvis I ikke har indhold til feltet.
    {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2125544f-ee50-4e54-9082-9f88a009c085" alt="På små skærme vises Title og Place i stedet for jeres logo" caption="På små skærme vises Title og Place i stedet for jeres logo" %}
 
-7. Klik på knappen **Gem indstillinger** i bunden af siden.
+8. Klik på knappen **Gem indstillinger** i bunden af siden.
 
 **Ændring af identitetsfarve**
 
