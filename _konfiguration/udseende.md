@@ -31,7 +31,8 @@ I kan ændre nogle få ting i standard-temaet:
 
 5. Klik på knappen **Vælg fil** og upload dit billede.
 
-6. **Vigtigt!** Husk at udfylde felterne **Title** og **Place**. De bliver vist *i stedet* for logoet på små skærme.
+6. **Vigtigt!** Husk at udfylde felterne **Title** og **Place**. De bliver vist *i stedet* for logoet på små skærme. Title bliver vist med fed skrift og Place med normal skrift nedenunder. Title SKAL være udfyldt. Place er frivillig. Slet standardtelsten i place
+   {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2125544f-ee50-4e54-9082-9f88a009c085" alt="På små skærme vises Title og Place i stedet for jeres logo" caption="På små skærme vises Title og Place i stedet for jeres logo" %}
 
 7. Klik på knappen **Gem indstillinger** i bunden af siden.
 
