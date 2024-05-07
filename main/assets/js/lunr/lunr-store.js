@@ -419,12 +419,6 @@ var store = [{
         "url": "/main/formidlingsinspiration/personalesiden/",
         "teaser": null
       },{
-        "title": "PR pakke",
-        "excerpt":"Vi har lavet en lille pakke med materiale, I kan bruge i forbindelse med lanceringen af jeres nye hjemmeside. Pakken indeholder blandt andet posters og en borgerrettet pjece, der beskriver de nye funktioner på hjemmesiden. Materialet er til fri afbenyttelse. Download PR-pakke.zip Materialet er udarbejdet af Ballerup Bibliotekernes grafiske designer,...","categories": ["Formidlingsinspiration"],
-        "tags": [],
-        "url": "/main/formidlingsinspiration/pr-pakke/",
-        "teaser": null
-      },{
         "title": "Arrangement",
         "excerpt":"Når du skal oprette et arrangement i FB CMS, skal du vælge Arrangement(er). Det gælder uanset om du vil oprette et enkeltstående arrangement eller en serie af arrangementer. Sådan opretter du et arrangement I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk) Klik på Tilføj indhold i øverste højre hjørne: Tilføj indhold Klik...","categories": ["Indholdstyper"],
         "tags": [],
