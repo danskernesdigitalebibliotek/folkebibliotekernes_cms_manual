@@ -17,6 +17,8 @@ overblik:
         url: "/overblik/release-notes"  
       - title: "Status på udvikling og fejlrettelser"
         url: "/overblik/status"  
+      - title: "PR-pakke"
+        url: "/overblik/pr-pakke"
       - title: "Hostingplaner"
         url: "https://detdigitalefolkebibliotek.dk/hostingplaner"
       - title: "Tilgængelighedserklæring"
