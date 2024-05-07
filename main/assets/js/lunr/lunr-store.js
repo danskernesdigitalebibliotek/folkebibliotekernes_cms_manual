@@ -402,7 +402,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Inspiration til formidling",
-        "excerpt":"Designsystemet bag Folkebibliotekernes CMS er opbygget af formidlingskomponenter (paragraphs), som kan bruges efter behov. Vi har her samlet eksempler på opbygning af forskellige typer sider, som I kan lade jer inspirere af. Der er mange formidlingskomponenter (paragraphs) at vælge imellem I er også meget velkomne til at kigge på pilotbibliotekernes...","categories": [],
+        "excerpt":"Designsystemet bag Folkebibliotekernes CMS er opbygget af formidlingskomponenter (paragraphs), som kan bruges efter behov. Vi har her samlet eksempler på opbygning af forskellige typer sider, som I kan lade jer inspirere af. Der er mange formidlingskomponenter (paragraphs) at vælge imellem I kan mere om paragraph komponenterne i guiden Opret indhold:...","categories": [],
         "tags": [],
         "url": "/main/formidlingsinspiration/",
         "teaser": null
