@@ -6,6 +6,9 @@ Designsystemet bag Folkebibliotekernes CMS er opbygget af formidlingskomponenter
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/28c94162-7ef8-455f-a385-dbfc79bd4301" alt="Der er mange formidlingskomponenter (paragraphs) at vælge imellem" caption="Der er mange formidlingskomponenter (paragraphs) at vælge imellem" %}
 
+I kan mere om paragraph komponenterne i guiden [Opret indhold: Paragraph komponenterne]({{ site.baseurl }}{% link _indhold/paragraphs-komponenter.md %}).
+{: .notice--primary}
+
 I er også meget velkomne til at kigge på pilotbibliotekernes nye hjemmesider og lade jer inspirere (de vil løbende komme i drift hen over maj måned): 
 
 **6. maj:**\
