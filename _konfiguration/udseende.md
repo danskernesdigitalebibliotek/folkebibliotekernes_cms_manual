@@ -19,19 +19,21 @@ I kan ændre nogle få ting i standard-temaet:
 
 **Ændring af logo**
 
-Klik på Udseende i toppen af siden.
+1. Klik på **Udseende** i toppen af siden.
 
-Klik på Indstillinger for Novel temaet.
+2. Klik på **Indstillinger** for Novel temaet.
 
-Fold rubrikken Logo billede ud. 
+3. Fold rubrikken Logo billede ud. 
 
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/4f896db3-9388-40c5-989f-b2972bcf6aec" alt="Tilføj et nyt logo" caption="Tilføj et nyt logo" %}
+  {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/4f896db3-9388-40c5-989f-b2972bcf6aec" alt="Tilføj et nyt logo" caption="Tilføj et nyt logo" %}
 
-Afmarkér knappen med titlen Use the logo supplied by the theme.
+4. Afmarkér knappen med titlen Use the logo supplied by the theme.
 
-Klik på knappen Vælg fil og upload dit billede - husk at udfylde felterene Title Place. Title er tekst, der vises på mindre skærme i stedet for logoet. Place teksten vises under logoet.
+5. Klik på knappen **Vælg fil** og upload dit billede.
 
-Klik på knappen Gem indstillinger i bunden af siden.
+6. **Vigtigt!** Husk at udfylde felterne **Title** og **Place**. De bliver vist *i stedet* for logoet på små skærme.
+
+7. Klik på knappen **Gem indstillinger** i bunden af siden.
 
 **Ændring af identitetsfarve**
 
