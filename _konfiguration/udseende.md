@@ -23,8 +23,7 @@ I kan ændre nogle få ting i standard-temaet:
 
 2. Klik på **Indstillinger** for Novel temaet.
 
-3. Fold rubrikken **Logo billede** ud. 
-  {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/4f896db3-9388-40c5-989f-b2972bcf6aec" alt="Tilføj et nyt logo" caption="Tilføj et nyt logo" %}
+3. Fold rubrikken **Logo billede** ud. {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/4f896db3-9388-40c5-989f-b2972bcf6aec" alt="Tilføj et nyt logo" caption="Tilføj et nyt logo" %}
 
 4. Afmarkér knappen med titlen **Use the logo supplied by the theme**.
 
@@ -39,15 +38,13 @@ I kan ændre nogle få ting i standard-temaet:
 
 Læs mere om [identitetsfarvens betydning](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/3identitetsfarve/) for sitet.
 
-Klik på Udseende i toppen af siden.
+1. Klik på **Udseende** i toppen af siden.
 
-Klik på Indstillinger for Novel temaet.
+2. Klik på **Indstillinger** for Novel temaet.
 
-Klik på Identity Color og vælg en identitetsfarve. Farven kan også vælges ved at indsætte RGB (red-green-blue) farvekode.
+3. Klik på **Identity Color** og vælg en identitetsfarve. Farven kan også vælges ved at indsætte RGB (red-green-blue) farvekode. {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/03cd2d76-43d6-48c7-ae83-ffd714ca352e" alt="Tilføj et ny identitetsfarve" caption="Tilføj et ny identitetsfarve" %}
 
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/03cd2d76-43d6-48c7-ae83-ffd714ca352e" alt="Tilføj et ny identitetsfarve" caption="Tilføj et ny identitetsfarve" %}
-
-Klik på knappen Gem indstillinger i bunden af siden.
+4. Klik på knappen **Gem indstillinger** i bunden af siden.
 
 **Ændring af favicon**
 
