@@ -420,7 +420,7 @@ var store = [{
         "teaser": null
       },{
         "title": "PR pakke",
-        "excerpt":"Vi har lavet en lille pakke med materiale, I kan bruge i forbindelse med lanceringen af jeres nye hjemmeside. Pakken indeholder blandt andet posters og en borgerrettet pjece, der beskriver de nye funktioner på hjemmesiden. Materialet er til fri afbenyttelse. Materialet er udarbejdet af Ballerup Bibliotekernes grafiske designer, Camilla Krogh...","categories": ["Formidlingsinspiration"],
+        "excerpt":"Vi har lavet en lille pakke med materiale, I kan bruge i forbindelse med lanceringen af jeres nye hjemmeside. Pakken indeholder blandt andet posters og en borgerrettet pjece, der beskriver de nye funktioner på hjemmesiden. Materialet er til fri afbenyttelse. Download PR-pakke.zip Materialet er udarbejdet af Ballerup Bibliotekernes grafiske designer,...","categories": ["Formidlingsinspiration"],
         "tags": [],
         "url": "/main/formidlingsinspiration/pr-pakke/",
         "teaser": null
