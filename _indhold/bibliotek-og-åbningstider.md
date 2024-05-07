@@ -19,6 +19,9 @@ Hvis man ønsker et bibliotek skal være øverst på listen af biblioteker, så 
 
 I **Paragraphs** kan man tilføje indhold, som man ønsker på bibliotekssiden fx en brødtekst, materialekarrusel etc. Her kan man også tilføje en visning af åbningstiderne.
 
+Du kan få inspiration til hvordan du kan opbygge komponenterne i guiden [Formidlingsinspiration]({{ site.baseurl }}{% link _formidlingsinspiration/bibliotekssiden.md %}).
+{: .notice--primary}
+
 ## Åbningstider
 
 ### Åbningstidskategorier
