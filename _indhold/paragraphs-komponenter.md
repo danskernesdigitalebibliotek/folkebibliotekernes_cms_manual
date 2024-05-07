@@ -1,5 +1,5 @@
 ---
-title: "Paragraphs Komponenterne"  
+title: "Paragraph komponenterne"  
 category: "Generelt"
 ---
 
