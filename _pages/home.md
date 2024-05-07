@@ -5,6 +5,8 @@ layout: splash
 header:
   overlay_image: /assets/images/splash.png
   actions:
+    - label: "Support og Servicedesk"
+      url: "/overblik/support"
     - label: "Onboarding FAQ"
       url: "/overblik/faq"
     - label: "Tidsplan"

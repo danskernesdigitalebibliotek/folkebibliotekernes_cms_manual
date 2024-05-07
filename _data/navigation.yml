@@ -7,6 +7,8 @@ main:
 overblik:
   - title: Overblik
     children:
+      - title: "Support og Servicedesk"
+        url: "/overblik/support"  
       - title: "Tidsplan"
         url: "/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf"
       - title: "Onboarding FAQ"
