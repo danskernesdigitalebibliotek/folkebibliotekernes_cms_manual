@@ -528,7 +528,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Side",
-        "excerpt":"Indholdstypen Side bruges til at oprette forsider og lignende samlende indgange til tilknyttet indhold på dit site. FB CMS benytter betegnelserne sektionsside og navigationsside, men det henviser blot til deres funktioner – der er ikke forskel på, hvordan man som udgangspunkt opretter dem. Du kan se eksempler på, hvordan sektions-...","categories": ["Indholdstyper"],
+        "excerpt":"Indholdstypen Side bruges til at oprette forsider og lignende samlende indgange til tilknyttet indhold på dit site. FB CMS benytter betegnelserne sektionsside og navigationsside, men det henviser blot til deres funktioner – der er ikke forskel på, hvordan man som udgangspunkt opretter dem. Du kan se eksempler på, hvordan du...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/main/indhold/side/",
         "teaser": null
