@@ -11,7 +11,7 @@ Sidst opdateret 08. maj 2024
 {: .notice--info}
 ***
  
-## Til dig der er ansvarlig for at opdatere tilgængelighedserklæringen
+## Til dig, der er ansvarlig for at opdatere tilgængelighedserklæringen
 
 Når I går i drift med Folkebibliotekernes CMS, skal I opdatere jeres tilgængelighedserklæring. Det er et lovkrav at tilgængelighedserklæringen ajourføres, når der sker ændringer på jeres site, som har betydning for de oplysninger, der står i tilgængelighedserklæringen. Som minimum skal den opdateres en gang om året.  [Læs mere om tilgængelighedserklæringen på digst.dk.](https://digst.dk/digital-inklusion/webtilgaengelighed/om-tilgaengelighedserklaeringen/)
 
