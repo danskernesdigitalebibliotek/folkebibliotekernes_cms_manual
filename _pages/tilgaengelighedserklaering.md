@@ -5,8 +5,12 @@ sidebar: true
 nav: "overblik"
 ---
 
-Her på siden kan du finde oplysninger om tilgængeligheden af Folkebibliotekernes CMS, og hvordan Det Digitale Folkebibliotek har arbejdet med tilgængelighed i løsningen. Det er oplysninger, du skal bruge i jeres lokale tilgængelighedserklæring. 
-
+**Hvad finder du på siden her**\
+ Her på siden kan du finde oplysninger om tilgængeligheden af Folkebibliotekernes CMS, og hvordan Det Digitale Folkebibliotek har arbejdet med tilgængelighed i løsningen. Det er oplysninger, du skal bruge i jeres lokale tilgængelighedserklæring.\
+**Sidst opdateret** 08. maj 2024
+{: .notice--info}
+***
+ 
 ## Til dig der er ansvarlig for at opdatere tilgængelighedserklæringen
 
 Når I går i drift med Folkebibliotekernes CMS, skal I opdatere jeres tilgængelighedserklæring. Det er et lovkrav at tilgængelighedserklæringen ajourføres når der sker ændringer på jeres site, som har betydning for de oplysninger, der står i tilgængelighedserklæringen. Som minimum skal den opdateres en gang om året.  [Læs mere om tilgængelighedserklæringen på digst.dk.](https://digst.dk/digital-inklusion/webtilgaengelighed/om-tilgaengelighedserklaeringen/)
