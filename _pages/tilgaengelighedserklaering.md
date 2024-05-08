@@ -5,8 +5,6 @@ sidebar: true
 nav: "overblik"
 ---
 
-# Tilgængelighedserklæring
-
 Her på siden kan du finde oplysninger om tilgængeligheden af Folkebibliotekernes CMS, og hvordan Det Digitale Folkebibliotek har arbejdet med tilgængelighed i løsningen. Det er oplysninger, du skal bruge i jeres lokale tilgængelighedserklæring. 
 
 ## Til dig der er ansvarlig for at opdatere tilgængelighedserklæringen
