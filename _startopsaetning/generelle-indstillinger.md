@@ -13,6 +13,7 @@ I skal i fællesskab løse denne opgave.
 
 ## 1. Generelle biblioteksindstillinger
 **Her indstiller du VIP-profil, blacklistede filialer, SMS-notifikation til/fra, interesseperiode**
+- I skal have gennemgået denne vejledning før at I kan starte: [søge- og visningsprofiler i VIP]({{ site.baseurl }}{% link _bliv-klar-til-folkebibliotekernes-cms/10vip-profiler.md %}).
 - Log ind som lokaladmin på jeres nye hjemmeside
 - Åbn siden med **Generelle biblioteksindstillinger**. Den ligger her: Indstillinger > Biblioteksindstillinger > Generelle indstillinger
 - Gennemgå og udfyld alle felter. Du kan finde hjælp til alle felter på [manualsiden om de Generelle biblioteksindstillinger](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/konfiguration/generelle-indstillinger/).
