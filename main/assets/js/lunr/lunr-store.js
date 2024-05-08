@@ -749,7 +749,7 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-17-0/",
         "teaser": null
       },{
-        "title": "Release Notes 2024.11.0",
+        "title": "Release Notes 2024.18.3",
         "excerpt":"Bedre og mere logisk grænseflade til at oprette og administrere gentagne arrangementer, overblik for slutbrugerne over arrangementer i samme serie og forfatternavn på artikler Nye features Arrangementer: Hvis et arrangement er en del af en serie, vises henvisninger til kommende arrangementer i serien på arrangementet. Midlertidigt vises de på samme...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-18-3/",
