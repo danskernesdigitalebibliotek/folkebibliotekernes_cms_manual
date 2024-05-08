@@ -35,7 +35,7 @@ weight: 996
 
 - Sprogindstillinger for administrative brugere er default dansk. 
 
-- Mobilvisning: Der er nu begrænsning på hvor meget man kan zoome ud på siden. 
+- Mobilvisning: Der er nu begrænsning på, hvor meget man kan zoome ud på siden. 
 
 - Arrangement: Daglige og årlige tilbagevendende begivenheder er fjernet, da de kan oprettes med andre gentagelsestyper. 
 
