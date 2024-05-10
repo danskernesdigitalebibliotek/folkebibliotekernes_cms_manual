@@ -1,6 +1,6 @@
 ---
 title: "Opsæt proxy URL'er"
-click-path: "Indstillinger > Web-services > Opsæt proxy URL'er"
+click-path: "Indstillinger > Biblioteksindstillinger > Proxyindstillinger"
 category: "Konfiguration"
 emneord: 
 - "Fjernadgang"
