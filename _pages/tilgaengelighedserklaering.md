@@ -17,7 +17,7 @@ Når I går i drift med Folkebibliotekernes CMS, skal tilgængelighedserklæring
 
 I skrivende stund (maj 2024) udvikles og releases der stadig med høj frekvens på Folkebibliotekernes CMS. Både reel nyudvikling og fejlrettelser, som vedrører tilgængeligheden af løsningen. Teksten her vil blive opdateret, når der sker ændringer i hjemmesidesystemet, der har betydning for tilgængelighedserklæringen. 
 
-I toppen af siden kan du se, hvornår teksten senest er opdateret. Vi vil anbefale, at du en gang om måneden i det først halve år efter lanceringen af jeres site, tjekker om der er opdateringer til teksten og opdaterer den lokale tilgængelighedserklæring hvis nødvendigt. 
+I toppen af siden kan du se, hvornår teksten senest er opdateret. Vi vil anbefale, at du en gang om måneden i det først halve år efter lanceringen af jeres site, tjekker om der er ændringer til teksten og opdaterer den lokale tilgængelighedserklæring hvis nødvendigt. 
 
 ## Hvem har ansvaret for hvad? 
 
