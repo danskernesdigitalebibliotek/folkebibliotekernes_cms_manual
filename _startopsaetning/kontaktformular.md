@@ -29,7 +29,7 @@ For at gøre det, så trykker I på **Rediger** ud for den kategori, som skal ha
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/7dab3d81-8cff-4abb-bdd9-32e5d9f7ffa8" alt="Ret email" caption="Ret email" %}
 
-## 2. Ret de teksten i bekræftelsesbeskederne
+## 2. Ret teksten i bekræftelsesbeskederne
 
 ### 2.1 Bekræftelsesbesked på hjemmesiden
 Først skal I rette den besked, som brugerne modtager på hjemmesiden efter at have udfyldt en henvendelse i kontaktformularen.
@@ -59,7 +59,7 @@ Dette kunne være "Tak for din besked. Vi besvarer din mail indenfor X dage."
 
 Tryk på **Gem**
 
-### 2.2 Bekræftelsesbesked i emails
+### 2.2 Bekræftelsesmails
 Herefter skal I rette teksten til bekræftelses-emailen, som borgeren modtager.
 
 Hvis I ikke har fulgt opgave **2.1 Bekræftelsesbesked på hjemmesiden** i denne, så skal I følge den opgave til og med "Tryk på **Indstillinger**" og så komme tilbage til denne opgave.
