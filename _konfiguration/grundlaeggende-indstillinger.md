@@ -18,7 +18,7 @@ Skriv bibliotekets officielle navn her. Det vises ikke direkte på hjemmesiden, 
 ## E-mail-adresse
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/9a8eb057-2427-4eeb-8d88-3b9f69dda717" alt="Bibliotekets officielle e-mail adresse" caption="Bibliotekets officielle e-mail adresse" %}
 
-Skriv bibliotekts officielle email adresse her. Anvendes som afsender email adresse på mails sendt fra websitet. Påkrævet felt.
+Må ikke ændres. Påkrævet felt.
 
 ## Forside
 Den relative url på den side, som I vil bruge som forside. I Folkebibliotekernes CMS kan enhver side bruges som forside.
