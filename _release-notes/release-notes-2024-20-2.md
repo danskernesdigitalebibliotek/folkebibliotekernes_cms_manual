@@ -1,5 +1,5 @@
 ---
-title:  "Release Notes 2024.20.1"
+title:  "Release Notes 2024.20.2"
 category: "Release Notes"
 weight: 995
 ---
