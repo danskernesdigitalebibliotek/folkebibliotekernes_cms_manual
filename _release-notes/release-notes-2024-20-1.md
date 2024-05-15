@@ -4,7 +4,7 @@ category: "Release Notes"
 weight: 995
 ---
 
-# Række af gentagne åbningstider kan nu slettes på en gang, API til redaktionelt indhold tilgængelig og bibliotekslogo linker også til forsiden på mobilvisningen. 
+# Række af gentagne åbningstider kan nu slettes på en gang, API til redaktionelt indhold tilgængelig og bibliotekslogo linker på mobilvisningen også til forsiden. 
 
 ## Nye features
 
