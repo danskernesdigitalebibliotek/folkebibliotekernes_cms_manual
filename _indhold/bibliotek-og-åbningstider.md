@@ -3,6 +3,7 @@ title: "Bibliotek og åbningstider"
 category: "Indholdstyper"
 emneord:
 - "Åbningstider"
+- "Biblioteket App"
 ---
 
 ## Opret biblioteker
