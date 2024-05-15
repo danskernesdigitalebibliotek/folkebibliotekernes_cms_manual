@@ -8,7 +8,7 @@ emneord:
 ---
 
 Hvis du er i gang med at opsætte Folkebibliotekernes CMS for første gang, så følg startopgave 7: [Fjernadgang - Proxyindstillinger]({{ site.baseurl }}{% link _startopsaetning/proxyindstillinger.md %})
-{: .notice--info}
+{: .notice--primary}
 
 I topmenuen klik på **{{ page.click-path }}**
 
