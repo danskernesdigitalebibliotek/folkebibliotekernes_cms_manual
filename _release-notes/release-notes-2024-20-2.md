@@ -8,7 +8,7 @@ weight: 995
 
 ## Nye features
 
-- Paragraph Brødtekst: Bedre formatering af elementet lister i slutbrugervisningen. 
+- Paragraph Brødtekst: Bedre formatering af elementet lister (<ul> <ol>)  i slutbrugervisningen. 
 
 - Paragraph: Bedre standardoplistning af paragraphs til redaktørerne med mulighed for at filtrere på prædefinerede kategorier for de forskellige typer af paragraphs. 
 
