@@ -5,7 +5,7 @@ weight: 7
 emneord:
   - Elektroniske ressourcer
 ---
-
+test
 Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til.
 
 Det foregår på samme måde i DDB CMS, så du kan kopiere jeres indstillinger herfra.
