@@ -40,12 +40,6 @@ Eller åbn via URL: https://mit-domænenavn.dk/admin/config/dpl-library-agency/p
 6. Udfyld med den relative URL på den nye side. (den del der ligger efter domænenavnet)
    {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/172c1528-0518-48b4-ab07-131b15bebb71" alt="Indæt her" caption="Indsæt her" %} 
 
-
-
-
-### Sådan ændrer du linket i footerens servicemenu
-Pt. er linket i servicemenuen hardcodet og kan ikke ændres. XX
-
 ## Privatlivspolitik standardteksten
 Har du mistet standardteksten, så er den her:
 [Standardteksten til siden Privatlivspolitik](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/privatlivspolitik-standardtekst/)
