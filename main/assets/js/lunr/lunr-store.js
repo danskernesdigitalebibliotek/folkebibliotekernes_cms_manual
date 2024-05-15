@@ -480,7 +480,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Footermenu og servicemenu",
-        "excerpt":"Footermenuen består af to dele 1. selve footmenuen og 2. en servicemenu, hvor I kan indsætte links til fx tilgængelighedserklæring, privatlivspolitik etc. og indsættte links til jeres sociale medie kanaler. Footermenu I topmenuen klik på Indhold &gt; Footer settings eller brug adressen https://mit-domænenavn.dk/admin/structure/footer (udskift mit-domænenavn.dk) Vælg Indhold og herefter Footer...","categories": ["Navigation"],
+        "excerpt":"Footermenuen består af to dele 1. selve footmenuen og 2. en servicemenu, hvor I kan indsætte links til fx tilgængelighedserklæring, privatlivspolitik etc. og indsættte links til jeres sociale medie kanaler. Footermenu I topmenuen klik på Indhold &gt; Footerindstillinger eller brug adressen https://mit-domænenavn.dk/admin/structure/footer (udskift mit-domænenavn.dk) Vælg Indhold og herefter Footerindstillinger i...","categories": ["Navigation"],
         "tags": [],
         "url": "/main/indhold/footermenu/",
         "teaser": null
@@ -522,7 +522,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Privatlivspolitik",
-        "excerpt":"Privatlivspolitik er en oplysningsside om behandling af personoplysninger. Det er et lovkrav at have en privatlivspolitik på hjemmesiden. Der link til privatlivspolitik to steder i Folkebibliotekernes CMS: Fra servicemenuen i footeren under “Behandling af persondata”. (Denne er på nuværende tidspunkt hardcoded, hvilket rettes i kommende release. Det ønskes at titlen...","categories": ["Faste sider"],
+        "excerpt":"Privatlivspolitik er en oplysningsside om behandling af personoplysninger. Det er et lovkrav at have en privatlivspolitik på hjemmesiden og at linke til den fra forsiden. Vi anbefaler, at I oprette et link til privatlivspolitikken i servicemenuen, der er en del af footeren, og som vises i bunden af alle sider....","categories": ["Faste sider"],
         "tags": [],
         "url": "/main/indhold/privatlivspolitik/",
         "teaser": null
@@ -648,7 +648,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opsæt proxy URL'er",
-        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Proxyindstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn/admin/config/services/dpl-url-proxy Om proxy URL’er Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til. Udbyderne af elektroniske ressourcer tilbyder som regel kun...","categories": ["Konfiguration"],
+        "excerpt":"Hvis du er i gang med at opsætte Folkebibliotekernes CMS for første gang, så følg startopgave 7: Fjernadgang - Proxyindstillinger I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Proxyindstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn/admin/config/services/dpl-url-proxy Om proxy URL’er Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/main/konfiguration/url-proxy-indstillinger/",
         "teaser": null
@@ -735,6 +735,12 @@ var store = [{
         "excerpt":"Hold dig ajour med de ændringer der sker i Folkebibliotekernes CMS. Release Notes publiseres forud for opdateringen. Se hvilken release i er på Når du er logget ind, så kan du se hvilken release, som jeres side er på øverst til venstre i menubaren. Se hvilken release jeres side er...","categories": [],
         "tags": [],
         "url": "/main/overblik/release-notes/",
+        "teaser": null
+      },{
+        "title": "Release Notes 2024.20.1",
+        "excerpt":"Række af gentagne åbningstider kan nu slettes på en gang, API til redaktionelt indhold tilgængeligt og bibliotekslogo linker også til forsiden på mobilvisningen. Nye features Paragraph Brødtekst: Bedre formatering af lister i slutbrugervisningen. Paragraph: Bedre standardoplistning af paragraphs til redaktørerne med mulighed for at filtrere på prædefinerede kategorier for de...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-note-2024-20-1/",
         "teaser": null
       },{
         "title": "Release Notes 2024.11.0",
