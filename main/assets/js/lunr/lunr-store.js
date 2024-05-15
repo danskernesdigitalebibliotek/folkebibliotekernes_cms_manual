@@ -185,6 +185,12 @@ var store = [{
         "url": "/main/category/web-services/",
         "teaser": null
       },{
+        "title": "Åbningstider",
+        "excerpt":"Åbningstider  ","categories": [],
+        "tags": [],
+        "url": "/main/overblik/emneord/aabningstider/",
+        "teaser": null
+      },{
         "title": "Adgangsplatformen",
         "excerpt":" ","categories": [],
         "tags": [],
