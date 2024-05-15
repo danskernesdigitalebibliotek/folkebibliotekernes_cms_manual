@@ -5,15 +5,11 @@ emneord:
 - "Faste sider"
 ---
 
-**Privatlivspolitik** er en oplysningsside om behandling af personoplysninger. Det er et lovkrav at have en privatlivspolitik på hjemmesiden.
+**Privatlivspolitik** er en oplysningsside om behandling af personoplysninger. Det er et lovkrav at have en privatlivspolitik på hjemmesiden og at linke til den fra forsiden.
 
-Der link til privatlivspolitik to steder i Folkebibliotekernes CMS:
+Vi anbefaler, at I oprette et link til privatlivspolitikken i [servicemenuen](https://www.folkebibliotekernescms.dk/main/indhold/footermenu/#servicemenuen-og-links-til-sociale-medier), der er en del af footeren, og som vises i bunden af alle sider. Det link skal I selv oprette.
 
-- Fra servicemenuen i footeren under “Behandling af persondata”. (Denne er på nuværende tidspunkt hardcoded, hvilket rettes i kommende release. Det ønskes at titlen på linket skal være “Privatlivspolitik” så det matcher “Privatlivspolitik” siden. XX)
-
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c166ec9c-d227-4070-bd76-0c30305ceaed" alt="Der er link til privatlivspolitik fra servicemenuen i footeren" caption="Der er link til privatlivspolitik fra servicemenuen i footeren" %} 
-
-- Fra bunden af brugerprofilen (/user/me), hvor linket hedder "Sådan sletter du din brugerprofil".
+Der linkes desuden til privatlivspolitik fra bunden af brugerprofilen (/user/me), hvor linket hedder "Sådan sletter du din brugerprofil".
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d5250e9e-20c7-495f-9946-6056a9950067" alt="Der er link til privatlivspolitik fra bunden af brugerprofilen" caption="Der er link til privatlivspolitik fra bunden af brugerprofilen" %} 
 
