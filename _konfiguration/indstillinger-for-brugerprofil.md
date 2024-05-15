@@ -30,7 +30,7 @@ Her skal indsættes et link til eReolens titler, som altid er tilgængelige. Det
 
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/7a124bee-2617-4070-ad91-6c56d96d91cb" alt="Vises som et link på brugerprofilen" caption="Vises som et link på brugerprofilen" %}
 
-Som standard er feltet tomt. Vi anbefaler, at I indsætte linket: https://ereolen.dk/content/boeger-du-altid-kan-laane
+Som standard er feltet tomt. Vi anbefaler, at I indsætte linket: `https://ereolen.dk/content/boeger-du-altid-kan-laane`
 
 |Feltnavn|Anbefalet værdi|
 |---|---|
