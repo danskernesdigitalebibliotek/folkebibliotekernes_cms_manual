@@ -761,10 +761,10 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-18-3/",
         "teaser": null
       },{
-        "title": "Release Notes 2024.20.1",
+        "title": "Release Notes 2024.20.2",
         "excerpt":"Række af gentagne åbningstider kan nu slettes på en gang, API til redaktionelt indhold tilgængelig og bibliotekslogo linker på mobilvisningen også til forsiden. Nye features Paragraph Brødtekst: Bedre formatering af lister i slutbrugervisningen. Paragraph: Bedre standardoplistning af paragraphs til redaktørerne med mulighed for at filtrere på prædefinerede kategorier for de...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2024-20-1/",
+        "url": "/main/overblik/release-notes/release-notes-2024-20-2/",
         "teaser": null
       },{
         "title": "Release Notes 220324",
