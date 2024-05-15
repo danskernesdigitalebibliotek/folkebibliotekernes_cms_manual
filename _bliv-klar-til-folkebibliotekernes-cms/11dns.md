@@ -17,11 +17,11 @@ Sådan gør du:
 5. Kontakt den person eller afdeling hos kommunen som er ansvarlig for jeres hjemmesides tekniske drift og har adgang til Gigahost.dk (spørg efter en som kender alt til A-records, MX-records, CNAME m.v.)
 6. Med DDF aftales hvilken dato og tidspunkt, I går live. Det skal være en onsdag. Opret en sag i Jira, hvor I skriver, hvilken onsdag I gerne vil gå live.
 7. Før golive dagen:\
-   a. Jeres DNS-udbyder kan sænke TTL (time-to-live) på jeres domæne for at sikre en hurtig overgang
+   a. I bør bede jeres leverandør om at sænke TTL (time-to-live) på jeres domæne for at sikre en hurtig overgang. Ellers kan der gå flere timer, før alle ser den nye side.
 9. På golive dagen:\
    a. DNS for jeres domæner skal ændres til at pege på følgende IP-adresse: **20.86.109.250**
 10. Efter golive:\
-   a. Jeres DNS udbyder kan med fordel hæve TTL på jeres domæner igen
+   a. I skal bede jeres DNS udbyder om at hæve TTL på jeres domæner igen.
 13. Bed den teknisk ansvarlige om at teste, at alle dele af den nye opsætning fungerer: e-mail, domæne omdirigeringer, certifikater m.m.
 
 **Bemærk!** SSL certifikater skal I ikke selv stå for. De provisioneres vha. Lets Encrypt af Reload.
