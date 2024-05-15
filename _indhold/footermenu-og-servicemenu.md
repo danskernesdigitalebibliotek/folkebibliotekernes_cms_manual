@@ -10,9 +10,9 @@ Footermenuen består af to dele 1. selve footmenuen og 2. en servicemenu, hvor I
 
 ## Footermenu
 
-I topmenuen klik på **Indhold > Footer settings** eller brug adressen `https://mit-domænenavn.dk/admin/structure/footer` (udskift mit-domænenavn.dk)
+I topmenuen klik på **Indhold > Footerindstillinger** eller brug adressen `https://mit-domænenavn.dk/admin/structure/footer` (udskift mit-domænenavn.dk)
 
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/1e8f12c1-8e88-4bd1-8032-c494199f7c2f" alt="Vælg Indhold og herefter Footer Settings i topmeuen" caption="Vælg Indhold og herefter Footer Settings i topmeue" %}
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/1e8f12c1-8e88-4bd1-8032-c494199f7c2f" alt="Vælg Indhold og herefter Footerindstillinger i topmenuen" caption="Vælg Indhold og herefter Footerindstillinger i topmenuen" %}
 
 Hver kolonne i footeren udfyldes med sin egen rubrik, der indeholder felterne Navn og Indhold. **Navn** er overskriften på kolonnen og **Indhold** er den information, som skal fremgå af kolonnen. 
 
@@ -38,7 +38,7 @@ I bunden af siden er en servicemenu, hvor I kan indsætte links til fx tilgænge
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/884f6b8f-42b9-47f0-9421-bed128fe1536" alt="Eksempel på en servicemenu" caption="Eksempel på en servicemenu" %}
 
-Man finder konfiguration af servicemenuen i bunden af konfigurationen til footermenuen (I topmenuen klik på **Indhold > Footer settings** eller brug adressen `https://mit-domænenavn.dk/admin/structure/footer` (udskift mit-domænenavn.dk))
+Man finder konfiguration af servicemenuen i bunden af konfigurationen til footermenuen (I topmenuen klik på **Indhold > Footerindstillinger** eller brug adressen `https://mit-domænenavn.dk/admin/structure/footer` (udskift mit-domænenavn.dk))
 
 Hvis der skal oprettes et serivcelinkn, så udfyld følgende under **Servicemenu** 
 
