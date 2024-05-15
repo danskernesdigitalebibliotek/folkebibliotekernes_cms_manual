@@ -51,7 +51,7 @@ Dette gøres når man redigere eller opretter et bibliotek ved at tilføje en Pa
 ## Åbningstider i Biblioteket Appen 
 Lige nu sker der ikke automatisk overførsel af åbningstider fra CMS til Biblioteket appen. 
 
-Hvis I vil have åbningstider vist i appen, må I indtaste dem manuelt i Redias backend-system for biblioteker: [https://biblioteket.redia.dk/](https://biblioteket.redia.dk/). 
+Hvis I vil have åbningstider vist i appen, må I indtaste dem manuelt i Redias backend-system for biblioteker: [https://biblioteket.redia.dk/](https://biblioteket.redia.dk/){:target="_blank"}. 
 
-Læs Redias vejledning om at oprette åbningstider: [https://support.redia.dk/fanen-%C3%A5bningstider-og-kontaktoplysninger](https://support.redia.dk/fanen-%C3%A5bningstider-og-kontaktoplysninger)
+Læs Redias vejledning om at oprette åbningstider: [https://support.redia.dk/fanen-%C3%A5bningstider-og-kontaktoplysninger](https://support.redia.dk/fanen-%C3%A5bningstider-og-kontaktoplysninger){:target="_blank"}.
 
