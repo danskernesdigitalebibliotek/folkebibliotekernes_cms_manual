@@ -18,13 +18,14 @@ Standardteksten må gerne tilrettes:
 
 Er du kommet til at slette siden Velkommen, kan du oprette en ny side, og få de indbyggede links til at pege på den.
 
-1. Opret en ny side, der skal erstatte den faste side Velkommen. Læg mærke til sidens URL. Den kan du se i browserens adresselinje. Det er den sidste del der er interessant. Den hedder noget med **node/xxx**. (xxx er et tal)
+1. Opret en ny side, der skal erstatte den faste side Velkommen. Læg mærke til sidens URL. Den kan du se i browserens adresselinje. Det er den sidste del der er interessant.
 2. Nu skal du registerer den nye sides URL i indstillinger for websiden. Log ind med en bruger, der har rollen **Lokal administrator**.
 3. I topmenuen klik på **Indstillinger > Biblioteksindstillinger > Brugeroprettelse**\
 Eller åbn via URL: https://mit-domænenavn.dk/admin/config/people/registration (udskift mit-domænenavn.dk)
 4. På siden **Brugeroprettelse** find feltet **Side som låner omdirigeres til ved oprettelse**
-5. Udfyld med den relative URL på den nyoprettede side. Dvs. `node/xxx`, hvor xxx er et tal.
+5. Udfyld med den relative URL på den nyoprettede side. 
 
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/69bc79be-20e9-42a6-a10f-18cb52aff1b7" alt="Læg mærke til den nye sides URL" caption="Læg mærke til den nye sides URL." %} 
+{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ed09a02f-4405-4053-996f-f224a0cd8de5" alt="Læg mærke til den nye sides URL" caption="Læg mærke til den nye sides URL." %} 
+
 
 
