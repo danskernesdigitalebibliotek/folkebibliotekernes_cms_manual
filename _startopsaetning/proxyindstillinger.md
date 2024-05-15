@@ -22,6 +22,13 @@ Eller åbn via direkte link (udskift mit-domænenavn.dk):\
 
 **Bemærk!** Replacement skal foldes ud, før man kan se, om der er indhold i. De fleste kilder har en tom Replacement, men der er undtagelser. F. eks. Ebook Central. Det er meget vigtigt, at få replacement med, hvis den er der.
 
+**Bemærk!** Det er ikke alle licenser der kræver et Hostname / Værtsnavn. Der kan sagtens ligge flere hostnavne til samme udbyder f.eks. gale, som har tre forskellige hvis man har flere licenser fra dem. Der kan også være flere hostnavne end I har licenser i dag - disse behøver I ikke at kopiere over.
+
+Få inspiration til e-materiale side visninger her:
+
+https://www.herlevbibliotek.dk/digitale-tilbud
+https://nginx.main.kobenhavn.dplplat01.dpl.reload.dk/medier
+
 ## Indsæt proxy indstillinger i Folkebibliotekernes CMS
 
 Proxy-indstillinger indsættes som beskrevet i vejledningen herunder. Det er præcis samme fremgangsmåde som i DDB CMS.
