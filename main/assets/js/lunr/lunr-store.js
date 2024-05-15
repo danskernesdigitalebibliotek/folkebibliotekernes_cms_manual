@@ -479,7 +479,7 @@ var store = [{
         "url": "/main/indhold/faste-sider/",
         "teaser": null
       },{
-        "title": "Footermenu",
+        "title": "Footermenu og servicemenu",
         "excerpt":"Footermenuen består af to dele 1. selve footmenuen og 2. en servicemenu, hvor I kan indsætte links til fx tilgængelighedserklæring, privatlivspolitik etc. og indsættte links til jeres sociale medie kanaler. Footermenu I topmenuen klik på Indhold &gt; Footer settings eller brug adressen https://mit-domænenavn.dk/admin/structure/footer (udskift mit-domænenavn.dk) Vælg Indhold og herefter Footer...","categories": ["Navigation"],
         "tags": [],
         "url": "/main/indhold/footermenu/",
