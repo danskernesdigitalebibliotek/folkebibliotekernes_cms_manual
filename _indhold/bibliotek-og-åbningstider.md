@@ -2,7 +2,7 @@
 title: "Bibliotek og åbningstider"
 category: "Indholdstyper"
 emneord:
-- "X Mangler tekst"
+- "Åbningstider"
 ---
 
 ## Opret biblioteker
@@ -46,3 +46,10 @@ Her kan I tilføje, redigere og slette åbningstider.
 
 ### Vis åbningstider på et bibliotek
 Dette gøres når man redigere eller opretter et bibliotek ved at tilføje en Paragraph. Læs mere i afsnittet **Opret biblioteker** i starten af denne guiden.
+
+## Åbningstider i Biblioteket Appen 
+Lige nu sker der ikke automatisk overførsel af åbningstider fra CMS til Biblioteket appen. 
+
+Hvis I vil have åbningstider vist i appen, må I indtaste dem manuelt i Redias backend-system for biblioteker: [https://biblioteket.redia.dk/](https://biblioteket.redia.dk/). \
+Læs Redias vejledning om at oprette åbningstider: [https://support.redia.dk/fanen-%C3%A5bningstider-og-kontaktoplysninger](https://support.redia.dk/fanen-%C3%A5bningstider-og-kontaktoplysninger)
+
