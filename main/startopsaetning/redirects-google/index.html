@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2024-05-17T11:47:51+00:00">
+  <meta property="article:published_time" content="2024-05-17T12:15:52+00:00">
 
 
 
@@ -280,7 +280,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Opgave 12: Redirects fra søgning på Google">
     <meta itemprop="description" content="Jeres nye website er ikke identisk med det gamle. I har højst sandsyneligt omstrukturetet nogle ting. Oprettet nyt indhold, fjernet noget gammelt og flyttet rundt med ting.">
-    <meta itemprop="datePublished" content="2024-05-17T11:47:51+00:00">
+    <meta itemprop="datePublished" content="2024-05-17T12:15:52+00:00">
     
 
     <div class="page__inner-wrap">
@@ -323,10 +323,10 @@
 <ol>
   <li>I skal starte med at lave en søgning i Google. Søg på navnet på jeres bibliotek.</li>
   <li>
-    <p>Google viser et søgeresultat med nogle links, der peger ind på jeres hjemmeside. Hold musen henover hvert af disse links og læg mærke til den URL, der peges på.</p>
+    <p>Google viser et søgeresultat med nogle links, der peger ind på jeres hjemmeside. Hold musen henover hvert af disse links og læg mærke til den URL, der peges på.
+<img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3e26f6ed-4931-4aa8-8ff0-3b1c37685226" alt="image" /></p>
   </li>
-  <li>Sæt linknavn og URL ind i et dokument, så I kan arbejde videre med det.
-F. eks.</li>
+  <li>Sæt linknavn og URL ind i et dokument, så I kan arbejde videre med det. F. eks.</li>
 </ol>
 
 <table>
@@ -352,17 +352,30 @@ F. eks.</li>
   </tbody>
 </table>
 
-<h2 id="opret-redirect-for-hvert-link">Opret redirect for hvert link</h2>
-<p>Når I har et overblik over hvilke URLer, der peges på fra Googles søgeresultater, skal der oprettes et redirect for hver af dem.</p>
+<h2 id="opret-omdirigering-for-links-der-ikke-virker">Opret omdirigering for links, der ikke virker</h2>
+<p>Nu har I har et overblik over hvilke URLer, der er linkes til fra Googles søgeresultater. De links skal helst fungere på jeres nye hjemmeside.</p>
+<ol>
+  <li>Afprøv om de virker på jeres staging-site, ved at sætte stien ind bag staging-domænenavnet. F. eks. <code class="language-plaintext highlighter-rouge">https://nginx.main.sonderborg.dplplat01.dpl.reload.dk/biblioteker</code>
+(Vi kan røbe at <code class="language-plaintext highlighter-rouge">/biblioteker</code> virker :-))</li>
+  <li>De links der ikke virker, skal der oprettes en omdirigering på.</li>
+  <li>Find ud af hvilken side på det nye website, som I ønsker at linket skal pege på. (Det kan faktisk være svært, hvis linket peger på indhold, som ikke er medtaget på det nye website. I så fald må I omdirigtrere til noget, der ligner lidt.)</li>
+  <li>I hovedmenuen på jeres nye website vælg <strong>Omdirigeringer</strong> og tryk på den blå knap <strong>Tilføj omdirigering</strong>
+<img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/47bdf0e6-bec7-4328-bf3d-1ef7b624e904" alt="image" /></li>
+  <li>Tast URL fra den gamle hjemmeside i feltet <strong>Sti</strong><br />
+Tast URL på den nye hjemmeside i feltet <strong>Til</strong>
+<img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/a53d88db-95bd-4e8e-9b38-819c97c70fd9" alt="image" /></li>
+  <li>
+    <p>Husk at trykke <strong>Gem</strong> nederst.</p>
 
-<p>F. eks. “Netmedier” 
+    <p>F. eks. “Netmedier” 
 Det gør I ved at oprette URL omdirigeringer der fanger de gamle URLer og peger dem Nogle sider har i bibeholdt, men deebsider der opstår og websider der forsvinder. Der er også websider</p>
+  </li>
+</ol>
 
 <p>Vi skal have sat noget ind i manualen (vel Url-omdirigeringer og omdøbninger - Folkebibliotekernes CMS) om at man bør gennemgå de links der går fra søgemaskiner til siden, og sikre at de er oprettet som redirects. Noget ala:</p>
 
 <p>Vi anbefaler at man laver en søgning via Google på ens bibliotek, og prøver de links der dukker frem. Hvis man ikke har redirected disse til de rigtige nye sider, vil det påvirke brugernes oplevelse.</p>
 
-<p><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3e26f6ed-4931-4aa8-8ff0-3b1c37685226" alt="image" /></p>
 
         
       </section>
@@ -374,7 +387,7 @@ Det gør I ved at oprette URL omdirigeringer der fanger de gamle URLer og peger 
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-05-17T11:47:51+00:00">May 17, 2024</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-05-17T12:15:52+00:00">May 17, 2024</time></p>
 
       </footer>
 
