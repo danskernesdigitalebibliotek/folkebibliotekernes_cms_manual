@@ -1,6 +1,6 @@
 ---
 title: "Opgave 12: Redirects fra søgning på Google"
-weight: 1
+weight: 12
 category: "Startopsætning"
 emneord:
   - "URL omdirigeringer"
