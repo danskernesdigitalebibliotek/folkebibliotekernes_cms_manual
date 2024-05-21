@@ -12,7 +12,7 @@ I skal finde ud af, hvem der står for jeres DNS-opsætning, og sikre jer at I h
 Sådan gør du:
 1.	Gå til: [https://who.is/](https://who.is/) og indtast jeres nuværende domænenavn f.eks. *albertslundbibliotek.dk*
 2.	Vælg punktet **DNS record**:
-   {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d58f2bb4-308b-4434-b9af-b1d0a83877a7" alt="Slå op på https://who.is og find ud af hvem der hoster jeres DNS-opsætning" caption="Slå op på https://who.is og find ud af hvem der hoster jeres DNS-opsætning" %} 
+   {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d58f2bb4-308b-4434-b9af-b1d0a83877a7" alt="Slå op på https://who.is og find ud af hvem der hoster jeres DNS-opsætning" caption="Slå op på https://who.is og find ud af hvem der hoster jeres DNS-opsætning" %}
 3. I dette tilfælde kan du se at udbyderen Gigahost.dk er ansvarlig for DNS opsætningen (andre eksempler er drabib.dk som anvender eurodns.com, bibliotek.kk.dk anvender One.com og bronderslevbib.dk anvender både DBC og KMD).
 4. Kontakt den person eller afdeling hos kommunen som er ansvarlig for jeres hjemmesides tekniske drift og har adgang til Gigahost.dk (spørg efter en som kender alt til A-records, MX-records, CNAME m.v.)
 5. Med DDF aftales hvilken dato og tidspunkt, I går live. Det skal være en onsdag. Opret en sag i Jira, hvor I skriver, hvilken onsdag I gerne vil gå live.
