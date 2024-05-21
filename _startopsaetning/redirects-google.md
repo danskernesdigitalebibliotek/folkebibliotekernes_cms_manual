@@ -16,7 +16,7 @@ I kan sagtens oprette redirects til Google-links på den nye hjemmeside inden I 
 ## Få overblik over URLer som Google peger på
 1. I skal starte med at lave en søgning i Google. Søg på navnet på jeres bibliotek.
 2. Google viser et søgeresultat med nogle links, der peger ind på jeres hjemmeside. Hold musen henover hvert af disse links og læg mærke til den URL, der peges på.
-   ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3e26f6ed-4931-4aa8-8ff0-3b1c37685226)
+   {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3e26f6ed-4931-4aa8-8ff0-3b1c37685226" alt="Få overblik over links i Google søgeresultater der peger på jeres hjemmeside" caption="Få overblik over links i Google søgeresultater der peger på jeres hjemmeside" %}
 
 4. Sæt linknavn og URL ind i et dokument, så I kan arbejde videre med det. F. eks.
 
@@ -33,8 +33,8 @@ Nu har I har et overblik over hvilke URLer, der er linkes til fra Googles søger
 2. De links der ikke virker, skal der oprettes en omdirigering på.
 3. Find ud af, hvilken side på det nye website, som I ønsker at linket skal pege på. Det kan faktisk være svært, hvis linket peger på indhold, som ikke er medtaget på det nye website. I så fald må I omdirigere til noget, der ligner lidt.
 4. I hovedmenuen på jeres nye website vælg **Omdirigeringer** og tryk på den blå knap **Tilføj omdirigering**
-   ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/47bdf0e6-bec7-4328-bf3d-1ef7b624e904)
-5. Tast URL fra den gamle hjemmeside i feltet **Sti**\
+   {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/47bdf0e6-bec7-4328-bf3d-1ef7b624e904" alt="Opret omdirigering" caption="Opret omdirigering" %}
+6. Tast URL fra den gamle hjemmeside i feltet **Sti**\
    Tast URL på den nye hjemmeside i feltet **Til**
-   ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/a53d88db-95bd-4e8e-9b38-819c97c70fd9)
-6. Husk at trykke **Gem** nederst.
+   {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/a53d88db-95bd-4e8e-9b38-819c97c70fd9" alt="Opret omdirigering" caption="Opret omdirigering" %}
+8. Husk at trykke **Gem** nederst.
