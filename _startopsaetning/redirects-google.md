@@ -26,6 +26,8 @@ I kan sagtens oprette redirects til Google-links på den nye hjemmeside inden I 
 |Arrangemneter|/arrangementer|
 |Netbiblioteket|/netmedier|
 
+Biblioteker der bruger **Google Search Console** kan via dette værktøj finde en komplet oversigt over sider som Google har indekseret. Efter I går live med det nye website vil I også kunne få værdifuld information om døde søgeresultat-links, som Google registerer.{: .notice--info}
+
 ## Opret omdirigering for links, der ikke virker
 Nu har I har et overblik over hvilke URLer, der er linkes til fra Googles søgeresultater. De links URLer skal også fungere når I lancerer jeres nye hjemmeside.
 1. Afprøv om de virker på jeres staging-site, ved at sætte stien ind bag staging-domænenavnet. F. eks. `https://nginx.main.sonderborg.dplplat01.dpl.reload.dk/biblioteker`
@@ -38,3 +40,5 @@ Nu har I har et overblik over hvilke URLer, der er linkes til fra Googles søger
    Tast URL på den nye hjemmeside i feltet **Til**
    {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/a53d88db-95bd-4e8e-9b38-819c97c70fd9" alt="Opret omdirigering" caption="Opret omdirigering" %}
 8. Husk at trykke **Gem** nederst.
+
+
