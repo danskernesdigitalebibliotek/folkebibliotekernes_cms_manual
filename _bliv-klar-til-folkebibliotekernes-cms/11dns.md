@@ -17,14 +17,15 @@ Sådan gør du:
 5. Kontakt den person eller afdeling hos kommunen som er ansvarlig for jeres hjemmesides tekniske drift og har adgang til Gigahost.dk (spørg efter en som kender alt til A-records, MX-records, CNAME m.v.)
 6. Med DDF aftales hvilken dato og tidspunkt, I går live. Det skal være en onsdag. Opret en sag i Jira, hvor I skriver, hvilken onsdag I gerne vil gå live.
 7. Før golive dagen:\
-   a. I bør bede jeres leverandør om at sænke TTL (time-to-live) på jeres domæne for at sikre en hurtig overgang. Ellers kan der gå flere timer, før alle ser den nye side.
-9. På golive dagen:\
-   a. DNS for jeres domæner skal ændres til at pege på følgende IP-adresse: **20.86.109.250**
-10. Efter golive:\
+   a. I bør bede jeres leverandør om at sænke TTL (time-to-live) til **600** på jeres domæne, for at sikre en hurtig overgang. Ellers kan der gå flere timer, før alle ser den nye side.
+8. På golive dagen:\
+   a. Ret alle DNS A-records for jeres domæner til at pege på følgende IP-adresse: **20.86.109.250**
+   b. Ret alle DNS CNAME-records for jeres domæner til at pege på følgende domæne: **cluster-1.folkebibliotekernescms.dk**
+9. Efter golive:\
    a. I skal bede jeres DNS udbyder om at hæve TTL på jeres domæner igen.
-13. Bed den teknisk ansvarlige om at teste, at alle dele af den nye opsætning fungerer: e-mail, domæne omdirigeringer, certifikater m.m.
+10. Bed den teknisk ansvarlige om at teste, at alle dele af den nye opsætning fungerer: e-mail, domæne omdirigeringer, certifikater m.m.
 
-**Bemærk!** SSL certifikater skal I ikke selv stå for. De provisioneres vha. Lets Encrypt af Reload.
+I skal ikke gøre noget ifm. **SSL certifikater**, som dannes fra vores side vha. Lets Encrypt af Reload. I kan dog først de dem efter go live.
 {: .notice--primary}
 
    
