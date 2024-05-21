@@ -26,7 +26,8 @@ I kan sagtens oprette redirects til Google-links på den nye hjemmeside inden I 
 |Arrangemneter|/arrangementer|
 |Netbiblioteket|/netmedier|
 
-Biblioteker der bruger **Google Search Console** kan via dette værktøj finde en komplet oversigt over sider som Google har indekseret. Efter I går live med det nye website vil I også kunne få værdifuld information om døde søgeresultat-links, som Google registerer.{: .notice--info}
+Biblioteker der bruger **Google Search Console** kan via dette værktøj finde en komplet oversigt over sider som Google har indekseret. Efter I går live med det nye website vil I også kunne få værdifuld information om døde søgeresultat-links, som Google registerer.
+{: .notice--info}
 
 ## Opret omdirigering for links, der ikke virker
 Nu har I har et overblik over hvilke URLer, der er linkes til fra Googles søgeresultater. De links URLer skal også fungere når I lancerer jeres nye hjemmeside.
