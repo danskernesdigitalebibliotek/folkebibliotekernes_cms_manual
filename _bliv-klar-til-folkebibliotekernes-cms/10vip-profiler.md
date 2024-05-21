@@ -17,6 +17,11 @@ I kan allerede nu bygge de to brøndprofiler. I må selv bestemme hvad de skal h
 ## Søgeprofilen
 Søgeprofilen anvendes når brugerne foretager søgninger på bibliotekets hjemmeside både ved ’almindelig’ og avanceret søgning. Den bruges også, når der skal hentes filtre og facetter, og når autosuggesten skal hente forslag baseret på brugerens indtastninger mv.
 
+Til jeres søgeprofil i det nye CMS, kan I med fordel **genbruge jeres søgeprofil fra DDB CMS** (som hedder ’opac’, hvis I har fulgt anbefalingerne).
+Vær dog opmærksomme på, at hvis I ønsker at benytte den nye funktion, der gør det muligt for jeres brugere at bestille overbygningsmaterialer, så skal I også aktivere kilden **Overbygningsmateriale** i denne brøndprofil. Denne ændring skal I selvfølgelig først lave, lige idet I går live med det nye site, da overbygningsmaterialer ikke skal være søgbare på den gamle hjemmeside, da de ikke kan bestilles af brugerne her.
+{: .notice--info}
+
+
 Søgeprofilen skal indeholde:
 
 **1. Online kilder**\
