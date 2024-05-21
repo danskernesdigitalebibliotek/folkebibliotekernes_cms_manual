@@ -827,8 +827,8 @@ var store = [{
         "url": "/main/startopsaetning/redirect-adgangsplatformen/",
         "teaser": null
       },{
-        "title": "Opgave 12: Redirects fra søgning på Google",
-        "excerpt":"Jeres nye website er ikke identisk med det gamle. I har højst sandsyneligt omstrukturetet nogle ting. Oprettet nyt indhold, fjernet noget gammelt og flyttet rundt med ting. Søgemaskinerne kender jeres gamle website og har indekseret strukturen herfra. Når I skifter til den nye hjemmeside, vil mange af de links, som...","categories": ["Startopsætning"],
+        "title": "Opgave 12: Redirects fra søgeresultater på Google",
+        "excerpt":"Jeres nye website er ikke identisk med det gamle. I har sikkert oprettet nyt indhold, fjernet noget gammelt og flyttet rundt med ting. Søgemaskinerne kender jeres gamle website, og har indekseret strukturen herfra. Når I skifter til den nye hjemmeside, vil mange af de links, som Google har registreret ikke...","categories": ["Startopsætning"],
         "tags": [],
         "url": "/main/startopsaetning/redirects-google/",
         "teaser": null
