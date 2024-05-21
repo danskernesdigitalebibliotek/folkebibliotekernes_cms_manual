@@ -10,7 +10,7 @@ I er selv ansvarlige for at lave DNS registreringen. Det gør I allerede i dag. 
 I skal finde ud af, hvem der står for jeres DNS-opsætning, og sikre jer at I har adgang til at få lavet en ny DNS registrering, den dag I skal skifte til Folkebibliotekernes CMS.
 
 Sådan gør du:
-1.	Gå til: https://who.is/ og indtast jeres nuværende domænenavn f.eks. albertslundbibliotek.dk
+1.	Gå til: [https://who.is/](https://who.is/) og indtast jeres nuværende domænenavn f.eks. *albertslundbibliotek.dk*
 2.	Vælg punktet **DNS record**:
    {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d58f2bb4-308b-4434-b9af-b1d0a83877a7" alt="Slå op på https://who.is, ud af hvem der hoster jeres DNS-opsætning" caption="Slå op på https://who.is, ud af hvem der hoster jeres DNS-opsætning" %} 
 3. I dette tilfælde kan du se at udbyderen Gigahost.dk er ansvarlig for DNS opsætningen (andre eksempler er drabib.dk som anvender eurodns.com, bibliotek.kk.dk anvender One.com og bronderslevbib.dk anvender både DBC og KMD).
