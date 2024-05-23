@@ -6,7 +6,7 @@ nav: "overblik"
 ---
 
 ## 23/5: Microsofts databaser er sporadisk nede
-Vi oplever her til eftermiddag at Microsofts servere går ned. Det skete mellem 1421 og 1437, samt et nyt tilfælde kl 1450. Vi opfordrer til at I ikke arbejder i løsningen resten af dagen, med mindre andet meldes ud her.\
+Vi oplever her til eftermiddag at Microsofts servere går ned. Det skete mellem 1421 og 1437, samt et nyt tilfælde kl 1450. Vi opfordrer til at I ikke arbejder i løsningen resten af dagen, med mindre andet meldes ud her.
 
 ## Status pr 21/5
 Som vi har kommunikeret ud om i fredags, har vi fundet et potentielt sikkerhedshul i Folkebibliotekernes CMS.\
