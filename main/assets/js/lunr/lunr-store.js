@@ -576,7 +576,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Webformularer",
-        "excerpt":" ","categories": ["Indholdstyper"],
+        "excerpt":"Kommer snart  ","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/main/indhold/webforms/",
         "teaser": null
