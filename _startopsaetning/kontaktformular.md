@@ -3,8 +3,6 @@ title: "Opgave 11: Ændr kontaktformularens konfiguration"
 category: "Startopsætning"
 weight: 11
 ---
-Kommer først med release 18. Læs mere om releases i [Release notes]({{ site.baseurl }}{% link _release-notes/home.md %}).
-{: .notice--warning}
 
 Jeres kontaktformular `/kontakt` skal ændres, så det information der sendes til brugerne er korrekt og de rigtigte personer modtager henvendelserne fra brugerne.
 
