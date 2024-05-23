@@ -1,5 +1,5 @@
 ---
-title: "Logoer til DBCs digitale tilbud"
+title: "Logoer til DBC's digitale tilbud"
 category: "Generelt"
 emneord:
 - "Elektroniske ressourcer"
