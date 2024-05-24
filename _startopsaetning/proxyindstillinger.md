@@ -26,8 +26,10 @@ Eller åbn via direkte link (udskift mit-domænenavn.dk):\
 
 Få inspiration til e-materiale side visninger her:
 
-https://www.herlevbibliotek.dk/digitale-tilbud
-https://nginx.main.kobenhavn.dplplat01.dpl.reload.dk/medier
+[https://www.herlevbibliotek.dk/digitale-tilbud](https://www.herlevbibliotek.dk/digitale-tilbud){:target="_blank"}\
+[https://nginx.main.kobenhavn.dplplat01.dpl.reload.dk/medier](https://nginx.main.kobenhavn.dplplat01.dpl.reload.dk/medier){:target="_blank"}
+
+Er du i tvivl om hostname/værtsnavn kan du finde oplysningerne på DBCs oversigt [Kilder i databrønden](https://danbib.dk/kilder-databroenden){:target="_blank"}
 
 ## Indsæt proxy indstillinger i Folkebibliotekernes CMS
 
