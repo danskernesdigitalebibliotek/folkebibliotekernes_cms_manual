@@ -53,7 +53,7 @@ Når proxyen er opsat korrekt vil links til eressourcer i søgeresultater automa
 |Feltnavn|Værdi|
 |---|---|
 |Præfiks til proxy-serverens URL|Udfyldes med `https://bib123.bibbaser.dk/login?` BEMÆRK! I skal udskifte `123` med jeres kommunenummer - svarende til ciffer 2-4 i biblioteksnummeret|
-|Hostnames / Værtsnavne|Her skrives de hostnavne/værtsnavne, som skal genkendes og omskrives til at pege mod fjernadgangsproxyen. Værtsnavnene kan normalt findes i ERMS. Er der ikke nogen anden dokumentation på hvilket værtsnavn, man skal angive, kan man aflure navnet ved at holde musecursoren over "Online"-linket på en post fra den pågældende brøndkilde|
+|Hostnames / Værtsnavne|Her skrives de hostnavne/værtsnavne, som skal genkendes og omskrives til at pege mod fjernadgangsproxyen. Er du i tvivl om hostname/værtsnavn kan du finde oplysningerne på DBCs oversigt [Kilder i databrønden](https://danbib.dk/kilder-databroenden){:target="_blank"}|
 |Replacement|Visse kilder kræver yderligere opsætning, da url'erne skal omskrives med f.eks. en biblioteksspecifik identifier/kode. De kilder der kræver replacement er beskrevet herunder.|
 
 ## Elektroniske ressourcer der kræver særlig opsætning ##
