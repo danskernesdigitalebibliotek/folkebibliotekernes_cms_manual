@@ -24,12 +24,13 @@ Eller åbn via direkte link (udskift mit-domænenavn.dk):\
 
 **Bemærk!** Det er ikke alle licenser der kræver et Hostname / Værtsnavn. Der kan sagtens ligge flere hostnavne til samme udbyder f.eks. gale, som har tre forskellige hvis man har flere licenser fra dem. Der kan også være flere hostnavne end I har licenser i dag - disse behøver I ikke at kopiere over.
 
+Er du i tvivl om hostname/værtsnavn kan du finde oplysningerne på DBCs oversigt [Kilder i databrønden](https://danbib.dk/kilder-databroenden){:target="_blank"}
+
 Få inspiration til e-materiale side visninger her:
 
 [https://www.herlevbibliotek.dk/digitale-tilbud](https://www.herlevbibliotek.dk/digitale-tilbud){:target="_blank"}\
 [https://nginx.main.kobenhavn.dplplat01.dpl.reload.dk/medier](https://nginx.main.kobenhavn.dplplat01.dpl.reload.dk/medier){:target="_blank"}
 
-Er du i tvivl om hostname/værtsnavn kan du finde oplysningerne på DBCs oversigt [Kilder i databrønden](https://danbib.dk/kilder-databroenden){:target="_blank"}
 
 ## Indsæt proxy indstillinger i Folkebibliotekernes CMS
 
