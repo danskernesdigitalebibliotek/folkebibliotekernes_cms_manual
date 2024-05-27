@@ -12,7 +12,7 @@ Det foregår på samme måde i DDB CMS, så du kan kopiere jeres indstillinger h
 
 ## Kopier proxy indstillinger fra DDB CMS
 
-Log ind i DDB CMS med en bruger der har "Lokal administrator" rollen. I topmenuen klik på **Indstillinger > Ding > Materialer > Proxy Settings**
+Log ind i DDB CMS med en bruger der har "Lokal administrator" rollen. I topmenuen klik på **Indstillinger > Materialer > Proxy Settings**
 
 Eller åbn via direkte link (udskift mit-domænenavn.dk):\
 `https://mit-domænenavn.dk/admin/config/ting/proxy`
