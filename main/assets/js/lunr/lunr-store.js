@@ -461,6 +461,12 @@ var store = [{
         "url": "/main/indhold/brugeroprettelsesside/",
         "teaser": null
       },{
+        "title": "CQL Søgestrenge Eksempler",
+        "excerpt":" ","categories": ["Generelt"],
+        "tags": [],
+        "url": "/main/indhold/cql-soegestrenge-eksempler/",
+        "teaser": null
+      },{
         "title": "CQL Søgestrenge",
         "excerpt":"CQL-søgestrenge bruges fx til at trække materialer ind i den paragraph, der hedder Material grid automatic. Sådan opretter du nemt en CQL-søgestreng CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion og kopiere søgestrengen derfra. Klik på Avanceret søgning. Klik på Avanceret søgning Lav din søgning...","categories": ["Generelt"],
         "tags": [],
