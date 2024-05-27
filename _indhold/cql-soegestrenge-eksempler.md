@@ -33,3 +33,39 @@ Mette Kulmbach har været så venlig at dele nogle søgestrenge, som hun har byg
 #### Nye bøger for børn mellem 12 til år 13 år købt i 2024
 `phrase.language=dansk AND ages within "12 13" AND hascover=true and (firstaccessiondate >= 2024-01-01 OR datefirstedition=2024)`
 
+## For voksne
+
+#### Krimi indkøbt i 2024
+`firstaccessiondate > 2024-01-01 and dk5="sk" and term.childrenoradults="til voksne"  and  term.genreandform="krimi" and term.generalmaterialtype="bøger" and hascover=true`
+
+#### Nye slægtsromaner indkøbt i 2024
+`firstaccessiondate > 2024-01-01 and dk5="sk" and term.childrenoradults="til voksne"  and  term.genreandform="slægtsromaner" and term.generalmaterialtype="bøger" and hascover=true`
+
+#### Alle slægtsromaner
+`dk5="sk" and term.childrenoradults="til voksne"  and  term.genreandform="slægtsromaner" and term.generalmaterialtype="bøger" and hascover=true`
+
+#### Nyere historiske romaner
+`firstaccessiondate > 2024-01-01 and dk5="sk" and term.childrenoradults="til voksne" and term.subject="hist*" not term.genreandform="krimi" and term.generalmaterialtype="bøger" and hascover=true`
+
+#### Humor
+`dk5="sk" and term.childrenoradults="til voksne" and term.subject="humor*" not term.genreandform="krimi" and term.generalmaterialtype="bøger" and hascover=true`
+
+#### Kærlighed
+`firstaccessiondate > 2024-01-01 and dk5="sk" and term.childrenoradults="til voksne" and term.subject="kærlighed*" not term.genreandform="krimi" and term.generalmaterialtype="bøger" and hascover=true`
+
+#### Erotik
+`firstaccessiondate > 2024-01-01 and dk5="sk" and term.childrenoradults="til voksne" and term.subject="erotik*" not term.genreandform="krimi" and term.generalmaterialtype="bøger" and hascover=true`
+
+`dk5="sk" and term.childrenoradults="til voksne" and term.subject="erotik*" not term.genreandform="krimi" and term.generalmaterialtype="bøger" and hascover=true`
+
+#### Fantasy
+`firstaccessiondate > 2024-01-01 and dk5="sk" and term.childrenoradults="til voksne" and term.subject="fantasy*" not term.genreandform="krimi" and term.generalmaterialtype="bøger" and hascover=true`
+
+#### Faglitteratur
+`firstaccessiondate > 2024-01-01 and term.childrenoradults="til voksne" and term.fictionnonfiction="nonfiction" and  term.generalmaterialtype="bøger" and hascover=true`
+
+#### Biografier
+`firstaccessiondate > 2024-01-01 and dk5="99.4" and term.childrenoradults="til voksne" and term.fictionnonfiction="nonfiction" and  term.generalmaterialtype="bøger" and hascover=true not dk5="6*" not dk5="3*" not dk5="2*"`
+
+#### Tegneserier
+`firstaccessiondate > 2024-01-01 and term.generalmaterialtype="tegneserier" and hascover=true and term.childrenoradults="til voksne"`
