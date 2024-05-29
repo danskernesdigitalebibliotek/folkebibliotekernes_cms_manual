@@ -22,7 +22,9 @@ weight: 995
 
 - Tags: Mulighed for at oprette nye tags direkte fra artikler og arrangementer. 
 
-- På redigeringsgrænsefladen til de enkelte indholdstyper er link til ”Filer” erstattet med link til mediebiblioteket. 
+- På redigeringsgrænsefladen til de enkelte indholdstyper er link til ”Filer” erstattet med link til mediebiblioteket.
+
+- Gebyr og erstatninger: Advarselsbesked om gebyrer ved overskredne lån øverst på siden. Linker til informationsside. 
 
 
 ## Fejlrettelser og forbedringer:
@@ -41,6 +43,29 @@ weight: 995
 
 - Bibliotekslogo: Linker nu også til forsiden på mobilvisningen. Logoet er tilføjet tilgængelig tekst (aria-label), så brugere af skærmlæsere oplæses relevant information. 
 
-- Listevisninger: Bedre trunkering af tekst i diverse listevisninger under f.eks. /arrangementer og /artikler. 
+- Listevisninger: Bedre trunkering af tekst i diverse listevisninger under f.eks. /arrangementer og /artikler.
+
+- Værkvisningssiden fejler for specifikt værk "Dramatis Personae", work-of:150086-netmusik:BIS-2067. Fejlen er nu rettet.
+  
+- Tilgængelighed: Rolle tildelt div-element, der åbner modal med detaljevisning for titel vist i gruppemodal.
+
+- Tilgængelighed: Ikke længere dublikerede ID'er i modal for lån, der snart skal afleveres.
+
+- Tilgængelighed: Avanceret søgning: Ved brug af keyboardnavigation. Efter sletning af række med inputfelt sættes fokus aktivt. 
+
+- Tilgængelighed: Søgning og filtrering: Tom alt-attribut indsat på close-ikon ved valgt filter.
+
+- Tilgængelighed: Label “MATERIALETYPE|STATUS” får nu kun rollen knap, hvis det er muligt at vælge mellem forskellige materialetyper. Vigtigt for brugere af skærmlæsere, som ellers kan få indtrykket, at der kan interageres med knap, som faktisk kun er label.
+  
+- Tilgængelighed: Skjult mobilmenu kan ikke længere tildeles fokus på desktopvisning. Har tidligere fungeret som tastaturfælde. 
+
+- Tekstbeskeder ved sletning af materiale: Tekster skifter nu mellem ental og flertalsform alt efter om man vælger ét eller flere materialer til sletning
+
+- Ved søgning på " " eller "null" vises der vejledende tekst
+
+
+
+
+
 
 
