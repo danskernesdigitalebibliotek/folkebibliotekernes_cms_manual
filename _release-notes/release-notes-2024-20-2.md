@@ -55,7 +55,7 @@ weight: 995
 
 - Tilgængelighed: Søgning og filtrering: Tom alt-attribut indsat på close-ikon ved valgt filter.
 
-- Tilgængelighed: Label “MATERIALETYPE|STATUS” får nu kun rollen knap, hvis det er muligt at vælge mellem forskellige materialetyper. Vigtigt for brugere af skærmlæsere, som ellers kan få indtrykket, at der kan interageres med knap, som faktisk kun er label.
+- Tilgængelighed: Label “MATERIALETYPE STATUS” får nu kun rollen knap, hvis det er muligt at vælge mellem forskellige materialetyper. Vigtigt for brugere af skærmlæsere, som ellers kan få indtrykket, at der kan interageres med knap, som faktisk kun er label.
   
 - Tilgængelighed: Skjult mobilmenu kan ikke længere tildeles fokus på desktopvisning. Har tidligere fungeret som tastaturfælde. 
 
