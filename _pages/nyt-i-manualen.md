@@ -1,5 +1,5 @@
 ---
-permalink: /overblik/ny-i-manualen
+permalink: /overblik/nyt-i-manualen
 title:  "Nyt i manualen"
 sidebar: true
 ---
