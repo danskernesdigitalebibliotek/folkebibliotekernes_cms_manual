@@ -19,7 +19,7 @@ Vi oplever en række fejl som vi arbejder på at kunne fikse samlet. Noget relat
 ### Påhængsposter
 Problemet med påhængsposter skulle gerne være løst med dagens release
 ### Åbningstider
-Er udviklet færdig, men vi kigger på et par indmeldte fejl. Desuden kan det lige nu påvirke performance at loade siden med åbningstider, hvilket vi er lige ved at have fixet.
+Er udviklet færdig, undtagen lidt arbejde på visninger af dem. Vi kigger derudover på et par indmeldte fejl. Desuden kan det lige nu påvirke performance at loade siden med åbningstider, hvilket vi er lige ved at have fixet.
 ### Søgning i redaktionelt indhold
 Denne opgave er specificeret og vi forventer at gå igang med den meget snart.
 ### Tag samlesider
