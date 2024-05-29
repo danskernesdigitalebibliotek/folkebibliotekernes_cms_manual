@@ -4,7 +4,7 @@ title:  "Tilgængelighedserklæring"
 sidebar: true
 nav: "overblik"
 ---
-Sidst opdateret 08. maj 2024
+Sidst opdateret 29. maj 2024
 
 **Hvad?**\
 Her finder du information, du skal bruge i jeres lokale tilgængelighedserklæring. Det er bl.a. oplysninger om  tilgængeligheden af Folkebibliotekernes CMS, og hvordan Det Digitale Folkebibliotek har arbejdet med tilgængelighed i løsningen.
@@ -35,16 +35,12 @@ Det Digitale Folkebibliotek har selv evalueret hjemmesidesystemet (Folkebibliote
 
 ### Overholder ikke webtilgængelighedsloven
 
-Mobilmenuen kan tilgås via tastaturnavigation på tidspunkter hvor den visuelt er skjult og fungerer pt. som en såkaldt tastaturfælde. Dvs. tastaturfokus kan fanges i menuen. Hvis det sker, kan du f.eks. genindlæse siden (Windows: CTRL + F5, Mac: CMD + r) og ved et enkelt tab komme til sidens genvejslink (skip-link) "Gå til hovedindhold", som leder dig udenom mobilmenuen.  
-
 Avanceret søgning: Sitet tilbyder mulighed for avanceret søgning. Hvis du alene anvender tastaturnavigation, er det nødvendigt at trykke tasten "space" (pt. kan tasten "enter" ikke anvendes) til at udfolde dropdown (dropdown med yderligere søgefunktion), som linker til avanceret søgning. Skærmlæsersoftware modtager ikke information fra sitets kode om, at dropdown kan foldes ud, eller at den er foldet ud efter tryk på tasten "space". Hvis du vil gå direkte til avanceret søgning findes funktionen under DOMÆNENAVN/advanced-search. Avanceret søgning tilbyder en række selectbokse, som giver mulighed for at indsnævre på bl.a. materialetype og fag/skønlitteratur. Disse har dog en række funktionsfejl pt., så de ikke kan anvendes i mange situationer.  
 
 ### Søgning
 Autofuldførsel: I forbindelse indtastning af søgning, foreslår systemet ofte en række søgeforslag. Hvis man med skærmlæseren NVDA tilgår disse resultater, kan man opleve at sidens titel læses op sammen med søgeforslaget. Brugere af VoiceOver kan opleve at fokus skifter væk fra et søgeforslag, og det efterfølgende er nødvendigt at tabbe sig ind på forslaget igen. 
- 
-I forbindelse med søgning og filtrering annonceres det ikke for skærmlæsersoftware, at overskrift med søgestatus opdateres, f.eks. mens søgeresultatet hentes eller søgeresultatet opdateres efter valg af filter. Man vil dog kunne se at de pågældende statusoverskrifter, hvis man navigerer hen til overskriften eller tilgår den via elementliste.   
- 
-Efter man med tastaturnavigation har valgt et filter til at indsnævre søgning er fokusrækkefølgen i øjeblikket ikke logisk. Der er to områder på sitet hvor filtrene vises: Direkte på søgesiden for de mest brugte filtre og i en pop up, man kan aktivere på søgesiden. Ved filtre på søgeside: Når man vælger et filter i forbindelse med søgning placeres fokus i første omgang ikke på noget andet element. Trykkes tab sendes fokus hen på det første element i listen over valgbare filtre. Det kan derfor være uklart, at man faktisk har valgt et filter. Ved filtre i modalen: Efter valg af filter i modalen sendes fokus til luk-knappen i toppen af modalen dvs. det fremgår ikke tydeligt at filteret er valgt. Man er nødt til at tabbe sig tilbage til knappen for at konstatere dette.
+  
+
 
 
 
