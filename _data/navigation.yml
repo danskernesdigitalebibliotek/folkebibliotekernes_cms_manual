@@ -1,7 +1,9 @@
 main:
+  - title: "Nyt i manualen"
+    url: /overblik/nyt-i-manualen
   - title: "Hurtigguide til manualen"
     url: /overblik/hurtigguide-til-manualen
-  - title: "Emneoversigt"
+  - title: "Emner"
     url: /overblik/emneord
 
 overblik:
