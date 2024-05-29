@@ -8,7 +8,7 @@ Der findes en oversigt over de seneste ændringer i manualen. Det er automatisk 
 
 ## Sådan læses manualens ændringshistorik
 
-### [Link til manualens ændringshistorik](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/commits/main/)
+### [Link til manualens ændringshistorik](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/commits/main/){:target="_blank"}
 {: .notice--info}
 
 1. Åbn ændringshistorikken via linket herover
