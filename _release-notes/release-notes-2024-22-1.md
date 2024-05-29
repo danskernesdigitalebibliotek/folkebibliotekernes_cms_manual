@@ -11,7 +11,7 @@ weight: 994
 - Udvidelse af API: Mulighed for at få salgs- og admin-URL’er.  
 
 
-## Fejlrettelser og forbedringer:
+## Fejlrettelser og forbedringer
 
 - Tilgængelighed: Overskriftshierarkiet på elementer listet som breadcrumb children er nu korrekt. Overskriften på afsnittet er H2 og de enkelte overskrifter på breadcrumb children er H3.
  
