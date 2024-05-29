@@ -2,6 +2,10 @@
 title: "CQL Søgestrenge Eksempler"  
 category: "Generelt"
 ---
+
+### DBCs CQL dokumentation: [FBI-API's Complex Search Documentation](https://fbi-api.dbc.dk/indexmapper/){:target="_blank" rel="noopener"}
+{: .notice--info}
+
 Mette Kulmbach har været så venlig at dele nogle søgestrenge, som hun har bygget for Billund Bibliotekerne. De er til inspiration og er ikke perfekte eller udtømmende. Har du lavet søgestrenge, der er smartere eller mere korrekte, da send dine eksempler til cms-info@kk.dk. Så lægger vi dem ud her på siden.
 
 ## For børn
