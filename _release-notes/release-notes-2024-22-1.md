@@ -14,7 +14,7 @@ weight: 994
 ## Fejlrettelser og forbedringer:
 
 - Tilgængelighed: Overskriftshierarkiet på elementer listet som breadcrumb children er nu korrekt. Overskriften på afsnittet er H2 og de enkelte overskrifter på breadcrumb children er H3.
-- 
+ 
 - Tilgængelighed: Paragraph Navigationskomponent og Materialekomponent. Hvis man vælger knappen ”Show all” med tastaturnavigation vil keyboardfokus blive sendt videre til næste element og ikke som tidligere til footeren.
 
 - Tilgængelighed: Søgning og filtrering: Skjulte overskrifter gør det nemmere for skærmlæserbrugere at afkode, hvad formålet og handlemuligheder er for de forskellige filtre på søgesiden.
