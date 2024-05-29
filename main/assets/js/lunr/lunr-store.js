@@ -773,6 +773,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-20-2/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.22.1",
+        "excerpt":"Fejl og tilgængelighedsrettelser: Nye features Udvidelse af API: Mulighed for at få salgs- og admin-URL’er. Fejlrettelser og forbedringer: Tilgængelighed: Overskriftshierarkiet på elementer listet som breadcrumb children er nu korrekt. Overskriften på afsnittet er H2 og de enkelte overskrifter på breadcrumb children er H3. Tilgængelighed: Paragraph Navigationskomponent og Materialekomponent. Hvis man...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-22-1/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
