@@ -2,6 +2,7 @@
 permalink: /overblik/nyt-i-manualen
 title:  "Nyt i manualen"
 sidebar: true
+nav: "overblik"
 ---
 Der findes en oversigt over de seneste ændringer i manualen. Det er automatisk genereret oversigt over såkaldte "commits". Der oprettes et nyt commit, hver gang der gemmes.
 
