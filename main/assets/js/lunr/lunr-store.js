@@ -774,7 +774,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2024.22.1",
-        "excerpt":"Retvisende fejlbesked ved indtastning af forkert pinkode, bedre layout på oprettelsesformularer til nye lånere og en lang række tilgængeligheds- og fejlrettelser. Nye features Udvidelse af API: Mulighed for at få salgs- og admin-URL’er. Fejlrettelser og forbedringer: Tilgængelighed: Overskriftshierarkiet på elementer listet som breadcrumb children er nu korrekt. Overskriften på afsnittet...","categories": ["Release Notes"],
+        "excerpt":"Retvisende fejlbesked ved indtastning af forkert pinkode, bedre layout på oprettelsesformularer til nye lånere og en lang række tilgængeligheds- og fejlrettelser. Nye features Udvidelse af API: Mulighed for at få salgs- og admin-URL’er. Fejlrettelser og forbedringer Tilgængelighed: Overskriftshierarkiet på elementer listet som breadcrumb children er nu korrekt. Overskriften på afsnittet...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-22-1/",
         "teaser": null
