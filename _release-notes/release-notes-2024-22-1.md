@@ -4,7 +4,7 @@ category: "Release Notes"
 weight: 994
 ---
 
-# Fejl og tilgængelighedsrettelser: 
+# Retvisende fejlbesked ved indtastning af forkert pinkode, bedre layout på oprettelsesformularer til nye lånere og en lang række tilgængeligheds- og fejlrettelser. 
 
 ## Nye features
 
