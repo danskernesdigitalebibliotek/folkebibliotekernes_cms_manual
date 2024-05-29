@@ -3,6 +3,9 @@ title: "CQL Søgestrenge"
 category: "Generelt"
 ---
 
+### DBCs CQL dokumentation: [FBI-API's Complex Search Documentation](https://fbi-api.dbc.dk/indexmapper/){:target="_blank" rel="noopener"}
+{: .notice--info}
+
 CQL-søgestrenge bruges fx til at trække materialer ind i den paragraph, der hedder Material grid automatic.
 
 ## Sådan opretter du nemt en CQL-søgestreng
