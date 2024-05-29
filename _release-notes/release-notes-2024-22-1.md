@@ -8,7 +8,7 @@ weight: 994
 
 ## Nye features
 
-- Udvidelse af API: Mulighed for at få salgs- og admin-URL’er.  
+- Udvidelse af API: Nu med salgs- og admin-URL’er som del af data.   
 
 
 ## Fejlrettelser og forbedringer
