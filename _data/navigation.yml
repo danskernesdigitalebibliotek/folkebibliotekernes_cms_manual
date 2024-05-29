@@ -25,6 +25,8 @@ overblik:
         url: "/overblik/tilgaengelighedserklaering"      
       - title: "Hurtigguide til manualen"
         url: /overblik/hurtigguide-til-manualen
+      - title: "Nyt i manualen"
+        url: /overblik/nyt-i-manualen
       - title: "Emneoversigt"
         url: /overblik/emneord
 
