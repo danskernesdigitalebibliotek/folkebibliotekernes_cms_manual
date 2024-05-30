@@ -25,8 +25,8 @@ Arrangementsserier er nyttige, hvis du har tilbagevendende arrangementer, fx læ
 
 Når du opretter et arrangement, skal du i **Gentagelsesmønster**-feltet tage stilling til, om du vil oprette en enkeltstående event eller en serie. 
 
-En ny funktion i Folkebibliotekernes CMS er **skabeloner**. Brug en skabelon, hvis du har flere arrangementer, der ligner hinanden, men som ikke skal oprettes i en arrangementsserie. En Læseklub-skabelon er et godt eksempel. [Læs mere om skabeloner](https://www.folkebibliotekernescms.dk/main/indhold/skabeloner/)
-{: .notice}
+### Vigtigt! Uanset om du opretter et enkeltstående arrangement eller en arrangementsserie oprettes der en master-visning og en eller flere instans-visninger. Det er afgørende vigtigt at forstå. [Læs mere om master- og instansvisning af arrangementer.](https://www.folkebibliotekernescms.dk/main/indhold/arrangement/#vigtig-viden-om-arrangementers-struktur-i-back-enden)
+{: .notice-info}
 
 ## Enkeltstående arrangement
 Skal du kun oprette et enkelt arrangement (ikke en serie), vælges **Enkeltstående arrangement** i dropdown under
