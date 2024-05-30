@@ -2,8 +2,6 @@
 title: "Arrangement"
 category: "Indholdstyper"
 weight: 1
-emneord:
-- "X Mangler tekst"
 ---
 
 Når du skal oprette et arrangement i FB CMS, skal du vælge **Arrangement(er)**. 
