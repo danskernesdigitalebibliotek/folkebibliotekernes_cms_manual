@@ -7,9 +7,7 @@ header:
   actions:
     - label: "Support og Servicedesk"
       url: "/overblik/support"
-    - label: "Onboarding FAQ"
-      url: "/overblik/faq"
-    - label: "Tidsplan"
+    - label: "Udrulningsplan"
       url: "/assets/files/Folkebibliotekernes-CMS-udrulningsplan.pdf"
     - label: "Hostingplaner"
       url: "https://detdigitalefolkebibliotek.dk/hostingplaner"
