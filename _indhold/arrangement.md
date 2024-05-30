@@ -38,9 +38,9 @@ Skal du kun oprette et enkelt arrangement (ikke en serie), vælges **Enkeltståe
 
 ## Arrangementsserier
 
-Vil du oprette en serie af arrangementer, vælger du gentagelsestypen i dropdown under Gentagelsesmønster.
+Vil du oprette en serie af arrangementer, vælger du gentagelsestypen i dropdown under **Gentagelsesmønster**.
 
-Du kan vælge mellem fortløbende, ugentlig og månedligt.
+Du kan vælge mellem **fortløbende**, **ugentlig** eller **månedligt**.
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/cfdd915f-84a8-4d8b-85a0-15b133bb1d95" alt="Vælg gentagelsesmønster for arrangementsserie" caption="Vælg gentagelsesmønster for arrangementsserie" %} 
 
