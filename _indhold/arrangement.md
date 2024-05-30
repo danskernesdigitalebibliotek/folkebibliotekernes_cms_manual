@@ -26,7 +26,7 @@ Arrangementsserier er nyttige, hvis du har tilbagevendende arrangementer, fx læ
 Når du opretter et arrangement, skal du i **Gentagelsesmønster**-feltet tage stilling til, om du vil oprette en enkeltstående event eller en serie. 
 
 ### Vigtigt! Uanset om du opretter et enkeltstående arrangement eller en arrangementsserie oprettes der en master-visning og en eller flere instans-visninger. Det er afgørende vigtigt at forstå. [Læs mere om master- og instansvisning af arrangementer.](https://www.folkebibliotekernescms.dk/main/indhold/arrangement/#vigtig-viden-om-arrangementers-struktur-i-back-enden)
-{: .notice-info}
+{: .notice--info}
 
 ## Enkeltstående arrangement
 Skal du kun oprette et enkelt arrangement (ikke en serie), vælges **Enkeltstående arrangement** i dropdown under
