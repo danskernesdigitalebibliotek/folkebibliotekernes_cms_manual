@@ -38,17 +38,11 @@ Skal du kun oprette et enkelt arrangement (ikke en serie), vælges **Custom/Sing
 
 ## Arrangementsserier
 
-Vil du oprette en serie af arrangementer, vælger du gentagelses-typen i dropdown under Recur Type.
+Vil du oprette en serie af arrangementer, vælger du gentagelsestypen i dropdown under Gentagelsesmønster.
 
-Arrangementsserier har følgende valgmuligheder:
+Du kan vælge mellem fortløbende, ugentlig og månedligt.
 
-- Consecutive Event
-- Daily Event
-- Weekly Event
-- Monthly Event
-- Yearly Event
-
-*Consecutive event* kan fx bruges, hvis du har flere arrangementer af samme slags, som finder sted samme dag – eksempelvis en workshop, som afholdes flere gange på en bestemt dato.
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/cfdd915f-84a8-4d8b-85a0-15b133bb1d95" alt="Vælg gentagelsesmønster for arrangementsserie" caption="Vælg gentagelsesmønster for arrangementsserie" %} 
 
 ## Indhold
 
