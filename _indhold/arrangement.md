@@ -25,16 +25,16 @@ Folkebibliotekernes CMS tilbyder en række nye muligheder for at oprette **arran
 
 Arrangementsserier er nyttige, hvis du har tilbagevendende arrangementer, fx læseklubber, legestuer etc.
 
-Når du opretter et arrangement, skal du i **Recur Type**-feltet tage stilling til, om du vil oprette en enkeltstående event eller en serie. 
+Når du opretter et arrangement, skal du i **Gentagelsesmønster**-feltet tage stilling til, om du vil oprette en enkeltstående event eller en serie. 
 
 En ny funktion i Folkebibliotekernes CMS er **skabeloner**. Brug en skabelon, hvis du har flere arrangementer, der ligner hinanden, men som ikke skal oprettes i en arrangementsserie. En Læseklub-skabelon er et godt eksempel. [Læs mere om skabeloner](https://www.folkebibliotekernescms.dk/main/indhold/skabeloner/)
 {: .notice}
 
 ## Enkeltstående arrangement
 Skal du kun oprette et enkelt arrangement (ikke en serie), vælges **Custom/Single Event** i dropdown under
-**Recur Type**.
+**Gentagelsesmønster**.
 
-{% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/bf7ce6c7-e7c8-4f8b-aaf0-067d6689157c" alt="Vælg Recur Type" caption="Vælg Recur Type" %} 
+{% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/bf7ce6c7-e7c8-4f8b-aaf0-067d6689157c" alt="Vælg gentagelsesmønster" caption="Vælg gentagelsesmønster" %} 
 
 ## Arrangementsserier
 
@@ -48,7 +48,7 @@ Du kan vælge mellem fortløbende, ugentlig og månedligt.
 
 Arrangementets indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-panel til højre.
 
-- Hovedindholdsfeltet indeholder bl.a. Title, Recur type, Description, Ticket categories og Paragraphs.
+- Hovedindholdsfeltet indeholder bl.a. Title, Gentagelsesmønster, Description, Ticket categories og Paragraphs.
 - Sidebar-panelet indeholder bl.a. State, Teaser text, Teaser image, Tagging, Planlægning mv.
 
 {% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/4b59aa35-460a-4fec-a7e1-c23daa1c3bef" alt="Hovedindholdsfelt til venstre, sidebar til højre" caption="Hovedindholdsfelt til venstre, sidebar til højre" %} 
@@ -65,11 +65,11 @@ Bemærk at description ikke er det samme som Teaser text. Teaser text er den tek
 
 Description-teksten lægger sig ved siden af feltet med praktisk information i slutbruger-visningen.
 
-### Recur Type
+### Gentagelsesmønster
 Påkrævet felt. Valg af enkeltstående eller gentagende arrangement. Se beskrivelse ovenfor. 
 
 ### Dato/tid
-Bemærk at udseendet af dette felt og valgmulighederne i det ændrer sig, afhængigt af hvilken type arrangement, der er valgt i Recur Type.
+Bemærk at udseendet af dette felt og valgmulighederne i det ændrer sig, afhængigt af hvilken type arrangement, der er valgt i Gentagelsesmønster.
 
 ### Address
 Adresse, hvor arrangementet afholdes. Obligatorisk felt.
