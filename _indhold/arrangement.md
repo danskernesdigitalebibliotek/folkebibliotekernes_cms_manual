@@ -34,7 +34,7 @@ En ny funktion i Folkebibliotekernes CMS er **skabeloner**. Brug en skabelon, hv
 Skal du kun oprette et enkelt arrangement (ikke en serie), vælges **Custom/Single Event** i dropdown under
 **Gentagelsesmønster**.
 
-{% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/bf7ce6c7-e7c8-4f8b-aaf0-067d6689157c" alt="Vælg gentagelsesmønster" caption="Vælg gentagelsesmønster" %} 
+{% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/fc0f0e3e-249e-4886-8b7b-3453c987feda" alt="Vælg gentagelsesmønster" caption="Vælg gentagelsesmønster" %} 
 
 ## Arrangementsserier
 
