@@ -10,7 +10,7 @@ header:
     - label: "Onboarding FAQ"
       url: "/overblik/faq"
     - label: "Tidsplan"
-      url: "/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf"
+      url: "/assets/files/Folkebibliotekernes-CMS-udrulningsplan.pdf"
     - label: "Hostingplaner"
       url: "https://detdigitalefolkebibliotek.dk/hostingplaner"
     - label: "Release Notes"
