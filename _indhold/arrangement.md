@@ -48,22 +48,22 @@ Du kan vælge mellem **fortløbende**, **ugentlig** eller **månedligt**.
 
 Arrangementets indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-panel til højre.
 
-- Hovedindholdsfeltet indeholder bl.a. Title, Gentagelsesmønster, Description, Ticket categories og Paragraphs.
-- Sidebar-panelet indeholder bl.a. State, Teaser text, Teaser image, Tagging, Planlægning mv.
+- Hovedindholdsfeltet indeholder bl.a. Titel, Manchet, Gentagelsesmønster, Dato og tid, Billetkategorier og Paragraphs.
+- Sidebar-panelet indeholder bl.a. Status, Teasertekst, Teaserbillede, Tagging, Planlægning mv.
 
-{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/4b59aa35-460a-4fec-a7e1-c23daa1c3bef" alt="Hovedindholdsfelt til venstre, sidebar til højre" caption="Hovedindholdsfelt til venstre, sidebar til højre" %} 
+{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/8e8fc55c-01c0-4bed-9961-52a72f08a0b2" alt="Hovedindholdsfelt til venstre, sidebar til højre" caption="Hovedindholdsfelt til venstre, sidebar til højre" %} 
 
 ## Opbygning af arrangements-indhold
 
-### Title
-Title må ikke være tom. Det er navnet på dit arrangement.
+### Titel
+Titel må ikke være tom. Det er navnet på dit arrangement.
 
-### Description
-Description er dit arrangements manchet/indledningstekst. 
+### Manchet
+Manchet er dit arrangements indledningstekst. 
 
-Bemærk at description ikke er det samme som Teaser text. Teaser text er den tekst, der trækkes ud som appetizer for arrangementet andre steder på sitet. Teaser text tilføjes i sidebar-panelet. 
+Bemærk at manchet ikke er det samme som Teasertekst. Teasertekst er den tekst, der trækkes ud som appetizer for arrangementet andre steder på sitet. Teasertekst tilføjes i sidebar-panelet. 
 
-Description-teksten lægger sig ved siden af feltet med praktisk information i slutbruger-visningen.
+Manchet-teksten lægger sig ved siden af feltet med praktisk information i slutbruger-visningen.
 
 ### Gentagelsesmønster
 Påkrævet felt. Valg af enkeltstående eller gentagende arrangement. Se beskrivelse ovenfor. 
@@ -71,25 +71,23 @@ Påkrævet felt. Valg af enkeltstående eller gentagende arrangement. Se beskriv
 ### Dato/tid
 Bemærk at udseendet af dette felt og valgmulighederne i det ændrer sig, afhængigt af hvilken type arrangement, der er valgt i Gentagelsesmønster.
 
-### Address
-Adresse, hvor arrangementet afholdes. Obligatorisk felt.
-Adresse-oplysninger indtastes pt manuelt.
-På sigt vil feltet blive automatisk udfyldt, når der er oprettet biblioteker i CMS.
+### Adresse
+Adresse, hvor arrangementet afholdes, hvis det ikke er på et bibliotek.
 
-### Ticket link
+### Billetlink
 Hvis der er billetsalg til dit arrangement, lægges link til billetkøb ind her.
 
-### Ticket categories
-Her tilknyttes billetnavn (Name) og pris (Price). Pris kan også være 0 kr. (gratis).
+### Billetkategorier
+Her tilknyttes billetkategorinavn (Navn) og pris (Price). Pris kan også være 0 kr. (gratis).
 
-Arrangementer har pt ved oprettelse ingen Ticket category. Dette er for at tilgodese, at arrangementer ikke nødvendigvis kræver billet. Hvis dit arrangement kræver billet, skal du altså manuelt tilføje Ticket category.
+Arrangementer har pt ved oprettelse ingen billetkategori. Dette er for at tilgodese, at arrangementer ikke nødvendigvis kræver billet. Hvis dit arrangement kræver billet, skal du altså manuelt tilføje Billetkategori.
 
-Det er muligt at tilføje flere Ticket categories, hvis dit arrangement har billetter i forskellige prisklasser.
+Det er muligt at tilføje flere billetkategorier, hvis dit arrangement har billetter i forskellige prisklasser.
 
-### Place
+### Sted
 Her kan angives specifik lokation, hvor arrangementet afholdes, fx Børnebiblioteket eller Store Sal.
 
-### Partners
+### I samarbejde med
 Eventuelle samarbejdspartnere kan indtastes her.
 
 ### Paragraphs
@@ -97,34 +95,16 @@ Du kan nu opbygge din sides indhold og udseende ved hjælp af Paragraphs-kompone
 
 [Læs om Paragraphs-komponenterne og deres funktioner](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/paragraphs-komponenter/)
 
-Der er følgende Paragraphs-komponenter at vælge fra:
-- Accordion
-- Card grid – automatic
-- Card grid – manual
-- Content slider
-- Files
-- Hero
-- Navigation grid – manual
-- Navigation spots – manual
-- Recommendation
-- Video
-- Text body
-- Links
-- Media(s)
-- Material grid automatic
-- Material grid manual
-
-
 ## Sidebar-panel
 
 ### Planlægning
 Udgivelse af arrangementet kan planlægges via sidebar-panelet.
 Der kan sættes et fremtidigt publicerings-tidspunkt og/eller et fremtidigt afpublicerings-tidspunkt.
 
-### Image
+### Billede
 Her kan du tilføje et billede, som vises øverst på selve dit arrangement.
 
-### State
+### Status
 Obligatorisk felt. Dit arrangements tilstand, fx udsolgt eller aflyst, angiver du via dropdown’en. 
 Som udgangspunkt er feltet altid sat til Active.
 
@@ -143,22 +123,22 @@ Teaser-felterne er det indhold, som trækkes ud i visningskort (udtræk, der fun
 
 Teaserbillede vælges via knappen **Tilføj media**. Teaserbillede er dog ikke påkrævet. Hvis man ikke vælger et teaserbillede, vises teaserteksten på farvet baggrund i kort-udtrækkene.
 
-### Categories
+### Kategorier
 Kategori, fx ’Litteratur’ eller ’Digitalt’, kan vælges i dropdown-menu.
 Du opretter selv dine kategorier via **Struktur > Taksonomi**
 
-### Tags
+### Tagging
 Her kan du tilknytte valgfrie ’tags’, emneord, til dit arrangement.
 Vil du tilknytte flere tags, skal de adskilles af et komma.
 
 
-## Udgivet/Gem
+## Publiceret/Gem
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/eb881bd7-8bf9-41b0-86b5-9f557008d720" alt="Gem findes i øverste højre hjørne" caption="Gem findes i øverste højre hjørne" %} 
 
 Tryk på **Gem** for at gemme/publicere arrangementet.
 
-Det er muligt at gemme arrangementet uden at publicere ved at slukke for **den grønne knap** ved **Udgivet**.
+Det er muligt at gemme arrangementet uden at publicere ved at slukke for **den grønne knap** ved **Publiceret**.
 
 
 
