@@ -45,6 +45,9 @@ Du tilføjer, redigerer og sletter åbningstider ved at redigere et bibliotek. I
 
 Her kan I tilføje, redigere og slette åbningstider.
 
+- Hvis man har en åbningstid, der går til kl. 00:00, så skal man anføre 23:59 i stedet. Ellers skifter åbningstid dato og det understøtter systemet ikke.
+- Har man en åbningstid, der løber henover en nat, fra 18:00 til 06:00, er man nødt til at oprette det som to åbningstider: 19:00 – 23:59 og 00:00 – 06:00.
+
 ### Vis åbningstider på et bibliotek
 Dette gøres når man redigere eller opretter et bibliotek ved at tilføje en Paragraph. Læs mere i afsnittet **Opret biblioteker** i starten af denne guiden.
 
