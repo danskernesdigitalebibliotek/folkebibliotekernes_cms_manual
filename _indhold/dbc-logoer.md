@@ -10,4 +10,4 @@ Der er logo til Bibliotek.dk, Børnebiffen, Buggi, Faktalink, Filmstriben, Forfa
 
 [Download PR-pakke med logo-filer til DBC's tjenester](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/assets/files/dbc-pr-pakke.zip){:target="_blank" rel="noopener"}.
 
-Der er den 4/6-24 blevet tilføjet flere logo-filer i pakken. Det er sær-udgaver af logoerne, der er særlig tilpasset til Folkebibliotekernes CMS. Det er Martin Jørgensen fra Hjørring Bibliotekerne, der har lavet dem. Vi siger tak for bidraget!  
+4/6-24 er der blevet tilføjet sær-udgaver af logoerne, der er særlig tilpasset til Folkebibliotekernes CMS. Det er Martin Jørgensen fra Hjørring Bibliotekerne, der har lavet dem. Vi siger tak for bidraget!  
