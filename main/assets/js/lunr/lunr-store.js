@@ -474,7 +474,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Logoer til DBC's digitale tilbud",
-        "excerpt":"DBC har lavet en PR-pakke til deres digitale digitale tilbud. Den indeholder logoer i forskellige udgaver og i høj opløsning. Der er logo til Bibliotek.dk, Børnebiffen, Buggi, Faktalink, Filmstriben, Forfatterweb samt Læsekompasset. Download PR-pakke med logo-filer til DBC’s tjenester. Der er den 4/6-24 blevet tilføjet flere logo-filer i pakken. Det...","categories": ["Generelt"],
+        "excerpt":"DBC har lavet en PR-pakke til deres digitale digitale tilbud. Den indeholder logoer i forskellige udgaver og i høj opløsning. Der er logo til Bibliotek.dk, Børnebiffen, Buggi, Faktalink, Filmstriben, Forfatterweb samt Læsekompasset. Download PR-pakke med logo-filer til DBC’s tjenester. 4/6-24 er der blevet tilføjet sær-udgaver af logoerne, der er særlig...","categories": ["Generelt"],
         "tags": [],
         "url": "/main/indhold/dbc-logoer/",
         "teaser": null
