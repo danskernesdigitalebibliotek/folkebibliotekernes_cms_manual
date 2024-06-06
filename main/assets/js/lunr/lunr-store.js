@@ -779,6 +779,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-22-1/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.23.0",
+        "excerpt":"Mere brugervenligt dashboard, stylet loginside for redaktionelle brugere, avanceret funktionalitet til webforms og cookiebanner Nye features Overskredne lån: Henvisning og information om overskredne lån på ”Gebyr og erstatninger” user/me/fees Loginside for redaktionelle brugere: Nyt design på /user/login Webforms: Nu muligt at tilføje en lang række nye felttyper bl.a. ”Hidden”, ”Number”,...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-23-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
