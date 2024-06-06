@@ -780,7 +780,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2024.23.0",
-        "excerpt":"Mere brugervenligt dashboard, stylet loginside for redaktionelle brugere, avanceret funktionalitet til webforms og cookiebanner Nye features Overskredne lån: Henvisning og information om overskredne lån på ”Gebyr og erstatninger” user/me/fees Loginside for redaktionelle brugere: Nyt design på /user/login Webforms: Nu muligt at tilføje en lang række nye felttyper bl.a. ”Hidden”, ”Number”,...","categories": ["Release Notes"],
+        "excerpt":"Mere brugervenligt dashboard, stylet loginside for redaktionelle brugere, avanceret funktionalitet til webforms og cookiebanner Nye features Overskredne lån: Henvisning og information om overskredne lån på ”Gebyr og erstatninger” user/me/fees. Loginside for redaktionelle brugere: Nyt design på /user/login. Webforms: Nu muligt at tilføje en lang række nye felttyper bl.a. ”Hidden”, ”Number”,...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-23-0/",
         "teaser": null
