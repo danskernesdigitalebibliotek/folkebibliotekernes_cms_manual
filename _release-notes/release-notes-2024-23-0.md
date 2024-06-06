@@ -8,9 +8,9 @@ weight: 993
 
 
 ## Nye features
-- Overskredne lån: Henvisning og information om overskredne lån på ”Gebyr og erstatninger” user/me/fees
+- Overskredne lån: Henvisning og information om overskredne lån på ”Gebyr og erstatninger” user/me/fees.
 
-- Loginside for redaktionelle brugere: Nyt design på /user/login
+- Loginside for redaktionelle brugere: Nyt design på /user/login.
 
 - Webforms: Nu muligt at tilføje en lang række nye felttyper bl.a. ”Hidden”, ”Number”, ”Telephone” og ”Date”.
 
