@@ -24,7 +24,7 @@ Udfyld formularen med følgende oplysninger:
 - Aktiveret: skal menupunktet være synligt eller ej
 - Vægt: Rækkefølgen af menupunkter
 
-Hvis du ønsker et menupunkt til listen af arrangementer, skal du indsætte /events i **Link**. For listen af artikler, skal du indsætte /articles i **Link**. For listen af biblioteker, skal du indsætte /branches i **Link**. 
+Hvis du ønsker et menupunkt til listen af arrangementer, skal du indsætte /arrangementer i **Link**. For listen af artikler, skal du indsætte /artikler i **Link**. For listen af biblioteker, skal du indsætte /biblioteker i **Link**. 
 {: .notice--primary}
 
 Tryk **Gem**, nederst til venstre.
