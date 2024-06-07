@@ -11,6 +11,12 @@ var store = [{
         "url": "/main/bliv-klar-til-folkebibliotekernes-cms/11dns/",
         "teaser": null
       },{
+        "title": "Opgave 12: Slå-op funktion i Netpunkt",
+        "excerpt":"Denne opgave skal løses, når I er gået i drift med det nye site. I Netpunkt findes en “Er hjemme” - “slå op” funktion. Den linker til beholdningsvisning for en titel i bibliotekets eget CMS. Netpunkt skal kende url-strukturen I jeres nye CMS, for at funktionen virker. Den skal I...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/main/bliv-klar-til-folkebibliotekernes-cms/12netpunkt-slaa-op/",
+        "teaser": null
+      },{
         "title": "Opgave 1: Projektorganisering på biblioteket",
         "excerpt":"Målet med denne opgave er at få etableret en fornuftig organisering af arbejdet med at implementere Folkebibliotekernes CMS. Beskrivelse I skal nu til at opbygge en helt ny hjemmeside, og det kommer til at tage noget tid. Derfor er det vigtigt, at I får styr på, hvem der skal gøre...","categories": ["Overgangsaktiviter"],
         "tags": [],
@@ -69,12 +75,6 @@ var store = [{
         "excerpt":"Her kan I danne jer et overblik over de aktiviteter, I skal igennem ifm. overgangen til Folkebibliotekernes CMS. Tag stilling til indholdet på jeres nuværende website og skitsér en plan for det nye. Kig på de nye designelementer og lad jer inspirere til en ny måde at strukturere og vise...","categories": [],
         "tags": [],
         "url": "/main/bliv-klar-til-folkebibliotekernes-cms/",
-        "teaser": null
-      },{
-        "title": "Opgave 12: Slå-op funktion i Netpunkt",
-        "excerpt":"Denne opgave skal løses, når I er gået i drift med det nye site. I Netpunkt findes en “Er hjemme” - “slå op” funktion. Den linker til beholdningsvisning for en titel i et biblioteks CMS. Netpunkt skal kende url-strukturen I jeres nye CMS, for at funktionen virker. Den skal I...","categories": ["Overgangsaktiviter"],
-        "tags": [],
-        "url": "/main/bliv-klar-til-folkebibliotekernes-cms/netpunkt-slaa-op/",
         "teaser": null
       },{
         "title": "Indstillinger > Biblioteksindstillinger",
