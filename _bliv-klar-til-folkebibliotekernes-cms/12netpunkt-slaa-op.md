@@ -6,7 +6,7 @@ weight: 12
 ### Denne opgave skal løses, når I er gået i drift med det nye site.
 {: .notice--info}
 
-I Netpunkt findes en "Er hjemme" - "slå op" funktion. Den linker til beholdningsvisning for en titel i bibliotekets eget CMS.
+I Netpunkt findes en **Er hjemme** - **slå op** funktion. Den linker til beholdningsvisning for en titel i bibliotekets eget CMS.
 Netpunkt skal kende url-strukturen I jeres nye CMS, for at funktionen virker. Den skal I angive i VIP.
 
 
