@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 12: Slå-op funktion i Netpunkt",
-        "excerpt":"Denne opgave skal løses, når I er gået i drift med det nye site. I Netpunkt findes en “Er hjemme” - “slå op” funktion. Den linker til beholdningsvisning for en titel i bibliotekets eget CMS. Netpunkt skal kende url-strukturen I jeres nye CMS, for at funktionen virker. Den skal I...","categories": ["Overgangsaktiviter"],
+        "excerpt":"Denne opgave skal løses, når I er gået i drift med det nye site. I Netpunkt findes en Er hjemme - slå op funktion. Den linker til beholdningsvisning for en titel i bibliotekets eget CMS. Netpunkt skal kende url-strukturen I jeres nye CMS, for at funktionen virker. Den skal I...","categories": ["Overgangsaktiviter"],
         "tags": [],
         "url": "/main/bliv-klar-til-folkebibliotekernes-cms/12netpunkt-slaa-op/",
         "teaser": null
