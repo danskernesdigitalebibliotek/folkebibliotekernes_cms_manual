@@ -3,10 +3,10 @@ title: "Opgave 12: Slå-op funktion i Netpunkt"
 category: "Overgangsaktiviter"
 weight: 12
 ---
+### Denne opgave skal løses, når I er gået i drift med det nye site.
+{: .notice--info}
 
-#### Denne opgave skal løses, når I er gået i drift med det nye site.
-
-I Netpunkt findes en "Er hjemme" - "slå op" funktion. Den linker til beholdningsvisning for en titel i et biblioteks CMS.
+I Netpunkt findes en "Er hjemme" - "slå op" funktion. Den linker til beholdningsvisning for en titel i bibliotekets eget CMS.
 Netpunkt skal kende url-strukturen I jeres nye CMS, for at funktionen virker. Den skal I angive i VIP.
 
 
