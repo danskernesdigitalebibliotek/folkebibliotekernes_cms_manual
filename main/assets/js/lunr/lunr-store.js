@@ -647,8 +647,8 @@ var store = [{
         "url": "/main/konfiguration/oversaettelse-af-brugergraenseflade/",
         "teaser": null
       },{
-        "title": "Opret systembruger og skift password",
-        "excerpt":"I topmenuen klik på Redaktionelle brugere Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/people Opret systembruger Log på med en bruger der har rollen administrator eller lokal administrator. Ellers har du ikke nok rettigheder, til at kunne oprette brugere. Klik på knappen Add user i øverste højre hjørne. Klik på knappen...","categories": ["Konfiguration"],
+        "title": "Redaktionelle brugere",
+        "excerpt":"I topmenuen klik på Redaktionelle brugere Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/people Via menupunktet Reaktionelle brugere kan du: Oprette logins til dine kolleger, så de kan arbejde med hjemmesidens indhold Skifte password for dine kolleger Oprette adgang til eksterne systemer som f. eks. Place2book Opret ny redaktionel bruger Log...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/main/konfiguration/personer/",
         "teaser": null
