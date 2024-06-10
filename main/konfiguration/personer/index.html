@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2024-06-10T11:42:04+00:00">
+  <meta property="article:published_time" content="2024-06-10T14:06:18+00:00">
 
 
 
@@ -282,7 +282,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Redaktionelle brugere">
     <meta itemprop="description" content="I topmenuen klik på Redaktionelle brugere">
-    <meta itemprop="datePublished" content="2024-06-10T11:42:04+00:00">
+    <meta itemprop="datePublished" content="2024-06-10T14:06:18+00:00">
     
 
     <div class="page__inner-wrap">
@@ -322,8 +322,9 @@
 
 <p>Via menupunktet <strong>Reaktionelle brugere</strong> kan du:</p>
 <ul>
-  <li>Oprette logins til dine kolleger, så de kan arbejde med hjemmesidens indhold</li>
-  <li>Skifte password for dine kolleger</li>
+  <li><a href="https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#opret-ny-redaktionel-bruger">Oprette logins til dine kolleger, så de kan arbejde med hjemmesidens indhold</a></li>
+  <li><a href="https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#glemt-password-funktion">Skifte dit eget password</a></li>
+  <li><a href="https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#skift-password-for-redaktionel-bruger">Skifte password for en kollega</a></li>
   <li>Oprette adgang til eksterne systemer som f. eks. Place2book</li>
 </ul>
 
@@ -357,7 +358,7 @@
 
     </figcaption></figure>
 
-<p><a href="https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#roller">Læs mere om de tilgængelige brugerroller</a></p>
+<p><a href="https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#roller-1">Læs mere om de tilgængelige brugerroller</a></p>
 
 <h4 id="påmind-bruger-om-ny-konto">Påmind bruger om ny konto:</h4>
 <p>Aktiver denne, hvis der skal sendes en mail med login-oplysninger til brugeren. I mailen er et link til hjemmesiden, hvor brugeren bliver bedt om at skifte sin adgangskode. (Linket er svært at få øje på)</p>
@@ -393,6 +394,8 @@
   <li><strong>Administrator</strong> kan ændre siden udover CMS’ets standardindstillinger fx ved at aktivere og deaktivere moduler. Har adgang til alt i CMS’et.</li>
 </ul>
 
+<p>Man kan også oprette brugere af typen <strong>eksternt system</strong>. Den type brugere oprettes på vegne af eksterne partnere, der skal hente artikler eller arrangementer fra jeres CMS via APIet. Det kan f. eks. være Place2book eller et storskærmssystem.</p>
+
 <p><strong>Patron</strong> er lånerne. Patron-brugerprofilen oprettes automatisk, når en låner første gang logger ind på websitet via Adgangsplatformen. Patron-brugerne skal være der, og der bliver automatisk ryddet op i dem.</p>
 
 <h2 id="glemt-password-funktion">Glemt password funktion</h2>
@@ -409,23 +412,23 @@
     </figcaption></figure>
 
 <h2 id="skift-password-for-redaktionel-bruger">Skift password for redaktionel bruger</h2>
+<ol>
+  <li>Log på med en bruger der har rollen <strong>administrator</strong> eller <strong>lokal administrator</strong>. Ellers har du ikke nok rettigheder, til at kunne ændre en anden brugers password.</li>
+  <li>Fremsøg din kollega på <strong>navn</strong> eller <strong>email</strong>.</li>
+  <li>Tryk <strong>Rediger</strong> til højre for deres navn
+    <figure class="seventy"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/364d0455-8802-4ae7-9a28-dc8f6daf5345" alt="Fremsøg redaktionel bruger på navn" /><figcaption>
+   Fremsøg redaktionel bruger på navn
 
-<p>Er der en redaktionel</p>
+ </figcaption></figure>
+  </li>
+  <li>Udfyld ny adgangskode for din kollega.
+    <figure class="seventy"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/a70ce1c9-13ff-4ba6-aec6-e8186c382296" alt="Angiv ny adgangskode for redaktionel bruger" /><figcaption>
+   Angiv ny adgangskode for redaktionel bruger
 
-<p>Klik på Admin ikonet i øverste højre hjørne og vælg Edit profile.</p>
-
-<figure class="seventy"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/c20cd123-8f6f-4006-866d-166ccdcd687b" alt="Edit profile" /><figcaption>
-      Edit profile
-
-    </figcaption></figure>
-
-<p>Udfyld felterne med det nuværende password og det nye.
-Hvis du ikke kan huske det nuværende password, kan du klikke på linket Reset your password. En vejledning bliver du sendt til din email.</p>
-
-<figure class="seventy"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/42efd3ec-175f-4a02-b99e-b0315e86b5da" alt="Skift adgangskode" /><figcaption>
-      Skift adgangskode
-
-    </figcaption></figure>
+ </figcaption></figure>
+  </li>
+  <li>Tryk <strong>Gem</strong> nederst på siden.</li>
+</ol>
 
 
         
@@ -438,7 +441,7 @@ Hvis du ikke kan huske det nuværende password, kan du klikke på linket Reset y
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-06-10T11:42:04+00:00">June 10, 2024</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-06-10T14:06:18+00:00">June 10, 2024</time></p>
 
       </footer>
 
