@@ -527,6 +527,12 @@ var store = [{
         "url": "/main/indhold/pausefunktion/",
         "teaser": null
       },{
+        "title": "Place2book integration",
+        "excerpt":" ","categories": ["Generelt"],
+        "tags": [],
+        "url": "/main/indhold/place2book/",
+        "teaser": null
+      },{
         "title": "Standardtekst for Privatlivspolitik",
         "excerpt":"Har du mistet standardteksten til den faste side “Privatlivspolitik”, så er den her: Privatlivspolitik Oplysningstekst om behandling af personoplysninger. I forbindelse med din oprettelse som bruger hos [Dannevang Kommunes Biblioteker] samt din fremadrettede brug af [Dannevangs Bibliotekers] selvbetjeningsløsninger, herunder selvbetjeningsautomater, hjemmeside, åbne biblioteker (dvs. benytte biblioteket udenfor betjent åbningstid) og...","categories": [],
         "tags": [],
