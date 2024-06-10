@@ -12,11 +12,13 @@ Eller åbn via URL (udskift mit-domænenavn.dk):\
 
 Via menupunktet **Reaktionelle brugere** kan du:
 - [Oprette logins til dine kolleger, så de kan arbejde med hjemmesidens indhold](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#opret-ny-redaktionel-bruger)
-- [Skifte dit eget password](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#glemt-password-funktion)
+- [Glemt password funktion](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#glemt-password-funktion)
+- [Skifte dit eget password]()
 - [Skifte password for en kollega](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#skift-password-for-redaktionel-bruger)
-- Oprette adgang til eksterne systemer som f. eks. Place2book 
+- [Oprette adgang til eksterne systemer som f. eks. Place2book](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#opret-bruger-til-ekstern-adgang-api-bruger)
 
 ## Opret ny redaktionel bruger
+Kolleger, der skal hjælpe dig med at opdatere hjemmesiden, skal du oprettes som redaktionelle brugere.
 
 Log på med en bruger der har rollen **administrator** eller **lokal administrator**. Ellers har du ikke nok rettigheder, til at kunne oprette brugere.
 
@@ -79,7 +81,16 @@ Er du redaktionel bruger og har glemt dit password er der en **Glemt adgangskode
    
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f5bcc166-db83-44b5-9a0c-6d59e3c8be6a" alt="Nulstil din adgangskode" caption="Nulstil din adgangskode" %}
 
+## Skift dit eget password
+Kender du dit password og vil du gerne skifte det kan det ordnes via din brugerprofil.
+1. Gå til `https://mit-domænenavn.dk/user/login` (udskift mit-domænenavn.dk) og log ind
+2. Klik på **dit brugernavn** i øverste højre hjørne og vælg **Rediger profil**
+   {% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/8238fe8f-9f52-45a1-a9a1-4838779ccf45" alt="Skift din egen adgangskode" caption="Skift din egen adgangskode" %}
+3. I din brugerprofil kan du angive en ny adgangskode.
+
+
 ## Skift password for redaktionel bruger
+Skal en kollega have nyt password, kan du skifte det for vedkommende.
 1. Log på med en bruger der har rollen **administrator** eller **lokal administrator**. Ellers har du ikke nok rettigheder, til at kunne ændre en anden brugers password.
 2. Fremsøg din kollega på **navn** eller **email**.
 3. Tryk **Rediger** til højre for deres navn
