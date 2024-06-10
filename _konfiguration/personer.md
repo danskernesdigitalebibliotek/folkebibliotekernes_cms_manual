@@ -28,10 +28,10 @@ Klik på knappen **Tilføj bruger** i øverste højre hjørne.
 
 Udfyld følgende:
 
-+ Forfatternavn - Brugerens synlige navn. Det vises i forbindelse med indhold, som brugeren har skrevet
-+ E-mail-adresse -  Brugerens email.
-+ Brugernavn - Brugerens interne brugernavn. Mange vælger deres initialer. (er kun synligt i kontrolpanelet).
-+ Adgangskode - Brugerens adgangskode.
++ **Forfatternavn** - Brugerens synlige navn. Det vises i forbindelse med indhold, som brugeren har skrevet
++ **E-mail-adresse** -  Brugerens email.
++ **Brugernavn** - Brugerens interne brugernavn. Mange vælger deres initialer. (er kun synligt i kontrolpanelet).
++ **Adgangskode** - Brugerens adgangskode.
 
 #### Status:
 Er automatisk sat til **Aktiv**. Hvis brugeren skal blokeres vælges Blokeret.
