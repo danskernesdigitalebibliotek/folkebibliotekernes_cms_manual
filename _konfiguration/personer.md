@@ -88,4 +88,14 @@ Er du redaktionel bruger og har glemt dit password er der en **Glemt adgangskode
    {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/a70ce1c9-13ff-4ba6-aec6-e8186c382296" alt="Angiv ny adgangskode for redaktionel bruger" caption="Angiv ny adgangskode for redaktionel bruger" %}
 5. Tryk **Gem** nederst på siden.
 
+## Opret bruger til ekstern adgang (API bruger)
+Eksterne samarbejdspartnere har mulighed for at lave integrationer til Folkebibliotekernes CMS via et API.
+API-kald til jeres CMS skal ske via en særlig bruger, som I skal oprette og udlevere til jeres eksterne samarbejdspartner.
+Denne type bruger skal have rollen **Eksternt system**.
+
+Vi anbefaler at I opretter en bruger pr. integration. Har I f. eks. integration til både Place2book og et storskærmssystem, så skal I oprette en bruger til hver. Derved holdes trafikken adskilt.
+
+Læs mere om Place2book integration.
+
+
 
