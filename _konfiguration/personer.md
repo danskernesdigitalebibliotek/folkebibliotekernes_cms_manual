@@ -11,8 +11,9 @@ Eller åbn via URL (udskift mit-domænenavn.dk):\
 `https://mit-domænenavn.dk/admin/people`
 
 Via menupunktet **Reaktionelle brugere** kan du:
-- Oprette logins til dine kolleger, så de kan arbejde med hjemmesidens indhold
-- Skifte password for dine kolleger
+- [Oprette logins til dine kolleger, så de kan arbejde med hjemmesidens indhold](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#opret-ny-redaktionel-bruger)
+- [Skifte dit eget password](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#glemt-password-funktion)
+- [Skifte password for en kollega](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#skift-password-for-redaktionel-bruger)
 - Oprette adgang til eksterne systemer som f. eks. Place2book 
 
 ## Opret ny redaktionel bruger
@@ -37,7 +38,7 @@ Er automatisk sat til **Aktiv**. Hvis brugeren skal blokeres vælges Blokeret.
 Vælg brugerens rolle. For de fleste almindelige redaktører vil rollen **Redaktør** være tilstrækkelig. Redaktør kan oprette indhold, men har ikke adgang til at ændre indstillinger på siden.
 {% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/e3b2a3d5-0cd0-46ee-a096-83d1bc7b8df0" alt="Brugerroller" caption="Brugerroller" %}
 
-[Læs mere om de tilgængelige brugerroller](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#roller)
+[Læs mere om de tilgængelige brugerroller](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#roller-1)
 
 #### Påmind bruger om ny konto:
 Aktiver denne, hvis der skal sendes en mail med login-oplysninger til brugeren. I mailen er et link til hjemmesiden, hvor brugeren bliver bedt om at skifte sin adgangskode. (Linket er svært at få øje på)
@@ -66,6 +67,8 @@ Som udgangspunkt skal jeres brugere ikke tildeles flere rettigheder, end dem der
 **Webmasterbiblioteker** har en ekstra brugertype:
 - **Administrator** kan ændre siden udover CMS'ets standardindstillinger fx ved at aktivere og deaktivere moduler. Har adgang til alt i CMS'et.
 
+Man kan også oprette brugere af typen **eksternt system**. Den type brugere oprettes på vegne af eksterne partnere, der skal hente artikler eller arrangementer fra jeres CMS via APIet. Det kan f. eks. være Place2book eller et storskærmssystem. 
+
 **Patron** er lånerne. Patron-brugerprofilen oprettes automatisk, når en låner første gang logger ind på websitet via Adgangsplatformen. Patron-brugerne skal være der, og der bliver automatisk ryddet op i dem. 
 
 ## Glemt password funktion
@@ -77,15 +80,12 @@ Er du redaktionel bruger og har glemt dit password er der en **Glemt adgangskode
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f5bcc166-db83-44b5-9a0c-6d59e3c8be6a" alt="Nulstil din adgangskode" caption="Nulstil din adgangskode" %}
 
 ## Skift password for redaktionel bruger
+1. Log på med en bruger der har rollen **administrator** eller **lokal administrator**. Ellers har du ikke nok rettigheder, til at kunne ændre en anden brugers password.
+2. Fremsøg din kollega på **navn** eller **email**.
+3. Tryk **Rediger** til højre for deres navn
+   {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/364d0455-8802-4ae7-9a28-dc8f6daf5345" alt="Fremsøg redaktionel bruger på navn" caption="Fremsøg redaktionel bruger på navn" %}
+4. Udfyld ny adgangskode for din kollega.
+   {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/a70ce1c9-13ff-4ba6-aec6-e8186c382296" alt="Angiv ny adgangskode for redaktionel bruger" caption="Angiv ny adgangskode for redaktionel bruger" %}
+5. Tryk **Gem** nederst på siden.
 
-Er der en redaktionel
-
-Klik på Admin ikonet i øverste højre hjørne og vælg Edit profile.
-
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/c20cd123-8f6f-4006-866d-166ccdcd687b" alt="Edit profile" caption="Edit profile" %}
-
-Udfyld felterne med det nuværende password og det nye.
-Hvis du ikke kan huske det nuværende password, kan du klikke på linket Reset your password. En vejledning bliver du sendt til din email.
-
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/42efd3ec-175f-4a02-b99e-b0315e86b5da" alt="Skift adgangskode" caption="Skift adgangskode" %}
 
