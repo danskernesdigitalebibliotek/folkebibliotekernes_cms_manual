@@ -35,6 +35,8 @@ Tilføj kilden ”Overbygningsmaterialer” hvis I ønsker, at brugerne skal kun
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/22dfeac7-4a4f-4a7f-8710-95b7efb70f9e" alt="Visningsprofilen skal IKKE have flueben i Tilføj alle visningskilder" caption="Søgeprofilen skal IKKE have flueben i Tilføj alle visningskilder" %} 
 
+Søgeprofilen må IKKE have kilden "Folkebiblioteker og Nationalbibliografi (alle 870970-poster, til FBS)" aktiveret. Hvis I ønsker i at genbruge jeres opac-profil som søgeprofil, og hvis denne kilde aktiveret dér, så skal I deaktivere den, lige inden I går i produktion med Folkebibliotekernes CMS.
+
 
 ## Visningsprofilen
 Visningsprofilen bruges i de sammenhænge, hvor brugerne skal se detaljer om et værk. Det gælder værkvisnings-siden, lånerstatus og huskelisten. Der er en række scenarier, hvor brugerne har brug for at se en værkvisningsside for et materiale, der ikke er i lokal beholdning. F. eks. hvis de klikker på titlen på et fjernlånt materiale i deres lånerstatus, men også hvis der er tilføjet et værk til huskelisten via et andet bibliotek, eller hvis de klikker på et link til et kasseret materiale i en gammel artikel.
