@@ -13,7 +13,7 @@ Eller åbn via URL (udskift mit-domænenavn.dk):\
 Via menupunktet **Reaktionelle brugere** kan du:
 - [Oprette logins til dine kolleger, så de kan arbejde med hjemmesidens indhold](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#opret-ny-redaktionel-bruger)
 - [Glemt password funktion](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#glemt-password-funktion)
-- [Skifte dit eget password]()
+- [Skifte dit eget password](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#skift-dit-eget-password)
 - [Skifte password for en kollega](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#skift-password-for-redaktionel-bruger)
 - [Oprette adgang til eksterne systemer som f. eks. Place2book](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#opret-bruger-til-ekstern-adgang-api-bruger)
 
@@ -79,7 +79,7 @@ Er du redaktionel bruger og har glemt dit password er der en **Glemt adgangskode
 (udskift mit-domænenavn.dk)
 2. Klik på **Glemt din adgangskode?** og følg guiden.
    
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f5bcc166-db83-44b5-9a0c-6d59e3c8be6a" alt="Nulstil din adgangskode" caption="Nulstil din adgangskode" %}
+{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f5bcc166-db83-44b5-9a0c-6d59e3c8be6a" alt="Nulstil din adgangskode" caption="Nulstil din adgangskode" %}
 
 ## Skift dit eget password
 Kender du dit password og vil du gerne skifte det kan det ordnes via din brugerprofil.
