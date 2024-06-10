@@ -2,8 +2,6 @@
 title: "Artikel"
 category: "Indholdstyper"
 weight: 1
-emneord:
-- "X Mangler tekst"
 ---
 Artikel svarer til den indholdstype, der i det gamle CMS hed ”Nyhed”.
 
