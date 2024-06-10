@@ -19,42 +19,38 @@ Via menupunktet **Reaktionelle brugere** kan du:
 
 Log på med en bruger der har rollen **administrator** eller **lokal administrator**. Ellers har du ikke nok rettigheder, til at kunne oprette brugere.
 
-Klik på knappen **Opret bruger** i øverste højre hjørne.
+Klik på knappen **Tilføj bruger** i øverste højre hjørne.
 
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/c461ffc6-a518-4612-b8e9-6242c774c6fd" alt="Klik på knappen Add user" caption="Klik på knappen Add user" %}
+{% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/e287f512-9efb-4687-972b-cca5db8dc94e" alt="Klik på knappen Tilføj bruger" caption="Klik på knappen Tilføj bruger" %}
 
-Du skal nu udfylde en formular med oplysninger om den nye systembruger. Se et eksempel på formularen nedenfor.
+Udfyld følgende:
 
-Indtast oplysningerne i formularen:
++ Forfatternavn - Brugerens synlige navn. Det vises i forbindelse med indhold, som brugeren har skrevet
++ E-mail-adresse -  Brugerens email.
++ Brugernavn - Brugerens interne brugernavn. Mange vælger deres initialer. (er kun synligt i kontrolpanelet).
++ Adgangskode - Brugerens adgangskode.
 
-+ Email adress - systembrugerens email.
-+ Username - systembrugerens interne brugernavn (er kun synligt i kontrolpanelet).
-+ Password - systembrugerens adgangskode.
+#### Status:
+Er automatisk sat til **Aktiv**. Hvis brugeren skal blokeres vælges Blokeret.
 
-**Status:**
-Er automatisk sat til Active. Hvis brugeren skal blokeres vælges Blocked.
-
-**Roles:**
-Vælg systembrugerens rolle. For de fleste almindelige redaktører vil rollen Editor være tilstrækkelig. Editor kan oprette indhold, men har ikke adgang til at ændre indstillinger på siden.
+#### Roller:
+Vælg brugerens rolle. For de fleste almindelige redaktører vil rollen **Redaktør** være tilstrækkelig. Redaktør kan oprette indhold, men har ikke adgang til at ændre indstillinger på siden.
+{% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/e3b2a3d5-0cd0-46ee-a096-83d1bc7b8df0" alt="Brugerroller" caption="Brugerroller" %}
 
 [Læs mere om de tilgængelige brugerroller](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#roller)
 
-**Notify:**
-Knappen Notify kan markeres, hvis alle øvrige systembrugere skal informeres om oprettelse af den nye systembruger.
+#### Påmind bruger om ny konto:
+Aktiver denne, hvis der skal sendes en mail med login-oplysninger til brugeren. I mailen er et link til hjemmesiden, hvor brugeren bliver bedt om at skifte sin adgangskode. (Linket er svært at få øje på)
 
-**Language settings:**
+#### Sitets sprog:
 Vælg mellem dansk og engelsk sprog for den nye systembrugers kontrolpanel. Det er vigtigt at sætte sproget til dansk. Hele manualen er skrevet ud fra den danske oversættelse.
 
-**Create new account:**
-Afslut opretningen ved at klikke på Create new account
-
-**Eksempel på systembruger formular:**
-
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/122aaf9b-c55a-45c5-bac3-fe38d2a5e28f" alt="En tom systembruger formular" caption="En tom systembruger formular" %}
+#### Opret konto:
+Afslut opretningen ved at klikke på **Opret konto**
 
 ## Roller
 
-Når du opretter en ny systembrugere skal han/hun tildeles en rolle. 
+Når du opretter en ny redaktionel bruger, skal han/hun tildeles en rolle. 
 
 Som udgangspunkt skal jeres brugere ikke tildeles flere rettigheder, end dem der er nødvendige, for at de kan løse deres arbejdsopgaver.
 {: .notice}
@@ -72,9 +68,17 @@ Som udgangspunkt skal jeres brugere ikke tildeles flere rettigheder, end dem der
 
 **Patron** er lånerne. Patron-brugerprofilen oprettes automatisk, når en låner første gang logger ind på websitet via Adgangsplatformen. Patron-brugerne skal være der, og der bliver automatisk ryddet op i dem. 
 
-## Skit password for systembruger
+## Glemt password funktion
+Er du redaktionel bruger og har glemt dit password er der en **Glemt adgangskode** funktion, der nulstiller dit password.
+1. Gå til `https://mit-domænenavn.dk/user/login`\
+(udskift mit-domænenavn.dk)
+2. Klik på **Glemt din adgangskode?** og følg guiden.
+   
+{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f5bcc166-db83-44b5-9a0c-6d59e3c8be6a" alt="Nulstil din adgangskode" caption="Nulstil din adgangskode" %}
 
-Log ind som systembruger.
+## Skift password for redaktionel bruger
+
+Er der en redaktionel
 
 Klik på Admin ikonet i øverste højre hjørne og vælg Edit profile.
 
