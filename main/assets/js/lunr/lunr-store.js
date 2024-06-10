@@ -648,7 +648,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Redaktionelle brugere",
-        "excerpt":"I topmenuen klik på Redaktionelle brugere Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/people Via menupunktet Reaktionelle brugere kan du: Oprette logins til dine kolleger, så de kan arbejde med hjemmesidens indhold Skifte dit eget password Skifte password for en kollega Oprette adgang til eksterne systemer som f. eks. Place2book Opret...","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Redaktionelle brugere Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/people Via menupunktet Reaktionelle brugere kan du: Oprette logins til dine kolleger, så de kan arbejde med hjemmesidens indhold Glemt password funktion Skifte dit eget password Skifte password for en kollega Oprette adgang til eksterne systemer som f....","categories": ["Konfiguration"],
         "tags": [],
         "url": "/main/konfiguration/personer/",
         "teaser": null
