@@ -479,12 +479,6 @@ var store = [{
         "url": "/main/indhold/cql-soegestrenge/",
         "teaser": null
       },{
-        "title": "Logoer til DBC's digitale tilbud",
-        "excerpt":"DBC har lavet en PR-pakke til deres digitale digitale tilbud. Den indeholder logoer i forskellige udgaver og i høj opløsning. Der er logo til Bibliotek.dk, Børnebiffen, Buggi, Faktalink, Filmstriben, Forfatterweb samt Læsekompasset. Download PR-pakke med logo-filer til DBC’s tjenester. 4/6-24 er der blevet tilføjet sær-udgaver af logoerne, der er særlig...","categories": ["Generelt"],
-        "tags": [],
-        "url": "/main/indhold/dbc-logoer/",
-        "teaser": null
-      },{
         "title": "Faste sider - overblik",
         "excerpt":"Folkebibliotekernes CMS fødes med nogle faste side eller standardsider. Faste sider er præcis som alle andre sider. De er der bare fra starten af, når I får systemet. Rundt omkring på jeres website, er der links til de faste sider. Hvis de mangler, risikerer I, at jeres brugere møder døde...","categories": ["Faste sider"],
         "tags": [],
@@ -513,6 +507,12 @@ var store = [{
         "excerpt":"Kampagner er en selvstændig indholdstype, der vises på søgeresultat-siden – men kun hvis det, som brugeren søger på, udløser den. Kampagner kan derfor bruges målrettet til at skabe opmærksomhed om arrangementer, særlige materialer, eller andet, som biblioteket ønsker at give særlig promovering. Sådan opretter du en kampagne I topmenuen klik...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/main/indhold/kampagner/",
+        "teaser": null
+      },{
+        "title": "Logoer til de digitale tilbud",
+        "excerpt":"DBCs logo-pakke DBC har lavet en PR-pakke til deres digitale digitale tilbud. Den indeholder logoer i forskellige udgaver og i høj opløsning. Der er logo til Bibliotek.dk, Børnebiffen, Buggi, Faktalink, Filmstriben, Forfatterweb samt Læsekompasset. Download pakke med logo-filer til DBC’s tjenester. 4/6-24 er der blevet tilføjet sær-udgaver af logoerne, der...","categories": ["Generelt"],
+        "tags": [],
+        "url": "/main/indhold/logo-pakker/",
         "teaser": null
       },{
         "title": "Paragraph komponenterne",
