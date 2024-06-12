@@ -14,4 +14,5 @@ Der er logo til Bibliotek.dk, Børnebiffen, Buggi, Faktalink, Filmstriben, Forfa
 
 ## DDFs logo pakke
 DDF har lavet en PR-pakke med logoer til eReolen og eReolen go.
+
 [Download pakke med logo-filer til DDF's tjenester](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/assets/files/ddf-pr-pakke.zip){:target="_blank" rel="noopener"}.
