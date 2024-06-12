@@ -510,7 +510,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Logoer til de digitale tilbud",
-        "excerpt":"DBCs logo-pakke DBC har lavet en PR-pakke til deres digitale digitale tilbud. Den indeholder logoer i forskellige udgaver og i høj opløsning. Der er logo til Bibliotek.dk, Børnebiffen, Buggi, Faktalink, Filmstriben, Forfatterweb samt Læsekompasset. Download pakke med logo-filer til DBCs tjenester. 4/6-24 er der blevet tilføjet sær-udgaver af logoerne, der...","categories": ["Generelt"],
+        "excerpt":"DDFs logo-pakke DDF har lavet en PR-pakke med logoer til eReolen og eReolen go. Download pakke med logo-filer til DDFs tjenester. DBCs logo-pakke DBC har lavet en PR-pakke til deres digitale digitale tilbud. Den indeholder logoer i forskellige udgaver og i høj opløsning. Der er logo til Bibliotek.dk, Børnebiffen, Buggi,...","categories": ["Generelt"],
         "tags": [],
         "url": "/main/indhold/logo-pakker/",
         "teaser": null
