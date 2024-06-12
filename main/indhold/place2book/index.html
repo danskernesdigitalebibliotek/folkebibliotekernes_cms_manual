@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2024-06-12T08:00:44+00:00">
+  <meta property="article:published_time" content="2024-06-12T08:57:59+00:00">
 
 
 
@@ -380,7 +380,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Place2book integration">
     <meta itemprop="description" content="Billetsystemet Place2book har udviklet en integration til Folkebibliotekernes CMS, der benytter arrangements APIet. Arrangements APIet er tilgængeligt for alle billetleverandører, der ønsker at bygge integration til Folkebibliotekernes CMS.">
-    <meta itemprop="datePublished" content="2024-06-12T08:00:44+00:00">
+    <meta itemprop="datePublished" content="2024-06-12T08:57:59+00:00">
     
 
     <div class="page__inner-wrap">
@@ -418,11 +418,22 @@
 
 <ol>
   <li>
-    <p>Opret en redaktionel bruger med rollen <strong>Eksternt system</strong>. Her er <a href="https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#opret-ny-redaktionel-bruger">guide til at oprette redaktionel bruger</a>.
+    <p>I Folkebibliotekernes CMS opret en redaktionel bruger med rollen <strong>Eksternt system</strong>. Her er <a href="https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#opret-ny-redaktionel-bruger">guide til at oprette redaktionel bruger</a>.
 <img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/91ca0296-20fb-48d8-926d-af8338471255" alt="image" /></p>
   </li>
-  <li>Kontakt <a href="mailto:support@place2book.com">support@place2book.com</a> for at få åbnet for adgangen.</li>
-  <li>På Place2book portalen indsæt brugernavn og adgangskode på brugeren I har oprettet.</li>
+  <li>
+    <p>Kontakt <a href="mailto:support@place2book.com">support@place2book.com</a> for at få åbnet for integrationen.</p>
+  </li>
+  <li>På <a href="https://www.place2book.com/">Place2book.com</a> log ind som <strong>Arrangør</strong>. I topmenuen vælg <strong>Generelt &gt; DPL CMS</strong>. (Menupunktet bliver først synligt, når der er blevet åbnet for integrationen)
+<img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3f90dac1-06a4-4cbc-9efb-6dfa51af375d" alt="image" /></li>
+  <li>I vinduet der åbner skal der indtastes nogle oplysninger:
+    <ul>
+      <li>I <strong>Brugernavn &amp; Password</strong> indsæt brugernavn og adgangskode for den bruger i oprettede i trin 1. (Den skelner mellem store/små bogstaver, så tast rigtigt)</li>
+      <li>I <strong>DPL CMS Url</strong> indsætter I <code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/api/v1/events</code> (udskift mit-domænenavn.dk)</li>
+      <li>Marker <strong>Importer arrangementer uden priser</strong> hvis I ønsker arrangementer uden billet (passive arrangementer) overført til Kultunaut via Place2book. (Pt. er der fejl i denne funktion. Fluebenet betyder lige nu at gratis arrangementer med billet overføres. Arrangementer uden billet overføres ikke, selvom fluebenet er sat)
+<img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f9a0b3fe-8f45-4c34-9a76-e0438ea52b20" alt="image" /></li>
+    </ul>
+  </li>
 </ol>
 
 <p>Under udarbejdelse…</p>
@@ -439,7 +450,7 @@
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-06-12T08:00:44+00:00">June 12, 2024</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-06-12T08:57:59+00:00">June 12, 2024</time></p>
 
       </footer>
 
