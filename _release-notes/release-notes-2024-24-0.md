@@ -35,10 +35,10 @@ weight: 992
 
 - Tilgængelighed: Fokusrækkefølge for filtre i modal bevarer nu meningen for slutbrugere, som anvender skærmlæsere og tastaturnavigation. 
 
-- Tilgængelighed: Link til avanceret søgningen var tidligere kodet som en knap (<button>) med role=”menuitem”, uden at have den forældre som var forudsætning for rollen. Det er nu rettet så elementet er kodet som et link og forælderen til elementet har korrekt rolle. 
+- Tilgængelighed: Link til avanceret søgningen var tidligere kodet som en knap (<button>) rollen menuitem, uden at have den forældre, som er forudsætning for rollen. Det er nu rettet. Elementet er nu kodet som et link, og forælderen til elementet har korrekt rolle. 
 
 - Tilgængelighed: Inputfelter overholder nu krav til kontrastforhold for grænsefladekomponenter. 
 
-- Tilgængelighed: Filtrene under ”Flere filtre” er nu kodet som elementer i lister. Det betyder at skærmlæserbrugere får annonceret antallet af filtre for de forskellige filterkategorier og flugter også med måden filtre er kodet andre steder på sitet. 
+- Tilgængelighed: Filtrene under ”Flere filtre” er nu kodet som elementer i lister. Det betyder, at skærmlæserbrugere får annonceret antallet af filtre for de forskellige filterkategorier. Ny kodning understøtter også konsistens, da andre filtre på sitet er kodet på samme måde.  
 
 
