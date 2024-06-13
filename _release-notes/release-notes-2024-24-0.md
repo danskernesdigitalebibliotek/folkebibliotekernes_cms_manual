@@ -35,7 +35,7 @@ weight: 992
 
 - Tilgængelighed: Fokusrækkefølge for filtre i modal bevarer nu meningen for slutbrugere, som anvender skærmlæsere og tastaturnavigation. 
 
-- Tilgængelighed: Link til avanceret søgningen var tidligere kodet som en knap (<button>) rollen menuitem, uden at have den forældre, som er forudsætning for rollen. Det er nu rettet. Elementet er nu kodet som et link, og forælderen til elementet har korrekt rolle. 
+- Tilgængelighed: Link til avanceret søgningen var tidligere kodet som en knap med rollen menuitem, uden at have den forældre, som er forudsætning for rollen. Det er nu rettet. Elementet er nu kodet som et link, og forælderen til elementet har korrekt rolle. 
 
 - Tilgængelighed: Inputfelter overholder nu krav til kontrastforhold for grænsefladekomponenter. 
 
