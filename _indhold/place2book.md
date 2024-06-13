@@ -32,9 +32,7 @@ Når jeres Place2book integration er opsat korrekt, skal I arbejde med arrangeme
 2. Vent i en time. Place2book tjekker om der er nye arrangementer/ændrede arrangementer på jeres hjememside en gang i timen. Der kan derfor gå op til en time før jeres arrangement dukker op på Place2book.
 3. Log ind på Place2book som arrangør. Find arrangementet og kopier **Salgslink**.
    ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/378e3903-4e5b-44d6-8318-6690b0692dc2)
-
-1. Når I har oprettet et arrangement, der kræver billet, skal I vente op til en time på at jeres arrangement dukker op på Place2book. Lige nu henter Place2book kun arrangementer fra jres hjemmeside en gang i timen.
-2. Når I har ventet en time logger I ind som Arrangør på Place2book. I finder jeres 
+   ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c321c277-2ded-4f2c-b2e3-5df4850a8716)
 
 Under udarbejdelse...
 
