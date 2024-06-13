@@ -13,11 +13,11 @@ Denne guide forudsætter at dit bibliotek/kommune er kunde hos Place2book.
 1. I Folkebibliotekernes CMS opret en redaktionel bruger med rollen **Eksternt system**. Her er [guide til at oprette redaktionel bruger](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#opret-ny-redaktionel-bruger).
    {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/91ca0296-20fb-48d8-926d-af8338471255" alt="Opret bruger til Place2book" caption="Opret bruger til Place2book" %} 
 
-3. Kontakt [support@place2book.com](mailto:support@place2book.com) for at få åbnet for integrationen.
+3. Kontakt [support@place2book.com](mailto:support@place2book.com) for at få åbnet for integrationen. Når Place2book har aktiveret integrationen og I har fuldført denne guide, da vil arrangementer oprettet efter dette tidspunkt bliver overført til Place2book. Bemærk! Hvis I allerede har oprettet arrangementer, som I ønsker overført til Place2book, skal I skrive det i emailen. Place2book kan da køre et ekstra job, der henter tidligere oprettede arrangementer.
    
 4. På [Place2book.com](https://www.place2book.com/) log ind som **Arrangør**. I topmenuen vælg **Generelt > DPL CMS**. (Menupunktet bliver først synligt, når der er blevet åbnet for integrationen)
    {% include figure class="thirty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3f90dac1-06a4-4cbc-9efb-6dfa51af375d" alt="Log ind i Place2book og gå til menupunktet DPL CMS" caption="Log ind i Place2book og gå til menupunktet DPL CMS" %} 
-6. I vinduet der åbner skal der indtastes nogle oplysninger:   
+5. I vinduet der åbner skal der indtastes nogle oplysninger:   
    - I **Brugernavn & Password** indsæt brugernavn og adgangskode for den bruger i oprettede i trin 1. (Den skelner mellem store/små bogstaver, så tast rigtigt)
    - I **DPL CMS Url** indsætter I `https://mit-domænenavn.dk/api/v1/events` (udskift mit-domænenavn.dk)
    - Marker **Importer arrangementer uden priser** hvis I ønsker arrangementer uden billet (passive arrangementer) overført til Kultunaut via Place2book. (Pt. er der fejl i denne funktion. Fluebenet betyder lige nu at gratis arrangementer med billet overføres. Arrangementer uden billet overføres ikke, selvom fluebenet er sat)
