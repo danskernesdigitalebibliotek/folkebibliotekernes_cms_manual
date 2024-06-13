@@ -797,6 +797,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-23-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.24.0",
+        "excerpt":"Flere data i indholds-API, mulighed for at angive adresser i andre lande på filialer og fejl rettet hvor boks til info om gebyrer blev vist for alle lånere Nye features Filialer: Mulighed for at angive adresser i Tyskland, Færøerne, Grønland og Island i forbindelse med oprettelse af filialer. API: Indhold...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-24-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
