@@ -8,7 +8,8 @@ Billetsystemet Place2book har udviklet en integration til Folkebibliotekernes CM
 
 
 ## Opsæt Place2book integration
-Denne guide forudsætter at dit bibliotek/kommune er kunde hos Place2book.
+Denne guide forudsætter at dit bibliotek/kommune er kunde hos Place2book. 
+Opsætning skal kun udføres en gang.
 
 1. I Folkebibliotekernes CMS opret en redaktionel bruger med rollen **Eksternt system**. Her er [guide til at oprette redaktionel bruger](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#opret-ny-redaktionel-bruger).
    {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/91ca0296-20fb-48d8-926d-af8338471255" alt="Opret bruger til Place2book" caption="Opret bruger til Place2book" %} 
@@ -23,8 +24,17 @@ Denne guide forudsætter at dit bibliotek/kommune er kunde hos Place2book.
    - Marker **Importer arrangementer uden priser** hvis I ønsker arrangementer uden billet (passive arrangementer) overført til Kultunaut via Place2book. (Pt. er der fejl i denne funktion. Fluebenet betyder lige nu at gratis arrangementer med billet overføres. Arrangementer uden billet overføres ikke, selvom fluebenet er sat)
    {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f9a0b3fe-8f45-4c34-9a76-e0438ea52b20" alt="Indtast API-url og brugernavn + adgangskode i Place2book" caption="Indtast API-url og brugernavn + adgangskode i Place2book" %} 
 
+## Arbejdsgang omkring arrangementer og Place2book
+Når jeres Place2book integration er opsat korrekt, skal I arbejde med arrangementer på denne måde:
 
+### Sådan oprettes arrangement med billet
+1. Opret et [arrangement](https://www.folkebibliotekernescms.dk/main/indhold/arrangement/). Det er vigtigt, at I tilknytter en eller flere **Billetkategorier**. Det er dem der får Place2book til at tilknytte billetsalg til arrangementet. **Billetlink** skal ikke udfyldes.
+2. Vent i en time. Place2book tjekker om der er nye arrangementer/ændrede arrangementer på jeres hjememside en gang i timen. Der kan derfor gå op til en time før jeres arrangement dukker op på Place2book.
+3. Log ind på Place2book som arrangør. Find arrangementet og kopier **Salgslink**.
+   ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/378e3903-4e5b-44d6-8318-6690b0692dc2)
 
+1. Når I har oprettet et arrangement, der kræver billet, skal I vente op til en time på at jeres arrangement dukker op på Place2book. Lige nu henter Place2book kun arrangementer fra jres hjemmeside en gang i timen.
+2. Når I har ventet en time logger I ind som Arrangør på Place2book. I finder jeres 
 
 Under udarbejdelse...
 
