@@ -4,7 +4,7 @@ category: "Release Notes"
 weight: 992
 ---
 
-# Flere data i indholds-API, mulighed for at angive adresser i andre lande på filialer og fejl rettet hvor boks til info om gebyrer blev vist for alle lånere 
+# Flere data i indholds-API, mulighed for at angive adresser i andre lande på filialer og fejl rettet hvor boks til påmindelse om gebyrer blev vist for alle lånere 
 
 ## Nye features
 
