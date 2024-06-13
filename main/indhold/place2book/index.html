@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2024-06-13T07:34:20+00:00">
+  <meta property="article:published_time" content="2024-06-13T07:58:03+00:00">
 
 
 
@@ -380,7 +380,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Place2book integration">
     <meta itemprop="description" content="Billetsystemet Place2book har udviklet en integration til Folkebibliotekernes CMS via arrangements APIet. Arrangements APIet er tilgængeligt for alle billetleverandører, der ønsker at bygge integration til Folkebibliotekernes CMS.">
-    <meta itemprop="datePublished" content="2024-06-13T07:34:20+00:00">
+    <meta itemprop="datePublished" content="2024-06-13T07:58:03+00:00">
     
 
     <div class="page__inner-wrap">
@@ -414,7 +414,8 @@
         <p>Billetsystemet Place2book har udviklet en integration til Folkebibliotekernes CMS via <a href="https://www.folkebibliotekernescms.dk/main/bliv-klar-til-folkebibliotekernes-cms/9integrationer/#arrangements-api-til-brug-for-eksterne-systemer">arrangements APIet</a>. Arrangements APIet er tilgængeligt for alle billetleverandører, der ønsker at bygge integration til Folkebibliotekernes CMS.</p>
 
 <h2 id="opsæt-place2book-integration">Opsæt Place2book integration</h2>
-<p>Denne guide forudsætter at dit bibliotek/kommune er kunde hos Place2book.</p>
+<p>Denne guide forudsætter at dit bibliotek/kommune er kunde hos Place2book. 
+Opsætning skal kun udføres en gang.</p>
 
 <ol>
   <li>I Folkebibliotekernes CMS opret en redaktionel bruger med rollen <strong>Eksternt system</strong>. Her er <a href="https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#opret-ny-redaktionel-bruger">guide til at oprette redaktionel bruger</a>.
@@ -445,6 +446,21 @@
   </li>
 </ol>
 
+<h2 id="arbejdsgang-omkring-arrangementer-og-place2book">Arbejdsgang omkring arrangementer og Place2book</h2>
+<p>Når jeres Place2book integration er opsat korrekt, skal I arbejde med arrangementer på denne måde:</p>
+
+<h3 id="sådan-oprettes-arrangement-med-billet">Sådan oprettes arrangement med billet</h3>
+<ol>
+  <li>Opret et <a href="https://www.folkebibliotekernescms.dk/main/indhold/arrangement/">arrangement</a>. Det er vigtigt, at I tilknytter en eller flere <strong>Billetkategorier</strong>. Det er dem der får Place2book til at tilknytte billetsalg til arrangementet. <strong>Billetlink</strong> skal ikke udfyldes.</li>
+  <li>Vent i en time. Place2book tjekker om der er nye arrangementer/ændrede arrangementer på jeres hjememside en gang i timen. Der kan derfor gå op til en time før jeres arrangement dukker op på Place2book.</li>
+  <li>
+    <p>Log ind på Place2book som arrangør. Find arrangementet og kopier <strong>Salgslink</strong>.
+<img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/378e3903-4e5b-44d6-8318-6690b0692dc2" alt="image" /></p>
+  </li>
+  <li>Når I har oprettet et arrangement, der kræver billet, skal I vente op til en time på at jeres arrangement dukker op på Place2book. Lige nu henter Place2book kun arrangementer fra jres hjemmeside en gang i timen.</li>
+  <li>Når I har ventet en time logger I ind som Arrangør på Place2book. I finder jeres</li>
+</ol>
+
 <p>Under udarbejdelse…</p>
 
 <h3 class="notice--info" id="for-yderligere-information-læs-place2books-vejledning-til-intgrationsløsningen">For yderligere information, læs <a href="https://support.place2book.com/support/solutions/articles/80001143841-kom-i-gang" target="_blank">Place2books vejledning til intgrationsløsningen</a></h3>
@@ -459,7 +475,7 @@
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-06-13T07:34:20+00:00">June 13, 2024</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-06-13T07:58:03+00:00">June 13, 2024</time></p>
 
       </footer>
 

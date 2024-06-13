@@ -528,7 +528,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Place2book integration",
-        "excerpt":"Billetsystemet Place2book har udviklet en integration til Folkebibliotekernes CMS via arrangements APIet. Arrangements APIet er tilgængeligt for alle billetleverandører, der ønsker at bygge integration til Folkebibliotekernes CMS. Opsæt Place2book integration Denne guide forudsætter at dit bibliotek/kommune er kunde hos Place2book. I Folkebibliotekernes CMS opret en redaktionel bruger med rollen Eksternt...","categories": ["Generelt"],
+        "excerpt":"Billetsystemet Place2book har udviklet en integration til Folkebibliotekernes CMS via arrangements APIet. Arrangements APIet er tilgængeligt for alle billetleverandører, der ønsker at bygge integration til Folkebibliotekernes CMS. Opsæt Place2book integration Denne guide forudsætter at dit bibliotek/kommune er kunde hos Place2book. Opsætning skal kun udføres en gang. I Folkebibliotekernes CMS opret...","categories": ["Generelt"],
         "tags": [],
         "url": "/main/indhold/place2book/",
         "teaser": null
