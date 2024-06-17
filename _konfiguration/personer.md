@@ -40,7 +40,9 @@ Er automatisk sat til **Aktiv**. Hvis brugeren skal blokeres vælges Blokeret.
 Vælg brugerens rolle. For de fleste almindelige redaktører vil rollen **Redaktør** være tilstrækkelig. Redaktør kan oprette indhold, men har ikke adgang til at ændre indstillinger på siden.
 {% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/e3b2a3d5-0cd0-46ee-a096-83d1bc7b8df0" alt="Brugerroller" caption="Brugerroller" %}
 
-Man skal kun have én rolle. Får man tildelt **Lokal Administrator**, har man også rettighederne som **Redaktør** og **Formidler**. Er man redaktør har man også rettighederne der hører til Formidler.
+Man skal kun have én rolle. 
+- Får man tildelt **Lokal Administrator**, har man også rettighederne som **Redaktør** og **Formidler**.
+- Er man **Redaktør** har man også rettighederne der hører til **Formidler**.
 
 [Læs mere om de tilgængelige brugerroller](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#roller-1)
 
@@ -64,7 +66,7 @@ Som udgangspunkt skal jeres brugere ikke tildeles flere rettigheder, end dem der
 
 - **Formidler (mediator)** er til brugere som ofte laver det dynamiske formidlingsindhold på hjemmesiden. Har adgang til at oprette og redigere arrangementer, artikler, sider og kampagner i /admin/content. 
 
-- **Redaktør (editor)** er til brugere som udover formidlingsopgaver også skal stå for det faste indhold (fx åbningstider) og opbygning af sidens struktur. De kan have ansvaret for at koordinere og styre formidlernes arbejde. Har adgang til det samme som formidler plus alle indholdstyper i /admin/content samt taksonomi og menuer i /admin/structure.
+- **Redaktør (editor)** er til brugere som udover formidlingsopgaver også skal stå for det faste indhold (fx åbningstider) og opbygning af sidens struktur. De kan have ansvaret for at koordinere og styre formidlernes arbejde. Har adgang til det samme som formidler plus alle indholdstyper i /admin/content samt taksonomi og menuer i /admin/structure. 
 
 - **Lokal administrator (local administrator)** er til brugere som skal indstille hjemmesiden ift. indstillinger, udseende, integrationer, overordnet oplysninger, biblioteksbrug etc. Har adgang til det samme som redaktør plus sidens konfigurationsmuligheder i /admin/config, oprettelse af brugere i /admin/people og ændring af sidens udseende i /admin/appearance.
 
