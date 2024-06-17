@@ -16,7 +16,7 @@ Her er en beskrivelse af de felter, der har betydning for jeres site.
 Skriv bibliotekets officielle navn her. Det vises ikke direkte på hjemmesiden, men indgår i sidens metadata. Det vil være synligt i Googles søgeresultater. Påkrævet felt.
 
 ## E-mail-adresse
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/9055b9b2-ce44-4e0a-89f6-7d3754e64977" alt="Må ikke ændres" caption="Må ikke ændres" %}
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/aaee4de4-bcbf-4626-ae23-834398f1e96a" alt="Må ikke ændres" caption="Må ikke ændres" %}
 
 Må ikke ændres. Påkrævet felt.
 
