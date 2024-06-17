@@ -40,6 +40,8 @@ Er automatisk sat til **Aktiv**. Hvis brugeren skal blokeres vælges Blokeret.
 Vælg brugerens rolle. For de fleste almindelige redaktører vil rollen **Redaktør** være tilstrækkelig. Redaktør kan oprette indhold, men har ikke adgang til at ændre indstillinger på siden.
 {% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/e3b2a3d5-0cd0-46ee-a096-83d1bc7b8df0" alt="Brugerroller" caption="Brugerroller" %}
 
+Man skal kun have én rolle. Får man tildelt **Lokal Administrator**, har man også rettighederne som **Redaktør** og **Formidler**. Er man redaktør har man også rettighederne der hører til Formidler.
+
 [Læs mere om de tilgængelige brugerroller](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#roller-1)
 
 #### Påmind bruger om ny konto:
