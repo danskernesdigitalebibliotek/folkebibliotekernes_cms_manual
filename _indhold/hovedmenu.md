@@ -20,7 +20,7 @@ Klik på knappen **Tilføj link** i øverste højre hjørne.
 
 Udfyld formularen med følgende oplysninger:
 - Titel: Ordet, der vises i topmenuen
-- Link: Linkadresse til menupunktet
+- Link: Linkadresse til menupunktet (søg på den side du vil sætte ind – sæt ikke en URL ind, der peger på jeres stagingsite)
 - Aktiveret: skal menupunktet være synligt eller ej
 - Vægt: Rækkefølgen af menupunkter
 
