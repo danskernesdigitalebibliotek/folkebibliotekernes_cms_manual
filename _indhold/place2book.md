@@ -54,7 +54,7 @@ For hvert arrangement, der skal videresendes til Kultunaut, skal I gør følgend
 3. Gå ned til **Arrangement-specifikke indstillinger** og vælg **Rediger**
    {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/07288fdb-0cd2-4d69-bf32-eba8449b917a" alt="Arrangementet eksporteres til Kultunaut" caption="Arrangementet eksporteres til Kultunaut" %}
 5. Kryds af ved **Arrangementet eksporteres til Kultunaut**
-   {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c5912496-3edd-4e25-97e0-f6d7e408068c" alt="Sæt hak ud for Arrangementet eksporteres til Kultunaut" caption="Sæt hak ud for *Arrangementet eksporteres til Kultunaut*" %}
+   {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c5912496-3edd-4e25-97e0-f6d7e408068c" alt="Kryds af ved Arrangementet eksporteres til Kultunaut" caption="Kryds af ved *Arrangementet eksporteres til Kultunaut*" %}
 7. Afslut med **Gem**
 
 Bemærk! Arrangementer uden billet (passive arrangementer) kan ikke længere videresendes til Kultunaut via Place2book. Der arbejdes på en direkte integration mellem Folkebibliotekernes CMS og Kultunaut, så Place2book ikke behøver være mellemmand.
