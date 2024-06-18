@@ -14,16 +14,16 @@ Opsætning skal kun udføres en gang.
 1. I Folkebibliotekernes CMS opret en redaktionel bruger med rollen **Eksternt system**. Her er [guide til at oprette redaktionel bruger](https://www.folkebibliotekernescms.dk/main/konfiguration/personer/#opret-ny-redaktionel-bruger).
    {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/91ca0296-20fb-48d8-926d-af8338471255" alt="Opret bruger til Place2book" caption="Opret bruger til Place2book" %} 
 
-2. Kontakt [support@place2book.com](mailto:support@place2book.com) for at få åbnet for integrationen. Når Place2book har aktiveret integrationen og I har fuldført denne guide, da vil arrangementer oprettet efter dette tidspunkt bliver overført til Place2book. Bemærk! Hvis I allerede har oprettet arrangementer, som I ønsker overført til Place2book, skal I skrive det i emailen. Place2book kan da køre et ekstra job, der henter tidligere oprettede arrangementer.
+2. Kontakt [support@place2book.com](mailto:support@place2book.com) for at få åbnet for integrationen. Når Place2book har aktiveret integrationen, og I har fuldført denne guide, da vil alle ikke-afholdte arrangementer bliver overført til Place2book. Hvis I pr. håndkraft har indtastet arrangementer i Place2book kan I påføre salgslinket på arrangemenetet i CMS. Ved første synkronisering opdager Place2book forbindelsen og kobler arrangementet i cms op imod det korrekte arrangement i Place2book.
    
 3. På [Place2book.com](https://www.place2book.com/) log ind som **Arrangør**. I topmenuen vælg **Generelt > Folkebibliotekernes CMS**. (Menupunktet bliver først synligt, når der er blevet åbnet for integrationen)
    {% include figure class="thirty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/9f488528-3c6c-466f-a8ac-dcff184c7548" alt="Log ind i Place2book og gå til menupunktet Folkebibliotekernes CMS" caption="Log ind i Place2book og gå til menupunktet Folkebibliotekernes CMS" %}
  
-4. I vinduet der åbner skal der indtastes nogle oplysninger:   
+5. I vinduet, der åbner, skal der indtastes nogle oplysninger:   
    - I **Brugernavn & Password** indsæt brugernavn og adgangskode for den bruger i oprettede i trin 1. (Den skelner mellem store/små bogstaver, så tast rigtigt)
-   - I **DPL CMS Url** indsætter I `https://mit-domænenavn.dk/api/v1/events` (udskift mit-domænenavn.dk)
-   - Marker **Importer arrangementer uden priser**, hvis I ønsker billetsalg på arrangementer, der HAR en billetkategori og pris = 0kr. (Den bør alle sætte hak ved.)
-   {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f9a0b3fe-8f45-4c34-9a76-e0438ea52b20" alt="Opsæt integration til Place2book" caption="Opsæt integration til Place2book" %} 
+   - I **Folkebibliotekernes CMS** indsætter I `https://mit-domænenavn.dk` (udskift mit-domænenavn.dk)
+   - Marker **Importer arrangementer uden priser**, hvis I ønsker at overføre arrangementer uden billetkategori (passive arrangementer). De kan efterfølgende markeres som Kultunaut eksport, for at overføre dem til Kultunaut 
+   {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f9a0b3fe-8f45-4c34-9a76-e0438ea52b20" alt="Opsæt integration til Place2book" caption="Opsæt integration til Place2book" %}
 
 ## Arbejdsgang omkring arrangementer og Place2book
 Når jeres Place2book integration er opsat korrekt, skal I arbejde med arrangementer på denne måde:
@@ -45,7 +45,8 @@ Når jeres Place2book integration er opsat korrekt, skal I arbejde med arrangeme
 Kan I ikke vente en time? [Læs her, hvordan man kan gennemtvinge en opdatering via Place2books hjemmeside.](https://www.folkebibliotekernescms.dk/main/indhold/place2book/#gennemtving-opdatering-af-arrangementer-i-place2book)
 
 ### Arrangementer med billet og Kultunaut
-Place2book kan videresende oplysninger om arrangementer til Kultunaut. Det gælder KUN arrangementer, der har tilknyttet en eller flere billetkategorier, og det sker ikke automatisk.
+Place2book kan videresende oplysninger om arrangementer til Kultunaut, men det sker ikke automatisk.
+Bemærk! Der arbejdes på en direkte integration mellem Folkebibliotekernes CMS og Kultunaut, så Place2book ikke behøver være mellemmand.
 
 For hvert arrangement, der skal videresendes til Kultunaut, skal I gør følgende:
 
@@ -56,9 +57,6 @@ For hvert arrangement, der skal videresendes til Kultunaut, skal I gør følgend
 5. Kryds af ved **Arrangementet eksporteres til Kultunaut**
    {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c5912496-3edd-4e25-97e0-f6d7e408068c" alt="Kryds af ved Arrangementet eksporteres til Kultunaut" caption="Kryds af ved *Arrangementet eksporteres til Kultunaut*" %}
 7. Afslut med **Gem**
-
-Bemærk! Arrangementer uden billet (passive arrangementer) kan ikke længere videresendes til Kultunaut via Place2book. Der arbejdes på en direkte integration mellem Folkebibliotekernes CMS og Kultunaut, så Place2book ikke behøver være mellemmand.
-
 
 ### Gennemtving opdatering af arrangementer i Place2book
 Place2book tjekker kun om der er nye arrangementer/ændrede arrangementer på jeres hjememside en gang i timen. Nogle gange er det vigtigt at det går hurtigere. I sådan en situation kan I manuelt gennemtvinge en opdatering.
