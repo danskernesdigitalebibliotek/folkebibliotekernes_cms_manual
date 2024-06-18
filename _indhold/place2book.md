@@ -34,16 +34,18 @@ Når jeres Place2book integration er opsat korrekt, skal I arbejde med arrangeme
    I SKAL udfylde:
    - **Total ticket capacity**: Hvor mange billetter, der skal sættes til salg.
    - **Billetkategorier** - en eller flere. Det er dem der får Place2book til at tilknytte billetsalg til arrangementet.
-   **Billetlink** skal I ikke udfylde. Det udfyldes automatisk.
+     
+   Billetlink skal I ikke udfylde. Det udfyldes automatisk.
      
 2. Vent i en op til en time. Place2book tjekker kun om der er nye arrangementer/ændrede arrangementer på jeres hjememside en gang i timen.
    Efter en time sker der to ting:
    - Billetlink-feltet på dit arrangement i cms bliver automatisk udfyldt
    - Arrangementet bliver synligt på Place2books hjemmeside.
-   Kan I ikke vente en time? [Læs her, hvordan man kan gennemtvinge en opdatering via Place2books hjemmeside.](https://www.folkebibliotekernescms.dk/main/indhold/place2book/#gennemtving-opdatering-af-arrangementer-i-place2book)
+   
+Kan I ikke vente en time? [Læs her, hvordan man kan gennemtvinge en opdatering via Place2books hjemmeside.](https://www.folkebibliotekernescms.dk/main/indhold/place2book/#gennemtving-opdatering-af-arrangementer-i-place2book)
 
 ### Arrangementer med billet og Kultunaut
-Place2book kan videresende oplysninger om arrangementer til Kultunaut. Det gælder KUN arrangementer, der har tilknyttet en eller flere billetkategorier og det sker ikke automatisk.
+Place2book kan videresende oplysninger om arrangementer til Kultunaut. Det gælder KUN arrangementer, der har tilknyttet en eller flere billetkategorier, og det sker ikke automatisk.
 
 For hvert arrangement, der skal videresendes til Kultunaut, skal I gør følgende:
 
@@ -52,7 +54,8 @@ For hvert arrangement, der skal videresendes til Kultunaut, skal I gør følgend
 3. Gå ned til **Arrangement-specifikke indstillinger** og vælg **Rediger**
    {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/07288fdb-0cd2-4d69-bf32-eba8449b917a" alt="Arrangementet eksporteres til Kultunaut" caption="Arrangementet eksporteres til Kultunaut" %}
 5. Kryds af ved **Arrangementet eksporteres til Kultunaut**
-6. Afslut med **Gem**
+   {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c5912496-3edd-4e25-97e0-f6d7e408068c" alt="Sæt hak ud for Arrangementet eksporteres til Kultunaut" caption="Sæt hak ud for *Arrangementet eksporteres til Kultunaut*" %}
+7. Afslut med **Gem**
 
 Bemærk! Arrangementer uden billet (passive arrangementer) kan ikke længere videresendes til Kultunaut via Place2book. Der arbejdes på en direkte integration mellem Folkebibliotekernes CMS og Kultunaut, så Place2book ikke behøver være mellemmand.
 
