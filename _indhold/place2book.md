@@ -21,7 +21,7 @@ Opsætning skal kun udføres en gang.
 5. I vinduet der åbner skal der indtastes nogle oplysninger:   
    - I **Brugernavn & Password** indsæt brugernavn og adgangskode for den bruger i oprettede i trin 1. (Den skelner mellem store/små bogstaver, så tast rigtigt)
    - I **DPL CMS Url** indsætter I `https://mit-domænenavn.dk/api/v1/events` (udskift mit-domænenavn.dk)
-   - Marker **Importer arrangementer uden priser** hvis I ønsker arrangementer uden billet (passive arrangementer) overført til Kultunaut via Place2book. (Pt. er der fejl i denne funktion. Fluebenet betyder lige nu at gratis arrangementer med billet overføres. Arrangementer uden billet overføres ikke, selvom fluebenet er sat)
+   - Marker **Importer arrangementer uden priser**, hvis I ønsker *alle* arrangementer uden billet (passive arrangementer) overført til Kultunaut via Place2book. 
    {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f9a0b3fe-8f45-4c34-9a76-e0438ea52b20" alt="Indtast API-url og brugernavn + adgangskode i Place2book" caption="Indtast API-url og brugernavn + adgangskode i Place2book" %} 
 
 ## Arbejdsgang omkring arrangementer og Place2book
@@ -34,6 +34,22 @@ Når jeres Place2book integration er opsat korrekt, skal I arbejde med arrangeme
    - Billetlink-feltet på dit arrangement i cms bliver automatisk udfyldt
    - Arrangementet bliver synligt på Place2books hjemmeside.
    Kan I ikke vente en time? Læs her hvordan man kan gennemtvinge en opdatering via Place2books hjemmeside.
+
+### Arrangementer uden billet og Kultunaut
+Place2book kan videresende oplysninger om arrangementer til Kultunaut. Det gælder også arrangementer, der ikke har tilknyttet billet. 
+Hvis arrangementer uden billet automatisk skal sendes videre til Kultunaut via Place2book, skal I gøre følgende:
+1. På [Place2book.com](https://www.place2book.com/) log ind som **Arrangør**. I topmenuen vælg **Generelt > Folkebibliotekernes CMS**.
+2. Marker **Importer arrangementer uden priser** hvis I ønsker arrangementer uden billet (passive arrangementer) overført til Kultunaut via Place2book.
+
+Hvis I kun ønsker at videresende udvalgte arrangementer uden billet til Kultunaut, er der også mulighed for det. I det tilfælde skal I inde i Place2book aktivere **Eksport til Kultunaut** under arrangements-specifikke indstillinger.
+
+1. På [Place2book.com](https://www.place2book.com/) log ind som **Arrangør**.
+2. Find dit arrangement, vælg **Rediger** og så **Indstillinger**
+3. Gå ned til **Arrangement-specifikke indstillinger** og vælg **Rediger**
+   {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/07288fdb-0cd2-4d69-bf32-eba8449b917a" alt="Arrangementet eksporteres til Kultunaut" caption="Arrangementet eksporteres til Kultunaut" %}
+5. Kryds af ved **Arrangementet eksporteres til Kultunaut**
+6. Afslut med **Gem**
+
 
 ### Gennemtving opdatering af arrangementer i Place2book
 Place2book tjekker kun om der er nye arrangementer/ændrede arrangementer på jeres hjememside en gang i timen. Nogle gange er det vigtigt at det går hurtigere. I sådan en situation kan I manuelt gennemtvinge en opdatering.
