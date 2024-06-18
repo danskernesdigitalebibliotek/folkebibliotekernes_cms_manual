@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2024-06-18T09:08:33+00:00">
+  <meta property="article:published_time" content="2024-06-18T11:45:29+00:00">
 
 
 
@@ -380,7 +380,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Place2book integration">
     <meta itemprop="description" content="Billetsystemet Place2book har udviklet en integration til Folkebibliotekernes CMS via arrangements APIet. Arrangements APIet er tilgængeligt for alle billetleverandører, der ønsker at bygge integration til Folkebibliotekernes CMS.">
-    <meta itemprop="datePublished" content="2024-06-18T09:08:33+00:00">
+    <meta itemprop="datePublished" content="2024-06-18T11:45:29+00:00">
     
 
     <div class="page__inner-wrap">
@@ -425,7 +425,7 @@ Opsætning skal kun udføres en gang.</p>
  </figcaption></figure>
   </li>
   <li>
-    <p>Kontakt <a href="mailto:support@place2book.com">support@place2book.com</a> for at få åbnet for integrationen. Når Place2book har aktiveret integrationen og I har fuldført denne guide, da vil arrangementer oprettet efter dette tidspunkt bliver overført til Place2book. Bemærk! Hvis I allerede har oprettet arrangementer, som I ønsker overført til Place2book, skal I skrive det i emailen. Place2book kan da køre et ekstra job, der henter tidligere oprettede arrangementer.</p>
+    <p>Kontakt <a href="mailto:support@place2book.com">support@place2book.com</a> for at få åbnet for integrationen. Når Place2book har aktiveret integrationen, og I har fuldført denne guide, da vil alle ikke-afholdte arrangementer bliver overført til Place2book. Hvis I pr. håndkraft har indtastet arrangementer i Place2book kan I påføre salgslinket på arrangemenetet i CMS. Ved første synkronisering opdager Place2book forbindelsen og kobler arrangementet i cms op imod det korrekte arrangement i Place2book.</p>
   </li>
   <li>På <a href="https://www.place2book.com/">Place2book.com</a> log ind som <strong>Arrangør</strong>. I topmenuen vælg <strong>Generelt &gt; Folkebibliotekernes CMS</strong>. (Menupunktet bliver først synligt, når der er blevet åbnet for integrationen)
     <figure class="thirty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/9f488528-3c6c-466f-a8ac-dcff184c7548" alt="Log ind i Place2book og gå til menupunktet Folkebibliotekernes CMS" /><figcaption>
@@ -433,11 +433,11 @@ Opsætning skal kun udføres en gang.</p>
 
  </figcaption></figure>
   </li>
-  <li>I vinduet der åbner skal der indtastes nogle oplysninger:
+  <li>I vinduet, der åbner, skal der indtastes nogle oplysninger:
     <ul>
       <li>I <strong>Brugernavn &amp; Password</strong> indsæt brugernavn og adgangskode for den bruger i oprettede i trin 1. (Den skelner mellem store/små bogstaver, så tast rigtigt)</li>
-      <li>I <strong>DPL CMS Url</strong> indsætter I <code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/api/v1/events</code> (udskift mit-domænenavn.dk)</li>
-      <li>Marker <strong>Importer arrangementer uden priser</strong>, hvis I ønsker billetsalg på arrangementer, der HAR en billetkategori og pris = 0kr. (Den bør alle sætte hak ved.)</li>
+      <li>I <strong>Folkebibliotekernes CMS</strong> indsætter I <code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk</code> (udskift mit-domænenavn.dk)</li>
+      <li>Marker <strong>Importer arrangementer uden priser</strong>, hvis I ønsker at overføre arrangementer uden billetkategori (passive arrangementer). De kan efterfølgende markeres som Kultunaut eksport, for at overføre dem til Kultunaut</li>
     </ul>
     <figure class="eighty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f9a0b3fe-8f45-4c34-9a76-e0438ea52b20" alt="Opsæt integration til Place2book" /><figcaption>
    Opsæt integration til Place2book
@@ -475,7 +475,8 @@ Efter en time sker der to ting:</p>
 <p>Kan I ikke vente en time? <a href="https://www.folkebibliotekernescms.dk/main/indhold/place2book/#gennemtving-opdatering-af-arrangementer-i-place2book">Læs her, hvordan man kan gennemtvinge en opdatering via Place2books hjemmeside.</a></p>
 
 <h3 id="arrangementer-med-billet-og-kultunaut">Arrangementer med billet og Kultunaut</h3>
-<p>Place2book kan videresende oplysninger om arrangementer til Kultunaut. Det gælder KUN arrangementer, der har tilknyttet en eller flere billetkategorier, og det sker ikke automatisk.</p>
+<p>Place2book kan videresende oplysninger om arrangementer til Kultunaut, men det sker ikke automatisk.
+Bemærk! Der arbejdes på en direkte integration mellem Folkebibliotekernes CMS og Kultunaut, så Place2book ikke behøver være mellemmand.</p>
 
 <p>For hvert arrangement, der skal videresendes til Kultunaut, skal I gør følgende:</p>
 
@@ -497,8 +498,6 @@ Efter en time sker der to ting:</p>
   <li>Afslut med <strong>Gem</strong></li>
 </ol>
 
-<p>Bemærk! Arrangementer uden billet (passive arrangementer) kan ikke længere videresendes til Kultunaut via Place2book. Der arbejdes på en direkte integration mellem Folkebibliotekernes CMS og Kultunaut, så Place2book ikke behøver være mellemmand.</p>
-
 <h3 id="gennemtving-opdatering-af-arrangementer-i-place2book">Gennemtving opdatering af arrangementer i Place2book</h3>
 <p>Place2book tjekker kun om der er nye arrangementer/ændrede arrangementer på jeres hjememside en gang i timen. Nogle gange er det vigtigt at det går hurtigere. I sådan en situation kan I manuelt gennemtvinge en opdatering.</p>
 
@@ -519,7 +518,7 @@ Efter en time sker der to ting:</p>
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-06-18T09:08:33+00:00">June 18, 2024</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-06-18T11:45:29+00:00">June 18, 2024</time></p>
 
       </footer>
 
