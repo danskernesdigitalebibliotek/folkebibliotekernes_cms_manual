@@ -22,14 +22,20 @@ Opsætning skal kun udføres en gang.
 4. I vinduet der åbner skal der indtastes nogle oplysninger:   
    - I **Brugernavn & Password** indsæt brugernavn og adgangskode for den bruger i oprettede i trin 1. (Den skelner mellem store/små bogstaver, så tast rigtigt)
    - I **DPL CMS Url** indsætter I `https://mit-domænenavn.dk/api/v1/events` (udskift mit-domænenavn.dk)
-   - Marker **Importer arrangementer uden priser**, hvis I ønsker billetsalg på arrangementer, der HAR en billetkategori og pris = 0kr. Den bør alle sætte hak ved. 
-   {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f9a0b3fe-8f45-4c34-9a76-e0438ea52b20" alt="Indtast API-url og brugernavn + adgangskode i Place2book" caption="Indtast API-url og brugernavn + adgangskode i Place2book" %} 
+   - Marker **Importer arrangementer uden priser**, hvis I ønsker billetsalg på arrangementer, der HAR en billetkategori og pris = 0kr. (Den bør alle sætte hak ved.)
+   {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f9a0b3fe-8f45-4c34-9a76-e0438ea52b20" alt="Opsæt integration til Place2book" caption="Opsæt integration til Place2book" %} 
 
 ## Arbejdsgang omkring arrangementer og Place2book
 Når jeres Place2book integration er opsat korrekt, skal I arbejde med arrangementer på denne måde:
 
 ### Sådan oprettes arrangement med billet
-1. Opret et [arrangement](https://www.folkebibliotekernescms.dk/main/indhold/arrangement/). Det er vigtigt, at I tilknytter en eller flere **Billetkategorier**. Det er dem der får Place2book til at tilknytte billetsalg til arrangementet. **Billetlink** skal I ikke udfylde.
+1. Opret et [arrangement](https://www.folkebibliotekernescms.dk/main/indhold/arrangement/).
+   
+   I SKAL udfylde:
+   - **Total ticket capacity**: Hvor mange billetter, der skal sættes til salg.
+   - **Billetkategorier** - en eller flere. Det er dem der får Place2book til at tilknytte billetsalg til arrangementet.
+   **Billetlink** skal I ikke udfylde. Det udfyldes automatisk.
+     
 2. Vent i en op til en time. Place2book tjekker kun om der er nye arrangementer/ændrede arrangementer på jeres hjememside en gang i timen.
    Efter en time sker der to ting:
    - Billetlink-feltet på dit arrangement i cms bliver automatisk udfyldt
