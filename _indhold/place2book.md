@@ -23,8 +23,7 @@ Opsætning skal kun udføres en gang.
    - I **Brugernavn & Password** indsæt brugernavn og adgangskode for den bruger i oprettede i trin 1. (Den skelner mellem store/små bogstaver, så tast rigtigt)
    - I **Folkebibliotekernes CMS** indsætter I `https://mit-domænenavn.dk` (udskift mit-domænenavn.dk)
    - Marker **Importer arrangementer uden priser**, hvis I ønsker at overføre arrangementer uden billetkategori (passive arrangementer). De kan efterfølgende markeres som Kultunaut eksport, for at overføre dem til Kultunaut 
-   {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f9a0b3fe-8f45-4c34-9a76-e0438ea52b20" alt="Opsæt integration til Place2book" caption="Opsæt integration til Place2book" %}
-
+  
 ## Arbejdsgang omkring arrangementer og Place2book
 Når jeres Place2book integration er opsat korrekt, skal I arbejde med arrangementer på denne måde:
 
