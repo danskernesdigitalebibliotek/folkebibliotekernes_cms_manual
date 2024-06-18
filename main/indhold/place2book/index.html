@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2024-06-18T07:17:59+00:00">
+  <meta property="article:published_time" content="2024-06-18T07:59:15+00:00">
 
 
 
@@ -380,7 +380,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Place2book integration">
     <meta itemprop="description" content="Billetsystemet Place2book har udviklet en integration til Folkebibliotekernes CMS via arrangements APIet. Arrangements APIet er tilgængeligt for alle billetleverandører, der ønsker at bygge integration til Folkebibliotekernes CMS.">
-    <meta itemprop="datePublished" content="2024-06-18T07:17:59+00:00">
+    <meta itemprop="datePublished" content="2024-06-18T07:59:15+00:00">
     
 
     <div class="page__inner-wrap">
@@ -437,7 +437,7 @@ Opsætning skal kun udføres en gang.</p>
     <ul>
       <li>I <strong>Brugernavn &amp; Password</strong> indsæt brugernavn og adgangskode for den bruger i oprettede i trin 1. (Den skelner mellem store/små bogstaver, så tast rigtigt)</li>
       <li>I <strong>DPL CMS Url</strong> indsætter I <code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/api/v1/events</code> (udskift mit-domænenavn.dk)</li>
-      <li>Marker <strong>Importer arrangementer uden priser</strong>, hvis I ønsker <em>alle</em> arrangementer uden billet (passive arrangementer) overført til Kultunaut via Place2book.</li>
+      <li>Marker <strong>Importer arrangementer uden priser</strong>, hvis I ønsker gratis arrangementer med billet overført til Kultunaut via Place2book. (Arrangemneter helt uden billetkategori, altså <em>passive arrangementer</em>, kan Place2book ikke længere overføre til Kultunaut)</li>
     </ul>
     <figure class="eighty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/f9a0b3fe-8f45-4c34-9a76-e0438ea52b20" alt="Indtast API-url og brugernavn + adgangskode i Place2book" /><figcaption>
    Indtast API-url og brugernavn + adgangskode i Place2book
@@ -451,19 +451,19 @@ Opsætning skal kun udføres en gang.</p>
 
 <h3 id="sådan-oprettes-arrangement-med-billet">Sådan oprettes arrangement med billet</h3>
 <ol>
-  <li>Opret et <a href="https://www.folkebibliotekernescms.dk/main/indhold/arrangement/">arrangement</a>. Det er vigtigt, at I tilknytter en eller flere <strong>Billetkategorier</strong>. Det er dem der får Place2book til at tilknytte billetsalg til arrangementet. <strong>Billetlink</strong> skal ikke udfyldes.</li>
+  <li>Opret et <a href="https://www.folkebibliotekernescms.dk/main/indhold/arrangement/">arrangement</a>. Det er vigtigt, at I tilknytter en eller flere <strong>Billetkategorier</strong>. Det er dem der får Place2book til at tilknytte billetsalg til arrangementet. <strong>Billetlink</strong> skal I ikke udfylde.</li>
   <li>Vent i en op til en time. Place2book tjekker kun om der er nye arrangementer/ændrede arrangementer på jeres hjememside en gang i timen.
 Efter en time sker der to ting:
     <ul>
       <li>Billetlink-feltet på dit arrangement i cms bliver automatisk udfyldt</li>
       <li>Arrangementet bliver synligt på Place2books hjemmeside.
-Kan I ikke vente en time? Læs her hvordan man kan gennemtvinge en opdatering via Place2books hjemmeside.</li>
+Kan I ikke vente en time? <a href="https://www.folkebibliotekernescms.dk/main/indhold/place2book/#gennemtving-opdatering-af-arrangementer-i-place2book">Læs her, hvordan man kan gennemtvinge en opdatering via Place2books hjemmeside.</a></li>
     </ul>
   </li>
 </ol>
 
-<h3 id="arrangementer-uden-billet-og-kultunaut">Arrangementer uden billet og Kultunaut</h3>
-<p>Place2book kan videresende oplysninger om arrangementer til Kultunaut. Det gælder også arrangementer, der ikke har tilknyttet billet. 
+<h3 id="arrangementer-med-gratis-billet-og-kultunaut">Arrangementer med gratis billet og Kultunaut</h3>
+<p>Place2book kan videresende oplysninger om arrangementer til Kultunaut. Det gælder KUN arrangementer, der har tilknyttet en eller flere billetkategorier. 
 Hvis arrangementer uden billet automatisk skal sendes videre til Kultunaut via Place2book, skal I gøre følgende:</p>
 <ol>
   <li>På <a href="https://www.place2book.com/">Place2book.com</a> log ind som <strong>Arrangør</strong>. I topmenuen vælg <strong>Generelt &gt; Folkebibliotekernes CMS</strong>.</li>
@@ -505,7 +505,7 @@ Hvis arrangementer uden billet automatisk skal sendes videre til Kultunaut via P
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-06-18T07:17:59+00:00">June 18, 2024</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-06-18T07:59:15+00:00">June 18, 2024</time></p>
 
       </footer>
 
