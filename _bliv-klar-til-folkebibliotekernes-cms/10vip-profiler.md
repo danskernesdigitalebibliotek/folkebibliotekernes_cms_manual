@@ -41,7 +41,9 @@ Søgeprofilen må IKKE have kilden "Folkebiblioteker og Nationalbibliografi (all
 ## Visningsprofilen
 Visningsprofilen bruges i de sammenhænge, hvor brugerne skal se detaljer om et værk. Det gælder værkvisnings-siden, lånerstatus og huskelisten. Der er en række scenarier, hvor brugerne har brug for at se en værkvisningsside for et materiale, der ikke er i lokal beholdning. F. eks. hvis de klikker på titlen på et fjernlånt materiale i deres lånerstatus, men også hvis der er tilføjet et værk til huskelisten via et andet bibliotek, eller hvis de klikker på et link til et kasseret materiale i en gammel artikel.
 
-Der skal sættes flueben i **Tilføj alle visningskilder**. Bemærk: Det burde ikke være nødvendigt at tilføje nogle visningskilder, men pt. er der en fejl, der betyder, at man skal tilføje én kilde som minimum. Ellers er visningsprofilen "usynlig" for CMS.
+Der skal sættes flueben i **Tilføj alle visningskilder**. 
+
+Bemærk: Det burde ikke være nødvendigt at tilføje nogle visningskilder, men pt. er der en fejl, der betyder, at man skal tilføje én kilde som minimum. Ellers er visningsprofilen "usynlig" for CMS.
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/720a7cb1-063c-4b9c-b04d-6a33c2fb8fe1" alt="Visningsprofilen skal have flueben i Tilføj alle visningskilder" caption="Visningsprofilen skal have flueben i Tilføj alle visningskilder" %} 
 
