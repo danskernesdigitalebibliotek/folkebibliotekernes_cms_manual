@@ -803,6 +803,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-24-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.25.0",
+        "excerpt":"Søg materialer frem direkte i Materialekomponent, skift udgivelsesdato på indhold og find som redaktør nemmere frem til indhold med de nye filtreringsmuligheder. Nye features Inspirationsslide: Automatisk genereret inspirationsslide vises nu i bunden af artikler og arrangementer. Slideren trækker indhold ind på baggrund af tags, kategorier og filial (i relation til...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-25-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
