@@ -8,7 +8,7 @@ weight: 991
 
 ## Nye features 
 
-- Inspirationsslide: Automatisk genereret inspirationsslide vises nu i bunden af artikler og arrangementer. Slideren trækker indhold ind på baggrund af tags, kategorier og filial (i relation til arrangementer).   
+- Inspirationsslide: Automatisk genereret inspirationsslide vises nu i bunden af artikler og arrangementer. Slideren henter indhold på baggrund af tags, kategorier og filial (i relation til arrangementer).   
 
 - Åbningstider: Feed med åbningstider til app. Bemærk løsningen kan ikke bruges endnu. Nærmere info følger. 
 
