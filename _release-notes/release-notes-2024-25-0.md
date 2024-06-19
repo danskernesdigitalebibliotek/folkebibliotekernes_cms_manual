@@ -4,7 +4,7 @@ category: "Release Notes"
 weight: 991
 ---
 
-# Søg materialer frem direkte i Materialekomponent, skift udgivelsesdato på indhold og find som redaktør nemmere frem til indhold med de nye filtreringsmuligheder. 
+# Søg materialer direkte i Materialekomponent, skift udgivelsesdato på indhold og find som redaktør nemmere frem til indhold med de nye filtreringsmuligheder. 
 
 ## Nye features 
 
