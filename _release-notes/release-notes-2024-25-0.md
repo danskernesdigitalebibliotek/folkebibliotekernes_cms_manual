@@ -12,7 +12,7 @@ weight: 991
 
 - Åbningstider: Feed med åbningstider til app. Bemærk løsningen kan ikke bruges endnu. Nærmere info følger. 
 
-- Paragraph Materialekomponent: Nu mulighed for at indsætte beskrivende tekst i forbindelse med komponenten. 
+- Paragraph Materialekomponent: Nu mulighed for at indsætte beskrivende tekst i toppen af komponenten. 
 
 - Paragraph Materialekomponent og Anbefaling: Ny materialevælger hvor man kan søge og vælge materialer. Retter problem hvor man kan vælge en materialetype, som materialet ikke findes som. Bemærk at der i øjeblikket er en fejl når, man sletter materialer i ‘Material grid manual’, hvor det sidste materiale slettes. Det rettes på et senere tidspunkt.
 
