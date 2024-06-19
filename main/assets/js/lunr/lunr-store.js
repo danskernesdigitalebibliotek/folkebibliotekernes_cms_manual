@@ -804,7 +804,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2024.25.0",
-        "excerpt":"Søg materialer direkte i Materialekomponent, skift udgivelsesdato på indhold og find som redaktør nemmere frem til indhold med de nye filtreringsmuligheder. Nye features Inspirationsslide: Automatisk genereret inspirationsslide vises nu i bunden af artikler og arrangementer. Slideren trækker indhold ind på baggrund af tags, kategorier og filial (i relation til arrangementer)....","categories": ["Release Notes"],
+        "excerpt":"Søg materialer direkte i Materialekomponent, skift udgivelsesdato på indhold og find som redaktør nemmere indhold med de nye filtreringsmuligheder. Nye features Inspirationsslide: Automatisk genereret inspirationsslide vises nu i bunden af artikler og arrangementer. Slideren trækker indhold ind på baggrund af tags, kategorier og filial (i relation til arrangementer). Åbningstider: Feed...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-25-0/",
         "teaser": null
