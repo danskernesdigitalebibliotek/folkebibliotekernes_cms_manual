@@ -35,7 +35,7 @@ weight: 991
 
 - Paragraph breadcrumb children: Alfabetisk sortering af breadcrumb children. 
 
-- Paragraph materialetypekomponent: Materialetypevælger giver nu kun mulighed for at vælge materialetyper, som er relevante for det værk-id, der skal vises. 
+- Paragraph materialekomponent: Materialetypevælger giver nu kun mulighed for at vælge materialetyper, som er relevante for det værk-id, der skal vises. 
 
 - Vedligeholdelsestilstand: Ikke længere muligt at sætte sitet i vedligeholdelsestilstand. 
 
