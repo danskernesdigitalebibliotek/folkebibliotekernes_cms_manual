@@ -27,7 +27,7 @@ weight: 991
 
 - Tilgængelighed: Aria-label på første inputfelt er ændret fra ”Input felt 0” til ”inputfelt 1”
 
-- Søgning og titelserie: Klik på browserens tilbageknap efter man har set materialer i serietitel leder ikke længere til specifikt materiale. 
+- Søgning og titelserie: Vælger man browserens tilbageknap efter visning af materialer i serietitel vises man ikke længere specifikt materiale, men materialesøgeside.  
 
 - Filialer: /biblioteker er nu alfabetiseret. Tidligere var bibliotekerne listet på baggrund af oprettelsestidspunkt.  
 
