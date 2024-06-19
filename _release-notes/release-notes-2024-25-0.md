@@ -14,7 +14,7 @@ weight: 991
 
 - Paragraph Materialekomponent: Nu mulighed for at indsætte beskrivende tekst i toppen af komponenten. 
 
-- Paragraph Materialekomponent og Anbefaling: Ny materialevælger hvor man kan søge og vælge materialer. Retter problem hvor man kan vælge en materialetype, som materialet ikke findes som. Bemærk at der i øjeblikket er en fejl når, man sletter materialer i ‘Material grid manual’, hvor det sidste materiale slettes. Det rettes på et senere tidspunkt.
+- Paragraph Materialekomponent og Anbefaling: Ny materialevælger hvor man kan søge og vælge materialer. Retter problem hvor man kan vælge en materialetype, som materialet ikke findes som. Bemærk at der i øjeblikket er en fejl når, man sletter materialer i ‘Material grid manual’, hvor det sidste materiale slettes. Fejlen rettes på et senere tidspunkt.
 
 - Artikler og sider: Udgivelsesdato kan nu ændres. 
 
