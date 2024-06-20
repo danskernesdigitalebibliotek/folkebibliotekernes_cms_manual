@@ -594,7 +594,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Webformularer",
-        "excerpt":"Sådan opretter du en webformular I topmenuen klik på Struktur &gt; Webformularer eller åbn https://mit-domænenavn.dk/admin/structure/webform (udskift mit-domænenavn.dk) Du kommer ind på en oversigt over webformularer, som du har oprettet. Her ligger også jeres Kontaktformular. Klik på Tilføj webform i øverste højre hjørne. Udfyld Titel, Administrativ beskrivelse (vises ikke for brugerne) og Status. Status afgør...","categories": ["Indholdstyper"],
+        "excerpt":"Sådan opretter du en webformular I topmenuen klik på Struktur &gt; Webformularer eller åbn https://mit-domænenavn.dk/admin/structure/webform (udskift mit-domænenavn.dk) Du kommer ind på en oversigt over webformularer, som du har oprettet. Her ligger også jeres Kontaktformular. Klik på Tilføj webform i øverste højre hjørne. Udfyld Titel, Administrativ beskrivelse (vises ikke for brugerne) og Status, som afgør...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/main/indhold/webforms/",
         "teaser": null
