@@ -16,8 +16,6 @@ Folkebibliotekernes CMS består af en ny basisplatform, et nyt designsystem og a
 ### Vigtige datoer: Tilmelding og nedlukning af DDB CMS   
 Inden 5. februar skal I som bibliotek har tilmeldt jer den nye hjemmesideløsning. Tilmeldingen er sendt til bibliotekscheferne. Som udgangspunkt lukker DDB CMS ned den 1. juli 2024, men DBC har meddelt, at det er muligt at tilkøbe videre drift af DDB CMS året ud mod en fast pris pr. påbegyndt måned, så man kun betaler for den periode, man har brug for at have DDB CMS kørende. Hvis I er interesseret i en forlængelse af driften hos DBC, kan I kontakte Piet Seiden, pse@dbc.dk hurtigst muligt.
 
-Tidsplanen for udrulningen af Folkebibliotekernes CMS kan du finde her: [Nyeste tidsplan](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf){:target="_blank" rel="noopener"}
-
 ### Hvad kommer hjemmesiden til at koste?  
 Ved tilslutning i 2024 er overgangen dækket af betalingen til Basispakken. Dvs. at det ikke vil medføre ekstra udgifter for jer i 2024 – også selvom I ikke har betalt til hjemmesidepakken. Alle, der betaler for basispakken i 2024, har adgang til begge løsninger. 
 
