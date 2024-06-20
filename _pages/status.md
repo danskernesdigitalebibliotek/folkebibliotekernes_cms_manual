@@ -5,7 +5,7 @@ sidebar: true
 nav: "overblik"
 ---
 ## 20/6 Mange sider nede
-Vi oplever lige nu at mange hjemmesider fejler. Vi er igang med at undersøge og opdaterer så snart vi har nyt.
+Vi oplever lige nu at mange hjemmesider fejler. Vi er igang med at undersøge og opdaterer så snart vi har nyt. Umiddelbart ligner det at databaserne under vores løsning er problemet.
 
 ## 20/6 Status på udvikling
 ### Visningsprofil i VIP
