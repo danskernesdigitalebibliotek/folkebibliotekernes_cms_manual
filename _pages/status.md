@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 20/6 Mange sider nede
+Vi oplever lige nu at mange hjemmesider fejler. Vi er igang med at undersøge og opdaterer så snart vi har nyt.
+
 ## 20/6 Status på udvikling
 ### Visningsprofil i VIP
 Der er fortsat en fejl med visningsprofiler. Visningsprofilen bruges til at generere lånerstatus, huskeliste, samt værkvisningssiden for værker i fysiske materialetyper, som ikke er i lokal beholdning. Vi og DBC arbejder på højtryk for at få den løst.
