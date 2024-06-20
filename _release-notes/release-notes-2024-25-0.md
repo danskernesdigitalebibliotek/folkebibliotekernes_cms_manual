@@ -1,10 +1,12 @@
 ---
-title:  "Release Notes 2024.25.0"
+title:  "Release Notes 2024.25.1"
 category: "Release Notes"
 weight: 991
 ---
 
 # Søg materialer direkte i Materialekomponent, skift udgivelsesdato på indhold og find som redaktør nemmere indhold med de nye filtreringsmuligheder. 
+
+Releasedato: 20-06-2024
 
 ## Nye features 
 
