@@ -648,7 +648,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Oversættelse af brugergrænseflade",
-        "excerpt":"I topmenuen klik på Indstillinger &gt; Region og sprog &gt; Oversættelse af brugergrænseflade Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/regional/translate Om oversættelse af brugergrænseflade De fleste tekster i grænsefladen i Folkebibliotekernes CMS kan oversættes ved at bruge den indbyggede oversættelsesfunktion. Sådan oversætter du Fremsøg den tekststreng du ønsker at oversætte....","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Region og sprog &gt; Oversættelse af brugergrænseflade Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/regional/translate Om oversættelse af brugergrænseflade De fleste tekster i grænsefladen i Folkebibliotekernes CMS kan oversættes ved at bruge den indbyggede oversættelsesfunktion. Sådan oversætter du Vigtigt Vær forsigtig med at oversætte tekststrenge...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/main/konfiguration/oversaettelse-af-brugergraenseflade/",
         "teaser": null
