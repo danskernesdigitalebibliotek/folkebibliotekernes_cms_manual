@@ -14,6 +14,8 @@ Eller åbn via URL (udskift mit-domænenavn.dk):\
 De fleste tekster i grænsefladen i Folkebibliotekernes CMS kan oversættes ved at bruge den indbyggede oversættelsesfunktion.
 
 ### Sådan oversætter du
+**Vigtigt** Vær forsigtig med at oversætte tekststrenge som indeholder kode. {: .notice--danger}
+
 - Fremsøg den tekststreng du ønsker at oversætte. Bemærk at du får forskellige søgeresultater afhængig af, om du skriver store eller små bogstaver i søgningen.
 - Ret i den danske oversættelse.
 - Klik på knappen “Gem oversættelser” nederst på siden.
