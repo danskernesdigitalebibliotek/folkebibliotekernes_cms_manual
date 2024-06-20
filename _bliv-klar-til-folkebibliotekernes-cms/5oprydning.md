@@ -42,7 +42,7 @@ Her er idéer til indhold, der kan være relevant for jer at flytte:
 
 - **Hvad siger statistikken?** Kig også på, hvad der rent faktisk bliver brugt på jeres nuværende site. I kan bruge Mapp til at se, hvilket indhold, der er blevet læst flest gange. Vi har lavet en guide, der er lige til at følge: [Se statistik for brug af hjemmesidens redaktionelle indhold i Mapp](https://detdigitalefolkebibliotek.dk/sites/default/files/vejledning_i_at_traekke_brugsstatistik_for_redaktionelt_indhold_mapp.pdf){:target="_blank" rel="noopener"}
 
-- **Kvalitetstjek jeres indhold, så det kan findes og læses.** Når I har udvalgt, hvad der skal med, er det en god idé at tjekke indholdets kvalitet. Vi anbefaler, at I følger: [Guidelines til god webkommunikation]({{ site.baseurl }}{% link _pages/guidelines-til-god-webkommunikation.md %}). Det er en kort og letforståelig tjekliste med biblioteks-relevante eksempler. Følger I den, opnår I både god tilgængelighed for synshandicappede og høj synlighed i søgemaskiner. 
+- **Kvalitetstjek jeres indhold, så det kan findes og læses.** Når I har udvalgt, hvad der skal med, er det en god idé at tjekke indholdets kvalitet. Vi anbefaler, at I følger: [Guidelines til god webkommunikation](https://www.folkebibliotekernescms.dk/main/overblik/guidelines-til-god-webkommunikation). Det er en kort og letforståelig tjekliste med biblioteks-relevante eksempler. Følger I den, opnår I både god tilgængelighed for synshandicappede og høj synlighed i søgemaskiner. 
 
 - **Hent indhold ned fra BPI, mens tid er** Folkebibliotekernes CMS virker ikke med BPI. Man kan hverken hente fra eller lægge indhold ind i BPI. Hvis der ligger indhold i BPI, som er vigtigt for jer, så få det hentet, mens I kan.
 
