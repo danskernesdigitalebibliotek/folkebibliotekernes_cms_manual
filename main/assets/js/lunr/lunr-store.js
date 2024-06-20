@@ -803,8 +803,8 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-24-0/",
         "teaser": null
       },{
-        "title": "Release Notes 2024.25.0",
-        "excerpt":"Søg materialer direkte i Materialekomponent, skift udgivelsesdato på indhold og find som redaktør nemmere indhold med de nye filtreringsmuligheder. Nye features Inspirationsslide: Automatisk genereret inspirationsslide vises nu i bunden af artikler og arrangementer. Slideren henter indhold på baggrund af tags, kategorier og filial (i relation til arrangementer). Åbningstider: Feed med...","categories": ["Release Notes"],
+        "title": "Release Notes 2024.25.1",
+        "excerpt":"Søg materialer direkte i Materialekomponent, skift udgivelsesdato på indhold og find som redaktør nemmere indhold med de nye filtreringsmuligheder. Releasedato: 20-06-2024 Nye features Inspirationsslide: Automatisk genereret inspirationsslide vises nu i bunden af artikler og arrangementer. Slideren henter indhold på baggrund af tags, kategorier og filial (i relation til arrangementer). Åbningstider:...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-25-0/",
         "teaser": null
