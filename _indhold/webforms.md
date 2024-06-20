@@ -11,7 +11,7 @@ I topmenuen klik på **Struktur > Webformularer** eller åbn `https://mit-dom�
 
 Du kommer ind på en oversigt over webformularer, som du har oprettet. Her ligger også jeres **Kontaktformular**. Klik på **Tilføj webform** i øverste højre hjørne.
 
-Udfyld **Titel**, **Administrativ beskrivelse** (vises ikke for brugerne) og **Status**. Status afgør om formularen er åben for besvarelse eller lukket for besvarelse.
+Udfyld **Titel**, **Administrativ beskrivelse** (vises ikke for brugerne) og **Status**, som afgør om formularen er åben for besvarelse eller lukket for besvarelse.
 
 
 Under udvikling...
