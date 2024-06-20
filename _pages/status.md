@@ -4,8 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 20/6 Sider på vej i luften igen
-Vi har haft en kortere nedetid på mange sites, grundet at vores underliggende databaser var kortvarigt ude af drift. Det burde virke for alle sites igen, og vi undersøger sagen med databaserne, så vi forhåbentligt ikke vil opleve samme fejl igen.
+## 20/6 Nedetid for enkelte biblioteker
+Efter et kortere databasenedbrud er de fleste sites i luften igen. Vi kan dog se at flere biblioteker har problemer, herunder Herlev og Middelfart. Vi opdaterer når vi har mere nyt.
 
 ## 20/6 Status på udvikling
 ### Visningsprofil i VIP
