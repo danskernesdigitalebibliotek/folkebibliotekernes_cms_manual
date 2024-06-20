@@ -4,6 +4,36 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 20/6 Status på udvikling
+### Visningsprofil i VIP
+Der er fortsat en fejl med visningsprofiler. Visningsprofilen bruges til at generere lånerstatus, huskeliste, samt værkvisningssiden for værker i fysiske materialetyper, som ikke er i lokal beholdning. Vi og DBC arbejder på højtryk for at få den løst.
+Fejlen betyder, at hvis man følger den fremgangsmåde for oprettelse af visningsprofil, som er beskrevet i manualen, så vil indloggede lånere ikke kunne se nogen materialer under deres lånerstatus.
+Der er et work-around, som går ud på at tilføje kilden ”Folkebiblioteker og Nationalbibliografi (alle 870970-poster, til FBS)” til jeres visningsprofil, hvilket får de fleste, skønt ikke alle, poster til at blive vist.
+Det tager op til fire timer før rettelser i VIP-basen slår igennem.
+
+### Søgeprofil i VIP
+Får i resultater i jeres søgning på materialer, som I slet ikke har, eller ser I materialer I har, men som materialetyper, I ikke har, så bør I tjekke jeres søgeprofil igennem for at se, at der kun er slået kilder til, som I rent faktisk har. Søgeprofilen må IKKE have kilden “Folkebiblioteker og Nationalbibliografi (alle 870970-poster, til FBS)” aktiveret, og heller ikke ”Forskningsbiblioteker til danbib”.
+
+### Fjernlån fra Det Kongelige Bibliotek vises ikke i lånerstatus
+Flere har meldt ind, at fjernlån fra KB ikke vises i lånerstatus.
+Der er også en kendt fejl, der gør at reserveringer, der er oprettet samtidig af personale via Cicero, opfattes som en parallelreservering, så kun én af disse reserveringer vises.
+Begge fejl har den højeste prioritet.
+
+### Fejl på institutionslån og særlige lånerprofiler (fx andre biblioteker)
+En anden dum fejl, som vi oplever, er, at biblioteker ikke kan logge ind hos hinanden og forny lån. Det samme gælder institutionskort som læsekredse med “særlige” lånernumre (som ikke bruger cpr) ikke kan logge rigtigt ind på og få vist udlån.
+
+### Søgeresultatsiden crasher
+Der er også en del eksempler på, at søgeresultatsiden crasher, når man scroller ned, eller i sjældnere tilfælde blot ved søgning. Vi har en arbejdshypotese om årsagen, og løsning af denne fejl har også højeste prioritet.
+
+### Visning af lydbogsudgaven som standard + manglende forsider
+Det er ikke hensigtsmæssigt at det er lydbogsudgaven som bliver vist som standardmaterialetype, når man går ind på et materiale. Vi har en sag på at få det rettet, så værkvisningssiden altid vises med materialetypen ”Bog” valgt, såfremt denne findes, og medmindre der i søgeresultatet er klikket på en anden materialetype.
+
+### Manglende forsider
+Der kommer også en del sager ind på manglende forsider. Vi ved godt, at der mangler forsider i rigtig mange visninger, og det påvirker jeres formidling på sitet. Problemet vil blive prioriteret i et senere projekt, men for nu har vi valgt at fokusere på forretningskritisk funktionalitet.
+
+### VIGTIG tilføjelse til startopsætningen i manualen
+I Netpunkt findes en Er hjemme - slå op funktion. Den linker til beholdningsvisning for en titel i bibliotekets eget CMS. Netpunkt skal kende url-strukturen I jeres nye CMS, for at funktionen virker. Den skal I angive i VIP. Læs hvordan her: https://www.folkebibliotekernescms.dk/main/bliv-klar-til-folkebibliotekernes-cms/12netpunkt-slaa-op/
+
 ## 10/6: Status på udvikling
 ### Søgning og VIP profil
 Vi oplever en flaskehals på de fejl der er meldt ind, relateret til søgning og VIP profil. Vi gør hvad vi kan, men I er nødt til at forvente længere svartider på dette område. 
