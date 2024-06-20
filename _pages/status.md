@@ -5,7 +5,7 @@ sidebar: true
 nav: "overblik"
 ---
 ## 20/6 Nedetid for enkelte biblioteker
-Efter et kortere databasenedbrud er de fleste sites i luften igen. Vi kan dog se at flere biblioteker har problemer, herunder Herlev og Middelfart. Vi opdaterer når vi har mere nyt.
+Efter et kortere databasenedbrud er alle sites i luften igen. Vi beklager den lidt længere respons for Herlev, Middelfart, Aabenraa, Furesø og Rudersdal, hvor der var udfordringer med seneste release. Men alt burde køre nu.
 
 ## 20/6 Status på udvikling
 ### Visningsprofil i VIP
