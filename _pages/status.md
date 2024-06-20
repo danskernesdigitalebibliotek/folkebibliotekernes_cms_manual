@@ -4,8 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 20/6 Mange sider nede
-Vi oplever lige nu at mange hjemmesider fejler. Vi er igang med at undersøge og opdaterer så snart vi har nyt. Umiddelbart ligner det at databaserne under vores løsning er problemet.
+## 20/6 Sider på vej i luften igen
+Vi har haft en kortere nedetid på mange sites, grundet at vores underliggende databaser var kortvarigt ude af drift. Det burde virke for alle sites igen, og vi undersøger sagen med databaserne, så vi forhåbentligt ikke vil opleve samme fejl igen.
 
 ## 20/6 Status på udvikling
 ### Visningsprofil i VIP
