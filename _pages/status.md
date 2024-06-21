@@ -4,6 +4,16 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 21/6 Status
+### Arrangementer til Place2Book
+Vi har opdaget en fejl i vores snitflade, som gør at Place2Book ikke får arrangementer korrekt overført. Fejlrettelsen kommer ud mandag, og så vil det igen være muligt at hente arrangementer.
+### Udfordringer for Hjørring, Tårnby, Aabenraa, Helsingør og Vejle
+Efter gårsdagens nedbrud i vores databaser er fem biblioteker ramt af en fejl. Ovenstående fem biblioteker vil opleve at nogle sider ikke kan vises, men generelt bør siderne dog kunne redigeres som normalt. Vi releaser mandag en rettelse til dette problem. Det bør ikke holde nogen fra at gå live i næste uge.
+### Problemer med materialekomponenter
+Flere af jer har meldt problemer ind omkring materialekomponenter efter release 2024.25.01. Efter analyse har vi afdækket at det gælder allerede oprettede komponenter, som IKKE er blevet redigeret siden sidste release. Dertil at problemet KUN optræder på preview, mens det vil se rigtigt ud for slutbrugeren. Det er vigtigt at nævne at selvom det derfor kan se ud til at noget mangler eller er gået tabt, så er det der stadig. Det er kun i preview funktionen at problemet ses.
+### Release fejlede for svendborg, Sydslesvig, Syddjurs, Tårnby, Thisted, Vallensbæk, Varde, Vejle, Vesthimmerland, Viborg og Vordingborg      
+Det betød at de nye funktioner i release 2024.25.01 IKKE var tilgængelig for jer. Dette er rettet og I skulle ikke opleve problem med dette.        
+
 ## 20/6 Nedetid for enkelte biblioteker
 Efter et kortere databasenedbrud er alle sites i luften igen. Vi beklager den lidt længere respons for Herlev, Middelfart, Aabenraa, Furesø og Rudersdal, hvor der var udfordringer med seneste release. Men alt burde køre nu.
 
