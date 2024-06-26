@@ -809,6 +809,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-25-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.26.0",
+        "excerpt":"Fejlrettelser bl.a. i relation til “Reservering på pause” som sletter lånerdata og deltagerantal i API Releasedato: 24-06-2024 Fejlrettelser og forbedringer ”Reserveringer på pause” sletter mobilnummer og e-mail: Fejl rettet hvor lånernes e-mail og mobilnummer slettes når fraværsperiode ændres. API: Fejl i deltagerantal i arrangements-API rettet. Nu opdateres data i API,...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-26-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
