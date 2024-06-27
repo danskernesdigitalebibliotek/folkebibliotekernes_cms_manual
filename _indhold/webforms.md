@@ -26,8 +26,8 @@ Vil du ændre en webformular skal du trykke på **Byg** ude til højre.
    - **Telefon:** Indtastningsfelt til telefonnummer
    - **Dato:** Datovælger
    - **Dato/tid:** Datovælger + tid
-   - **Valg:** Drop-down med valgmuligheder, hvor der kun kan vælges **en** valgmulighed. Du kan selv definere valgmulighederne, eller vælge mellem prædifinerede lister som f. eks. ugedage eller landenavne.
-   - **Select other:** Listevisning af valgmuligheder, hvor **flere** valgmuligheder kan markeres. Du kan selv definere valgmulighederne på listen, eller vælge mellem prædifinerede lister som f. eks. ugedage eller landenavne.
+   - **Valg:** Drop-down med valgmuligheder. Der kan kun vælges **en** valgmulighed. Du kan selv definere valgmulighederne, eller vælge mellem prædifinerede lister som f. eks. ugedage eller landenavne.
+   - **Select other:** Listevisning af valgmuligheder. **Flere** valgmuligheder kan markeres. Du kan selv definere valgmulighederne på listen, eller vælge mellem prædifinerede lister som f. eks. ugedage eller landenavne.
    - **Send knap(per):** Tilføjer en Send-knap til formularen.
    - **Simpel HTML:** Til at vise ekstra tekst på formularen. 
    - **Term select:** Avanceret element der gør det muligt at bruge websites taksonomier, som valgmuligheder i en drop-down.
