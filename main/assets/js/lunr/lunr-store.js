@@ -594,7 +594,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Webformularer",
-        "excerpt":"Webformular oversigten I topmenuen klik på Struktur &gt; Webformularer eller åbn https://mit-domænenavn.dk/admin/structure/webform (udskift mit-domænenavn.dk) Du kommer ind på en oversigt over webformularer, som du har oprettet. Her ligger også jeres Kontaktformular. Vil du ændre en webformular skal du trykke på Byg ude til højre. Sådan opretter du en webformular Klik på Tilføj webform i...","categories": ["Indholdstyper"],
+        "excerpt":"Webformular oversigten I topmenuen klik på Struktur &gt; Webformularer eller åbn https://mit-domænenavn.dk/admin/structure/webform (udskift mit-domænenavn.dk) Du kommer ind på en oversigt over webformularer, som du har oprettet. Her ligger også jeres Kontaktformular. Vil du ændre en webformular skal du trykke på Byg ude til højre. Sådan bygger du en webformular Klik på Tilføj webform i...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/main/indhold/webforms/",
         "teaser": null
