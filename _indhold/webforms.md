@@ -44,7 +44,7 @@ Vil du ændre en webformular skal du trykke på **Byg** ude til højre.
 
    
 ## Formular-indsendelse og modtagelse af besvarelser
-Når en bruger besvarer en formular, er det god stil efterfølgende at vise en **bekræftelseside**, hvor der står at deres besvarelse er registreret. Her skal de også kunne læse hvornår de evt. kan forvente svar. Det samme bør sendes til dem i en **bekræft-modtagelse-email**.
+Når en bruger besvarer en formular, er det god stil efterfølgende at vise en **bekræftelseside**, hvor der står at deres besvarelse er registreret. Her skal de også kunne læse, hvornår de evt. kan forvente svar. Samme indhold bør sendes til dem i en **bekræft-modtagelse-email**.
 
 Under udvikling...
 
