@@ -30,7 +30,7 @@ Vil du ændre en webformular skal du trykke på **Byg** ude til højre.
    - **Select other:** Listevisning af valgmuligheder. *Flere* valgmuligheder kan markeres. Du kan selv definere valgmulighederne på listen, eller vælge mellem prædefinerede lister som f. eks. ugedage eller landenavne.
    - **Send knap(per):** Tilføjer en Send-knap til formularen.
    - **Simpel HTML:** Til at vise ekstra tekst på formularen. 
-   - **Term select:** Avanceret element der gør det muligt at bruge websites taksonomier, som valgmuligheder i en drop-down.
+   - **Term select:** Avanceret element. der gør det muligt at bruge websites taksonomier, som valgmuligheder i en drop-down.
    
    
 Under udvikling...
