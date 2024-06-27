@@ -31,6 +31,7 @@ Vil du ændre en webformular skal du trykke på **Byg** ude til højre.
    - **Send knap(per):** Tilføjer en Send-knap til formularen.
    - **Simpel HTML:** Til at vise ekstra tekst på formularen. 
    - **Term select:** Avanceret element. der gør det muligt at bruge websites taksonomier, som valgmuligheder i en drop-down.
+   - **Skjult:** Avanceret element. Gør det muligt at medsende ekstra information på formularen, som brugeren ikke selv indtaster. (En programmør-ting)
    
    
 Under udvikling...
