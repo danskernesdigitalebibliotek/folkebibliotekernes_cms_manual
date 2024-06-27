@@ -38,7 +38,8 @@ Vil du ændre en webformular skal du trykke på **Byg** ude til højre.
    - Der er indstillinger, der relaterer til **hjælpetekster**. Der skelnes mellem beskrivelse, hjælpetekst og more-tekst, som kan placeres ret frit i forhold til formularelementet. 
    Leg med det og se hvordan det virker. Holder du musen hen over de små spørgsmålstegn, er der fine små forklarende tekster.
 
-5. På formularens **Byg-fane** kan du se alle elementerne på formularen. Du kan ændre deres placering, ved at trække dem op og ned i forhold til hinanden. Bemærk at det er her i oversigten, at man vælger om det enkelte element skal være **obligatorisk at udfylde**. Det er ikke i elementets indstillinger. Hvis du vil se formularen, vælger du **Vis-fanen**. Vil du afprøve formularen, med afsendelse og det hele, skal du gå til **Test-fanen**.
+5. På formularens **Byg-fane** kan du se alle elementerne på formularen. Du kan ændre deres placering, ved at trække dem op og ned i forhold til hinanden. Hvis du vil se formularen, vælger du **Vis-fanen**. Vil du afprøve formularen, med afsendelse og det hele, skal du gå til **Test-fanen**.\
+   **Obligatoriske felter:** Det er i elementoversigten, at man vælger om et element skal være obligatorisk at udfylde. Det er ikke i elementets indstillinger. Man skal huske at trykke på **Gem elementer** efter man har markeret et element som obligatorisk.
    ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/6b269a63-86a8-41c1-8f76-de52ed9c7219)
 
    
