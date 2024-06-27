@@ -12,7 +12,7 @@ I topmenuen klik på **Struktur > Webformularer** eller åbn `https://mit-dom�
 Du kommer ind på en oversigt over webformularer, som du har oprettet. Her ligger også jeres **Kontaktformular**. 
 Vil du ændre en webformular skal du trykke på **Byg** ude til højre.
 
-## Sådan opretter du en webformular
+## Sådan bygger du en webformular
 1. Klik på **Tilføj webform** i øverste højre hjørne.
 2. Udfyld **Titel**, **Administrativ beskrivelse** (vises ikke for brugerne) og **Status**, som afgør om formularen er åben for besvarelse eller lukket for besvarelse.
 3. Nu kan du tilføje **Elementer** til formularen. Klik på knappen øverst til højre.
@@ -43,7 +43,9 @@ Vil du ændre en webformular skal du trykke på **Byg** ude til højre.
    ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/6b269a63-86a8-41c1-8f76-de52ed9c7219)
 
    
-   
+## Formular-indsendelse og modtagelse af besvarelser
+Når en bruger indsender en formular, er det god stil at vise en **bekræftelsestekst** og sende en **bekræftelses-email**.
+
 Under udvikling...
 
 
