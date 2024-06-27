@@ -32,6 +32,15 @@ Vil du ændre en webformular skal du trykke på **Byg** ude til højre.
    - **Simpel HTML:** Til at vise ekstra tekst på formularen. 
    - **Term select:** Avanceret element. der gør det muligt at bruge websites taksonomier, som valgmuligheder i en drop-down.
    - **Skjult:** Avanceret element. Gør det muligt at medsende ekstra information på formularen, som brugeren ikke selv indtaster. (En programmør-ting)
+  
+   Hver elementtype har mange indstillingsmuligheder.
+   - Der er indstillinger, der relaterer til **inputvalidering**. Dvs. hvilke værdier, man lovligt kan indtaste, uden at formularen brokker sig.
+   - Der er indstillinger, der relaterer til **hjælpetekster**. Der skelnes mellem beskrivelse, hjælpetekst og more-tekst, som kan placeres ret frit i forhold til formularelementet. 
+   Leg med det og se hvordan det virker. Holder man musen hen over de små spørgsmålstegn, er der fine små forklarende tekster.
+
+5. På formularens **Byg-fanen** kan man se alle elementerne man har tilføjet. Man kan ændre deres placering, ved at trække dem op og ned i forhold til hinanden. Bemærk at det er her i oversigten, at man vælger om det enkelte element skal være **obligatorisk at udfylde**. Det er ikke i elementets indstillinger. Hvis du vil se formularen, vælger du **Vis-fanen**. Vil du afprøve formularen, med afsendelse og det hele, skal du gå til **Test-fanen**.
+   ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/6b269a63-86a8-41c1-8f76-de52ed9c7219)
+
    
    
 Under udvikling...
