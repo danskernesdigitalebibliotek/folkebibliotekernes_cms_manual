@@ -49,12 +49,22 @@ Vil du ændre en webformular skal du trykke på **Byg** ude til højre.
    **Obligatoriske felter:** Det er i elementoversigten, at man vælger om et element skal være obligatorisk at udfylde. Det er ikke i elementets indstillinger. Man skal huske at trykke på **Gem elementer** efter man har markeret et element som obligatorisk.
 
 
-## Formular-indsendelse og modtagelse af besvarelser
-Når en bruger indsender en formular, er det god stil efterfølgende at vise en **kvitteringsside eller besked**, hvor der står at deres besvarelse er modtaget. Her skal de også kunne læse, hvornår de evt. kan forvente svar. Samme indhold bør sendes til dem i en **kvitterings-email**. 
+## Kvittering og modtagelse af besvarelser
+Når en bruger indsender en formular, er det god stil at vise en **kvitteringsside eller kvitteringsbesked**, hvor der står at deres besvarelse er modtaget. Her skal de også kunne læse, hvornår de evt. kan forvente svar. Samme indhold bør sendes til dem i en **kvitterings-email**. 
 
 Besvarelsen modtager biblioteket pr. email. I kan registrere en eller flere email-adresser, hvortil besvarelserne skal sendes.
 
-### Kvitteringsside/besked
-For at 
+### Kvitteringsside / kvitteringsbesked
+1. Opsæt kvitteringsside eller kvitteringsbesked ved at åbne formularens **Indstillinger** og så **Bekræftelser**
+   ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/da8767c8-42be-49cb-af1d-27335a066ef8)
+
+   Er kvitteringsteksten meget kort, kan den vises som en besked øverst på formularen (message). Er kvitteringsteksten længere fungerer det bedre, at vise den som en selvstændig side (inline).
+   
+   Kvitteringstekster skal indeholde information om, hvordan henvendelsen behandles.
+   - Hvornår kan de forvente svar
+   - Hvem kan de kontakte, hvis de har spørgsmål
+  
+
+
 
 
