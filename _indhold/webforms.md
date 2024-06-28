@@ -38,9 +38,9 @@ Vil du ændre en webformular skal du trykke på **Byg** ude til højre.
    - Der er indstillinger, der relaterer til **hjælpetekster**. Der skelnes mellem beskrivelse, hjælpetekst og more-tekst, som kan placeres ret frit i forhold til formularelementet. 
    Leg med det og se hvordan det virker. Holder du musen hen over de små spørgsmålstegn, er der fine små forklarende tekster.
 
-5. Elementer du har tilføjet, kan du se på formularens **Byg-fane**. De ligger i den rækkefølge som du har tilføjet dem.
+5. Elementerne lægger sig på formularens **Byg-fane**. De ligger i den rækkefølge som du har tilføjet dem.
    {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/6b269a63-86a8-41c1-8f76-de52ed9c7219" alt="Formularens Byg-faneblad" caption="Formularens Byg-faneblad" %}
-   Der er fire faneblade:
+   Der er fire faneblade på en formular:
    - **Byg:** Her kan du se alle elementerne på formularen. Du kan ændre deres placering, ved at trække dem op og ned i forhold til hinanden.
    - **Vis:** Her kan du se hvordan formularen kommer til at se ud. Stylingen er ikke helt perfekt. Det bliver den først når du indlejrer formularen på en side.
    - **Test:** Her kan du afprøve formularen med mail-afsendelse og det hele.
