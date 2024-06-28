@@ -815,12 +815,6 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-26-0/",
         "teaser": null
       },{
-        "title": "Release Notes 2024.27.0",
-        "excerpt":"Søg materialer direkte i Materialekomponent, skift udgivelsesdato på indhold og find som redaktør nemmere indhold med de nye filtreringsmuligheder.   Releasedato: 20-06-2024   Nye features  Test   Fejlrettelser og forbedringer   Test   ","categories": ["Release Notes"],
-        "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2024-27-0/",
-        "teaser": null
-      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
