@@ -16,9 +16,9 @@ Vil du ændre en webformular skal du trykke på **Byg** ude til højre.
 1. Klik på **Tilføj webform** i øverste højre hjørne.
 2. Udfyld **Titel**, **Administrativ beskrivelse** (vises ikke for brugerne) og **Status**, som afgør om formularen er åben for besvarelse eller lukket for besvarelse.
 3. Nu kan du tilføje **Elementer** til formularen. Klik på knappen øverst til højre.
-   ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/64eadfbe-5c91-4bfa-a449-2f7f97e49bad)
+   {% include figure class="thirty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/64eadfbe-5c91-4bfa-a449-2f7f97e49bad" alt="Tilføj formularelementer" caption="Tilføj formularelementer" %}
 
-4. Du kan vælge mellem mange forskellige elementtyper:
+4. Nu åbner elementvælgeren. Du kan vælge mellem mange forskellige elementtyper:
    - **Tekst:** Et lille indtastningsfelt til tekst.
    - **Tekstområde:** Et større indtastningsfelt til tekst med plads til flere tekstlinjer.
    - **Antal:** Indtastningsfelt til tal
@@ -38,13 +38,20 @@ Vil du ændre en webformular skal du trykke på **Byg** ude til højre.
    - Der er indstillinger, der relaterer til **hjælpetekster**. Der skelnes mellem beskrivelse, hjælpetekst og more-tekst, som kan placeres ret frit i forhold til formularelementet. 
    Leg med det og se hvordan det virker. Holder du musen hen over de små spørgsmålstegn, er der fine små forklarende tekster.
 
-5. På formularens **Byg-fane** kan du se alle elementerne på formularen. Du kan ændre deres placering, ved at trække dem op og ned i forhold til hinanden. Hvis du vil se formularen, vælger du **Vis-fanen**. Vil du afprøve formularen, med afsendelse og det hele, skal du gå til **Test-fanen**.\
+5. Elementer du har tilføjet, kan du se på formularens **Byg-fane**. De ligger i den rækkefølge som du har tilføjet dem.
+   {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/6b269a63-86a8-41c1-8f76-de52ed9c7219" alt="Formularens Byg-faneblad" caption="Formularens Byg-faneblad" %}
+   Der er fire faneblade:
+   - **Byg:** Her kan du se alle elementerne på formularen. Du kan ændre deres placering, ved at trække dem op og ned i forhold til hinanden.
+   - **Vis:** Her kan du se hvordan formularen kommer til at se ud. Stylingen er ikke helt perfekt. Det bliver den først når du indlejrer formularen på en side.
+   - **Test:** Her kan du afprøve formularen med mail-afsendelse og det hele.
+   - **Indstillinger:** Her skal du ind for at redigere teksten på kvitteringssiden og ordlyden på email, der sendes til brugeren. Det er også her, du vælger, hvilke email-adresser der skal modtage besvarelsen.
+     
    **Obligatoriske felter:** Det er i elementoversigten, at man vælger om et element skal være obligatorisk at udfylde. Det er ikke i elementets indstillinger. Man skal huske at trykke på **Gem elementer** efter man har markeret et element som obligatorisk.
-   ![image](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/6b269a63-86a8-41c1-8f76-de52ed9c7219)
+
 
    
 ## Formular-indsendelse og modtagelse af besvarelser
-Når en bruger besvarer en formular, er det god stil efterfølgende at vise en **bekræftelseside**, hvor der står at deres besvarelse er registreret. Her skal de også kunne læse, hvornår de evt. kan forvente svar. Samme indhold bør sendes til dem i en **bekræft-modtagelse-email**.
+Når en bruger besvarer en formular, er det god stil efterfølgende at vise en **kvitteringsside**, hvor der står at deres besvarelse er registreret. Her skal de også kunne læse, hvornår de evt. kan forvente svar. Samme indhold bør sendes til dem i en **bekræft-modtagelse-email**.
 
 Under udvikling...
 
