@@ -49,10 +49,12 @@ Vil du ændre en webformular skal du trykke på **Byg** ude til højre.
    **Obligatoriske felter:** Det er i elementoversigten, at man vælger om et element skal være obligatorisk at udfylde. Det er ikke i elementets indstillinger. Man skal huske at trykke på **Gem elementer** efter man har markeret et element som obligatorisk.
 
 
-   
 ## Formular-indsendelse og modtagelse af besvarelser
-Når en bruger besvarer en formular, er det god stil efterfølgende at vise en **kvitteringsside**, hvor der står at deres besvarelse er registreret. Her skal de også kunne læse, hvornår de evt. kan forvente svar. Samme indhold bør sendes til dem i en **kvitterings-email**.
+Når en bruger indsender en formular, er det god stil efterfølgende at vise en **kvitteringsside eller besked**, hvor der står at deres besvarelse er modtaget. Her skal de også kunne læse, hvornår de evt. kan forvente svar. Samme indhold bør sendes til dem i en **kvitterings-email**. 
 
-Under udvikling...
+Besvarelsen modtager biblioteket pr. email. I kan registrere en eller flere email-adresser, hvortil besvarelserne skal sendes.
+
+### Kvitteringsside/besked
+For at 
 
 
