@@ -42,16 +42,16 @@ Vil du ændre en webformular skal du trykke på **Byg** ude til højre.
    {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/6b269a63-86a8-41c1-8f76-de52ed9c7219" alt="Formularens Byg-faneblad" caption="Formularens Byg-faneblad" %}
    Der er fire faneblade på en formular:
    - **Byg:** Her kan du se alle elementerne på formularen. Du kan ændre deres placering, ved at trække dem op og ned i forhold til hinanden.
-   - **Vis:** Her kan du se hvordan formularen kommer til at se ud. Stylingen er ikke helt perfekt. Det bliver den først når du indlejrer formularen på en side.
+   - **Vis:** Her kan du se, hvordan formularen kommer til at se ud. Stylingen er ikke helt perfekt. Det bliver den først, når du indlejrer formularen på en side.
    - **Test:** Her kan du afprøve formularen med mail-afsendelse og det hele.
-   - **Indstillinger:** Her skal du ind for at redigere teksten på kvitteringssiden og ordlyden på email, der sendes til brugeren. Det er også her, du vælger, hvilke email-adresser der skal modtage besvarelsen.
+   - **Indstillinger:** Her skal du ind for at redigere teksten på kvitteringssiden og ordlyden på den kvitteringsemail, der bør sendes til brugeren. Det er også her, du vælger, hvilke email-adresser der skal modtage besvarelsen.
      
    **Obligatoriske felter:** Det er i elementoversigten, at man vælger om et element skal være obligatorisk at udfylde. Det er ikke i elementets indstillinger. Man skal huske at trykke på **Gem elementer** efter man har markeret et element som obligatorisk.
 
 
    
 ## Formular-indsendelse og modtagelse af besvarelser
-Når en bruger besvarer en formular, er det god stil efterfølgende at vise en **kvitteringsside**, hvor der står at deres besvarelse er registreret. Her skal de også kunne læse, hvornår de evt. kan forvente svar. Samme indhold bør sendes til dem i en **bekræft-modtagelse-email**.
+Når en bruger besvarer en formular, er det god stil efterfølgende at vise en **kvitteringsside**, hvor der står at deres besvarelse er registreret. Her skal de også kunne læse, hvornår de evt. kan forvente svar. Samme indhold bør sendes til dem i en **kvitterings-email**.
 
 Under udvikling...
 
