@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 29/6 Status på nedbrud
+Vi har igen oplevet at Microsofts databaser forårsager problemer for løsningen. Flere andre organisationer oplever samme udfordringer i disse dage. Vi er afhængige af Microsofts problemløsning og pt kan vi desværre ikke give noget realistisk estimat på hvornår det er fikset. Vi beklager meget, og garanterer at vi vil lære af dette forløb, og tage tiltag for at gøre os mere uafhængige af disse databaser.
 ## 21/6 Status
 ### Arrangementer til Place2Book
 Vi har opdaget en fejl i vores snitflade, som gør at Place2Book ikke får arrangementer korrekt overført. Fejlrettelsen kommer ud mandag, og så vil det igen være muligt at hente arrangementer.
