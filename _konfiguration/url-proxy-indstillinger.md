@@ -34,7 +34,7 @@ Et link omskrevet med fjernadgang ser sådan ud:
 ```
 https://bib123.bibbaser.dk/login?url=https://www.pressreader.com
 ```
-Den del som er blevet tilføjet i starten af linket - `https://bib123.bibbaser.dk/login?` - er et **proxy prefix**. Det sikrer at man i stedet for at ramme PressReader direkte bliver sendt til proxyløsningen. Det trecifrede tal i proxy prefix'et er kommunenummeret - svarende til ciffer 2-4 i biblioteksnummeret - altså i dette tilfælde 123 fra det hypotetiske biblioteksnummer 712300
+Den del som er blevet tilføjet i starten af linket - `https://bib123.bibbaser.dk/login?url=` - er et **proxy prefix**. Det sikrer at man i stedet for at ramme PressReader direkte bliver sendt til proxyløsningen. Det trecifrede tal i proxy prefix'et er kommunenummeret - svarende til ciffer 2-4 i biblioteksnummeret - altså i dette tilfælde 123 fra det hypotetiske biblioteksnummer 712300
 
 Idet man kontakter proxyen bliver det checket om man kommer fra en af bibliotekets egne IP-adresser. Gør man det, kommer man direkte til ressourcen, men sidder man f.eks. hjemme, skal man være logget ind (via adgangsplatformen). Er man ikke allerede logget ind bliver man bedt om det. Derefter bliver man ledt videre til e-ressourcen, men via proxyen, således at brugerens browser kommunikerer med proxyen, som så kommunikerer videre med udbyderen.
 
@@ -52,7 +52,7 @@ Når proxyen er opsat korrekt vil links til eressourcer i søgeresultater automa
 
 |Feltnavn|Værdi|
 |---|---|
-|Præfiks til proxy-serverens URL|Udfyldes med `https://bib123.bibbaser.dk/login?` BEMÆRK! I skal udskifte `123` med jeres kommunenummer - svarende til ciffer 2-4 i biblioteksnummeret|
+|Præfiks til proxy-serverens URL|Udfyldes med `https://bib123.bibbaser.dk/login?url=` BEMÆRK! I skal udskifte `123` med jeres kommunenummer - svarende til ciffer 2-4 i biblioteksnummeret|
 |Hostnames / Værtsnavne|Her skrives de hostnavne/værtsnavne, som skal genkendes og omskrives til at pege mod fjernadgangsproxyen. Er du i tvivl om hostname/værtsnavn kan du finde oplysningerne på DBCs oversigt [Kilder i databrønden](https://danbib.dk/kilder-databroenden){:target="_blank"}|
 |Replacement|Visse kilder kræver yderligere opsætning, da url'erne skal omskrives med f.eks. en biblioteksspecifik identifier/kode. De kilder der kræver replacement er beskrevet herunder.|
 
