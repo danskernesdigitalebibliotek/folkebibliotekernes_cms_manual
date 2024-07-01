@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2024-06-29T14:32:35+00:00">
+  <meta property="article:published_time" content="2024-07-01T08:52:33+00:00">
 
 
 
@@ -282,7 +282,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Opsæt proxy URL’er">
     <meta itemprop="description" content="Hvis du er i gang med at opsætte Folkebibliotekernes CMS for første gang, så følg startopgave 7: Fjernadgang - Proxyindstillinger">
-    <meta itemprop="datePublished" content="2024-06-29T14:32:35+00:00">
+    <meta itemprop="datePublished" content="2024-07-01T08:52:33+00:00">
     
 
     <div class="page__inner-wrap">
@@ -341,7 +341,7 @@
 
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://bib123.bibbaser.dk/login?url=https://www.pressreader.com
 </code></pre></div></div>
-<p>Den del som er blevet tilføjet i starten af linket - <code class="language-plaintext highlighter-rouge">https://bib123.bibbaser.dk/login?</code> - er et <strong>proxy prefix</strong>. Det sikrer at man i stedet for at ramme PressReader direkte bliver sendt til proxyløsningen. Det trecifrede tal i proxy prefix’et er kommunenummeret - svarende til ciffer 2-4 i biblioteksnummeret - altså i dette tilfælde 123 fra det hypotetiske biblioteksnummer 712300</p>
+<p>Den del som er blevet tilføjet i starten af linket - <code class="language-plaintext highlighter-rouge">https://bib123.bibbaser.dk/login?url=</code> - er et <strong>proxy prefix</strong>. Det sikrer at man i stedet for at ramme PressReader direkte bliver sendt til proxyløsningen. Det trecifrede tal i proxy prefix’et er kommunenummeret - svarende til ciffer 2-4 i biblioteksnummeret - altså i dette tilfælde 123 fra det hypotetiske biblioteksnummer 712300</p>
 
 <p>Idet man kontakter proxyen bliver det checket om man kommer fra en af bibliotekets egne IP-adresser. Gør man det, kommer man direkte til ressourcen, men sidder man f.eks. hjemme, skal man være logget ind (via adgangsplatformen). Er man ikke allerede logget ind bliver man bedt om det. Derefter bliver man ledt videre til e-ressourcen, men via proxyen, således at brugerens browser kommunikerer med proxyen, som så kommunikerer videre med udbyderen.</p>
 
@@ -366,7 +366,7 @@
   <tbody>
     <tr>
       <td>Præfiks til proxy-serverens URL</td>
-      <td>Udfyldes med <code class="language-plaintext highlighter-rouge">https://bib123.bibbaser.dk/login?</code> BEMÆRK! I skal udskifte <code class="language-plaintext highlighter-rouge">123</code> med jeres kommunenummer - svarende til ciffer 2-4 i biblioteksnummeret</td>
+      <td>Udfyldes med <code class="language-plaintext highlighter-rouge">https://bib123.bibbaser.dk/login?url=</code> BEMÆRK! I skal udskifte <code class="language-plaintext highlighter-rouge">123</code> med jeres kommunenummer - svarende til ciffer 2-4 i biblioteksnummeret</td>
     </tr>
     <tr>
       <td>Hostnames / Værtsnavne</td>
@@ -462,7 +462,7 @@ Biblioteker, som alene skal have adgang til “Ebook Central Plus” kan nøjes 
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-06-29T14:32:35+00:00">June 29, 2024</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-07-01T08:52:33+00:00">July 1, 2024</time></p>
 
       </footer>
 
