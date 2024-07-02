@@ -4,6 +4,12 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 2/7 status på aktiviteter
+Efter weekendens nedbrud fortsætter vi på fejlfinding og beredskabsplan. Vi melder ud snarest. 
+### Arrangement API
+Vi modtager mange henvendelser omkring integration til Place2Book lige nu. Vi fokuserer på at få dem samlet og skabe en god løsning i samarbejde med Place2Book. I bedste fald kan vi lancere rettelser næste onsdag 10/7.
+### Webmaster
+Vi har haft alt for lidt tid til at håndtere de af jer der ønsker at være på webmaster løsningen, eftersom lanering af alle sites i juni var hovedfokus. Vi begynder at samle op på området og melder ud om dette snarest, også til jer der har meldt ting ind i vores servicedesk
 ## 29/6 Status på nedbrud
 Microsoft ser ud til at have løst problemet, men vi mangler stadig dokumentation fra dem. Jeres sider burde virke nu. Vi beklager meget, og garanterer at vi vil lære af dette forløb, og tage tiltag for at gøre os mere uafhængige af disse databaser.
 ## 21/6 Status
