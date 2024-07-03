@@ -815,6 +815,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-26-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.27.0",
+        "excerpt":"Denne release indeholder forskellige fejlrettelser. Fejlrettelser Link fra gebyrsiden til overskredne lån på mobil vises nu pænt Kasse med lån forsvinder ikke længere fra ’Dit overblik’ for indlogget bruger der låner ebog. Ebøger og netlydbøger der findes på ereolen linker ikke længere til NOTA Arrangementsstatus vises ikke længere på engelsk...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-27-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
