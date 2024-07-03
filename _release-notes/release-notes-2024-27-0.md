@@ -6,7 +6,7 @@ weight: 989
 
 **Denne release indeholder forskellige fejlrettelser.**
 
-
+Releasedato: 03-07-2024
 
 ## Fejlrettelser
 
