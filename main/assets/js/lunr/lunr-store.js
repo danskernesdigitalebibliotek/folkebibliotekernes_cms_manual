@@ -816,7 +816,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2024.27.0",
-        "excerpt":"Denne release indeholder forskellige fejlrettelser. Releasedato: 03-07-2024 Fejlrettelser Link fra gebyrsiden til overskredne lån på mobil vises nu pænt Kasse med lån forsvinder ikke længere fra ’Dit overblik’ for indlogget bruger der låner ebog. Ebøger og netlydbøger der findes på ereolen linker ikke længere til NOTA Arrangementsstatus vises ikke længere...","categories": ["Release Notes"],
+        "excerpt":"Denne release indeholder forskellige fejlrettelser. Releasedato: 03-07-2024 Fejlrettelser -Link fra gebyrsiden til overskredne lån på mobil vises nu pænt -Kasse med lån forsvinder ikke længere fra ’Dit overblik’ for indlogget bruger der låner ebog. -Ebøger og netlydbøger der findes på ereolen linker ikke længere til NOTA -Arrangementsstatus vises ikke længere...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-27-0/",
         "teaser": null
