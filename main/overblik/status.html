@@ -273,9 +273,26 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <h2 id="27-status-på-aktiviteter">2/7 status på aktiviteter</h2>
-<p>Efter weekendens nedbrud fortsætter vi på fejlfinding og beredskabsplan. Vi melder ud snarest.</p>
+        <h2 id="47-status-på-aktiviteter">4/7 status på aktiviteter</h2>
 <h3 id="arrangement-api">Arrangement API</h3>
+<p>Vi har analyseret og haft dialog med Place2Book omkring de udfordringer der er oplevet. Herunder kan I se hvad status er og vi har aftalt med Place2Book:</p>
+<ol>
+  <li>Efter integration er billetkapacitet sat til 0/ubegrænset: Place2Book har rettet og dette bør ikke være et problem.</li>
+  <li>Passive arrangementer tildeles billetknap: Place2Book har rettet og dette bør ikke være et problem længere.</li>
+  <li>Der mangler felt til at angive billetkapacitet i Folkebibliotekernes CMS: Denne retter vi hurtigst muligt (forhåbentligt til 10/7).</li>
+  <li>Udfordringer når man anvender anden billetleverandør end P2B: Vi indsætter et afkrydsningsfelt (forhåbentligt til 10/7) hvor man kan angive om et arrangement skal til ens normale billetleverandør. Fjerner man afkrydsning, vil Place2Book ikke hente arrangementet.</li>
+  <li>Forvirring/fejl omkring sletning i begge systemer: Place2Book har rettet og dette bør ikke være et problem.</li>
+</ol>
+
+<h2 id="status-på-nedbrud-i-microsoft-databaser">Status på nedbrud i Microsoft databaser</h2>
+<p>Vi oplevede igen igår nedetid, dog 25 min. Vi afventer stadig at Microsoft svarer på vores oplevede problemer med Maria databaserne der understøtter vores løsning. Det er højst usædvanligt med så meget nedetid og højst utilfredsstillende service vi oplever. Vores aftale siger at de garanterer 99,9% oppetid, hvilket svarer til mindre end en time om året. Pt har vi haft 4 nedbrud fra 10 min til 13,5 timer. Vi forsøger at afbøde problemet med at allokere mere hukommelse til serverne, men kan ikke garantere at det vil løse problemet. Pt er vi desværre overladt til hvornår Microsoft hjælper.</p>
+
+<h2 id="institutionslogin">Institutionslogin</h2>
+<p>Mange har henvendt sig omkring institutionslogin (alle brugere der ikke er personer) der godt nok giver adgang til at logge ind, men ikke se sine lån m.v. Vi har været vidt omkring i forsøget på at skabe adgang for disse brugere, og har sammen med DBC indsnærpet problemet, så vi forhåbentligt snart har en løsning.</p>
+
+<h2 id="27-status-på-aktiviteter">2/7 status på aktiviteter</h2>
+<p>Efter weekendens nedbrud fortsætter vi på fejlfinding og beredskabsplan. Vi melder ud snarest.</p>
+<h3 id="arrangement-api-1">Arrangement API</h3>
 <p>Vi modtager mange henvendelser omkring integration til Place2Book lige nu. Vi fokuserer på at få dem samlet og skabe en god løsning i samarbejde med Place2Book. I bedste fald kan vi lancere rettelser næste onsdag 10/7.</p>
 <h3 id="webmaster">Webmaster</h3>
 <p>Vi har haft alt for lidt tid til at håndtere de af jer der ønsker at være på webmaster løsningen, eftersom lanering af alle sites i juni var hovedfokus. Vi begynder at samle op på området og melder ud om dette snarest, også til jer der har meldt ting ind i vores servicedesk</p>
