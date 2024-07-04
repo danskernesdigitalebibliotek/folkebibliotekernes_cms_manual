@@ -4,6 +4,21 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 4/7 status på aktiviteter
+### Arrangement API
+Vi har analyseret og haft dialog med Place2Book omkring de udfordringer der er oplevet. Herunder kan I se hvad status er og vi har aftalt med Place2Book:
+1.	Efter integration er billetkapacitet sat til 0/ubegrænset: Place2Book har rettet og dette bør ikke være et problem.
+2.	Passive arrangementer tildeles billetknap: Place2Book har rettet og dette bør ikke være et problem længere.
+3.	Der mangler felt til at angive billetkapacitet i Folkebibliotekernes CMS: Denne retter vi hurtigst muligt (forhåbentligt til 10/7).
+4.	Udfordringer når man anvender anden billetleverandør end P2B: Vi indsætter et afkrydsningsfelt (forhåbentligt til 10/7) hvor man kan angive om et arrangement skal til ens normale billetleverandør. Fjerner man afkrydsning, vil Place2Book ikke hente arrangementet.
+5.	Forvirring/fejl omkring sletning i begge systemer: Place2Book har rettet og dette bør ikke være et problem.
+
+## Status på nedbrud i Microsoft databaser
+Vi oplevede igen igår nedetid, dog 25 min. Vi afventer stadig at Microsoft svarer på vores oplevede problemer med Maria databaserne der understøtter vores løsning. Det er højst usædvanligt med så meget nedetid og højst utilfredsstillende service vi oplever. Vores aftale siger at de garanterer 99,9% oppetid, hvilket svarer til mindre end en time om året. Pt har vi haft 4 nedbrud fra 10 min til 13,5 timer. Vi forsøger at afbøde problemet med at allokere mere hukommelse til serverne, men kan ikke garantere at det vil løse problemet. Pt er vi desværre overladt til hvornår Microsoft hjælper.
+
+## Institutionslogin
+Mange har henvendt sig omkring institutionslogin (alle brugere der ikke er personer) der godt nok giver adgang til at logge ind, men ikke se sine lån m.v. Vi har været vidt omkring i forsøget på at skabe adgang for disse brugere, og har sammen med DBC indsnærpet problemet, så vi forhåbentligt snart har en løsning.
+
 ## 2/7 status på aktiviteter
 Efter weekendens nedbrud fortsætter vi på fejlfinding og beredskabsplan. Vi melder ud snarest. 
 ### Arrangement API
