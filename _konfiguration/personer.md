@@ -77,6 +77,16 @@ Man kan også oprette brugere af typen **eksternt system**. Den type brugere opr
 
 **Patron** er lånerne. Patron-brugerprofilen oprettes automatisk, når en låner første gang logger ind på websitet via Adgangsplatformen. Patron-brugerne skal være der, og der bliver automatisk ryddet op i dem. 
 
+## Spærret brugere
+Der er to måder at redaktionelle brugere bliver spærret:
+- IP spærring - 50 fejlforsøg på 1 time af én eller flere brugere på samme IP adresse. Alle på samme IP bliver spærret Efter 1 time, kan man igen lave login forsøg fra samme IP.
+- Bruger spærring - én bruger laver 5 fejlforsøg på 6 timer. Efter 6 timer, kan man igen lave login forsøg med samme brugernavn.
+
+Grunden til overstående er at man vil undgå spam bots og DDoS angreb.  
+
+** Hvad skal man gøre når der er en spærring**
+Det bedste man kan gøre er at vente på at spærringen ophæves. Man kan som kollega-admin hjælpe ved at dobbelttjekke om det er et korrekt brugernavn/email som bliver brugt til at logge ind med. Se herunder hvordan man skifter adgangskode. Man kan ikke som kollega-admin “lukke op” for en spærret bruger. Der kan ikke lukkes op for spærret brugere ved at kontakte Det Digitale Folkebibliotek. Eneste måde at hæve spærringen, er at tømme det DB table som holder styr på logging af fejlslagne loginforsøg. Det er besværligt, omstændigt og resursekrævende. Så det kommer kun til at ske i ekstraordinære tilfælde.
+
 ## Glemt password funktion
 Er du redaktionel bruger og har glemt dit password er der en **Glemt adgangskode** funktion, der nulstiller dit password.
 1. Gå til `https://mit-domænenavn.dk/user/login`\
