@@ -82,7 +82,7 @@ Der er to måder at redaktionelle brugere bliver spærret:
 - IP spærring - 50 fejlforsøg på 1 time af én eller flere brugere på samme IP adresse. Alle brugere på samme IP bliver spærret. Efter 1 time, kan man igen lave login forsøg fra samme IP.
 - Bruger spærring - én bruger laver 5 fejlforsøg på 6 timer. Efter 6 timer, kan man igen lave login forsøg med samme brugernavn.
 
-Vi anbefaler at man ændrer sin adgangskode, hvis man er ved at nå en spærring med antal fejlforsøg.
+Vi anbefaler at man ændrer sin adgangskode ved 'glemt password funktionen' (se hvordan du gør længere nede på denne side), hvis man er ved at nå en spærring med antal fejlforsøg.
 
 Grunden til overstående er at man vil undgå spam bots og DDoS angreb.  
 
