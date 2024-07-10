@@ -79,7 +79,7 @@ Man kan også oprette brugere af typen **eksternt system**. Den type brugere opr
 
 ## Spærret brugere
 Der er to måder at redaktionelle brugere bliver spærret:
-- IP spærring - 50 fejlforsøg på 1 time af én eller flere brugere på samme IP adresse. Alle på samme IP bliver spærret Efter 1 time, kan man igen lave login forsøg fra samme IP.
+- IP spærring - 50 fejlforsøg på 1 time af én eller flere brugere på samme IP adresse. Alle brugere på samme IP bliver spærret. Efter 1 time, kan man igen lave login forsøg fra samme IP.
 - Bruger spærring - én bruger laver 5 fejlforsøg på 6 timer. Efter 6 timer, kan man igen lave login forsøg med samme brugernavn.
 
 Grunden til overstående er at man vil undgå spam bots og DDoS angreb.  
