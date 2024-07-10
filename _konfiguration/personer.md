@@ -82,10 +82,12 @@ Der er to måder at redaktionelle brugere bliver spærret:
 - IP spærring - 50 fejlforsøg på 1 time af én eller flere brugere på samme IP adresse. Alle brugere på samme IP bliver spærret. Efter 1 time, kan man igen lave login forsøg fra samme IP.
 - Bruger spærring - én bruger laver 5 fejlforsøg på 6 timer. Efter 6 timer, kan man igen lave login forsøg med samme brugernavn.
 
+Vi anbefaler at man ændrer sin adgangskode, hvis man er ved at nå en spærring med antal fejlforsøg.
+
 Grunden til overstående er at man vil undgå spam bots og DDoS angreb.  
 
 ### Det kan I gøre når der er en spærring
-Det bedste man kan gøre er at vente på at spærringen ophæves. Man kan som kollega-admin hjælpe ved at dobbelttjekke om det er et korrekt brugernavn/email som bliver brugt til at logge ind med. Se afsnittene der omhandler adgangskoder herunder. 
+Det bedste man kan gøre er at vente på at spærringen ophæves. Brugere som er 'Administrator eller' 'Lokal administrator' kan hjælpe kollegaer ved at dobbelttjekke om det er et korrekt brugernavn/email som bliver brugt til at logge ind med. Se afsnittene der omhandler adgangskoder herunder. 
 
 Man kan ikke som kollega-admin “lukke op” for en spærret bruger. Der kan ikke lukkes op for spærret brugere ved at kontakte Det Digitale Folkebibliotek. Eneste måde at hæve spærringen fra centralt side, er at tømme det DB table som holder styr på logging af fejlslagne loginforsøg. Det er besværligt, omstændigt og resursekrævende. Så det kommer kun til at ske i ekstraordinære tilfælde, og vi anbefaler at vente til spærringen er hævet.
 
