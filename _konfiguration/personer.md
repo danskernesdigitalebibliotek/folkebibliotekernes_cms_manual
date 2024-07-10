@@ -87,7 +87,7 @@ Grunden til overstående er at man vil undgå spam bots og DDoS angreb.
 ### Det kan I gøre når der er en spærring
 Det bedste man kan gøre er at vente på at spærringen ophæves. Man kan som kollega-admin hjælpe ved at dobbelttjekke om det er et korrekt brugernavn/email som bliver brugt til at logge ind med. Se afsnittene der omhandler adgangskoder herunder. 
 
-Man kan ikke som kollega-admin “lukke op” for en spærret bruger. Der kan ikke lukkes op for spærret brugere ved at kontakte Det Digitale Folkebibliotek. Eneste måde at hæve spærringen, er at tømme det DB table som holder styr på logging af fejlslagne loginforsøg. Det er besværligt, omstændigt og resursekrævende. Så det kommer kun til at ske i ekstraordinære tilfælde.
+Man kan ikke som kollega-admin “lukke op” for en spærret bruger. Der kan ikke lukkes op for spærret brugere ved at kontakte Det Digitale Folkebibliotek. Eneste måde at hæve spærringen fra centralt side, er at tømme det DB table som holder styr på logging af fejlslagne loginforsøg. Det er besværligt, omstændigt og resursekrævende. Så det kommer kun til at ske i ekstraordinære tilfælde, og vi anbefaler at vente til spærringen er hævet.
 
 ## Glemt password funktion
 Er du redaktionel bruger og har glemt dit password er der en **Glemt adgangskode** funktion, der nulstiller dit password.
