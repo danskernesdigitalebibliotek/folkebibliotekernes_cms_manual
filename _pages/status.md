@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 10/7 Kommunikation og releases i sommerferien
+I ugerne 29, 30 og 31 planlægger vi grundet sommerferie ikke med at lave nye releases. Opstår behovet vil vi dog release. Samtidigt er det i denne periode ekstra vigtigt at problemer og henvendelser sker via CMS-info@detdigitalefolkebibliotek.dk eller via vores servicedesk.
 ## 4/7 status på aktiviteter
 ### Arrangement API
 Vi har analyseret og haft dialog med Place2Book omkring de udfordringer der er oplevet. Herunder kan I se hvad status er og vi har aftalt med Place2Book:
