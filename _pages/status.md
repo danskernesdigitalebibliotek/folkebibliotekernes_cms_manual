@@ -11,11 +11,11 @@ Vi releaser idag den forventeligt sidste opdatering inden august. Da vi stadig k
 Vi oplever fejl der opstår når en bruger er logget ind på et bibliotekssite, og så forsøger at oprette sig på et andet bibliotek. Brugeren oplever at blive halvvejs logget ind, og må logge ud, for at kunne oprette sig et nyt sted. Det er desværre ikke noget vi kan nå at få rettet inden tidligst uge 32.
 ### Udfordringer med webmasterbiblioteker
 Vi har afdækket en fejl mellem vores oversættelsesmodul og rettighedsmodul, som har gjort det umuligt for webmasterbiblioteker at aktivere nye moduler. Vi har ikke et fiks klart, men følgende hack bør få det til at virke for jer:
-•	Log ind som bruger med administrator-rollen
-•	Gå til redigering af brugerprofilen
-•	Skift administrationssproget for brugeren til engelsk 
-•	Tildel tilladelserne for det nye modul til de resterende roller
-•	Skift administrationssproget for brugeren tilbage til dansk
+1. Log ind som bruger med administrator-rollen
+2. Gå til redigering af brugerprofilen
+3. Skift administrationssproget for brugeren til engelsk 
+4. Tildel tilladelserne for det nye modul til de resterende roller
+5. Skift administrationssproget for brugeren tilbage til dansk
 
 ## 10/7 Kommunikation og releases i sommerferien
 I ugerne 29, 30 og 31 planlægger vi grundet sommerferie ikke med at lave nye releases. Opstår behovet vil vi dog release. Samtidigt er det i denne periode ekstra vigtigt at problemer og henvendelser sker via CMS-info@detdigitalefolkebibliotek.dk eller via vores servicedesk.
