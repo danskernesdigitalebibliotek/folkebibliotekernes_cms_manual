@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 15/7
+Releasen fra i torsdags har skabt problemer med kontaktformular og visning af relateret indhold i artikler og arrangementer. Vi knokler på at løst disse, og forventer at rulle en release med fejlrettelser ud imorgen, tirsdag.
 ## 11/7
 ### Release idag
 Vi releaser idag den forventeligt sidste opdatering inden august. Da vi stadig kæmper med Microsofts Mariadb databaser, går vi med livrem og seler, og kører få biblioteker ad gangen. Det forventer vi resulterer i en problemløs release. Vær dog klar over at mellem 13 og 17 idag kører releasen ud, og hvis I oplever problemer, så opret en ticket i servicedesken. Vi arbejder stadig på at stablisere databaserne.
