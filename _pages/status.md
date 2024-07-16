@@ -4,6 +4,15 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 16/7
+### Release med fejlrettelser
+Vi udgiver iløbet af idag en release der retter de problemer der har været med formularer og relateret indhold.
+### Lav bemanding de kommende uger
+Frem til uge 32 kører vi med meget lav bemanding. I er selvfølgeligt velkomne til at oprette tickets i vores servicedesk, men forvent længere behandlingstid. Vi holder løbende øje med den, så sker der noget kritisk, vil vi naturligvis agere på det.
+### Brug servicedesk fremfor email 
+I perioden 21/7 til 29/7 tjekker vi kun servidedesken, så sørg for at bruge denne, fremfor CMS-info@kk.dk.
+### Webmaster biblioteker
+Der burde være adgang for alle webmaster biblioteker til at teste i jeres modultest-miljøer. Er der problemer med det, så meld ind via servicedesken.
 ## 15/7
 Releasen fra i torsdags har skabt problemer med kontaktformular og visning af relateret indhold i artikler og arrangementer. Vi knokler på at løst disse, og forventer at rulle en release med fejlrettelser ud imorgen, tirsdag.
 ## 11/7
