@@ -4,6 +4,7 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 16/7
 ## 15/7
 Releasen fra i torsdags har skabt problemer med kontaktformular og visning af relateret indhold i artikler og arrangementer. Vi knokler på at løst disse, og forventer at rulle en release med fejlrettelser ud imorgen, tirsdag.
 ## 11/7
