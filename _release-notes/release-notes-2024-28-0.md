@@ -10,7 +10,7 @@ Releasedato: 11-07-2024
 
 ## Fejlrettelser
 
--	Fjernlån fra Det Kongelige bibliotek og andre fagbiblioteker vises nu i lånerstatus – dog uden materialetype og forside.
+-	Fjernlån fra Det Kongelige bibliotek og andre fagbiblioteker vises nu i lånerstatus – dog uden materialetype.
   
 -	Mulighed for at tilføje "På hylden", "Opstilling" og "Delopstilling" ved avanceret søgning under rediger CQL.
   
