@@ -1,10 +1,10 @@
 ---
-title:  "Release Notes 2024.29.0 + 2024.29.1"
+title:  "Release Notes 2024.29.1"
 category: "Release Notes"
 weight: 987
 ---
 
-**Denne release indeholder forskellige fejlrettelser. Release 2024.29.1 var et fix til webforms.**
+**Denne release indeholder forskellige fejlrettelser.**
 
 Releasedato: 16-07-2024
 
