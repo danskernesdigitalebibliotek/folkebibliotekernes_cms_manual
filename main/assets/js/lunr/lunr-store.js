@@ -822,7 +822,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2024.28.0",
-        "excerpt":"Denne release indeholder forskellige fejlrettelser og udvikling. Releasedato: 11-07-2024 Fejlrettelser Fjernlån fra Det Kongelige bibliotek og andre fagbiblioteker vises nu i lånerstatus – dog uden materialetype. Mulighed for at tilføje “På hylden”, “Opstilling” og “Delopstilling” ved avanceret søgning under rediger CQL. Kontaktformular: Bekræftelsesmail slår nu igennem. Webformularer/kontaktformularer sender nu også...","categories": ["Release Notes"],
+        "excerpt":"Denne release indeholder forskellige fejlrettelser og udvikling. Releasedato: 11-07-2024 Fejlrettelser Fjernlån fra Det Kongelige bibliotek og andre fagbiblioteker vises nu i lånerstatus – dog uden materialetype. Kontaktformular: Bekræftelsesmail slår nu igennem. Webformularer/kontaktformularer sender nu også indhold fra felter til modtagermail. Mange enkel reserveringer foretaget på én gang i Cicero LMS...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-28-0/",
         "teaser": null
