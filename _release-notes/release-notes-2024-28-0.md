@@ -12,8 +12,6 @@ Releasedato: 11-07-2024
 
 -	Fjernlån fra Det Kongelige bibliotek og andre fagbiblioteker vises nu i lånerstatus – dog uden materialetype.
   
--	Mulighed for at tilføje "På hylden", "Opstilling" og "Delopstilling" ved avanceret søgning under rediger CQL.
-  
 -	Kontaktformular: Bekræftelsesmail slår nu igennem.
   
 -	Webformularer/kontaktformularer sender nu også indhold fra felter til modtagermail.
@@ -49,6 +47,8 @@ Releasedato: 11-07-2024
 
 ## Udvikling
 
+-	Mulighed for at tilføje "På hylden", "Opstilling" og "Delopstilling" ved avanceret søgning under rediger CQL.
+  
 - Mulighed for at markere et citat i en tekst.
   
 - Paragraph: Card grid automatic/nyheds- eller artikelkomponenten linker nu til oversigt over nyheder/artikler.
