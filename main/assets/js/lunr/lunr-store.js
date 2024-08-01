@@ -827,8 +827,8 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-28-0/",
         "teaser": null
       },{
-        "title": "Release Notes 2024.29.0 + 2024.29.1",
-        "excerpt":"Denne release indeholder forskellige fejlrettelser. Release 2024.29.1 var et fix til webforms. Releasedato: 16-07-2024 Fejlrettelser Webforms: Rettelse til webforms så det nu er muligt at klone forms uden fejl. Arrangementliste – automatisk: Efter indførslen af “Condition type“ virkede filtrene ikke på event. Dette er nu rettet. Arrangementsserier: Følgende fejl er...","categories": ["Release Notes"],
+        "title": "Release Notes 2024.29.1",
+        "excerpt":"Denne release indeholder forskellige fejlrettelser. Releasedato: 16-07-2024 Fejlrettelser Webforms: Rettelse til webforms så det nu er muligt at klone forms uden fejl. Arrangementliste – automatisk: Efter indførslen af “Condition type“ virkede filtrene ikke på event. Dette er nu rettet. Arrangementsserier: Følgende fejl er rettet: Hvis man opretter en arrangementsserie og...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-29-1/",
         "teaser": null
