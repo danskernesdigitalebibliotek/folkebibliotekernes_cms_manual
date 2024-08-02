@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 2/8
+### Kontaktformularer sender ikke indhold
+En del biblioteker oplever at deres kontaktformularer ikke sender indhold, så modtageren kun modtager emnefelter uden det, som der er blevet indtastet. Vi arbejder på at få det løst hurtigst muligt og melder tilbage her, når det er løst.
 ## 16/7
 ### Release med fejlrettelser
 Vi udgiver iløbet af idag en release der retter de problemer der har været med formularer og relateret indhold.
