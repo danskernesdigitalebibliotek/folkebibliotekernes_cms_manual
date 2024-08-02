@@ -13,9 +13,7 @@ Releasedato: 11-07-2024
 -	Fjernlån fra Det Kongelige bibliotek og andre fagbiblioteker vises nu i lånerstatus – dog uden materialetype.
   
 -	Kontaktformular: Bekræftelsesmail slår nu igennem.
-  
--	Webformularer/kontaktformularer sender nu også indhold fra felter til modtagermail.
-  
+    
 -	Mange enkel reserveringer foretaget på én gang i Cicero LMS opfattes ikke længere som en parallelreservering.
   
 -	Tilgængelighed: Paragraph material grid: Alt-attribut med tilgængelig tekst indsættes for billeder der fungerer som links.
