@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 5/8
+### Kontaktformularer og webformularer fejler ved afsendelse
+Vi oplever at kontaktformularer og webformularer fejler, når de bliver afsendt. Vores udvikler er på sagen og har lokaliseret problemet. Vi skal nok skrive, når der er nyt i sagen.
 ## 2/8
 ### Kontaktformularer sender ikke indhold
 En del biblioteker oplever at deres kontaktformularer ikke sender indhold, så modtageren kun modtager emnefelter uden det, som der er blevet indtastet. Vi arbejder på at få det løst hurtigst muligt og melder tilbage her, når det er løst.
