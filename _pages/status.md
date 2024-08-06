@@ -4,6 +4,10 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 6/8
+### Kontaktformularer og webformularer kan nu afsende mails
+Webformularerne og kontaktformularen på hjemmesiden har drillet med afsendelse. Dette er løst med et fix i nat, så der igen kan sendes fra formularerne.
+Men grunden til at de stoppede med at virke i første om gang, handler om at bots har spammet webformsene på de forskellige sites og det har lukket ned for udsendingen. Det er jo i princippet godt at de lukker ned ved spam, men vi har opsat ekstra antibots-løsninger, som forhåbentlig sikre at der ikke kommer spam igennem formularerne. Hvis I modtager spam fra jeres formularer, må I meget gerne sende det ind via Servicedesk, så vores udviklere kan lukke det ned.
 ## 5/8
 ### Kontaktformularer og webformularer fejler ved afsendelse
 Vi oplever at kontaktformularer og webformularer fejler, når de bliver afsendt. Vores udvikler er på sagen og har lokaliseret problemet. Vi skal nok skrive, når der er nyt i sagen.
