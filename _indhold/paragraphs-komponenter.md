@@ -55,6 +55,8 @@ Afhængigt af om du har valgt billede for indhold vises i slidere et billede ell
 ### Banner
 Bannerkomponenten er et visuelt indstik, som bruges til at fremhæve et bestemt stykke indhold eller autogenererede tagsider/kategori-sider. Komponenten kan bruges både med og uden baggrundsbillede. Banneren oprettes med et internt eller eksternt link samt en overskrift og en beskrivelse. 
 
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/44e51b7e-1b17-4ca4-89e1-059dde78bcd1" alt="Eksempel på et banner" caption="Eksempel på et banner" %}
+
 ### Hero
 Linkende indgangsbillede og tekst i toppen af side.
 
