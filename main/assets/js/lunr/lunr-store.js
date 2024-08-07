@@ -833,6 +833,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-29-1/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.32.1",
+        "excerpt":"Login for institutioner fungerer, krav til passwordlængde for redaktionelle brugere og default brødkrumme fjernet fra side Releasedato: 07-08-2024 Nye features Arrangementer: Nu muligt at angive pris på arrangement i euro. Konfigureres under /admin/config/dpl-event/settings Passwordlængde for medarbejderbrugere: Ved oprettelse af nye medarbejderbrugere er det nu et krav at adgangskode følger en...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-32-1/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],

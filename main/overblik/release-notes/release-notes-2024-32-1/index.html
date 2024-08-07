@@ -10,19 +10,19 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Release Notes 2024.20.2 - Folkebibliotekernes CMS</title>
-<meta name="description" content="Række af gentagne åbningstider kan nu slettes på en gang, API til redaktionelt indhold tilgængelig og bibliotekslogo linker på mobilvisningen også til forsiden.">
+<!-- begin _includes/seo.html --><title>Release Notes 2024.32.1 - Folkebibliotekernes CMS</title>
+<meta name="description" content="Login for institutioner fungerer, krav til passwordlængde for redaktionelle brugere og default brødkrumme fjernet fra side">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Release Notes 2024.20.2">
-<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-20-2/">
+<meta property="og:title" content="Release Notes 2024.32.1">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-32-1/">
 
 
-  <meta property="og:description" content="Række af gentagne åbningstider kan nu slettes på en gang, API til redaktionelt indhold tilgængelig og bibliotekslogo linker på mobilvisningen også til forsiden.">
+  <meta property="og:description" content="Login for institutioner fungerer, krav til passwordlængde for redaktionelle brugere og default brødkrumme fjernet fra side">
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-20-2/">
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-32-1/">
 
 
 
@@ -179,7 +179,7 @@
     
       
       
-        <li class="current">Release Notes 2024.20.2</li>
+        <li class="current">Release Notes 2024.32.1</li>
       
     
   </ol>
@@ -246,7 +246,7 @@
               
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2024-32-1/">Release Notes 2024.32.1</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2024-32-1/" class="active">Release Notes 2024.32.1</a></li>
               
             
               
@@ -270,7 +270,7 @@
               
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2024-20-2/" class="active">Release Notes 2024.20.2</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2024-20-2/">Release Notes 2024.20.2</a></li>
               
             
               
@@ -306,8 +306,8 @@
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Release Notes 2024.20.2">
-    <meta itemprop="description" content="Række af gentagne åbningstider kan nu slettes på en gang, API til redaktionelt indhold tilgængelig og bibliotekslogo linker på mobilvisningen også til forsiden.">
+    <meta itemprop="headline" content="Release Notes 2024.32.1">
+    <meta itemprop="description" content="Login for institutioner fungerer, krav til passwordlængde for redaktionelle brugere og default brødkrumme fjernet fra side">
     <meta itemprop="datePublished" content="2024-08-07T09:49:12+00:00">
     
 
@@ -316,7 +316,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-20-2/" class="u-url" itemprop="url">Release Notes 2024.20.2
+            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-32-1/" class="u-url" itemprop="url">Release Notes 2024.32.1
 </a>
           </h1>
           
@@ -339,93 +339,54 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <h1 id="række-af-gentagne-åbningstider-kan-nu-slettes-på-en-gang-api-til-redaktionelt-indhold-tilgængelig-og-bibliotekslogo-linker-på-mobilvisningen-også-til-forsiden">Række af gentagne åbningstider kan nu slettes på en gang, API til redaktionelt indhold tilgængelig og bibliotekslogo linker på mobilvisningen også til forsiden.</h1>
+        <h1 id="login-for-institutioner-fungerer-krav-til-passwordlængde-for-redaktionelle-brugere-og-default-brødkrumme-fjernet-fra-side">Login for institutioner fungerer, krav til passwordlængde for redaktionelle brugere og default brødkrumme fjernet fra side</h1>
+
+<p>Releasedato: 07-08-2024</p>
 
 <h2 id="nye-features">Nye features</h2>
 
 <ul>
   <li>
-    <p>Paragraph Brødtekst: Bedre formatering af elementet lister (&lt;ul&gt; &lt;ol&gt;)  i slutbrugervisningen.</p>
+    <p>Arrangementer: Nu muligt at angive pris på arrangement i euro. Konfigureres under /admin/config/dpl-event/settings</p>
   </li>
   <li>
-    <p>Paragraph: Bedre standardoplistning af paragraphs til redaktørerne med mulighed for at filtrere på prædefinerede kategorier for de forskellige typer af paragraphs.</p>
+    <p>Passwordlængde for medarbejderbrugere: Ved oprettelse af nye medarbejderbrugere er det nu et krav at adgangskode følger en række standardkrav: Rollerne “Editor”, “Mediator”, og “External system” skal i fremtiden vælge passwords der er mindst 8 tegn lange, og en blanding af bogstaver og tal. Rollerne “Administrator” og “Local Administrator” skal i fremtiden vælge passwords der er mindst 12 tegn lange og en blanding af bogstaver og tal. Disse to roller skal desuden vælge et nyt password hver 90. dag.
+Paragraph ”Simple links”: Nyt paragraphelement som gør det muligt at liste en række links.</p>
   </li>
   <li>
-    <p>Cache: Kun lokal_admin kan rydde cachen. Funktionen er tilføjet beskrivende tekst, der beskriver konsekvenserne ved rydning af cache.</p>
+    <p>API til arrangementer: Udstiller nu postnummer for afholdelsessted på diverse arrangementer.</p>
   </li>
   <li>
-    <p>API til redaktionelt indhold: Dokumentation på API under admin/config/services/openapi/swagger/rest. Alle arrangementer kan ses under /api/v1/events.</p>
-  </li>
-  <li>
-    <p>Åbningstider: Bedre muligheder for at administrere gentagne åbningstider herunder mulighed for at slette række af gentagne åbningstider på en gang og slette en enkelt åbningstid, som er en del af en række.</p>
-  </li>
-  <li>
-    <p>Paragraph Nyhedskomponent: I stedet for navn på indholdstypen dvs. ”Artikel” vises artiklens kategori. Hvis ingen kategorier er tilknyttet vises ”Artikel” som tekst.</p>
-  </li>
-  <li>
-    <p>Tags: Mulighed for at oprette nye tags direkte fra artikler og arrangementer.</p>
-  </li>
-  <li>
-    <p>På redigeringsgrænsefladen til de enkelte indholdstyper er link til ”Filer” erstattet med link til mediebiblioteket.</p>
-  </li>
-  <li>
-    <p>Gebyr og erstatninger: Advarselsbesked om gebyrer ved overskredne lån øverst på siden. Linker til informationsside.</p>
+    <p>Paragraph slider og Indholdsslider: Mulighed for at markere hvilke ord der skal understreges i slideroverskifte som grafisk effekt.</p>
   </li>
 </ul>
 
-<h2 id="fejlrettelser-og-forbedringer">Fejlrettelser og forbedringer:</h2>
+<h2 id="fejlrettelser-og-forbedringer">Fejlrettelser og forbedringer</h2>
 
 <ul>
   <li>
-    <p>Arrangement: Efter man har sorteret på filial under /arrangementer vises arrangementer i en serie igen korrekt. Før manglede oplysninger på arrangementer og alle arrangementer i en serie af gentagne arrangementer blev ikke vist.</p>
+    <p>Login og visning af udlån for bl.a. institutioner og læsekredse fungerer nu.</p>
   </li>
   <li>
-    <p>Arrangementer: Teasertekst (tekst på farvet boks som erstatter billede) vises nu også på enkeltstående arrangementer.</p>
+    <p>Tilgængelighed: Unødvendig alt-attribut fjernet fra ikonet for åbningstider.</p>
   </li>
   <li>
-    <p>Paragraph Nyhedskomponent – automatisk: På mobilvisninger lægger tekst sig ikke længere henover titelbillede.</p>
+    <p>Brødkrumme: Tidligere var indholdstypen side født med brødkrumme med sidens titel. Den er fjernet, så der kun vises brødkrumme, hvis siden faktisk indgår i en brødkrummestruktur.</p>
   </li>
   <li>
-    <p>Paragraph Materialekomponent: Forsidebilleder til Lydbøger har nu samme størrelse, som andre forsider i Materialekomponenten.</p>
+    <p>Paragraph Materialekomponent automatisk: Skjules nu i slutbrugervisningen, hvis den er konfigureret med materialesøgning uden resultater.</p>
   </li>
   <li>
-    <p>Artikler: Formidler har nu mulighed for at publicere artikler oprettet med udgangspunkt i afpubliceret skabelonartikel.</p>
+    <p>Redaktionel søgning på arrangementer: Redaktører har nu mulighed for at søge efter et arrangement under admin/content/eventseries. Tidligere kastede sitet en fejl ved søgning.</p>
   </li>
   <li>
-    <p>Arrangementer: Fejl hvor seriearrangement uden grund opdeles i listevisningen under /arrangementer er nu løst.</p>
+    <p>Fallback på materialekomponenter:  Hvis man f.eks. viser en bog-udgave af et materiale og den pludselig ikke findes længere vil materialekomponenten falde tilbage på materialetypen for best representation for værket, som viser det som er muligt.</p>
   </li>
   <li>
-    <p>Bibliotekslogo: Linker nu også til forsiden på mobilvisningen. Logoet er tilføjet tilgængelig tekst (aria-label), så brugere af skærmlæsere oplæses relevant information.</p>
+    <p>Fejl rettet hvor brugere med rollen ”Local_administrator” var forsvundet fra oversigten over redaktionelle brugere.</p>
   </li>
   <li>
-    <p>Listevisninger: Bedre trunkering af tekst i diverse listevisninger under f.eks. /arrangementer og /artikler.</p>
-  </li>
-  <li>
-    <p>Værkvisningssiden fejler for specifikt værk “Dramatis Personae”, work-of:150086-netmusik:BIS-2067. Fejlen er nu rettet.</p>
-  </li>
-  <li>
-    <p>Tilgængelighed: Rolle tildelt div-element, der åbner modal med detaljevisning for titel vist i gruppemodal.</p>
-  </li>
-  <li>
-    <p>Tilgængelighed: Ikke længere dublikerede ID’er i modal for lån, der snart skal afleveres.</p>
-  </li>
-  <li>
-    <p>Tilgængelighed: Avanceret søgning: Ved brug af keyboardnavigation. Efter sletning af række med inputfelt sættes fokus aktivt.</p>
-  </li>
-  <li>
-    <p>Tilgængelighed: Søgning og filtrering: Tom alt-attribut indsat på close-ikon ved valgt filter.</p>
-  </li>
-  <li>
-    <p>Tilgængelighed: Label “MATERIALETYPE STATUS” får nu kun rollen knap, hvis det er muligt at vælge mellem forskellige materialetyper. Vigtigt for brugere af skærmlæsere, som ellers kan få indtrykket, at der kan interageres med knap, som faktisk kun er label.</p>
-  </li>
-  <li>
-    <p>Tilgængelighed: Skjult mobilmenu kan ikke længere tildeles fokus på desktopvisning. Har tidligere fungeret som tastaturfælde.</p>
-  </li>
-  <li>
-    <p>Tekstbeskeder ved sletning af materiale: Tekster skifter nu mellem ental og flertalsform alt efter om man vælger ét eller flere materialer til sletning</p>
-  </li>
-  <li>
-    <p>Ved søgning på “ “ eller “null” vises der vejledende tekst</p>
+    <p>Visning af materiale: Fejl løst hvor materialer under ”Udgave” har forkert status på availability-label.</p>
   </li>
 </ul>
 
