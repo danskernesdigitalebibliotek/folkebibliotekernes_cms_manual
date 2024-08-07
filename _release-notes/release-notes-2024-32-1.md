@@ -14,7 +14,7 @@ Releasedato: 07-08-2024
 
 - Passwordlængde for medarbejderbrugere: Ved oprettelse af nye medarbejderbrugere er det nu et krav at adgangskode følger en række standardkrav: Rollerne “Editor”, “Mediator”, og “External system” skal i fremtiden vælge passwords, der er mindst 8 tegn lange, og en blanding af bogstaver og tal. Rollerne “Administrator” og “Local Administrator” skal i fremtiden vælge passwords, der er mindst 12 tegn lange og en blanding af bogstaver og tal. Disse to roller skal desuden vælge et nyt password hver 90. dag.
 
-- Paragraph ”Simple links”: Nyt paragraphelement, som gør det muligt at liste en række links. 
+- Paragraph ”Simple links”: Nyt paragraphelement til listning af links. 
 
 - API til arrangementer: Udstiller nu postnummer for afholdelsessted på diverse arrangementer. 
 
