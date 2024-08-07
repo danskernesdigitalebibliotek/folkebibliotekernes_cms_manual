@@ -18,7 +18,7 @@ Releasedato: 07-08-2024
 
 - API til arrangementer: Udstiller nu postnummer for afholdelsessted på diverse arrangementer. 
 
-- Paragraph slider og Indholdsslider: Mulighed for at markere hvilke ord der skal understreges i slideroverskift (grafisk effekt).  
+- Paragraph slider og Indholdsslider: Mulighed for at markere hvilke ord, der understreges i slideroverskift (grafisk effekt).  
 
 
 ## Fejlrettelser og forbedringer
