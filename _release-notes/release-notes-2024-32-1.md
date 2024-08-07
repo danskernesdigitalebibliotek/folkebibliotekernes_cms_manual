@@ -1,7 +1,7 @@
 ---
 title:  "Release Notes 2024.32.1"
 category: "Release Notes"
-weight: 989
+weight: 986
 ---
 
 # Login for institutioner fungerer, krav til passwordlængde for redaktionelle brugere og default brødkrumme fjernet fra side 
