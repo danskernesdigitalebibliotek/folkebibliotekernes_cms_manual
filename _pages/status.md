@@ -4,7 +4,13 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 8/8
+## 8/8 kl. 10.30
+### Vigtig besked: Release 2024.32.1 har fejlet og er ikke rullet ud alligevel
+Gårsdagens release 2024.32.1 er desværre fejlet. Vi har lige nu fokus på at fikse situationen.
+Vigtigt - Vi skal bede jer om IKKE at lave indhold lige nu, da vi kommer til at rulle ud igen i dag!
+Vi regner desværre med at der kommer til gå 5-6 timer før alle er på den nye release. Hold øje med jeres releasenummer og tjek denne side for nyt.
+Vi beklager de gener det medfører.
+## 7/8
 ### Ny release 2024.32.1 ude men fejlede på enkelte biblioteker
 Vi kørte i går den nye release 2024.32.1 ud, men releasen fejlede på følgende biblioteker, som derfor endnu ikke er opgraderet:
 - København
