@@ -834,7 +834,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2024.32.1",
-        "excerpt":"Login for institutioner fungerer, krav til passwordlængde for redaktionelle brugere og default brødkrumme fjernet fra side Releasedato: 07-08-2024 Nye features Arrangementer: Nu muligt at angive pris på arrangement i euro. Konfigureres under /admin/config/dpl-event/settings. Passwordlængde for medarbejderbrugere: Ved oprettelse af nye medarbejderbrugere er det nu et krav, at adgangskode følger en...","categories": ["Release Notes"],
+        "excerpt":"Login for institutioner og biblioteker fungerer. Releasedato: 07-08-2024 Nye features Arrangementer: Nu muligt at angive pris på arrangement i euro. Konfigureres under /admin/config/dpl-event/settings. Paragraph ”Simple links”: Nyt paragraphelement til listning af links. API til arrangementer: Udstiller nu postnummer for afholdelsessted på diverse arrangementer. Paragraph slider og Indholdsslider: Mulighed for at...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-32-1/",
         "teaser": null
