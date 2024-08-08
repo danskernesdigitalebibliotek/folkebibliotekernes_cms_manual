@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 8/8 kl. 18
+### Alle sites skulle nu være opdateret til 2024.32.1
+Tjek at I er på den nye release. Hvis I er på den nye cms version, kan I nu igen lægge indhold på jeres sites. Lav en sag i servicedesk, hvis I mod forvent ikke er på version 2024.32.1.
 ## 8/8 kl. 15
 ### Vi kører nu release 2024.32.1 ud til jer
 Det tager 2-3 timer. Vi skriver her, når alle er på og I kan oprette nyt indhold igen.
