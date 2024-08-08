@@ -4,6 +4,21 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 8/8
+### Ny release 2024.32.1 ude men fejlede på enkelte biblioteker
+Vi kørte i går den nye release 2024.32.1 ud, men releasen fejlede på følgende biblioteker, som derfor endnu ikke er opgraderet:
+- København
+- Herning
+- Allerød
+- Esbjerg
+- Lejre
+- Lolland
+- Næstved
+- Nordfyn
+- Ringkøbing-Skjern
+- Silkeborg
+
+Vi arbejder på at få den nye release ud til disse biblioteker hurtigst muligt.
 ## 6/8
 ### Kontaktformularer og webformularer kan nu afsende mails
 Webformularerne og kontaktformularen på hjemmesiden har drillet med afsendelse. Dette er løst med et fix i nat, så der igen kan sendes fra formularerne.
