@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 8/8 kl. 15
+### Vi kører nu release 2024.32.1 ud til jer
+Det tager 2-3 timer. Vi skriver her, når alle er på og I kan oprette nyt indhold igen.
 ## 8/8 kl. 10.30
 ### Vigtig besked: Release 2024.32.1 har fejlet og er ikke rullet ud alligevel
 Gårsdagens release 2024.32.1 er desværre fejlet. Vi har lige nu fokus på at fikse situationen.
