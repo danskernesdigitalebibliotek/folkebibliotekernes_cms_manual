@@ -4,15 +4,13 @@ category: "Release Notes"
 weight: 986
 ---
 
-# Login for institutioner fungerer, krav til passwordlængde for redaktionelle brugere og default brødkrumme fjernet fra side 
+# Login for institutioner og biblioteker fungerer. 
 
 Releasedato: 07-08-2024
 
 ## Nye features
 
 - Arrangementer: Nu muligt at angive pris på arrangement i euro. Konfigureres under /admin/config/dpl-event/settings.
-
-- Passwordlængde for medarbejderbrugere: Ved oprettelse af nye medarbejderbrugere er det nu et krav, at adgangskode følger en række standardkrav: Rollerne “Editor”, “Mediator”, og “External system” skal i fremtiden vælge passwords, der er mindst 8 tegn lange, og en blanding af bogstaver og tal. Rollerne “Administrator” og “Local Administrator” skal i fremtiden vælge passwords, der er mindst 12 tegn lange og en blanding af bogstaver og tal. Disse to roller skal desuden vælge et nyt password hver 90. dag.
 
 - Paragraph ”Simple links”: Nyt paragraphelement til listning af links. 
 
@@ -27,8 +25,6 @@ Releasedato: 07-08-2024
 
 - Tilgængelighed: Unødvendig alt-attribut fjernet fra ikonet for åbningstider. 
 
-- Brødkrumme: Tidligere var indholdstypen side født med brødkrumme med sidens titel. Den er fjernet, så der kun vises brødkrumme, hvis siden faktisk indgår i en brødkrummestruktur. 
-
 - Paragraph Materialekomponent automatisk: Skjules nu i slutbrugervisningen, hvis den er konfigureret med materialesøgning uden resultater. 
 
 - Redaktionel søgning på arrangementer: Redaktører har nu mulighed for at søge efter et arrangement under admin/content/eventseries. Tidligere kastede sitet en fejl ved søgning. 
@@ -37,5 +33,15 @@ Releasedato: 07-08-2024
 
 - Fejl rettet hvor brugere med rollen ”Local_administrator” var forsvundet fra oversigten over redaktionelle brugere.
 
-- Visning af materiale: Fejl løst hvor materialer under ”Udgave” har forkert status på availability-label.  
+- Visning af materiale: Fejl løst hvor materialer under ”Udgave” har forkert status på availability-label.
 
+
+  
+
+## Opdatering 8/8
+
+Følgende var oprindeligt i denne release men er taget ud og kommer i en senere release:
+
+- Passwordlængde for medarbejderbrugere: Ved oprettelse af nye medarbejderbrugere er det nu et krav, at adgangskode følger en række standardkrav: Rollerne “Editor”, “Mediator”, og “External system” skal i fremtiden vælge passwords, der er mindst 8 tegn lange, og en blanding af bogstaver og tal. Rollerne “Administrator” og “Local Administrator” skal i fremtiden vælge passwords, der er mindst 12 tegn lange og en blanding af bogstaver og tal. Disse to roller skal desuden vælge et nyt password hver 90. dag.
+
+- Brødkrumme: Tidligere var indholdstypen side født med brødkrumme med sidens titel. Den er fjernet, så der kun vises brødkrumme, hvis siden faktisk indgår i en brødkrummestruktur. 
