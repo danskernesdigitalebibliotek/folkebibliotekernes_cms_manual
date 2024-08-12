@@ -68,7 +68,7 @@ Besvarelserne modtager biblioteket pr. email. I kan registrere en eller flere em
 Der skal oprettes to forskellige mail-skabeloner pr. formular. 
 - En kvitteringsskabelon, der har borgeren som modtager
 - En besvarelsesskabelon, der har biblioteket som modtager
-{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/b1f529b4-ee8f-4d39-a9f2-a7b3ccab9956" alt="En forular har brug for en kvitteringsskabelon og en besvarelsesskabelon" caption="En forular har brug for en kvitteringsskabelon og en besvarelsesskabelon" %}
+{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/b1f529b4-ee8f-4d39-a9f2-a7b3ccab9956" alt="Formularer skal have en kvitteringsskabelon og en besvarelsesskabelon" caption="Formularer skal have en kvitteringsskabelon og en besvarelsesskabelon" %}
 
 #### Kvitteringsemail
 Man kan kun sende en kvitteringsemail til borgeren, hvis man har sørget for at oprette et påkrævet email-felt på formularen. Det gøres med felttypen **Email**.
