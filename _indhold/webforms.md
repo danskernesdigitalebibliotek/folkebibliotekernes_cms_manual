@@ -85,7 +85,7 @@ Herunder er kvitteringsskabelonen for kontaktformularen. Den kan bruges som insp
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/dc184f71-b8d1-409c-b223-6dc9659a5d7d" alt="Tilret emne og brødtekst på kvitteringsmail" caption="Tilret emne og brødtekst på kvitteringsmail" %}
 
 ### Besvarelser via email
-Det er meget vigtigt at oprette en mailskabelon for besvarelser. Gør man ikke det, modtager I ganske enkelt ikke de indsendte besvarelser.
+Det er meget vigtigt at oprette en mailskabelon for besvarelser. Gør I ikke det, modtager I ganske enkelt ikke de indsendte besvarelser.
 
 Tilføj en ny mailskabelon  via **Indstillinger** og så **Emails/handlers**. Tryk så på knappen **+ Tilføj Email** øverst til højre.
 
