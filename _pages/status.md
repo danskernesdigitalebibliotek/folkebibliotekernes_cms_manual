@@ -5,8 +5,8 @@ sidebar: true
 nav: "overblik"
 ---
 ## 12/8
-### Filproblemer på sitet
-Flere biblioteker oplever lige nu problemer med at lægge indhold ind på deres sites og at se deres billeder på hjemmesiden. Vi er i fuld gang med at fejlrette og melder ud her samt de relaterede sager: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-753 og https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-754 når vi ved mere.
+### Filsystemet på site fejler
+Flere biblioteker oplever lige nu problemer med at lægge indhold ind på deres sites og at se deres billeder på hjemmesiden. Vi er i fuld gang med at fejlrette og det det lader til at være et problem med filsystemet på platformen. Vi melder ud her samt de relaterede sager: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-753 og https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-754 når vi ved mere.
 ## 8/8 kl. 18
 ### Alle sites skulle nu være opdateret til 2024.32.1
 Tjek at I er på den nye release. Hvis I er på den nye cms version, kan I nu igen lægge indhold på jeres sites. Lav en sag i servicedesk, hvis I mod forvent ikke er på version 2024.32.1.
