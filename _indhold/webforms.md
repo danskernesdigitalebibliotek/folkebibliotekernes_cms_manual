@@ -87,10 +87,12 @@ Herunder er kvitteringsskabelonen for kontaktformularen. Den kan bruges som insp
 ### Besvarelser via email
 Det er meget vigtigt at oprette en mailskabelon for besvarelser. Gør I ikke det, modtager I ganske enkelt ikke de indsendte besvarelser.
 
-Tilføj en ny mailskabelon  via **Indstillinger** og så **Emails/handlers**. Tryk så på knappen **+ Tilføj Email** øverst til højre.
+Tilføj en ny mailskabelon via **Indstillinger** og så **Emails/handlers**. Tryk så på knappen **+ Tilføj Email** øverst til højre.
 
 I **Send til** feltet vælg **Custom To email address** og indtast emailadresser på de kolleger, der skal modtage besvarelser fra formularen. Adskil med komma.
-{% include figure class="fifty" image_path="https://github.com/user-attachments/assets/0d821cf0-faf6-431c-b5d8-f7c5729a01bd" alt="Vælg formularfeltet med borgerens email i 'Send til'" caption="Vælg formularfeltet med borgerens email i 'Send til'" %}
+{% include figure class="fifty" image_path="https://github.com/user-attachments/assets/0d821cf0-faf6-431c-b5d8-f7c5729a01bd" alt="Vælg 'Custom to email address' og indtast emails" caption="Vælg 'Custom to email address' og indtast emails" %}
+
+Hvis I ønsker det, kan I også tilrette Emne og brødteskt på den email, der genereres. Defaulttesksten er dog helt ok, da indholdet fra alle formularfelter automatisk kommer med. 
 
 
 
