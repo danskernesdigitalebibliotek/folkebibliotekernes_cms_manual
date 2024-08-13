@@ -77,7 +77,7 @@ Der skal oprettes to forskellige mail-skabeloner pr. formular.
 #### Kvitteringsemail
 Man kan kun sende en kvitteringsemail til borgeren, hvis man har sørget for at oprette et påkrævet email-felt på formularen. Det gøres med felttypen **Email**.
 
-Tilføj en ny mailskabelon  via **Indstillinger** og så **Emails/handlers**. Tryk så på knappen **+ Tilføj Email** øverst til højre.
+Tilføj en ny mailskabelon via **Indstillinger** og så **Emails/handlers**. Tryk så på knappen **+ Tilføj Email** øverst til højre.
 
 I **Send til** feltet vælg email-feltet fra formularen.
 {% include figure class="fifty" image_path="https://github.com/user-attachments/assets/35313895-1e2c-4def-8cfd-faa439b7bccc" alt="Vælg formularfeltet med borgerens email i 'Send til'" caption="Vælg formularfeltet med borgerens email i 'Send til'" %}
@@ -97,6 +97,15 @@ I **Send til** feltet vælg **Custom To email address** og indtast emailadresser
 {% include figure class="fifty" image_path="https://github.com/user-attachments/assets/0d821cf0-faf6-431c-b5d8-f7c5729a01bd" alt="Vælg 'Custom to email address' og indtast emails" caption="Vælg 'Custom to email address' og indtast emails" %}
 
 Hvis I ønsker det, kan I også tilrette **Emne og brødtekst** på den email, der genereres. Standardteksten er dog helt ok, da indholdet fra alle formularfelter automatisk kommer med.
+
+## Planlægge publicering eller lukke webformular
+Ønsker man at indsamle besvarelser i en afgrænset periode, kan man indstille hvornår webformularen skal blive åben for besvarelse og hvornår den skal lukke ned igen. Man kan også skrive den meddelelse der skal vises til brugerne i perioder hvor den er inaktiv. Ligeledes kan man manuelt lukke en formular og angive den besked der skal vises til brugerne. 
+
+Det gøres via **Indstillinger** og så **Formular**. 
+I **Form Status** vælges **Planlagt** hvis man vil forudindstille perioden hvor formularen skal være aktiv.
+Vil du bare lukke en aktiv Webformular vælges **Lukket** i **Form Staus** og en **Lukket formularbesked** angives.
+{% include figure class="fourty" image_path="https://github.com/user-attachments/assets/36cc062b-60b2-438a-94be-e4a7e104cd14" alt="Webformular lukket besked" caption="Webformular lukket besked" %}
+
 
 
 
