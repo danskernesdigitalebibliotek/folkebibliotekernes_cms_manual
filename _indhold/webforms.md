@@ -12,6 +12,10 @@ I topmenuen klik på **Struktur > Webformularer** eller åbn `https://mit-dom�
 Du kommer ind på en oversigt over webformularer, som du har oprettet. Her ligger også jeres **Kontaktformular**. 
 Vil du ændre en webformular skal du trykke på **Byg** ude til højre.
 
+## Indlejring af webformularer på sider, artikler og arrangementer
+Webformularer er designet til at skulle indlejres i sider, artikler eller arrangementer via et paragraph-element. Først ved indljring ser webformularer pæne ud. Derfor skal de ikke bruges selvstændigt, men altid indlejres via paragraph element på en side, ariklel eller arrangement. 
+   {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/7e6b7669-2ff3-4621-9748-dbe3f29b2711" alt="Webforms skal indlejres på sider, artikler eller arrangementer vha. webforms paragraphs element" caption="Webforms skal indlejres på sider, artikler eller arrangementer vha. webforms paragraphs element" %}
+
 ## Sådan bygger du en webformular
 1. Klik på **Tilføj webform** i øverste højre hjørne.
 2. Udfyld **Titel**, **Administrativ beskrivelse** (vises ikke for brugerne) og **Status**, som afgør om formularen er åben for besvarelse eller lukket for besvarelse.
@@ -84,7 +88,7 @@ Tilpas brødteksten ved i **Brødtekst** vælg **Custom body** og tilpasse tekst
 Herunder er kvitteringsskabelonen for kontaktformularen. Den kan bruges som inspiration.
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/dc184f71-b8d1-409c-b223-6dc9659a5d7d" alt="Tilret emne og brødtekst på kvitteringsmail" caption="Tilret emne og brødtekst på kvitteringsmail" %}
 
-### Besvarelser via email
+#### Besvarelser via email
 Det er meget vigtigt at oprette en mailskabelon for besvarelser. Gør I ikke det, modtager I ganske enkelt ikke de indsendte besvarelser.
 
 Tilføj en ny mailskabelon via **Indstillinger** og så **Emails/handlers**. Tryk så på knappen **+ Tilføj Email** øverst til højre.
@@ -93,6 +97,8 @@ I **Send til** feltet vælg **Custom To email address** og indtast emailadresser
 {% include figure class="fifty" image_path="https://github.com/user-attachments/assets/0d821cf0-faf6-431c-b5d8-f7c5729a01bd" alt="Vælg 'Custom to email address' og indtast emails" caption="Vælg 'Custom to email address' og indtast emails" %}
 
 Hvis I ønsker det, kan I også tilrette **Emne og brødtekst** på den email, der genereres. Standardteksten er dog helt ok, da indholdet fra alle formularfelter automatisk kommer med.
+
+
 
 
 
