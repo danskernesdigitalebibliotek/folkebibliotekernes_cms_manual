@@ -13,7 +13,7 @@ Du kommer ind på en oversigt over webformularer, som du har oprettet. Her ligge
 Vil du ændre en webformular skal du trykke på **Byg** ude til højre.
 
 ## Indlejring af webformularer på sider, artikler og arrangementer
-Webformularer er designet til at skulle indlejres i sider, artikler eller arrangementer via et paragraph-element. Først ved indljring ser webformularer pæne ud. Derfor skal de ikke bruges selvstændigt, men altid indlejres via paragraph element på en side, ariklel eller arrangement. 
+Webformularer er designet til at skulle indlejres i sider, artikler eller arrangementer via et paragraph-element. Først ved indljring ser webformularer pæne ud. Derfor skal de ikke bruges selvstændigt, men altid indlejres via paragraph element. 
    {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/7e6b7669-2ff3-4621-9748-dbe3f29b2711" alt="Webforms skal indlejres på sider, artikler eller arrangementer vha. webforms paragraphs element" caption="Webforms skal indlejres på sider, artikler eller arrangementer vha. webforms paragraphs element" %}
 
 ## Sådan bygger du en webformular
