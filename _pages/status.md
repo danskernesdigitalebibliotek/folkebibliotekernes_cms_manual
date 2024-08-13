@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 13/8
+### Filsystemet på sites virker nu igen
+Fejlen er rettet så de biblioteker, som ikke kunne se billeder eller lægge indhold ind i går, igen kan formidle indhold. Udviklerne er ved at analysere hvorfor fejlen opstod. 
 ## 12/8
 ### Filsystemet på site fejler
 Flere biblioteker oplever lige nu problemer med at lægge indhold ind på deres sites og at se deres billeder på hjemmesiden. Vi er i fuld gang med at fejlrette og det det lader til at være et problem med filsystemet på platformen. Vi melder ud her samt de relaterede sager: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-753 og https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-754 når vi ved mere.
