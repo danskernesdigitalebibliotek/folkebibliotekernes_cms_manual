@@ -4,9 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 14/8 kl. 14.20
-### Filsystemet virker igen og I kan se og uploade billeder (ryd evt. browserhistorikken)
-Vi arbejder på at finde en mere varig løsning, så det ikke opstår igen.
+## 14/8 kl. 15
+### Fejlen med filsystemet er desværre ikke løst helt for alle biblioteker
+Meld ind i servicedesk: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-763 når I oplever det.
 ## 14/8 kl. 10.50
 ### Filsystemet fejler igen
 Vi oplever desværre at det igen driller med upload og visning af billeder på hjemmesiderne. Fejlen var ikke fikset helt i går. Vi er på sagen.
