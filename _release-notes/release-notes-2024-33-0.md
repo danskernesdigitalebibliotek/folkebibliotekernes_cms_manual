@@ -6,7 +6,7 @@ weight: 985
 
 # Krav til passwordlængde, bedre orddeling og flere forbedringer til webforms m.m. 
 
-Releasedato: 14-08-2024
+Releasedato: 15-08-2024
 
 ## Nye features
 
