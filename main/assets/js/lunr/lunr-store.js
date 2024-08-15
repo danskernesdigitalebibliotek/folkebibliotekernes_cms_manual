@@ -840,7 +840,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2024.33.0",
-        "excerpt":"Krav til passwordlængde, bedre orddeling og flere forbedringer til webforms m.m. Releasedato: 14-08-2024 Nye features Passwordlængde for medarbejderbrugere: Ved oprettelse af nye medarbejderbrugere er det nu et krav, at adgangskode følger en række standardkrav: Rollerne “Editor”, “Mediator”, og “External system” skal i fremtiden vælge passwords, der er mindst 8 tegn...","categories": ["Release Notes"],
+        "excerpt":"Krav til passwordlængde, bedre orddeling og flere forbedringer til webforms m.m. Releasedato: 15-08-2024 Nye features Passwordlængde for medarbejderbrugere: Ved oprettelse af nye medarbejderbrugere er det nu et krav, at adgangskode følger en række standardkrav: Rollerne “Editor”, “Mediator”, og “External system” skal i fremtiden vælge passwords, der er mindst 8 tegn...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-33-0/",
         "teaser": null
