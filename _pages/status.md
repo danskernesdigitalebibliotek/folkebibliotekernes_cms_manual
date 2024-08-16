@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 16/8
+### Ingen release i uge 34
+Grundet temadage hos både DDF og udviklere kommer der ingen release i uge 34.
 ## 15/8
 ### Alle biblioteker bortset fra webmasterbiblioteker er opdateret til 2024.33.0
 Nogle biblioteker oplevede nedetid på dele af deres site under opdateringen.
