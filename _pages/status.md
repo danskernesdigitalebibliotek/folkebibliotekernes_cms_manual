@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 15/8
+### Alle biblioteker bortset fra webmasterbiblioteker er opdateret til 2024.33.0
+Nogle biblioteker oplevede nedetid på dele af deres site under opdateringen.
 ## 14/8 kl. 15
 ### Fejlen med filsystemet er desværre ikke løst helt for alle biblioteker
 Meld ind i servicedesk: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-763 når I oplever det.
