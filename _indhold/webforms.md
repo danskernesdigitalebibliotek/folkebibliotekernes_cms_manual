@@ -102,7 +102,7 @@ Hvis I ønsker det, kan I også tilrette **Emne og brødtekst** på den email, d
 Det gøres via **Indstillinger** og så **Formular**. 
 I **Form Status** vælges **Planlagt** hvis man vil forudindstille perioden hvor formularen skal være aktiv.
 Vil du bare lukke en aktiv Webformular vælges **Lukket** i **Form Staus** og en **Lukket formularbesked** angives.
-{% include figure class="fourty" image_path="https://github.com/user-attachments/assets/36cc062b-60b2-438a-94be-e4a7e104cd14" alt="Webformular lukket besked" caption="Webformular lukket besked" %}
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/36cc062b-60b2-438a-94be-e4a7e104cd14" alt="Webformular lukket besked" caption="Webformular lukket besked" %}
 
 
 
