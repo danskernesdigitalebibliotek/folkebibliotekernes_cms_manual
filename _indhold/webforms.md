@@ -75,9 +75,9 @@ Der skal oprettes to forskellige mail-skabeloner pr. formular.
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/b1f529b4-ee8f-4d39-a9f2-a7b3ccab9956" alt="Formularer skal have en kvitteringsskabelon og en besvarelsesskabelon" caption="Formularer skal have en kvitteringsskabelon og en besvarelsesskabelon" %}
 
 #### Kvitteringsemail
-Man kan kun sende en kvitteringsemail til borgeren, hvis man har sørget for at oprette et påkrævet email-felt på formularen. Det gøres med felttypen **Email**.
-
 Tilføj en ny mailskabelon via **Indstillinger** og så **Emails/handlers**. Tryk så på knappen **+ Tilføj Email** øverst til højre.
+
+Man kan kun sende en kvitteringsemail til borgeren, hvis man har sørget for at oprette et påkrævet email-felt på formularen. Det gøres med felttypen **Email**.
 
 I **Send til** feltet vælg email-feltet fra formularen.
 {% include figure class="fifty" image_path="https://github.com/user-attachments/assets/35313895-1e2c-4def-8cfd-faa439b7bccc" alt="Vælg formularfeltet med borgerens email i 'Send til'" caption="Vælg formularfeltet med borgerens email i 'Send til'" %}
