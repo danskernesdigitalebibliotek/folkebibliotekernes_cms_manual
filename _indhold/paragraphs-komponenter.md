@@ -16,29 +16,29 @@ Du kan få inspiration til hvordan du kan sammensætte komponenterne i guiden [F
 ## Formidlingskomponenter
 Her er de visuelle navigationskomponenter, som kan henvise og fremvise til andet indhold på siden fx content slider.
 
-### Filtered event list
-Her kan du oprette en liste af arrangement, som du kan filtrere på bibliotek, kategorier, tags etc.
+### Arrangementliste - automatisk
+Her kan du oprette en liste af arrangementer, som du kan filtrere på bibliotek, kategorier, tags etc.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/73045ad4-8ccb-465c-b0f4-587acca53acb" alt="Eksempel på en event list" caption="Eksempel på en event list" %}
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/73045ad4-8ccb-465c-b0f4-587acca53acb" alt="Eksempel på Arrangementliste - automatisk" caption="Eksempel på Arrangementliste - automatisk" %}
 
-### Manual event list
-Her kan du oprette en liste af arrangement, hvor du udvælge specifikke arrangementer.
+### Arrangementliste
+Her kan du oprette en liste af arrangementer, hvor du udpeger specifikke arrangementer.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/73045ad4-8ccb-465c-b0f4-587acca53acb" alt="Eksempel på en event list" caption="Eksempel på en event list" %}
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/73045ad4-8ccb-465c-b0f4-587acca53acb" alt="Eksempel på Arrangementliste med manuelt udpegede arrangementer" caption="Eksempel på Arrangementliste med manuelt udpegede arrangementer" %}
 
-### Card grid – automatic
-Den automatiske variant af Card grid-komponenten kan automatisk trække spots for indhold ind på din begivenhed, side, artikel etc.
+### Nyhedskomponent – automatisk
+Den automatiske variant af Nyhedskomponenten kan automatisk trække spots for indhold ind på din begivenhed, side, artikel etc.
 
-Den eneste indholdstype, som Card grid-komponenten trækker ind, er artikler. Der kan sorteres på tags, kategori og tilknyttet bibliotek.
+Den eneste indholdstype, som Nyhedskomponenten trækker ind, er artikler. Der kan sorteres på tags, kategori og tilknyttet bibliotek.
 
-Card grid - automatic trækker seks spots ind.
+Nyhedskomponent - automatisk trækker seks spots ind.
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på et card grid" caption="Eksempel på et card grid" %}
 
-### Card grid – manual
-Den manuelle variant af Card grid-komponenten giver dig mulighed for individuelt at udvælge specifikke artikler, som vises som spots på din begivenhed, side, artikel etc.
+### Nyhedskomponent - manuel
+Den manuelle variant af Nyhedskomponenten giver dig mulighed for individuelt at udvælge specifikke artikler, som vises som spots på din begivenhed, side, artikel etc.
 
-Card grid - manual kan trække op til seks artikler ind, men du kan også vælge at tilknytte færre.
+Nyhedskomponent - manuel kan trække op til seks artikler ind, men du kan også vælge at tilknytte færre.
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på et card grid" caption="Eksempel på et card grid" %}
 
