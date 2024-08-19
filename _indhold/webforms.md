@@ -2,8 +2,6 @@
 title: "Webformularer"
 category: "Indholdstyper"
 weight: 1
-emneord:
-- "X Mangler tekst"
 ---
 
 ## Webformular oversigten
@@ -83,7 +81,7 @@ I **Send til** feltet vælg email-feltet fra formularen.
 {% include figure class="fifty" image_path="https://github.com/user-attachments/assets/35313895-1e2c-4def-8cfd-faa439b7bccc" alt="Vælg formularfeltet med borgerens email i 'Send til'" caption="Vælg formularfeltet med borgerens email i 'Send til'" %}
 
 Tilpas overskrift på emailen ved i **Emne** at vælge **Custom subject**.
-Tilpas brødteksten ved i **Brødtekst** vælg **Custom body** og tilpasse teksten rundt om formulartokens. Formulartokens er placeholders for værdier indsendt via formularen. Man kan udfolde en komplet oversigt over alle tilgængelige formulartokens via et linket **Gennemse tilgængelige tokens**.
+Tilpas brødteksten ved i **Brødtekst** at vælge **Custom body** og tilpasse teksten rundt om formulartokens. Formulartokens er placeholders for værdier indsendt via formularen. Man kan udfolde en komplet oversigt over alle tilgængelige formulartokens via et linket **Gennemse tilgængelige tokens**.
 
 Herunder er kvitteringsskabelonen for kontaktformularen. Den kan bruges som inspiration.
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/dc184f71-b8d1-409c-b223-6dc9659a5d7d" alt="Tilret emne og brødtekst på kvitteringsmail" caption="Tilret emne og brødtekst på kvitteringsmail" %}
