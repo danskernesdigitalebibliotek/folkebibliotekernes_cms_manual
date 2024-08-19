@@ -1,4 +1,4 @@
----
+ ---
 title: "Paragraph komponenterne"  
 category: "Generelt"
 ---
@@ -27,9 +27,9 @@ Her kan du oprette en liste af arrangementer, hvor du udpeger specifikke arrange
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/73045ad4-8ccb-465c-b0f4-587acca53acb" alt="Eksempel på Arrangementliste med manuelt udpegede arrangementer" caption="Eksempel på Arrangementliste med manuelt udpegede arrangementer" %}
 
 ### Nyhedskomponent – automatisk
-Den automatiske variant af Nyhedskomponenten kan automatisk trække spots for indhold ind på din begivenhed, side, artikel etc.
+Nyhedskomponenten kan automatisk trække spots for indhold ind på din begivenhed, side, artikel etc.
 
-Den eneste indholdstype, som Nyhedskomponenten trækker ind, er artikler. Der kan sorteres på tags, kategori og tilknyttet bibliotek.
+Den er lavet til at trække artikler ind, men kan også konfigureres til at hente arrangementer og sider. Der kan filtreres på tags, kategori og tilknyttet bibliotek.
 
 Nyhedskomponent - automatisk trækker seks spots ind.
 
