@@ -4,6 +4,12 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 19/8
+### Hvorfor mangler vores billeder/videoer?
+Som de fleste af jer har bemærket, har billedvisningen på hjemmesiden til tider været ustabil og ofte helt manglet her på det sidste. Det har vist sig at være en periodisk fejl, som er opstået ved en særlig kombination af mange brugere på én gang, hvor filsystemet bliver overbelastet. 
+Fejlen er nu lokaliseret og analyseret, og en løsning, så fejlen ikke opstår igen, er under udarbejdelse. Vi forventer, at denne løsning efter udvikling og test vil være klar til udrulning i løbet af max 14 dage. 
+Indtil da har vi iværksat en mere kortsigtet håndtering af problemet, der består i, at vi 3 gange dagligt (morgen, middag og før fyraften) på alle hverdage vil køre et script, som retter fejlen på de sites, der er ramt af problemet. Dvs. I behøver ikke melde den fejl ind via Serviceplatformen med mindre, den viser sig at være permanent.
+Når den langsigtede løsning er klar til implementering, vil I få besked om, at der er et tidsrum, hvor I ikke vil kunne arbejde på sitet, mens udrulningen foregår. Det kommer sandsynligvis til at foregå om aftenen og således være til gene for så få som muligt. Vi giver jer selvfølgelig besked i så god tid som muligt.
 ## 16/8
 ### Ingen release i uge 34
 Grundet temadage hos både DDF og udviklere kommer der ingen release i uge 34.
