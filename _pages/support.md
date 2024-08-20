@@ -26,4 +26,4 @@ Det betyder at:
 Vi ved godt, at mange af jer havde glædet jer til at kunne få lov til at indsende ønskerne, men vi er desværre ikke klar med en god proces til håndtering af dem.  
 Hvis I selv vil udvikle noget uden om foreningen måske i samarbejde med andre biblioteker, så er I velkomne til at skrive til os på [cms-info@kk.dk](mailto:cms-info@kk.dk) så vi kan formidle kontakt til vores leverandør. Det er dog vigtigt for os at påpege, at al udvikling uden for foreningen er på eget ansvar og finansiering.
 
-[Læs mere om brugsbetingelser for webmasterløsningen](https://detdigitalefolkebibliotek.dk/sites/default/files/brugsbetingelser_webmasterplanen.pdf).
+[Læs mere om brugsbetingelser for webmasterløsningen](https://detdigitalefolkebibliotek.dk/sites/default/files/brugsbetingelser_webmasterplanen.pdf){:target="_blank"}.
