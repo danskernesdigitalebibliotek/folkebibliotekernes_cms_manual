@@ -515,6 +515,12 @@ var store = [{
         "url": "/main/indhold/logo-pakker/",
         "teaser": null
       },{
+        "title": "Paragraph komponenterne",
+        "excerpt":"De komponenter, som du opbygger dit indhold i artikler, begivenheder og sider af, kaldes Paragraphs. Klik på + Add for at tilføje de paragraphs, som du ønsker, at din side skal bestå af. Klik på + Add Paragraphs kan tilføjes både over og under allerede indsatte paragraphs. Du kan få...","categories": ["Generelt"],
+        "tags": [],
+        "url": "/main/indhold/paragraphs-komponenter/",
+        "teaser": null
+      },{
         "title": "Pausefunktion",
         "excerpt":"Pausefunktion er en informationside om at sætte sine reserveringer på pause. Det er en standardside eller “fast side”. Fra brugernes reserveringsoversigt kan reserveringer sættes på pause. Og herfra er der link til siden Pausefunktion. Fra reserveringsoversigten linkes til den faste side Pausefunktion Tilret teksten på siden Pausefunktion Find siden Pausefunktion...","categories": ["Faste sider"],
         "tags": [],

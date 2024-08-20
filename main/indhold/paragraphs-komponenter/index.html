@@ -1,0 +1,789 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.26.2 by Michael Rose
+  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Paragraph komponenterne - Folkebibliotekernes CMS</title>
+<meta name="description" content="De komponenter, som du opbygger dit indhold i artikler, begivenheder og sider af, kaldes Paragraphs.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Folkebibliotekernes CMS">
+<meta property="og:title" content="Paragraph komponenterne">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/indhold/paragraphs-komponenter/">
+
+
+  <meta property="og:description" content="De komponenter, som du opbygger dit indhold i artikler, begivenheder og sider af, kaldes Paragraphs.">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2024-08-20T07:46:28+00:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/indhold/paragraphs-komponenter/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/main/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/main/assets/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/main/assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/main/assets/images/favicon-16x16.png">
+<link rel="manifest" href="/main/assets/images/site.webmanifest">
+<link rel="mask-icon" color="#5bbad5" href="/main/assets/images/safari-pinned-tab.svg">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+  </head>
+
+  <body class="layout--single wide" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/main/"><img src="/main/assets/images/layout/ddf-logo-small.png" alt="Folkebibliotekernes CMS"></a>
+        
+        <a class="site-title" href="/main/">
+          Folkebibliotekernes CMS
+          <span class="site-subtitle">via foreningen Det Digitale Folkebibliotek</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/main/overblik/nyt-i-manualen"
+                
+                
+              >Nyt i manualen</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/main/overblik/hurtigguide-til-manualen"
+                
+                
+              >Hurtigguide til manualen</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/main/overblik/emneord"
+                
+                
+              >Emner</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+  
+    
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/main/" itemprop="item"><span itemprop="name">Home</span></a>
+
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep">/</span>
+      
+      
+        
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/main/indhold" itemprop="item"><span itemprop="name">Indhold</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        <span class="sep">/</span>
+      
+    
+      
+      
+        <li class="current">Paragraph komponenterne</li>
+      
+    
+  </ol>
+</nav>
+
+  
+
+
+<div id="main" role="main">
+  
+  
+  <div class="sidebar sticky">
+  
+
+  
+
+  
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+   
+
+  <nav class="nav__list">
+    <input id="ac-toc" name="accordion-toc" type="checkbox" />
+    <label for="ac-toc">Toggle Menu</label>
+    <ul class="nav__items">
+
+      
+        
+        <li>
+          <span class="nav__sub-title">Generelt</span>        
+          <ul>
+            
+            
+            
+            
+
+            
+              
+                <li><a href="/main/indhold/billedbeskaering/">Billedbeskæring</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/cql-soegestrenge/">CQL Søgestrenge</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/cql-soegestrenge-eksempler/">CQL Søgestrenge Eksempler</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/logo-pakker/">Logoer til de digitale tilbud</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/paragraphs-komponenter/" class="active">Paragraph komponenterne</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/place2book/">Place2book integration</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/skabeloner/">Skabeloner</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/urler/">Url-omdirigeringer og omdøbninger</a></li>
+              
+            
+          </ul>
+        </li>
+        
+      
+        
+        <li>
+          <span class="nav__sub-title">Indholdstyper</span>        
+          <ul>
+            
+            
+            
+            
+
+            
+              
+                <li><a href="/main/indhold/bibliotek-og-%C3%A5bningstider/">Bibliotek og åbningstider</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/arrangement/">Arrangement</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/artikel/">Artikel</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/kampagner/">Kampagne</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/side/">Side</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/webforms/">Webformularer</a></li>
+              
+            
+          </ul>
+        </li>
+        
+      
+        
+        <li>
+          <span class="nav__sub-title">Navigation</span>        
+          <ul>
+            
+            
+            
+            
+
+            
+              
+                <li><a href="/main/indhold/broedkrummesti/">Brødkrummesti</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/footermenu/">Footermenu og servicemenu</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/hovedmenu/">Hovedmenu</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/tags-og-kategorier/">Tags og kategorier</a></li>
+              
+            
+          </ul>
+        </li>
+        
+      
+        
+        <li>
+          <span class="nav__sub-title">Faste sider</span>        
+          <ul>
+            
+            
+            
+            
+
+            
+              
+                <li><a href="/main/indhold/faste-sider/">Faste sider - overblik</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/brugeroprettelsesside/">Opret bruger</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/pausefunktion/">Pausefunktion</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/privatlivspolitik/">Privatlivspolitik</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/reglement/">Reglement</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/takster/">Takster</a></li>
+              
+            
+              
+                <li><a href="/main/indhold/velkommen/">Velkommen</a></li>
+              
+            
+          </ul>
+        </li>
+        
+           
+    </ul>
+  </nav>
+  
+
+  </div>
+
+
+  
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Paragraph komponenterne">
+    <meta itemprop="description" content="De komponenter, som du opbygger dit indhold i artikler, begivenheder og sider af, kaldes Paragraphs.">
+    <meta itemprop="datePublished" content="2024-08-20T07:46:28+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://www.folkebibliotekernescms.dk/main/indhold/paragraphs-komponenter/" class="u-url" itemprop="url">Paragraph komponenterne
+</a>
+          </h1>
+          
+
+
+          <p class="emneord">
+  
+  
+</p>
+
+
+
+
+
+
+
+
+        </header>
+      
+      
+      <section class="page__content e-content" itemprop="text">
+        
+        <p>De komponenter, som du opbygger dit indhold i artikler, begivenheder og sider af, kaldes <strong>Paragraphs</strong>.</p>
+
+<p>Klik på <strong>+ Add</strong> for at tilføje de paragraphs, som du ønsker, at din side skal bestå af.</p>
+
+<figure class="eightty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/e4d6ebdd-2d4a-44f4-9992-7d70ef05a726" alt="Klik på + Add" /><figcaption>
+      Klik på + Add
+
+    </figcaption></figure>
+
+<p>Paragraphs kan tilføjes både over og under allerede indsatte paragraphs.</p>
+
+<p>Du kan få inspiration til hvordan du kan sammensætte komponenterne i guiden <a href="/main/formidlingsinspiration/forsiden/">Formidlingsinspiration</a>.</p>
+
+<h2 id="formidlingskomponenter">Formidlingskomponenter</h2>
+<p>Her er de visuelle navigationskomponenter, som kan henvise og fremvise til andet indhold på siden fx content slider.</p>
+
+<h3 id="arrangementliste---automatisk">Arrangementliste - automatisk</h3>
+<p>Her kan du oprette en liste af arrangementer, som du kan filtrere på bibliotek, kategorier, tags etc.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/73045ad4-8ccb-465c-b0f4-587acca53acb" alt="Eksempel på Arrangementliste - automatisk" /><figcaption>
+      Eksempel på Arrangementliste - automatisk
+
+    </figcaption></figure>
+
+<h3 id="arrangementliste">Arrangementliste</h3>
+<p>Her kan du oprette en liste af arrangementer, hvor du udpeger specifikke arrangementer.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/73045ad4-8ccb-465c-b0f4-587acca53acb" alt="Eksempel på Arrangementliste med manuelt udpegede arrangementer" /><figcaption>
+      Eksempel på Arrangementliste med manuelt udpegede arrangementer
+
+    </figcaption></figure>
+
+<h3 id="nyhedskomponent--automatisk">Nyhedskomponent – automatisk</h3>
+<p>Nyhedskomponenten kan automatisk trække spots for indhold ind på din begivenhed, side, artikel etc.</p>
+
+<p>Den er lavet til at trække artikler ind, men kan også konfigureres til at hente arrangementer og sider. Der kan filtreres på tags, kategori og tilknyttet bibliotek.</p>
+
+<p>Nyhedskomponent - automatisk trækker seks spots ind.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på et card grid" /><figcaption>
+      Eksempel på et card grid
+
+    </figcaption></figure>
+
+<h3 id="nyhedskomponent---manuel">Nyhedskomponent - manuel</h3>
+<p>Den manuelle variant af Nyhedskomponenten giver dig mulighed for individuelt at udvælge specifikke artikler, som vises som spots på din begivenhed, side, artikel etc.</p>
+
+<p>Nyhedskomponent - manuel kan trække op til seks artikler ind, men du kan også vælge at tilknytte færre.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på et card grid" /><figcaption>
+      Eksempel på et card grid
+
+    </figcaption></figure>
+
+<h3 id="slider">Slider</h3>
+<p>Giver mulighed for redaktionelt at udvælge et vilkårligt antal af arrangementer og artikler i en redaktørudvalgt rækkefølge.
+Afhængigt af om du har valgt billede for indhold vises i slidere et billede eller en alternativ teasertekst på baggrund af bibliotekets signaturfarve.</p>
+
+<h3 id="indholdsslider---automatisk">Indholdsslider - automatisk</h3>
+<p>Giver mulighed for automatisk at få vist et vilkårligt antal af arrangementer, sider og artikler filtreret efter bibliotek, kategori og/eller tags.
+Afhængigt af om du har valgt billede for indhold vises i slidere et billede eller en alternativ teasertekst på baggrund af bibliotekets signaturfarve.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/74bc26c6-990d-4a24-89be-e79d4b4c3485" alt="Eksempel på en slider" /><figcaption>
+      Eksempel på en slider
+
+    </figcaption></figure>
+
+<h3 id="banner">Banner</h3>
+<p>Bannerkomponenten er et visuelt indstik, som bruges til at fremhæve et bestemt stykke indhold eller autogenererede tagsider/kategori-sider. Komponenten kan bruges både med og uden baggrundsbillede. Banneren oprettes med et internt eller eksternt link samt en overskrift og en beskrivelse.</p>
+
+<figure class="sixty"><img src="https://github.com/user-attachments/assets/44e51b7e-1b17-4ca4-89e1-059dde78bcd1" alt="Eksempel på et banner" /><figcaption>
+      Eksempel på et banner
+
+    </figcaption></figure>
+
+<h3 id="hero">Hero</h3>
+<p>Linkende indgangsbillede og tekst i toppen af side.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/4c3894d2-1d63-44f2-8e4e-409e785edace" alt="Eksempel på en hero" /><figcaption>
+      Eksempel på en hero
+
+    </figcaption></figure>
+
+<h3 id="navigation-spots--manual">Navigation spots – manual</h3>
+<p>Mulighed for at fremhæve redaktørudvalgt indhold.</p>
+
+<p>Trækker teaserfotos med.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/9fd232f1-cf98-4f0f-81f0-11f9c8e014cd" alt="Eksempel på et navigation spot" /><figcaption>
+      Eksempel på et navigation spot
+
+    </figcaption></figure>
+
+<h2 id="indholdskomponenter">Indholdskomponenter</h2>
+<p>Her er de komponenter, som man kan bruge til at indsætte indhold såsom tekst, billeder og video.</p>
+
+<h3 id="accordion">Accordion</h3>
+<p>En type indhold med en liste af overskrifter stablet oven på hinanden. Når der klikkes på en overskrift, vil den enten åbne eller lukke en tilknyttet indholdsrude.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/2e85ebe3-3bad-4721-9abd-1b7f6e3547f3" alt="Eksempel på en accordion" /><figcaption>
+      Eksempel på en accordion
+
+    </figcaption></figure>
+
+<h3 id="files">Files</h3>
+<p>Tilknytning af filer til artiklen, fx pdf, mp3, mp4, mov etc.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/46cb3949-21aa-4a91-9bca-7f4a0a04113a" alt="Eksempel på files" /><figcaption>
+      Eksempel på files
+
+    </figcaption></figure>
+
+<h3 id="video">Video</h3>
+<p>Video fra YouTube eller Vimeo kan trækkes ind via url.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/9a8a1b8c-be99-4727-a8fd-b5c7750064ea" alt="Eksempel på video" /><figcaption>
+      Eksempel på video
+
+    </figcaption></figure>
+
+<h3 id="medias">Media(s)</h3>
+<p>Tilknytning af billeder. Tilladte filtyper: png gif jpg jpeg.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/9f25c9b4-459a-436a-85bf-e0cb72ee37d6" alt="Eksempel på en media" /><figcaption>
+      Eksempel på en media
+
+    </figcaption></figure>
+
+<h3 id="text-body">Text body</h3>
+<p>Artiklens brødtekst.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/93770c7d-a38a-4dbd-aec1-9daa14e23d0b" alt="Eksempel på en text body" /><figcaption>
+      Eksempel på en text body
+
+    </figcaption></figure>
+
+<h2 id="navigationskomponenter">Navigationskomponenter</h2>
+<p>Her er de tekst- og linksbaseret navigationskomponenter, som kan henvise til andet indhold på siden fx navigation grid.</p>
+
+<h3 id="breadcrumb-children">Breadcrumb children</h3>
+<p>Her kan du indsætte en automatisk oprettet liste i grid format med sider under en bestemt sideforælder. Læs mere om brødkrummer i guiden <a href="/main/indhold/broedkrummesti/">Ooret indhold: Brødkrummesti</a>.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/0133f7d2-cc7f-47b8-b21b-8db622bdd78b" alt="Eksempel på en breadcrumb children" /><figcaption>
+      Eksempel på en breadcrumb children
+
+    </figcaption></figure>
+
+<h3 id="navigation-grid--manual">Navigation grid – manual</h3>
+<p>Mulighed for at tilføje spots for redaktørudvalgt indhold.</p>
+
+<p>Lægger sig som et grid (felter).</p>
+
+<p>Trækker ikke teaserfotos ud, kun teasertekst (hvis tilvalgt)</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/25220686-3ab4-4f66-aecd-f713140d1b3e" alt="Eksempel på en navigation grid" /><figcaption>
+      Eksempel på en navigation grid
+
+    </figcaption></figure>
+
+<h3 id="links">Links</h3>
+<p>Tilknytning af links til artiklen, fx interne/eksterne links og links til søgeresultater.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/31d057c2-0fc4-4496-871c-aa59405d48dd" alt="Eksempel på links" /><figcaption>
+      Eksempel på links
+
+    </figcaption></figure>
+
+<h2 id="materialekomponenter">Materialekomponenter</h2>
+<p>Her er de komponenter, som man kan bruge til at fremhæve bibliotekets materialer.</p>
+
+<h3 id="recommendation">Recommendation</h3>
+<p>Anvendes til anbefaling af bøger og andre materialer.</p>
+
+<p>Materialet trækkes ind via Work ID. <strong>Eksempel:</strong> work-of:870970-basis:136336282</p>
+
+<p>I øjeblikket hentes Work ID ved at udføre en søgning efter et materiale manuelt i søgefeltet på hjemmesiden og kopiere værdien fra søgeresultatet i URL’en.</p>
+
+<p>Det er muligt at ændre værkets titel og beskrivelse manuelt.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/6996deb1-de64-4d29-99b3-b2aa4aa50544" alt="Eksempel på en recommendation" /><figcaption>
+      Eksempel på en recommendation
+
+    </figcaption></figure>
+
+<h3 id="material-grid-automatic">Material grid automatic</h3>
+
+<p>Med Material grid-komponenten kan du udstille bøger og andre materialer.</p>
+
+<p>Automatic-varianten trækker materialer ind via en CQL-søgestreng.</p>
+
+<p>CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion og kopiere søgestrengen derfra.</p>
+
+<p><a href="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/cql-soegestrenge/">Sådan opretter du CQL-søgestrenge</a></p>
+
+<p>Du kan indstille komponenten til at vise et bestemt antal materialer. Antallet skal være deleligt med fire. Antallet bestemmer du i feltet <strong>Amount of materials</strong>.</p>
+
+<p>Komponenten viser minimum 4 materialer og kan maksimalt sættes til 32 materialer.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/f5d5382b-8ff7-4b84-a795-5f80ffdb1458" alt="Eksempel på en material grid" /><figcaption>
+      Eksempel på en material grid
+
+    </figcaption></figure>
+
+<h3 id="material-grid-manual">Material grid manual</h3>
+
+<p>I Material grid manual-varianten vælger du selv manuelt de materialer, du vil udstille.</p>
+
+<p>Materialer trækkes ind via Work ID. <strong>Eksempel:</strong> work-of:870970-basis:135822388</p>
+
+<p>I øjeblikket hentes Work ID ved at udføre en søgning efter et materiale manuelt i søgefeltet på hjemmesiden og kopiere værdien fra søgeresultatet i URL’en.</p>
+
+<p>Antallet af materialer skal være deleligt med fire. Du kan altså indsætte 4 materialer eller 8 eller 12 osv.</p>
+
+<p>Indsætter du fx 7 materialer, vil der kun blive vist 4. Du må så tilføje et mere, så der er 8 i alt for at få vist dem alle.</p>
+
+<p>Du kan dog godt indsætte blot et, to eller tre materialer.</p>
+
+<p>Maksimalt kan der indsættes 32 materialer.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/f5d5382b-8ff7-4b84-a795-5f80ffdb1458" alt="Eksempel på en material grid" /><figcaption>
+      Eksempel på en material grid
+
+    </figcaption></figure>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-08-20T07:46:28+00:00">August 20, 2024</time></p>
+
+      </footer>
+
+      
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+      
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><div class="search-searchbar"></div>
+  <div class="search-hits"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+  </ul>
+</div>
+<div class="page__footer-copyright">
+  Folkebibliotekernes CMS udvikles af <a href="https://detdigitalefolkebibliotek.dk/">Det Digitale Folkebibliotek</a><br/>
+</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/main/assets/js/main.min.js"></script>
+
+
+<script>
+// Including InstantSearch.js library and styling
+const loadSearch = function() {
+  const loadCSS = function(src) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = src;
+    link.media = 'all';
+    document.head.appendChild(link);
+  };
+
+  var script = document.createElement('script');
+  script.setAttribute("type", "text/javascript");
+  script.setAttribute("src", "https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.js");
+  script.addEventListener("load", function() {
+    // Instantiating InstantSearch.js with Algolia credentials
+    const search = instantsearch({
+      appId: 'TVP7W0OS24',
+      apiKey: 'e8c5920789ad3f6d57903b6edc107af5',
+      indexName: 'prod_folkebibliotekernes_cms_manual',
+      searchParameters: {
+        restrictSearchableAttributes: ['title', 'content']
+      }
+    });
+
+    const hitTemplate = function(hit) {
+      const url = hit.url;
+      const hightlight = hit._highlightResult;
+      const title = hightlight.title && hightlight.title.value  || "";
+      const content = hightlight.html && hightlight.html.value  || "";
+
+      return `
+        <div class="list__item">
+          <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+            <h2 class="archive__item-title" itemprop="headline"><a href="/main${url}">${title}</a></h2>
+            <div class="archive__item-excerpt" itemprop="description">${content}</div>
+          </article>
+        </div>
+      `;
+    }
+
+    // Adding searchbar and results widgets
+    search.addWidget(
+      instantsearch.widgets.searchBox({
+        container: '.search-searchbar',
+        poweredBy: true,
+        placeholder: 'Enter your search term...'
+      })
+    );
+    search.addWidget(
+      instantsearch.widgets.hits({
+        container: '.search-hits',
+        templates: {
+          item: hitTemplate,
+          empty: 'No results',
+        }
+      })
+    );
+
+    if (!search.started) {
+      search.start();
+    }
+  });
+  document.body.appendChild(script);
+
+  loadCSS("https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.css");
+  loadCSS("https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch-theme-algolia.min.css");
+};
+
+// Starting the search only when toggle is clicked
+$(document).ready(function() {
+  var scriptLoaded = false;
+
+  $(".search__toggle").on("click", function() {
+    if (!scriptLoaded) {
+      loadSearch();
+      scriptLoaded = true;
+    }
+  });
+});
+</script>
+
+
+
+
+
+
+
+  </body>
+</html>
