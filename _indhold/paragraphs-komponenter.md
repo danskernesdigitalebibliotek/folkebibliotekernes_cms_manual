@@ -14,7 +14,7 @@ Paragraphs kan tilføjes både over og under allerede indsatte paragraphs.
 Du kan få inspiration til hvordan du kan sammensætte komponenterne i guiden [Formidlingsinspiration]({{ site.baseurl }}{% link _formidlingsinspiration/forsiden.md %}).
 
 ## Formidlingskomponenter
-Her er de visuelle navigationskomponenter, som kan henvise og fremvise til andet indhold på siden fx content slider.
+Her er de visuelle navigationskomponenter, som kan henvise til og fremvise indhold på sitet.
 
 ### Arrangementliste - automatisk
 Her kan du oprette en liste af arrangementer, som du kan filtrere på bibliotek, kategorier, tags etc.
