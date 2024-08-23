@@ -4,7 +4,10 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 23/8 kl. 13.20
+## 23/8 kl. 13.45
+### Alle biblioteker er oppe igen
+Vi beklager nedetiden.
+## 23/8 kl. 13.15
 ### Ustabil drift på siderne
 Flere bibliotekers hjemmesider har været nede pga. en serverfejl. Vi har stadig problemer med Odder og Hvidovre bibliotek.
 ## 19/8
