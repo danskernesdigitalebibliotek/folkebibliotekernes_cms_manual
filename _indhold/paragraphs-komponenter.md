@@ -54,12 +54,15 @@ For at udpege arrangementer skal Type sættes til Arrangementserie enhed i dropd
 Den automatiske udgave af slider-komponenten. Giver mulighed for automatisk at få vist et vilkårligt antal af arrangementer, sider og artikler filtreret efter bibliotek, kategori og/eller tags.
 
 ### Banner
-Bannerkomponenten er et visuelt indstik, som bruges til at fremhæve et bestemt stykke indhold eller autogenererede tagsider/kategori-sider. Komponenten kan bruges både med og uden baggrundsbillede. Banneren oprettes med et internt eller eksternt link samt en overskrift og en beskrivelse. 
+Bannerkomponenten er et visuelt indstik, der fremhæver og linker til et bestemt stykke indhold, en tagside/kategoriside eller en ekstern webside. 
 
+Banneren oprettes med et internt eller eksternt link samt en overskrift og en beskrivelse. Komponenten kan bruges både med og uden baggrundsbillede, som uploades/udvælges i komponenten.
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/44e51b7e-1b17-4ca4-89e1-059dde78bcd1" alt="Eksempel på et banner" caption="Eksempel på et banner" %}
 
 ### Hero
-Linkende indgangsbillede og tekst beregnet på placering i toppen af en side. Særlig velegnet til at skabe blikfang på forsiden eller på andre indgangssider.
+Hero er en eksponeringskomponent, der fremhæver og linker til et bestemt stykke indhold, en tagside/kategoriside eller en ekstern webside. Den er beregnet på placering øverst, men kan også bruges midt på en side. Særlig velegnet til at skabe blikfang på forsiden eller på andre indgangssider.
+
+Hero oprettes med et internt eller eksternt link samt en overskrift og en beskrivelse. Komponenten kan bruges både med og uden baggrundsbillede, som uploades/udvælges i komponenten.
 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/6e518e2e-c309-4400-b260-6b15a3fc52a3" alt="Eksempel på en hero" caption="Eksempel på en hero" %}
 
