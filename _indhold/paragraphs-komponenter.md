@@ -66,8 +66,8 @@ Linkende indgangsbillede og tekst beregnet på placering i toppen af en side. S�
 ### Navigation spots – manual
 Fremhæv en eller to stykker redaktørudvalgt indhold. Trækker teaserfotos med. 
 
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/7c559394-037b-4ff8-b583-2fe46237330d" alt="Eksempel på et navigation spot" caption="Eksempel på et navigation spot med et indholdselement" %}
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/4e77df55-6dfa-4b59-88df-ba3717ce2858" alt="Eksempel på et navigation spot" caption="Eksempel på et navigation spot med to indholdselementer" %}
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/62e32d39-1efc-49e9-a4ee-02f68be7813d" alt="Eksempel på et navigation spot" caption="Eksempel på et navigation spot med et indholdselement" %}
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/882a76e6-240c-47ae-a45c-a6d3c5da5391" alt="Eksempel på et navigation spot" caption="Eksempel på et navigation spot med to indholdselementer" %}
 
 ## Indholdskomponenter
 Her er de komponenter, som man kan bruge til at indsætte indhold såsom tekst, billeder og video.
