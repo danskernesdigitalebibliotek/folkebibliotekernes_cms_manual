@@ -59,7 +59,7 @@ Bannerkomponenten er et visuelt indstik, som bruges til at fremhæve et bestemt 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/44e51b7e-1b17-4ca4-89e1-059dde78bcd1" alt="Eksempel på et banner" caption="Eksempel på et banner" %}
 
 ### Hero
-Linkende indgangsbillede og tekst beregnet på placering i toppen af side. Særlig velegnet til at skabe blikfang på forsiden eller andre vigtige indgangssider.
+Linkende indgangsbillede og tekst beregnet på placering i toppen af side. Særlig velegnet til at skabe blikfang på forsiden eller andre indgangssider.
 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/6e518e2e-c309-4400-b260-6b15a3fc52a3" alt="Eksempel på en hero" caption="Eksempel på en hero" %}
 
