@@ -19,12 +19,10 @@ Her er de visuelle navigationskomponenter, som kan henvise til og fremvise indho
 ### Arrangementliste - automatisk
 Her kan du oprette en liste af arrangementer, som du kan filtrere på bibliotek, kategorier, tags etc.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/73045ad4-8ccb-465c-b0f4-587acca53acb" alt="Eksempel på Arrangementliste - automatisk" caption="Eksempel på Arrangementliste - automatisk" %}
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/be80cd05-acf3-422f-b278-d196d3eea989" alt="Eksempel på Arrangementliste - automatisk" caption="Eksempel på Arrangementliste - automatisk" %}
 
 ### Arrangementliste
 Her kan du oprette en liste af arrangementer, hvor du udpeger specifikke arrangementer.
-
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/73045ad4-8ccb-465c-b0f4-587acca53acb" alt="Eksempel på Arrangementliste med manuelt udpegede arrangementer" caption="Eksempel på Arrangementliste med manuelt udpegede arrangementer" %}
 
 ### Nyhedskomponent – automatisk
 Nyhedskomponenten kan automatisk trække spots ind for indhold ind på dit site. Den kan indsættes på alle typer indhold som sider, arrangementer og artikler.
