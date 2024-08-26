@@ -37,11 +37,11 @@ Det er teaserbilleder, der vises i nyhedskomponenten. Indhold uden teaserbillede
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på Nyhedskomponent -  automatisk" caption="Eksempel på Nyhedskomponent -  automatisk" %}
 
 ### Nyhedskomponent - manuel
-Den manuelle variant af Nyhedskomponenten giver dig mulighed for individuelt at udvælge specifikke artikler, som vises som spots på din begivenhed, side, artikel etc.
+I den manuelle variant af Nyhedskomponenten udvælger du de specifikke artikler, der skal vises som spots på din begivenhed, side, artikel etc.
 
 Nyhedskomponent - manuel kan trække op til seks artikler ind, men du kan også vælge at tilknytte færre.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på et card grid" caption="Eksempel på et card grid" %}
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på Nyhedskomponent - manuel" caption="Eksempel på Nyhedskomponent - manuel" %}
 
 ### Slider
 Giver mulighed for redaktionelt at udvælge et vilkårligt antal af arrangementer og artikler i en redaktørudvalgt rækkefølge.
