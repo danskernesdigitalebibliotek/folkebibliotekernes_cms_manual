@@ -56,6 +56,8 @@ Den automatiske udgave af slider-komponenten. Giver mulighed for automatisk at f
 ### Navigation spots – manual
 Fremhæv en eller to stykker redaktørudvalgt indhold. Trækker teaserfotos med. 
 
+For at udpege arrangementer skal Type sættes til Arrangementserie enhed i dropdown. Vil man udpege artikler eller sider skal man bare vælge Indhold.
+
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/62e32d39-1efc-49e9-a4ee-02f68be7813d" alt="Eksempel på et navigation spot" caption="Eksempel på et navigation spot med et indholdselement" %}
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/882a76e6-240c-47ae-a45c-a6d3c5da5391" alt="Eksempel på et navigation spot" caption="Eksempel på et navigation spot med to indholdselementer" %}
 
