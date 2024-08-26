@@ -58,4 +58,4 @@ Der er pt. ikke planer om at fortsætte BPI i sin nuværende form. Men der komme
 Hvis der er noget særligt indhold fra BPI, som I er glade for, så gem endelig en kopi af tekst og billeder, så I har det til den nye hjemmeside. Det gamle indhold i BPI’en vil ikke være tilgængeligt efter 1. juli 2024.
 
 ### Fandt du ikke svaret på dit spørgsmål?
-Manualen og FAQ'en her er et forsøg på at få afdækket de mest typiske spørgsmål. har du ikke fået svar på dit spørgsmål, så skriv evt. til os cms-info@kk.dk
+Manualen og FAQ'en her er et forsøg på at få afdækket de mest typiske spørgsmål. har du ikke fået svar på dit spørgsmål, så skriv evt. til os cms-info@fddf.dk
