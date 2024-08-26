@@ -32,6 +32,7 @@ Nyhedskomponenten kan automatisk trække spots ind for indhold ind på dit site.
 Den er lavet til at trække artikler ind, men kan også konfigureres til at hente arrangementer og sider. Der kan filtreres på tags, kategori og tilknyttet bibliotek.
 
 Nyhedskomponent - automatisk trækker altid seks spots ind. Det kan ikke ændres. 
+
 Nyhedskomponenten viser teaserbilleder. For indhold uden tilknyttet teaserbillede vises en ensfarvet kasse i bibliotekets signaturfarve. Er feltet teasertekst udfyldt vises den i det ensfarvede område. Titlen vises altid nedenunder billede/ensfarvet område.
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på Nyhedskomponent -  automatisk" caption="Eksempel på Nyhedskomponent -  automatisk" %}
@@ -39,7 +40,9 @@ Nyhedskomponenten viser teaserbilleder. For indhold uden tilknyttet teaserbilled
 ### Nyhedskomponent - manuel
 I den manuelle variant af Nyhedskomponenten udvælger du de specifikke artikler, der skal vises som spots på din begivenhed, side, artikel etc.
 
-Nyhedskomponent - manuel kan trække op til seks artikler ind, men du kan også vælge at tilknytte færre. Nyhedskomponenten viser teaserbilleder. For indhold uden tilknyttet teaserbillede vises en ensfarvet kasse i bibliotekets signaturfarve. Er feltet teasertekst udfyldt vises den i det ensfarvede område. Titlen vises altid nedenunder billede/ensfarvet område.
+Nyhedskomponent - manuel kan trække op til seks artikler ind, men du kan også vælge at tilknytte færre. 
+
+Nyhedskomponenten viser teaserbilleder. For indhold uden tilknyttet teaserbillede vises en ensfarvet kasse i bibliotekets signaturfarve. Er feltet teasertekst udfyldt vises den i det ensfarvede område. Titlen vises altid nedenunder billede/ensfarvet område.
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på Nyhedskomponent - manuel" caption="Eksempel på Nyhedskomponent - manuel" %}
 
