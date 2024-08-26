@@ -32,14 +32,14 @@ Nyhedskomponenten kan automatisk trække spots ind for indhold ind på dit site.
 Den er lavet til at trække artikler ind, men kan også konfigureres til at hente arrangementer og sider. Der kan filtreres på tags, kategori og tilknyttet bibliotek.
 
 Nyhedskomponent - automatisk trækker altid seks spots ind. Det kan ikke ændres. 
-Det er teaserbilleder, der vises i nyhedskomponenten. Indhold uden teaserbillede kan sagtens vises alligevel. Så vises kun titlen på en ensfarvet baggrund.
+Det er teaserbilleder, der vises i nyhedskomponenten. Indhold uden teaserbillede kan sagtens bruges i Nyhedskomponenten alligevel. Så vises kun titel på en ensfarvet baggrund.
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på Nyhedskomponent -  automatisk" caption="Eksempel på Nyhedskomponent -  automatisk" %}
 
 ### Nyhedskomponent - manuel
 I den manuelle variant af Nyhedskomponenten udvælger du de specifikke artikler, der skal vises som spots på din begivenhed, side, artikel etc.
 
-Nyhedskomponent - manuel kan trække op til seks artikler ind, men du kan også vælge at tilknytte færre. Det er teaserbilleder, der vises i nyhedskomponenten. Indhold uden teaserbillede kan sagtens vises alligevel. Så vises kun titlen på en ensfarvet baggrund.
+Nyhedskomponent - manuel kan trække op til seks artikler ind, men du kan også vælge at tilknytte færre. Det er teaserbilleder, der vises i nyhedskomponenten. Indhold uden teaserbillede kan sagtens bruges i Nyhedskomponenten alligevel. Så vises kun titel på en ensfarvet baggrund.
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på Nyhedskomponent - manuel" caption="Eksempel på Nyhedskomponent - manuel" %}
 
