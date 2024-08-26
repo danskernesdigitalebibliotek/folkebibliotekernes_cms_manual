@@ -46,14 +46,15 @@ Nyhedskomponent - manuel kan trække op til seks artikler ind, men du kan også 
 ### Slider
 Giver mulighed for redaktionelt at udvælge et vilkårligt antal af arrangementer, sider og artikler i en redaktørudvalgt rækkefølge.
 Det er med vilje at slideren er placeret helt ude ved skærmens kant uden en margin. Det er en designbeslutning.
-Det er teaserbilleder, der vises i en slider Indhold uden teaserbillede kan sagtens vises alligevel. Så vises kun titlen på en ensfarvet baggrund.
+Det er teaserbilleder, der vises i en slider. Indhold uden teaserbillede kan sagtens vises alligevel. Så vises kun titlen på en ensfarvet baggrund.
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/88af248d-2061-4731-9a04-c4abf26c6644" alt="Eksempel på en slider" caption="Eksempel på en slider" %}
 
 ### Indholdsslider - automatisk
-Giver mulighed for automatisk at få vist et vilkårligt antal af arrangementer, sider og artikler filtreret efter bibliotek, kategori og/eller tags.
-Afhængigt af om du har valgt billede for indhold vises i slidere et billede eller en alternativ teasertekst på baggrund af bibliotekets signaturfarve.
+Den automatiske udgave af slider-komponenten. Giver mulighed for automatisk at få vist et vilkårligt antal af arrangementer, sider og artikler filtreret efter bibliotek, kategori og/eller tags.
 
-
+Det er med vilje at slideren er placeret helt ude ved skærmens kant uden en margin. Det er en designbeslutning.
+Det er teaserbilleder, der vises i en slider. Indhold uden teaserbillede kan sagtens vises alligevel. Så vises kun titlen på en ensfarvet baggrund.
+{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/88af248d-2061-4731-9a04-c4abf26c6644" alt="Eksempel på en slider" caption="Eksempel på en slider" %}
 
 ### Banner
 Bannerkomponenten er et visuelt indstik, som bruges til at fremhæve et bestemt stykke indhold eller autogenererede tagsider/kategori-sider. Komponenten kan bruges både med og uden baggrundsbillede. Banneren oprettes med et internt eller eksternt link samt en overskrift og en beskrivelse. 
