@@ -42,22 +42,18 @@ I den manuelle variant af Nyhedskomponenten udvælger du de specifikke artikler,
 
 Nyhedskomponent - manuel kan trække op til seks artikler ind, men du kan også vælge at tilknytte færre. 
 
-Nyhedskomponenten viser teaserbilleder. For indhold uden tilknyttet teaserbillede vises en ensfarvet kasse i bibliotekets signaturfarve. Er feltet teasertekst udfyldt vises den i det ensfarvede område. Titlen vises altid nedenunder billede/ensfarvet område.
-
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på Nyhedskomponent - manuel" caption="Eksempel på Nyhedskomponent - manuel" %}
 
 ### Slider
 Giver mulighed for redaktionelt at udvælge et vilkårligt antal af arrangementer, sider og artikler i en redaktørudvalgt rækkefølge.
+
 Det er med vilje at slideren er placeret helt ude ved skærmens kant uden en margin. Det er en designbeslutning.
-Det er teaserbilleder, der vises i en slider. Indhold uden teaserbillede kan sagtens vises alligevel. Så vises kun titlen på en ensfarvet baggrund.
+
+Slider viser teaserbilleder. For indhold uden tilknyttet teaserbillede vises en ensfarvet kasse i bibliotekets signaturfarve. Er feltet teasertekst udfyldt vises den i det ensfarvede område. Titlen vises altid nedenunder billede/ensfarvet område.
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/88af248d-2061-4731-9a04-c4abf26c6644" alt="Eksempel på en slider" caption="Eksempel på en slider" %}
 
 ### Indholdsslider - automatisk
 Den automatiske udgave af slider-komponenten. Giver mulighed for automatisk at få vist et vilkårligt antal af arrangementer, sider og artikler filtreret efter bibliotek, kategori og/eller tags.
-
-Det er med vilje at slideren er placeret helt ude ved skærmens kant uden en margin. Det er en designbeslutning.
-Det er teaserbilleder, der vises i en slider. Indhold uden teaserbillede kan sagtens vises alligevel. Så vises kun titlen på en ensfarvet baggrund.
-{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/88af248d-2061-4731-9a04-c4abf26c6644" alt="Eksempel på en slider" caption="Eksempel på en slider" %}
 
 ### Banner
 Bannerkomponenten er et visuelt indstik, som bruges til at fremhæve et bestemt stykke indhold eller autogenererede tagsider/kategori-sider. Komponenten kan bruges både med og uden baggrundsbillede. Banneren oprettes med et internt eller eksternt link samt en overskrift og en beskrivelse. 
