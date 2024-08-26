@@ -77,7 +77,7 @@ Vi udgiver iløbet af idag en release der retter de problemer der har været med
 ### Lav bemanding de kommende uger
 Frem til uge 32 kører vi med meget lav bemanding. I er selvfølgeligt velkomne til at oprette tickets i vores servicedesk, men forvent længere behandlingstid. Vi holder løbende øje med den, så sker der noget kritisk, vil vi naturligvis agere på det.
 ### Brug servicedesk fremfor email 
-I perioden 21/7 til 29/7 tjekker vi kun servidedesken, så sørg for at bruge denne, fremfor CMS-info@kk.dk.
+I perioden 21/7 til 29/7 tjekker vi kun servidedesken, så sørg for at bruge denne, fremfor cms-info@fddf.dk.
 ### Webmaster biblioteker
 Der burde være adgang for alle webmaster biblioteker til at teste i jeres modultest-miljøer. Er der problemer med det, så meld ind via servicedesken.
 ## 15/7
@@ -96,7 +96,7 @@ Vi har afdækket en fejl mellem vores oversættelsesmodul og rettighedsmodul, so
 5. Skift administrationssproget for brugeren tilbage til dansk
 
 ## 10/7 Kommunikation og releases i sommerferien
-I ugerne 29, 30 og 31 planlægger vi grundet sommerferie ikke med at lave nye releases. Opstår behovet vil vi dog release. Samtidigt er det i denne periode ekstra vigtigt at problemer og henvendelser sker via CMS-info@detdigitalefolkebibliotek.dk eller via vores servicedesk.
+I ugerne 29, 30 og 31 planlægger vi grundet sommerferie ikke med at lave nye releases. Opstår behovet vil vi dog release. Samtidigt er det i denne periode ekstra vigtigt at problemer og henvendelser sker via cms-info@fddf.dk eller via vores servicedesk.
 ## 4/7 status på aktiviteter
 ### Arrangement API
 Vi har analyseret og haft dialog med Place2Book omkring de udfordringer der er oplevet. Herunder kan I se hvad status er og vi har aftalt med Place2Book:
