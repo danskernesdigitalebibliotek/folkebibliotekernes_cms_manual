@@ -47,9 +47,9 @@ En anden måde at sætte spot på udvalgte arrangementer, sider og artikler i en
 
 Det er med vilje at slideren er placeret helt ude ved skærmens kant uden en margin. Det er en designbeslutning.
 
-Slider viser *teaserbilleder*. For indhold uden tilknyttet teaserbillede vises en ensfarvet kasse i bibliotekets signaturfarve. Er feltet *teasertekst* udfyldt på indhold uden teaserbillede, vises den i det ensfarvede område. Titlen vises altid nedenunder billede/ensfarvet område.
+Slider viser teaserbilleder. For indhold uden tilknyttet teaserbillede vises en ensfarvet kasse i bibliotekets signaturfarve. Er der en teasertekst, vises den i det ensfarvede område. Titlen vises altid nedenunder billede/ensfarvet område.
 
-For at udpege arrangementer skal *Type* sættes til *Arrangementserie enhed* i dropdown. Vil man udpege artikler eller sider skal man bare vælge *Indhold*. Af den grund kan man ikke blande arrangementer med sider eller artikler i en slider.
+For at udpege arrangementer skal Type sættes til Arrangementserie enhed i dropdown. Vil man udpege artikler eller sider skal man bare vælge Indhold. Af den grund kan man ikke blande arrangementer med sider eller artikler i en slider.
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/88af248d-2061-4731-9a04-c4abf26c6644" alt="Eksempel på en slider" caption="Eksempel på en slider" %}
 
 ### Indholdsslider - automatisk
