@@ -33,23 +33,21 @@ Den er lavet til at trække artikler ind, men kan også konfigureres til at hent
 
 Nyhedskomponent - automatisk trækker altid seks spots ind. Det kan ikke ændres. 
 
-Nyhedskomponenten viser teaserbilleder. For indhold uden tilknyttet teaserbillede vises en ensfarvet kasse i bibliotekets signaturfarve. Er feltet teasertekst udfyldt vises den i det ensfarvede område. Titlen vises altid nedenunder billede/ensfarvet område.
+Nyhedskomponenten viser teaserbilleder. For indhold uden tilknyttet teaserbillede vises en ensfarvet kasse i bibliotekets signaturfarve. Er feltet teasertekst udfyldt, vises den i det ensfarvede område. Titlen vises altid nedenunder billede/ensfarvet område.
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på Nyhedskomponent -  automatisk" caption="Eksempel på Nyhedskomponent -  automatisk" %}
 
 ### Nyhedskomponent - manuel
-I den manuelle variant af Nyhedskomponenten udvælger du de specifikke artikler, der skal vises som spots på din begivenhed, side, artikel etc.
+I den manuelle variant af Nyhedskomponenten udvælger du de specifikke artikler, der skal vises som spots.
 
 Nyhedskomponent - manuel kan trække op til seks artikler ind, men du kan også vælge at tilknytte færre. 
-
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på Nyhedskomponent - manuel" caption="Eksempel på Nyhedskomponent - manuel" %}
 
 ### Slider
 Giver mulighed for redaktionelt at udvælge et vilkårligt antal af arrangementer, sider og artikler i en redaktørudvalgt rækkefølge.
 
 Det er med vilje at slideren er placeret helt ude ved skærmens kant uden en margin. Det er en designbeslutning.
 
-Slider viser teaserbilleder. For indhold uden tilknyttet teaserbillede vises en ensfarvet kasse i bibliotekets signaturfarve. Er feltet teasertekst udfyldt vises den i det ensfarvede område. Titlen vises altid nedenunder billede/ensfarvet område.
+Slider viser teaserbilleder. For indhold uden tilknyttet teaserbillede vises en ensfarvet kasse i bibliotekets signaturfarve. Er feltet teasertekst udfyldt, vises den i det ensfarvede område. Titlen vises altid nedenunder billede/ensfarvet område.
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/88af248d-2061-4731-9a04-c4abf26c6644" alt="Eksempel på en slider" caption="Eksempel på en slider" %}
 
 ### Indholdsslider - automatisk
