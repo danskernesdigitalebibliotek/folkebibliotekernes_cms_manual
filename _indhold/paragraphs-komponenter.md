@@ -41,7 +41,7 @@ I den manuelle variant af Nyhedskomponenten udvælger du de specifikke artikler,
 Nyhedskomponent - manuel kan trække op til seks artikler ind, men du kan også vælge at tilknytte færre. 
 
 ### Slider
-En anden måde at sætte spot på udvalgte arrangementer, sider og artikler i en redaktørudvalgt rækkefølge. Kan I modsætning til nyhedskomponenten eksponere et vilkårligt antal elementer.
+En anden måde at sætte spot på udvalgte arrangementer, sider og artikler er med en slider. Kan I modsætning til nyhedskomponenten eksponere et vilkårligt antal elementer.
 
 Det er med vilje at slideren er placeret helt ude ved skærmens kant uden en margin. Det er en designbeslutning.
 
