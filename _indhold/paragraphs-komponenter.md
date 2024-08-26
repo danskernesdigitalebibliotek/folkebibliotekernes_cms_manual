@@ -53,6 +53,12 @@ For at udpege arrangementer skal Type sættes til Arrangementserie enhed i dropd
 ### Indholdsslider - automatisk
 Den automatiske udgave af slider-komponenten. Giver mulighed for automatisk at få vist et vilkårligt antal af arrangementer, sider og artikler filtreret efter bibliotek, kategori og/eller tags.
 
+### Navigation spots – manual
+Fremhæv en eller to stykker redaktørudvalgt indhold. Trækker teaserfotos med. 
+
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/62e32d39-1efc-49e9-a4ee-02f68be7813d" alt="Eksempel på et navigation spot" caption="Eksempel på et navigation spot med et indholdselement" %}
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/882a76e6-240c-47ae-a45c-a6d3c5da5391" alt="Eksempel på et navigation spot" caption="Eksempel på et navigation spot med to indholdselementer" %}
+
 ### Banner
 Bannerkomponenten er et visuelt indstik, der fremhæver og linker til et bestemt stykke indhold, en tagside/kategoriside eller en ekstern webside. 
 
@@ -65,12 +71,6 @@ Hero er en eksponeringskomponent, der fremhæver og linker til et bestemt stykke
 Hero oprettes med et internt eller eksternt link samt en overskrift og en beskrivelse. Komponenten kan bruges både med og uden baggrundsbillede, som uploades/udvælges i komponenten.
 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/6e518e2e-c309-4400-b260-6b15a3fc52a3" alt="Eksempel på en hero" caption="Eksempel på en hero" %}
-
-### Navigation spots – manual
-Fremhæv en eller to stykker redaktørudvalgt indhold. Trækker teaserfotos med. 
-
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/62e32d39-1efc-49e9-a4ee-02f68be7813d" alt="Eksempel på et navigation spot" caption="Eksempel på et navigation spot med et indholdselement" %}
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/882a76e6-240c-47ae-a45c-a6d3c5da5391" alt="Eksempel på et navigation spot" caption="Eksempel på et navigation spot med to indholdselementer" %}
 
 ## Indholdskomponenter
 Her er de komponenter, som man kan bruge til at indsætte indhold såsom tekst, billeder og video.
