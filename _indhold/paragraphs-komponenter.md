@@ -27,13 +27,14 @@ Her kan du oprette en liste af arrangementer, hvor du udpeger specifikke arrange
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/73045ad4-8ccb-465c-b0f4-587acca53acb" alt="Eksempel på Arrangementliste med manuelt udpegede arrangementer" caption="Eksempel på Arrangementliste med manuelt udpegede arrangementer" %}
 
 ### Nyhedskomponent – automatisk
-Nyhedskomponenten kan automatisk trække spots for indhold ind på din begivenhed, side, artikel etc.
+Nyhedskomponenten kan automatisk trække spots ind for indhold ind på dit site. Den kan indsættes på alle typer indhold som sider, arrangementer og artikler.
 
 Den er lavet til at trække artikler ind, men kan også konfigureres til at hente arrangementer og sider. Der kan filtreres på tags, kategori og tilknyttet bibliotek.
 
-Nyhedskomponent - automatisk trækker seks spots ind.
+Nyhedskomponent - automatisk trækker altid seks spots ind. Det kan ikke ændres. 
+Det er teaserbilleder, der vises i nyhedskomponenten. Indhold uden teaserbillede kan sagtens vises alligevel. Så kun titlen på en ensfarvet baggrund.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på et card grid" caption="Eksempel på et card grid" %}
+{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/d03d9ff4-17f6-4cf5-aba6-5d1c5083452d" alt="Eksempel på Nyhedskomponent -  automatisk" caption="Eksempel på Nyhedskomponent -  automatisk" %}
 
 ### Nyhedskomponent - manuel
 Den manuelle variant af Nyhedskomponenten giver dig mulighed for individuelt at udvælge specifikke artikler, som vises som spots på din begivenhed, side, artikel etc.
