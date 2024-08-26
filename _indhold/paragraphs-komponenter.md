@@ -43,7 +43,7 @@ Nyhedskomponent - manuel kan trække op til seks artikler ind, men du kan også 
 ### Slider
 En anden måde at sætte spot på udvalgte arrangementer, sider og artikler er med en slider. Kan I modsætning til nyhedskomponenten eksponere et vilkårligt antal elementer.
 
-Det er med vilje at slideren er placeret helt ude ved skærmens kant uden en margin. Det er en designbeslutning.
+Det er med vilje, at slideren er placeret helt ude ved skærmens kant uden en margin. Det er en designbeslutning.
 
 Slider viser teaserbilleder. For indhold uden tilknyttet teaserbillede vises en ensfarvet kasse i bibliotekets signaturfarve. Er der en teasertekst, vises den i det ensfarvede område. Titlen vises altid nedenunder billede/ensfarvet område.
 
