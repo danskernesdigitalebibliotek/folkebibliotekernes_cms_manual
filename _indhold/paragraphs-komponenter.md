@@ -80,7 +80,7 @@ Her er de komponenter, som man kan bruge til at indsætte indhold såsom tekst, 
 ### Accordion
 En type indhold med en liste af overskrifter stablet oven på hinanden. Når der klikkes på en overskrift, vil den enten åbne eller lukke en tilknyttet indholdsrude.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/2e85ebe3-3bad-4721-9abd-1b7f6e3547f3" alt="Eksempel på en accordion" caption="Eksempel på en accordion" %}
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/d72f5855-c141-4be3-8649-1dde6341b406" alt="Eksempel på en accordion" caption="Eksempel på en accordion" %}
 
 ### Files
 Tilknytning af filer til artiklen, fx pdf, mp3, mp4, mov etc.
