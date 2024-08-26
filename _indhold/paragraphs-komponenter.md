@@ -64,11 +64,10 @@ Linkende indgangsbillede og tekst beregnet på placering i toppen af en side. S�
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/6e518e2e-c309-4400-b260-6b15a3fc52a3" alt="Eksempel på en hero" caption="Eksempel på en hero" %}
 
 ### Navigation spots – manual
-Mulighed for at fremhæve redaktørudvalgt indhold. 
+Fremhæv en eller to stykker redaktørudvalgt indhold. Trækker teaserfotos med. 
 
-Trækker teaserfotos med.
-
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/9fd232f1-cf98-4f0f-81f0-11f9c8e014cd" alt="Eksempel på et navigation spot" caption="Eksempel på et navigation spot" %}
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/7c559394-037b-4ff8-b583-2fe46237330d" alt="Eksempel på et navigation spot" caption="Eksempel på et navigation spot med et indholdselement" %}
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/4e77df55-6dfa-4b59-88df-ba3717ce2858" alt="Eksempel på et navigation spot" caption="Eksempel på et navigation spot med to indholdselementer" %}
 
 ## Indholdskomponenter
 Her er de komponenter, som man kan bruge til at indsætte indhold såsom tekst, billeder og video.
