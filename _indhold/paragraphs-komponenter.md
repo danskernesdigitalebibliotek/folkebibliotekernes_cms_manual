@@ -61,7 +61,7 @@ Bannerkomponenten er et visuelt indstik, som bruges til at fremhæve et bestemt 
 ### Hero
 Linkende indgangsbillede og tekst i toppen af side.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/4c3894d2-1d63-44f2-8e4e-409e785edace" alt="Eksempel på en hero" caption="Eksempel på en hero" %}
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/6e518e2e-c309-4400-b260-6b15a3fc52a3" alt="Eksempel på en hero" caption="Eksempel på en hero" %}
 
 ### Navigation spots – manual
 Mulighed for at fremhæve redaktørudvalgt indhold. 
