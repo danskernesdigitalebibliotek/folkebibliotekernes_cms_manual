@@ -25,11 +25,11 @@ Her kan du oprette en liste af arrangementer, som du kan filtrere på bibliotek,
 Den manuelle udgave af arrangementslisten, hvor du udpeger specifikke arrangementer.
 
 ### Nyhedskomponent – automatisk
-Nyhedskomponenten kan automatisk trække spots ind for indhold ind på dit site. Den kan indsættes på alle typer indhold som sider, arrangementer og artikler.
+Nyhedskomponenten kan automatisk trække spots ind for indhold ind på dit site. Den kan indsættes på både sider, arrangementer og artikler.
 
-Den er lavet til at trække artikler ind, men kan også konfigureres til at hente arrangementer og sider. Der kan filtreres på tags, kategori og tilknyttet bibliotek.
+Den er egentlig lavet til at trække artikler ind, men kan også konfigureres til at hente arrangementer og sider. Der kan filtreres på tags, kategori og tilknyttet bibliotek.
 
-Nyhedskomponent - automatisk trækker altid seks spots ind. Det kan ikke ændres. 
+Den trækker altid seks spots ind og det kan ikke ændres. 
 
 Nyhedskomponenten viser teaserbilleder. For indhold uden tilknyttet teaserbillede vises en ensfarvet kasse i bibliotekets signaturfarve. Er feltet teasertekst udfyldt, vises den i det ensfarvede område. Titlen vises altid nedenunder billede/ensfarvet område.
 
