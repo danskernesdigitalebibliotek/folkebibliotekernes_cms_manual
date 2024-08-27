@@ -4,6 +4,12 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 27/8 kl. 15.20
+### Billeder/videoer fejler igen
+Vores driftsleverandør kæmper med at rette fejlen. Indtil da har de bedt os skrive til jer, at I ikke skal oprette nyt indhold (arrangementer, sider mv.) med billeder før vi siger til. Der sker egentlig ikke noget ved det, andet end at I mister billederne. 
+De billederne, som I pt. mangler på jeres sites, kommer igen lige så snart fejlen er blevet rettet.
+I må gerne rette i tekster på siderne.
+Vi melder tilbage her, når I igen må oprette billeder og indhold.
 ## 27/8 kl. 8.30
 ### Billeder/videoer fejler igen
 Vores udvikler troede de havde et permanent fix til billede-problemet med manglende billeder på hjemmesiderne. De testede det i går på to biblioteker og det virkede. Derfor sendte de det ud til alle sider i dag. Desværre gav det en del fejl på siderne og de måtte rulle tilbage. De er ikke helt i mål og derefter skal det før omtalte script køres ud til bibliotekssiderne, så I kan få jeres billeder tilbage. Vi opdaterer statussitet her, når vi har noget nyt.
