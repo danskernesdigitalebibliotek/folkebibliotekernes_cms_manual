@@ -112,6 +112,8 @@ Når du indsætter bread crumbs children komponenten vælger du en "sideforældr
 
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/dc28dc34-ad71-4605-9977-66fdfcbc1fba" alt="Eksempel på en breadcrumb children" caption="Eksempel på en breadcrumb children" %}
 
+{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/d7876db0-c6a5-4aa8-9a58-67e5e33a8fe0" alt="Eksempel på en navigation grid" caption="Sådan udpeges brødkrumme-forældre-siden" %}
+
 ### Navigation grid – manual
 Mulighed for at tilføje spots for redaktørudvalgt indhold. 
 
@@ -120,6 +122,10 @@ Lægger sig som et grid (felter).
 Trækker ikke teaserfotos ud, kun teasertekst (hvis tilvalgt)
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/25220686-3ab4-4f66-aecd-f713140d1b3e" alt="Eksempel på en navigation grid" caption="Eksempel på en navigation grid" %}
+
+
+
+
 
 ### Links
 Tilknytning af links til artiklen, fx interne/eksterne links og links til søgeresultater.
