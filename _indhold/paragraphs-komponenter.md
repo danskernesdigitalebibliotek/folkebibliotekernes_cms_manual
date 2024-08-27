@@ -108,9 +108,9 @@ Her er de tekst- og linksbaseret navigationskomponenter, som kan henvise til and
 ### Breadcrumb children
 Brødkrummer kan være lidt svære at forstå - men det er umagen værd, for det er mega smart og tidsbesparende. Bread crumb chrildren komponenten kan automatisk generere en overskuelig menu over alle sider inden for et emne, og menuen vedligeholder oven i købet sig selv hvis du tilføjer eller fjerner sider. Alt det kræver er, at du operetter siderne under samme brødkrummesti. 
 
-Når du indsætter bread crumbs children komponenten vælger du en "sideforældre" i dropdown-boksen og vupti bliver alle sider herunder vist med titel og evt. undertitel i et grid. Læs mere om brødkrummer i guiden [Ooret indhold: Brødkrummesti]({{ site.baseurl }}{% link _indhold/broedkrummesti.md %}).
+Når du indsætter bread crumbs children komponenten vælger du en "sideforældre" i dropdown-boksen og vupti bliver alle sider herunder vist med titel og evt. undertitel i et grid. Læs mere om brødkrummer i guiden [Opret indhold: Brødkrummesti]({{ site.baseurl }}{% link _indhold/broedkrummesti.md %}).
 
-{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/dc28dc34-ad71-4605-9977-66fdfcbc1fba" alt="Eksempel på en breadcrumb children" caption="Eksempel på en breadcrumb children" %}
+{% include figure image_path="https://github.com/user-attachments/assets/dc28dc34-ad71-4605-9977-66fdfcbc1fba" alt="Eksempel på en breadcrumb children" caption="Eksempel på en breadcrumb children" %}
 
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/d7876db0-c6a5-4aa8-9a58-67e5e33a8fe0" alt="Eksempel på en navigation grid" caption="Sådan udpeges brødkrumme-forældre-siden" %}
 
