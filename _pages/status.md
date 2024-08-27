@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 27/8 kl. 8.30
+### Billeder/videoer fejler igen
+Vores udvikler troede de havde et permanent fix til billede-problemet med manglende billeder på hjemmesiderne. De testede det i går på to biblioteker og det virkede. Derfor sendte de det ud til alle sider i dag. Desværre gav det en del fejl på siderne og de måtte rulle tilbage. De er ikke helt i mål og derefter skal det før omtalte script køres ud til bibliotekssiderne, så I kan få jeres billeder tilbage. Vi opdaterer statussitet her, når vi har noget nyt.
 ## 23/8 kl. 13.45
 ### Alle biblioteker er oppe igen
 Vi beklager nedetiden.
