@@ -112,7 +112,7 @@ Når du indsætter breadcrumbs children komponenten, vælger du en "sideforældr
 
 {% include figure image_path="https://github.com/user-attachments/assets/dc28dc34-ad71-4605-9977-66fdfcbc1fba" alt="Eksempel på en breadcrumb children" caption="Eksempel på en breadcrumb children" %}
 
-{% include figure class=image_path="https://github.com/user-attachments/assets/d7876db0-c6a5-4aa8-9a58-67e5e33a8fe0" alt="Eksempel på en navigation grid" caption="Sådan udpeges brødkrumme-forældre-siden" %}
+{% include figure image_path="https://github.com/user-attachments/assets/d7876db0-c6a5-4aa8-9a58-67e5e33a8fe0" alt="Eksempel på en navigation grid" caption="Sådan udpeges brødkrumme-forældre-siden" %}
 
 ### Navigation grid – manual
 Mulighed for at tilføje spots for redaktørudvalgt indhold. 
