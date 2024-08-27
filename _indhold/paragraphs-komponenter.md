@@ -119,11 +119,7 @@ Når du indsætter breadcrumbs children komponenten, vælger du en "sideforældr
 ### Navigation grid – manual
 Navigationsmenu i gitter-format, der linker til udvalgt indhold og viser titel og evt. manchettekst. Navigation grid manual kan både linke til sider, artikler og arrangmenter. Indholdet udpeges manuelt, når man indsætter komponenten og man bestemmer selv rækkerfølgen på indholdet. 
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/25220686-3ab4-4f66-aecd-f713140d1b3e" alt="Eksempel på en navigation grid" caption="Eksempel på en navigation grid" %}
-
-
-
-
+{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/fad67ae8-6726-4c17-87ec-e70bd3ad3300" alt="Eksempel på en navigation grid" caption="Eksempel på en navigation grid" %}
 
 ### Links
 Tilknytning af links til artiklen, fx interne/eksterne links og links til søgeresultater.
