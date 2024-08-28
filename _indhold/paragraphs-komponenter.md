@@ -143,9 +143,9 @@ Fremsøg på bogens navn og vælg hvilken materialetype, du vil fremhæve (bog, 
 
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/e6376ebe-96b7-46c0-a5d8-c8076505b1ca" alt="Indsæt anbefaling" caption="Indsæt anbefaling" %}
 
-Er du utilfreds med beskrivelsen, der hentes ind, kan du tilføje din egen.
+Er du utilfreds med beskrivelsen, der hentes ind, kan du tilføje din egen. Du kan også selv bestemme om forsiden skal stå til højre eller venstre for teksten. 
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/6996deb1-de64-4d29-99b3-b2aa4aa50544" alt="Eksempel på en recommendation" caption="Eksempel på en recommendation" %}
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/de5e1854-0b4e-4279-a3ba-3a2894ba4840" alt="Eksempel på en anbefaling" caption="Eksempel på en anbefaling" %}
 
 ### Material grid automatic
 
