@@ -122,18 +122,16 @@ Navigationsmenu i gitter-format, der linker til udvalgt indhold og viser titel o
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/fad67ae8-6726-4c17-87ec-e70bd3ad3300" alt="Eksempel på en navigation grid" caption="Eksempel på en navigation grid" %}
 
 ### Simple links
-Simple links kan bruges til at vise et eller flere links. Der bliver ikke vist ikoner på Simple links. Tilføjer man flere links, vises de lige under hinanden i en slags kolonne. Når man tilføjer eksterne links, skal man huske at starte med `https://` - ellers virker de ikke.
+Simple links kan bruges til at vise et eller flere links. Der bliver ikke vist ikoner på Simple links. Tilføjer man flere links, vises de lige under hinanden i en slags kolonne. De kan indsættes på alle indholdstyper. Når man tilføjer eksterne links, skal man huske at starte med `https://` - ellers virker de ikke.
 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/7f5eeba9-3812-4428-aaac-d0de4e20cddf" alt="Eksempel med et link i en Simple links komponent" caption="Eksempel med et link i en Simple links komponent" %}
 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/531f6ba3-9fa6-49ac-96c5-841859757599" alt="Eksempel med  flere links i en Simple links komponent" caption="Eksempel med flere links i en Simple links komponent" %}
 
 ### Links
-Tilknytning af link til artiklen, fx interne/eksterne links og links til søgeresultater.
+Links-komponenten virker på samme måde som Simple Links, bortset fra at der vises et ikon på hvert link. Der er forskellige ikoner for interne links, eksterne links og links til søgninger. Systemet finder selv ud af hvad der er hvad. 
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/31d057c2-0fc4-4496-871c-aa59405d48dd" alt="Eksempel på links" caption="Eksempel på links" %}
-
-
 
 ## Materialekomponenter
 Her er de komponenter, som man kan bruge til at fremhæve bibliotekets materialer.
