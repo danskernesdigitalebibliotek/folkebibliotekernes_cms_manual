@@ -5,10 +5,10 @@ sidebar: true
 nav: "overblik"
 ---
 ## 28/8 kl. 08.45
-### I må nu igen lægge filer (billeder mv.) op på hjemmesiden
+### I må nu igen lægge filer (billeder mv.) op på hjemmesiden (ikke webmasterbiblioteker)
 I må nu igen lægge filer op på hjemmesiderne. Vi har nu gennemført CSI udskiftningen til ende. Vi havde noget kort nedetid efter det endelig skift, men det er gået over nu. Måske det har skyldtes backup'en som har kørt sideløbende med.
 Der er nogle få biblioteker som muligvis har tabt dele af gårsdagens uploadede filer og moduler.
-Webmasterbibliotekernes moduletest sider er ikke blevet udskiftet endnu og derfor kan I stadigvæk opleve manglende billeder.
+Webmasterbiblioteker: Webmasterbibliotekernes moduletest sider er ikke blevet udskiftet endnu og derfor kan I stadigvæk opleve manglende billeder. Derfor skal I vente med at lægge noget op. I løbet af dagen bliver I udskiftet. Vi giver besked her.
 ## 27/8 kl. 15.20
 ### Billeder/videoer fejler igen
 Vores driftsleverandør kæmper med at rette fejlen. Indtil da har de bedt os skrive til jer, at I ikke skal oprette nyt indhold (arrangementer, sider mv.) med billeder før vi siger til. Der sker egentlig ikke noget ved det, andet end at I mister billederne. 
