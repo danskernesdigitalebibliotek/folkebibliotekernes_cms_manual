@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 28/8
+### Release 2024.35.0 kommer ud i morgen
+På grund af gårsdagens fejl har vi valgt at skubbe releasen til i morgen den 29/8.
 ## 28/8 kl. 08.45
 ### I må nu igen lægge filer (billeder mv.) op på hjemmesiden (ikke webmasterbiblioteker)
 I må nu igen lægge filer op på hjemmesiderne. Vi har nu gennemført CSI udskiftningen til ende. Vi havde noget kort nedetid efter det endelig skift, men det er gået over nu. Måske det har skyldtes backup'en som har kørt sideløbende med.
