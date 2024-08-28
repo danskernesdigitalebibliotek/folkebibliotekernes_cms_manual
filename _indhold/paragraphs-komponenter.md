@@ -136,14 +136,14 @@ Links-komponenten virker på samme måde som Simple Links, bortset fra at der vi
 ## Materialekomponenter
 Her er de komponenter, som man kan bruge til at fremhæve bibliotekets materialer.
 
-### Recommendation
-Anvendes til anbefaling af bøger og andre materialer.
+### Anbefaling
+Anbefal en udvalgt titel. Nem at bruge. Ser godt ud.
 
-Materialet trækkes ind via Work ID. **Eksempel:** work-of:870970-basis:136336282
+Fremsøg på bogens navn og vælg hvilken materialetype, du vil fremhæve (bog, e-bog, lydbog). Herfra går det automatisk. Bogens forside, beskrivelse og titel trækkes ind af sig selv.
 
-I øjeblikket hentes Work ID ved at udføre en søgning efter et materiale manuelt i søgefeltet på hjemmesiden og kopiere værdien fra søgeresultatet i URL’en.
+{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/e6376ebe-96b7-46c0-a5d8-c8076505b1ca" alt="Indsæt anbefaling" caption="Indsæt anbefaling" %}
 
-Det er muligt at ændre værkets titel og beskrivelse manuelt.
+Er du utilfreds med beskrivelsen, der hentes ind, kan du tilføje din egen.
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/6996deb1-de64-4d29-99b3-b2aa4aa50544" alt="Eksempel på en recommendation" caption="Eksempel på en recommendation" %}
 
