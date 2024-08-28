@@ -122,7 +122,7 @@ Navigationsmenu i gitter-format, der linker til udvalgt indhold og viser titel o
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/fad67ae8-6726-4c17-87ec-e70bd3ad3300" alt="Eksempel på en navigation grid" caption="Eksempel på en navigation grid" %}
 
 ### Simple links
-Simple links kan bruges til at vise et eller flere links. I modsætning til Link komponenten er der ikke ikoner på links. Tilføjer man flere links vises de i et grid, frem for som idividuelle links.
+Simple links kan bruges til at vise et eller flere links. I modsætning til Link komponenten er der ikke ikoner på links. Tilføjer man flere links vises de i et grid. Når man tilføjer eksterne links skal man huske at starte med 'https:'.
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/531f6ba3-9fa6-49ac-96c5-841859757599" alt="Eksempel med et link i en Simple links komponent" caption="Eksempel med et link i en Simple links komponent" %}
 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/7f5eeba9-3812-4428-aaac-d0de4e20cddf" alt="Eksempel med flere links i en Simple links komponent" caption="Eksempel med flere links i en Simple links komponent" %}
