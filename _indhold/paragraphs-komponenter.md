@@ -147,9 +147,9 @@ Er du utilfreds med beskrivelsen, der hentes ind, kan du tilføje din egen. Du k
 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/61ebf357-69db-46dd-b5ba-ac1255d79271" alt="Eksempel på en anbefaling" caption="Eksempel på en anbefaling" %}
 
-### Material grid automatic
+### Materialekomponent - automatisk
 
-Med Material grid-komponenten kan du udstille bøger og andre materialer.
+Med Materialekomponent - automatisk kan du udstille bøger og andre materialer.
 
 Automatic-varianten trækker materialer ind via en CQL-søgestreng.
 
@@ -157,7 +157,7 @@ CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets sø
 
 [Sådan opretter du CQL-søgestrenge](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/cql-soegestrenge/)
 
-Du kan indstille komponenten til at vise et bestemt antal materialer. Antallet skal være deleligt med fire. Antallet bestemmer du i feltet **Amount of materials**.
+Du kan indstille komponenten til at vise et bestemt antal materialer. Antallet skal være deleligt med fire. Antallet bestemmer du i feltet **Antal materialer/værker**.
 
 Komponenten viser minimum 4 materialer og kan maksimalt sættes til 32 materialer.
 
