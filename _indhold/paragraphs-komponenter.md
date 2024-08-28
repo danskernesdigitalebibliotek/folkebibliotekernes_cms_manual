@@ -137,15 +137,15 @@ Links-komponenten virker på samme måde som Simple Links, bortset fra at der vi
 Her er de komponenter, som man kan bruge til at fremhæve bibliotekets materialer.
 
 ### Anbefaling
-Anbefal en udvalgt titel. Nem at bruge. Ser godt ud.
+Anbefal en bestemt titel. Nem at bruge. Ser godt ud.
 
 Fremsøg på bogens navn og vælg hvilken materialetype, du vil fremhæve (bog, e-bog, lydbog). Herfra går det automatisk. Bogens forside, beskrivelse og titel trækkes ind af sig selv.
 
-{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/e6376ebe-96b7-46c0-a5d8-c8076505b1ca" alt="Indsæt anbefaling" caption="Indsæt anbefaling" %}
+{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/e6376ebe-96b7-46c0-a5d8-c8076505b1c" alt="Indsæt anbefaling" caption="Indsæt anbefaling" %}
 
 Er du utilfreds med beskrivelsen, der hentes ind, kan du tilføje din egen. Du kan også selv bestemme om forsiden skal stå til højre eller venstre for teksten. 
 
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/de5e1854-0b4e-4279-a3ba-3a2894ba4840" alt="Eksempel på en anbefaling" caption="Eksempel på en anbefaling" %}
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/61ebf357-69db-46dd-b5ba-ac1255d79271" alt="Eksempel på en anbefaling" caption="Eksempel på en anbefaling" %}
 
 ### Material grid automatic
 
