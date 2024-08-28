@@ -161,7 +161,9 @@ Du kan indstille komponenten til at vise et bestemt antal materialer. Antallet s
 
 Komponenten viser minimum 4 materialer og kan maksimalt sættes til 32 materialer.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/f5d5382b-8ff7-4b84-a795-5f80ffdb1458" alt="Eksempel på en material grid" caption="Eksempel på en material grid" %}
+Bemærk at det er en kendt fejl, at materialekomponenten ikke altid kan hente forsider på materialer, der er i andre sammenhænge har en forside. 
+
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/fad69f6f-2dc0-461c-b717-2641fda0b552" alt="Eksempel på en materialekomponent - automatisk" caption="Eksempel på en materialekomponent - automatisk" %}
 
 ### Material grid manual
 
