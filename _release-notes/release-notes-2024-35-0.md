@@ -12,7 +12,7 @@ Releasedato: 29-08-2024
 
 - Mobilvisning: Åbningstidsikon vises i stedet for huskelisteikon. 
 
-- Brødkrummer og sider: Hvis man ønsker at slette en side tilknyttet en brødkrumme, skal brødkrummen linkes til nyt indhold, inden man får lov til at slette siden. Det sikrer, at der ikke ved en forglemmelse, opstår brødkrummer med døde links. 
+- Brødkrummer og sider: Hvis man ønsker at slette en side tilknyttet en brødkrumme, skal brødkrummen linkes til nyt indhold, inden man kan slette siden. Det sikrer, at der ikke ved en forglemmelse, opstår brødkrummer med døde links. 
 
 - Arrangementer og API: Nyt felt på arrangementer angiver om et arrangement er relevant for billetleverandør. Feltet er default markeret. Data fra feltet udstilles i API. 
 
