@@ -845,6 +845,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-33-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.35.0",
+        "excerpt":"Knap til fornyelse af flere lån fungerer igen, oplysninger i API om arrangement er relevant for billetleverandør og fejl rettet med forsvundne billeder m.m. Releasedato: 29-08-2024 Nye features Mobilvisning: Åbningstidsikon vises i stedet for huskelisteikon. Brødkrummer og sider: Hvis man ønsker at slette en side tilknyttet en brødkrumme, skal man...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-35-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
