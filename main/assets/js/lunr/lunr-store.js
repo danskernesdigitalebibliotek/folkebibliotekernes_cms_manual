@@ -845,7 +845,7 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-33-0/",
         "teaser": null
       },{
-        "title": "Release Notes 2024.35.0",
+        "title": "Release Notes 2024.35.1",
         "excerpt":"Knap til fornyelse af flere lån fungerer igen, oplysninger i API om arrangement er relevant for billetleverandør og fejl rettet med forsvundne billeder m.m. Releasedato: 29-08-2024 Nye features Mobilvisning: Åbningstidsikon vises i stedet for huskelisteikon. Brødkrummer og sider: Hvis man ønsker at slette en side tilknyttet en brødkrumme, skal brødkrummen...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-35-0/",
