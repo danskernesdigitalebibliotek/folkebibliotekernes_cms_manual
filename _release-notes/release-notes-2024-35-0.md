@@ -23,7 +23,7 @@ Releasedato: 29-08-2024
 
 ## Fejlrettelser og forbedringer
 
-- Proxy-url: Korrekt encoding af proxy-url'er. Nu kan man lægge proxy-URL'er med tegn som "?" i paragraphelementet Hero, uden at tegnet ændres og linket ikke længere fungerer i praksis.  
+- Proxy-url tilføjet paragraphs: Proxy-url'er encodes nu korrekt. Det betyder at man kan lægge proxy-URL'er med tegn som "?" i paragraphelementet Hero, uden at tegnet ændres og linket ikke længere fungerer i praksis.  
 
 - Billeder: Fejl rettet hvor billeder er forsvundet på nogle sites.
   
