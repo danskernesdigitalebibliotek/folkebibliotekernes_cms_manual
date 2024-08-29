@@ -14,24 +14,22 @@ Releasedato: 29-08-2024
 
 - Brødkrummer og sider: Hvis man ønsker at slette en side tilknyttet en brødkrumme, skal brødkrummen linkes til nyt indhold, inden man får lov til at slette siden. Det sikrer, at der ikke ved en forglemmelse, opstår brødkrummer med døde links. 
 
-- Arrangementer og API: Nyt felt på arrangementer, som sender data med i API om at arrangementet er relevant for billetleverandør. Feltet er default markeret. 
+- Arrangementer og API: Nyt felt på arrangementer. Data fre feltet udstilles i API og fortæller om et arrangementet er relevant for billetleverandør. Feltet er default markeret. 
 
 - Event API: Unikke ID'er til priser. 
 
 - Arrangementer og P2B: Hvis arrangementet er udsolgt på P2B, opdateres status på FBCMS. 
-
-- Standardbesked til blokerede brugere vises nu kun i forbindelse med login og forsøg på reservering. 
-
-- Menu til avanceret søgninger er nu kodet semantisk. Dvs. elementet er kodet på en måde, så kodningen bedst muligt afspejler elementets funktion for slutbrugerne. Det betyder bl.a. at elementet let kan afkodes som en menu af skærmlæsere. 
-
-
 
 
 ## Fejlrettelser og forbedringer
 
 - Proxy-url: Korrekt encoding af proxy-url'er. Nu kan man lægge proxy-URL'er med tegn som "?" i paragraphelementet Hero, uden at tegnet ændres og linket ikke længere fungerer i praksis.  
 
-- Billeder: Fejl rettet hvor billeder er forsvundet på nogle sites. 
+- Billeder: Fejl rettet hvor billeder er forsvundet på nogle sites.
+  
+- Standardbesked til blokerede brugere vises nu kun i forbindelse med login og forsøg på reservering.
+
+- Menu til avanceret søgninger er nu kodet semantisk. Dvs. elementet er kodet på en måde, så kodningen bedst muligt afspejler elementets funktion for slutbrugerne. Det betyder bl.a. at elementet let kan afkodes som en menu af skærmlæsere.  
 
 - Arrangementsliste: Fejl rettet hvor afholdte arrangementer fremgår af arrangementsliste. 
 
