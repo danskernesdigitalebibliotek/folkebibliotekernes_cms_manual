@@ -14,7 +14,7 @@ Releasedato: 29-08-2024
 
 - Brødkrummer og sider: Hvis man ønsker at slette en side tilknyttet en brødkrumme, skal brødkrummen linkes til nyt indhold, inden man får lov til at slette siden. Det sikrer, at der ikke ved en forglemmelse, opstår brødkrummer med døde links. 
 
-- Arrangementer og API: Nyt felt på arrangementer. Data fra feltet udstilles i API og fortæller om et arrangementet er relevant for billetleverandør. Feltet er default markeret. 
+- Arrangementer og API: Nyt felt på arrangementer angiver om et arrangement er relevant for billetleverandør. Feltet er default markeret. Data fra feltet udstilles i API. 
 
 - Event API: Unikke ID'er til priser. 
 
