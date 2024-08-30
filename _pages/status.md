@@ -4,8 +4,12 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 30/8 kl. 15.40
+### Release 2024.35.1 er nu ude på alle produktionssites (moduletestsiderne er på vej)
+Det var en større release og derfor tog det ekstra lang tid denne gang og gav desværre også en del udfordringer - også ude på jeres sites. Det beklager vi. 
+Husk I kan se releasenotes her: https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-35-0/
 ## 28/8
-### Release 2024.35.0 kommer ud i morgen
+### Release 2024.35.1 kommer ud i morgen
 På grund af gårsdagens fejl har vi valgt at skubbe releasen til i morgen den 29/8.
 ## 28/8 kl. 08.45
 ### I må nu igen lægge filer (billeder mv.) op på hjemmesiden (ikke webmasterbiblioteker)
