@@ -165,9 +165,9 @@ Bemærk, at det er en kendt fejl, at materialekomponenten ikke altid kan hente f
 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/fad69f6f-2dc0-461c-b717-2641fda0b552" alt="Eksempel på en materialekomponent - automatisk" caption="Eksempel på en materialekomponent - automatisk" %}
 
-### Material grid manual
+### Materialekomponent - manual
 
-I Material grid manual-varianten vælger du selv manuelt de materialer, du vil udstille.
+I Materialekomponent - manual vælger du selv manuelt de materialer, du vil udstille.
 
 Materialer trækkes ind via Work ID. **Eksempel:** work-of:870970-basis:135822388
 
@@ -181,4 +181,6 @@ Du kan dog godt indsætte blot et, to eller tre materialer.
 
 Maksimalt kan der indsættes 32 materialer.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/f5d5382b-8ff7-4b84-a795-5f80ffdb1458" alt="Eksempel på en material grid" caption="Eksempel på en material grid" %}
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/5ff36a15-f1a0-49b6-b87d-0ea3e29d2ea2" alt="Eksempel på en material grid" caption="Eksempel på en material grid" %}
+
+
