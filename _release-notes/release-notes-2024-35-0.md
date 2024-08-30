@@ -18,8 +18,9 @@ Releasedato: 29-08-2024
 
 - Event API: Unikke ID'er til priser. 
 
-- Arrangementer og P2B: Hvis arrangementet er udsolgt på P2B, opdateres status på FBCMS. 
-
+- Arrangementer og P2B: Hvis arrangementet er udsolgt på P2B, opdateres status på FBCMS.
+  
+- Søgning i redaktionelt indhold. 
 
 ## Fejlrettelser og forbedringer
 
