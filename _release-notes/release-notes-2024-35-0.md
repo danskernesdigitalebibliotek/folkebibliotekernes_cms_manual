@@ -7,7 +7,7 @@ weight: 980
 # Knap til fornyelse af flere lån fungerer igen, oplysninger i API om arrangement er relevant for billetleverandør og fejl rettet med forsvundne billeder m.m. 
 
 Releasedato: 29-08-2024
-Webmasterbiblioteker har også fået denne release.
+## Webmasterbiblioteker har også fået denne release.
 
 ## Nye features
 
