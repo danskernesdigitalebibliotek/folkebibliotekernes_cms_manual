@@ -18,8 +18,6 @@ Releasedato: 29-08-2024
 - Arrangementer og API: Nyt felt på arrangementer angiver om et arrangement er relevant for billetleverandør. Feltet er default markeret. Data fra feltet udstilles i API. 
 
 - Event API: Unikke ID'er til priser. 
-
-- Arrangementer og P2B: Hvis arrangementet er udsolgt på P2B, opdateres status på FBCMS.
   
 - Søgning i redaktionelt indhold. 
 
