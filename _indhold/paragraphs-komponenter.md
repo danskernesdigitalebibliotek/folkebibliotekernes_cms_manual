@@ -149,7 +149,9 @@ Er du utilfreds med beskrivelsen, der hentes ind, kan du tilføje din egen. Du k
 
 ### Materialekomponent - automatisk
 
-Med Materialekomponent - automatisk kan du udstille bøger og andre materialer.
+Med Materialekomponent - automatisk kan du eksponere bøger og andre materialer.
+
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/fad69f6f-2dc0-461c-b717-2641fda0b552" alt="Eksempel på en materialekomponent - automatisk" caption="Eksempel på en materialekomponent - automatisk" %}
 
 Automatic-varianten trækker materialer ind via en CQL-søgestreng.
 
@@ -163,24 +165,23 @@ Komponenten viser minimum 4 materialer og kan maksimalt sættes til 32 materiale
 
 Bemærk, at det er en kendt fejl, at materialekomponenten ikke altid kan hente forsider på materialer, der er i andre sammenhænge har en forside. 
 
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/fad69f6f-2dc0-461c-b717-2641fda0b552" alt="Eksempel på en materialekomponent - automatisk" caption="Eksempel på en materialekomponent - automatisk" %}
+
 
 ### Materialekomponent - manual
 
-I Materialekomponent - manual vælger du selv manuelt de materialer, du vil udstille.
+Med Materialekomponent - manuel udvælger du manuelt de bøger og andre materialer, som du vil eksponere.
 
-Materialer trækkes ind via Work ID. **Eksempel:** work-of:870970-basis:135822388
-
-I øjeblikket hentes Work ID ved at udføre en søgning efter et materiale manuelt i søgefeltet på hjemmesiden og kopiere værdien fra søgeresultatet i URL’en.
+Fremsøg på bogens titel og vælg hvilken materialetype, du vil fremhæve (bog, e-bog, lydbog).
+{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/cbae0098-5cff-4f9a-823b-24e206a31d20" alt="Udvælg titler til Materialekomponent - manual" caption="Udvælg titler til Materialekomponent - manual" %}
 
 Antallet af materialer skal være deleligt med fire. Du kan altså indsætte 4 materialer eller 8 eller 12 osv. 
-
 Indsætter du fx 7 materialer, vil der kun blive vist 4. Du må så tilføje et mere, så der er 8 i alt for at få vist dem alle.
-
 Du kan dog godt indsætte blot et, to eller tre materialer.
-
 Maksimalt kan der indsættes 32 materialer.
 
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/5ff36a15-f1a0-49b6-b87d-0ea3e29d2ea2" alt="Eksempel på en material grid" caption="Eksempel på en material grid" %}
+![image](https://github.com/user-attachments/assets/8a25bce2-5b77-4ae0-8f3d-d2dbd952d6a9)
+
+
+{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/8a25bce2-5b77-4ae0-8f3d-d2dbd952d6a9" alt="Eksempel på Materialekomponent - manual" caption="Eksempel på Materialekomponent - manual" %}
 
 
