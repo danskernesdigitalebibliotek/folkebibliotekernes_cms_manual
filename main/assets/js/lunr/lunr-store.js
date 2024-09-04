@@ -852,7 +852,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2024.36.0",
-        "excerpt":"Fejl rettet på webforms for 8 biblioteker, som havde konfigurations problemer Releasedato: 04-09-2024 Fejlrettelser og forbedringer Webform config problemer på Fredensborg, Frederiksberg, Halsnæs, Horsens, Næstved, Norddjurs, Tårnby og Thisted Webforms har nu visuel indikator (*), som fortæller at feltet er obligatorisk. Tilsvarende gøres skærmlæsere opmærksom på hvis et felt er...","categories": ["Release Notes"],
+        "excerpt":"Fejl rettet på webforms for 8 biblioteker, som havde konfigurations problemer Releasedato: 04-09-2024 (ikke webmasterbiblioteker) Fejlrettelser og forbedringer Webform config problemer på Fredensborg, Frederiksberg, Halsnæs, Horsens, Næstved, Norddjurs, Tårnby og Thisted Webforms har nu visuel indikator (*), som fortæller at feltet er obligatorisk. Tilsvarende gøres skærmlæsere opmærksom på hvis et...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-36-0/",
         "teaser": null
