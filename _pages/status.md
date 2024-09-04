@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 4/9 kl. 10
+### Hjemmesider havde en kort nedetid
+Dette skyldes et serverproblem. Alle sider skulle være oppe igen.
 ## 30/8 kl. 15.40
 ### Release 2024.35.1 er nu ude på alle produktionssites (moduletestsiderne er på vej)
 Det var en større release og derfor tog det ekstra lang tid denne gang og gav desværre også en del udfordringer - også ude på jeres sites. Det beklager vi. 
