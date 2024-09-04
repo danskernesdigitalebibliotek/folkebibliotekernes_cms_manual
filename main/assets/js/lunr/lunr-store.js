@@ -851,6 +851,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-35-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.36.0",
+        "excerpt":"Fejl rettet på webforms for 8 biblioteker, som havde konfigurations problemer Releasedato: 04-09-2024 Fejlrettelser og forbedringer Webform config problemer på Fredensborg, Frederiksberg, Halsnæs, Horsens, Næstved, Norddjurs, Tårnby og Thisted Webforms har nu visuel indikator (*), som fortæller at feltet er obligatorisk. Tilsvarende gøres skærmlæsere opmærksom på hvis et felt er...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-36-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
