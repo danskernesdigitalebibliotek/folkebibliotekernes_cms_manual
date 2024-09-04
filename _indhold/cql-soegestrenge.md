@@ -20,9 +20,9 @@ Lav din søgning og klik på **Kopier søgestreng**.
 
 {% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/39811f60-a69e-4304-88d1-9583cf180d08" alt="Klik på Kopier søgestreng" caption="Klik på Kopier søgestreng" %}
 
-Hvis du skal bruge søgestrengen i Material grid automatic- komponenten, skal du indsætte den i feltet **CQL Search**. Sådan her:
+Hvis du skal bruge søgestrengen i komponenten **Materialekomponent - automatisk**, skal du indsætte den i feltet **CQL Search**. Sådan her:
 
-{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/ebbf641f-1280-4da0-ad2d-9394c90d59c8" alt="Indsæt søgestrengen i CQL Search-feltet" caption="Indsæt søgestrengen i CQL Search-feltet" %}
+{% include figure image_path="https://github.com/user-attachments/assets/f14afd0d-374a-4864-8fed-48fce75a752d" alt="Indsæt søgestrengen i CQL Search-feltet" caption="Indsæt søgestrengen i CQL Search-feltet" %}
 
 [Læs mere om avanceret søgning og CQL søgning](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/nye-features/avanceret-sogning/)
 
