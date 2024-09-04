@@ -6,7 +6,7 @@ weight: 979
 
 # Fejl rettet på webforms for 8 biblioteker, som havde konfigurations problemer
 
-Releasedato: 04-09-2024
+Releasedato: 04-09-2024 (ikke webmasterbiblioteker)
 
 ## Fejlrettelser og forbedringer
 
