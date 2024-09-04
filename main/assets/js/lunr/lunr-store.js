@@ -509,6 +509,12 @@ var store = [{
         "url": "/main/indhold/kampagner/",
         "teaser": null
       },{
+        "title": "Kultunautintegration",
+        "excerpt":"Kulturkalenderen Kultunaut har udviklet en integration til Folkebibliotekernes CMS via arrangements APIet. Arrangements APIet er tilgængeligt for alle billetleverandører, der ønsker at bygge integration til Folkebibliotekernes CMS. Kultunaut henter automatisk oplysninger om arrangementer fra alle bibliotekernes hjemmesider og viser dem på Kultunauts hjemmeside samt på hjemmesider, der har et samarbejde...","categories": ["Generelt"],
+        "tags": [],
+        "url": "/main/indhold/kultunaut/",
+        "teaser": null
+      },{
         "title": "Logoer til de digitale tilbud",
         "excerpt":"DDFs logo-pakke DDF har lavet en PR-pakke med logoer til eReolen og eReolen go. Download pakke med logo-filer til DDFs tjenester. DBCs logo-pakke DBC har lavet en PR-pakke til deres digitale digitale tilbud. Den indeholder logoer i forskellige udgaver og i høj opløsning. Der er logo til Bibliotek.dk, Børnebiffen, Buggi,...","categories": ["Generelt"],
         "tags": [],
