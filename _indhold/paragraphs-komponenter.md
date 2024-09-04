@@ -141,7 +141,7 @@ Anbefal en bestemt titel. Nem at bruge. Ser godt ud.
 
 Fremsøg på bogens navn og vælg hvilken materialetype, du vil fremhæve (bog, e-bog, lydbog). Herfra går det automatisk. Bogens forside, beskrivelse og titel trækkes ind af sig selv.
 
-{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/e6376ebe-96b7-46c0-a5d8-c8076505b1c" alt="Indsæt anbefaling" caption="Indsæt anbefaling" %}
+{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/ac31089a-bbf1-413d-9a27-ce31d3624b9f" alt="Indsæt anbefaling" caption="Indsæt anbefaling" %}
 
 Er du utilfreds med beskrivelsen, der hentes ind, kan du tilføje din egen. Du kan også selv bestemme om forsiden skal stå til højre eller venstre for teksten. 
 
@@ -178,8 +178,6 @@ Antallet af materialer skal være deleligt med fire. Du kan altså indsætte 4 m
 Indsætter du fx 7 materialer, vil der kun blive vist 4. Du må så tilføje et mere, så der er 8 i alt for at få vist dem alle.
 Du kan dog godt indsætte blot et, to eller tre materialer.
 Maksimalt kan der indsættes 32 materialer.
-
-![image](https://github.com/user-attachments/assets/8a25bce2-5b77-4ae0-8f3d-d2dbd952d6a9)
 
 
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/8a25bce2-5b77-4ae0-8f3d-d2dbd952d6a9" alt="Eksempel på Materialekomponent - manual" caption="Eksempel på Materialekomponent - manual" %}
