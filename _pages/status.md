@@ -4,6 +4,10 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 5/9 kl. 13
+### Release 2024.36.0 kommer ud til jer i dag (gælder ikke for webmasterbiblioteker)
+Det er en lille release men med nogle gode ting som fx Digital artikelservice rettelse.
+Husk I kan se releasenotes her: https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-36-0/
 ## 4/9 kl. 10
 ### Hjemmesider havde en kort nedetid
 Dette skyldes et serverproblem. Alle sider skulle være oppe igen.
