@@ -509,7 +509,7 @@ var store = [{
         "url": "/main/indhold/kampagner/",
         "teaser": null
       },{
-        "title": "Kultunautintegration",
+        "title": "Kultunaut integration",
         "excerpt":"Kulturkalenderen Kultunaut har udviklet en integration til Folkebibliotekernes CMS via arrangements APIet. Kultunaut henter automatisk oplysninger om arrangementer fra alle bibliotekernes hjemmesider og viser dem på Kultunauts hjemmeside samt på hjemmesider, der har et samarbejde med Kultunaut. Træk af arrangementer foregår om natten og herfra går der 1-2 hverdage før...","categories": ["Generelt"],
         "tags": [],
         "url": "/main/indhold/kultunaut/",
