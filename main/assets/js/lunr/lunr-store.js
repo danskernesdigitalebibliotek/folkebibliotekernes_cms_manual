@@ -510,7 +510,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Kultunautintegration",
-        "excerpt":"Kulturkalenderen Kultunaut har udviklet en integration til Folkebibliotekernes CMS via arrangements APIet. Arrangements APIet er tilgængeligt for alle billetleverandører, der ønsker at bygge integration til Folkebibliotekernes CMS. Kultunaut henter automatisk oplysninger om arrangementer fra alle bibliotekernes hjemmesider og viser dem på Kultunauts hjemmeside samt på hjemmesider, der har et samarbejde...","categories": ["Generelt"],
+        "excerpt":"Kulturkalenderen Kultunaut har udviklet en integration til Folkebibliotekernes CMS via arrangements APIet. Kultunaut henter automatisk oplysninger om arrangementer fra alle bibliotekernes hjemmesider og viser dem på Kultunauts hjemmeside samt på hjemmesider, der har et samarbejde med Kultunaut. Træk af arrangementer foregår om natten og herfra går der 1-2 hverdage før...","categories": ["Generelt"],
         "tags": [],
         "url": "/main/indhold/kultunaut/",
         "teaser": null
