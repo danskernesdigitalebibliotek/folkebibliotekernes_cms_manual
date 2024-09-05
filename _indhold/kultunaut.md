@@ -1,5 +1,5 @@
 ---
-title: "Kultunautintegration"  
+title: "Kultunaut integration"  
 category: "Generelt"
 ---
 
