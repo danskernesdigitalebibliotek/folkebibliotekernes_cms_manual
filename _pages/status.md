@@ -6,7 +6,7 @@ nav: "overblik"
 ---
 ## 6/9 kl. 13.40 Alle sites er nu opdateret
 ### Lige nu er webmasterbiblioteker på prod 35.1 og modultest 36.0.
-Vi har dog stadig Tårnby som har problemer opgradering af moduletestsitet. Vi er ved at arbejde på et fix.
+Vi har dog stadig Tårnby hvor opgraderingen af moduletestsitet driller. Vi er ved at arbejde på et fix.
 ## 6/9 kl. 8.30
 ### Release 2024.36.0 er kommer ud til alle redaktørbiblioteker (pånær Næstved)
 ## 5/9 kl. 13
