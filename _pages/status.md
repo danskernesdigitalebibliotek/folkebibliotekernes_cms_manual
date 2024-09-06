@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 6/9 kl. 8.30
+### Release 2024.36.0 er kommer ud til alle redaktørbiblioteker (pånær Næstved)
 ## 5/9 kl. 13
 ### Release 2024.36.0 kommer ud til jer i dag (gælder ikke for webmasterbiblioteker)
 Det er en lille release men med nogle gode ting som fx Digital artikelservice rettelse.
