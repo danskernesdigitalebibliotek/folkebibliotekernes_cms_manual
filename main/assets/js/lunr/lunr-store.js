@@ -606,7 +606,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Brugeroprettelse",
-        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Brugeroprettelse Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/people/registration Minimumsalder for selvoprettelse som låner Standardværdi er 18 år. URL til brugeroprettelsesside Standardværdi er /opret-bruger. Ændrer man værdien i dette felt, påvirker man, hvor “Opret bruger” linket på Login panelet peger hen. Vises som...","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Brugeroprettelse Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/people/registration Vises som et link på brugerprofilen Minimumsalder for selvoprettelse som låner Standardværdi er 18 år. Feltnavn Standardværdi Minimumsalder for selvoprettelse som låner 18 URL til brugeroprettelsesside Standardværdi er /opret-bruger. Det bør man ikke ændre...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/main/konfiguration/brugeroprettelse/",
         "teaser": null
