@@ -8,7 +8,7 @@ I topmenuen klik på **{{ page.click-path }}**
 Eller åbn via URL (udskift mit-domænenavn.dk):\
 `https://mit-domænenavn.dk/admin/config/people/registration`
 
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/a0344283-1367-4d2b-8984-5ed9f93e7b44" alt="Vises som et link på brugerprofilen" caption="Vises som et link på brugerprofilen" %}
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/a0344283-1367-4d2b-8984-5ed9f93e7b44" alt="Indstillinger for brugeroprettelse" caption="Indstillinger for brugeroprettelse" %}
 
 ## Minimumsalder for selvoprettelse som låner
 Standardværdi er 18 år. 
@@ -24,7 +24,7 @@ Standardværdi er `/opret-bruger`. Det bør man ikke ændre på, da det skal mat
 |---|---|
 |URL til brugeroprettelsesside|Standardværdi er `/opret-bruger`|
 
-{% include figure class="fifty" image_path="https://github.com/user-attachments/assets/c09164f6-74d3-4d65-a38f-7b8003945464" alt="Vises som et link på brugerprofilen" caption="Vises som et link på brugerprofilen" %}
+{% include figure class="thirty" image_path="https://github.com/user-attachments/assets/c09164f6-74d3-4d65-a38f-7b8003945464" alt="Her styrer du hvilken URL som 'Opret bruger' linket skal pege på" caption="Her styrer du hvilken URL som 'Opret bruger' linket skal pege på" %}
 
 ## Side som låner omdirigeres til ved oprettelse
 Standardværdi er `/velkommen`. Det bør man ikke ændre på, da det skal matche URL på den [faste side](https://www.folkebibliotekernescms.dk/main/indhold/faste-sider/) "Velkommen".
