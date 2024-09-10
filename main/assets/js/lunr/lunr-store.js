@@ -605,6 +605,12 @@ var store = [{
         "url": "/main/indhold/webforms/",
         "teaser": null
       },{
+        "title": "Brugeroprettelse",
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Brugeroprettelse Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/people/registration Minimumsalder for selvoprettelse som låner Standardværdi er 18 år. URL til brugeroprettelsesside Standardværdi er /opret-bruger. Ændrer man værdien i dette felt, påvirker man, hvor “Opret bruger” linket på Login panelet peger hen. Vises som...","categories": ["Konfiguration"],
+        "tags": [],
+        "url": "/main/konfiguration/brugeroprettelse/",
+        "teaser": null
+      },{
         "title": "FBS indstillinger",
         "excerpt":"I topmenuen klik på Indstillinger &gt; Web-services &gt; FBS indstillinger   Eller åbn via URL (udskift mit-domænenavn.dk):  https://mit-domænenavn.dk/admin/config/services/fbs   Om FBS indstillinger  Opsæt forbindelse til bibliotekssystemet.   Anbefalede indstillinger for FBS                  Feltnavn       Værdi                       FBS Service URL       https://fbs-openplatform.dbc.dk                  FBS Service URL        ","categories": ["Konfiguration"],
         "tags": [],
