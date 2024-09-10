@@ -24,11 +24,12 @@ Standardværdi er `/opret-bruger`. Det bør man ikke ændre på, da det skal mat
 |---|---|
 |URL til brugeroprettelsesside|Standardværdi er `/opret-bruger`|
 
-{% include figure class="thirty" image_path="https://github.com/user-attachments/assets/c09164f6-74d3-4d65-a38f-7b8003945464" alt="Her styrer du hvilken URL som 'Opret bruger' linket skal pege på" caption="Her styrer du hvilken URL som 'Opret bruger' linket skal pege på" %}
+{% include figure class="thirty" image_path="https://github.com/user-attachments/assets/c09164f6-74d3-4d65-a38f-7b8003945464" alt="Her styrer du, hvilken URL som 'Opret bruger' linket skal pege på" caption="Her styrer du, hvilken URL som 'Opret bruger' linket skal pege på" %}
 
 ## Side som låner omdirigeres til ved oprettelse
 Standardværdi er `/velkommen`. Det bør man ikke ændre på, da det skal matche URL på den [faste side](https://www.folkebibliotekernescms.dk/main/indhold/faste-sider/) "Velkommen".
 Denne side vises til brugere, der netop har oprettet sig med MitID på bibliotekets hjemmeside.
+
 |Feltnavn|Standardværdi|
 |---|---|
 |Side som låner omdirigeres til ved oprettelse|Standardværdi er `/velkommen`|
