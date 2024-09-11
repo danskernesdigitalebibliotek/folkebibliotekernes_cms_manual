@@ -14,5 +14,6 @@ Releasedato: 12-09-2024
 - Oversættelser: Nu muligt at oversætte teksten “Switch to results for the library materials” som vises på søgesiden for redaktionelt indhold og linker til materialesøgningen.
 - Find-på-hylden-modal: Placeringsstreng nu med forfatternavn.
 - Find-på-hylden-modal (Mobilvisning): Tal, som angiver antallet af materialer hjemme, har nu fået tilføjet labellen "hjemme", så der ikke kun står et tal.
+- Find-på-hylden-modal (Mobilvisning): Fejl rettet hvor teksindhold ombrydes udheldigt på mobilvisning. 
 - Proxy-url bliver nu igen vist på diverse e-materialer konfigureret under proxyopsætning (admin/config/services/dpl-url-proxy). 
 - Huskeliste: Fejl rettet hvor brugere vises fejlmeddelelse ved forsøg på at tilgå huskeliste. 
