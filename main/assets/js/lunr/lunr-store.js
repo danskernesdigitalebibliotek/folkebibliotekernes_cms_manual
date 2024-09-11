@@ -869,6 +869,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-36-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.37.0",
+        "excerpt":"Fejl rettet i relation til huskeliste, proxyopsætning m.m. Releasedato: 12-09-2024 Fejlrettelser og forbedringer Filtre på redaktionelt indhold: Nu muligt at nulstille filtre på /admin/content/eventserie som på /admin/content. Oversættelser: Nu er det muligt at oversætte teksten “Switch to results for the library materials” som vises på søgesiden for redaktionelt indhold og...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-37-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
