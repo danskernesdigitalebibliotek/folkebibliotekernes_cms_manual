@@ -6,7 +6,7 @@ weight: 975
 
 # Fejl rettet i relation til huskeliste, proxyopsætning m.m. 
 
-Releasedato: 12-09-2024
+Releasedato: 12-09-2024 (ikke webmasterbiblioteker)
 
 ## Fejlrettelser og forbedringer
 
