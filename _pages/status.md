@@ -4,7 +4,7 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 12/9 Alle produktionssites er nu opdateret til 2024.37.0
+## 12/9 Alle sites (bortset fra webmasterbiblioteker) er nu opdateret til 2024.37.0
 Husk I kan se releasenotes her: https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-37-0/
 ## 6/9 kl. 13.40 Alle sites er nu opdateret
 ### Lige nu er webmasterbiblioteker på prod 35.1 og modultest 36.0.
