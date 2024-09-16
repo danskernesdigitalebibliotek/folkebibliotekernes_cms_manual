@@ -44,8 +44,11 @@ Når jeres Place2book integration er opsat korrekt, skal I arbejde med arrangeme
 Kan I ikke vente en time? [Læs her, hvordan man kan gennemtvinge en opdatering via Place2books hjemmeside.](https://www.folkebibliotekernescms.dk/main/indhold/place2book/#gennemtving-opdatering-af-arrangementer-i-place2book)
 
 ### Arrangementer med billet og Kultunaut
+
+**VIGTIGT:** Kultunaut trækker information om alle jeres arrangementer direkte fra jeres hjemmeside uden at involvere Place2book. Derfor er det unødvendigt at bruge Place2books Kultunaut-eksport. [Læs mere om den direkte Kultunaut-eksport.](https://www.folkebibliotekernescms.dk/main/indhold/kultunaut/)
+{: .notice--info}
+
 Place2book kan videresende oplysninger om arrangementer til Kultunaut, men det sker ikke automatisk.
-Bemærk! Der arbejdes på en direkte integration mellem Folkebibliotekernes CMS og Kultunaut, så Place2book ikke behøver være mellemmand.
 
 For hvert arrangement, der skal videresendes til Kultunaut, skal I gør følgende:
 
