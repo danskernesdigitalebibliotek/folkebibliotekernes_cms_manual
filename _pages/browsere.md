@@ -19,7 +19,7 @@ Vi kan ikke understøtte alle browsere og udgaver deraf, da teknologien i de for
 
 De fleste browsere er bygget på samme kodebase (Chromium), og derfor vil hjemmesiderne fungere fint på de fleste andre browser-alternativer.
 
-# Hvad skal vi gøre med brugere, som ikke har en browser, der er understøttet?
+## Hvad skal vi gøre med brugere, som ikke har en browser, der er understøttet?
 Hvis brugeren ikke har opdateret til seneste stabile version af browseren, så skal det kraftigt anbefales, at brugeren opdaterer straks, og får indstillet sine enheder til automatisk at opdatere programmer. Det er for brugerens egen sikkerheds skyld.
 
 [Læs sikkerdigital.dk's råd om at opdatere programmer](https://www.sikkerdigital.dk/borger/tekniske-setup/opdater-dine-programmer)
