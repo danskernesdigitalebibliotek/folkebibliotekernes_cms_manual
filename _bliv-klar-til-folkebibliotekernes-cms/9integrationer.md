@@ -31,20 +31,16 @@ Vi arbejder på at det bliver muligt at oprette forskellige brugertyper på Folk
 Der vil i Folkebibliotekernes CMS ikke være et specifikt nyhedsbrevsmodul. Derfor er det vigtigt at tænke ind om I kan linke til en nyhedsbrevsløsning et andet sted.
 
 ### Webforms/kontaktfomularer
-Det er besluttet at Webforms, som vi kender fra DDB CMS, også bliver en del af Folkebibliotekernes CMS. MEN det bliver udviklet til sidst og vil ikke være klar, når piloterne går live. 
-
-Om det er et stort eller lille problem for jer afhænger af, hvor meget I bruger formularer.
-Formularer bruges typisk til kontaktformularen og diverse tilmeldningsformularer. 
-
-Hvis I er et bibliotek, der bruger formularer meget, kan det være en idé, at have en plan B
-- Undersøg om jeres kommune abonnerer på et formularværktøj som f. eks. SurveyExact, som I må bruge.
-- Københavns Biblioteker siger at biblioteker der abonnerer på X-Flow til børneoprettelse, kan lave formularer derigennem (mangler verificering).
+Webforms, som vi kender fra DDB CMS, findes også i Folkebibliotekernes CMS. 
 
 ### Storskærmsintegrationer
 Måske har I i dag en storskærmsløsning som hiver fx arrangementer fra jeres hjemmeside. Jeres leverandør af storskærmsløsningen kan gøre brug af det nye arrangements API til at hente data og udstille dem. [Læs mere om arrangements API'et her.](https://www.folkebibliotekernescms.dk/main/bliv-klar-til-folkebibliotekernes-cms/9integrationer/#arrangements-api-til-brug-for-eksterne-systemer)
 
 ### APP
-I det nuværende DDBCMS kan man vinge af at arrangementer, nyheder og åbningstider kan vises på Biblioteket APP’en. Vi arbejder på at denne mulighed også bliver muligt i det nye CMS.
+Fra DDBCMS kan arrangementer, nyheder og åbningstider automatisk blive overført og vist i Biblioteket APP’en. Det virker ikke i Folkebibliotekernes CMS.
+
+Hvis I vil have åbningstider vist i appen, må I indtaste dem manuelt i Redias backend-system for biblioteker: [https://biblioteket.redia.dk/](https://biblioteket.redia.dk/){:target="_blank"}. 
+Læs Redias vejledning om at oprette åbningstider: [https://support.redia.dk/fanen-%C3%A5bningstider-og-kontaktoplysninger](https://support.redia.dk/fanen-%C3%A5bningstider-og-kontaktoplysninger){:target="_blank"}.
 
 ### IMS
 I KOMBIT regi arbejdes der på en løsning hvor IMS placeringsstrenge sendes fra IMS over i FBS og derfra videre til Folkebibliotekernes CMS / Biblioteket App via FBS CMS Adapteren. Det eksisterende IMS-modul til DDB CMS kan ikke bruges i Folkebibliotekernes CMS og det vil ikke blive videreudviklet.
