@@ -37,10 +37,10 @@ Jeres site fødes med kun én værdi. Det er "180-6 måneder". Det betyder en in
 2. Nu gemmer I formularen. Tryk på **Gem indstillinger** nederst på siden.
 3. Nu er de nye interesseperioder gemt som valgmuligheder, som slutbrugerne kan vælge imellem på dreres reserveringer.
 
-### Default interesseperiode for reserveringer
-Efter I har gemt bliver de nye interesseperiode tilgængelige i **Default interesseperiode for reserveringer** dropdown. Vælg den nye default-interesseperiode og tryk så igen på **Gem indstillinger** nederst på siden. 
+### Standard interesseperiode for reserveringer
+Efter I har gemt bliver de nye interesseperiode tilgængelige i **Standard interesseperiode for reserveringer** dropdown. Vælg den nye default-interesseperiode og tryk så igen på **Gem indstillinger** nederst på siden. 
 
-{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/800a5193-e413-473f-8dd6-4e0cb78a53b5" alt="Default interesseperiode for reserveringer" caption="Default interesseperiode for reserveringer" %} 
+{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/800a5193-e413-473f-8dd6-4e0cb78a53b5" alt="Standard interesseperiode for reserveringer" caption="Standard interesseperiode for reserveringer" %} 
  
 ## Tillad sletning af opfyldte reserveringer
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/25a42b99-47fa-468d-af1e-b5ad3dc11667" alt="Angiv her, om I vil tillade at brugerne sletter opfyldte reserveringer" caption="Angiv her, om I vil tillade at brugerne sletter opfyldte reserveringer" %} 
@@ -81,7 +81,7 @@ Er som standard korrekt udfyldt. Den skal der ikke pilles ved.
 ## Advarsel om at udløbsdato nærmer sig
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c63dc258-09e6-4456-8791-e3444e7c74f6" alt="Advarsel om at udløbsdato nærmer sig" caption="Advarsel om at udløbsdato nærmer sig" %} 
 
-Materialer, der snart skal afleveres, vises fremhævet på brugerens dashboard. I bestemmer, hvor mange dage før afleveringsfristen at denne fremhævning starter.
+Materialer, der snart skal afleveres, vises fremhævet på brugerens dashboard. I bestemmer, hvor mange dage før afleveringsfriste,n at denne fremhævning starter.
 
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2ac3dcb8-8c9a-4b57-a844-dc5f6663fafc" alt="Sådan fremhæves materialer der snart skal afleveres på dashboard" caption="Sådan fremhæves materialer der snart skal afleveres på dashboard" %} 
 
@@ -100,12 +100,12 @@ de pågældende filialer.
 - Blacklist i **Tilgængelighhed** hvis filialens materialer ikke skal indgå  i beholdningsvisning og heller ikke indgå når tilgængelighed beregnes
 - Blacklist i **Afhentningsbibliotek** så det ikke bliver muligt for slutbrugere at vælge filialen som afhentningsbibliotek 
 
-## FBI Profiles
+## VIP profiler
 Inden I kan udfylde disse felter skal I have oprettet de to påkrævede [søge- og visningsprofiler i VIP]({{ site.baseurl }}{% link _bliv-klar-til-folkebibliotekernes-cms/10vip-profiler.md %}).
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d8edea7f-ba6c-4b1e-b1b1-47487c9630e0" alt="Udfyld de to øverste felter med navnet på søgeprofilen. Nederste felt udfyldes med navnet på visningsprofilen" caption="Udfyld de to øverste felter med navnet på søgeprofilen. Nederste felt udfyldes med navnet på visningsprofilen" %} 
 
-### Anbefalede indstillinger for FBI Profiles
+### Anbefalede indstillinger for VIP profiler
 
 |Feltnavn|Værdi|
 |---|---|
