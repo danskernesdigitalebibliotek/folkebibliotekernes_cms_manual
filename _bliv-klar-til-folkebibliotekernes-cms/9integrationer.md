@@ -40,20 +40,30 @@ Måske har I i dag en storskærmsløsning som hiver fx arrangementer fra jeres h
 Fra DDBCMS kan arrangementer, nyheder og åbningstider automatisk blive overført og vist i Biblioteket APP’en. Det virker ikke i Folkebibliotekernes CMS.
 
 Hvis I vil have åbningstider vist i appen, må I indtaste dem manuelt i Redias backend-system for biblioteker: [https://biblioteket.redia.dk/](https://biblioteket.redia.dk/){:target="_blank"}. 
+
 Læs Redias vejledning om at oprette åbningstider: [https://support.redia.dk/fanen-%C3%A5bningstider-og-kontaktoplysninger](https://support.redia.dk/fanen-%C3%A5bningstider-og-kontaktoplysninger){:target="_blank"}.
 
 ### IMS
 I KOMBIT regi arbejdes der på en løsning hvor IMS placeringsstrenge sendes fra IMS over i FBS og derfra videre til Folkebibliotekernes CMS / Biblioteket App via FBS CMS Adapteren. Det eksisterende IMS-modul til DDB CMS kan ikke bruges i Folkebibliotekernes CMS og det vil ikke blive videreudviklet.
 
 ## Arrangements API til brug for eksterne systemer
-Folkebibliotekernes CMS tilbyder alle typer eksterne systemer at hente de arrangementer, der hører til det enkelte bibliotek. Disse systemer kan eksempelvis være:
+Folkebibliotekernes CMS tilbyder alle typer eksterne systemer at hente arrangementer direkte fra hvert biblioteks hjemmeside. 
+
+Disse systemer kan eksempelvis være:
 -	Billetsystemer (Place2Book, Biletto, YourTicket m.fl.)
 -	Kultunaut
 -	Storskærms-systemer
   
 Vores system tilbyder følgende:
-- **Hent arrangementer:** Åben snitflade som alle kan bruge. Det eksterne system henter alle arrangementer, som det enkelte bibliotek tilbyder. Det eksterne system kan udfra denne liste selv deducere, hvilke arrangementer, der er nyoprettede, og hvilke der nu mangler (aflyste arrangementer)
-- **Opdater arrangement:** Billetsystemer skal kunne melde få data tilbage til Folkebibliotekernes CMS, herunder URL til arrangementet i billetsystemet og status (udsolgt m.v.). Det eksterne system skal etablere en system-til-system integration til Folkebibliotekernes CMS for at kunne benytte denne funktionalitet. Kontakt os for aftale herom.
+
+**Hent arrangementer:** Åben snitflade som alle kan bruge. Det eksterne system henter alle arrangementer, som det enkelte bibliotek tilbyder. Det eksterne system kan udfra denne liste selv deducere, hvilke arrangementer, der er nyoprettede, og hvilke der nu mangler (aflyste arrangementer)
+
+Arrangementer er tilgængelige i JSON-format for hvert bibliotek via denne URL (udskift mit-domænenavn.dk): \
+`https://mit-domænenavn.dk/api/v1/events`
+
+**Opdater arrangement:** Billetsystemer kan melde få data tilbage til Folkebibliotekernes CMS, herunder URL til arrangementet i billetsystemet og status (udsolgt m.v.). Det eksterne system skal etablere en system-til-system integration til Folkebibliotekernes CMS for at kunne benytte denne funktionalitet. Kontakt os for aftale herom.
+
+Yderligere dokumentation kan findes her:
 
 Dokumentation: [https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/event-integration/](https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/event-integration/)
 
