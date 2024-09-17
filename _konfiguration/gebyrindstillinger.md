@@ -13,6 +13,13 @@ Eller åbn via URL (udskift mit-domænenavn.dk):\
 Skal du i gang med gebyr-konfiguration? [Gå til klik-opgaven Indstillinger for gebyrside](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/indstillinger-for-gebyrside/).
 {: .notice--primary}
 
+## URL
+URL til informationsside om gebyrtakster, erstatninger og betaling. Der linkes til denne side flere steder, bla. fra Gebyrer & Erstatninger, men også fra materialer, som er ved at udløbe.
+
+Som standard linkes til [**Takster**](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/takster/), der er navnet på en [fast side](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/faste-sider/) som Folkebibliotekernes CMS leveres med.
+
+Ønsker I at linke til en anden side, indsætter I bare en anden URL i feltet.
+
 ## Indledende tekst
 Indledende tekst, som vises øverst på brugernes oversigt over "Gebyrer & erstatninger". Efterlades feltet tomt, vises teksten "Gebyrer og erstatninger håndteres via Mit betalingsoverblik". Standardteksten erstattes automatisk, af det du skriver.
 
