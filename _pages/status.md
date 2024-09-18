@@ -7,8 +7,8 @@ nav: "overblik"
 ## 18/9 Ekstraordinær opdatering 23-25/9
 Vi udruller en ekstraordinær opdatering, der skal forbedre vores ressourceforbrug på driftsplatformen. Den rulles ud til hjemmesiderne over flere dage fra mandag den 23/9 til onsdag den 25/9. Opdateringen påvirker ikke det, som webmasterbibliotekerne selv har installeret på produktionssiderne.
 De to releases kommer til at hedde:
-- `2024.38.2` til redaktørbiblioteker og modultest sites for webmasterbiblioteker
-- `2024.35.2` til produktionssites for webmasterbiblioteker.
+- 2024.38.2 til redaktørbiblioteker og modultest sites for webmasterbiblioteker
+- 2024.35.2 til produktionssites for webmasterbiblioteker.
 ## 12/9 Alle sites (bortset fra webmasterbiblioteker) er nu opdateret til 2024.37.0
 Husk I kan se releasenotes her: https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-37-0/
 ## 6/9 kl. 13.40 Alle sites er nu opdateret
