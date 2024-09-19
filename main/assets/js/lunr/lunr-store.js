@@ -875,6 +875,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-37-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.38.1",
+        "excerpt":"Åbningstider vises i modal, bedre overblik over eksisternde tags og fritekstsøgning på indholdslister m.m. Releasedato: 19-09-2024 Nye features Fritekstsøgning på indholdslisterne /artikler og /arrangementer Tags: Nu muligt at få overblik over hvilke tags der i forvejen er oprettet i forbindelse med tagging af indhold. Paragraph hero: Trækker automatisk indhold fra...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-38-1/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
