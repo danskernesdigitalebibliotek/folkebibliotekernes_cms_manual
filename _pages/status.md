@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 20/9 Alle sites (bortset fra webmasterbiblioteker) er nu opdateret til 2024.38.1
+Husk I kan se releasenotes her: https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-38-1/
 ## 18/9 Ekstraordinær opdatering 23-25/9
 Vi udruller en ekstraordinær opdatering, der skal forbedre vores ressourceforbrug på driftsplatformen. Den rulles ud til hjemmesiderne over flere dage fra mandag den 23/9 til onsdag den 25/9. Opdateringen påvirker ikke det, som webmasterbibliotekerne selv har installeret på produktionssiderne.
 De to releases kommer til at hedde:
