@@ -8,7 +8,7 @@ nav: "overblik"
 Hvis I oplever fejl af brugsmæssig eller teknisk karakter, er der en række trin, vi opfordrer jer til at følge:  
 
 1. Læser og søger i manualen og ser, om der allerede er beskrevet en løsning på problemet.  
-2. Spørger ud i jeres CB-netværksgrupper eller via den selvbestaltede Facebook-gruppe ’DDB CMS for praktikere’.  
+2. Spørger ud i jeres CB-netværksgrupper eller via den selvbestaltede Facebook-gruppe ’Folkebibliotekernes CMS for praktikere’.  
 3. Søger under anmodning/request i [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk){:target="_blank"} for at se, om der er tale om en kendt fejl, der allerede er indmeldt i servicedesk. 
 4. Indmelder fejlen i [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk){:target="_blank"}
 
