@@ -18,7 +18,7 @@ Hvis man har problemer med at kontaktformularen ikke virker fx ved at den ikke v
 [Læs om elementerne man kan tilføje her](https://www.folkebibliotekernescms.dk/main/indhold/webforms/#s%C3%A5dan-bygger-du-en-webformular). Følg ikke resten af guiden.
 
 Den tidligere kontaktformular er opbygget på denne måde:
-{% include figure class="thirty" image_path="https://github.com/user-attachments/assets/9db1ab86-1e05-461f-a5d4-2c7d83f6e479" alt="Tilføj formularelementer" caption="Tilføj formularelementer" %}
+{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/9db1ab86-1e05-461f-a5d4-2c7d83f6e479" alt="Tilføj formularelementer" caption="Tilføj formularelementer" %}
 
 ## 2. Opsæt modtagere af mails
 
