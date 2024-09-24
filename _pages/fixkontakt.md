@@ -7,15 +7,11 @@ nav: "overblik"
 Hvis man har problemer med at kontaktformularen ikke virker fx ved at den ikke vil sende eller modtage mails, så følg denne guide.
 
 ## 1. Opret en ny kontaktformular
-1. I topmenuen klik på **Struktur > Webformularer** eller åbn `https://mit-domænenavn.dk/admin/structure/webform` (udskift mit-domænenavn.dk)
-
-Du kommer ind på en oversigt over webformularer, som du har oprettet. Her ligger også jeres gamle **Kontaktformular**. 
-
+1. I topmenuen klik på **Struktur > Webformularer** eller åbn `https://mit-domænenavn.dk/admin/structure/webform` (udskift mit-domænenavn.dk). Du kommer ind på en oversigt over webformularer, som du har oprettet. Her ligger også jeres gamle **Kontaktformular**. 
 2. Klik på **Tilføj webform** i øverste højre hjørne.
 3. Udfyld **Titel**, **Administrativ beskrivelse** (vises ikke for brugerne) og **Status**, som afgør om formularen er åben for besvarelse eller lukket for besvarelse.
 4. Nu kan du tilføje **Elementer** til formularen. Klik på knappen øverst til højre.
-
-Hvis man gerne vil have at kontaktformularen sender mails til bestemte mail efter hvilken kategori, som borgerne vælger, så skal man tilføje en **Term select**. Giv den nøglen **Kategori**. Læs mere i punktet herunder **2. Opsæt modtagere af mails**.
+5. Hvis man gerne vil have at kontaktformularen sender mails til bestemte mail-adresser efter hvilken kategori, som borgerne vælger, så skal man tilføje en **Term select**. Giv den nøglen **Kategori**. Læs mere i punktet herunder **2. Opsæt modtagere af mails**. Den skal have **Webform email categories** i feltet **Ordforråd**.
 
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/b0beaba4-9869-4886-ad10-61784e1e85b7" alt="Nøgle skal være kategori" caption="Nøgle skal være kategori" %}
 
@@ -26,14 +22,16 @@ Den tidligere kontaktformular er opbygget på denne måde:
 
 ## 2. Opsæt modtagere af mails
 
-*Husk at **Term select** skal være tilføjet til webformularen i det foregående punkt. Denne **skal** have nøglen **kategori**.*
+Husk at man gerne vil have at kontaktformularen sender mails til bestemte mail-adresser efter hvilken kategori, som borgerne vælger, så skal **Term select** være tilføjet til webformularen i det foregående punkt. Læs mere i det foregående punkt.
 
 I **Send til** feltet vælg **Custom To email address** og indtast `[webform_submission:values:kategori:entity:field_email:value]`. 
+
 [Læs denne guide om hvordan man ændrer kategorierne](https://www.folkebibliotekernescms.dk/main/startopsaetning/kontaktformular/#1-opret-de-korrekte-email-kategorier) 
+
 Dette er en global liste for alle webformularer, så er den samme uanset hvor man sætter den ind. Den er tænkt, som en mulighed på jeres kontaktformular.
 
 ## 3. Opsæt kvitteringsside / kvitteringsbesked
-1. Opsæt kvitteringsside eller kvitteringsbesked ved at åbne formularens **Indstillinger** og så **Bekræftelse**
+Opsæt kvitteringsside eller kvitteringsbesked ved at åbne formularens **Indstillinger** og så **Bekræftelse**
    {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/da8767c8-42be-49cb-af1d-27335a066ef8" alt="Tilføj formularelementer" caption="Tilføj formularelementer" %}
 
 Er kvitteringsteksten meget kort, kan den vises som en besked øverst på formularen (message). Er kvitteringsteksten længere fungerer det bedre, at vise den som en selvstændig side (inline).
