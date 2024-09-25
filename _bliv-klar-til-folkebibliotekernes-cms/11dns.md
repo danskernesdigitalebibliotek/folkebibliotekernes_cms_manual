@@ -24,11 +24,11 @@ Sådan gør du:
 9. Efter golive:\
    a. I skal bede jeres DNS udbyder om at hæve TTL på jeres domæner igen.
 10. Bed den teknisk ansvarlige om at teste, at alle dele af den nye opsætning fungerer: e-mail, domæne omdirigeringer, certifikater m.m.
+11. Efter golive kan I finde den gamle hjemmeside på adressen **[kommune].ddbcms.dk** Her vil den være tilgængelig indtil jeres kontrakt med DBC udløber.
 
 I skal ikke gøre noget ifm. **SSL certifikater**, som dannes fra vores side vha. Lets Encrypt af Reload. I kan dog først de dem efter go live.
 {: .notice--primary}
 
-   
 Hvis I ønsker at købe nye domænenavne eller tjekke oplysninger for eksisterende, sker det her: punktum.dk (tidligere kaldet DK-Hostmaster)
 Bemærk at nye .dk domæner både kan købes hos Punktum.dk samt via forhandlere af webhotel, typisk som en del af en pakke. 
 
