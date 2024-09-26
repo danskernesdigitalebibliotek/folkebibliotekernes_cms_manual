@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 26/9 Alle sites er nu opdateret til 2024.39.1
+Husk I kan se releasenotes her: https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-39-0/
 ## 23/9 ”Find på hylden” på værker uden ophav giver fejlmeddelelse
 Efter opgradering til 2024.38.1 udløser klik på ”Find på hylden” fejlmeddelelse på tidsskrifter og titler uden forfatter. Fejlen bliver løst i denne uge i release 2024.38.2.
 ## 20/9 Alle sites (bortset fra webmasterbiblioteker) er nu opdateret til 2024.38.1
