@@ -881,6 +881,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-38-1/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.39.0",
+        "excerpt":"Nye fejlrettelser og forbedringer Releasedato: 26-09-2024 Fejlrettelser og forbedringer Beholdningsstatus: Oplysninger om antal eksemplarer af materiale hjemme (under reserverknap) vises nu også for brugere der ikke er logget ind. Huskeliste: Materialer med hvidt hjerteikon kan nu fjernes fra huskeliste Reservation: Tidsskrifter med volumenen nr. kan nu reserveres. Modal “Find på...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-39-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
