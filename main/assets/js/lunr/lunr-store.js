@@ -881,7 +881,7 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-38-1/",
         "teaser": null
       },{
-        "title": "Release Notes 2024.39.0",
+        "title": "Release Notes 2024.39.1",
         "excerpt":"Nye fejlrettelser og forbedringer Releasedato: 26-09-2024 (Både redaktør- og webmasterbiblioteker opdateres) Fejlrettelser og forbedringer Beholdningsstatus: Oplysninger om antal eksemplarer af materiale hjemme (under reserverknap) vises nu også for brugere, der ikke er logget ind. Huskeliste: Materialer med hvidt hjerteikon kan nu fjernes fra huskeliste. Reservation: Tidsskrifter med volumenen nr. kan...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-39-0/",
