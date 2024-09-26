@@ -6,8 +6,7 @@ weight: 370
 
 # Nye fejlrettelser og forbedringer
 
-Releasedato: 26-09-2024
-
+Releasedato: 26-09-2024 (Både redaktør- og webmasterbiblioteker opdateres)
 
 ## Fejlrettelser og forbedringer
 
