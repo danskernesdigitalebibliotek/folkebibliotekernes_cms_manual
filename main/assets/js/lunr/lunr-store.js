@@ -762,7 +762,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes",
-        "excerpt":"Hold dig ajour med de ændringer der sker i Folkebibliotekernes CMS. I sommerperioden uge 28-32 vil der ikke komme faste ugentlige releases, men der vil efter behov blive rullet ny udvikling og rettelser på. Vi vil forsøge at skrive så hurtigt som muligt, hvad der er rettet og udviklet, så...","categories": [],
+        "excerpt":"Hold dig ajour med de ændringer der sker i Folkebibliotekernes CMS.   Se hvilken release i er på  Når du er logget ind, så kan du se hvilken release, som jeres side er på øverst til venstre i menubaren.          Se hvilken release jeres side er på        ","categories": [],
         "tags": [],
         "url": "/main/overblik/release-notes/",
         "teaser": null
