@@ -1,6 +1,6 @@
 ---
 permalink: /overblik/releasedatoer
-title:  "Releasedatoer"
+title:  "Release datoer"
 sidebar: true
 nav: "overblik"
 ---
@@ -10,4 +10,4 @@ Webmasterbibliotekernes moduletestsites opdateres ugentligt om torsdagen - næst
  
 Webmasterbibliotekernes produktionssites opdateres den sidste torsdag i måneden - næste gang torsdag i uge 44
  
-Er du i tvivl om hvilken release, I er på, så kan du læse mere her: https://www.folkebibliotekernescms.dk/main/overblik/release-notes/
+Er du i tvivl om hvilken release, I er på, så kan du læse mere i [release notes](https://www.folkebibliotekernescms.dk/main/overblik/release-notes/)
