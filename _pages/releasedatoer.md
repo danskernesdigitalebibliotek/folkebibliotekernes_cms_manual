@@ -1,0 +1,13 @@
+---
+permalink: /overblik/releasedatoer
+title:  "Releasedatoer"
+sidebar: true
+nav: "overblik"
+---
+Redaktørbibliotekernes sites opdateres ugentligt om torsdagen - næste gang torsdag i uge 40
+ 
+Webmasterbibliotekernes moduletestsites opdateres ugentligt om torsdagen - næste gang torsdag i uge 40
+ 
+Webmasterbibliotekernes produktionssites opdateres den sidste torsdag i måneden - næste gang torsdag i uge 44
+ 
+Er du i tvivl om hvilken release, I er på, så kan du læse mere her: https://www.folkebibliotekernescms.dk/main/overblik/release-notes/
