@@ -19,7 +19,9 @@ header:
       url: "/overblik/pr-pakke"
     - label: "Status på udvikling og fejlrettelser"
       url: "/overblik/status"
-
+    - label: "Release datoer"
+      url: "/overblik/releasedatoer"
+      
 excerpt: "Manual, tidsplan og information om Folkebibliotekernes CMS."
 
 feature_row:
