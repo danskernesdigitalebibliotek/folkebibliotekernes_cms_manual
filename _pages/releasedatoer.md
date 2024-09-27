@@ -1,6 +1,6 @@
 ---
 permalink: /overblik/releasedatoer
-title:  "Release datoer"
+title:  "Releasedatoer"
 sidebar: true
 nav: "overblik"
 ---
