@@ -21,6 +21,8 @@ header:
       url: "/overblik/status"
     - label: "Releasedatoer"
       url: "/overblik/releasedatoer"
+    - label: "Indberetning af udviklingsønsker "
+      url: "/overblik/udviklingsoensker"
       
 excerpt: "Manual, tidsplan og information om Folkebibliotekernes CMS."
 
