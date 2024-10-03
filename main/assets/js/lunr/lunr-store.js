@@ -887,6 +887,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-39-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.40.1",
+        "excerpt":"Nye fejlrettelser og forbedringer Releasedato: 03-10-2024 (Rdaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Kun testsite opgraderes) Fejlrettelser og forbedringer Tags: Tags på redaktionelt indhold linker til søgeside som lister indhold opmærket med samme tag. Bemærk at der pt. ikke vises tags på indholdstypen side endnu. Nu muligt at linke til avanceret søgning hvor...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-40-1/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
