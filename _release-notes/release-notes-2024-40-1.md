@@ -6,7 +6,9 @@ weight: 369
 
 # Nye fejlrettelser og forbedringer
 
-Releasedato: 03-10-2024 (Rdaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Kun testsite opgraderes)
+Releasedato: 03-10-2024 
+
+Hvad opgraderes: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Kun testsite opgraderes. 
 
 ## Fejlrettelser og forbedringer
 
