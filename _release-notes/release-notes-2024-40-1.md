@@ -14,4 +14,4 @@ Hvad opgraderes: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbib
 
 - Tags: Tags på redaktionelt indhold linker til søgeside, som lister indhold opmærket med samme tag. Bemærk at der pt. ikke vises tags på indholdstypen side endnu. 
 
-- Nu muligt at linke til avanceret søgning hvor der er filtreret på "onshelf", "location" og "sublocation". Det har været en redaktionelt efterspurgt ønske, at kunne linke til denne type søgninger fra f.eks. materialekomponenten. 
+- Nu muligt at linke til avanceret søgning hvor der er filtreret på "onshelf", "location" og "sublocation". Det har været et redaktionelt efterspurgt ønske, at kunne linke til denne type søgninger fra f.eks. materialekomponenten. 
