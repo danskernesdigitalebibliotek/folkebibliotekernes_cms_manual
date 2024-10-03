@@ -4,9 +4,9 @@ title:  "Releasedatoer"
 sidebar: true
 nav: "overblik"
 ---
-Redaktørbibliotekernes sites opdateres ugentligt om torsdagen - næste gang torsdag i uge 40
+Redaktørbibliotekernes sites opdateres ugentligt om torsdagen - næste gang torsdag i uge 41
  
-Webmasterbibliotekernes moduletestsites opdateres ugentligt om torsdagen - næste gang torsdag i uge 40
+Webmasterbibliotekernes moduletestsites opdateres ugentligt om torsdagen - næste gang torsdag i uge 41
  
 Webmasterbibliotekernes produktionssites opdateres den sidste torsdag i måneden - næste gang torsdag i uge 44
  
