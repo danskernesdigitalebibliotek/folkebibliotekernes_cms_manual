@@ -8,7 +8,7 @@ weight: 369
 
 Releasedato: 03-10-2024 
 
-Hvad opgraderes?: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Kun testsite opgraderes. 
+Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Kun testsite opgraderes. 
 
 ## Nye features
 
