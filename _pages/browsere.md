@@ -23,7 +23,7 @@ Hvis brugeren ikke har opdateret til seneste stabile version af browseren, så s
 
 [Læs sikkerdigital.dk's råd om at opdatere programmer](https://www.sikkerdigital.dk/borger/tekniske-setup/opdater-dine-programmer)
 
-Dette gælder også for gamle versioner af enhedernes styresystemer. Vi udvikler ikke til udgaver af styresystemer, men gamle versioner af styresystemer, kan blokere for nye opdateringer af programmer fx browseren. Derfor skal det kraftigt anbefales, at brugeren opdaterer straks, og får indstillet sine enheder til automatisk at opdatere styresystemet.
+Dette gælder også for gamle versioner af enhedernes styresystemer. Vi udvikler ikke til gamle udgaver af styresystemer, da gamle versioner af styresystemer, kan blokere for nye opdateringer af programmer fx browseren. Derfor skal det kraftigt anbefales, at brugeren opdaterer straks, og får indstillet sine enheder til automatisk at opdatere styresystemet.
 
 Sikkerdigital.dk skriver at det er vigtigt at opdatere, da "manglende opdatering af dine styresystemer, apps og programmer efterlade sikkerhedshuller, som giver digitale svindlere mulighed for alligevel at få adgang til dine enheder – nu blot ad bagvejen."
 
