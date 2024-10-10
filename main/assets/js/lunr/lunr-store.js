@@ -894,7 +894,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2024.41.0",
-        "excerpt":"Feed til appen og flere forbedringer og fejlrettelser Releasedato: 10-10-2024 Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Kun testsite opgraderes. Nye features Arrangementsfeed udviklet specifikt til appen “Biblioteket”. Dette er kun implementeret i CMS’et, og mangler stadig konfiguration i appen. Redia kontakter jer med mere information. Fejlrettelser og forbedringer...","categories": ["Release Notes"],
+        "excerpt":"Feed til appen og flere forbedringer og fejlrettelser Releasedato: 10-10-2024 Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Kun testsite opgraderes. Nye features Arrangementsfeed og åbningstidsfeed udviklet specifikt til appen “Biblioteket”. Dette er kun implementeret i CMS’et, og mangler stadig konfiguration i appen. Redia kontakter jer med mere information. Fejlrettelser...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-41-0/",
         "teaser": null
