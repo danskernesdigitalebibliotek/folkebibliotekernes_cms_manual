@@ -893,6 +893,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-40-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.41.0",
+        "excerpt":"Feed til appen og flere forbedringer og fejlrettelser Releasedato: 10-10-2024 Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Kun testsite opgraderes. Nye features Arrangementsfeed udviklet specifikt til appen “Biblioteket” (Redia). Fejlrettelser og forbedringer Listen over brugere (/admin/people), vil nu som standard kun vise redaktionelle brugere. Der vises ikke længere brugere...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-41-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
