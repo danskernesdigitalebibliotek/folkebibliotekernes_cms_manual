@@ -12,7 +12,7 @@ Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. 
 
 ## Nye features
 
-- Arrangementsfeed udviklet specifikt til appen "Biblioteket".
+- Arrangementsfeed udviklet specifikt til appen "Biblioteket". Dette er kun implementeret i CMS'et, og mangler stadig konfiguration i appen. Redia kontakter jer med mere information.
 
 
 ## Fejlrettelser og forbedringer
