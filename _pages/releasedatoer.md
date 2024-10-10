@@ -11,7 +11,7 @@ Redaktørbibliotekernes sites opdateres ugentligt om torsdagen. Næste opdaterin
  
 ## Webmasterbibliotek
 
-moduletestsites opdateres ugentligt om torsdagen - næste gang torsdag i uge 43 (Bemærk ingen udrulning i uge 42).
+Moduletestsites opdateres ugentligt om torsdagen - næste gang torsdag i uge 43 (Bemærk ingen udrulning i uge 42).
  
 Produktionssites opdateres den sidste torsdag i måneden - næste gang torsdag i uge 44.
  
