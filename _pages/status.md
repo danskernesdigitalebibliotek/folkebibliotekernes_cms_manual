@@ -4,6 +4,10 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 10/10 Alle sites (bortset fra webmasterbibliotekers produktionssites) er nu opdateret til 2024.41.1
+Husk I kan se releasenotes her: (https://www.folkebibliotekernescms.dk/main/overblik/release-notes/)
+### Uge 42 er der ingen ny release.
+
 ## 3/10 Alle sites (bortset fra webmasterbibliotekers produktionssites) er nu opdateret til 2024.40.0
 Husk I kan se releasenotes her: https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-40-0/
 ## 26/9 Alle sites er nu opdateret til 2024.39.1
