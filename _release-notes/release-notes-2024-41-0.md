@@ -12,7 +12,7 @@ Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. 
 
 ## Nye features
 
-Arrangementsfeed udviklet specifikt til appen "Biblioteket" (Redia).
+- Arrangementsfeed udviklet specifikt til appen "Biblioteket".
 
 
 ## Fejlrettelser og forbedringer
