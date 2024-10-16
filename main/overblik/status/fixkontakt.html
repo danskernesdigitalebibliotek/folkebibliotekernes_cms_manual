@@ -337,7 +337,7 @@
 
 <p>Man kan kun sende en kvitteringsemail til borgeren, hvis man har sørget for at oprette et <strong>påkrævet email-felt på formularen</strong>. Det gøres med felttypen <strong>Email</strong>.</p>
 
-<p>I <strong>Send til</strong> feltet vælg email-feltet fra formularen. Har du fulgt denne vejledning til oprettelse af fomrularen, så burde den hedde <strong>Din e-mailadresse</strong>.</p>
+<p>I <strong>Send til</strong> feltet vælg email-feltet fra formularen. Har du fulgt denne vejledning til oprettelse af formularen, så burde den hedde <strong>Din e-mailadresse</strong>.</p>
 <figure class="fifty"><img src="https://github.com/user-attachments/assets/35313895-1e2c-4def-8cfd-faa439b7bccc" alt="Vælg formularfeltet med borgerens email i &#39;Send til&#39;" /><figcaption>
       Vælg formularfeltet med borgerens email i ‘Send til’
 
@@ -346,21 +346,21 @@
 <p>Tilpas overskrift på emailen ved i <strong>Emne</strong> at vælge <strong>Custom subject</strong>.
 Tilpas brødteksten ved i <strong>Brødtekst</strong> at vælge <strong>Custom body</strong> og tilpasse teksten rundt om formulartokens. Formulartokens er placeholders for værdier indsendt via formularen. Man kan udfolde en komplet oversigt over alle tilgængelige formulartokens via et linket <strong>Gennemse tilgængelige tokens</strong>.</p>
 
-<p>Denne tekst kunne fx være:</p>
+<p>Denne tekst kunne fx være (husk at rette tokens til dem, som I har lavet):</p>
 
-<p>Kære [webform_submission:values:name]</p>
-
-<p>Mange tak for din henvendelse. Vi besvarer henvendelser indenfor X dage.</p>
-
-<p>Besked blev modtaget: [webform_submission:created]</p>
-
-<p>Din besked
-[webform_submission:values:subject</p>
-
-<p>[webform_submission:values:message]</p>
-
-<p>Med venlig hilsen
-Eksempel Bibliotekerne {: .notice–primary}</p>
+<p class="notice--primary">Kære [webform_submission:values:dit_navn]<br />
+<br />
+Mange tak for din henvendelse. Vi besvarer henvendelser indenfor X dage.<br />
+<br />
+<em>Besked blev modtaget: [webform_submission:created]</em><br />
+<br />
+<strong>Din besked</strong><br />
+[webform_submission:values:emne]<br />
+<br />
+[webform_submission:values:besked]<br />
+<br />
+Med venlig hilsen<br />
+Eksempel Bibliotekerne</p>
 
 <h2 id="4-opsæt-kvitteringsside--kvitteringsbesked">4. Opsæt kvitteringsside / kvitteringsbesked</h2>
 <p>Opsæt kvitteringsside eller kvitteringsbesked ved at åbne formularens <strong>Indstillinger</strong> og så <strong>Bekræftelse</strong></p>
