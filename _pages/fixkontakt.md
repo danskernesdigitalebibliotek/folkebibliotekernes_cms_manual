@@ -47,27 +47,28 @@ Tilføj en ny mailskabelon via **Indstillinger** og så **Emails/handlers**. Try
 
 Man kan kun sende en kvitteringsemail til borgeren, hvis man har sørget for at oprette et **påkrævet email-felt på formularen**. Det gøres med felttypen **Email**.
 
-I **Send til** feltet vælg email-feltet fra formularen. Har du fulgt denne vejledning til oprettelse af fomrularen, så burde den hedde **Din e-mailadresse**.
+I **Send til** feltet vælg email-feltet fra formularen. Har du fulgt denne vejledning til oprettelse af formularen, så burde den hedde **Din e-mailadresse**.
 {% include figure class="fifty" image_path="https://github.com/user-attachments/assets/35313895-1e2c-4def-8cfd-faa439b7bccc" alt="Vælg formularfeltet med borgerens email i 'Send til'" caption="Vælg formularfeltet med borgerens email i 'Send til'" %}
 
 Tilpas overskrift på emailen ved i **Emne** at vælge **Custom subject**.
 Tilpas brødteksten ved i **Brødtekst** at vælge **Custom body** og tilpasse teksten rundt om formulartokens. Formulartokens er placeholders for værdier indsendt via formularen. Man kan udfolde en komplet oversigt over alle tilgængelige formulartokens via et linket **Gennemse tilgængelige tokens**.
 
-Denne tekst kunne fx være:
+Denne tekst kunne fx være (husk at rette tokens til dem, som I har lavet):
 
-Kære [webform_submission:values:name]
-
-Mange tak for din henvendelse. Vi besvarer henvendelser indenfor X dage.
-
-Besked blev modtaget: [webform_submission:created]
-
-Din besked
-[webform_submission:values:subject
-
-[webform_submission:values:message]
-
-Med venlig hilsen
-Eksempel Bibliotekerne {: .notice--primary}
+Kære [webform_submission:values:dit_navn]\
+\
+Mange tak for din henvendelse. Vi besvarer henvendelser indenfor X dage.\
+\
+*Besked blev modtaget: [webform_submission:created]*\
+\
+**Din besked**\
+[webform_submission:values:emne]\
+\
+[webform_submission:values:besked]\
+\
+Med venlig hilsen\
+Eksempel Bibliotekerne
+{: .notice--primary}
 
 ## 4. Opsæt kvitteringsside / kvitteringsbesked
 Opsæt kvitteringsside eller kvitteringsbesked ved at åbne formularens **Indstillinger** og så **Bekræftelse**
