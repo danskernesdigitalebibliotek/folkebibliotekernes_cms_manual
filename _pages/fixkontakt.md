@@ -87,4 +87,7 @@ Kvitteringstekster skal indeholde information om, hvordan henvendelsen behandles
 3. Vælg den nye kontaktformular, som I har lavet
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/c6d58851-76c1-4146-98cb-575231725250" alt="Vælg den nye kontaktformular, som I har lavet" caption="Vælg den nye kontaktformular, som I har lavet" %}
 4. Tryk på **Gem**.
-5. Test at det virker, som I ønsker.
+
+## 6. Test at det virker
+1. Gå ind på kontaktsiden - er som standard /kontakt - og udfyld formularen og tryk på Send.
+2. Se at der modtages en kvitteringbesked, en kvitteringsmail og en modtagermail.
