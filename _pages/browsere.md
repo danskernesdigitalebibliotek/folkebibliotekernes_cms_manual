@@ -25,10 +25,8 @@ Hvis brugeren ikke har opdateret til seneste stabile version af browseren, så s
 
 Sikkerdigital.dk skriver hvorfor at det er vigtigt at opdatere sine enheder og programmer:
 
-"Selvom du beskytter dine enheder med stærke kodeord, kan manglende opdatering af dine styresystemer, apps og programmer efterlade sikkerhedshuller, som giver digitale svindlere mulighed for alligevel at få adgang til dine enheder – nu blot ad bagvejen."{: .notice--primary}
-
 Dette gælder også for gamle versioner af enhedernes styresystemer. Vi udvikler ikke til gamle udgaver af styresystemer, da gamle versioner af styresystemer, kan blokere for nye opdateringer af programmer fx browseren. Derfor skal det kraftigt anbefales, at brugeren opdaterer straks, og får indstillet sine enheder til automatisk at opdatere styresystemet.
 
-Sikkerdigital.dk skriver at det er vigtigt at opdatere, da "manglende opdatering af dine styresystemer, apps og programmer efterlade sikkerhedshuller, som giver digitale svindlere mulighed for alligevel at få adgang til dine enheder – nu blot ad bagvejen."
+Sikkerdigital.dk skriver at det er vigtigt at opdatere, da "manglende opdatering af dine styresystemer, apps og programmer efterlade sikkerhedshuller, som giver digitale svindlere mulighed for alligevel at få adgang til dine enheder – nu blot ad bagvejen." 
 
 Hvis brugeren har en anden browser end de understøttede, så kan man anbefale brugeren enten at bruge en af de understøttede browsere eller tilgå det digitale bibliotekstilbud via vores apps.
