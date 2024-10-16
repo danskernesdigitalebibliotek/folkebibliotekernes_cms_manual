@@ -53,8 +53,21 @@ I **Send til** feltet vælg email-feltet fra formularen. Har du fulgt denne vejl
 Tilpas overskrift på emailen ved i **Emne** at vælge **Custom subject**.
 Tilpas brødteksten ved i **Brødtekst** at vælge **Custom body** og tilpasse teksten rundt om formulartokens. Formulartokens er placeholders for værdier indsendt via formularen. Man kan udfolde en komplet oversigt over alle tilgængelige formulartokens via et linket **Gennemse tilgængelige tokens**.
 
-Herunder er kvitteringsskabelonen for kontaktformularen. Den kan bruges som inspiration.
-{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/dc184f71-b8d1-409c-b223-6dc9659a5d7d" alt="Tilret emne og brødtekst på kvitteringsmail" caption="Tilret emne og brødtekst på kvitteringsmail" %}
+Denne tekst kunne fx være:
+
+Kære [webform_submission:values:name]
+
+Mange tak for din henvendelse. Vi besvarer henvendelser indenfor X dage.
+
+Besked blev modtaget: [webform_submission:created]
+
+Din besked
+[webform_submission:values:subject
+
+[webform_submission:values:message]
+
+Med venlig hilsen
+Eksempel Bibliotekerne {: .notice--primary}
 
 ## 4. Opsæt kvitteringsside / kvitteringsbesked
 Opsæt kvitteringsside eller kvitteringsbesked ved at åbne formularens **Indstillinger** og så **Bekræftelse**
