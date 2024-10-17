@@ -93,7 +93,7 @@ Mange tak for din henvendelse. Vi besvarer henvendelser indenfor X dage.\
 *Besked blev modtaget: [webform_submission:created]*\
 \
 **Din besked**\
-[webform_submission:values:subject\
+[webform_submission:values:subject]\
 \
 [webform_submission:values:message]\
 \
