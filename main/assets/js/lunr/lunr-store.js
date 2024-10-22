@@ -689,8 +689,8 @@ var store = [{
         "url": "/main/nye-features/avanceret-sogning/",
         "teaser": null
       },{
-        "title": "Dashboard",
-        "excerpt":"[ INDSÆT SKÆRMBILLEDE AF DASHBOARD ] Dashboardet er en samlet indgang for brugeren til alt, hvad der vedrører brugerens lån, reserveringer, gebyrer etc. Brugeren kommer til Dashboardet ved at klikke på Dit overblik i brugermenuen. Indholdet på siden tilpasser sig brugeren, så denne kun får vist relevant indhold – fx...","categories": ["Lånerstatus og brugerprofil"],
+        "title": "Dit overblik",
+        "excerpt":"Siden Dit overblik “Dit overblik” er en samlet indgang for brugeren til alt, hvad der vedrører brugerens lån, reserveringer, gebyrer etc. Brugeren kommer heril ved at klikke på “Dit overblik” i brugermenuen. Indholdet på siden tilpasser sig brugeren, så der kun vises relevant indhold – fx Reserveringer klar til lån,...","categories": ["Lånerstatus og brugerprofil"],
         "tags": [],
         "url": "/main/nye-features/dashboard/",
         "teaser": null
