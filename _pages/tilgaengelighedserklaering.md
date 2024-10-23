@@ -4,7 +4,7 @@ title:  "Tilgængelighedserklæring"
 sidebar: true
 nav: "overblik"
 ---
-Sidst opdateret 29. maj 2024
+Sidst opdateret 25. oktober 2024
 
 **Hvad?**\
 Her finder du information, du skal bruge i jeres lokale tilgængelighedserklæring. Det er bl.a. oplysninger om  tilgængeligheden af Folkebibliotekernes CMS, og hvordan Det Digitale Folkebibliotek har arbejdet med tilgængelighed i løsningen.
