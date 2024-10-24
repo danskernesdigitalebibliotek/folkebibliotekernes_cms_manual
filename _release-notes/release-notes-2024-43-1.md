@@ -26,7 +26,7 @@ Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. 
 
 - Arrangement: Bedre angivelse af afholdelsestidspunkt og ensretning på tværs af gentagelsesmønster. 
 
-- Artikler fra Infomedia: Fejl rettet hvor det kun er muligt at print side 1. 
+- Artikler fra Infomedia: Fejl rettet hvor det kun er muligt at printe første side i artiklen. 
 
 - Side: Fejl rettet hvor paragraph-element, der henviser til slettet indhold blokerer for, at man kan ændre på siden. 
 
