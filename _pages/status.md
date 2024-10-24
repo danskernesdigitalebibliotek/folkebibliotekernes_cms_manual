@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 24/10 Alle sites (bortset fra webmasterbibliotekers produktionssites) er nu opdateret til 2024.43.1
+Husk I kan se releasenotes her: (https://www.folkebibliotekernescms.dk/main/overblik/release-notes/)
 ## Servicevindue 15/10 kl. 21
 Tirsdag den 15/10 fra kl. 21 vil der være et servicevindue i forbindelse med vedligeholdelse af platformen, da vi skal opgradere et af de centrale systemer, som Folkebibliotekernes CMS gør brug af. Der kan forekomme lidt ustabil drift i 10-15 minutter.
 ## 10/10 Alle sites (bortset fra webmasterbibliotekers produktionssites) er nu opdateret til 2024.41.1
