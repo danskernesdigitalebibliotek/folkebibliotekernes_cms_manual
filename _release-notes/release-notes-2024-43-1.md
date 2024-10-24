@@ -22,7 +22,7 @@ Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. 
 
 - FBS API: Nu henter Folkebibliotekernes CMS FBS-data fra ny version af FBS-API. 
 
-- Åbningstider: Nu er det muligt at slette åbningstidskategori. 
+- Åbningstider: Nu muligt at slette åbningstidskategorier. 
 
 - Arrangement: Bedre angivelse af afholdelsestidspunkt og ensretning på tværs af gentagelsesmønster. 
 
@@ -36,4 +36,4 @@ Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. 
 
 - Åbningstider: Fejl rettet hvor åbningstidsmodal (vises når man vælger ur-ikonet i hovedmenuen) kaster fejl, hvis oprettet filial er slettet, men stadig har tilknyttet åbningstider. 
 
-- Værkvisning: Tallet i ”Biblioteket har XX eksemplarer” under handleknappen ”Find på hylden” på værkvisningssiden blev tidligere styret af lokal konfiguration (admin/config/dpl-library-agency/general-settings) for ”Afhentningsfilialer”. Det styres nu af konfiguration under ”Tilgængelighed”.
+- Værkvisning: Tallet i ”Biblioteket har XX eksemplarer” under handleknappen ”Find på hylden” på værkvisningssiden blev tidligere styret af lokal konfiguration (admin/config/dpl-library-agency/general-settings) under ”Afhentningsfilialer”. Det styres nu af konfiguration under ”Tilgængelighed”.
