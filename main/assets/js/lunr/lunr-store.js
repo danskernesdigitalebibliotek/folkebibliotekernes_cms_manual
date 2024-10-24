@@ -899,6 +899,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-41-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.43.1",
+        "excerpt":"Flere forbedringer og fejlrettelser Releasedato: 24-10-2024 Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Kun testsite opgraderes. Fejlrettelser og forbedringer ”Reserveringer på pause” og mobilvisning: Fejl rettet hvor man på mobil har svært ved at anvende datovælger og handlingsknapper i forbindelse med valg af pauseperiode for reserveringer. Reservering: Periodisk fejl...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-43-1/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
