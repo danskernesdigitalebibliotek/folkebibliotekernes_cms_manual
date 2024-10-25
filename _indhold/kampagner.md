@@ -28,7 +28,7 @@ Klik på **Campaign**:
 ”Title” må ikke være tom. Det er kampagnens titel, som IKKE vises for slutbrugerne.
 
 **Link**    
-”Link” må heller ikke være tom. Det er det sted, hvor brugeren kommer hen, hvis han klikker på kampagnen. Det kan både være en side på hjemmesiden, eller det kan være et eksternt site.
+”Link” må heller ikke være tom. Det er det sted, hvor brugeren kommer hen, hvis han klikker på kampagnen. Det kan både være en side på hjemmesiden, eller det kan være et eksternt site. Hvis du linke til et arrangement, så sæt den absolutte URL ind fx https://www.naesbib.dk/naestved-bibliotek/arrangementer/foredrag/om-murakami-og-japansk-litteratur
 
 **Text**    
 ”Text” behøver du ikke udfylde. Det er den tekst, som vises for slutbrugeren, når kampagnen udløses, fx ”Foredrag med Forfatter Skriversen d. 13/7” eller ”Lån koncertfilm online med Qello” ell. lign.
