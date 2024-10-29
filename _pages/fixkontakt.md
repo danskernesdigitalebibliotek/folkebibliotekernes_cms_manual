@@ -22,12 +22,6 @@ Hvis man har problemer med at kontaktformularen ikke virker fx ved at den ikke v
 - **Send knap(per)** (oprettes automatisk).
 - **Simpel HTML** med nøgle **persondata**. Teksten i HTML markup er "BEMÆRK! Indsæt aldrig CPR-nummer eller følsomme oplysninger i formularen. Læs mere om behandling af persondata i vores privatlivspolitik." Link til jeres privatlivspolitik. Er som standard /privatlivspolitik.
 
-Den tidligere kontaktformular er opbygget på denne måde:
-{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/9db1ab86-1e05-461f-a5d4-2c7d83f6e479" alt="Tilføj formularelementer" caption="Tilføj formularelementer" %}
-\
-[Du kan læse om elementerne man kan tilføje her](https://www.folkebibliotekernescms.dk/main/indhold/webforms/#s%C3%A5dan-bygger-du-en-webformular). 
-{: .notice--primary}
-
 ## 2. Opsæt modtagere af mails
 
 For at få kontaktformularen til at sende mails til bestemte mail-adresser efter hvilken kategori, som borgerne vælger, så skal **Term select** være tilføjet til webformularen i det foregående punkt. Læs mere i det foregående punkt.
@@ -37,11 +31,6 @@ Tilføj en ny mailskabelon via **Indstillinger** og så **Emails/handlers**. Try
 Tildel evt. titlen Modtager.
 
 I **Send til** feltet vælg **Custom To email address** og indtast `[webform_submission:values:kategori:entity:field_email:value]`. 
-
-[Guide om hvordan man ændrer kategorierne](https://www.folkebibliotekernescms.dk/main/startopsaetning/kontaktformular/#1-opret-de-korrekte-email-kategorier) 
-\
-Dette er en global liste for alle webformularer, så er den samme uanset hvor man sætter den ind. Den er tænkt, som en mulighed på jeres kontaktformular.
-{: .notice--primary}
 
 ## 3. Opsæt kvitteringsmail
 
