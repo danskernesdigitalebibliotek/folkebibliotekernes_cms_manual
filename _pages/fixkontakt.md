@@ -75,5 +75,7 @@ Kvitteringstekster skal indeholde information om, hvordan henvendelsen behandles
 - Tryk på **Gem**.
 
 ## 6. Test at det virker
-1. Gå ind på kontaktsiden - er som standard /kontakt - og udfyld formularen og tryk på Send.
-2. Se at der modtages en kvitteringbesked, en kvitteringsmail og en modtagermail.
+1. Gå ind på kontaktformularen. Det er på `https://mit-domænenavn.dk/kontakt` (udskift mit-domænenavn.dk), hvis I ikke har ændret noget.
+2. Udfyld formularen.
+3. Tryk på Send.
+4. Se at der modtages en kvitteringbesked, en kvitteringsmail og en modtagermail.
