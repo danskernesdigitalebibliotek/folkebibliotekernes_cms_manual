@@ -289,27 +289,27 @@
 <ol>
   <li>I topmenuen klik på <strong>Struktur &gt; Webformularer</strong> eller åbn <code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/admin/structure/webform</code> (udskift mit-domænenavn.dk). Du kommer ind på en oversigt over webformularer, som du har oprettet. Her ligger også jeres gamle <strong>Kontaktformular</strong>.</li>
   <li>Klik på <strong>Tilføj webform</strong> i øverste højre hjørne.</li>
-  <li>Udfyld <strong>Titel</strong>, <strong>Administrativ beskrivelse</strong> (vises ikke for brugerne) og <strong>Status</strong>, som afgør om formularen er åben for besvarelse eller lukket for besvarelse. Tryk på <strong>Gem</strong>.</li>
+  <li>Udfyld <strong>Titel</strong> og evt <strong>Administrativ beskrivelse</strong> (vises ikke for brugerne). Tryk på <strong>Gem</strong>.</li>
   <li>Nu kan du tilføje <strong>Elementer</strong> til formularen. Klik på knappen øverst til højre.</li>
-  <li>Den tidligere kontaktformluar er opbygget med:
+  <li>Opbyg din kontaktformular således:
     <ul>
-      <li>Tekstfelt med titel Dit navn</li>
-      <li>E-mail med titel Din e-mailadresse</li>
-      <li>Term select med titel Kategori. Giv den nøglen <strong>Kategori</strong>. Læs mere i punktet herunder <strong>2. Opsæt modtagere af mails</strong>. Den skal have <strong>Webform email categories</strong> i feltet <strong>Ordforråd</strong>.</li>
-      <li>Tekstfelt med titel Emne.</li>
-      <li>Tekstområde med tiel Besked.</li>
-      <li>Send knap(per) (oprette automatisk).</li>
-      <li>Simpel HTML med nøgle persondata. Teksten i HTML markup er “BEMÆRK! Indsæt aldrig CPR-nummer eller følsomme oplysninger i formularen. Læs mere om behandling af persondata i vores privatlivspolitik.” Link til jeres privatlivspolitik. Er som standard /privatlivspolitik.</li>
+      <li><strong>Tekstfelt</strong> med titel Dit navn</li>
+      <li><strong>E-mail</strong> med titel Din e-mailadresse</li>
+      <li><strong>Term select</strong> med titel Kategori. Vær opmærksom på at den skal have nøglen <strong>kategori</strong>.</li>
     </ul>
   </li>
 </ol>
-
 <figure class="eighty"><img src="https://github.com/user-attachments/assets/b0beaba4-9869-4886-ad10-61784e1e85b7" alt="Nøgle skal være kategori" /><figcaption>
       Nøgle skal være kategori
 
     </figcaption></figure>
 
-<p><a href="https://www.folkebibliotekernescms.dk/main/indhold/webforms/#s%C3%A5dan-bygger-du-en-webformular">Læs om elementerne man kan tilføje her</a>. Følg ikke resten af guiden.</p>
+<ul>
+  <li><strong>Tekstfelt</strong> med titel Emne.</li>
+  <li><strong>Tekstområde</strong> med tiel Besked.</li>
+  <li><strong>Send knap(per)</strong> (oprettes automatisk).</li>
+  <li><strong>Simpel HTML</strong> med nøgle persondata. Teksten i HTML markup er “BEMÆRK! Indsæt aldrig CPR-nummer eller følsomme oplysninger i formularen. Læs mere om behandling af persondata i vores privatlivspolitik.” Link til jeres privatlivspolitik. Er som standard /privatlivspolitik.</li>
+</ul>
 
 <p>Den tidligere kontaktformular er opbygget på denne måde:</p>
 <figure class="eighty"><img src="https://github.com/user-attachments/assets/9db1ab86-1e05-461f-a5d4-2c7d83f6e479" alt="Tilføj formularelementer" /><figcaption>
@@ -317,9 +317,12 @@
 
     </figcaption></figure>
 
+<p class="notice--primary"><br />
+<a href="https://www.folkebibliotekernescms.dk/main/indhold/webforms/#s%C3%A5dan-bygger-du-en-webformular">Du kan læse om elementerne man kan tilføje her</a>.</p>
+
 <h2 id="2-opsæt-modtagere-af-mails">2. Opsæt modtagere af mails</h2>
 
-<p>Husk at man gerne vil have at kontaktformularen sender mails til bestemte mail-adresser efter hvilken kategori, som borgerne vælger, så skal <strong>Term select</strong> være tilføjet til webformularen i det foregående punkt. Læs mere i det foregående punkt.</p>
+<p>For at få kontaktformularen til at sende mails til bestemte mail-adresser efter hvilken kategori, som borgerne vælger, så skal <strong>Term select</strong> være tilføjet til webformularen i det foregående punkt. Læs mere i det foregående punkt.</p>
 
 <p>Tilføj en ny mailskabelon via <strong>Indstillinger</strong> og så <strong>Emails/handlers</strong>. Tryk så på knappen <strong>+ Tilføj Email</strong> øverst til højre.</p>
 
@@ -327,9 +330,9 @@
 
 <p>I <strong>Send til</strong> feltet vælg <strong>Custom To email address</strong> og indtast <code class="language-plaintext highlighter-rouge">[webform_submission:values:kategori:entity:field_email:value]</code>.</p>
 
-<p><a href="https://www.folkebibliotekernescms.dk/main/startopsaetning/kontaktformular/#1-opret-de-korrekte-email-kategorier">Læs denne guide om hvordan man ændrer kategorierne</a></p>
-
-<p>Dette er en global liste for alle webformularer, så er den samme uanset hvor man sætter den ind. Den er tænkt, som en mulighed på jeres kontaktformular.</p>
+<p class="notice--primary"><a href="https://www.folkebibliotekernescms.dk/main/startopsaetning/kontaktformular/#1-opret-de-korrekte-email-kategorier">Guide om hvordan man ændrer kategorierne</a> 
+<br />
+Dette er en global liste for alle webformularer, så er den samme uanset hvor man sætter den ind. Den er tænkt, som en mulighed på jeres kontaktformular.</p>
 
 <h2 id="3-opsæt-kvitteringsmail">3. Opsæt kvitteringsmail</h2>
 
@@ -378,26 +381,26 @@ Eksempel Bibliotekerne</p>
 </ul>
 
 <h2 id="5-skift-formularen-inde-på-kontaktsiden">5. Skift formularen inde på kontaktsiden</h2>
-<ol>
+<ul>
   <li>Gå ind på og rediger den side, hvor jeres kontaktformular er. Det er på <code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/kontakt</code> (udskift mit-domænenavn.dk), hvis I ikke har ændret noget.</li>
   <li>Find paragrafen med webformularen og tryk på <strong>Rediger</strong>.</li>
-</ol>
+</ul>
 <figure class="eighty"><img src="https://github.com/user-attachments/assets/453575df-4da7-47f9-811a-b3e65c3ba96f" alt="Tryk på rediger" /><figcaption>
       Tryk på rediger
 
     </figcaption></figure>
 
-<ol>
+<ul>
   <li>Vælg den nye kontaktformular, som I har lavet</li>
-</ol>
+</ul>
 <figure class="eighty"><img src="https://github.com/user-attachments/assets/c6d58851-76c1-4146-98cb-575231725250" alt="Vælg den nye kontaktformular, som I har lavet" /><figcaption>
       Vælg den nye kontaktformular, som I har lavet
 
     </figcaption></figure>
 
-<ol>
+<ul>
   <li>Tryk på <strong>Gem</strong>.</li>
-</ol>
+</ul>
 
 <h2 id="6-test-at-det-virker">6. Test at det virker</h2>
 <ol>
