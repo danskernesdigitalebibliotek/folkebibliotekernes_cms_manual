@@ -6,6 +6,8 @@ nav: "overblik"
 ---
 Hvis man har problemer med at kontaktformularen ikke virker fx ved at den ikke vil sende eller modtage mails, så følg denne guide.
 
+Følg guiden slavisk ellers kan der være ting, som ikke virker.
+
 ## 1. Opret en ny kontaktformular
 1. I topmenuen klik på **Struktur > Webformularer** eller åbn `https://mit-domænenavn.dk/admin/structure/webform` (udskift mit-domænenavn.dk). Du kommer ind på en oversigt over webformularer, som du har oprettet. Her ligger også jeres gamle **Kontaktformular**. 
 2. Klik på **Tilføj webform** i øverste højre hjørne.
@@ -23,18 +25,14 @@ Hvis man har problemer med at kontaktformularen ikke virker fx ved at den ikke v
 - **Simpel HTML** med nøgle **persondata**. Teksten i HTML markup er "BEMÆRK! Indsæt aldrig CPR-nummer eller følsomme oplysninger i formularen. Læs mere om behandling af persondata i vores privatlivspolitik." Link til jeres privatlivspolitik. Er som standard /privatlivspolitik.
 
 ## 2. Opsæt modtagere af mails
-
-For at få kontaktformularen til at sende mails til bestemte mail-adresser efter hvilken kategori, som borgerne vælger, så skal **Term select** være tilføjet til webformularen i det foregående punkt. Læs mere i det foregående punkt.
-
 - Tilføj en ny mailskabelon via **Indstillinger** og så **Emails/handlers**. Tryk så på knappen **+ Tilføj Email** øverst til højre.
 - Tildel evt. titlen **Modtager på biblioteket**.
-- I **Send til** feltet vælg **Custom To email address** og indtast `[webform_submission:values:kategori:entity:field_email:value]`. 
+- I **Send til** feltet vælg **Custom To email address** og indtast `[webform_submission:values:kategori:entity:field_email:value]`.
 
 ## 3. Opsæt kvitteringsmail
 
 - Tilføj en ny mailskabelon via **Indstillinger** og så **Emails/handlers**. 
 - Tryk så på knappen **+ Tilføj Email** øverst til højre.
-- Man kan kun sende en kvitteringsemail til borgeren, hvis man har sørget for at oprette et **påkrævet email-felt på formularen**. Det gøres med felttypen **Email**.
 - I **Send til** feltet vælg email-feltet fra formularen. Har du fulgt denne vejledning til oprettelse af formularen, så burde den hedde **Din e-mailadresse**.
 {% include figure class="fifty" image_path="https://github.com/user-attachments/assets/35313895-1e2c-4def-8cfd-faa439b7bccc" alt="Vælg formularfeltet med borgerens email i 'Send til'" caption="Vælg formularfeltet med borgerens email i 'Send til'" %}
 - Tilpas overskrift på emailen ved i **Emne** at vælge **Custom subject**.
