@@ -12,14 +12,15 @@ Hvis man har problemer med at kontaktformularen ikke virker fx ved at den ikke v
 3. Udfyld **Titel** og evt **Administrativ beskrivelse** (vises ikke for brugerne). Tryk på **Gem**.
 4. Nu kan du tilføje **Elementer** til formularen. Klik på knappen øverst til højre.
 5. Opbyg din kontaktformular således:
-- **Tekstfelt** med titel Dit navn
-- **E-mail** med titel Din e-mailadresse
-- **Term select** med titel Kategori. Vær opmærksom på at den skal have nøglen **kategori**.
+
+- **Tekstfelt** med titel **Dit navn**
+- **E-mail** med titel **Din e-mailadresse**
+- **Term select** med titel **Kategori**. Vær opmærksom på at den skal have nøglen **kategori**.
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/b0beaba4-9869-4886-ad10-61784e1e85b7" alt="Nøgle skal være kategori" caption="Nøgle skal være kategori" %}
-- **Tekstfelt** med titel Emne.
-- **Tekstområde** med tiel Besked.
+- **Tekstfelt** med titel **Emne**.
+- **Tekstområde** med tiel **Besked**.
 - **Send knap(per)** (oprettes automatisk).
-- **Simpel HTML** med nøgle persondata. Teksten i HTML markup er "BEMÆRK! Indsæt aldrig CPR-nummer eller følsomme oplysninger i formularen. Læs mere om behandling af persondata i vores privatlivspolitik." Link til jeres privatlivspolitik. Er som standard /privatlivspolitik.
+- **Simpel HTML** med nøgle **persondata**. Teksten i HTML markup er "BEMÆRK! Indsæt aldrig CPR-nummer eller følsomme oplysninger i formularen. Læs mere om behandling af persondata i vores privatlivspolitik." Link til jeres privatlivspolitik. Er som standard /privatlivspolitik.
 
 Den tidligere kontaktformular er opbygget på denne måde:
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/9db1ab86-1e05-461f-a5d4-2c7d83f6e479" alt="Tilføj formularelementer" caption="Tilføj formularelementer" %}
