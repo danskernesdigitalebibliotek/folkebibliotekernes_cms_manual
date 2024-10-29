@@ -315,26 +315,29 @@
 
 <p>For at få kontaktformularen til at sende mails til bestemte mail-adresser efter hvilken kategori, som borgerne vælger, så skal <strong>Term select</strong> være tilføjet til webformularen i det foregående punkt. Læs mere i det foregående punkt.</p>
 
-<p>Tilføj en ny mailskabelon via <strong>Indstillinger</strong> og så <strong>Emails/handlers</strong>. Tryk så på knappen <strong>+ Tilføj Email</strong> øverst til højre.</p>
-
-<p>Tildel evt. titlen Modtager.</p>
-
-<p>I <strong>Send til</strong> feltet vælg <strong>Custom To email address</strong> og indtast <code class="language-plaintext highlighter-rouge">[webform_submission:values:kategori:entity:field_email:value]</code>.</p>
+<ul>
+  <li>Tilføj en ny mailskabelon via <strong>Indstillinger</strong> og så <strong>Emails/handlers</strong>. Tryk så på knappen <strong>+ Tilføj Email</strong> øverst til højre.</li>
+  <li>Tildel evt. titlen <strong>Modtager på biblioteket</strong>.</li>
+  <li>I <strong>Send til</strong> feltet vælg <strong>Custom To email address</strong> og indtast <code class="language-plaintext highlighter-rouge">[webform_submission:values:kategori:entity:field_email:value]</code>.</li>
+</ul>
 
 <h2 id="3-opsæt-kvitteringsmail">3. Opsæt kvitteringsmail</h2>
 
-<p>Tilføj en ny mailskabelon via <strong>Indstillinger</strong> og så <strong>Emails/handlers</strong>. Tryk så på knappen <strong>+ Tilføj Email</strong> øverst til højre.</p>
-
-<p>Man kan kun sende en kvitteringsemail til borgeren, hvis man har sørget for at oprette et <strong>påkrævet email-felt på formularen</strong>. Det gøres med felttypen <strong>Email</strong>.</p>
-
-<p>I <strong>Send til</strong> feltet vælg email-feltet fra formularen. Har du fulgt denne vejledning til oprettelse af formularen, så burde den hedde <strong>Din e-mailadresse</strong>.</p>
+<ul>
+  <li>Tilføj en ny mailskabelon via <strong>Indstillinger</strong> og så <strong>Emails/handlers</strong>.</li>
+  <li>Tryk så på knappen <strong>+ Tilføj Email</strong> øverst til højre.</li>
+  <li>Man kan kun sende en kvitteringsemail til borgeren, hvis man har sørget for at oprette et <strong>påkrævet email-felt på formularen</strong>. Det gøres med felttypen <strong>Email</strong>.</li>
+  <li>I <strong>Send til</strong> feltet vælg email-feltet fra formularen. Har du fulgt denne vejledning til oprettelse af formularen, så burde den hedde <strong>Din e-mailadresse</strong>.</li>
+</ul>
 <figure class="fifty"><img src="https://github.com/user-attachments/assets/35313895-1e2c-4def-8cfd-faa439b7bccc" alt="Vælg formularfeltet med borgerens email i &#39;Send til&#39;" /><figcaption>
       Vælg formularfeltet med borgerens email i ‘Send til’
 
     </figcaption></figure>
 
-<p>Tilpas overskrift på emailen ved i <strong>Emne</strong> at vælge <strong>Custom subject</strong>.
-Tilpas brødteksten ved i <strong>Brødtekst</strong> at vælge <strong>Custom body</strong> og tilpasse teksten rundt om formulartokens. Formulartokens er placeholders for værdier indsendt via formularen. Man kan udfolde en komplet oversigt over alle tilgængelige formulartokens via et linket <strong>Gennemse tilgængelige tokens</strong>.</p>
+<ul>
+  <li>Tilpas overskrift på emailen ved i <strong>Emne</strong> at vælge <strong>Custom subject</strong>.</li>
+  <li>Tilpas brødteksten ved i <strong>Brødtekst</strong> at vælge <strong>Custom body</strong> og tilpasse teksten rundt om formulartokens. Formulartokens er placeholders for værdier indsendt via formularen. Man kan udfolde en komplet oversigt over alle tilgængelige formulartokens via et linket <strong>Gennemse tilgængelige tokens</strong>.</li>
+</ul>
 
 <p>Denne tekst kunne fx være (husk at rette tokens til dem, som I har lavet):</p>
 
@@ -353,7 +356,9 @@ Med venlig hilsen<br />
 Eksempel Bibliotekerne</p>
 
 <h2 id="4-opsæt-kvitteringsside--kvitteringsbesked">4. Opsæt kvitteringsside / kvitteringsbesked</h2>
-<p>Opsæt kvitteringsside eller kvitteringsbesked ved at åbne formularens <strong>Indstillinger</strong> og så <strong>Bekræftelse</strong></p>
+<ul>
+  <li>Opsæt kvitteringsside eller kvitteringsbesked ved at åbne formularens <strong>Indstillinger</strong> og så <strong>Bekræftelse</strong></li>
+</ul>
 <figure class="eighty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/da8767c8-42be-49cb-af1d-27335a066ef8" alt="Tilføj formularelementer" /><figcaption>
       Tilføj formularelementer
 
