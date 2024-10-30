@@ -905,6 +905,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-43-1/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.44.1",
+        "excerpt":"Releasedato: 31-10-2024 Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Testsite opgraderes til 2024.44.1. Prodsite opgraderes til 2024.43.1. Nye features Arrangementsfeed til appen. API: Nu muligt at hente åbningstider for flere biblioteker på én gang. Fejlrettelser og forbedringer Rækkefølge af lån og reserveringer forbedret: Lån listes f.eks. konsekvent så materialer...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-44-1/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
