@@ -3,6 +3,7 @@ title:  "Release Notes 2024.44.1"
 category: "Release Notes"
 weight: 360
 ---  
+# Arrangementsfeed til appen og diverse fejlrettelser og forbedringer
 
 Releasedato: 31-10-2024
 
