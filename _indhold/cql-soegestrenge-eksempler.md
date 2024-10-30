@@ -7,6 +7,7 @@ category: "Generelt"
 {: .notice--info}
 
 Mette Kulmbach har været så venlig at dele nogle søgestrenge, som hun har bygget for Billund Bibliotekerne. De er til inspiration og er ikke perfekte eller udtømmende. Har du lavet søgestrenge, der er smartere eller mere korrekte, da send dine eksempler til cms-info@fddf.dk. Så lægger vi dem ud her på siden.
+
 30/10-2024 - Opdateret med NOW - X days afgrænsninger
 
 ## For børn
