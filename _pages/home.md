@@ -27,6 +27,21 @@ header:
 excerpt: "Manual, tidsplan og information om Folkebibliotekernes CMS."
 
 feature_row:
+  - image_path: /assets/images/indholdsredaktion.jpg
+    alt: "Opret indhold i Folkebibliotekernes CMS"
+    title: "Opret indhold"
+    excerpt: "Sådan opretter du artikler, arrangementer, sider, åbningstider mv."
+    url: "/indhold/"
+  - image_path: /assets/images/konfiguration.jpg
+    alt: "Konfiguration i Folkebibliotekernes CMS"
+    title: "Konfiguration"
+    excerpt: "Beskrivelse af alle systemets konfigurationsmuligheder."
+    url: "/konfiguration/"
+  - image_path: /assets/images/webmaster-bibliotek.jpg
+    alt: "Webmasterbibliotekerne"
+    title: "Webmasterbibliotekerne"
+    excerpt: "Vejledning til webmasterhostingplanen."
+    url: "/webmasterplanen/"
   - image_path: /assets/images/overgang-til-folkebibliotekernes-cms.jpg
     alt: "Bliv klar til Folkebibliotekernes CM"
     title: "Bliv klar"
@@ -42,16 +57,6 @@ feature_row:
     title: "Inspiration til formidling"
     excerpt: "Gode eksempler på sideopbygning og brug af formidlingskomponenterne."
     url: "/formidlingsinspiration/"
-  - image_path: /assets/images/indholdsredaktion.jpg
-    alt: "Opret indhold i Folkebibliotekernes CMS"
-    title: "Opret indhold"
-    excerpt: "Sådan opretter du artikler, arrangementer, sider, åbningstider mv."
-    url: "/indhold/"
-  - image_path: /assets/images/konfiguration.jpg
-    alt: "Konfiguration i Folkebibliotekernes CMS"
-    title: "Konfiguration"
-    excerpt: "Beskrivelse af alle systemets konfigurationsmuligheder."
-    url: "/konfiguration/"
   - image_path: /assets/images/new-features.png
     alt: "Nye features i Folkebibliotekernes CM"
     title: "Nye features"
@@ -62,11 +67,7 @@ feature_row:
     title: "Guidelines til god webkommunikation"
     excerpt: "Skriv tekster med god tilgængelighed og høj synlighed i søgemaskiner."
     url: "/overblik/guidelines-til-god-webkommunikation"
-  - image_path: /assets/images/webmasterbibliotek.jpg
-    alt: "Webmasterbibliotekerne"
-    title: "Webmasterbibliotekerne"
-    excerpt: "Vejledning til webmasterhostingplanen."
-    url: "/webmasterplanen/"
+
 
 ---
 
