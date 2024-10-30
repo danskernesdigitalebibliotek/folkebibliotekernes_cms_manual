@@ -1,7 +1,7 @@
 ---
 title:  "Release Notes 2024.44.1"
 category: "Release Notes"
-weight: 966
+weight: 960
 ---  
 
 Releasedato: 31-10-2024
