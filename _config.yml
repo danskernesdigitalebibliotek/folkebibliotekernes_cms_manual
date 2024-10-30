@@ -96,6 +96,9 @@ collections:
   release-notes:
     output: true
     permalink: /overblik/:collection/:path/
+  webmasterplanen:
+    output: true
+    permalink: /:collection/:path/
   category:
     output: true
     permalink: /:collection/:path/
@@ -195,6 +198,19 @@ defaults:
   - scope:
       path: ""
       type: release-notes
+    values:
+      layout: single
+      classes: wide
+      toc: false
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar: true
+  # _webmasterplanen
+  - scope:
+      path: ""
+      type: webmasterplanen
     values:
       layout: single
       classes: wide

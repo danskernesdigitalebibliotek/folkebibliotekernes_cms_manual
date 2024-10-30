@@ -62,6 +62,11 @@ feature_row:
     title: "Guidelines til god webkommunikation"
     excerpt: "Skriv tekster med god tilgængelighed og høj synlighed i søgemaskiner."
     url: "/overblik/guidelines-til-god-webkommunikation"
+  - image_path: /assets/images/webmasterbibliotek.jpg
+    alt: "Webmasterbibliotekerne"
+    title: "Webmasterbibliotekerne"
+    excerpt: "Vejledning til webmasterhostingplanen."
+    url: "/webmasterplanen/"
 
 ---
 
