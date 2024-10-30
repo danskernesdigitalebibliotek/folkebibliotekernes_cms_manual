@@ -191,6 +191,12 @@ var store = [{
         "url": "/main/category/web-services/",
         "teaser": null
       },{
+        "title": "Webmasterplanen",
+        "excerpt":"Webmasterplanen  ","categories": [],
+        "tags": [],
+        "url": "/main/category/webmasterplanen/",
+        "teaser": null
+      },{
         "title": "Åbningstider",
         "excerpt":"Åbningstider  ","categories": [],
         "tags": [],
@@ -993,5 +999,47 @@ var store = [{
         "excerpt":"Ændr sidens udseende  Man kan ændre sidens udseende til at passe til jeres identitet. Man kan skifte identitetsfarve, logo og favicon.   Følg guiden i Konfiguration for Logo, identitetsfarve og favicon.  ","categories": ["Startopsætning"],
         "tags": [],
         "url": "/main/startopsaetning/udseende/",
+        "teaser": null
+      },{
+        "title": "Webmasterbibliotekerne: Vejledning til webmasterhostingplanen",
+        "excerpt":"Om vejledningen Vejledningen er målrettet webmasterbiblioteker og beskriver hvordan typiske arbejdsgange for et webmasterbibliotek håndteres herunder. Hvordan du håndterer installation af moduler på testsitet og produktionssitet Hvordan du håndterer opgraderinger af moduler, der i forvejen er installeret på sitet Derudover beskrives basale driftsforhold omkring de forskellige miljøer f.eks. opgraderingscyklus for...","categories": [],
+        "tags": [],
+        "url": "/main/webmasterplanen/",
+        "teaser": null
+      },{
+        "title": "Installation af contribmoduler og egenudviklede moduler",
+        "excerpt":"Som webmasterbibliotek er det muligt at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (core). Det kan være contribmoduler (gratis moduler hentet fra drupal.org, som er lavet og vedligeholdt af udviklere fra drupal-communitiet) og egenudviklede moduler. Installation af moduler Testmiljø: For at installere moduler på...","categories": ["Webmasterplanen"],
+        "tags": [],
+        "url": "/main/webmasterplanen/installation-af-moduler/",
+        "teaser": null
+      },{
+        "title": "Ofte stillede spørgsmål",
+        "excerpt":"Hvor ofte tages der backup af produktionsmiljøet? Der bliver taget backups af produktionsmiljøerne 2 gange om dagen mellem kl. 12 og 13 og kl. 00 og 01. Hvordan ser jeg hvilken version af Folkebibliotekernes CMS der er installeret på mit site? Brugere der er logget ind kan øverst oppe i...","categories": ["Webmasterplanen"],
+        "tags": [],
+        "url": "/main/webmasterplanen/ofte-stillede-spoergsmaal/",
+        "teaser": null
+      },{
+        "title": "Opdatering af moduler",
+        "excerpt":"I øjeblikket er det nødvendigt at oprette en supportsag på servicedesk, hvis du ønsker opdatering af allerede installerede moduler på testsitet og på produktion. Efter efterårsferien (2024) vil der blive lavet en udvidelse til Folkebibliotekernes CMS, så webmasterbiblioteker lokalt kan opgradere moduler, uden at det er nødvendigt at oprette en...","categories": ["Webmasterplanen"],
+        "tags": [],
+        "url": "/main/webmasterplanen/opdatering-af-moduler/",
+        "teaser": null
+      },{
+        "title": "Opdateringscyklus for sites",
+        "excerpt":"Som udgangspunkt frigives der nye releases af Folkebibliotekernes CMS hver torsdag. Opdateringen af produktions- og testmiljøer for webmasterbiblioteker sker efter et opdateringsmønster, der skal sikre, at nye releases kan testes lokalt, inden de rulles ud på produktionsmiljøet. Opdatering af testmiljø Testmiljøet opdateres som udgangspunkt hver torsdag med seneste release af...","categories": ["Webmasterplanen"],
+        "tags": [],
+        "url": "/main/webmasterplanen/opdateringscyklus-for-sites/",
+        "teaser": null
+      },{
+        "title": "Produktions- og testmiljø",
+        "excerpt":"Webmasterbiblioteket har adgang til to selvstændige installationer af Folkebibliotekernes CMS: Et produktionsmiljø- og et testmiljø. Produktionsmiljøet er den installation af hjemmesiden de primære brugere (aka lånerne) har adgang til og kan tilgås via bibliotekets domænenavn. Testmiljøet er som udgangspunkt udelukkende beregnet til internt brug og er konfigureret så det ikke...","categories": ["Webmasterplanen"],
+        "tags": [],
+        "url": "/main/webmasterplanen/produktions-og-testmiljoe/",
+        "teaser": null
+      },{
+        "title": "Udsættelse af opdatering af produktionsmiljø",
+        "excerpt":"Et webmasterbibliotek kan udsætte opdateringen af et produktionsmiljø i op til fire uger (ved normal releasecyklus vil det svare til fire releases af Folkebibliotekernes CMS). Udsættelse kan f.eks. være relevant, hvis et egenudviklet modul ikke længere fungerer med Folkebibliotekernes CMS, og der er brug for tid til at tilpasse løsningen....","categories": ["Webmasterplanen"],
+        "tags": [],
+        "url": "/main/webmasterplanen/udsaettelse-af-opdatering/",
         "teaser": null
       }]
