@@ -11,14 +11,6 @@ Opgraderingen rulles ud til:
 Redaktørbiblioteker: Produktionssites opgraderes. 
 Webmasterbiblioteker: Testsite opgraderes til 2024.44.0. Prodsite opgraderes til 2024.43.1. 
 
-## Nye features
-
-Arrangementsfeed til appen.
-
-API: Nu muligt at hente åbningstider for flere biblioteker på én gang. 
-
-
-
 ## Fejlrettelser og forbedringer
 
 Rækkefølge af lån og reserveringer forbedret: Lån listes f.eks. konsekvent så materialer med kortest afleveringsfrist listes først. 
