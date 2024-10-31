@@ -1,5 +1,5 @@
 ---
-title:  "Release Notes 2024.44.1"
+title:  "Release Notes 2024.44.0"
 category: "Release Notes"
 weight: 360
 ---  
@@ -9,7 +9,7 @@ Releasedato: 31-10-2024
 
 Opgraderingen rulles ud til: 
 Redaktørbiblioteker: Produktionssites opgraderes. 
-Webmasterbiblioteker: Testsite opgraderes til 2024.44.1. Prodsite opgraderes til 2024.43.1. 
+Webmasterbiblioteker: Testsite opgraderes til 2024.44.0. Prodsite opgraderes til 2024.43.1. 
 
 ## Nye features
 
