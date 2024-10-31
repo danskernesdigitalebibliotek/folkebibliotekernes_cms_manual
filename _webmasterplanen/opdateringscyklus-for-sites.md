@@ -6,7 +6,7 @@ weight: 2
 
 Som udgangspunkt frigives der nye releases af Folkebibliotekernes CMS hver torsdag.
 Opdateringen af produktions- og testmiljøer for webmasterbiblioteker sker efter et
-opdateringsmønster, der skal sikre, at nye releases kan testes lokalt, inden de rulles ud på
+opdateringsmønster, der skal sikre, at nye releases kan testes med lokalt installerede moduler, inden de rulles på
 produktionsmiljøet.
 
 ## Opdatering af testmiljø
