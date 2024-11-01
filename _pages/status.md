@@ -5,7 +5,7 @@ sidebar: true
 nav: "overblik"
 ---
 ## 1/11 Driftsstatus: Alle webforms på release 2024.44.0 melder fejl ved afsendelse.
-Vi er på sagen og får forhåbentlig rettet i dag.
+Fejlen er fundet. Vi vil ikke udrulle rettelsen her lige inden weekenden, men gør det som det første på mandag, hvor alle redaktørbibliotekernes sitets rettes med release 2024.44.1
 ## 1/11 Alle sites er nu opdateret til 2024.44.0 (webmaster produktionssite på 2024.43.1)
 Husk I kan se releasenotes her: (https://www.folkebibliotekernescms.dk/main/overblik/release-notes/)
 ## 24/10 Alle sites (bortset fra webmasterbibliotekers produktionssites) er nu opdateret til 2024.43.1
