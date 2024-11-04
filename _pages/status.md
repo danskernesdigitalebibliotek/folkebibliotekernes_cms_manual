@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 4/11 Driftsstatus: Alle hjemmesider er nede
+Vi arbejder på sagen. Næste opdatering kl. 15.30
 ## 1/11 Driftsstatus: Alle webforms på release 2024.44.0 melder fejl ved afsendelse.
 Fejlen er fundet. Vi vil ikke udrulle rettelsen her lige inden weekenden, men gør det som det første på mandag, hvor alle redaktørbibliotekernes sitets rettes med release 2024.44.1
 ## 1/11 Alle sites er nu opdateret til 2024.44.0 (webmaster produktionssite på 2024.43.1)
