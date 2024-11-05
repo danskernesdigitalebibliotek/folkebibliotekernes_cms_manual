@@ -15,7 +15,7 @@ Folkebibliotekernes CMS.
 
 Den sidste torsdag i måneden vil testsitet udover opgradering til seneste release af
 Folkebibliotekernes CMS blive synkroniseret med produktionssitet (se afsnittet
-"Produktions- og testmiljø" og ”Synkronisering og nulstilling af testmiljø”).
+[Synkronisering og nulstilling af testmiljø](http://0.0.0.0:4000/webmasterplanen/produktions-og-testmiljoe/#synkronisering-og-nulstilling-af-testmilj%C3%B8)).
 
 ## Opdatering af produktionsmiljø
 Produktionsmiljøet opdateres som udgangspunkt den sidste torsdag i måneden med den
