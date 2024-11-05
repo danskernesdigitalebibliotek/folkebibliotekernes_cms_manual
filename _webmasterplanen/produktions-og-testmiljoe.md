@@ -30,7 +30,7 @@ release af Folkebibliotekernes CMS.
 ## Synkronisering og nulstilling af testmiljø
 Den sidste torsdag i måneden synkroniseres testmiljøet som udgangspunkt med
 produktionsmiljøet i forbindelse med opgraderingen til den seneste release af
-Folkebibliotekernes CMS. Har du valgt at udsætte opgradering af produktionsmiljøet (Se [Udsættelse af opdatering af produktionsmiljø](https://www.folkebibliotekernescms.dk/main/webmasterplanen/udsaettelse-af-opdatering/) vil testmiljøet som udgangspunkt stadig blive synkroniseret med produktionsmiljøet. 
+Folkebibliotekernes CMS. Har du valgt at udsætte opgradering af produktionsmiljøet (Se [Udsættelse af opdatering af produktionsmiljø](https://www.folkebibliotekernescms.dk/main/webmasterplanen/udsaettelse-af-opdatering/)) vil testmiljøet som udgangspunkt stadig blive synkroniseret med produktionsmiljøet. 
 
 I forbindelse med synkroniseringen vil databasetabeller- og filer blive kopieret fra
 produktionsmiljøet til testmiljøet. Databasetabeller indeholder bl.a. redaktionelt oprettet
