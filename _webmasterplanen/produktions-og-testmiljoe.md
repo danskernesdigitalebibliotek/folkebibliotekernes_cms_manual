@@ -19,7 +19,7 @@ Testmiljøet findes på en URL formateret a la:
 `https://nginx.moduletest.BIBLIOTEKSNAVN.dplplat01.dpl.reload.dk/`. \
 `BIBLIOTEKSNAVN` erstattes med navnet på webmasterbiblioteket.
 
-Testmiljøet er baseret på en kopi af produktionsmiljøet og er, som navnet indikerer beregnet
+Testmiljøet er baseret på en kopi af produktionsmiljøet og er, som navnet indikerer, beregnet
 til test (se også afsnittet ”Synkronisering og nulstilling af testmiljø”). Det kan f.eks. være at:
 
 - Teste at de moduler du lokalt har installeret på produktionsmiljøet fungerer med seneste
