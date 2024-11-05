@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 4/11 Alle redaktørsites + moduletestsites er nu opdateret til 2024.44.1
+Fejlen med webforms der fejlede skulle nu være rettet.
 ## 4/11 Driftsstatus kl. 13.48: Alle hjemmesider er oppe igen
 Det var heldigvis et kort nedbrud på databasen.
 ## 4/11 Driftsstatus kl. 13.42: Alle hjemmesider er nede
