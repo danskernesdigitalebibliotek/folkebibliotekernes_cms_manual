@@ -31,7 +31,7 @@ Indstillinger for tilladelser kan f.eks. findes ved at fremsøge modulet under
 
 
 ### Produktion:
-Inden et modul installeres på produktionsmiljøet er det vigtigt først at teste modulet grundigt
+Inden et modul installeres på produktionsmiljøet, er det vigtigt først at teste modulet grundigt
 på testmiljøet.
 
 For at installere moduler på produktionsmiljøet skal du logge på med en bruger med rollen
