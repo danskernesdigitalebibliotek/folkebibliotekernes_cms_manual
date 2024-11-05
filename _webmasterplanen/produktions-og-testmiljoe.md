@@ -6,7 +6,7 @@ weight: 1
 
 
 Webmasterbiblioteket har adgang til to selvstændige installationer af Folkebibliotekernes
-CMS: Et produktionsmiljø- og et testmiljø.
+CMS: Et produktions- og et testmiljø.
 
 Produktionsmiljøet er den installation af hjemmesiden de primære brugere (aka lånerne) har
 adgang til og kan tilgås via bibliotekets domænenavn.
