@@ -11,7 +11,7 @@ CMS: Et produktions- og et testmiljø.
 Produktionsmiljøet er den installation af hjemmesiden de primære brugere (aka lånerne) har
 adgang til og kan tilgås via bibliotekets domænenavn.
 
-Testmiljøet er som udgangspunkt udelukkende beregnet til internt brug og er konfigureret så
+Testmiljøet er som udgangspunkt udelukkende beregnet til internt brug og er konfigureret, så
 det ikke indekseres af søgemaskiner. Miljøet findes på en særlig web-adresse.
 
 ## Testmiljø
