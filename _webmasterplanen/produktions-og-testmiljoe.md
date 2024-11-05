@@ -20,7 +20,7 @@ Testmiljøet findes på en URL formateret a la:
 `BIBLIOTEKSNAVN` erstattes med navnet på webmasterbiblioteket.
 
 Testmiljøet er baseret på en kopi af produktionsmiljøet og er, som navnet indikerer, beregnet
-til test (se også afsnittet [Synkronisering og nulstilling af testmiljø](https://www.folkebibliotekernescms.dk/main/webmasterplanen/produktions-og-testmiljoe/#synkronisering-og-nulstilling-af-testmilj%C3%B8)). Det kan f.eks. være at:
+til test (se også [Synkronisering og nulstilling af testmiljø](https://www.folkebibliotekernescms.dk/main/webmasterplanen/produktions-og-testmiljoe/#synkronisering-og-nulstilling-af-testmilj%C3%B8)). Det kan f.eks. være at:
 
 - Teste at de moduler du lokalt har installeret på produktionsmiljøet fungerer med seneste
 release af Folkebibliotekernes CMS.
