@@ -15,7 +15,7 @@ Testmiljøet er som udgangspunkt udelukkende beregnet til internt brug og er kon
 det ikke indekseres af søgemaskiner. Miljøet findes på en særlig web-adresse.
 
 ## Testmiljø
-Testmiljøet findes på en URL formateret på følgende vis:
+Testmiljøet findes på en URL formateret a la:
 `https://nginx.moduletest.BIBLIOTEKSNAVN.dplplat01.dpl.reload.dk/`. \
 `BIBLIOTEKSNAVN` erstattes med navnet på webmasterbiblioteket.
 
