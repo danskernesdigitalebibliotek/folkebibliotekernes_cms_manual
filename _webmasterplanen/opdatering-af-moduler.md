@@ -12,8 +12,7 @@ lokalt kan opgradere moduler, uden at det er nødvendigt at oprette en supportsa
 ## Modultest:
 For at opdatere et modul, der allerede er installeret på testsitet, kræver det at vores
 leverandør manuelt nulstiller testmiljøet. I praksis vil der blive foretaget samme procedure
-som beskrevet i afsnittet [Synkronisering og nulstilling af testmiljø](http://0.0.0.0:4000/webmasterplanen/produktions-og-testmiljoe/#synkronisering-og-nulstilling-af-testmilj%C3%B8). For at bestille en
-nulstilling af dit testsite skal du:
+som beskrevet i afsnittet [Synkronisering og nulstilling af testmiljø](https://www.folkebibliotekernescms.dk/main/webmasterplanen/produktions-og-testmiljoe/#synkronisering-og-nulstilling-af-testmilj%C3%B8). For at bestille en nulstilling af dit testsite skal du:
 
 1. Oprette en supportsag på [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals)
 2. Testsitet bliver nulstillet af vores leverandør. Håndtering af sagen kan tage op til 5 dage.
