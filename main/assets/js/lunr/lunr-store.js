@@ -918,7 +918,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2024.45.0",
-        "excerpt":"Diverse fejlrettelser og forbedringer   Releasedato: 07-10-2024   Opgraderingen rulles ud til:  Redaktørbiblioteker: Produktionssites opgraderes.  Webmasterbiblioteker: Testsite opgraderes.   Fejlrettelser og forbedringer   API for åbningstider til Redia-app: Fejl rettet hvor API kun medtager åbningstider for én filial.   Arrangementsfeed til Redia-app: Feedet slået midlertidigt fra.   ","categories": ["Release Notes"],
+        "excerpt":"Diverse fejlrettelser og forbedringer   Releasedato: 07-11-2024   Opgraderingen rulles ud til:  Redaktørbiblioteker: Produktionssites opgraderes.  Webmasterbiblioteker: Testsite opgraderes.   Fejlrettelser og forbedringer   API for åbningstider til Redia-app: Fejl rettet hvor API kun medtager åbningstider for én filial.   Arrangementsfeed til Redia-app: Feedet slået midlertidigt fra.   ","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-45-0/",
         "teaser": null
