@@ -917,6 +917,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-44-1/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.45.0",
+        "excerpt":"Diverse fejlrettelser og forbedringer   Releasedato: 07-10-2024   Opgraderingen rulles ud til:  Redaktørbiblioteker: Produktionssites opgraderes.  Webmasterbiblioteker: Testsite opgraderes.   Fejlrettelser og forbedringer   API for åbningstider til Redia-app: Fejl rettet hvor API kun medtager åbningstider for én filial.   Arrangementsfeed til Redia-app: Feedet slået midlertidigt fra.   ","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-45-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
