@@ -5,7 +5,7 @@ weight: 359
 ---  
 # Diverse fejlrettelser og forbedringer
 
-Releasedato: 07-10-2024
+Releasedato: 07-11-2024
 
 Opgraderingen rulles ud til: 
 Redaktørbiblioteker: Produktionssites opgraderes. 
