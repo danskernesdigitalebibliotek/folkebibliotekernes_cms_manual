@@ -15,4 +15,4 @@ Moduletestsites opdateres ugentligt om torsdagen - næste gang torsdag i uge 46.
  
 Produktionssites opdateres den sidste torsdag i måneden - næste gang torsdag i uge 48 (opgraderes til release 2024.47.0).
  
-Se [release notes for de forskellige releases](https://www.folkebibliotekernescms.dk/main/overblik/release-notes/)
+Se [release notes for Folkebibliotekernes CMS](https://www.folkebibliotekernescms.dk/main/overblik/release-notes/)
