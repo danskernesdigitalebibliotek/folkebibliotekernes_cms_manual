@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 11/11 Driftsstatus: Vi oplever ustabil drift på siderne
+Det gælder både front- og backend. Vi arbejder på sagen.
 ## 4/11 Alle redaktørsites + moduletestsites er nu opdateret til 2024.44.1
 Fejlen med webforms der fejlede skulle nu være rettet.
 ## 4/11 Driftsstatus kl. 13.48: Alle hjemmesider er oppe igen
