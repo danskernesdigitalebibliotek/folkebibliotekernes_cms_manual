@@ -612,7 +612,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Arrangementsindstillinger",
-        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Arrangementsindstillinger   Eller åbn via URL (udskift mit-domænenavn.dk):  https://mit-domænenavn.dk/admin/config/dpl-event/settings  ","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Arrangementsindstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-event/settings Price currency Her vælges hvilken valuta priser skal angives i. Både på arrangementer og på gebyrer. Valg af valuta træder også igennem i event API’et og sendes dermed videre til f. eks. Place2book. Standardværdien...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/main/konfiguration/arrangementsindstillinger/",
         "teaser": null
