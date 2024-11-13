@@ -936,7 +936,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2024.46.0",
-        "excerpt":"Diverse fejlrettelser og forbedringer Releasedato: 14-11-2024 Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Testsite opgraderes. Fejlrettelser og forbedringer Fejlrettelser og forbedringer Arrangement: Filialnavn vises nu på serievisning og på instanser - også hvis der skiftes filial ud på en enkelt instans. Værker i serie: Problem løst hvor alle værker...","categories": ["Release Notes"],
+        "excerpt":"Diverse fejlrettelser og forbedringer Releasedato: 14-11-2024 Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Testsite opgraderes. Fejlrettelser og forbedringer Fejlrettelser og forbedringer. Arrangement: Filialnavn vises nu på serievisning og på instanser - også hvis der skiftes filial ud på en enkelt instans. Værker i serie: Problem løst hvor alle værker...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-46-0/",
         "teaser": null
