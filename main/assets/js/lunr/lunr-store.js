@@ -756,7 +756,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Strakslåns-notifikation",
-        "excerpt":"Mens man opretter en reservation kan man få en strakslåns-notifikation. Du møder strakslåns-notifikationen, når der er reserveringskø på den materialetype, du er ved at reservere OG hvis biblioteket har et eller flere ikke-reserverbare eksemplarer hjemme. Mange biblioteker har ikke-reserverbare eksemplarer i form af “kviklån” eller “kortlån”. I det tilfælde bliver...","categories": ["Søgning"],
+        "excerpt":"Mens man opretter en reservation kan man få en strakslåns-notifikation. Strakslåns-notifikation Du møder strakslåns-notifikationen, når der er reserveringskø på den materialetype, du er ved at reservere OG hvis biblioteket har et eller flere ikke-reserverbare eksemplarer hjemme. Mange biblioteker har ikke-reserverbare eksemplarer i form af “kviklån” eller “kortlån”. I det tilfælde...","categories": ["Søgning"],
         "tags": [],
         "url": "/main/nye-features/strakslaansnotifikation/",
         "teaser": null
