@@ -25,6 +25,6 @@ Webmasterbiblioteker: Testsite opgraderes.
 
 - Drupal opgraderet til 10.3.*.
 
-- Databaselogging: DB logging er slået fra som resultat af de seneste udfald, hvor databasen har været voldsomt belastet. Den data, som normalt ville være tilgængelig herigennem, er i stedet tilgængelig igennem Loki og Grafana, hvilket ikke belaster databasen i samme grad.
+- Databaselogging: DB logging er slået fra som resultat af de seneste udfald, hvor databasen har været voldsomt belastet. Den data, som normalt ville være tilgængelig herigennem, er i stedet tilgængelig igennem Loki og Grafana. Her belastes databasen ikke i samme grad.
 
 
