@@ -9,7 +9,7 @@ Eller åbn via URL (udskift mit-domænenavn.dk):\
 `https://mit-domænenavn.dk/admin/config/dpl-event/settings`
 
 ## Price currency
-Her vælger I, hvilken valuta priser bliver angivet i. Både på arrangementer og på gebyrer.
+Her vælger I, hvilken valuta priser bliver angivet i. Det gælder både priser på arrangementer og gebyrer.
 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/b53efcb9-2d89-43bd-bdaf-207878e8fed1" alt="Vælg valuta for hjemmesiden" caption="Vælg valuta for hjemmesiden" %}
 
