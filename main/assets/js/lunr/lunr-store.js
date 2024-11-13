@@ -684,7 +684,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Indstillinger for strakslån",
-        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for strakslån   Eller åbn via URL (udskift mit-domænenavn.dk):  https://mit-domænenavn.dk/admin/config/dpl-library-agency/instant-loan  ","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for strakslån Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/instant-loan Hvad er strakslån? Mens man opretter en reservation kan man få en strakslåns-notifikation. Strakslåns-notifikation Du møder strakslåns-notifikationen, når der er reserveringskø på den materialetype, du er ved at reservere OG hvis biblioteket...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/main/konfiguration/strakslaan/",
         "teaser": null
