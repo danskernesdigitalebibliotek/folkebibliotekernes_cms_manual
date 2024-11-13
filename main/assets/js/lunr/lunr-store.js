@@ -683,6 +683,12 @@ var store = [{
         "url": "/main/konfiguration/personer/",
         "teaser": null
       },{
+        "title": "Indstillinger for strakslån",
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for strakslån   Eller åbn via URL (udskift mit-domænenavn.dk):  https://mit-domænenavn.dk/admin/config/dpl-library-agency/instant-loan  ","categories": ["Konfiguration"],
+        "tags": [],
+        "url": "/main/konfiguration/strakslaan/",
+        "teaser": null
+      },{
         "title": "Logo, identitetsfarve og favicon",
         "excerpt":"I topmenuen klik på Udseende &gt; Novel &gt; Indstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/appearance/settings/novel Om logo, identitetsfarve og favicon Folkebibliotekernes CMS bruger et standard tema, der hedder “Novel”. I kan ændre nogle få ting i standard-temaet: Logo Identitetsfarve Favicon Ændring af logo Klik på Udseende i toppen af...","categories": ["Konfiguration"],
         "tags": [],
