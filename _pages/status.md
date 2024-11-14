@@ -4,7 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-
+## 14/11 Alle redaktørsites + moduletestsites er nu opdateret til 2024.46.0
+Husk I kan se releasenotes her: (https://www.folkebibliotekernescms.dk/main/overblik/release-notes/)
 ## 11/11 Driftsstatus: Alle sider burde være oppe igen
 Microsofts database var nede.
 ## 11/11 Driftsstatus: Vi oplever ustabil drift på siderne
