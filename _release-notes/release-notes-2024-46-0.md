@@ -13,8 +13,6 @@ Webmasterbiblioteker: Testsite opgraderes.
 
 ## Fejlrettelser og forbedringer
 
-- Fejlrettelser og forbedringer.
-
 - Arrangement: Filialnavn vises nu på serievisning og på instanser - også hvis der skiftes filial ud på en enkelt instans.
 
 - Værker i serie: Problem løst hvor alle værker i en serie står vist som ”Del 1”.
