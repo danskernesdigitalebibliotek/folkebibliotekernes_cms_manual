@@ -1044,7 +1044,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opdatering af moduler",
-        "excerpt":"I øjeblikket er det nødvendigt at oprette en supportsag på servicedesk, hvis du ønsker opdatering af allerede installerede moduler på testsitet og på produktion. Efter efterårsferien (2024) vil der blive lavet en udvidelse til Folkebibliotekernes CMS, så webmasterbiblioteker lokalt kan opgradere moduler, uden at det er nødvendigt at oprette en...","categories": ["Webmasterplanen"],
+        "excerpt":"I øjeblikket er det nødvendigt at oprette en supportsag på servicedesk, hvis du ønsker opdatering af allerede installerede moduler på testsitet og på produktion. I fjerde kvartal 2024 udvikles en løsning til Folkebibliotekernes CMS, så webmasterbiblioteker lokalt kan opgradere moduler, uden at det er nødvendigt at oprette en supportsag. Modultest:...","categories": ["Webmasterplanen"],
         "tags": [],
         "url": "/main/webmasterplanen/opdatering-af-moduler/",
         "teaser": null
