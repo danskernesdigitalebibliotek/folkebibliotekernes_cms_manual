@@ -19,5 +19,5 @@ Arrangement: Fejl rettet hvor det ikke er muligt at redigere arrangement oprette
 ## Fix til kontaktformularer 
 
 Dette er ikke en rettelse, som er implementeret i releasen, men et fix til et kendt problem.
-Hvis man har problemer med at kontaktformularen ikke virker fx ved at den ikke vil sende eller modtage mails, så følg denne [guide til hvordan du fixer din kontaktfomuar](https://www.folkebibliotekernescms.dk/main/overblik/status/fixkontakt).
+Hvis man har problemer med at kontaktformularen ikke virker fx ved at den ikke vil sende, så følg denne [guide til hvordan du fixer din kontaktfomuar](https://www.folkebibliotekernescms.dk/main/overblik/status/fixkontakt).
 Følg guiden slavisk ellers kan der være ting, som ikke virker.
