@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Manual, tidsplan og information om Folkebibliotekernes CMS. Sitets vedligeholdes af DDF 
   og udbygges løbende.
 baseurl: "/" # the subpath of your site, e.g. /blog
-google_analytics: G-2E3VZJMGYQ
+google_analytics: G-YW8N0HH0F5
 minimal_mistakes_skin: default
 breadcrumbs: true  # disabled by default
 search: true
