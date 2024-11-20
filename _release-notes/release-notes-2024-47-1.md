@@ -16,7 +16,7 @@ Webmasterbiblioteker: Testsite opgraderes.
 Arrangement: Fejl rettet hvor det ikke er muligt at redigere arrangement oprette med "Tilføj instans". 
 
 
-## Fix til kontaktformularer, som ikke virker: 
+## Fix til kontaktformularer 
 
 Dette er ikke en rettelse, som er implementeret i releasen, men er et fix til et kendt problem.
 Hvis man har problemer med at kontaktformularen ikke virker fx ved at den ikke vil sende eller modtage mails, så følg denne guide https://www.folkebibliotekernescms.dk/main/overblik/status/fixkontakt.
