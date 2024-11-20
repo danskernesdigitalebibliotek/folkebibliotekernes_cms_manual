@@ -13,7 +13,7 @@ Webmasterbiblioteker: Testsite opgraderes.
 
 ## Fejlrettelser
 
-Arrangement: Fejl rettet hvor det ikke er muligt at redigere arrangement oprette med "Tilføj instans". 
+Arrangement: Fejl rettet hvor det ikke er muligt at redigere arrangement oprettet med "Tilføj instans". 
 
 
 ## Fix til kontaktformularer 
