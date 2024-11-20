@@ -942,7 +942,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2024.47.1",
-        "excerpt":"Rettelse af fejl og fix til kontaktformular Releasedato: 21-11-2024 Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Testsite opgraderes. Fejlrettelser Arrangement: Fejl rettet hvor det ikke er muligt at redigere arrangement oprette med “Tilføj instans”. Fix til kontaktformularer Dette er ikke en rettelse, som er implementeret i releasen, men er...","categories": ["Release Notes"],
+        "excerpt":"Rettelse af fejl og fix til kontaktformular Releasedato: 21-11-2024 Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Testsite opgraderes. Fejlrettelser Arrangement: Fejl rettet hvor det ikke er muligt at redigere arrangement oprette med “Tilføj instans”. Fix til kontaktformularer Dette er ikke en rettelse, som er implementeret i releasen, men et...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-47-1/",
         "teaser": null
