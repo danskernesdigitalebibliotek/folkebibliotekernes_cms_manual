@@ -941,6 +941,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-46-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.47.1",
+        "excerpt":"Rettelse af fejl   Releasedato: 21-11-2024   Opgraderingen rulles ud til:  Redaktørbiblioteker: Produktionssites opgraderes.  Webmasterbiblioteker: Testsite opgraderes.   Fejlrettelser   Arrangement: Fejl rettet hvor det ikke er muligt at redigere arrangement oprette med “Tilføj instans”.  ","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-47-1/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
