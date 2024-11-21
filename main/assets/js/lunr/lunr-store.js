@@ -941,10 +941,10 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-46-0/",
         "teaser": null
       },{
-        "title": "Release Notes 2024.47.1",
+        "title": "Release Notes 2024.47.2",
         "excerpt":"Rettelse af fejl og fix til kontaktformular Releasedato: 21-11-2024 Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Testsite opgraderes. Fejlrettelser Arrangement: Fejl rettet hvor det ikke er muligt at redigere arrangement oprettet med “Tilføj instans”. Fix til kontaktformularer Dette er ikke en rettelse, som er implementeret i releasen, men et...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2024-47-1/",
+        "url": "/main/overblik/release-notes/release-notes-2024-47-2/",
         "teaser": null
       },{
         "title": "Release Notes 220324",
