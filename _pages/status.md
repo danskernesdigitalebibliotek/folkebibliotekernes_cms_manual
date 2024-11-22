@@ -4,7 +4,7 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 21/11 Alle redaktørsites + moduletestsites er nu opdateret til 2024.46.0
+## 21/11 Alle redaktørsites + moduletestsites er nu opdateret til 2024.47.2
 Husk I kan se releasenotes her: (https://www.folkebibliotekernescms.dk/main/overblik/release-notes/)
 ## 14/11 Alle redaktørsites + moduletestsites er nu opdateret til 2024.46.0
 Husk I kan se releasenotes her: (https://www.folkebibliotekernescms.dk/main/overblik/release-notes/)
