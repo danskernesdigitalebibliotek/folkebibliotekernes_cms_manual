@@ -313,14 +313,39 @@
   <li><strong>Simpel HTML</strong> med nøgle <strong>persondata</strong>. Teksten i HTML markup er “BEMÆRK! Indsæt aldrig CPR-nummer eller følsomme oplysninger i formularen. Læs mere om behandling af persondata i vores privatlivspolitik.” Link til jeres privatlivspolitik. Er som standard /privatlivspolitik.</li>
 </ul>
 
-<h2 id="2-opsæt-modtagere-af-mails">2. Opsæt modtagere af mails</h2>
+<h2 id="2-opret-de-korrekte-email-kategorier">2. Opret de korrekte email kategorier</h2>
+<p>I kontaktformularen kan brugerne vælge en kategori, som henvendelsen omhandler, og I kan tilknytte en email til de kategorier, så de sendes til de rette personer på biblioteket.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/226400d7-9974-4d0d-b7cc-d5b6917cce9a" alt="Email kategorier" /><figcaption>
+      Email kategorier
+
+    </figcaption></figure>
+
+<p>I topmenuen klik på <strong>Struktur</strong> eller åbn <code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/admin/structure (udskift mit-domænenavn.dk)</code></p>
+
+<p>Tryk på <strong>Taksonomi</strong></p>
+
+<p>Tryk på <strong>Vis ord</strong> ud for Webform email kategories</p>
+
+<p>Her kan I redigere, tilføje og slette kategorier.</p>
+
+<p><strong>Det er vigtigt at I retter emails på alle eksisterende kategorier, som I vil beholde</strong> ellers modtager I ikke mails når brugerne vælger de kategorier.</p>
+
+<p>For at gøre det, så trykker I på <strong>Rediger</strong> ud for den kategori, som skal have tilknyttet en email og retter emailen i feltet <strong>Email</strong> og tryk på <strong>Gem</strong>.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/7dab3d81-8cff-4abb-bdd9-32e5d9f7ffa8" alt="Ret email" /><figcaption>
+      Ret email
+
+    </figcaption></figure>
+
+<h2 id="3-opsæt-modtagere-af-mails">3. Opsæt modtagere af mails</h2>
 <ul>
   <li>Tilføj en ny mailskabelon via <strong>Indstillinger</strong> og så <strong>Emails/handlers</strong>. Tryk så på knappen <strong>+ Tilføj Email</strong> øverst til højre.</li>
   <li>Tildel den titlen <strong>Modtager på biblioteket</strong>.</li>
   <li>I <strong>Send til</strong> feltet vælg <strong>Custom To email address</strong> og indtast <code class="language-plaintext highlighter-rouge">[webform_submission:values:kategori:entity:field_email:value]</code>.</li>
 </ul>
 
-<h2 id="3-opsæt-kvitteringsmail">3. Opsæt kvitteringsmail</h2>
+<h2 id="4-opsæt-kvitteringsmail">4. Opsæt kvitteringsmail</h2>
 
 <ul>
   <li>Tilføj en ny mailskabelon via <strong>Indstillinger</strong> og så <strong>Emails/handlers</strong>.</li>
@@ -354,7 +379,7 @@ Mange tak for din henvendelse. Vi besvarer henvendelser indenfor X dage.<br />
 Med venlig hilsen<br />
 Eksempel Bibliotekerne</p>
 
-<h2 id="4-opsæt-kvitteringsside--kvitteringsbesked">4. Opsæt kvitteringsside / kvitteringsbesked</h2>
+<h2 id="5-opsæt-kvitteringsside--kvitteringsbesked">5. Opsæt kvitteringsside / kvitteringsbesked</h2>
 <ul>
   <li>Opsæt kvitteringsside eller kvitteringsbesked ved at åbne formularens <strong>Indstillinger</strong> og så <strong>Bekræftelse</strong></li>
 </ul>
@@ -371,7 +396,7 @@ Eksempel Bibliotekerne</p>
   <li>Hvem kan de kontakte, hvis de har spørgsmål</li>
 </ul>
 
-<h2 id="5-skift-formularen-inde-på-kontaktsiden">5. Skift formularen inde på kontaktsiden</h2>
+<h2 id="6-skift-formularen-inde-på-kontaktsiden">6. Skift formularen inde på kontaktsiden</h2>
 <ul>
   <li>Gå ind på og rediger den side, hvor jeres kontaktformular er. Det er på <code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/kontakt</code> (udskift mit-domænenavn.dk), hvis I ikke har ændret noget.</li>
   <li>Find paragrafen med webformularen og tryk på <strong>Rediger</strong>.</li>
@@ -393,7 +418,7 @@ Eksempel Bibliotekerne</p>
   <li>Tryk på <strong>Gem</strong>.</li>
 </ul>
 
-<h2 id="6-test-at-det-virker">6. Test at det virker</h2>
+<h2 id="7-test-at-det-virker">7. Test at det virker</h2>
 <ol>
   <li>Gå ind på kontaktformularen. Det er på <code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/kontakt</code> (udskift mit-domænenavn.dk), hvis I ikke har ændret noget.</li>
   <li>Udfyld formularen.</li>
