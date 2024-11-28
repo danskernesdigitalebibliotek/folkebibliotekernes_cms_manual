@@ -1,3 +1,9 @@
+---
+title:  "Release Notes 2024.48.0"
+category: "Release Notes"
+weight: 356
+---  
+
 # Rettelse af fejl og ny feature til webmasterbiblioteker. 
 
 Releasedato: 28-11-2024
