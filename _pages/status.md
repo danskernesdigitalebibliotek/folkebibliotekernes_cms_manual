@@ -13,7 +13,7 @@ Vi har problemer med modultestsites'nepga. og derfor har vi ikke kunnet gennemf�
 
 #### Vores plan er som følger:
 - Vi pakker en release 2024.48.1 og ruller den ud på staging
-- På mandag ruller vi 2024.48.1 ud på webmasternes modultestsites og webmastersites på 2024.48.0
+- På mandag ruller vi 2024.48.1 ud på webmasternes modultestsites
 - Efter udrulning af 2024.48.1 fortsætter vi udrulningsprocessen og synkroniserer webmasternes modultestsites med produktion
 
 ## 29/11 kl. 9.50 Status på release 2024.48.0
