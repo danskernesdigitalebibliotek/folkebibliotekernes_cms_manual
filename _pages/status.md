@@ -4,7 +4,19 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 29/11 kl. 10.30 Status på release 2024.48.0
+## 29/11 kl. 10.40 Opdateret status på release 2024.48.0
+Som skrevet er alle produktionssites opdateret dvs.
+- Redaktørbiblioteker er på 2024.48.0
+- Webmasterbiblioteker er på 2024.47.2
+- Webmasterbiblioteker der har tilvalgt seneste release er på 2024.48.0
+Vi har problemer med modultestsites'nepga. og derfor har vi ikke kunnet gennemføre release processen her.
+
+#### Vores plan er som følger:
+- Vi pakker en release 2024.48.1 og ruller den ud på staging
+- På mandag ruller vi 2024.48.1 ud på webmasternes modultestsites og webmastersites på 2024.48.0
+- Efter udrulning af 2024.48.1 fortsætter vi udrulningsprocessen og synkroniserer webmasternes modultestsites med produktion
+
+## 29/11 kl. 9.50 Status på release 2024.48.0
 Releasen er færdig på alle produktionssites, men vi arbejder stadig med moduletestsitesene. Vi melder mere ud, så snart vi har den videre plan/tidshorisont fra udviklerne.
 ## 21/11 Alle redaktørsites + moduletestsites er nu opdateret til 2024.47.2
 Husk I kan se releasenotes her: (https://www.folkebibliotekernescms.dk/main/overblik/release-notes/)
