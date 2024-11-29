@@ -15,6 +15,7 @@ Vi har problemer med modultestsites'nepga. og derfor har vi ikke kunnet gennemf�
 - Vi pakker en release 2024.48.1 og ruller den ud på staging
 - På mandag ruller vi 2024.48.1 ud på webmasternes modultestsites
 - Efter udrulning af 2024.48.1 fortsætter vi udrulningsprocessen og synkroniserer webmasternes modultestsites med produktion
+Vent med at teste opdatering af egne moduler endnu. Vi skal nok sige til, når I kan teste det.
 
 ## 29/11 kl. 9.50 Status på release 2024.48.0
 Releasen er færdig på alle produktionssites, men vi arbejder stadig med moduletestsitesene. Vi melder mere ud, så snart vi har den videre plan/tidshorisont fra udviklerne.
