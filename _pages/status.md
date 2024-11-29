@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 29/11 kl. 10.30 Status på release 2024.48.0
+Releasen er færdig på alle produktionssites, men vi arbejder stadig med moduletestsitesene. Vi melder mere ud, så snart vi har den videre plan/tidshorisont fra udviklerne.
 ## 21/11 Alle redaktørsites + moduletestsites er nu opdateret til 2024.47.2
 Husk I kan se releasenotes her: (https://www.folkebibliotekernescms.dk/main/overblik/release-notes/)
 ## 14/11 Alle redaktørsites + moduletestsites er nu opdateret til 2024.46.0
