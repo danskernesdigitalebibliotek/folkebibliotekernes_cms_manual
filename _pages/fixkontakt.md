@@ -29,11 +29,9 @@ I kontaktformularen kan brugerne vælge en kategori, som henvendelsen omhandler,
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/226400d7-9974-4d0d-b7cc-d5b6917cce9a" alt="Email kategorier" caption="Email kategorier" %}
 
-I topmenuen klik på **Struktur** eller åbn `https://mit-domænenavn.dk/admin/structure (udskift mit-domænenavn.dk)`
-
-Tryk på **Taksonomi**
-
-Tryk på **Vis ord** ud for Webform email kategories
+- I topmenuen klik på **Struktur** eller åbn `https://mit-domænenavn.dk/admin/structure (udskift mit-domænenavn.dk)`
+- Tryk på **Taksonomi**
+- Tryk på **Vis ord** ud for Webform email kategories
 
 Her kan I redigere, tilføje og slette kategorier. 
 
@@ -44,12 +42,13 @@ For at gøre det, så trykker I på **Rediger** ud for den kategori, som skal ha
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/7dab3d81-8cff-4abb-bdd9-32e5d9f7ffa8" alt="Ret email" caption="Ret email" %}
 
 ## 3. Opsæt modtagere af mails
+- I topmenuen klik på **Struktur > Webformularer** eller åbn `https://mit-domænenavn.dk/admin/structure/webform` (udskift mit-domænenavn.dk). Du kommer ind på en oversigt over webformularer, som du har oprettet. Her ligger også jeres gamle **Kontaktformular**.
+- Tryk på Byg
 - Tilføj en ny mailskabelon via **Indstillinger** og så **Emails/handlers**. Tryk så på knappen **+ Tilføj Email** øverst til højre.
 - Tildel den titlen **Modtager på biblioteket**.
-- I **Send til** feltet vælg **Custom To email address** og indtast `[webform_submission:values:kategori:entity:field_email:value]`.
+- I **Send til** feltet vælg **Custom To email address** og indtast `[webform_submission:values:kategori:entity:field_email:value]`
 
 ## 4. Opsæt kvitteringsmail
-
 - Tilføj en ny mailskabelon via **Indstillinger** og så **Emails/handlers**. 
 - Tryk så på knappen **+ Tilføj Email** øverst til højre.
 - Tildel den titlen **Kvittering til borgeren**.
