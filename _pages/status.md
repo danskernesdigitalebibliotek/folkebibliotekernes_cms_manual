@@ -10,7 +10,7 @@ Som skrevet er alle produktionssites opdateret dvs.
 - Webmasterbiblioteker er på 2024.47.2
 - Webmasterbiblioteker der har tilvalgt seneste release er på 2024.48.0
 
-Vi har problemer med modultestsites'nepga. og derfor har vi ikke kunnet gennemføre release processen her.
+Vi har problemer med modultestsitesene. og derfor har vi ikke kunnet gennemføre release processen her.
 
 #### Vores plan er som følger:
 - Vi pakker en release 2024.48.1 og ruller den ud på staging
