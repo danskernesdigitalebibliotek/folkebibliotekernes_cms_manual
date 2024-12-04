@@ -24,6 +24,6 @@ Webmasterbiblioteker: Testsite opgraderes til 2024.49.0.
 - Arrangementsfeed til app: Indeholder nu oplysninger om link til ekstern billetleverandør, hvor billetter kan købes. 
 
 ## Fejlrettelser
-- Arrangementsfeed til app:  Specialtegn i feedet er nu encodet. F.eks. skal ”&” encodes som ”&amp;” for ikke at skabe fejl i forbindelse med importen af arrangementer til appen.
+- Arrangementsfeed til app:  Specialtegn i feedet er nu encodet. F.eks. er ”&” encodet som ”&amp;” for ikke at skabe fejl i forbindelse med importen af arrangementer til appen.
 
 - API for arrangementer: Hvis man som redaktør opdaterer en eventserie vil de enkelte instanser nu også figurere som opdaterede i API for arrangementer (se  værdien ”updated_at” i API). Det betyder at eksterne billetleverandører i de berørte tilfælde kan se hvornår et arrangement er opdateret og holde egne oplysninger om arrangementet ajour, så snart der sker ændringer.  
