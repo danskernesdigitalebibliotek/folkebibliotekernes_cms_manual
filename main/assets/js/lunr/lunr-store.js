@@ -953,6 +953,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-48-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.49.0",
+        "excerpt":"IMS-placeringsoplysninger, data om samarbejdspartner og rettelser til arrangementsfeed til appen ”Biblioteket”. Releasedato: 05-12-2024 Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes til 2024.49.0. Webmasterbiblioteker: Testsite opgraderes til 2024.49.0. Nye features IMS-placeringsoplysninger: Biblioteker som har Intelligent Materialestyring (IMS) vil nu på materialeposter (under bl.a. ”Find på hylden”) få vist placeringsoplysninger baseret på...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-49-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
