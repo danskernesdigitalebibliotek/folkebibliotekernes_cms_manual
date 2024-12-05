@@ -7,7 +7,7 @@ nav: "overblik"
 
 ## Redaktørbibliotek
 
-Redaktørbibliotekernes sites opdateres ugentligt om torsdagen. Næste opdatering er torsdag i uge 50. Dette er årets sidste release. Næste release udrulles i uge 3. 
+Redaktørbibliotekernes sites opdateres ugentligt om torsdagen. Næste opdatering er torsdag i uge 50. Dette er årets sidste release. Første release i 2025 udrulles i uge 3. 
  
 ## Webmasterbibliotek
 
