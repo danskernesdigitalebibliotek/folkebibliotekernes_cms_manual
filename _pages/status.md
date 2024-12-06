@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 6/12 Efter release 2024.49.0 er der ikke DK5-numre under "Find på hylden".
+Vi er på sagen, som højest sandsynligt vil kræve en release-rettelse i næste uge. Vi følger op på mandag.
+
 ## 29/11 kl. 10.40 Opdateret status på release 2024.48.0
 Som skrevet er alle produktionssites opdateret dvs.
 - Redaktørbiblioteker er på 2024.48.0
