@@ -450,7 +450,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Bibliotek og åbningstider",
-        "excerpt":"Opret biblioteker I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk) Klik på Tilføj indhold i øverste højre hjørne: Klik på Bibliotek Udfyld felterne: Titel, Adresse og eventuelt Hovedbillede, Email og Telefon Hvis man ønsker et bibliotek skal være øverst på listen af biblioteker, så kan man slå Vis...","categories": ["Indholdstyper"],
+        "excerpt":"Åbningstider Tilføj, redigér og slet åbningstider Du tilføjer, redigerer og sletter åbningstider ved at redigere et bibliotek. I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk) og tryk Redigér ud for det bibliotek, som skal have redigeret åbningstiderne. Vælg åbningstider Her kan I tilføje, redigere og slette åbningstider. Hvis...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/main/indhold/bibliotek-og-%C3%A5bningstider/",
         "teaser": null
