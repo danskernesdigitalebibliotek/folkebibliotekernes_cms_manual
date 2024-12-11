@@ -25,7 +25,7 @@ Tips til åbningstider:
 
 ### Visning af åbningstider på bibliotekssider
 Åbningstiderne bliver kun vist på bibliotekssiden, hvis biblioteket har fået tilføjet den paragrapgh, der hedder **Åbningstider**. [Læs om oprettelse af biblioteker](https://www.folkebibliotekernescms.dk/main/indhold/bibliotek-og-%C3%A5bningstider/#opret-biblioteker).
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/b84a6836-aaf5-4c5f-ab8d-719dc55448c5" alt="Vælg åbningstider" caption="Vælg åbningstider" %}
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/b84a6836-aaf5-4c5f-ab8d-719dc55448c5" alt="Visning af åbningstider på bibliotekssiden" caption="Visning af åbningstider på bibliotekssiden" %}
 
 ## Åbningstider i Biblioteket Appen 
 Lige nu sker der ikke automatisk overførsel af åbningstider fra CMS til Biblioteket appen. 
