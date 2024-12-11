@@ -450,7 +450,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Bibliotek og åbningstider",
-        "excerpt":"Åbningstider Tilføj, redigér og slet åbningstider Du tilføjer, redigerer og sletter åbningstider ved at redigere et bibliotek. I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk) og tryk Redigér ud for det bibliotek, som skal have redigeret åbningstiderne. Vælg åbningstider Her kan I tilføje, redigere og slette åbningstider. Hvis...","categories": ["Indholdstyper"],
+        "excerpt":"Tilføj, redigér og slet åbningstider Du tilføjer, redigerer og sletter åbningstider ved at redigere et bibliotek. Fremsøg det bibliotek, du vil redigere åbningstider for. I topmenuen klik på Indhold. Vælg Indholdstype = Bibliotek og klik Filtrer. Tryk Redigér ud for det bibliotek, som skal have redigeret åbningstiderne. Fremsøg biblioteker Klik...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/main/indhold/bibliotek-og-%C3%A5bningstider/",
         "teaser": null
