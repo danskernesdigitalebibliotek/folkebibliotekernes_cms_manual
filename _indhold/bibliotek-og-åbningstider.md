@@ -6,21 +6,19 @@ emneord:
 - "Biblioteket App"
 ---
 
-### Tilføj, redigér og slet åbningstider
-Du tilføjer, redigerer og sletter åbningstider ved at redigere et bibliotek. 
-
-1. Fremsøg det bibliotek, du vil redigere åbningstider for. 
+## Tilføj, redigér og slet åbningstider for et bibliotek
+1. Find først det bibliotek, du skal lave åbningstidsændringer for.
 - I topmenuen klik på **Indhold**.
 - Vælg **Indholdstype = Bibliotek** og klik **Filtrer**.
-- Tryk **Redigér** ud for det bibliotek, som skal have redigeret åbningstiderne.
+- Tryk **Redigér** ud for det bibliotek, som du vil arbejde med.
   
-{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/7da93255-c1ca-4287-984e-0048e2b5acfd" alt="Fremsøg biblioteker" caption="Fremsøg biblioteker" %}
+  {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/7da93255-c1ca-4287-984e-0048e2b5acfd" alt="Fremsøg biblioteker" caption="Fremsøg biblioteker" %}
 
-2. Klik på **Åbningstider**
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/b4946f5f-f95d-4f10-9866-2d31e24ba57e" alt="Vælg åbningstider" caption="Vælg åbningstider" %}
+2. Nu er du inde i redigeringsvisning for et bibliotek. Klik på **Åbningstider**
+  {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/b4946f5f-f95d-4f10-9866-2d31e24ba57e" alt="Vælg åbningstider" caption="Vælg åbningstider" %}
 
-3. Nu åbner en kalendervisning, der minder meget om en Outlook kalender. Klik et sted i kalenderen for at oprette en ny åbningstid. Skal du rette en åbningstid, så klik på den.
-{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/1d9e556c-34ff-4a23-a3bf-760713a22ef0" alt="Åbningstidskalenderen" caption="Åbningstidskalenderen" %}
+3. Nu åbner en kalendervisning, der minder meget om en Outlook kalender. Klik et sted i kalenderen for at oprette en ny åbningstid. Skal du rette eller slette en åbningstid, så klik på den.
+  {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/1d9e556c-34ff-4a23-a3bf-760713a22ef0" alt="Åbningstidskalenderen" caption="Åbningstidskalenderen" %}
 
 Tips til åbningstider:
 - Hvis man har en åbningstid, der går til kl. 00:00, så skal man anføre 23:59 i stedet. Ellers skifter åbningstid dato og det understøtter systemet ikke.
