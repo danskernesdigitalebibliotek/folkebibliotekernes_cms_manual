@@ -17,7 +17,7 @@ emneord:
 4. Nu åbner en kalendervisning, der minder meget om en Outlook kalender.
   - Klik et sted i kalenderen for at oprette en ny åbningstid. 
   - Skal du rette eller slette en åbningstid, så klik på åbningstiden.
-  {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/1d9e556c-34ff-4a23-a3bf-760713a22ef0" alt="Åbningstidskalenderen" caption="Åbningstidskalenderen" %}
+    {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/1d9e556c-34ff-4a23-a3bf-760713a22ef0" alt="Åbningstidskalenderen" caption="Åbningstidskalenderen" %}
 
 Tips til åbningstider:
 - Hvis man har en åbningstid, der går til kl. 00:00, så skal man anføre 23:59 i stedet. Ellers skifter åbningstid dato og det understøtter systemet ikke.
