@@ -13,8 +13,8 @@ emneord:
   - Tryk **Redigér** ud for det bibliotek, som du vil arbejde med.
     {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/7da93255-c1ca-4287-984e-0048e2b5acfd" alt="Fremsøg biblioteker" caption="Fremsøg biblioteker" %}
 3. Du kommer ind i redigeringsvisning for et bibliotek. Klik på **Åbningstider**
-  {% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/b4946f5f-f95d-4f10-9866-2d31e24ba57e" alt="Vælg åbningstider" caption="Vælg åbningstider" %}
-4. Nu åbner en kalendervisning, der minder meget om en Outlook kalender. 
+    {% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/b4946f5f-f95d-4f10-9866-2d31e24ba57e" alt="Vælg åbningstider" caption="Vælg åbningstider" %}
+4. Nu åbner en kalendervisning, der minder meget om en Outlook kalender.
   - Klik et sted i kalenderen for at oprette en ny åbningstid. 
   - Skal du rette eller slette en åbningstid, så klik på åbningstiden.
   {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/1d9e556c-34ff-4a23-a3bf-760713a22ef0" alt="Åbningstidskalenderen" caption="Åbningstidskalenderen" %}
