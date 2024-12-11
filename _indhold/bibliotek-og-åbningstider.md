@@ -6,20 +6,29 @@ emneord:
 - "Biblioteket App"
 ---
 
-## Åbningstider
-
 ### Tilføj, redigér og slet åbningstider
-Du tilføjer, redigerer og sletter åbningstider ved at redigere et bibliotek. I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/content` (udskift mit-domænenavn.dk) og tryk **Redigér** ud for det bibliotek, som skal have redigeret åbningstiderne.
+Du tilføjer, redigerer og sletter åbningstider ved at redigere et bibliotek. 
 
+1. Fremsøg det bibliotek, du vil redigere åbningstider for. 
+- I topmenuen klik på **Indhold**.
+- Vælg **Indholdstype = Bibliotek** og klik **Filtrer**.
+- Tryk **Redigér** ud for det bibliotek, som skal have redigeret åbningstiderne.
+  
+{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/7da93255-c1ca-4287-984e-0048e2b5acfd" alt="Fremsøg biblioteker" caption="Fremsøg biblioteker" %}
+
+2. Klik på **Åbningstider**
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/b4946f5f-f95d-4f10-9866-2d31e24ba57e" alt="Vælg åbningstider" caption="Vælg åbningstider" %}
 
-Her kan I tilføje, redigere og slette åbningstider.
+3. Nu åbner en kalendervisning, der minder meget om en Outlook kalender. Klik et sted i kalenderen for at oprette en ny åbningstid. Skal du rette en åbningstid, så klik på den.
+{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/1d9e556c-34ff-4a23-a3bf-760713a22ef0" alt="Åbningstidskalenderen" caption="Åbningstidskalenderen" %}
 
+Tips til åbningstider:
 - Hvis man har en åbningstid, der går til kl. 00:00, så skal man anføre 23:59 i stedet. Ellers skifter åbningstid dato og det understøtter systemet ikke.
 - Har man en åbningstid, der løber henover en nat, fra 18:00 til 06:00, er man nødt til at oprette det som to åbningstider: 19:00 – 23:59 og 00:00 – 06:00.
 
-### Vis åbningstider på et bibliotek
-Dette gøres når man redigere eller opretter et bibliotek ved at tilføje en Paragraph. Læs mere i afsnittet **Opret biblioteker** i starten af denne guiden.
+### Visning af åbningstider på bibliotekssider
+Åbningstiderne bliver kun vist på bibliotekssiden, hvis den har den paragrapgh, der hedder **Åbningstider**. [Læs om oprettelse af biblioteker](https://www.folkebibliotekernescms.dk/main/indhold/bibliotek-og-%C3%A5bningstider/#opret-biblioteker).
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/b84a6836-aaf5-4c5f-ab8d-719dc55448c5" alt="Vælg åbningstider" caption="Vælg åbningstider" %}
 
 ## Åbningstider i Biblioteket Appen 
 Lige nu sker der ikke automatisk overførsel af åbningstider fra CMS til Biblioteket appen. 
@@ -41,20 +50,12 @@ Her kan I tilføje og redigere kategorierne
 
 I kan give hver kategori en farve, så de er nemmere for jer at overskue når I redigere jeres åbningstider. Farven vises ikke for brugerne på hjemmesiden.
 
-## Opret biblioteker
+## Opret et bibliotek
 
-I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/content` (udskift mit-domænenavn.dk)
+1. I topmenuen klik på **Indhold** eller åbn `https://mit-domænenavn.dk/admin/content` (udskift mit-domænenavn.dk)
+2. Klik på **Tilføj indhold** i øverste højre hjørne:
+3. Klik på **Bibliotek**
+4. Udfyld felterne: **Titel**, **Adresse** og eventuelt **Hovedbillede**, **Email** og **Telefon**. Hvis man ønsker et bibliotek skal være øverst på listen af biblioteker, så kan man slå **Vis øverst på filiallisten**
+5. I **Paragraphs** kan man tilføje indhold, som man ønsker på bibliotekssiden fx en brødtekst, materialekarrusel etc. Her kan man også tilføje en visning af åbningstiderne.
 
-Klik på **Tilføj indhold** i øverste højre hjørne:
-
-Klik på **Bibliotek**
-
-Udfyld felterne: **Titel**, **Adresse** og eventuelt **Hovedbillede**, **Email** og **Telefon**
-
-Hvis man ønsker et bibliotek skal være øverst på listen af biblioteker, så kan man slå **Vis øverst på filiallisten**
-
-I **Paragraphs** kan man tilføje indhold, som man ønsker på bibliotekssiden fx en brødtekst, materialekarrusel etc. Her kan man også tilføje en visning af åbningstiderne.
-
-Du kan få inspiration til hvordan du kan opbygge komponenterne i guiden [Formidlingsinspiration]({{ site.baseurl }}{% link _formidlingsinspiration/bibliotekssiden.md %}).
-{: .notice--primary}
 
