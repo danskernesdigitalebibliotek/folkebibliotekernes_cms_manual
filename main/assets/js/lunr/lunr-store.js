@@ -959,6 +959,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-49-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2024.50.0",
+        "excerpt":"Diverse fejlrettelser og forbedringer Releasedato: 12-12-2024 Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Testsites opgraderes til 2024.50.0. Produktionssites opgraderes til 2024.49.0. Features Webmasterbiblioteker: Mulighed for at opdatere egeninstallerede moduler. Vent med at teste løsningen til vi skriver, at den er klar til test. Vi forventer det sker fredag den...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-50-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
