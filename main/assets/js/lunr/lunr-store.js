@@ -960,7 +960,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2024.50.0",
-        "excerpt":"Diverse fejlrettelser og forbedringer Releasedato: 12-12-2024 Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Testsites opgraderes til 2024.50.0. Produktionssites opgraderes til 2024.49.0. Features Webmasterbiblioteker: Mulighed for at opdatere egeninstallerede moduler. Vent med at teste løsningen til vi skriver, at den er klar til test. Vi forventer det sker fredag den...","categories": ["Release Notes"],
+        "excerpt":"Diverse fejlrettelser og forbedringer Releasedato: 12-12-2024 Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Testsites opgraderes til 2024.50.0. Produktionssites opgraderes til 2024.49.0. Nye features Webmasterbiblioteker: Mulighed for at opdatere egeninstallerede moduler. Vent med at teste løsningen til vi skriver, at den er klar til test. Vi forventer det sker fredag...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2024-50-0/",
         "teaser": null
