@@ -11,7 +11,7 @@ Opgraderingen rulles ud til:
 Redaktørbiblioteker: Produktionssites opgraderes. 
 Webmasterbiblioteker: Testsites opgraderes til 2024.50.0. Produktionssites opgraderes til 2024.49.0. 
 
-## Features 
+## Nye features 
 
 - Webmasterbiblioteker: Mulighed for at opdatere egeninstallerede moduler. Vent med at teste løsningen til vi skriver, at den er klar til test. Vi forventer det sker fredag den 13/12.  
 
