@@ -4,6 +4,11 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 13/12 Der er fejl i åbningstids-API'et
+Det betyder at app'en ikke viser kategori på åbningstiderne fx selvbetjent. Redia er i gang med at rette op på det og forhåbentlig har vi en rettelse i næste uge til jer.
+
+## 13/12 Fejlen med manglende DK5 numre er nu rettet i release 2024.50.0
+
 ## 6/12 Efter release 2024.49.0 er der ikke DK5-numre under "Find på hylden".
 Vi er på sagen, som højest sandsynligt vil kræve en release-rettelse i næste uge. Vi følger op på mandag.
 
