@@ -18,13 +18,14 @@ Sådan gør du:
 6. Med DDF aftales hvilken dato og tidspunkt, I går live.  I kan selv vælge hvilken ugedag I ønsker at gå live - dog ikke en fredag aht muligheden for at kunne tilrette div. opsætninger inden weekenden, såfremt det skulle være nødvendigt.
 7. Før golive dagen:\
    a. I bør bede jeres leverandør om at sænke TTL (time-to-live) til **600** på jeres domæne, for at sikre en hurtig overgang. Ellers kan der gå flere timer, før alle ser den nye side.
-8. På golive dagen:\
+   b. Har man CAA records, skal man følge denne guides eksempel 1, 2 eller 3, for at sikre at vi kan udstede et certifikat til sitet: https://help.zerossl.com/hc/en-us/articles/360060119753-Invalid-CAA-Records. Hvis ikke man ved hvilket eksempel der er bedst, så kontakt DDF for hjælp.
+9. På golive dagen:\
    a. Ret alle DNS A-records for jeres domæner til at pege på følgende IP-adresse: **20.86.109.250**
    b. Ret alle DNS CNAME-records for jeres domæner til at pege på følgende domæne: **cluster-1.folkebibliotekernescms.dk**
-9. Efter golive:\
+10. Efter golive:\
    a. I skal bede jeres DNS udbyder om at hæve TTL på jeres domæner igen.
-10. Bed den teknisk ansvarlige om at teste, at alle dele af den nye opsætning fungerer: e-mail, domæne omdirigeringer, certifikater m.m.
-11. Efter golive kan I finde den gamle hjemmeside på adressen **[kommune].ddbcms.dk** Her vil den være tilgængelig indtil jeres kontrakt med DBC udløber.
+11. Bed den teknisk ansvarlige om at teste, at alle dele af den nye opsætning fungerer: e-mail, domæne omdirigeringer, certifikater m.m.
+12. Efter golive kan I finde den gamle hjemmeside på adressen **[kommune].ddbcms.dk** Her vil den være tilgængelig indtil jeres kontrakt med DBC udløber.
 
 I skal ikke gøre noget ifm. **SSL certifikater**, som dannes fra vores side vha. Lets Encrypt af Reload. I kan dog først de dem efter go live.
 {: .notice--primary}
