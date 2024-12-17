@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 17/12 Servicevindue tirsdag den 7. januar kl. 19
+Tirsdag den 7. januar kl. 19 vil der være et servicevindue i forbindelse med vedligeholdelse af platformen, da vi skal opgradere et af de centrale systemer, som Folkebibliotekernes CMS gør brug af. Der kan forekomme lidt ustabil drift i 10-15 minutter.
+
 ## 17/12 Fejlen i API'et til åbningstiderne i APP'en vil blive rettet i januar 2025
 
 ## 13/12 Der er fejl i åbningstids-API'et
