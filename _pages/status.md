@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 17/12 Fejlen i API'et til åbningstiderne i APP'en vil blive rettet i januar 2025
+
 ## 13/12 Der er fejl i åbningstids-API'et
 Det betyder at app'en ikke viser kategori på åbningstiderne fx selvbetjent. Redia er i gang med at rette op på det og forhåbentlig har vi en rettelse i næste uge til jer. Redia anbefaler, at I venter med at skifte til automatisk hentning af åbningstider, indtil problemet er løst.
 
