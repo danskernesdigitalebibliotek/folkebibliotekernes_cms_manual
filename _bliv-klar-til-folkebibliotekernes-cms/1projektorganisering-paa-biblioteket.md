@@ -30,9 +30,7 @@ Blandt de kompetencer man kan overveje at inddrage er:
 
 3. Læs evt. opgaverne igennem for en bedre forståelse af den samlede opgaves omfang. 
 
-4. Sæt tid af i jeres kalender til at løse opgaven. Se [Tidsplan for Folkebibliotekernes CMS](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/assets/files/Tidsplan-Folkebibliotekernes-CMS.pdf){:target="_blank" rel="noopener"}.
-
-5. Fortæl jeres kollegaer at den nye hjemmeside er undervejs og en stor del af jeres tid vil blive brugt på dette. 
+4. Fortæl jeres kollegaer at den nye hjemmeside er undervejs og en stor del af jeres tid vil blive brugt på dette. 
 
  
 
