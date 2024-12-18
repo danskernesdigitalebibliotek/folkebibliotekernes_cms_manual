@@ -11,8 +11,6 @@ overblik:
     children:
       - title: "Support og Servicedesk"
         url: "/overblik/support"  
-      - title: "Onboarding FAQ"
-        url: "/overblik/faq"  
       - title: "Release Notes"
         url: "/overblik/release-notes"  
       - title: "Status på udvikling og fejlrettelser"
