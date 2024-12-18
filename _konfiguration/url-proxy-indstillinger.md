@@ -61,11 +61,11 @@ Når proxyen er opsat korrekt vil links til eressourcer i søgeresultater automa
 Proquest Ebook Central - før Ebrary - kræver særlig opsætning, da der i url'en indgår et biblioteksspecifikt ID.
 Biblioteker, som alene skal have adgang til "Ebook Central Plus" kan nøjes med at udfylde "Værtsnavn":
 
-**Værtsnavn:** ebookcentral.proquest.com
+**Værtsnavn:** `ebookcentral.proquest.com`
 \
-**Regulært udtryk:** /\[PROVIDERSLIBRARYID\]/
+**Regulært udtryk:** `/\[PROVIDERSLIBRARYID\]/`
 \
-**Replacement:** myproquestebooksid
+**Replacement:** `myproquestebooksid`
 
 Teksten "myproquestebooksid" i ovenstående eksempel erstattes med bibliotekets ID.
 
@@ -108,15 +108,15 @@ Gale kræver særlig opsætning, da der i url'en indgår en parameter med et bib
 
 **Værtsnavn:** link.galegroup.com
 \
-**Regulært udtryk:** /\[PROVIDERSLIBRARYID\]/
+**Regulært udtryk:** `/\[PROVIDERSLIBRARYID\]/`
 \
-**Replacement:** mygaleid
+**Replacement:** `mygaleid`
 
-**Værtsnavn:** link.gale.com
+**Værtsnavn:** `link.gale.com`
 \
-**Regulært udtryk:** /\[PROVIDERSLIBRARYID\]/
+**Regulært udtryk:** `/\[PROVIDERSLIBRARYID\]/`
 \
-**Replacement:** mygaleid
+**Replacement:** `mygaleid`
 
 (Teksten "mygaleid" i ovenstående eksempel erstattes med bibliotekets Gale ID. Find det i ERMS)
 
