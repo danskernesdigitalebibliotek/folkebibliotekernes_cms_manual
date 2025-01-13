@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 13/1 Kort nedetid på tværs af hjemmesiderne efter kl. 22 i dag
+På grund af en fejl på databasen, som har medført driftproblemer på Solrød Biblioteks hjemmeside, er vi nødt til at genstarte databasen hos Microsoft. Derfor vil der kunne forekomme nedetide efter kl. 22 i aften.
 ## 17/12 Servicevindue tirsdag den 7. januar kl. 19
 Tirsdag den 7. januar kl. 19 vil der være et servicevindue i forbindelse med vedligeholdelse af platformen, da vi skal opgradere et af de centrale systemer, som Folkebibliotekernes CMS gør brug af. Der kan forekomme lidt ustabil drift i 10-15 minutter.
 
