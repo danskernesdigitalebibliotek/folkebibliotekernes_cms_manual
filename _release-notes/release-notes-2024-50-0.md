@@ -13,7 +13,7 @@ Webmasterbiblioteker: Testsites opgraderes til 2024.50.0. Produktionssites opgra
 
 ## Nye features 
 
-- Webmasterbiblioteker: Mulighed for at opdatere egeninstallerede moduler. Vent med at teste løsningen til vi skriver, at den er klar til test. Vi forventer det sker fredag den 13/12.  
+- Webmasterbiblioteker: Mulighed for at opdatere egeninstallerede moduler.  
 
 ## Fejlrettelser og forbedringer
 
