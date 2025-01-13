@@ -1074,7 +1074,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opdateringscyklus for sites",
-        "excerpt":"Som udgangspunkt frigives der nye releases af Folkebibliotekernes CMS hver torsdag. Opdateringen af produktions- og testmiljøer for webmasterbiblioteker sker efter et opdateringsmønster, der skal sikre, at nye releases kan testes med lokalt installerede moduler, inden de rulles på produktionsmiljøet. Opdatering af testmiljø Testmiljøet opdateres som udgangspunkt hver torsdag med seneste...","categories": ["Webmasterplanen"],
+        "excerpt":"Der frigives en ny releases af Folkebibliotekernes CMS hver torsdag med mindre ferie eller helligdage forhindrer det. Opdateringen af produktions- og testmiljøer for webmasterbiblioteker sker efter et opdateringsmønster, der skal sikre, at nye releases kan testes med lokalt installerede moduler, inden de rulles på produktionsmiljøet. Opdatering af testmiljø Testmiljøet opdateres...","categories": ["Webmasterplanen"],
         "tags": [],
         "url": "/main/webmasterplanen/opdateringscyklus-for-sites/",
         "teaser": null
