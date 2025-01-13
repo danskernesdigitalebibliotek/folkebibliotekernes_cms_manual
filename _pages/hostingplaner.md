@@ -4,7 +4,8 @@ title:  "Hostingplaner"
 sidebar: true
 nav: "overblik"
 ---
-Det Digitale Folkebibliotek tilbyder to forskellige hostingplaner til Folkebibliotekernes CMS. Hostingplanen definerer graden af tilpasningsmuligheder og support.  
+Det Digitale Folkebibliotek tilbyder to forskellige hostingplaner til Folkebibliotekernes CMS. Hostingplanen definerer graden af tilpasningsmuligheder og support. 
+
 Vi anbefaler jer, at I begynder på redaktørplan. I kan på sigt skifte over til webmasterløsningen, hvis behovet er der. Det koster ikke noget at skifte hostingplan, ligesom der ikke er forskel i prisen på de to hostingplaner. 
 
 ## Redaktør 
