@@ -20,7 +20,7 @@ Som webmasterbibliotek kan I tilkøbe udvikling af jeres egen udgave af Folkebib
 I kan desuden vælge at indgå i udviklingsfælleskaber sammen med et eller flere af Foreningens biblioteker, for på den måde at specialudvikle på løsningen. Den lokale udvikling kan ske med øje for senere udbredelse til alle de andre biblioteker på løsningen, efter godkendelse af Foreningen i samråd med driftsleverandøren, eller alternativt kun til lokal brug.  
 Biblioteker, der tilkøber udvikling, flyttes over på en særskilt branch og har selv ansvar for at sikre at det lokalt udviklede fungerer sammen med standardløsningen. Dette indebærer tilkøb af support og fejlrettelser hos applikationsleverandøren. 
 
-Her kan du læse brugsbetingelser for webmasterhostingplanen
+[Her kan du læse brugsbetingelser for webmasterhostingplanen](https://www.folkebibliotekernescms.dk/main/assets/files/brugsbetingelser_webmasterplanen.pdf)
 
 #### Anbefaling 
 Webmasterplanen bør kun vælges af biblioteker, som har tekniske kompetencer til at tilføje moduler, samt kompetencer til at afhjælpe problemer, der opstår i forbindelse med installation og test samt opgradering til senere versioner af Folkebibliotekernes CMS. I skal selv kunne varetage support på standardløsningen. 
