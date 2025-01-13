@@ -10,7 +10,7 @@ header:
     - label: "Udrulningsplan"
       url: "/assets/files/Folkebibliotekernes-CMS-udrulningsplan.pdf"
     - label: "Hostingplaner"
-      url: "https://detdigitalefolkebibliotek.dk/hostingplaner"
+      url: "/overblik/hostingplaner"
     - label: "Release Notes"
       url: "/overblik/release-notes/"
     - label: "Tilgængelighedserklæring"
