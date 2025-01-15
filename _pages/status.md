@@ -4,6 +4,7 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 15/1 kl. 10 Alle sites er oppe igen
 ## 15/1 kl. 9.30 Alle sites er nede 
 Vi er i gang med at løse det.
 ## 13/1 Kort nedetid på tværs af hjemmesiderne efter kl. 22 i dag
