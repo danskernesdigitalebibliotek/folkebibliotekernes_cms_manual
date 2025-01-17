@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 17/1 kl. 12.28 For tredje og forhåbentlig sidste gang: Alle sites er nede
+Microsoft kører et script som gør at siderne fejler. Vi er i kontakt med dem.
 ## 17/1 kl. 11.30 Siderne er oppe igen
 Meld ind hvis I fortsat oplever fejl. Vi får en redegørelse senere fra Reload, så vi kan sige lidt mere om grunden for nedbruddet.
 Endnu en gang beklager vi nedetiden.
