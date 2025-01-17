@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 17/1 kl. 11.30 Siderne er oppe igen
+Meld ind hvis I fortsat oplever fejl. Vi får en redegørelse senere fra Reload, så vi kan sige lidt mere om grunden for nedbruddet.
+Endnu en gang beklager vi nedetiden.
 ## 17/1 kl. 10.10 Alle sites er nede
 Vi var for hurtige til at melde at fejlen var løst. Alle sites er meldt nede igen nu. Vi beklager nedetiden.
 ## 17/1 kl. 9.30 Alle sites kommer op igen nu
