@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 17/1 kl. 15.10: Alle sites er oppe igen
+Vi skal nok opdatere jer nærmere om hændelsesforløbet på mandag, når vi får mere information fra Reload.
 ## 17/1 kl. 13.10 Status: 
 Vi forventer nu nedbrud hver time indtil sagen med Microsofts database er løst. Vi arbejder så hurtigt vi kan på at løse situationen.
 ## 17/1 kl. 12.28 For tredje og forhåbentlig sidste gang: Alle sites er nede
