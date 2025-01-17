@@ -4,7 +4,7 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 17/1 kl. 10 Alle sites kommer op igen nu
+## 17/1 kl. 9.30 Alle sites kommer op igen nu
 Vi beklager nedetiden.
 ## 17/1 kl. 9.20 Alle sites er nede 
 Der blev registreret et health event på databasen hos Microsoft for 13 minutter siden. Vores forventning er at databasen kommer op igen om ~10 minutter.
