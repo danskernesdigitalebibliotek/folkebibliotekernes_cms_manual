@@ -4,7 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 17/1 kl. 13.10 Status: Vi forventer nu nedbrud hver time indtil sagen med Microsofts database er løst. Vi arbejder så hurtigt vi kan på at løse situationen.
+## 17/1 kl. 13.10 Status: 
+Vi forventer nu nedbrud hver time indtil sagen med Microsofts database er løst. Vi arbejder så hurtigt vi kan på at løse situationen.
 ## 17/1 kl. 12.28 For tredje og forhåbentlig sidste gang: Alle sites er nede
 Microsoft kører et script som gør at siderne fejler. Vi er i kontakt med dem.
 ## 17/1 kl. 11.30 Siderne er oppe igen
