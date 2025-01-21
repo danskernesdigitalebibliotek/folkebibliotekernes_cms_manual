@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 21/1 Hvor er publicer/afpublicer knappen blevet af?
+Efter release 2025.3.2 har muligheden for at publicere eller afpublicere gemt sig. På sider og artikler ligger muligheden ude til højre ved Gem, mens du under arrangementsinstanser skal helt ned under Partners når du vil publicere eller afpublicere. Se denne sag: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1259
+Vi har selvfølgelig oprettet en sag på det hos vores udvikler Reload.
 ## 17/1 kl. 15.10: Alle sites er oppe igen
 Vi skal nok opdatere jer nærmere om hændelsesforløbet på mandag, når vi får mere information fra Reload.
 ## 17/1 kl. 13.10 Status: 
