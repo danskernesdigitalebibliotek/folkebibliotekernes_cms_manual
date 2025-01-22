@@ -20,31 +20,38 @@ Testmiljøet findes på en URL formateret a la:
 `BIBLIOTEKSNAVN` erstattes med navnet på webmasterbiblioteket.
 
 Testmiljøet er baseret på en kopi af produktionsmiljøet og er, som navnet indikerer, beregnet
-til test (se også [Synkronisering og nulstilling af testmiljø](https://www.folkebibliotekernescms.dk/main/webmasterplanen/produktions-og-testmiljoe/#synkronisering-og-nulstilling-af-testmilj%C3%B8)). Det kan f.eks. være at:
+til test.  Det kan f.eks. være at:
 
 - Teste at de moduler du lokalt har installeret på produktionsmiljøet fungerer med seneste
 release af Folkebibliotekernes CMS.
 - Teste nyudviklede moduler, som led i udviklingsforløb, inden de kommer i produktion.
 - Teste opgraderinger af moduler, inden de kommer i produktion.
 
-## Synkronisering og nulstilling af testmiljø
-Den sidste torsdag i måneden synkroniseres testmiljøet som udgangspunkt med
-produktionsmiljøet i forbindelse med opgraderingen til den seneste release af
-Folkebibliotekernes CMS. Har du valgt at udsætte opgradering af produktionsmiljøet (Se [Udsættelse af opdatering af produktionsmiljø](https://www.folkebibliotekernescms.dk/main/webmasterplanen/udsaettelse-af-opdatering/)) vil testmiljøet som udgangspunkt stadig blive synkroniseret med produktionsmiljøet. 
+## Opgradering og synkronisering af testmiljø
 
-I forbindelse med synkroniseringen vil databasetabeller- og filer blive kopieret fra
-produktionsmiljøet til testmiljøet. Databasetabeller indeholder bl.a. redaktionelt oprettet
-indhold (f.eks. artikler og arrangementer), struktur (taksonomier og menuer) og konfiguration
-(f.eks. sitets navn eller specifikke indstillinger til et modul). Filindholdet er redaktionelt
-uploadede filer (f.eks. billeder, pdf’er) og lokalt tilføjede moduler. Testmiljøet er efterfølgende
-tilnærmelsesvis et spejl af produktionsmiljøet. Pt. vil databasetabeller og filer der alene
-findes på testmiljøet stadig være der efter synkronisering. I nærmere fremtid (se manualen
-her for opdatering af procedurer) vil en synkronisering komme til at indebære en reel
-”nulstilling” af testmiljøet hvor alt database- og filindhold, der ikke findes på
-produktionsmiljøet, men udelukkende på testmiljøet, forsvinder.
+Jeres testmiljø vil også blive omtalt som jeres modultestsite.
 
-Har du brug for at få synkroniseret testmiljøet på andre tidspunkter skal du oprette en
-supportsag i [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals).
-Det kan f.eks. være relevant, hvis du har ændret konfigurationen væsentligt på testmiljøet og
-efterfølgende skal lave ny test, hvor du vil sikre, at det miljø, du bruger til test har samme
-konfiguration som produktionsmiljøet.
+### Modultetssites opgraderes og synkroniseres ugentligt 
+Webmasterbibliotekernes modutestsites synkroniseres med produktionssitet og opgraderes hver torsdag, når en ny release af FBCMS udkommer. I forbindelse med ferier kan den faste releasedag ændre sig. Det vil da fremgå af [release notes](https://www.folkebibliotekernescms.dk/main/overblik/release-notes/). 
+
+Er der problemer med udrulningen bliver opgradering af produktionssites prioriteret over opgradering af modultestssites. Hvis opgraderingen af modultetstsites må udsættes, vil den blive foretaget så hurtigt som muligt herefter. Man kan altid sammenholde versionsnummeret i CMS med seneste release note, hvis man er i tvivl, om man er på den seneste version.
+
+Har du valgt at udsætte opgradering af produktionsmiljøet (Se [Udsættelse af opdatering af produktionsmiljø](https://www.folkebibliotekernescms.dk/main/webmasterplanen/udsaettelse-af-opdatering/)) vil testmiljøet som udgangspunkt stadig blive opgraderet og synkroniseret med produktionsmiljøet. 
+
+### Teknikken bag synkronisering og opgradering
+
+1. Der tages en kopi af driftssitets database og filsystem. Kopien lægges på modultestssitet og den overskriver ALT, der ligger der i forvejen. Har I på modultetstsitet oprettet indhold, installeret moduler eller uploadet filer, så forsvinder det.
+2. Modultetssitet opgraderes til nyeste release af FBCMS
+
+Fordelen ved den model er, at I rent faktisk kan stole på de de tests, som I udfører på jeres modultestsite. Blev jeres modultetstsite ikke synkroniseret med produktionssitet, vil de to sites hurtigt komme så meget ud af sync, så kode der virker fint på modultetssitet fejler eller i værste fald ødelægger produktionssitet.
+
+
+**Udviklertips**: Arbejd aldrig med kode direkte på modultestsitet, uden at gemme lokalt også. Du risikerer at miste timevis af arbejde, når sitet slettes.
+Den anbefalede fremgangsmåde må være at lægge sin kode ind i et Drupal-modul, som man gemmer lokalt og allerhelst versionsstyrer med f. eks. Git.
+{: .notice }
+
+
+
+
+
+
