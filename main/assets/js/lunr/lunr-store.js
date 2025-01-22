@@ -971,6 +971,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-03-2/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.04.0",
+        "excerpt":"Forberedelser til børnesitet og delingstjenesten Releasedato: 23-01-2025 Redaktørbiblioteker: Produktionssites opgraderes til 2025.04.0 Webmasterbiblioteker: Produktionssites opgraderes til 2025.03.2. Modultestsites opgraderes til 2025.04.0. Nye features Denne release indeholder ingen synlige forbedringer eller fejlerettelser, men der arbejdes med det, der ligger under motorhjelmen. Fundamentet for at kunne understøtte børnesitet og delingstjenesten er ved...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-04-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
