@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2025-01-22T14:50:36+00:00">
+  <meta property="article:published_time" content="2025-01-22T15:39:25+00:00">
 
 
 
@@ -262,7 +262,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Produktions- og testmiljø">
     <meta itemprop="description" content="Webmasterbiblioteket har adgang til to selvstændige installationer af FolkebibliotekernesCMS: Et produktions- og et testmiljø.">
-    <meta itemprop="datePublished" content="2025-01-22T14:50:36+00:00">
+    <meta itemprop="datePublished" content="2025-01-22T15:39:25+00:00">
     
 
     <div class="page__inner-wrap">
@@ -308,7 +308,7 @@ det ikke indekseres af søgemaskiner. Miljøet findes på en særlig web-adresse
 <code class="language-plaintext highlighter-rouge">BIBLIOTEKSNAVN</code> erstattes med navnet på webmasterbiblioteket.</p>
 
 <p>Testmiljøet er baseret på en kopi af produktionsmiljøet og er, som navnet indikerer, beregnet
-til test (se også <a href="https://www.folkebibliotekernescms.dk/main/webmasterplanen/produktions-og-testmiljoe/#synkronisering-og-nulstilling-af-testmilj%C3%B8">Synkronisering og nulstilling af testmiljø</a>). Det kan f.eks. være at:</p>
+til test.  Det kan f.eks. være at:</p>
 
 <ul>
   <li>Teste at de moduler du lokalt har installeret på produktionsmiljøet fungerer med seneste
@@ -317,27 +317,29 @@ release af Folkebibliotekernes CMS.</li>
   <li>Teste opgraderinger af moduler, inden de kommer i produktion.</li>
 </ul>
 
-<h2 id="synkronisering-og-nulstilling-af-testmiljø">Synkronisering og nulstilling af testmiljø</h2>
-<p>Den sidste torsdag i måneden synkroniseres testmiljøet som udgangspunkt med
-produktionsmiljøet i forbindelse med opgraderingen til den seneste release af
-Folkebibliotekernes CMS. Har du valgt at udsætte opgradering af produktionsmiljøet (Se <a href="https://www.folkebibliotekernescms.dk/main/webmasterplanen/udsaettelse-af-opdatering/">Udsættelse af opdatering af produktionsmiljø</a>) vil testmiljøet som udgangspunkt stadig blive synkroniseret med produktionsmiljøet.</p>
+<h2 id="opgradering-og-synkronisering-af-testmiljø">Opgradering og synkronisering af testmiljø</h2>
 
-<p>I forbindelse med synkroniseringen vil databasetabeller- og filer blive kopieret fra
-produktionsmiljøet til testmiljøet. Databasetabeller indeholder bl.a. redaktionelt oprettet
-indhold (f.eks. artikler og arrangementer), struktur (taksonomier og menuer) og konfiguration
-(f.eks. sitets navn eller specifikke indstillinger til et modul). Filindholdet er redaktionelt
-uploadede filer (f.eks. billeder, pdf’er) og lokalt tilføjede moduler. Testmiljøet er efterfølgende
-tilnærmelsesvis et spejl af produktionsmiljøet. Pt. vil databasetabeller og filer der alene
-findes på testmiljøet stadig være der efter synkronisering. I nærmere fremtid (se manualen
-her for opdatering af procedurer) vil en synkronisering komme til at indebære en reel
-”nulstilling” af testmiljøet hvor alt database- og filindhold, der ikke findes på
-produktionsmiljøet, men udelukkende på testmiljøet, forsvinder.</p>
+<p>Jeres testmiljø vil også blive omtalt som jeres modultestsite.</p>
 
-<p>Har du brug for at få synkroniseret testmiljøet på andre tidspunkter skal du oprette en
-supportsag i <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals">Servicedesk</a>.
-Det kan f.eks. være relevant, hvis du har ændret konfigurationen væsentligt på testmiljøet og
-efterfølgende skal lave ny test, hvor du vil sikre, at det miljø, du bruger til test har samme
-konfiguration som produktionsmiljøet.</p>
+<h3 id="modultetssites-opgraderes-og-synkroniseres-ugentligt">Modultetssites opgraderes og synkroniseres ugentligt</h3>
+<p>Webmasterbibliotekernes modutestsites synkroniseres med produktionssitet og opgraderes hver torsdag, når en ny release af FBCMS udkommer. I forbindelse med ferier kan den faste releasedag ændre sig. Det vil da fremgå af <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/">release notes</a>.</p>
+
+<p>Er der problemer med udrulningen bliver opgradering af produktionssites prioriteret over opgradering af modultestssites. Hvis opgraderingen af modultetstsites må udsættes, vil den blive foretaget så hurtigt som muligt herefter. Man kan altid sammenholde versionsnummeret i CMS med seneste release note, hvis man er i tvivl, om man er på den seneste version.</p>
+
+<p>Har du valgt at udsætte opgradering af produktionsmiljøet (Se <a href="https://www.folkebibliotekernescms.dk/main/webmasterplanen/udsaettelse-af-opdatering/">Udsættelse af opdatering af produktionsmiljø</a>) vil testmiljøet som udgangspunkt stadig blive opgraderet og synkroniseret med produktionsmiljøet.</p>
+
+<h3 id="teknikken-bag-synkronisering-og-opgradering">Teknikken bag synkronisering og opgradering</h3>
+
+<ol>
+  <li>Der tages en kopi af driftssitets database og filsystem. Kopien lægges på modultestssitet og den overskriver ALT, der ligger der i forvejen. Har I på modultetstsitet oprettet indhold, installeret moduler eller uploadet filer, så forsvinder det.</li>
+  <li>Modultetssitet opgraderes til nyeste release af FBCMS</li>
+</ol>
+
+<p>Fordelen ved den model er, at I rent faktisk kan stole på de de tests, som I udfører på jeres modultestsite. Blev jeres modultetstsite ikke synkroniseret med produktionssitet, vil de to sites hurtigt komme så meget ud af sync, så kode der virker fint på modultetssitet fejler eller i værste fald ødelægger produktionssitet.</p>
+
+<p class="notice"><strong>Udviklertips</strong>: Arbejd aldrig med kode direkte på modultestsitet, uden at gemme lokalt også. Du risikerer at miste timevis af arbejde, når sitet slettes.
+Den anbefalede fremgangsmåde må være at lægge sin kode ind i et Drupal-modul, som man gemmer lokalt og allerhelst versionsstyrer med f. eks. Git.</p>
+
 
         
       </section>
@@ -349,7 +351,7 @@ konfiguration som produktionsmiljøet.</p>
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-01-22T14:50:36+00:00">January 22, 2025</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-01-22T15:39:25+00:00">January 22, 2025</time></p>
 
       </footer>
 
