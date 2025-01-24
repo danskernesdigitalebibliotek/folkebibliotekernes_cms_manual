@@ -16,7 +16,7 @@ Opdateringen af produktions- og testmiljøer for webmasterbiblioteker sker efter
 
 Dvs. at produktionsmiljøet opgraderes til den version som biblioteket har haft til test på sit modultestsite ugen inden.
 
-[Få flere detaljer om opgradering af testmiljøet her.](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/blob/main/_webmasterplanen/produktions-og-testmiljoe.md#opgradering-og-synkronisering-af-testmilj%C3%B8)
+[Tekniske detaljer vedr. opgradering og synkronisering af testmiljøet](https://www.folkebibliotekernescms.dk/main/webmasterplanen/produktions-og-testmiljoe/#opgradering-og-synkronisering-af-testmilj%C3%B8)
 
 Er der pga. af helligdage eller lignende ændringer til releaseplanen vil det fremgå her:
 [https://www.folkebibliotekernescms.dk/main/overblik/releasedatoer](https://www.folkebibliotekernescms.dk/main/overblik/releasedatoer)
