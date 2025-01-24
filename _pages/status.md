@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 24/1 Fejl på sidebaren med åbningstider
+Vi har opdaget en fejl i Release 2025.4.0, der gør, at biblioteker med mange filialer ikke kan se den øverste del eller scrolle op/ned til de første/sidste åbningstider i åbningstider-sidebaren, som åbner, når man trykker på uret i højre side. En midlertidig workaround vil være at gå til /admin/config/dpl-library-agency/general-settings og udfylde “Åbningstider link (fjern link for at aktivere sidebar)” med et link til listen over filialer ”/branches”. Så fjerner man midlertidiget sidebaren med åbningstiderne.
 ## 21/1 Hvor er publicer/afpublicer knappen blevet af?
 Efter release 2025.3.2 har muligheden for at publicere eller afpublicere gemt sig. På sider og artikler ligger muligheden ude til højre ved Gem, mens du under arrangementsinstanser skal helt ned under Partners når du vil publicere eller afpublicere. Se denne sag: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1259
 Vi har selvfølgelig oprettet en sag på det hos vores udvikler Reload.
