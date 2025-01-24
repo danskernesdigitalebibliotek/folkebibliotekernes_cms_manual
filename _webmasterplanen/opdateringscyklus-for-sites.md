@@ -8,11 +8,11 @@ Der frigives en ny releases af Folkebibliotekernes CMS hver torsdag med mindre f
 
 Opdateringen af produktions- og testmiljøer for webmasterbiblioteker sker efter et opdateringsmønster, der skal sikre, at nye releases kan testes med lokalt installerede moduler, inden de rulles på produktionsmiljøet.
 
-## Opgradering af testmiljø
-**Testmiljøet synkroniseres med produktionssitet og opdateres hver torsdag med seneste release af Folkebibliotekernes CMS.**
-
 ## Opgradering af produktionsmiljø
-**Produktionsmiljøet opgraderes hver torsdag til den næstnyeste release - med mindre biblioteket har ønsket udsættelse.** 
+**Torsdag: Produktionsmiljøet opgraderes til den næstnyeste release - med mindre biblioteket har ønsket udsættelse.** 
+
+## Opgradering af testmiljø
+**Torsdag: Testmiljøet synkroniseres indholdsmæssigt med produktionssitet og opdateres hver torsdag med nyeste release af Folkebibliotekernes CMS.**
 
 Den næstnyeste release har biblioteket haft til test på sit modultestsite ugen inden. Når f. eks. produktionsmiljøet opdateres i uge 44, bliver det opdateret med den version af Folkebibliotekernes CMS, som har været til test i uge 43.
 
