@@ -38,7 +38,7 @@ Er der problemer med udrulningen bliver opgradering af produktionssites priorite
 
 Har du valgt at udsætte opgradering af produktionsmiljøet (Se [Udsættelse af opdatering af produktionsmiljø](https://www.folkebibliotekernescms.dk/main/webmasterplanen/udsaettelse-af-opdatering/)) vil testmiljøet som udgangspunkt stadig blive opgraderet og synkroniseret med produktionsmiljøet. 
 
-### Teknikken bag synkronisering og opgradering
+### Teknikken bag synkronisering og opgradering af modultestsitet
 
 1. Der tages en kopi af driftssitets database og filsystem. Kopien lægges på modultestssitet og den overskriver ALT, der ligger der i forvejen. Har I på modultetstsitet oprettet indhold, installeret moduler eller uploadet filer, så forsvinder det.
 2. Modultetssitet opgraderes til nyeste release af FBCMS
