@@ -6,7 +6,7 @@ nav: "overblik"
 ---
 ## DBC opgraderer databaseservere onsdag den 29. januar 2025
 DBC opgraderer databaseservere onsdag den 29. januar 2025 klokken 6 til 8, hvor der kan opleves ustabil drift på DBC DIGITALs tjenester og services.
-Alle deres services og tjenester kan i dette tidsrum have kortere eller længere nedetid. Herunder også de API’er I benytter vi os af. Det gælder også Adgangsplatformen (Bibliotekslogin), så brugere vil ikke kunne logge ind på de tjenester, der kræver login.
+Alle deres services og tjenester kan i dette tidsrum have kortere eller længere nedetid. Herunder også de API’er, vi benytter os af. Det gælder også Adgangsplatformen (Bibliotekslogin), så brugere vil ikke kunne logge ind på de tjenester, der kræver login.
 ## 24/1 Fejl på sidebaren med åbningstider
 Vi har opdaget en fejl i Release 2025.4.0, der gør, at biblioteker med mange filialer ikke kan se den øverste del eller scrolle op/ned til de første/sidste åbningstider i åbningstider-sidebaren, som åbner, når man trykker på uret i højre side. En midlertidig workaround vil være at gå til /admin/config/dpl-library-agency/general-settings og udfylde “Åbningstider link (fjern link for at aktivere sidebar)” med et link til listen over filialer ”/branches”. Så fjerner man midlertidiget sidebaren med åbningstiderne.
 ## 21/1 Hvor er publicer/afpublicer knappen blevet af?
