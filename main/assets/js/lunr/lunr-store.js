@@ -983,6 +983,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-04-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.05.1",
+        "excerpt":"Åbningstider og arrangementer kan igen automatisk blive overført til Biblioteket Appen. Releasedato: 30-01-2025 Redaktørbiblioteker: Produktionssites opgraderes til 2025.05.1 Webmasterbiblioteker: Produktionssites opgraderes til 2025.04.0. Modultestsites opgraderes til 2025.05.1. Nye features Fra 31/1-2025 kan åbningstider og arrangementer igen automatisk blive overført til Biblioteket Appen. Dvs. når I opdaterer åbningstider og arrangementer på...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-05-1/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
