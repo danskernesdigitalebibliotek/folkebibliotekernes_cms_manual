@@ -37,11 +37,7 @@ Webforms, som vi kender fra DDB CMS, findes også i Folkebibliotekernes CMS.
 Måske har I i dag en storskærmsløsning som hiver fx arrangementer fra jeres hjemmeside. Jeres leverandør af storskærmsløsningen kan gøre brug af det nye arrangements API til at hente data og udstille dem. [Læs mere om arrangements API'et her.](https://www.folkebibliotekernescms.dk/main/bliv-klar-til-folkebibliotekernes-cms/9integrationer/#arrangements-api-til-brug-for-eksterne-systemer)
 
 ### APP
-Fra DDBCMS kan arrangementer, nyheder og åbningstider automatisk blive overført og vist i Biblioteket APP’en. Det virker ikke i Folkebibliotekernes CMS.
-
-Hvis I vil have åbningstider vist i appen, må I indtaste dem manuelt i Redias backend-system for biblioteker: [https://biblioteket.redia.dk/](https://biblioteket.redia.dk/){:target="_blank"}. 
-
-Læs Redias vejledning om at oprette åbningstider: [https://support.redia.dk/fanen-%C3%A5bningstider-og-kontaktoplysninger](https://support.redia.dk/fanen-%C3%A5bningstider-og-kontaktoplysninger){:target="_blank"}.
+Læs om automatisk overførsel af arrangementer og åbningstider til Biblioteket Appen her: https://www.folkebibliotekernescms.dk/main/indhold/redia/
 
 ### IMS
 I KOMBIT regi arbejdes der på en løsning hvor IMS placeringsstrenge sendes fra IMS over i FBS og derfra videre til Folkebibliotekernes CMS / Biblioteket App via FBS CMS Adapteren. Det eksisterende IMS-modul til DDB CMS kan ikke bruges i Folkebibliotekernes CMS og det vil ikke blive videreudviklet.
