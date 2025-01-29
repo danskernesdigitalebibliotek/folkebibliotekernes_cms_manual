@@ -557,6 +557,12 @@ var store = [{
         "url": "/main/indhold/privatlivspolitik/",
         "teaser": null
       },{
+        "title": "Åbningstider og arrangementer i Biblioteket Appen",
+        "excerpt":"Fra 31/1-2025 kan åbningstider og arrangementer igen automatisk blive overført til Biblioteket Appen. Dvs. når I opdaterer åbningstider og arrangementer på hjemmesiden bliver ændringerne automatisk synkroniseret over i Biblioteket Appen. Det tager først effekt, når I har ændret jeres profil i Redias administrationssytem til automatisk synkronisering. Følg Redias vejledning: https://email.redia.dk/integrationer-mellem-biblioteket-appen-og-folkebibliotekernes-cms...","categories": ["Generelt"],
+        "tags": [],
+        "url": "/main/indhold/redia/",
+        "teaser": null
+      },{
         "title": "Reglement",
         "excerpt":"Der linkes til siden Reglement fra siden Opret bruger. Ønsker I ikke at have en side, der hedder Reglement, må I gerne slette den. I skal bare sørge for at fjerne linket til den fra Opret bruger, hvor der henvises til den fra en Links-paragraph. Tilret teksten på siden Reglement...","categories": ["Faste sider"],
         "tags": [],
