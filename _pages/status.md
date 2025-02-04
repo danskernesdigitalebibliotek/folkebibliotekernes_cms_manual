@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## Fejl i release 2025.5.1: Ikke muligt at redigere footeren
+Desværre er der opstået en fejl i release 2025.5.1, som gør at man ikke kan redigere footeren på hjemmesiderne. Fejlen vil blive rettet hurtigst muligt i en kommende release. 
 ## DBC opgraderer databaseservere onsdag den 29. januar 2025
 DBC opgraderer databaseservere onsdag den 29. januar 2025 klokken 6 til 8, hvor der kan opleves ustabil drift på DBC DIGITALs tjenester og services.
 Alle deres services og tjenester kan i dette tidsrum have kortere eller længere nedetid. Herunder også de API’er, vi benytter os af. Det gælder også Adgangsplatformen (Bibliotekslogin), så brugere vil ikke kunne logge ind på de tjenester, der kræver login.
