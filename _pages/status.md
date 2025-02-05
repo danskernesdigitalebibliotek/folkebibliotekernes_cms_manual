@@ -4,6 +4,19 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## Problemer med statusser og billetknap ift. Place2book
+Vi arbejder på flere sager angående integration med Place2book. Derudover arbejder Place2book også på nogle ting i deres ende. 
+
+Hvis man oplever problemer med billetknappen, så er der her en lille guide til hvad man selv kan tjekke:
+1. Arrangement er sat til "Overfør til billet udbyder" i FB CMS
+2. At arrangementet har priser.
+3. At check at FB CMS integrations siden i Place2Book ikke viser nogen fejl i Historikken over imports.
+4. Og så køre en "Hent opdateringer fra CMS" i Place2Book.
+
+Kendte fejl er bl.a.: 
+- Billetknappen skifter ikke status i det øjeblik arrangement åbner for salg.
+- Billetknap skifter ikke status eller dukker ikke op i FB CMS. Skyldes "The website encountered an unexp" fejl.
+- Ændring i arrangementstidspunkt opretter nyt arrangement i Place2book.
 ## Fejl i release 2025.5.1: Ikke muligt at redigere footeren
 Desværre er der opstået en fejl i release 2025.5.1, som gør at man ikke kan redigere footeren på hjemmesiderne. Fejlen vil blive rettet hurtigst muligt i en kommende release. 
 ## DBC opgraderer databaseservere onsdag den 29. januar 2025
