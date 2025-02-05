@@ -791,6 +791,12 @@ var store = [{
         "url": "/main/overblik/release-notes/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.06.0",
+        "excerpt":"Understøttelse af VideoTool. Releasedato: 06-02-2025 Redaktørbiblioteker: Produktionssites opgraderes til 2025.06.0 Webmasterbiblioteker: Produktionssites opgraderes til 2025.05.1. Modultestsites opgraderes til 2025.06.0. Nye features Understøttelse af VideoTool: I nogle kommuner bruger man VideoTool som platform til opbevaring og publicering af video. VideoTool er en danskejet GDPR compliant videoplatform, som man kan abonnere på....","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-06-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 2024.11.0",
         "excerpt":"Flere og bedre mulighed for at præsentere materialer, nye redaktionelle funktioner og listevisninger en masse Nye features • Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. • Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har...","categories": ["Release Notes"],
         "tags": [],
