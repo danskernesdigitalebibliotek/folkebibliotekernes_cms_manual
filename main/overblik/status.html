@@ -269,38 +269,56 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <h2 id="fejl-i-release-202551-ikke-muligt-at-redigere-footeren">Fejl i release 2025.5.1: Ikke muligt at redigere footeren</h2>
-<p>Desværre er der opstået en fejl i release 2025.5.1, som gør at man ikke kan redigere footeren på hjemmesiderne. Fejlen vil blive rettet hurtigst muligt i en kommende release.</p>
-<h2 id="dbc-opgraderer-databaseservere-onsdag-den-29-januar-2025">DBC opgraderer databaseservere onsdag den 29. januar 2025</h2>
-<p>DBC opgraderer databaseservere onsdag den 29. januar 2025 klokken 6 til 8, hvor der kan opleves ustabil drift på DBC DIGITALs tjenester og services.
+        <h2 id="problemer-med-statusser-og-billetknap-ift-place2book">Problemer med statusser og billetknap ift. Place2book</h2>
+<p>Vi arbejder på flere sager angående integration med Place2book. Derudover arbejder Place2book også på nogle ting i deres ende.</p>
+
+<p>Hvis man oplever problemer med billetknappen, så er der her en lille guide til hvad man selv kan tjekke:</p>
+<ol>
+  <li>Arrangement er sat til “Overfør til billet udbyder” i FB CMS</li>
+  <li>At arrangementet har priser.</li>
+  <li>At check at FB CMS integrations siden i Place2Book ikke viser nogen fejl i Historikken over imports.</li>
+  <li>Og så køre en “Hent opdateringer fra CMS” i Place2Book.</li>
+</ol>
+
+<p>Kendte fejl er bl.a.:</p>
+<ul>
+  <li>Billetknappen skifter ikke status i det øjeblik arrangement åbner for salg.</li>
+  <li>Billetknap skifter ikke status eller dukker ikke op i FB CMS. Skyldes “The website encountered an unexp” fejl.</li>
+  <li>Ændring i arrangementstidspunkt opretter nyt arrangement i Place2book.
+    <h2 id="fejl-i-release-202551-ikke-muligt-at-redigere-footeren">Fejl i release 2025.5.1: Ikke muligt at redigere footeren</h2>
+    <p>Desværre er der opstået en fejl i release 2025.5.1, som gør at man ikke kan redigere footeren på hjemmesiderne. Fejlen vil blive rettet hurtigst muligt i en kommende release.</p>
+    <h2 id="dbc-opgraderer-databaseservere-onsdag-den-29-januar-2025">DBC opgraderer databaseservere onsdag den 29. januar 2025</h2>
+    <p>DBC opgraderer databaseservere onsdag den 29. januar 2025 klokken 6 til 8, hvor der kan opleves ustabil drift på DBC DIGITALs tjenester og services.
 Alle deres services og tjenester kan i dette tidsrum have kortere eller længere nedetid. Herunder også de API’er, vi benytter os af. Det gælder også Adgangsplatformen (Bibliotekslogin), så brugere vil ikke kunne logge ind på de tjenester, der kræver login.</p>
-<h2 id="241-fejl-på-sidebaren-med-åbningstider">24/1 Fejl på sidebaren med åbningstider</h2>
-<p>Vi har opdaget en fejl i Release 2025.4.0, der gør, at biblioteker med mange filialer ikke kan se den øverste del eller scrolle op/ned til de første/sidste åbningstider i åbningstider-sidebaren, som åbner, når man trykker på uret i højre side. En midlertidig workaround vil være at gå til /admin/config/dpl-library-agency/general-settings og udfylde “Åbningstider link (fjern link for at aktivere sidebar)” med et link til listen over filialer ”/branches”. Så fjerner man midlertidiget sidebaren med åbningstiderne.</p>
-<h2 id="211-hvor-er-publicerafpublicer-knappen-blevet-af">21/1 Hvor er publicer/afpublicer knappen blevet af?</h2>
-<p>Efter release 2025.3.2 har muligheden for at publicere eller afpublicere gemt sig. På sider og artikler ligger muligheden ude til højre ved Gem, mens du under arrangementsinstanser skal helt ned under Partners når du vil publicere eller afpublicere. Se denne sag: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1259
+    <h2 id="241-fejl-på-sidebaren-med-åbningstider">24/1 Fejl på sidebaren med åbningstider</h2>
+    <p>Vi har opdaget en fejl i Release 2025.4.0, der gør, at biblioteker med mange filialer ikke kan se den øverste del eller scrolle op/ned til de første/sidste åbningstider i åbningstider-sidebaren, som åbner, når man trykker på uret i højre side. En midlertidig workaround vil være at gå til /admin/config/dpl-library-agency/general-settings og udfylde “Åbningstider link (fjern link for at aktivere sidebar)” med et link til listen over filialer ”/branches”. Så fjerner man midlertidiget sidebaren med åbningstiderne.</p>
+    <h2 id="211-hvor-er-publicerafpublicer-knappen-blevet-af">21/1 Hvor er publicer/afpublicer knappen blevet af?</h2>
+    <p>Efter release 2025.3.2 har muligheden for at publicere eller afpublicere gemt sig. På sider og artikler ligger muligheden ude til højre ved Gem, mens du under arrangementsinstanser skal helt ned under Partners når du vil publicere eller afpublicere. Se denne sag: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1259
 Vi har selvfølgelig oprettet en sag på det hos vores udvikler Reload.</p>
-<h2 id="171-kl-1510-alle-sites-er-oppe-igen">17/1 kl. 15.10: Alle sites er oppe igen</h2>
-<p>Vi skal nok opdatere jer nærmere om hændelsesforløbet på mandag, når vi får mere information fra Reload.</p>
-<h2 id="171-kl-1310-status">17/1 kl. 13.10 Status:</h2>
-<p>Vi forventer nu nedbrud hver time indtil sagen med Microsofts database er løst. Vi arbejder så hurtigt vi kan på at løse situationen.</p>
-<h2 id="171-kl-1228-for-tredje-og-forhåbentlig-sidste-gang-alle-sites-er-nede">17/1 kl. 12.28 For tredje og forhåbentlig sidste gang: Alle sites er nede</h2>
-<p>Microsoft kører et script som gør at siderne fejler. Vi er i kontakt med dem.</p>
-<h2 id="171-kl-1130-siderne-er-oppe-igen">17/1 kl. 11.30 Siderne er oppe igen</h2>
-<p>Meld ind hvis I fortsat oplever fejl. Vi får en redegørelse senere fra Reload, så vi kan sige lidt mere om grunden for nedbruddet.
+    <h2 id="171-kl-1510-alle-sites-er-oppe-igen">17/1 kl. 15.10: Alle sites er oppe igen</h2>
+    <p>Vi skal nok opdatere jer nærmere om hændelsesforløbet på mandag, når vi får mere information fra Reload.</p>
+    <h2 id="171-kl-1310-status">17/1 kl. 13.10 Status:</h2>
+    <p>Vi forventer nu nedbrud hver time indtil sagen med Microsofts database er løst. Vi arbejder så hurtigt vi kan på at løse situationen.</p>
+    <h2 id="171-kl-1228-for-tredje-og-forhåbentlig-sidste-gang-alle-sites-er-nede">17/1 kl. 12.28 For tredje og forhåbentlig sidste gang: Alle sites er nede</h2>
+    <p>Microsoft kører et script som gør at siderne fejler. Vi er i kontakt med dem.</p>
+    <h2 id="171-kl-1130-siderne-er-oppe-igen">17/1 kl. 11.30 Siderne er oppe igen</h2>
+    <p>Meld ind hvis I fortsat oplever fejl. Vi får en redegørelse senere fra Reload, så vi kan sige lidt mere om grunden for nedbruddet.
 Endnu en gang beklager vi nedetiden.</p>
-<h2 id="171-kl-1010-alle-sites-er-nede">17/1 kl. 10.10 Alle sites er nede</h2>
-<p>Vi var for hurtige til at melde at fejlen var løst. Alle sites er meldt nede igen nu. Vi beklager nedetiden.</p>
-<h2 id="171-kl-930-alle-sites-kommer-op-igen-nu">17/1 kl. 9.30 Alle sites kommer op igen nu</h2>
-<p>Vi beklager nedetiden.</p>
-<h2 id="171-kl-920-alle-sites-er-nede">17/1 kl. 9.20 Alle sites er nede</h2>
-<p>Der blev registreret et health event på databasen hos Microsoft for 13 minutter siden. Vores forventning er at databasen kommer op igen om ~10 minutter.</p>
-<h2 id="151-kl-10-alle-sites-er-oppe-igen">15/1 kl. 10 Alle sites er oppe igen</h2>
-<h2 id="151-kl-930-alle-sites-er-nede">15/1 kl. 9.30 Alle sites er nede</h2>
-<p>Vi er i gang med at løse det.</p>
-<h2 id="131-kort-nedetid-på-tværs-af-hjemmesiderne-efter-kl-22-i-dag">13/1 Kort nedetid på tværs af hjemmesiderne efter kl. 22 i dag</h2>
-<p>På grund af en fejl på databasen, som har medført driftproblemer på Solrød Biblioteks hjemmeside, er vi nødt til at genstarte databasen hos Microsoft. Derfor vil der kunne forekomme nedetide efter kl. 22 i aften.</p>
-<h2 id="1712-servicevindue-tirsdag-den-7-januar-kl-19">17/12 Servicevindue tirsdag den 7. januar kl. 19</h2>
-<p>Tirsdag den 7. januar kl. 19 vil der være et servicevindue i forbindelse med vedligeholdelse af platformen, da vi skal opgradere et af de centrale systemer, som Folkebibliotekernes CMS gør brug af. Der kan forekomme lidt ustabil drift i 10-15 minutter.</p>
+    <h2 id="171-kl-1010-alle-sites-er-nede">17/1 kl. 10.10 Alle sites er nede</h2>
+    <p>Vi var for hurtige til at melde at fejlen var løst. Alle sites er meldt nede igen nu. Vi beklager nedetiden.</p>
+    <h2 id="171-kl-930-alle-sites-kommer-op-igen-nu">17/1 kl. 9.30 Alle sites kommer op igen nu</h2>
+    <p>Vi beklager nedetiden.</p>
+    <h2 id="171-kl-920-alle-sites-er-nede">17/1 kl. 9.20 Alle sites er nede</h2>
+    <p>Der blev registreret et health event på databasen hos Microsoft for 13 minutter siden. Vores forventning er at databasen kommer op igen om ~10 minutter.</p>
+    <h2 id="151-kl-10-alle-sites-er-oppe-igen">15/1 kl. 10 Alle sites er oppe igen</h2>
+    <h2 id="151-kl-930-alle-sites-er-nede">15/1 kl. 9.30 Alle sites er nede</h2>
+    <p>Vi er i gang med at løse det.</p>
+    <h2 id="131-kort-nedetid-på-tværs-af-hjemmesiderne-efter-kl-22-i-dag">13/1 Kort nedetid på tværs af hjemmesiderne efter kl. 22 i dag</h2>
+    <p>På grund af en fejl på databasen, som har medført driftproblemer på Solrød Biblioteks hjemmeside, er vi nødt til at genstarte databasen hos Microsoft. Derfor vil der kunne forekomme nedetide efter kl. 22 i aften.</p>
+    <h2 id="1712-servicevindue-tirsdag-den-7-januar-kl-19">17/12 Servicevindue tirsdag den 7. januar kl. 19</h2>
+    <p>Tirsdag den 7. januar kl. 19 vil der være et servicevindue i forbindelse med vedligeholdelse af platformen, da vi skal opgradere et af de centrale systemer, som Folkebibliotekernes CMS gør brug af. Der kan forekomme lidt ustabil drift i 10-15 minutter.</p>
+  </li>
+</ul>
 
 <h2 id="1712-fejlen-i-apiet-til-åbningstiderne-i-appen-vil-blive-rettet-i-januar-2025">17/12 Fejlen i API’et til åbningstiderne i APP’en vil blive rettet i januar 2025</h2>
 
