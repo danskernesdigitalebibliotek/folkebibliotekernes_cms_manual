@@ -19,7 +19,8 @@ og tilføje VideoTool-videoer til en side via video parapraph.
 
 *Forbehold: Korrekt visning af VideoTool indhold i frontend kræver, at der er sat cookietilladelser op for Videotool og Dreambroker. 
 Det har vi gjort, men det har ikke været muligt at teste indstillingerne, før vi går live. 
-Er der problemer med visning af VideoTool indhold kan det skyldes udfordringer med Cookie Information, som vi så efterfølgende må løse.*
+Er der problemer med visning af VideoTool indhold kan det skyldes udfordringer med Cookie Information, som vi så efterfølgende må løse.
+OPDATERING: Dette er nu testet og er bekræftet at det virker.*
 
 ## Fejlrettelser
 
