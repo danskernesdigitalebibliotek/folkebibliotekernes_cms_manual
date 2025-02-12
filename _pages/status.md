@@ -4,6 +4,10 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 12/2 kl. 14.53 Alle sites er nede
+Vi oplever problemer med alle sites. Vi er i gang med at undersøge.
+Problemet er sandsynligvis vedr. databasen.
+Vi forventer at sites er oppe igen om ~10 minutter.
 ## Problemer med statusser og billetknap ift. Place2book
 Vi arbejder på flere sager angående integration med Place2book. Derudover arbejder Place2book også på nogle ting i deres ende. 
 
