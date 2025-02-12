@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+
+## 12/ 2 kl. 15.19
+Alle sites er oppe igen. 
 ## 12/2 kl. 14.53 Alle sites er nede
 Vi oplever problemer med alle sites. Vi er i gang med at undersøge.
 Problemet er sandsynligvis vedr. databasen.
