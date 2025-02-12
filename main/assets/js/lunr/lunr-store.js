@@ -1001,6 +1001,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-06-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.07.1",
+        "excerpt":"Ny paragraph type: Material Grid Automatic (Link) Releasedato: 13-02-2025 Redaktørbiblioteker: Produktionssites opgraderes til 2025.07.1 Webmasterbiblioteker: Produktionssites opgraderes til 2025.06.0. Modultestsites opgraderes til 2025.07.1. Nye features Ny paragraph-type Material Grid Automatic (Link) er tilføjet som supplement til Material Grid Automtic. Med den kan man oprette et material grid, hvor indholdet filtreres...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-07-1/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
