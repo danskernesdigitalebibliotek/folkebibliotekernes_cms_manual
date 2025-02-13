@@ -9,7 +9,7 @@ Hvis I oplever fejl af brugsmæssig eller teknisk karakter, er der en række tri
 
 1. Læser og søger i manualen og ser, om der allerede er beskrevet en løsning på problemet.  
 2. Spørger ud i jeres CB-netværksgrupper eller via den selvbestaltede Facebook-gruppe ’Folkebibliotekernes CMS for praktikere’.
-3. Overvejer om det er en sag for DBC, hvis det er et søgerelateret problem. [Læs mere om indberetning af sager om søgning](https://www.folkebibliotekernescms.dk/main/overblik/support#indberetning-af-sager-om-s%C3%B8gning)
+3. Overvejer om sagen skal til DBC, hvis det er et søgerelateret problem. [Læs mere om indberetning af sager om søgning og postvisning](https://www.folkebibliotekernescms.dk/main/overblik/support#indberetning-af-sager-om-s%C3%B8gning)
 5. Søger under anmodning/request i [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk){:target="_blank"} for at se, om der er tale om en kendt fejl, der allerede er indmeldt i servicedesk. 
 6. Indmelder fejlen i [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk){:target="_blank"}
 
@@ -24,10 +24,11 @@ Supporten er lukket på helligdage og i weekender, og der kan forekomme nedsat b
 ## Udviklingsønsker 
 Udviklingsønsker kan du også melde ind via [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk){:target="_blank"}. Læs mere om indberetning af udviklingsønsker: https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker 
 
-## Indberetning af sager om søgning
+## Indberetning af sager om søgning og postvisning
 Hvad skal meldes ind hvor?
 
 Sager om: 
+- Forsider - manglende eller forkerte (har du et forsidebillede, så vedhæft filen på sagen)
 - Udseende / design af søgeresultater på hjemmesiden
 - Hvilke metadata der vises (ikke om viste metadata er korrekte, men om de overhovedet 
 vises)
