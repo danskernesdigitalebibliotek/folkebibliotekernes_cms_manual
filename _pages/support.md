@@ -15,6 +15,8 @@ Hvis I oplever fejl af brugsmæssig eller teknisk karakter, er der en række tri
 
 OBS: For at kunne oprette sager i Servicedesk skal man være oprettet. Der er 2 fra hvert bibliotek, som er supportberettigede. Er du i tvivl om hvem eller vil ændre de supportberettigede, så skriv til os på [cms-info@detdigitalefolkebibliotek.dk](mailto:cms-info@detdigitalefolkebibliotek.dk)
 
+Hvis det er en hastersag, fx hvis alle lånere ikke kan logge ind eller jeres site er nede, så meld det ind i Servicedesk som en sag, hvor I skriver: HASTER foran titlen. Så griber vi sagen indenfor den normale åbningstid. Udenfor normal åbningstid, vil Reload monitorerer hjemmesiderne og sørger for at de kommer op at køre igen hurtigst muligt.
+
 Vi vil svare jer inden for 5 hverdage, så I ved, hvad der sker med jeres sag. Servicedesken er åben hverdage kl. 9-15, og vi prioriterer de kritiske fejl højest. 
 Supporten er lukket på helligdage og i weekender, og der kan forekomme nedsat betjening i ferieperioder.
 
