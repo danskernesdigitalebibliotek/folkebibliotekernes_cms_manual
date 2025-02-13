@@ -9,9 +9,9 @@ Hvis I oplever fejl af brugsmæssig eller teknisk karakter, er der en række tri
 
 1. Læser og søger i manualen og ser, om der allerede er beskrevet en løsning på problemet.  
 2. Spørger ud i jeres CB-netværksgrupper eller via den selvbestaltede Facebook-gruppe ’Folkebibliotekernes CMS for praktikere’.
-3. Hvis det er et søgerelateret problem, skal du overveje om det er en sag for DBC eller om den hører hjemme i Servicedesk hos DDF. [Læs mere om indberetning af sager om søgning](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/edit/main/_pages/support.md#indberetning-af-sager-om-s%C3%B8gning)
-4. Søger under anmodning/request i [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk){:target="_blank"} for at se, om der er tale om en kendt fejl, der allerede er indmeldt i servicedesk. 
-5. Indmelder fejlen i [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk){:target="_blank"}
+3. Overvejer om det er en sag for DBC, hvis det er et søgerelateret problem. [Læs mere om indberetning af sager om søgning](https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/edit/main/_pages/support.md#indberetning-af-sager-om-s%C3%B8gning)
+5. Søger under anmodning/request i [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk){:target="_blank"} for at se, om der er tale om en kendt fejl, der allerede er indmeldt i servicedesk. 
+6. Indmelder fejlen i [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk){:target="_blank"}
 
 OBS: For at kunne oprette sager i Servicedesk skal man være oprettet. Der er 2 fra hvert bibliotek, som er supportberettigede. Er du i tvivl om hvem eller vil ændre de supportberettigede, så skriv til os på [cms-info@detdigitalefolkebibliotek.dk](mailto:cms-info@detdigitalefolkebibliotek.dk)
 
