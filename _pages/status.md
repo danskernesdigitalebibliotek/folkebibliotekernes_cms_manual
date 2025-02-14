@@ -4,7 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-
+## Servicevindue 18/2 efter kl. 22
+Tirsdag den 18/2 kl. 22 vil vi afholde et servicevindue til at opdatere konfigurationen af databasen. Opdateringen vil medføre nedetid på tværs af alle sites i 20-30 minutter.
 ## 12/2 kl. 15.19 oppe igen
 Alle sites er oppe igen. 
 ## 12/2 kl. 14.53 Alle sites er nede
