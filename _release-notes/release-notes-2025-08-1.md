@@ -1,7 +1,7 @@
 ---
 title:  "Release Notes 2025.08.1"
 category: "Release Notes"
-weight: 348
+weight: 347
 ---
 
 Releasedato: 21-02-2025
