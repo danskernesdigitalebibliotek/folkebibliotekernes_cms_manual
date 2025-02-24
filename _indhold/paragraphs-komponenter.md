@@ -169,7 +169,7 @@ Bemærk, at det er en kendt fejl, at materialekomponenten ikke altid kan hente f
 
 Med Materialekomponent - automatisk (Link) trækkes materialer ind via en URL, der linker til en Avanceret søgning.  Fordelen ved den, er at man kan oprette et material grid, hvor indholdet filtreres på opstilling, delopstilling eller “på hylde”/hjemme (`location`, `sublocation` og `onshelf`). 
 
-Den nye paragraph-type skal bruge en URL, der linker til en avanceret søgning. Denne URL fremskaffes ved at trykke på knappen “Link til denne søgning” inde fra avanceret søgning.
+Den nye paragraph-type skal bruge en URL, der linker til en avanceret søgning - CQL. Denne URL fremskaffes ved at trykke på knappen “Link til denne søgning” inde fra avanceret søgning, og derpå "Rediger CQL", og så skrive en søgestreng, udføre søgningen, og derpå klikke på "Link til denne søgning".
 
 Du kan indstille komponenten til at vise et bestemt antal materialer. Antallet skal være deleligt med fire. Antallet bestemmer du i feltet **Antal materialer/værker**.
 
