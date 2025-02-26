@@ -225,6 +225,19 @@ defaults:
       share: false
       comments: false
       sidebar: true
+  # _delingstjenesten
+  - scope:
+      path: ""
+      type: delingstjenesten
+    values:
+      layout: single
+      classes: wide
+      toc: false
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar: true
   # _category
   - scope:
       path: ""
