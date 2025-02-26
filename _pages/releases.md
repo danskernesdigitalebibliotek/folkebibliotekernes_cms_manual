@@ -8,7 +8,7 @@ Hver uge opgraderes bibliotekernes hjemmesider til en ny release. Til hver relea
 
 Vil man holde sig ajour med udviklingen i CMS, skal man læse release notes. 
 
-[Release notes for Folkebibliotekernes CMS](https://www.folkebibliotekernescms.dk/main/overblik/release-notes/){: .btn .btn--primary}
+[Gå til Release notes](https://www.folkebibliotekernescms.dk/main/overblik/release-notes/){: .btn .btn--primary}
 
 ## Releasedatoer
 
