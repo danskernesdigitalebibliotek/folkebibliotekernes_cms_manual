@@ -10,7 +10,7 @@ header:
     - label: "Hostingplaner"
       url: "/overblik/hostingplaner"
     - label: "Release Notes"
-      url: "/overblik/release-notes/"
+      url: "/overblik/releases/"
     - label: "Tilgængelighedserklæring"
       url: "/overblik/tilgaengelighedserklaering"
     - label: "Status på udvikling og fejlrettelser"
