@@ -197,6 +197,12 @@ var store = [{
         "url": "/main/category/webmasterplanen/",
         "teaser": null
       },{
+        "title": "Delingstjenesten",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/main/delingstjenesten/",
+        "teaser": null
+      },{
         "title": "Åbningstider",
         "excerpt":"Åbningstider  ","categories": [],
         "tags": [],
