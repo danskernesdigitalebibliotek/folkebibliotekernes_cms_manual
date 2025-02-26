@@ -17,6 +17,8 @@ overblik:
         url: "/overblik/status"  
       - title: "Releases"
         url: "/overblik/releases"  
+      - title: "Release Notes"
+        url: "/overblik/release-notes"  
       - title: "Hostingplaner"
         url: "/overblik/hostingplaner"
       - title: "PR-pakke"
