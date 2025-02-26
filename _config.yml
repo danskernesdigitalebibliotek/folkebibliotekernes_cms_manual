@@ -104,6 +104,9 @@ collections:
   webmasterplanen:
     output: true
     permalink: /:collection/:path/
+  delingstjenesten:
+    output: true
+    permalink: /:collection/:path/
   category:
     output: true
     permalink: /:collection/:path/
