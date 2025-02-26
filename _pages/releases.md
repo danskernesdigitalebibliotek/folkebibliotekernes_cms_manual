@@ -7,7 +7,8 @@ nav: "overblik"
 Hver uge opgraderes bibliotekernes hjemmesider til en ny release. Til hver release skriver DDF release notes, der oplister nye features og fejlrettelser i ugens release.
 
 Vil man holde sig ajour med udviklingen i CMS er det via release notes man kan holde sig orienteret.
-[Release notes for Folkebibliotekernes CMS](https://www.folkebibliotekernescms.dk/main/overblik/release-notes/){: .btn .btn--info}
+
+[Release notes for Folkebibliotekernes CMS](https://www.folkebibliotekernescms.dk/main/overblik/release-notes/){: .btn }
 
 ## Releasedatoer
 
