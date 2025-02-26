@@ -12,7 +12,7 @@ Vil man holde sig ajour med udviklingen i CMS, skal man læse release notes.
 
 ## Releasedatoer
 
-Der kan pga. af helligdage eller ferie opstår ændringer til den faste releaseplan. I det tilfælde vil det fremgå af denne side.
+Der kan pga. af helligdage eller ferie opstå ændringer til den faste releaseplan. I det tilfælde vil det fremgå her.
 
 ### Redaktørbibliotek
 Redaktørbibliotekernes sites opdateres ugentligt om torsdagen til seneste release.
