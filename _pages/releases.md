@@ -14,11 +14,11 @@ Vil man holde sig ajour med udviklingen i CMS, skal man læse release notes.
 
 Der kan pga. af helligdage eller ferie opstå ændringer til den faste releaseplan. I det tilfælde vil det fremgå her.
 
-### Redaktørbibliotek
+#### Releaseplan: Redaktørbibliotek
 Redaktørbibliotekernes sites opdateres ugentligt om torsdagen til seneste release.
  
-### Webmasterbibliotek
-Webmasterbibliotekerne produktionssites opdateres fra 2025 ugentligt om torsdagen. Webmasterbibliotekerne er som udgangspunkt en release bagud i forhold til redaktørbibliotekerne. Med mindre de har ønsket udsættelse, så kan de være længere bagud (op til fire releases).
+#### Releaseplan: Webmasterbibliotek
+Webmasterbibliotekerne produktionssites opdateres ugentligt om torsdagen. Webmasterbibliotekerne er som udgangspunkt en release bagud i forhold til redaktørbibliotekerne. Med mindre de har ønsket udsættelse, så kan de være længere bagud (op til fire releases).
 
 Modultestsites opdateres ugentligt om torsdagen, til seneste release.
 
