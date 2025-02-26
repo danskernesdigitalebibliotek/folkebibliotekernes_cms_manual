@@ -11,12 +11,14 @@ overblik:
     children:
       - title: "Support og Servicedesk"
         url: "/overblik/support"  
+      - title: "Indberetning af udviklingsønsker "
+        url: "/overblik/udviklingsoensker"
       - title: "Status på udvikling og fejlrettelser"
         url: "/overblik/status"  
       - title: "Releases"
         url: "/overblik/releases"  
       - title: "Hostingplaner"
-        url: "https://detdigitalefolkebibliotek.dk/hostingplaner"
+        url: "/overblik/hostingplaner"
       - title: "PR-pakke"
         url: "/overblik/pr-pakke"
       - title: "Tilgængelighedserklæring"
@@ -25,6 +27,7 @@ overblik:
         url: /overblik/hurtigguide-til-manualen
       - title: "Nyt i manualen"
         url: /overblik/nyt-i-manualen
+
 
 
 
