@@ -203,6 +203,12 @@ var store = [{
         "url": "/main/delingstjenesten/",
         "teaser": null
       },{
+        "title": "Testside",
+        "excerpt":"Dette er en test  ","categories": [],
+        "tags": [],
+        "url": "/main/delingstjenesten/test/",
+        "teaser": null
+      },{
         "title": "Åbningstider",
         "excerpt":"Åbningstider  ","categories": [],
         "tags": [],
