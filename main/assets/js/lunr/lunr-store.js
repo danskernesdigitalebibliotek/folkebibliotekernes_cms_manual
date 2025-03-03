@@ -204,7 +204,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Testside",
-        "excerpt":"Dette er en test   Underoverskrift   Endnu et overskrift   Her er et afsnit. Fed tekst     punktopstilling   punktopstilling   tekstboks  ","categories": ["Generelt"],
+        "excerpt":"Dette er en test   Underoverskrift   Endnu et overskrift   Her er et afsnit. Fed tekst     punktopstilling   punktopstilling   tekstboks            Billedtekst        ","categories": ["Generelt"],
         "tags": [],
         "url": "/main/delingstjenesten/test/",
         "teaser": null
