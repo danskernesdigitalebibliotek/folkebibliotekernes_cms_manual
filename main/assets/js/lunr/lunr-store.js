@@ -204,7 +204,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Testside",
-        "excerpt":"Dette er en test  ","categories": [],
+        "excerpt":"Dette er en test  ","categories": ["Generelt"],
         "tags": [],
         "url": "/main/delingstjenesten/test/",
         "teaser": null
