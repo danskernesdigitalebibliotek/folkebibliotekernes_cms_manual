@@ -39,6 +39,7 @@ algolia:
   files_to_exclude:
    - _category/*
    - _emneord/*
+   - _delingstjenesten/*
    - _pages/404.md
 
 
