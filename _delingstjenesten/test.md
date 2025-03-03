@@ -16,3 +16,6 @@ Her er et afsnit. **Fed tekst**
 
 tekstboks
 {: .notice--info}
+![kort nydamskolen](https://github.com/user-attachments/assets/6e4b406e-625c-4551-8e88-d2487787581a)
+
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/6e4b406e-625c-4551-8e88-d2487787581a" alt="Alt teskt" caption="Billedtekst" %}
