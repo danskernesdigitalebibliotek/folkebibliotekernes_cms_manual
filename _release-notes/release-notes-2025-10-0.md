@@ -15,6 +15,8 @@ Bemærk at man som låner godt kan logge ind på en anden kommune end hjemkommun
 
 - Sæson-nummer vises nu på tv-serier
 
+- **OBS**: Der er ved en en fejl blevet tilføjet to nye paragraph-typer: *GO Text Body* og *GO link*. Dem må I ikke bruge. De vil blive fjernet igen i den kommende release.
+
 ## Fejlrettelser
 **Caching problemer:** Flere biblioteker har indrapporteret caching problemer. 
 F. eks. indholdsændringer, der ikke slår igennem eller afpubliseret indhold, der ikke forsvinder fra hjemmesiden. 
