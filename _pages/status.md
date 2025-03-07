@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## Efter release 2025.10.0 er der fejl på material grid manual og recommendation paragraphs
+Det betyder kan man ikke kan redigere eller tilføje nye materialer til eksisterende eller nye material grid manual og recommendation paragraphs.
+Vi beklager fejlen, som vil blive rettet hurtigst muligt.
 ## Servicevindue 18/2 efter kl. 22
 Tirsdag den 18/2 kl. 22 vil vi afholde et servicevindue til at opdatere konfigurationen af databasen. Opdateringen vil medføre nedetid på tværs af alle sites i 20-30 minutter.
 ## 12/2 kl. 15.19 oppe igen
