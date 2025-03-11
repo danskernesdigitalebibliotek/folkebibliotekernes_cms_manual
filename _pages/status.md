@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## Fejlen på material grid manual og recommendation paragraphs vil blive rettet i release 2025.11.0 som kommer ud på torsdag.
+Bemærk at der ikke kommer nogen release ud i uge 12, hvor der er nedsat kapacitet hos Reload.
 ## Efter release 2025.10.0 er der fejl på material grid manual og recommendation paragraphs
 Det betyder, at man ikke kan redigere eller tilføje nye materialer til eksisterende eller nye material grid manual og recommendation paragraphs.
 Vi beklager fejlen, som vil blive rettet hurtigst muligt.
