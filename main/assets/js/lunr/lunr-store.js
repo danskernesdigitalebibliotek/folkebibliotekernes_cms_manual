@@ -1049,6 +1049,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-10-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.11.0",
+        "excerpt":"Diverse rettelser Releasedato: 13-03-2025 Redaktørbiblioteker: Produktionssites opgraderes til 2025.11.0 Webmasterbiblioteker: Produktionssites opgraderes til 2025.11.0. Modultestsites opgraderes til 2025.11.0. Bemærk: Webmasterbibliotekernes produktionssites opdateres i denne uge direkte fra 2025.09.0 til 2025.11.0. Dvs. 2025.10.0 springes over. Derved undgår webmasterbibliotekerne den paragraphs-fejl, som redaktør-bibliotekerne har døjet med i den forgangne uge. Nye features...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-11-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
