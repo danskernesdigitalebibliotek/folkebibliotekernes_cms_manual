@@ -40,6 +40,7 @@ algolia:
    - _category/*
    - _emneord/*
    - _delingstjenesten/*
+   - _go*
    - _pages/404.md
 
 
