@@ -108,6 +108,9 @@ collections:
   delingstjenesten:
     output: true
     permalink: /:collection/:path/
+  go:
+    output: true
+    permalink: /:collection/:path/
   category:
     output: true
     permalink: /:collection/:path/
@@ -233,6 +236,19 @@ defaults:
   - scope:
       path: ""
       type: delingstjenesten
+    values:
+      layout: single
+      classes: wide
+      toc: false
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar: true
+  # _go
+  - scope:
+      path: ""
+      type: go
     values:
       layout: single
       classes: wide
