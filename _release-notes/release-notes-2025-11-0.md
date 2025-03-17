@@ -20,7 +20,7 @@ Releasedato: 13-03-2025
 ## Fejlrettelser
 **Paragraph-fejl:** Rettelse af fejl vedr. tilknytning af materialer i de to paragrapgh-typer *Anbefaling* og *Materialekomponent – manuel*. Fejlen blev introduceret i 2025.10.0.
 
-**Navigation spot paragraph:** Billedtekst fjernet fra *Navigation spot* paragraphs
+**Navigation spot paragraph:** Billedtekst fjernet fra *Navigation spot* paragraphs. Update: Byline fjernes når man indsætter en artikel og et arrangement i navigations spots, men ikke for sider. Det vil blive rettet i næste release i uge 13, så der heller ikke vises byline for sider.
 
 **Digitale reserveringer:** Justeret visning af udløbstidspunkt for reserveringer på digitale materialer. Der har været en times forskydning mellem det viste udløbstidspunkt og det faktiske udløbstidspunkt på digtiale reserveringer. Det er nu rettet.
 
