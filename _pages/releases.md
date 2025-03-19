@@ -14,6 +14,10 @@ Vil man holde sig ajour med udviklingen i CMS, skal man læse release notes.
 
 Der kan pga. af helligdage eller ferie opstå ændringer til den faste releaseplan. I det tilfælde vil det fremgå her.
 
+**Ingen release torsdag den 20. marts. Næste release kommer torsdag den 27. marts**
+{: .notice}
+
+
 #### Releaseplan: Redaktørbibliotek
 Redaktørbibliotekernes sites opdateres ugentligt om torsdagen til seneste release.
  
