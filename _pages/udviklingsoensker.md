@@ -7,7 +7,7 @@ nav: "overblik"
 
 Har du en god idé til videreudvikling eller et ønske om en ny funktion i Folkebibliotekernes CMS, er her en vejledning til, hvordan du skal indberette dit ønske til os, samt information om den videre proces. 
 
-#### Vær opmærksom på at vi først går i gang med at prioritere og estimere udviklingsønskerne i vinteren 2024/2025.
+**Vi melder en proces ud om udviklingsønsker i de kommende uger. Denne side vil løbende blive opdateret.**
 
 ## Brug Serviceportalen 
 Du indmelder dit ønske via vores [serviceportal](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/user/login?destination=portals){:target="_blank"} og du skal være supportberettiget. 
