@@ -29,7 +29,7 @@ Vi kommer til at arbejde med udviklingsønsker og support samtidigt, som betyder
 
 Vi kommunikerer ud til kontaktpersoner om detaljerne for processen.
 
-{% include figure class="sixty" image_path="[https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/226400d7-9974-4d0d-b7cc-d5b6917cce9a](https://github.com/user-attachments/assets/88ae7341-574a-4801-9801-a63bd427aa1d)" alt="Udvklingsønsker tidsplan 2025" caption="Udvklingsønsker tidsplan 2025" %}
+{% include figure image_path="https://github.com/user-attachments/assets/88ae7341-574a-4801-9801-a63bd427aa1d" alt="Udvklingsønsker tidsplan 2025" caption="Udvklingsønsker tidsplan 2025" %}
 
 ## Hvordan prioriteres ønskerne? 
 Vi vil naturligvis gerne efterkomme alle de ønsker vi får ind, men både økonomi og tid spiller ind i, hvor hurtigt vi kan efterkomme ønskerne. Derfor vil vi dele alle ønsker ind i overordnede kategorier, som kan danne grundlag for prioritering.
