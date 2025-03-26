@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 26/3 kl. 14.15 - Siderne er ustabile
+Der arbejdes på sagen.
 ## Fejlen på material grid manual og recommendation paragraphs vil blive rettet i release 2025.11.0 som kommer ud på torsdag den 13/3.
 Bemærk at der ikke kommer nogen release ud i uge 12, hvor der er nedsat kapacitet hos Reload.
 ## Efter release 2025.10.0 er der fejl på material grid manual og recommendation paragraphs
