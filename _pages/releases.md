@@ -12,12 +12,6 @@ Vil man holde sig ajour med udviklingen i CMS, skal man læse release notes.
 
 ## Releasedatoer
 
-Der kan pga. af helligdage eller ferie opstå ændringer til den faste releaseplan. I det tilfælde vil det fremgå her.
-
-**Ingen release torsdag den 20. marts. Næste release kommer torsdag den 27. marts**
-{: .notice}
-
-
 #### Releaseplan: Redaktørbibliotek
 Redaktørbibliotekernes sites opdateres ugentligt om torsdagen til seneste release.
  
@@ -25,6 +19,20 @@ Redaktørbibliotekernes sites opdateres ugentligt om torsdagen til seneste relea
 Webmasterbibliotekerne produktionssites opdateres ugentligt om torsdagen. Webmasterbibliotekerne er som udgangspunkt en release bagud i forhold til redaktørbibliotekerne. Med mindre de har ønsket udsættelse, så kan de være længere bagud (op til fire releases).
 
 Modultestsites opdateres ugentligt om torsdagen, til seneste release.
+
+## Uger uden release i 2025
+Der kan pga. af helligdage eller ferie opstå ændringer til den faste releaseplan. I det tilfælde vil det fremgå her.
+
+Ingen release i uge:
+- Uge 16: Påske
+- Uge 22: Kr. Himmelfart
+- Uge 28: Sommerferie
+- Uge 29: Sommerferie
+- Uge 30: Sommerferie
+- Uge 31: Sommerferie
+- Uge 51: Jul
+- Uge 52: Jul
+
 
 
  
