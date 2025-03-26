@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 26/3 kl. 15 - vi arbejder fortsat på at genstarte databasen
+Vi regner med at siderne er oppe inden for 30 min.
 ## 26/3 kl. 14.15 - Siderne er ustabile
 Der arbejdes på sagen. Vi oplever lige nu et nedbrud på hjemmesiderne. Azure databasen er gået ned og Azure ved ikke hvorfor endnu. 
 Vi har desværre ingen tidshorisont.
