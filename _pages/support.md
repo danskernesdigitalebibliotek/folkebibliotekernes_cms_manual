@@ -13,7 +13,7 @@ Hvis I oplever fejl af brugsmæssig eller teknisk karakter, er der en række tri
 5. Søger under anmodning/request i [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk){:target="_blank"} for at se, om der er tale om en kendt fejl, der allerede er indmeldt i servicedesk. 
 6. Indmelder fejlen i [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk){:target="_blank"}
 
-OBS: For at kunne oprette sager i Servicedesk skal man være oprettet. Der er 2 fra hvert bibliotek, som er supportberettigede. Er du i tvivl om hvem eller vil ændre de supportberettigede, så skriv til os på [cms-info@detdigitalefolkebibliotek.dk](mailto:cms-info@detdigitalefolkebibliotek.dk)
+OBS: For at kunne oprette sager i Servicedesk skal man være oprettet. Der er 3 fra hvert bibliotek, som er supportberettigede. Er du i tvivl om hvem eller vil ændre de supportberettigede, så skriv til os på [kontakt@detdigitalefolkebibliotek.dk](mailto:kontakt@detdigitalefolkebibliotek.dk)
 
 Hastesager: Hvis f. eks. alle lånere ikke kan logge ind eller jeres site er nede, så meld det ind i Servicedesk som en sag, hvor I skriver: HASTER foran titlen. Så griber vi sagen indenfor den normale åbningstid. Udenfor normal åbningstid, vil Reload monitorerer hjemmesiderne og sørger for at de kommer op at køre igen hurtigst muligt.
 
@@ -28,7 +28,7 @@ Udviklingsønsker kan du også melde ind via [Servicedesk](https://detdigitalefo
 Hvad skal meldes ind hvor?
 
 Sager om: 
-- Forsider - manglende eller forkerte (har du et forsidebillede, så vedhæft filen på sagen)
+- Forsider - manglende eller forkerte (har du et forsidebillede, så vedhæft filen på sagen) - Meldes ind under Cover Service
 - Udseende / design af søgeresultater på hjemmesiden
 - Hvilke metadata der vises (ikke om viste metadata er korrekte, men om de overhovedet 
 vises)
