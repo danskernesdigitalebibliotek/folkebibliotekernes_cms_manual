@@ -4,6 +4,11 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 31/3 - Release 2025.13.1 kommer ud i dag
+Efter udrulning af release 2025.13.0 oplever nogle biblioteker at deres login, søgning mv. ikke virker. De fem biblioteker hvor fejlen har vist sig, har heldigvis været hurtige til at sende det ind til os i Servicedesk, så det kunne løses.
+I dag mandag den 31. marts vil vi sende en rettelse ud til alle redaktørbibliotekerne, så de kommer på release 2025.13.1. Webmasterbibliotekerne får 2025.13.1 på torsdag i stedet for 2025.13.0. 
+Fejlen er relateret til introduktionen af yderligere webstatistik, hvilket har identificeret en bug i kodebasen som går helt tilbage til at integrationen med Mapp er blevet introduceret.
+Af ukendte grunde træder den først i effekt nu - og ikke konsistent på tværs af sites. Heldigvis har Reload været hurtige til at lokalisere fejlen og lave en fejlrettelse.
 ## 26/3 kl. 15.12 - Alle sites er oppe igen
 ## 26/3 kl. 15 - vi arbejder fortsat på at genstarte databasen
 Vi regner med at siderne er oppe inden for 30 min.
