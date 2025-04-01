@@ -10,7 +10,6 @@ emneord:
 - "VIP og søgeprofiler"
 - "FBS"
 - "Faste sider"
-- "X mangler indhold"
 ---
 
 I topmenuen klik på **{{ page.click-path }}**
@@ -46,24 +45,6 @@ Efter I har gemt bliver de nye interesseperiode tilgængelige i **Standard inter
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/25a42b99-47fa-468d-af1e-b5ad3dc11667" alt="Angiv her, om I vil tillade at brugerne sletter opfyldte reserveringer" caption="Angiv her, om I vil tillade at brugerne sletter opfyldte reserveringer" %} 
 
 Her vælger I, om brugerne må slette en reservering, der er opfyldt. Som standard er det ikke tilladt. Hvis det skal være tilladt, skal det aktiveres her.
-
-## Link til 'Min side' på eReolen
-{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/6f4990b1-80a1-48ce-8a48-778eeb764b58" alt="Link til 'Min side' på eReolen" caption="Link til Min side på eReolen" %} 
-
-Er som standard korrekt udfyldt. Den skal der ikke pilles ved.
-
-|Feltnavn|Værdi|
-|---|---|
-|Link til Min side på eReolen|https://ereolen.dk/user/me|
-
-## Link til eReolen
-{% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/567dd09d-2d0a-47c1-8e17-8881ed1394a6" alt="Link til eReolen" caption="Link til eReolen" %} 
-
-Er som standard korrekt udfyldt. Den skal der ikke pilles ved.
-
-|Feltnavn|Værdi|
-|---|---|
-|Link til eReolen|https://ereolen.dk|
 
 ## Link til side om reserveringspause
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/4cc4467c-736d-4215-982b-7fa22e3c3067" alt="Angiv her URL til side om reserveringspause" caption="Angiv her URL til side om reserveringspause" %} 
