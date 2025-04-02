@@ -16,6 +16,10 @@ Er du i tvivl om hvem det er hos dig, eller vil ændre de supportberettigede, s�
 Vi vil gerne have så mange detaljer som muligt, så vi bliver klædt bedst muligt på til at forstå dit ønske. Derfor er der mange felter i skabelonen til indberetninger, hvoraf kun nogle er obligatoriske. 
 Felterne giver os mulighed for at filtrere og gruppere ønskerne, så vi kan samle dem i relaterede emner. 
 
+### Den gode ønskebeskrivelse
+* Beskriv dit ønske med så mange detaljer som muligt. Jo kortere der skrives, jo mere kan vi misforstå eller ikke komme videre med ønsket.
+* Beskriv dit eller brugernes behov mere end et forslag til en løsning. Hvis der beskrives en løsning, så kan man ende med at fokusere på en bestemt retning, som ikke nødvendigvis er den bedste retning.
+
 ## Proces for prioritering af ønskerne
 Når du har indberettet dit ønske, får du automatisk en kvittering for, at vi har modtaget din indberetning. Hvis et ønske hænger sammen med funktionalitet, som er under udvikling, kan ønsket medtages i de aktuelle udviklingsplaner.  
 
@@ -28,6 +32,8 @@ Vi kommer til at arbejde med udviklingsønsker og support samtidigt, som betyder
 ## Planen for udvikling i 2025
 
 Vi kommunikerer ud til kontaktpersoner om detaljerne for processen.
+
+Ønsker indmeldt efter 23.4. bliver taget med i udviklingsønskerunden i efteråret.
 
 {% include figure image_path="https://github.com/user-attachments/assets/88ae7341-574a-4801-9801-a63bd427aa1d" alt="Udvklingsønsker tidsplan 2025" caption="Udvklingsønsker tidsplan 2025" %}
 
