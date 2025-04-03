@@ -1055,8 +1055,8 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-11-0/",
         "teaser": null
       },{
-        "title": "Release Notes 2025.13.0",
-        "excerpt":"Diverse rettelser  Releasedato: 27-03-2025   Redaktørbiblioteker: Produktionssites opgraderes til 2025.13.0  Webmasterbiblioteker: Produktionssites fastholdes på 2025.11.0. Modultestsites opgraderes til 2025.13.0.   Fejlrettelser           Fjerne henvisninger til eReolen.dk fra brugergrænsefladen            Unødvendigt konfigurationsfelt Feltarv fjernet fra indholdstypen artikel            Webmaster: Problem med at sætte LibraryToken på nyt site (efter dev:reset) løst.      ","categories": ["Release Notes"],
+        "title": "Release Notes 2025.13.1",
+        "excerpt":"Diverse rettelser  Releasedato: 27-03-2025   Redaktørbiblioteker: Produktionssites opgraderes til 2025.13.1  Webmasterbiblioteker: Produktionssites fastholdes på 2025.11.0. Modultestsites opgraderes til 2025.13.1.   Fejlrettelser           Fjerne henvisninger til eReolen.dk fra brugergrænsefladen            Unødvendigt konfigurationsfelt Feltarv fjernet fra indholdstypen artikel            Webmaster: Problem med at sætte LibraryToken på nyt site (efter dev:reset) løst.      ","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2025-13-0/",
         "teaser": null
