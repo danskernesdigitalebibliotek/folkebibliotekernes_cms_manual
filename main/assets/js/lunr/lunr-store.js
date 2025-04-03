@@ -821,12 +821,6 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-11-0/",
         "teaser": null
       },{
-        "title": "Release Notes 2025.13.0",
-        "excerpt":"Diverse rettelser  Releasedato: 27-03-2025   Redaktørbiblioteker: Produktionssites opgraderes til 2025.13.0  Webmasterbiblioteker: Produktionssites fastholdes på 2025.11.0. Modultestsites opgraderes til 2025.13.0.   Fejlrettelser           Fjerne henvisninger til eReolen.dk fra brugergrænsefladen            Unødvendigt konfigurationsfelt Feltarv fjernet fra indholdstypen artikel            Webmaster: Problem med at sætte LibraryToken på nyt site (efter dev:reset) løst.      ","categories": ["Release Notes"],
-        "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2024-13-0/",
-        "teaser": null
-      },{
         "title": "Release Notes 2024.15.0",
         "excerpt":"Denne release gør det let for brugerne at finde rundt på dit site med brødkrumme og slutbrugervenlige URL’er. Nu mulighed for at redigere servicemenu. Nye features Filialer: Vælg at filial skal vises i toppen af /branches. Hvis flere filialer er tildelt topplacering listes disse alfabetisk. Slutbrugervenlige URL’er: Alt indhold vises...","categories": ["Release Notes"],
         "tags": [],
@@ -1059,6 +1053,12 @@ var store = [{
         "excerpt":"Diverse rettelser Releasedato: 13-03-2025 Redaktørbiblioteker: Produktionssites opgraderes til 2025.11.0 Webmasterbiblioteker: Produktionssites opgraderes til 2025.11.0. Modultestsites opgraderes til 2025.11.0. Bemærk: Webmasterbibliotekernes produktionssites opdateres i denne uge direkte fra 2025.09.0 til 2025.11.0. Dvs. 2025.10.0 springes over. Derved undgår webmasterbibliotekerne den paragraphs-fejl, som redaktør-bibliotekerne har døjet med i den forgangne uge. Nye features...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2025-11-0/",
+        "teaser": null
+      },{
+        "title": "Release Notes 2025.13.0",
+        "excerpt":"Diverse rettelser  Releasedato: 27-03-2025   Redaktørbiblioteker: Produktionssites opgraderes til 2025.13.0  Webmasterbiblioteker: Produktionssites fastholdes på 2025.11.0. Modultestsites opgraderes til 2025.13.0.   Fejlrettelser           Fjerne henvisninger til eReolen.dk fra brugergrænsefladen            Unødvendigt konfigurationsfelt Feltarv fjernet fra indholdstypen artikel            Webmaster: Problem med at sætte LibraryToken på nyt site (efter dev:reset) løst.      ","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-13-0/",
         "teaser": null
       },{
         "title": "Release Notes 2025.14.3",
