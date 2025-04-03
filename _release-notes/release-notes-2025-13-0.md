@@ -1,13 +1,13 @@
 ---
-title:  "Release Notes 2025.13.0"
+title:  "Release Notes 2025.13.1"
 category: "Release Notes"
 weight: 343
 ---
 ## Diverse rettelser
 Releasedato: 27-03-2025
 
-**Redaktørbiblioteker**: Produktionssites opgraderes til 2025.13.0\
-**Webmasterbiblioteker**: Produktionssites fastholdes på 2025.11.0. Modultestsites opgraderes til 2025.13.0.
+**Redaktørbiblioteker**: Produktionssites opgraderes til 2025.13.1\
+**Webmasterbiblioteker**: Produktionssites fastholdes på 2025.11.0. Modultestsites opgraderes til 2025.13.1.
 
 
 ## Fejlrettelser
