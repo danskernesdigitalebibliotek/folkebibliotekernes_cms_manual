@@ -1061,6 +1061,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-11-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.14.3",
+        "excerpt":"Webstatistik Releasedato: 03-04-2025 Redaktørbiblioteker: Produktionssites opgraderes til 2025.14.3 Webmasterbiblioteker: Produktionssites opgraderes til 2025.13.1. Modultestsites opgraderes til 2025.14.3. Nye features Opsamling af data om brugerhandlinger til MAPP Det drejer sig om: Avanceret søgning søgestreng Klik på GODKEND RESERVERING Klik på FIND PÅ HYLDEN Klik på udgavespecifik reservering Klik på RESERVER [materialetype]...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-14-3/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
