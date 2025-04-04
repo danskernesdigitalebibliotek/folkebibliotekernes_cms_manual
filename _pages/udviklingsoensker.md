@@ -19,6 +19,7 @@ Felterne giver os mulighed for at filtrere og gruppere ønskerne, så vi kan sam
 ### Den gode ønskebeskrivelse
 * Beskriv dit ønske med så mange detaljer som muligt. Jo kortere der skrives, jo mere kan vi misforstå eller ikke komme videre med ønsket.
 * Beskriv dit eller brugernes behov mere end et forslag til en løsning. Hvis der beskrives en løsning, så kan man ende med at fokusere på en bestemt retning, som ikke nødvendigvis er den bedste retning.
+* Hav kun et ønske i en sag. Ingen sag med en samling af forskellige ønsker.
 
 ## Proces for prioritering af ønskerne
 Når du har indberettet dit ønske, får du automatisk en kvittering for, at vi har modtaget din indberetning. Hvis et ønske hænger sammen med funktionalitet, som er under udvikling, kan ønsket medtages i de aktuelle udviklingsplaner.  
