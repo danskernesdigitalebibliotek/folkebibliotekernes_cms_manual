@@ -3,8 +3,7 @@ title:  "Release Notes 2025.15.1"
 category: "Release Notes"
 weight: 341
 ---
-## 
-Releasedato: 10-04-2025
+## Releasedato: 10-04-2025
 
 **Redaktørbiblioteker**: Produktionssites opgraderes til 2025.15.1\
 **Webmasterbiblioteker**: Produktionssites opgraderes til 2025.14.3. Modultestsites opgraderes til 2025.15.1.
