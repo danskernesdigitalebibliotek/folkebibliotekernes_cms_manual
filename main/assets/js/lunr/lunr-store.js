@@ -1067,6 +1067,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-14-3/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.15.0",
+        "excerpt":"## Releasedato: 10-04-2025 Redaktørbiblioteker: Produktionssites opgraderes til 2025.15.0 Webmasterbiblioteker: Produktionssites opgraderes til 2025.14.3. Modultestsites opgraderes til 2025.15.0. Nye features Tags på sider: Tags kan nu tilføjes til indholdstypen “sider”, ligesom på arrangementer og artikler. Sider med tags vises på de(n) pågældende tagssamlesider. Intelligente facetter: Nu kan intelligente facetter i simpel...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-15-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
