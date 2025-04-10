@@ -6,12 +6,13 @@ nav: "overblik"
 ---
 ## 10/4 - Digitale artikler fejler på værkvisningssiden
 Fejlen er introduceret efter links til DBC webarkiv blev implementeret. Det sker når der er scenarier, hvor alle links fejler link-tjek i FBI API.
-Sag: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1478 
+Sag: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1478
+
 Fejlen vil forhåbentlig kunne rettes med releasen efter påske.
 ## 9/4 - “Lån e-bog” og “Lån lydbog (Online)” knapperne under Udgaver virker ikke, og “låser” brugerne på siden
 “Lån e-bog” og “Lån lydbog (Online)” knapperne under Udgaver virker ikke, og “låser” brugerne på siden. Klikker man på knapperne, ændrer url’en sig godt nok, men der kommer ingen modal frem, og sidens scroll-funktion disables således at brugeren er “låst” og ikke kan komme videre.
 Anvender brugerne i stedet låne-knapperne øverst på værk-siden så fungerer tingene heldigvis.
-I kan finde sagen her: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1473
+I kan finde sagen her: (https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1473)
 Vi har sendt sagen til udviklerne og prioriteret den højest. Den vil forhåbentlig kunne rettes med releasen efter påske.
 ## 31/3 - Release 2025.13.1 kommer ud i dag
 Efter udrulning af release 2025.13.0 oplever nogle biblioteker at deres login, søgning mv. ikke virker. De fem biblioteker hvor fejlen har vist sig, har heldigvis været hurtige til at sende det ind til os i Servicedesk, så det kunne løses.
