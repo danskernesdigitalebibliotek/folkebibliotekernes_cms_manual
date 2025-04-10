@@ -4,7 +4,7 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 10/4 - Digitale artikler fejler på værkvisningssiden
+## 10/4 - Digitale artikler fra Gale fejler på værkvisningssiden
 Fejlen er introduceret efter links til DBC webarkiv blev implementeret. Det sker når der er scenarier, hvor alle links fejler link-tjek i FBI API.
 Sag: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1478
 
