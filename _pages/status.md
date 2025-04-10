@@ -8,7 +8,7 @@ nav: "overblik"
 Fejlen er introduceret efter links til DBC webarkiv blev implementeret. Det sker når der er scenarier, hvor alle links fejler link-tjek i FBI API.
 Sag: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1478
 
-Fejlen vil forhåbentlig kunne rettes med releasen efter påske.
+Sagen er højt prioriteret og vil forhåbentlig kunne rettes med releasen efter påske.
 ## 9/4 - “Lån e-bog” og “Lån lydbog (Online)” knapperne under Udgaver virker ikke, og “låser” brugerne på siden
 “Lån e-bog” og “Lån lydbog (Online)” knapperne under Udgaver virker ikke, og “låser” brugerne på siden. Klikker man på knapperne, ændrer url’en sig godt nok, men der kommer ingen modal frem, og sidens scroll-funktion disables således at brugeren er “låst” og ikke kan komme videre.
 Anvender brugerne i stedet låne-knapperne øverst på værk-siden så fungerer tingene heldigvis.
