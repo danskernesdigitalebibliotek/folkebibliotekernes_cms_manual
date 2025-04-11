@@ -4,8 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 10/4 - Digitale artikler fra Gale fejler på værkvisningssiden
-Fejlen er introduceret efter links til DBC webarkiv blev implementeret. Det sker når der er scenarier, hvor alle links fejler link-tjek i FBI API.
+## 10/4 - Digitale artikler fra Gale + ComicPlus fejler på værkvisningssiden
+Det er en fejl som er introduceret ifm at vi begyndte at benytte DBCs linktjekker, idet den ikke fungerer på nogle proxy-links, hvilket gør at visse links fra materialer fra licensbelagte kilder fejler, hvilket igen gør, at der er scenarier, hvor alle links fejler link-tjek i FBI API - og når det sker, fejler værkvisningssiden.
 Sag: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1478
 
 Sagen er højt prioriteret og vil forhåbentlig kunne rettes med releasen efter påske.
