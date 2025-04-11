@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 11/4 - Digitale artikler fra Gale og ComicPlus virker igen
+DBC har fixet problemet med proxy-url'erne, så nu virker det igen.
 ## 10/4 - Digitale artikler fra Gale + ComicPlus fejler på værkvisningssiden
 Det er en fejl som er introduceret ifm at vi begyndte at benytte DBCs linktjekker, idet den ikke fungerer på nogle proxy-links, hvilket gør at visse links fra materialer fra licensbelagte kilder fejler, hvilket igen gør, at der er scenarier, hvor alle links fejler link-tjek i FBI API - og når det sker, fejler værkvisningssiden.
 Sag: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1478
