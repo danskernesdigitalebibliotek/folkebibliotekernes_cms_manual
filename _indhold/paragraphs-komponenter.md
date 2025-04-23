@@ -169,7 +169,7 @@ Bemærk, at det er en kendt fejl, at materialekomponenten ikke altid kan hente f
 
 Med Materialekomponent - automatisk (Link) trækkes materialer ind via en URL, der linker til en Avanceret søgning.  Fordelen ved den, er at man kan oprette et material grid, hvor indholdet filtreres på opstilling, delopstilling eller “på hylde”/hjemme (`location`, `sublocation` og `onshelf`). 
 
-Sådan laver du et link til Material grid link automatic
+Sådan laver du et link til Material grid link automatic:
 1. Gå til avanceret søgning
 2. Lav din søgning på fx forfatter og titel
 3. Tryk søg
