@@ -198,7 +198,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Delingstjenesten",
-        "excerpt":" ","categories": [],
+        "excerpt":"Delingstjenesten   Her finder du guides og vejledninger til brugen af delingstjenesten og integrationen med CMS’et.   Klik på en af undersiderne nedenfor for at komme i gang.  ","categories": [],
         "tags": [],
         "url": "/main/delingstjenesten/",
         "teaser": null
