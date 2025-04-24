@@ -198,7 +198,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Delingstjenesten",
-        "excerpt":"Delingstjenesten   Her finder du guides og vejledninger til brugen af delingstjenesten og integrationen med CMS’et.   Klik på en af undersiderne nedenfor for at komme i gang.  ","categories": [],
+        "excerpt":"Delingstjenesten   Denne side samler vejledninger og information om den nye delingstjeneste, hvor biblioteket i første omgang kan hente indhold fra Bibliotekernes Nationale Redaktion.     Vejledninger      Sådan henter du indhold fra Delingstjenesten    ","categories": [],
         "tags": [],
         "url": "/main/delingstjenesten/",
         "teaser": null
