@@ -263,6 +263,12 @@ var store = [{
         "url": "/main/overblik/emneord/dashboard/",
         "teaser": null
       },{
+        "title": "Delingstjenesten",
+        "excerpt":"Delingstjenesten   Denne side samler vejledninger og information om den nye delingstjeneste, hvor biblioteket i første omgang kan hente indhold fra Bibliotekernes Nationale Redaktion.     Vejledninger      Sådan henter du indhold fra Delingstjenesten    ","categories": [],
+        "tags": [],
+        "url": "/main/emneord/delingstjenesten/",
+        "teaser": null
+      },{
         "title": "Elektroniske ressourcer",
         "excerpt":" ","categories": [],
         "tags": [],
