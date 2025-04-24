@@ -6,8 +6,15 @@ has_children: true
 permalink: /delingstjenesten/
 ---
 
+
 ## Delingstjenesten
 
-Her finder du guides og vejledninger til brugen af delingstjenesten og integrationen med CMS'et.
+Denne side samler vejledninger og information om den nye delingstjeneste, hvor biblioteket i første omgang kan hente indhold fra Bibliotekernes Nationale Redaktion.
 
-Klik på en af undersiderne nedenfor for at komme i gang.
+---
+
+### Vejledninger
+
+- [Sådan henter du indhold fra Delingstjenesten](/delingstjenesten/import/)
+
+---
