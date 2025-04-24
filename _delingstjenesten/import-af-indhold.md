@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: default
 title: Sådan henter du indhold fra Delingstjenesten
 parent: Delingstjenesten
 nav_order: 2
 permalink: /delingstjenesten/import/
 ---
+
 
 
 # Sådan henter du indhold fra Delingstjenesten
