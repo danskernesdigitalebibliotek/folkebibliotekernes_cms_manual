@@ -198,7 +198,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Delingstjenesten",
-        "excerpt":"Delingstjenesten   Denne side samler vejledninger og information om den nye delingstjeneste, hvor biblioteket i første omgang kan hente indhold fra Bibliotekernes Nationale Redaktion.     Vejledninger      Sådan henter du indhold fra Delingstjenesten    ","categories": [],
+        "excerpt":"Delingstjenesten Denne side samler de seneste vejledninger og information om den nye delingstjeneste, hvor biblioteket i første omgang kan hente indhold direkte fra Delingstjenesten til sit bibliotekssite med få klik. Vejledning Sådan henter du indhold fra Delingstjenesten Med få klik kan biblioteker nu: Hente artikler, grafik og videoer fra Delingstjensten...","categories": [],
         "tags": [],
         "url": "/main/delingstjenesten/",
         "teaser": null
