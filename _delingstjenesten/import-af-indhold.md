@@ -1,3 +1,11 @@
+---
+layout: page
+title: Sådan henter du indhold fra Delingstjenesten
+permalink: /delingstjenesten/import/
+nav_order: 2
+---
+
+
 # Sådan henter du indhold fra Delingstjenesten
 
 Det Digitale Folkebibliotek er klar med næste skridt i lanceringen af Delingstjenesten. Herfra kan du hente indhold fra Bibliotekernes Nationale Redaktion – klar til brug på dit eget bibliotekssite. Nedenfor guider vi dig trin-for-trin.
