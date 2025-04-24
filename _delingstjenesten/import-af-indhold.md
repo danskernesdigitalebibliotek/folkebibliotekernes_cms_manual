@@ -2,8 +2,8 @@
 layout: page
 title: Sådan henter du indhold fra Delingstjenesten
 parent: Delingstjenesten
-permalink: /delingstjenesten/import/
 nav_order: 2
+permalink: /delingstjenesten/import/
 ---
 
 
