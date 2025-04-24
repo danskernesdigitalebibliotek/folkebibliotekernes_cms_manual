@@ -1073,6 +1073,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-15-1/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.17.0",
+        "excerpt":"Adgang til Delingstjenesten Releasedato: 25-04-2025 Redaktørbiblioteker: Produktionssites opgraderes til 2025.17.0. Webmasterbiblioteker: Produktionssites opgraderes til 2025.15.1. Modultestsites opgraderes til 2025.17.0. Nye features Direkte adgang til Delingstjenesten fra hjemmesiden. Der er direkte adgang fra hjemmesiden til Delingstjenesten via hovedmenuen. Klik på Indhold &gt; Login i Delingstjenesten. Når man går via hjemmesiden bliver...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-17-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
