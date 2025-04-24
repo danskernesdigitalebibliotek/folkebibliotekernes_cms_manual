@@ -21,6 +21,8 @@ overblik:
         url: "/overblik/release-notes"  
       - title: "Hostingplaner"
         url: "/overblik/hostingplaner"
+      - title: "Delingstjenesten"
+        url: "/delingstjenesten/"
       - title: "PR-pakke"
         url: "/overblik/pr-pakke"
       - title: "Tilgængelighedserklæring"
