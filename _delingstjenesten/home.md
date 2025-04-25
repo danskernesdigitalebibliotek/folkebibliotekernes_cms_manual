@@ -15,7 +15,7 @@ Denne side samler de seneste vejledninger og information om den nye delingstjene
 
 ### Vejledning
 
-- [Sådan henter du indhold fra Delingstjenesten](/delingstjenesten/import/)
+- [Sådan henter du indhold fra Delingstjenesten](/main/delingstjenesten/import/)
 
 ---
 
