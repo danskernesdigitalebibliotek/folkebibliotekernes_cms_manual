@@ -521,12 +521,6 @@ var store = [{
         "url": "/main/indhold/cql-soegestrenge/",
         "teaser": null
       },{
-        "title": "Delingstjenesten",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/main/overblik/delingstjenesten",
-        "teaser": null
-      },{
         "title": "Faste sider - overblik",
         "excerpt":"Folkebibliotekernes CMS fødes med nogle faste side eller standardsider. Faste sider er præcis som alle andre sider. De er der bare fra starten af, når I får systemet. Rundt omkring på jeres website, er der links til de faste sider. Hvis de mangler, risikerer I, at jeres brugere møder døde...","categories": ["Faste sider"],
         "tags": [],
