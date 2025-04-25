@@ -3,7 +3,7 @@ layout: default
 title: Sådan henter du indhold fra Delingstjenesten
 parent: Delingstjenesten
 nav_order: 2
-permalink: /delingstjenesten/import/
+permalink: /main/delingstjenesten/import/
 ---
 
 
