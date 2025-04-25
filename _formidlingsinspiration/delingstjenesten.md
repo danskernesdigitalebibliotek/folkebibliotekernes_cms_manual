@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Delingstjenesten
-permalink: /formidlingsinspiration/delingstjenesten/
-nav_order: 99
-parent: Formidlingsinspiration
+title: "Delingstjenesten"
+category: "Formidlingsinspiration"
+emneord:
+- "Formidlingsinspiration"
 ---
 
 ## Delingstjenesten
