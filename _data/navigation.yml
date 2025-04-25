@@ -22,7 +22,7 @@ overblik:
       - title: "Hostingplaner"
         url: "/overblik/hostingplaner"
       - title: "Delingstjenesten"
-        url: "/delingstjenesten/"
+        url: "/overblik/delingstjenesten"
       - title: "PR-pakke"
         url: "/overblik/pr-pakke"
       - title: "Tilgængelighedserklæring"
