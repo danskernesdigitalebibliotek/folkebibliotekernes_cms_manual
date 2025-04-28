@@ -54,6 +54,8 @@ Artiklen ligger nu i dit CMS. Du kan:
 Materialegrids filtrerer automatisk bøger, der ikke findes i dit katalog.  
 Du kan selv tilføje relevante titler, især hvis der falder for mange fra og layoutet ikke længere går op.
 
+
+
 ---
 
 ## Godt at vide
@@ -75,5 +77,51 @@ Det er ikke nødvendigt at kreditere forfattere, når indholdet importeres til j
 ---
 
 ## Fejl, ønsker og feedback
+Meld forslag, fejl eller input ind via Servicedesk, som I kender det fra Folkebibliotekernes CMS. Gør det gerne tydeligt i overskriften at det er angående Delingstjenesten.
 
-Skriv til os med forslag, fejl eller input på Servicedesk. 
+
+---
+
+
+### Hvilke paragraphs kan og kan ikke hentes?
+
+Logikken i hent-funktionen er enkel: kun de paragraphs, der er understøttet, overføres fra Delingstjenesten til dit bibliotekssite. 
+Bibliotekernes Nationale Redaktion sørger for at det kun er de tilgængelige typer, som du får med over. 
+
+
+## Understøttede paragraphs som kan hentes:
+
+- Brødtekst  
+- Links  
+- Billede(r)  
+- Filer  
+- Video  
+- Accordion  
+- Enkel linkliste  
+- Material grid link - automatic  
+- Materialekomponent – manuel
+- Materialekomponent – automatic 
+- Recommendation 
+- Hero  
+- Banner  
+- GO linkbox  
+- GO Material Slider – Automatic  
+- GO Material Slider – Manual  
+- GO Video  
+- GO Video Bundle – Automatic  
+- GO Video Bundle – Manual  
+
+
+## Ikke-understøttede paragraphs som ikke kan hentes:
+
+- Indholdsslider – automatic  
+- Arrangementsliste (alle varianter)  
+- Nyhedskomponent – automatic og manual  
+- Navigationskomponent – automatic og manual  
+- Navigationsspot – manuel  
+- Sidebørn  
+- Sprogvælger  
+- Brugeroprettelses-paragraphs  
+
+
+
