@@ -1079,10 +1079,10 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-14-3/",
         "teaser": null
       },{
-        "title": "Release Notes 2025.15.1",
-        "excerpt":"Releasedato: 10-04-2025 Redaktørbiblioteker: Produktionssites opgraderes til 2025.15.1 Webmasterbiblioteker: Produktionssites opgraderes til 2025.14.3. Modultestsites opgraderes til 2025.15.1. Nye features Tags på sider: Tags kan nu tilføjes til indholdstypen “sider”, ligesom på arrangementer og artikler. Sider med tags vises på de(n) pågældende tagssamlesider. Intelligente facetter: Nu kan intelligente facetter i simpel søgning...","categories": ["Release Notes"],
+        "title": "Release Notes 2025.15.2",
+        "excerpt":"2025.15.2 - 29.4.2025 kun til webmasterbiblioteker Tilpasning af vores integrationer til FBS (Fælles Bibliotek System) ift. de ændringer til CMS API udmeldt her Vi har en enkelt fejl, som bliver rettet snarligt. Brugere som ikke har typen person – altså virksomhed, bibliotek og gruppe – kan ikke opdatere stamdata. Det...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2025-15-1/",
+        "url": "/main/overblik/release-notes/release-notes-2025-15-2/",
         "teaser": null
       },{
         "title": "Release Notes 2025.17.0",
