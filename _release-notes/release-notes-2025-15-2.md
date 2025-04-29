@@ -6,7 +6,7 @@ weight: 341
 
 ## 2025.15.2 - 29.4.2025 kun til webmasterbiblioteker
 
-Webmaster får 2025.17.1 på modultestsites. Modultestsites bliver ikke nulstilles ifm. deployment.
+Webmasterbiblioteker får 2025.17.1 på modultestsites og 2025.15.2 på produktiontestsites. Modultestsites bliver ikke nulstilles ifm. deployment.
 
 Tilpasning af vores integrationer til FBS (Fælles Bibliotek System) ift. [de ændringer til CMS API udmeldt her](https://ciceroconnect.zendesk.com/hc/da/articles/11396856511517-%C3%86ndringer-til-CMS-API-december-2024){:target="_blank"}
 
