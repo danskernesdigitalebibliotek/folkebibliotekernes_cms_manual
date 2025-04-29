@@ -1086,7 +1086,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2025.17.1",
-        "excerpt":"2025.17.1 - 29.4.2025 Tilpasning af vores integrationer til FBS (Fælles Bibliotek System) ift. de ændringer til CMS API udmeldt her Vi har en enkelt fejl, som bliver rettet snarligt. Brugere som ikke har typen person – altså virksomhed, bibliotek og gruppe – kan ikke opdatere stamdata. Det vil sige at...","categories": ["Release Notes"],
+        "excerpt":"2025.17.1 - 29.4.2025 Webmasterbiblioteker får 2025.17.1 på modultestsites og 2025.15.2 på produktionsites. Modultestsites bliver ikke nulstilles ifm. deployment. Tilpasning af vores integrationer til FBS (Fælles Bibliotek System) ift. de ændringer til CMS API udmeldt her Vi har en enkelt fejl, som bliver rettet snarligt. Brugere som ikke har typen person...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2025-17-1/",
         "teaser": null
