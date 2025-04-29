@@ -1080,7 +1080,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2025.15.2",
-        "excerpt":"2025.15.2 - 29.4.2025 kun til webmasterbiblioteker Webmaster får 2025.17.1 på modultestsites. Modultestsites bliver ikke nulstilles ifm. deployment. Tilpasning af vores integrationer til FBS (Fælles Bibliotek System) ift. de ændringer til CMS API udmeldt her Vi har en enkelt fejl, som bliver rettet snarligt. Brugere som ikke har typen person –...","categories": ["Release Notes"],
+        "excerpt":"2025.15.2 - 29.4.2025 kun til webmasterbiblioteker Webmasterbiblioteker får 2025.17.1 på modultestsites og 2025.15.2 på produktiontestsites. Modultestsites bliver ikke nulstilles ifm. deployment. Tilpasning af vores integrationer til FBS (Fælles Bibliotek System) ift. de ændringer til CMS API udmeldt her Vi har en enkelt fejl, som bliver rettet snarligt. Brugere som ikke...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2025-15-2/",
         "teaser": null
