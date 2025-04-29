@@ -4,6 +4,25 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 29/4 Opdatering af hjemmesider grundet ændringer i FBS-integrationer
+I dag releaser vi en ekstraordinær opdatering til hjemmesiderne, da vi er nødt til at tilpasse vores integrationer til FBS (Fælles Bibliotek System). 
+Baggrunden er, at Systematic udruller en ny version, hvor flere API’er udgår. Disse API’er er essentielle for, at brugerne kan se og redigere deres brugeroplysninger. 
+Det har ikke været muligt at gennemføre de nødvendige ændringer i de i forvejen planlagte releases og vi udsender derfor denne ekstra-release. Det får dog ingen betydning for jer på bibliotekerne.
+
+Planen for opdateringen er følgende:
+
+•	Redaktørhjemmesider opdateres til version 2025.17.1.
+
+•	Webmasterhjemmesider opdateres til:
+
+o	Produktionssites: 2025.15.2
+
+o	Moduletestsites: 2025.17.1
+
+Modultestsites bliver ikke nulstillet ifm. denne release.
+
+### OBS! Brugere som ikke har typen person – altså virksomhed, bibliotek og gruppe – kan ikke opdatere stamdata. Det vil sige at de ikke kan ændre telefonnummer, e-mail, afhentningsfilial, pinkode og reserveringspause. Det vil blive rettet snarligt. Vi melder ud i en releasenote, når problemet er løst.
+
 ## 11/4 - Digitale artikler fra Gale og ComicPlus virker igen
 DBC har fixet problemet med proxy-url'erne, så nu virker det igen.
 ## 10/4 - Digitale artikler fra Gale + ComicPlus fejler på værkvisningssiden
