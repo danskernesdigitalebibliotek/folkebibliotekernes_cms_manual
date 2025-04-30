@@ -1,6 +1,6 @@
 ---
 title: "OpenID connect (Adgangsplatformen)"
-click-path: "Indstillinger > Web-services > OpenID Connect"
+click-path: "Indstillinger > Redaktionelle brugere > OpenID Connect Clients"
 category: "Konfiguration"
 emneord: 
 - "Adgangsplatformen"
@@ -8,7 +8,7 @@ emneord:
 I topmenuen klik på **{{ page.click-path }}**
 
 Eller åbn via URL (udskift mit-domænenavn.dk):\
-`https://mit-domænenavn/admin/config/services/openid-connect`
+`https://mit-domænenavn/admin/config/people/openid-connect/adgangsplatformen/edit`
 
 ## Om OpenID connect (Adgangsplatformen)
 Adgangsplatformen sikrer et ensartet login-flow for brugerne på tværs af bibliotekstjenester. Brugeren sendes til en en selvstændig loginside. Efter login sendes brugeren retur igen.
