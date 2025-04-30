@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 30/4 kl. 11.45 Problemer med at logge på hjemmesiderne med MitID
+Vi oplever lige nu at man ikke kan logge på hjemmesiderne med MitID. Vi er i gang med at undersøge sagen og vender tilbage.
+Brugerne kan godt logge på med CPR + pinkode.
 ## 29/4 Opdatering af hjemmesider grundet ændringer i FBS-integrationer
 I dag releaser vi en ekstraordinær opdatering til hjemmesiderne, da vi er nødt til at tilpasse vores integrationer til FBS (Fælles Bibliotek System). 
 Baggrunden er, at Systematic udruller en ny version, hvor flere API’er udgår. Disse API’er er essentielle for, at brugerne kan se og redigere deres brugeroplysninger. 
