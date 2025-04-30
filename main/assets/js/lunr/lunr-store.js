@@ -708,7 +708,7 @@ var store = [{
         "teaser": null
       },{
         "title": "OpenID connect (Adgangsplatformen)",
-        "excerpt":"I topmenuen klik på Indstillinger &gt; Web-services &gt; OpenID Connect Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn/admin/config/services/openid-connect Om OpenID connect (Adgangsplatformen) Adgangsplatformen sikrer et ensartet login-flow for brugerne på tværs af bibliotekstjenester. Brugeren sendes til en en selvstændig loginside. Efter login sendes brugeren retur igen. Single Sign-On gør, at brugerne...","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Redaktionelle brugere &gt; OpenID Connect Clients Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn/admin/config/people/openid-connect/adgangsplatformen/edit Om OpenID connect (Adgangsplatformen) Adgangsplatformen sikrer et ensartet login-flow for brugerne på tværs af bibliotekstjenester. Brugeren sendes til en en selvstændig loginside. Efter login sendes brugeren retur igen. Single Sign-On gør,...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/main/konfiguration/openid-connect/",
         "teaser": null
