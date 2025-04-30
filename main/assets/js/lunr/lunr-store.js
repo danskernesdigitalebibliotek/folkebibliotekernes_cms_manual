@@ -89,6 +89,12 @@ var store = [{
         "url": "/main/category/brugergraenseflade/",
         "teaser": null
       },{
+        "title": "Delingstjenesten",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/main/category/delingstjenesten/",
+        "teaser": null
+      },{
         "title": "Faste sider",
         "excerpt":"Faste sider  ","categories": [],
         "tags": [],
