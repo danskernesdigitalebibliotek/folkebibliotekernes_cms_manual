@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 30/4 kl. 15.20 Problemer med at logge på hjemmesiderne med MitID
+DBC er på sagen er i gang med at opdatere FBSadapteren. De håber problemet er løst inden for 30 min.
 ## 30/4 kl. 13.40 Problemer med at logge på hjemmesiderne med MitID
 Problemet er nu fundet og sendt videre til DBC. Vi skriver igen her, når der er nyt i sagen.
 ## 30/4 kl. 11.45 Problemer med at logge på hjemmesiderne med MitID
