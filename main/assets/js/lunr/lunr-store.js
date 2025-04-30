@@ -204,9 +204,9 @@ var store = [{
         "teaser": null
       },{
         "title": "Sådan henter du indhold fra Delingstjenesten",
-        "excerpt":"Sådan henter du indhold fra Delingstjenesten Det Digitale Folkebibliotek er klar med næste skridt i lanceringen af Delingstjenesten. Herfra kan du hente indhold fra Bibliotekernes Nationale Redaktion – klar til brug på dit eget bibliotekssite. Nedenfor guider vi dig trin-for-trin. 1. Log ind via bibliotekets CMS Gå ind på dit...","categories": [],
+        "excerpt":"Det Digitale Folkebibliotek er klar med næste skridt i lanceringen af Delingstjenesten. Herfra kan du hente indhold fra Bibliotekernes Nationale Redaktion – klar til brug på dit eget bibliotekssite. Nedenfor guider vi dig trin-for-trin. 1. Log ind via bibliotekets CMS Gå ind på dit lokale bibliotekssite, vær logget ind som...","categories": ["Delingstjenesten"],
         "tags": [],
-        "url": "/main/delingstjenesten/import/",
+        "url": "/main/delingstjenesten/import-af-indhold/",
         "teaser": null
       },{
         "title": "Åbningstider",
