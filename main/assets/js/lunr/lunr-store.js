@@ -419,12 +419,6 @@ var store = [{
         "url": "/main/formidlingsinspiration/bibliotekssiden/",
         "teaser": null
       },{
-        "title": "Delingstjenesten",
-        "excerpt":"Delingstjenesten Delingstjenesten gør det muligt at trække redaktionelt indhold direkte ind i Folkebibliotekernes CMS. Du finder herunder vejledninger og inspiration til at bruge tjenesten i jeres formidling. Vejledninger Sådan henter du indhold fra Delingstjenesten Formidlingstips Tilføj lokale materialer til nationale artikler Brug kategorier og tags til at skabe aktuelle indholdslister...","categories": ["Formidlingsinspiration"],
-        "tags": [],
-        "url": "/main/formidlingsinspiration/delingstjenesten/",
-        "teaser": null
-      },{
         "title": "Digitale tilbud",
         "excerpt":"Folkebibliotekernes CMS er ikke født med en linksamling til digitale tilbud (licenser, netmedier eller hvad I kalder det). Derfor skal I selv opbygge en side med dem. Hvis I ikke har mange licenser, kan I med fordel bruge Navigation spots – manual, hvor der blot linkes til et indhold. Nedenstående...","categories": ["Formidlingsinspiration"],
         "tags": [],
