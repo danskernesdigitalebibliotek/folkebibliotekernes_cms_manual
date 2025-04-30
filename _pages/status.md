@@ -5,7 +5,7 @@ sidebar: true
 nav: "overblik"
 ---
 ## 30/4 kl. 13.40 Problemer med at logge på hjemmesiderne med MitID
-Problemet er nu fundet og sendt videre til DBC. Vi vender skriver igen, når når er nyt i sagen.
+Problemet er nu fundet og sendt videre til DBC. Vi skriver igen her, når er nyt i sagen.
 ## 30/4 kl. 11.45 Problemer med at logge på hjemmesiderne med MitID
 Vi oplever lige nu at man ikke kan logge på hjemmesiderne med MitID. Vi er i gang med at undersøge sagen og vender tilbage.
 Brugerne kan godt logge på med CPR + pinkode.
