@@ -1092,7 +1092,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2025.18.0",
-        "excerpt":"Releasedato: 01-05-2025 Redaktørbiblioteker: Produktionssites opgraderes til 2025.18.0 Webmasterbiblioteker: Produktionssites opgraderes til 2025.17.1. Modultestsites opgraderes til 2025.18.0. Fejlrettelser Delingstjenesten: Ved import af artikel med billed paragraph overføres billedkreditering (byline) nu korrekt. Samtidig navngives billedfilen korrekt i forhold til angivet filnavn. Arrangementsfeed til Biblioteket App fejler ikke mere, hvis det indeholder et...","categories": ["Release Notes"],
+        "excerpt":"Releasedato: 01-05-2025 Publicer og send til Delingstjenesten Redaktørbiblioteker: Produktionssites opgraderes til 2025.18.0 Webmasterbiblioteker: Produktionssites opgraderes til 2025.17.1. Modultestsites opgraderes til 2025.18.0. Nye features Artikler kan sendes fra CMS til Delingstjenesten I indholdstypen Artikel kan du nu sætte flueben i Publicer og send til Delingstjenesten. Artiklen overføres én gang – præcis...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2025-18-0/",
         "teaser": null
