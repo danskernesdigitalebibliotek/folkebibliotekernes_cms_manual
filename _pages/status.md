@@ -4,6 +4,10 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 5/5 Kontaktoplysninger slettes ved ændring i fraværsperiode
+Når man logger ind på hjemmesiden og indsætter eller ændrer fraværsperiode under reserveringer, så slettes profilens kontaktoplysninger (e-mail og mobilnummer) i Cicero. Vi er på sagen og får forhåbentlig rettelsen klar til ugens release. I kan følge med i denne sag: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1512 
+## 5/5 Webmasterbibliotekerne mangler adgang til Delingstjenesten via backenden
+Selvom der burde være adgang til Delingstjenesten fra release 2025.17.0, så har webmasterbibliotekerne ikke fået adgangen endnu. Det er på vej. Følg med i sagen her: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1509
 ## 30/4 kl. 16 LØST- Problemer med at logge på hjemmesiderne med MitID 
 DBC har lavet en opdatering ud til FBS Adapteren og nu kan brugerne igen logge ind med MitID.
 ## 30/4 kl. 15.20 Problemer med at logge på hjemmesiderne med MitID
