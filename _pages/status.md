@@ -4,6 +4,15 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 5/5 Ny release i morgen den 6/5 som retter fejl
+Fejlen med at kontaktoplysninger slettes ved ændring i fraværsperiode bliver rettet i en ny release som kommer ud i morgen 6/5:
+
+Redaktør:
+- Produktionssites: 2025.18.1
+
+Webmaster:
+- Produktionssites: 2025.17.2
+- Moduletestsites: 2025.18.1 (disse bliver ikke nulstillet)
 ## 5/5 Kontaktoplysninger slettes ved ændring i fraværsperiode
 Når man logger ind på hjemmesiden og indsætter eller ændrer fraværsperiode under reserveringer, så slettes profilens kontaktoplysninger (e-mail og mobilnummer) i Cicero. Vi er på sagen og får forhåbentlig rettelsen klar til ugens release. I kan følge med i denne sag: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1512 
 ## 5/5 Webmasterbibliotekerne mangler adgang til Delingstjenesten via backenden
