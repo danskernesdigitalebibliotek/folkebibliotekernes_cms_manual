@@ -1,8 +1,12 @@
 ---
-title:  "Release Notes 2025.17.1"
+title:  "Release Notes 2025.17.2"
 category: "Release Notes"
 weight: 340
 ---
+## 2025.17.2 - 29.4.2025
+Webmasterbiblioteker får 2025.18.1 på modultestsites og 2025.17.2 på produktionsites. Modultestsites bliver ikke nulstilles ifm. deployment.
+
+Fejlen (https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1512) med at kontaktoplysninger slettes ved ændring i fraværsperiode rettes.
 
 ## 2025.17.1 - 29.4.2025
 
