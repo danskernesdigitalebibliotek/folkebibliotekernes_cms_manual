@@ -1091,10 +1091,10 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-17-1/",
         "teaser": null
       },{
-        "title": "Release Notes 2025.18.0",
+        "title": "Release Notes 2025.18.1",
         "excerpt":"2025.18.1 - 06-05-2025 Fejlen (https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1512) med at kontaktoplysninger slettes ved ændring i fraværsperiode rettes. Redaktørbiblioteker: Produktionssites opgraderes til 2025.18.1 Webmasterbiblioteker: Produktionssites opgraderes til 2025.17.2. Modultestsites opgraderes til 2025.18.1 (disse bliver ikke nulstillet). 2025.18.0 - 01-05-2025 Publicer og send til Delingstjenesten Redaktørbiblioteker: Produktionssites opgraderes til 2025.18.0 Webmasterbiblioteker: Produktionssites opgraderes til 2025.17.1....","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2025-18-0/",
+        "url": "/main/overblik/release-notes/release-notes-2025-18-1/",
         "teaser": null
       },{
         "title": "Release Notes 220324",
