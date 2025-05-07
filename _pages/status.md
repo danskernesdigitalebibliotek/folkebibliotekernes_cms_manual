@@ -4,7 +4,10 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 5/5 Fejl på sites efter databaseflytningen
+## 7/5 Alle sites skulle være stabile igen
+Vi har valgt at flytte de 6 biblioteker, som er blevet overflyttet til ny database, tilbage til den gamle database, da vi i dag har oplevet ustabil drift på de sites. Nu er alle sites på den gamle database og stabile.
+Vi melder snart en ny plan ud for migreringen af siderne.
+## 7/5 Fejl på sites efter databaseflytningen
 Vi oplever fejl og nedetid på følgende sites:
 
 - Albertslund
