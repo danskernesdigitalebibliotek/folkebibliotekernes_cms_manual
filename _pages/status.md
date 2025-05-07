@@ -4,6 +4,17 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 5/5 Fejl på sites efter databaseflytningen
+Vi oplever fejl og nedetid på følgende sites:
+
+- Albertslund
+- Sønderborg
+- Allerød
+- Nordfynsbib
+- Assens
+- Ballerup
+
+Vi arbejder på at få siderne stabiliteret.
 ## 5/5 Ny release i morgen den 6/5 som retter fejl
 Fejlen med at kontaktoplysninger slettes ved ændring i fraværsperiode bliver rettet i en ny release som kommer ud i morgen 6/5:
 
