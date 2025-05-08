@@ -6,7 +6,7 @@ weight: 338
 
 # Anbefalinger på værkvisningsside og fejlrettelser
 
-Releasedato: 08-06-2025
+Releasedato: 08-05-2025
 
 **Redaktørbiblioteker**: Produktionssites opgraderes til 2025.19.0\
 **Webmasterbiblioteker**: Produktionssites opgraderes til 2025.18.1. Modultestsites opgraderes til 2025.19.0.
