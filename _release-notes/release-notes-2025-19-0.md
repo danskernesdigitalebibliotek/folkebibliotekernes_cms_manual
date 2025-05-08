@@ -19,6 +19,6 @@ Releasedato: 08-05-2025
 
 ## Fejlrettelser
 
-- Reservering på pause sletter kontaktoplysninger (e-mail og telfonnummer). Fejlen er rettet og blev rullet på bibliotekernes produktionsmiljøer i tirsdags. 
+- Reservering på pause sletter kontaktoplysninger (e-mail og telefonnummer). Fejlen er rettet og blev rullet på bibliotekernes produktionsmiljøer i tirsdags. 
 
 - Problemer med login: Sporadisk fejl hvor enkelte lånere ikke har kunnet logge ind har vi lavet en rettelse til, som skal afhjælpe det. Vi overvåger, om der stadig kommer fejl.
