@@ -851,6 +851,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-18-3/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.19.0",
+        "excerpt":"## Diverse rettelser Releasedato: 08-06-2025 **Redaktørbiblioteker**: Produktionssites opgraderes til 2025.19.0\\ **Webmasterbiblioteker**: Produktionssites opgraderes til 2025.18.1. Modultestsites opgraderes til 2025.19.0. ## Nye features - Tilføjelse af anbefalingskomponent til værkvisningssiden: Værkvisningssiderne indeholder nu anbefalinger på 8 andre værker. ## Fejlrettelser - Reservering på pause sletter kontaktoplysninger (e-mail og telfonnummer). Fejlen er rettet...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-19-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 2024.20.2",
         "excerpt":"Række af gentagne åbningstider kan nu slettes på en gang, API til redaktionelt indhold tilgængelig og bibliotekslogo linker på mobilvisningen også til forsiden. Nye features Paragraph Brødtekst: Bedre formatering af elementet lister (&lt;ul&gt; &lt;ol&gt;) i slutbrugervisningen. Paragraph: Bedre standardoplistning af paragraphs til redaktørerne med mulighed for at filtrere på prædefinerede...","categories": ["Release Notes"],
         "tags": [],
