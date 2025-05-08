@@ -1098,7 +1098,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2025.19.0",
-        "excerpt":"Anbefalinger på værkvisningsside og fejlrettelser Releasedato: 08-06-2025 Redaktørbiblioteker: Produktionssites opgraderes til 2025.19.0 Webmasterbiblioteker: Produktionssites opgraderes til 2025.18.1. Modultestsites opgraderes til 2025.19.0. Nye features Tilføjelse af anbefalingskomponent til værkvisningssiden: Værkvisningssiderne indeholder nu anbefalinger på 8 andre værker. Fejlrettelser Reservering på pause sletter kontaktoplysninger (e-mail og telfonnummer). Fejlen er rettet og blev...","categories": ["Release Notes"],
+        "excerpt":"Anbefalinger på værkvisningsside og fejlrettelser Releasedato: 08-05-2025 Redaktørbiblioteker: Produktionssites opgraderes til 2025.19.0 Webmasterbiblioteker: Produktionssites opgraderes til 2025.18.1. Modultestsites opgraderes til 2025.19.0. Nye features Tilføjelse af anbefalingskomponent til værkvisningssiden: Værkvisningssiderne indeholder nu anbefalinger på 8 andre værker. Fejlrettelser Reservering på pause sletter kontaktoplysninger (e-mail og telfonnummer). Fejlen er rettet og blev...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2025-19-0/",
         "teaser": null
