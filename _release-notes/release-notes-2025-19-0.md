@@ -6,7 +6,6 @@ weight: 338
 
 # Anbefalinger på værkvisningsside og fejlrettelser
 
-## Diverse rettelser
 Releasedato: 08-06-2025
 
 **Redaktørbiblioteker**: Produktionssites opgraderes til 2025.19.0\
