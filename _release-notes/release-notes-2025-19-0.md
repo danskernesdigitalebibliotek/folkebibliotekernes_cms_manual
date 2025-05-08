@@ -21,4 +21,4 @@ Tilføjelse af anbefalingskomponent til værkvisningssiden: Værkvisningssiderne
 
 Reservering på pause sletter kontaktoplysninger (e-mail og telfonnummer). Fejlen er rettet og blev rullet på bibliotekernes produktionsmiljøer i tirsdags. 
 
-Problemer med login: Sporadisk fejl hvor enkelte lånere ikke har kunnet logge ind har vi lavet en rettelse til, som skal afhjælpe det. Vi overvåger om der stadig kommer fejl.
+Problemer med login: Sporadisk fejl hvor enkelte lånere ikke har kunnet logge ind har vi lavet en rettelse til, som skal afhjælpe det. Vi overvåger, om der stadig kommer fejl.
