@@ -14,7 +14,7 @@ Releasedato: 15-05-2025
 
 ## Nye features
 
-- Webstatistik: Nu er der implementeret tracking (MWA - Most Wanted Actions) på en række udvalgte funktioner (lån, reservér osv) i Folkebibliotekernes CMS, som kræver særlig opmærkning, for at Mapp kan opsamle statistik på brug af disse. Følgende interaktioner trackes: Valg af knappen "Lån" (e-bog), knappen "Reservér" (e-bog), knappen "Læs/lyt" (e-bog), knappen "Prøv" og recommender (funktioner, der endnu ikke er implementeret, men tracking forberedt).
+- Webstatistik på særlige funktioner: Nu er der implementeret tracking (MWA - Most Wanted Actions) på en række funktioner (lån, reservér osv) i Folkebibliotekernes CMS, som kræver særlig opmærkning, for at Mapp kan opsamle statistik på brug af disse. Følgende interaktioner trackes: Valg af knappen "Lån" (e-bog), knappen "Reservér" (e-bog), knappen "Læs/lyt" (e-bog), knappen "Prøv" og recommender (funktioner, der endnu ikke er implementeret, men tracking forberedt).
 
 
 
