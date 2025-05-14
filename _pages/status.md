@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 14/5 kl. 17.50 Alle sites oppe igen
+Vi har haft et udfald på databasen, men alle sites er oppe igen.
 ## 14/5 kl. 17.30 Ustabile sider
 Vi oplever lige nu at dele af hjemmesiderne fejler. Vi er på sagen.
 ## 7/5 Alle sites skulle være stabile igen
