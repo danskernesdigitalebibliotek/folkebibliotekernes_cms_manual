@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 14/5 kl. 17.30 Ustabile sider
+Vi oplever lige nu at dele af hjemmesiderne fejler. Vi er på sagen.
 ## 7/5 Alle sites skulle være stabile igen
 Vi har valgt at flytte de 6 biblioteker, som er blevet overflyttet til ny database, tilbage til den gamle database, da vi i dag har oplevet ustabil drift på de sites. Nu er alle sites på den gamle database og stabile.
 Vi melder snart en ny plan ud for migreringen af siderne.
