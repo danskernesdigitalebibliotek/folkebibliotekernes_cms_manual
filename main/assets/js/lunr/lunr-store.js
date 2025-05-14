@@ -1104,7 +1104,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2025.20.0",
-        "excerpt":"Webstatistik (MWA) og fejlrettelser Releasedato: 15-05-2025 Redaktørbiblioteker: Produktionssites opgraderes til 2025.20.0 Webmasterbiblioteker: Produktionssites opgraderes til 2025.19.1. Modultestsites opgraderes til 2025.20.0. Nye features Webstatistik på særlige funktioner: Nu er der implementeret tracking (MWA - Most Wanted Actions) på en række funktioner (lån, reservér osv) i Folkebibliotekernes CMS, som kræver særlig opmærkning,...","categories": ["Release Notes"],
+        "excerpt":"Webstatistik (MWA) og fejlrettelser Releasedato: 15-05-2025 Redaktørbiblioteker: Produktionssites opgraderes til 2025.20.0 Webmasterbiblioteker: Produktionssites opgraderes til 2025.19.1. Modultestsites opgraderes til 2025.20.0. Nye features Webstatistik på særlige funktioner og egenskaber ved vist side: Nu er der implementeret tracking (MWA - Most Wanted Actions) på en række funktioner (lån, reservér osv) i Folkebibliotekernes...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2025-20-0/",
         "teaser": null
