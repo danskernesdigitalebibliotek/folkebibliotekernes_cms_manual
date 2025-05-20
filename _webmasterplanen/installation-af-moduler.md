@@ -1,62 +1,57 @@
 ---
-title: "Installation af contribmoduler og egenudviklede moduler"
+title: "Installation og opdatering af moduler"
 category: "Webmasterplanen"
 weight: 4
 ---
 
-Som webmasterbibliotek er det muligt at installere moduler lokalt, som ikke er en del af
-standardudgaven af Folkebibliotekernes CMS (core). Det kan være contribmoduler (gratis
-moduler hentet fra drupal.org, som er lavet og vedligeholdt af udviklere fra
-drupal-communitiet) og egenudviklede moduler.
+Som **webmasterbibliotek** har I mulighed for at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (*core*). Det kan være:
+
+- **Contrib-moduler**: Gratis moduler hentet fra [drupal.org](https://drupal.org), udviklet og vedligeholdt af Drupal-fællesskabet.
+- **Egenudviklede moduler**: Moduler udviklet internt til jeres egne behov.
+
+---
 
 ## Installation af moduler
 
-### Testmiljø:
-For at installere moduler på testmiljøet skal du logge på med en bruger med rollen
-”Administrator”. Hvis du mangler de nødvendige rettigheder, skal du oprette en sag på
-[Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals).
+For at installere moduler skal du være logget ind med en bruger, der har rollen **Administrator**.
 
-Fremgangsmåden for at uploade og installere moduler på testmiljøet er overordnet set
-følgende:
+> **Bemærk:** Har du ikke de nødvendige rettigheder, skal du oprette en sag via [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals).
 
-1. Log på testmiljøet med en bruger, som har rollen **Administrator**.
-2. Under menupunktet **Udvid** (`/admin/modules`) vælges knappen **+Add new module**.
-3. **Vælg fil** og find frem til den komprimerede fil (tar, zip) med modulet og upload
-modulet. Når modulet først er uploadet, kan det installeres.
-4. Find modulet vha. søgefunktionen på `/admin/modules`. Installer modulet ved at markere
-checkboksen ud for modulet og vælg knappen **Installér** nederst på siden.
-5. Tildel tilladelser/permissions til modulet for de forskellige brugerroller på site.
-Indstillinger for tilladelser kan f.eks. findes ved at fremsøge modulet under
-`/admin/modules` og vælge **permissions**.
+### Sådan gør du:
+
+1. Log ind med en **Administrator**-bruger.
+2. Gå til **Udvid** (`/admin/modules`) og klik på **+ Add new module**.
+3. Klik på **Vælg fil**, find modulfilen (f.eks. `.tar` eller `.zip`), og upload den.
+4. Søg modulet frem på `/admin/modules`, markér afkrydsningsfeltet, og klik på **Installér** nederst på siden.
+5. Nogle moduler tilføjer nye tilladelser. Disse skal manuelt tildeles under **Permissions** for de relevante brugerroller.
+
+---
+
+## Opgradering af moduler
+
+Et modul opgraderes ved blot at installere den nye version oven i den eksisterende.
+
+- Du behøver ikke afinstallere den gamle version først.
+- Følg samme fremgangsmåde som ved installation.
+
+### Vigtigt ved opgradering af egenudviklede moduler:
+
+- **Undlad at ændre mappenavnet**. Ellers overskrives det gamle modul ikke, og det kan skabe konflikter. 
+- Mappen ikke omdøbes til `mymodule2`, `mymodule-main` eller lignende.
 
 
-### Produktion:
-Inden et modul installeres på produktionsmiljøet, er det vigtigt først at teste modulet grundigt
-på testmiljøet.
+```bash
+mymodule/
+  mymodule.info.yml
+  mymodule.module
+  src/
+  config/
+  README.md
+  ...
+```
+*Mappenavnet skal være det samme mellem versioner*
 
-For at installere moduler på produktionsmiljøet skal du logge på med en bruger med rollen
-”Administrator”.
+### Husk at:
 
-Hvis du mangler de nødvendige rettigheder, skal du oprette en sag på [Servicedesk](
-https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals).
-
-Fremgangsmåden for at installere og aktivere moduler på produktionsmiljøet er overordnet
-set følgende:
-
-1. Log på produktionsmiljøet med en bruger, som har rollen **Administrator**.
-2. Under menupunktet **Udvid** (`/admin/modules`) vælges knappen **+Add new module**
-3. **Vælg fil** og find frem til den komprimerede fil (tar, zip) med modulet og upload modulet
-til sitet. Når modulet først er uploadet, kan det installeres.
-4. Find modulet vha. søgefunktionen på `/admin/modules`. Installér modulet ved at markere
-checkboksen ud for modulet og vælg knappen **Installér** nederst på siden.
-5. Gå til redigering af din brugerprofil. For at tildele tilladelser til de forskellige roller oprettet
-på produktionssitet, er det i øjeblikket nødvendigt at skifte sprogindstillinger for din
-administratorbruger som beskrevet nedenunder. Læs om den specifikke fejl på
-[https://www.folkebibliotekernescms.dk/main/overblik/status#udfordringer-med-webmaster
-biblioteker](https://www.folkebibliotekernescms.dk/main/overblik/status#udfordringer-med-webmaster
-biblioteker).
-6. Skift administrationssproget for brugeren til engelsk.
-7. Tildel tilladelser/permissions til modulet for de forskellige brugerroller på site.
-Indstillinger for tilladelser kan f.eks. findes ved at fremsøge modulet under
-`/admin/modules` og vælge **permissions**.
-8. Skift administrationssproget for brugeren tilbage til dansk.
+- Opdatere `mymodule.info.yml` med det korrekte **modulnavn** og **versionsnummer**.
+- Skift altid versionsnummer ved hver ny version – det vises på `/admin/modules`, så du kan bekræfte, at den rigtige version er i brug.
