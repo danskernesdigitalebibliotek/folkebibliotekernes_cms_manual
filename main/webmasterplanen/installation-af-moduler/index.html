@@ -10,19 +10,19 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Installation af contribmoduler og egenudviklede moduler - Folkebibliotekernes CMS</title>
-<meta name="description" content="Som webmasterbibliotek er det muligt at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (core). Det kan være contribmoduler (gratis moduler hentet fra drupal.org, som er lavet og vedligeholdt af udviklere fra drupal-communitiet) og egenudviklede moduler.">
+<!-- begin _includes/seo.html --><title>Installation og opdatering af moduler - Folkebibliotekernes CMS</title>
+<meta name="description" content="Som webmasterbibliotek har I mulighed for at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (core). Det kan være:">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Installation af contribmoduler og egenudviklede moduler">
+<meta property="og:title" content="Installation og opdatering af moduler">
 <meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/webmasterplanen/installation-af-moduler/">
 
 
-  <meta property="og:description" content="Som webmasterbibliotek er det muligt at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (core). Det kan være contribmoduler (gratis moduler hentet fra drupal.org, som er lavet og vedligeholdt af udviklere fra drupal-communitiet) og egenudviklede moduler.">
+  <meta property="og:description" content="Som webmasterbibliotek har I mulighed for at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (core). Det kan være:">
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2025-05-14T15:49:17+00:00">
+  <meta property="article:published_time" content="2025-05-20T12:04:02+00:00">
 
 
 
@@ -169,7 +169,7 @@
     
       
       
-        <li class="current">Installation af contribmoduler og egenudviklede moduler</li>
+        <li class="current">Installation og opdatering af moduler</li>
       
     
   </ol>
@@ -236,11 +236,7 @@
               
             
               
-                <li><a href="/main/webmasterplanen/installation-af-moduler/" class="active">Installation af contribmoduler og egenudviklede moduler</a></li>
-              
-            
-              
-                <li><a href="/main/webmasterplanen/opdatering-af-moduler/">Opdatering af moduler</a></li>
+                <li><a href="/main/webmasterplanen/installation-af-moduler/" class="active">Installation og opdatering af moduler</a></li>
               
             
               
@@ -260,9 +256,9 @@
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Installation af contribmoduler og egenudviklede moduler">
-    <meta itemprop="description" content="Som webmasterbibliotek er det muligt at installere moduler lokalt, som ikke er en del afstandardudgaven af Folkebibliotekernes CMS (core). Det kan være contribmoduler (gratismoduler hentet fra drupal.org, som er lavet og vedligeholdt af udviklere fradrupal-communitiet) og egenudviklede moduler.">
-    <meta itemprop="datePublished" content="2025-05-14T15:49:17+00:00">
+    <meta itemprop="headline" content="Installation og opdatering af moduler">
+    <meta itemprop="description" content="Som webmasterbibliotek har I mulighed for at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (core). Det kan være:">
+    <meta itemprop="datePublished" content="2025-05-20T12:04:02+00:00">
     
 
     <div class="page__inner-wrap">
@@ -270,7 +266,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://www.folkebibliotekernescms.dk/main/webmasterplanen/installation-af-moduler/" class="u-url" itemprop="url">Installation af contribmoduler og egenudviklede moduler
+            <a href="https://www.folkebibliotekernescms.dk/main/webmasterplanen/installation-af-moduler/" class="u-url" itemprop="url">Installation og opdatering af moduler
 </a>
           </h1>
           
@@ -293,64 +289,67 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <p>Som webmasterbibliotek er det muligt at installere moduler lokalt, som ikke er en del af
-standardudgaven af Folkebibliotekernes CMS (core). Det kan være contribmoduler (gratis
-moduler hentet fra drupal.org, som er lavet og vedligeholdt af udviklere fra
-drupal-communitiet) og egenudviklede moduler.</p>
+        <p>Som <strong>webmasterbibliotek</strong> har I mulighed for at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (<em>core</em>). Det kan være:</p>
+
+<ul>
+  <li><strong>Contrib-moduler</strong>: Gratis moduler hentet fra <a href="https://drupal.org">drupal.org</a>, udviklet og vedligeholdt af Drupal-fællesskabet.</li>
+  <li><strong>Egenudviklede moduler</strong>: Moduler udviklet internt til jeres egne behov.</li>
+</ul>
+
+<hr />
 
 <h2 id="installation-af-moduler">Installation af moduler</h2>
 
-<h3 id="testmiljø">Testmiljø:</h3>
-<p>For at installere moduler på testmiljøet skal du logge på med en bruger med rollen
-”Administrator”. Hvis du mangler de nødvendige rettigheder, skal du oprette en sag på
-<a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals">Servicedesk</a>.</p>
+<p>For at installere moduler skal du være logget ind med en bruger, der har rollen <strong>Administrator</strong>.</p>
 
-<p>Fremgangsmåden for at uploade og installere moduler på testmiljøet er overordnet set
-følgende:</p>
+<blockquote>
+  <p><strong>Bemærk:</strong> Har du ikke de nødvendige rettigheder, skal du oprette en sag via <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals">Servicedesk</a>.</p>
+</blockquote>
 
-<ol>
-  <li>Log på testmiljøet med en bruger, som har rollen <strong>Administrator</strong>.</li>
-  <li>Under menupunktet <strong>Udvid</strong> (<code class="language-plaintext highlighter-rouge">/admin/modules</code>) vælges knappen <strong>+Add new module</strong>.</li>
-  <li><strong>Vælg fil</strong> og find frem til den komprimerede fil (tar, zip) med modulet og upload
-modulet. Når modulet først er uploadet, kan det installeres.</li>
-  <li>Find modulet vha. søgefunktionen på <code class="language-plaintext highlighter-rouge">/admin/modules</code>. Installer modulet ved at markere
-checkboksen ud for modulet og vælg knappen <strong>Installér</strong> nederst på siden.</li>
-  <li>Tildel tilladelser/permissions til modulet for de forskellige brugerroller på site.
-Indstillinger for tilladelser kan f.eks. findes ved at fremsøge modulet under
-<code class="language-plaintext highlighter-rouge">/admin/modules</code> og vælge <strong>permissions</strong>.</li>
-</ol>
-
-<h3 id="produktion">Produktion:</h3>
-<p>Inden et modul installeres på produktionsmiljøet, er det vigtigt først at teste modulet grundigt
-på testmiljøet.</p>
-
-<p>For at installere moduler på produktionsmiljøet skal du logge på med en bruger med rollen
-”Administrator”.</p>
-
-<p>Hvis du mangler de nødvendige rettigheder, skal du oprette en sag på <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals">Servicedesk</a>.</p>
-
-<p>Fremgangsmåden for at installere og aktivere moduler på produktionsmiljøet er overordnet
-set følgende:</p>
+<h3 id="sådan-gør-du">Sådan gør du:</h3>
 
 <ol>
-  <li>Log på produktionsmiljøet med en bruger, som har rollen <strong>Administrator</strong>.</li>
-  <li>Under menupunktet <strong>Udvid</strong> (<code class="language-plaintext highlighter-rouge">/admin/modules</code>) vælges knappen <strong>+Add new module</strong></li>
-  <li><strong>Vælg fil</strong> og find frem til den komprimerede fil (tar, zip) med modulet og upload modulet
-til sitet. Når modulet først er uploadet, kan det installeres.</li>
-  <li>Find modulet vha. søgefunktionen på <code class="language-plaintext highlighter-rouge">/admin/modules</code>. Installér modulet ved at markere
-checkboksen ud for modulet og vælg knappen <strong>Installér</strong> nederst på siden.</li>
-  <li>Gå til redigering af din brugerprofil. For at tildele tilladelser til de forskellige roller oprettet
-på produktionssitet, er det i øjeblikket nødvendigt at skifte sprogindstillinger for din
-administratorbruger som beskrevet nedenunder. Læs om den specifikke fejl på
-<a href="https://www.folkebibliotekernescms.dk/main/overblik/status#udfordringer-med-webmaster
-biblioteker">https://www.folkebibliotekernescms.dk/main/overblik/status#udfordringer-med-webmaster
-biblioteker</a>.</li>
-  <li>Skift administrationssproget for brugeren til engelsk.</li>
-  <li>Tildel tilladelser/permissions til modulet for de forskellige brugerroller på site.
-Indstillinger for tilladelser kan f.eks. findes ved at fremsøge modulet under
-<code class="language-plaintext highlighter-rouge">/admin/modules</code> og vælge <strong>permissions</strong>.</li>
-  <li>Skift administrationssproget for brugeren tilbage til dansk.</li>
+  <li>Log ind med en <strong>Administrator</strong>-bruger.</li>
+  <li>Gå til <strong>Udvid</strong> (<code class="language-plaintext highlighter-rouge">/admin/modules</code>) og klik på <strong>+ Add new module</strong>.</li>
+  <li>Klik på <strong>Vælg fil</strong>, find modulfilen (f.eks. <code class="language-plaintext highlighter-rouge">.tar</code> eller <code class="language-plaintext highlighter-rouge">.zip</code>), og upload den.</li>
+  <li>Søg modulet frem på <code class="language-plaintext highlighter-rouge">/admin/modules</code>, markér afkrydsningsfeltet, og klik på <strong>Installér</strong> nederst på siden.</li>
+  <li>Nogle moduler tilføjer nye tilladelser. Disse skal manuelt tildeles under <strong>Permissions</strong> for de relevante brugerroller.</li>
 </ol>
+
+<hr />
+
+<h2 id="opgradering-af-moduler">Opgradering af moduler</h2>
+
+<p>Et modul opgraderes ved blot at installere den nye version oven i den eksisterende.</p>
+
+<ul>
+  <li>Du behøver ikke afinstallere den gamle version først.</li>
+  <li>Følg samme fremgangsmåde som ved installation.</li>
+</ul>
+
+<h3 id="vigtigt-ved-opgradering-af-egenudviklede-moduler">Vigtigt ved opgradering af egenudviklede moduler:</h3>
+
+<ul>
+  <li><strong>Undlad at ændre mappenavnet</strong>. Ellers overskrives det gamle modul ikke, og det kan skabe konflikter.</li>
+  <li>Mappen ikke omdøbes til <code class="language-plaintext highlighter-rouge">mymodule2</code>, <code class="language-plaintext highlighter-rouge">mymodule-main</code> eller lignende.</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mymodule/
+  mymodule.info.yml
+  mymodule.module
+  src/
+  config/
+  README.md
+  ...
+</code></pre></div></div>
+<p><em>Mappenavnet skal være det samme mellem versioner</em></p>
+
+<h3 id="husk-at">Husk at:</h3>
+
+<ul>
+  <li>Opdatere <code class="language-plaintext highlighter-rouge">mymodule.info.yml</code> med det korrekte <strong>modulnavn</strong> og <strong>versionsnummer</strong>.</li>
+  <li>Skift altid versionsnummer ved hver ny version – det vises på <code class="language-plaintext highlighter-rouge">/admin/modules</code>, så du kan bekræfte, at den rigtige version er i brug.</li>
+</ul>
 
         
       </section>
@@ -362,7 +361,7 @@ Indstillinger for tilladelser kan f.eks. findes ved at fremsøge modulet under
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-05-14T15:49:17+00:00">May 14, 2025</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-05-20T12:04:02+00:00">May 20, 2025</time></p>
 
       </footer>
 
