@@ -47,7 +47,6 @@ Fordelen ved den model er, at I rent faktisk kan stole på de de tests, som I ud
 
 
 **Udviklertips**: Arbejd aldrig med kode direkte på modultestsitet, uden at gemme lokalt også. Du risikerer at miste timevis af arbejde, når sitet slettes.
-Den anbefalede fremgangsmåde må være at lægge sin kode ind i et Drupal-modul, som man gemmer lokalt og allerhelst versionsstyrer med f. eks. Git.
 {: .notice }
 
 
