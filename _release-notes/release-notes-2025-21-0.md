@@ -9,9 +9,7 @@ weight: 336
 Releasedato: 22-05-2025
 
 **Redaktør**: Produktionssites: 2025.21.2
-
 **Silkeborg, Albertslund (Go piloter)**: Produktionssites: 2025.21.2. Moduletestsites: 2025.21.2
-
 **Webmaster**: Produktionssites: 2025.20.0 Moduletestsites: 2025.21.2
 
 ## Nye features
