@@ -15,4 +15,4 @@ Releasedato: 22-05-2025
 **Webmaster**: Produktionssites: 2025.20.0 Moduletestsites: 2025.21.2
 
 ## Nye features
-Releasen indeholder ingen synlige forbedringer eller fejlrettelser til Folkebibliotekernes CMS. Der er udviklet på løsninger til børnesitet og delingstjenesten.
+Releasen indeholder ingen synlige forbedringer eller fejlrettelser til Folkebibliotekernes CMS. Der er udviklet på løsninger til børnesitet og delingstjenesten. Abonnementsordning fra og på Delingstjenesten er implementeret. Mere information og manual følger. 
