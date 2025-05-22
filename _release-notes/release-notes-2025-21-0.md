@@ -12,4 +12,4 @@ Releasedato: 22-05-2025
 **Webmasterbiblioteker**: Produktionssites opgraderes til 2025.20.0. Modultestsites opgraderes til 2025.21.0.
 
 ## Nye features
-Denne release indeholder ingen synlige forbedringer eller fejlerettelser, men der arbejdes med det, der ligger under motorhjelmen. Fundamentet, der kan understøtte børnesitet og delingstjenesten, er ved at blive opbygget. 
+Denne release indeholder ingen synlige forbedringer eller fejlerettelser til Folkebibliotekernes CMS, men der er arbejde på børnesitet og delingstjenesten.
