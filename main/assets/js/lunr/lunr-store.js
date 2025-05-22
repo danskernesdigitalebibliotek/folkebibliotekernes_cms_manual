@@ -1110,7 +1110,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2025.21.2",
-        "excerpt":"Udvikling til børnesitet og delingstjenesten   Releasedato: 22-05-2025   Redaktør: Produktionssites: 2025.21.2   Silkeborg (Go piloter): Produktionssites: 2025.21.2. Moduletestsites: 2025.21.2   Webmaster: Produktionssites: 2025.20.0 Moduletestsites: 2025.21.2   Nye features  Releasen indeholder ingen synlige forbedringer eller fejlrettelser til Folkebibliotekernes CMS. Der er udviklet på løsninger til børnesitet og delingstjenesten.  ","categories": ["Release Notes"],
+        "excerpt":"Udvikling til børnesitet og delingstjenesten Releasedato: 22-05-2025 Redaktør: Produktionssites: 2025.21.2 Silkeborg (Go piloter): Produktionssites: 2025.21.2. Moduletestsites: 2025.21.2 Webmaster: Produktionssites: 2025.20.0 Moduletestsites: 2025.21.2 Nye features Releasen indeholder ingen synlige forbedringer eller fejlrettelser til Folkebibliotekernes CMS. Der er udviklet på løsninger til børnesitet og delingstjenesten. Abonnementsordning fra og på Delingstjenesten er implementeret....","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2025-21-2/",
         "teaser": null
