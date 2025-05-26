@@ -15,6 +15,7 @@ Gå ind på dit lokale bibliotekssite, vær logget ind som medarbejder og klik:
 Du sendes nu videre til Delingstjenestens forside.
 
 
+
 ## 2. Find det rette indhold
 
 På forsiden vises udvalgt og korrekturlæst materiale, som er kvalitetssikret af Bibliotekernes Nationale Redaktion.
@@ -23,19 +24,19 @@ På forsiden vises udvalgt og korrekturlæst materiale, som er kvalitetssikret a
 - Brug søgefeltet. Filtrering på indhold redigeret af Bibliotekernes Nationale Redaktion (*Categorized*) eller ikke redigeret indhold (*Uncategorized*), vil først blive aktuel at bruge efter næste release med send-funktionen.
 
 
-## 3. Vælg en artikel eller side
 
+## 3. Vælg en artikel eller side
 Klik dig ind på det ønskede indhold.  
 Bemærk: Du kan kun importere *artikler*. Indholdstypen Sider understøttes endnu ikke.
 
 
-## 4. Klik på “Importer til DPL CMS”
 
+## 4. Klik på “Importer til DPL CMS”
 I bunden af skærmen til højre finder du knappen **"Importer [titlen på indholdet] til DPL CMS"** – klik her.
 
 
-## 5. Redigér og tilpas indholdet
 
+## 5. Redigér og tilpas indholdet
 Artiklen ligger nu i dit CMS. Du kan:
 
 - Tilføje, redigere eller rette **paragraffer**, **materialer**, **tags**, **kategorier** og tilføje **relaterede artikler**
@@ -43,8 +44,8 @@ Artiklen ligger nu i dit CMS. Du kan:
 - **Undgå at ændre i feltet “Metatags: Canonical URL”**, da det kan påvirke søgemaskinernes visning og SEO for ophavsbiblioteket.
 
 
-## 6. Materialer – automatisk og manuelt
 
+## 6. Materialer – automatisk og manuelt
 Materialegrids filtrerer automatisk bøger, der ikke findes i dit katalog.  
 Du kan selv tilføje relevante titler, især hvis der falder for mange fra og layoutet ikke længere går op.
 
@@ -70,8 +71,10 @@ Det er ikke nødvendigt at kreditere forfattere, når indholdet importeres til j
 
 ---
 
-## Fejl, ønsker og feedback
-Meld forslag, fejl eller input ind via Servicedesk, som I kender det fra Folkebibliotekernes CMS. Gør det gerne tydeligt i overskriften at det er angående Delingstjenesten.
+### Brug for hjælp?
+- Oplever du fejl, så meld ind via **ServiceDesk**: *Folkebibliotekernes CMS → Indmeld fejl*  
+- Spørgsmål til indhold, billeder eller rettigheder? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
+
 
 
 ---
