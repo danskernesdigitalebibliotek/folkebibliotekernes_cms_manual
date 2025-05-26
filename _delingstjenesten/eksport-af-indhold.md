@@ -33,7 +33,8 @@ Udfyld som normalt: titel, brødtekst, teaserbillede mv.
 - Hero  
 - Banner
 
-> **OBS:** Andre paragraph-typer bliver ikke sendt med.
+**OBS:** Andre paragraph-typer bliver ikke sendt med.
+
 
 ---
 
@@ -44,7 +45,8 @@ Sæt flueben og klik **Gem**.
 
 Artiklen bliver nu både publiceret på dit site og sendt til Delingstjenesten.
 
-> Funktionen fungerer som du måske kender fra *Biblioteksproduceret indhold (BPI)* – indholdet sendes kun én gang.
+Funktionen fungerer som du måske kender fra *Biblioteksproduceret indhold (BPI)* – indholdet sendes kun én gang.
+
 
 ---
 
@@ -59,8 +61,9 @@ Hvis du ønsker at vise en anden forfatter:
 
 Navnet vil fremgå i artiklen på Delingstjenesten.
 
-> På søgesiden vises altid **dit biblioteksnavn** som afsender.  
-> Når andre biblioteker henter artiklen, vises forfatterfeltet som **“Biblioteket”**.
+På søgesiden vises altid **dit biblioteksnavn** som afsender.  
+Når andre biblioteker henter artiklen, vises forfatterfeltet som **“Biblioteket”**.
+
 
 ---
 
@@ -71,7 +74,8 @@ Navnet vil fremgå i artiklen på Delingstjenesten.
 3. Skift filteret **Edited by BNR** til **Uncategorized**  
 4. Brug evt. søgefeltet for at finde artiklen
 
-> Artiklen vises under dit biblioteksnavn. Her kan du tjekke, at alle ønskede paragraphs er overført korrekt.
+Artiklen vises under dit biblioteksnavn. Her kan du tjekke, at alle ønskede paragraphs er overført korrekt.
+
 
 ---
 
@@ -80,6 +84,7 @@ Navnet vil fremgå i artiklen på Delingstjenesten.
 - Sørg for at billeder er **rettighedsclearede** og egnede til deling på tværs af biblioteker.  
 - Felterne **“Navn”** og **“Billedtekst”** overføres automatisk.  
 - Hvis der kræves fotograf- eller kildeangivelse, skal det fremgå tydeligt i billedteksten.
+
 
 ---
 
@@ -94,11 +99,7 @@ Navnet vil fremgå i artiklen på Delingstjenesten.
 ---
 
 ### Brug for hjælp?
-
-- Se også guiden [**Import af indhold fra Delingstjenesten**](https://www.folkebibliotekernescms.dk/main/delingstjenesten/import-af-indhold/)  
 - Oplever du fejl, så meld ind via **ServiceDesk**: *Folkebibliotekernes CMS → Indmeld fejl*  
 - Spørgsmål til indhold, billeder eller rettigheder? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
 
 ---
-
-
