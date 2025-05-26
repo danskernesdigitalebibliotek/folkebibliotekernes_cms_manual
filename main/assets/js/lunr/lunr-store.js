@@ -203,6 +203,12 @@ var store = [{
         "url": "/main/category/webmasterplanen/",
         "teaser": null
       },{
+        "title": "Sådan sender du indhold til Delingstjenesten",
+        "excerpt":"Sådan sender du indhold til Delingstjenesten Med send-funktionen kan du dele artikler fra din egen hjemmeside med resten af landets biblioteker via Delingstjenesten. Du kan kun sende indhold én gang. Når artiklen først er sendt, vil efterfølgende ændringer kun gælde på dit eget site – ikke i Delingstjenesten. 1. Opret...","categories": ["Delingstjenesten"],
+        "tags": [],
+        "url": "/main/delingstjenesten/eksport-af-indhold/",
+        "teaser": null
+      },{
         "title": "Delingstjenesten",
         "excerpt":"Delingstjenesten Denne side samler de seneste vejledninger og information om den nye delingstjeneste, hvor biblioteket i første omgang kan hente indhold direkte fra Delingstjenesten til sit bibliotekssite med få klik. Vejledning Sådan henter du indhold fra Delingstjenesten Med få klik kan biblioteker nu: Hente artikler, grafik og videoer fra Delingstjensten...","categories": [],
         "tags": [],
@@ -210,7 +216,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Sådan henter du indhold fra Delingstjenesten",
-        "excerpt":"Det Digitale Folkebibliotek er klar med næste skridt i lanceringen af Delingstjenesten. Herfra kan du hente indhold fra Bibliotekernes Nationale Redaktion – klar til brug på dit eget bibliotekssite. Nedenfor guider vi dig trin-for-trin. 1. Log ind via bibliotekets CMS Gå ind på dit lokale bibliotekssite, vær logget ind som...","categories": ["Delingstjenesten"],
+        "excerpt":"Du kan hente indhold fra Bibliotekernes Nationale Redaktion – klar til brug på dit eget bibliotekssite. Nedenfor guider vi dig trin-for-trin. 1. Log ind via bibliotekets CMS Gå ind på dit lokale bibliotekssite, vær logget ind som medarbejder og klik: Indhold → Login i Delingstjenesten Du sendes nu videre til...","categories": ["Delingstjenesten"],
         "tags": [],
         "url": "/main/delingstjenesten/import-af-indhold/",
         "teaser": null
