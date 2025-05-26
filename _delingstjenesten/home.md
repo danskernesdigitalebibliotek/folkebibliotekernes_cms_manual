@@ -5,15 +5,17 @@ permalink: /delingstjenesten/
 ---
 
 
-## Delingstjenesten
-
-Denne side samler de seneste vejledninger og information om den nye delingstjeneste, hvor biblioteket i første omgang kan hente indhold direkte fra Delingstjenesten til sit bibliotekssite med få klik.
+Denne side samler de seneste vejledninger og information om den Delingstjeneste - bibliotekernes nationale formidling.
 
 ---
 
-### Vejledning
+### Vejledninger
+
+- [Sådan logger du ind på Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/login-i-delingstjenesten/)
 
 - [Sådan henter du indhold fra Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/import-af-indhold/)
+
+-  [Sådan sender du indhold til Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/ekport-af-indhold/)
 
 ---
 
