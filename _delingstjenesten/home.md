@@ -22,19 +22,19 @@ Denne side samler de seneste vejledninger og information om den Delingstjeneste 
 
 Med få klik kan biblioteker nu:
 
-- Hente artikler, grafik og videoer fra Delingstjensten
+- Hente artikler, sider, grafik og videoer fra Delingstjensten.
 
-- Tilpasse og redigere indholdet lokalt
+- Tilpasse og redigere indholdet lokalt.
 
-- Placere indholdet fleksibelt på bibliotekets hjemmeside (fx i et card grid, en hero eller på en underside)
+- Tilføje egne kategorier og tags og placere indholdet fleksibelt på hjemmesiden.
 
-- Tilføje egne kategorier og tags
+- Sikre, at biblioteket fremstår som tydelig afsender.
 
-- Sikre, at biblioteket fremstår som tydelig afsender
+- Få præsenteret et bredt udvalg af materialer, både fysiske og digitale.
 
-- Få præsenteret et bredt udvalg af materialer, både fysiske og digitale. Materialegrids vil automatisk filtrere de bøger fra, som ikke findes i bibliotekets katalog
-
-- Få automatisk tilføjet Canonical URL på indholdet fra afsenderbiblioteket, så korrekt søgemaskineindeksering sikres
+- Få automatisk tilføjet Canonical URL på indholdet fra biblioteket, så korrekt søgemaskineindeksering sikres.
+  
+- Sende artikler, grafik og videoer til Delingstjensten for deling ud til landets biblioteker.
 
 Når du logger ind på Delingstjenesten via backend på dit eget bibliotekssite, får du automatisk adgang som din institution – helt uden ekstra login.
 
