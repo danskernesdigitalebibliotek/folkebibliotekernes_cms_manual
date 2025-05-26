@@ -210,7 +210,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Delingstjenesten",
-        "excerpt":"Delingstjenesten Denne side samler de seneste vejledninger og information om den nye delingstjeneste, hvor biblioteket i første omgang kan hente indhold direkte fra Delingstjenesten til sit bibliotekssite med få klik. Vejledning Sådan henter du indhold fra Delingstjenesten Med få klik kan biblioteker nu: Hente artikler, grafik og videoer fra Delingstjensten...","categories": [],
+        "excerpt":"Denne side samler de seneste vejledninger og information om den Delingstjeneste - bibliotekernes nationale formidling. Vejledninger Sådan logger du ind på Delingstjenesten Sådan henter du indhold fra Delingstjenesten Sådan sender du indhold til Delingstjenesten Med få klik kan biblioteker nu: Hente artikler, grafik og videoer fra Delingstjensten Tilpasse og redigere...","categories": [],
         "tags": [],
         "url": "/main/delingstjenesten/",
         "teaser": null
@@ -219,6 +219,12 @@ var store = [{
         "excerpt":"Du kan hente indhold fra Bibliotekernes Nationale Redaktion – klar til brug på dit eget bibliotekssite. Nedenfor guider vi dig trin-for-trin. 1. Log ind via bibliotekets CMS Gå ind på dit lokale bibliotekssite, vær logget ind som medarbejder og klik: Indhold → Login i Delingstjenesten Du sendes nu videre til...","categories": ["Delingstjenesten"],
         "tags": [],
         "url": "/main/delingstjenesten/import-af-indhold/",
+        "teaser": null
+      },{
+        "title": "Sådan logger du ind på Delingstjenesten",
+        "excerpt":"Log ind på Delingstjenesten via dit bibliotek For at hente indhold fra Delingstjenesten til din biblioteks hjemmeside, skal du være logget ind som dit bibliotek. Det kræver blot få klik. Sådan logger du ind Gå ind på dit lokale bibliotekssite (CMS). Sørg for, at du er logget ind som redaktør....","categories": ["Delingstjenesten"],
+        "tags": [],
+        "url": "/main/delingstjenesten/login-i-delingstjenesten/",
         "teaser": null
       },{
         "title": "Åbningstider",
