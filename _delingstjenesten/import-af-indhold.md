@@ -4,7 +4,7 @@ category: Delingstjenesten
 nav_order: 2
 ---
 
-Det Digitale Folkebibliotek er klar med næste skridt i lanceringen af Delingstjenesten. Herfra kan du hente indhold fra Bibliotekernes Nationale Redaktion – klar til brug på dit eget bibliotekssite. Nedenfor guider vi dig trin-for-trin.
+Du kan hente indhold fra Bibliotekernes Nationale Redaktion – klar til brug på dit eget bibliotekssite. Nedenfor guider vi dig trin-for-trin.
 
 
 ## 1. Log ind via bibliotekets CMS
