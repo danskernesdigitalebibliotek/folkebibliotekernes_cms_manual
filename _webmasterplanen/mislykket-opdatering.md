@@ -1,16 +1,20 @@
 ---
-title: "Ved opdatering der mislykkes"
+title: "Opdatering der mislykkes"
 category: "Webmasterplanen"
 weight: 4
 ---
 
-Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af Config Ignore. 
+Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af modulet Config Ignore Auto. Det er et modul, der sikrer at lokale ændringer ikke overskrives i forbindelse med opdatering af core. Det betyder at webmasterbiblioteket særlige indstillinger i backend bevares ved opdatering af sitet. 
 
-Det er umuligt at forudsige om det er sikkert eller usikkert at ændre en konfiguration.
+Ulempen ved den løsning er at biblioteket uden at vide det, kan komme til at sætte en indstilling, der senere viser sig at være i konflikt med core-koden. Det er umuligt at forudsige om en bestemt indstilling i backend sikkert kan ændres lokalt.
 
-Når et biblioteks modultestsite eller driftssite ikke kan opdateres sker følgende:
-Reload kontakter DDF support med detaljeret information om problemet (stack trace)
-DDF support videresender detaljeret fejlinformation til bibliotekets kontaktpersoner 
-Biblioteket løser problemet på eget site og melder klar til DDF Support, der giver oplysningen videre til Reload.
-Opdatering forsøges på ny
+Ved en konfigurationskonflikt kan websitet ikke opdateres. Det kan ske for både modultestsite og driftssite.
 
+Kan et biblioteks modultestsite eller driftssite ikke opdateres sker følgende:
+- Reload kontakter DDF support med detaljeret information om problemet (stack trace)
+- DDF support videresender detaljeret fejlinformation til bibliotekets kontaktpersoner 
+- Biblioteket løser problemet ved at ændre de konfigurationer, der forårsager fejlen.
+- Biblioteket melder deres site klar til DDF Support, som giver oplysningen videre til Reload.
+- Reload gør et nyt forsøg på opdatering
+
+Opdatering udsættes til ugen efter hvis bibliotekets kontaktpersoner svarer eller hvis det ikke muligt for biblioteket hurtigt at tilrette de berørte konfigurationer.
