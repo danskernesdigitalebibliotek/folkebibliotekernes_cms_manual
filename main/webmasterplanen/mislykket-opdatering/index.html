@@ -10,19 +10,19 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Ved opdatering der mislykkes - Folkebibliotekernes CMS</title>
-<meta name="description" content="Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af Config Ignore.">
+<!-- begin _includes/seo.html --><title>Opdatering der mislykkes - Folkebibliotekernes CMS</title>
+<meta name="description" content="Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af modulet Config Ignore Auto. Det er et modul, der sikrer at lokale ændringer ikke overskrives i forbindelse med opdatering af core. Det betyder at webmasterbiblioteket særlige indstillinger i backend bevares ved opdatering af sitet.">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Ved opdatering der mislykkes">
+<meta property="og:title" content="Opdatering der mislykkes">
 <meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/webmasterplanen/mislykket-opdatering/">
 
 
-  <meta property="og:description" content="Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af Config Ignore.">
+  <meta property="og:description" content="Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af modulet Config Ignore Auto. Det er et modul, der sikrer at lokale ændringer ikke overskrives i forbindelse med opdatering af core. Det betyder at webmasterbiblioteket særlige indstillinger i backend bevares ved opdatering af sitet.">
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2025-05-28T11:57:44+00:00">
+  <meta property="article:published_time" content="2025-05-28T13:58:28+00:00">
 
 
 
@@ -169,7 +169,7 @@
     
       
       
-        <li class="current">Ved opdatering der mislykkes</li>
+        <li class="current">Opdatering der mislykkes</li>
       
     
   </ol>
@@ -240,7 +240,7 @@
               
             
               
-                <li><a href="/main/webmasterplanen/mislykket-opdatering/" class="active">Ved opdatering der mislykkes</a></li>
+                <li><a href="/main/webmasterplanen/mislykket-opdatering/" class="active">Opdatering der mislykkes</a></li>
               
             
               
@@ -260,9 +260,9 @@
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Ved opdatering der mislykkes">
-    <meta itemprop="description" content="Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af Config Ignore.">
-    <meta itemprop="datePublished" content="2025-05-28T11:57:44+00:00">
+    <meta itemprop="headline" content="Opdatering der mislykkes">
+    <meta itemprop="description" content="Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af modulet Config Ignore Auto. Det er et modul, der sikrer at lokale ændringer ikke overskrives i forbindelse med opdatering af core. Det betyder at webmasterbiblioteket særlige indstillinger i backend bevares ved opdatering af sitet.">
+    <meta itemprop="datePublished" content="2025-05-28T13:58:28+00:00">
     
 
     <div class="page__inner-wrap">
@@ -270,7 +270,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://www.folkebibliotekernescms.dk/main/webmasterplanen/mislykket-opdatering/" class="u-url" itemprop="url">Ved opdatering der mislykkes
+            <a href="https://www.folkebibliotekernescms.dk/main/webmasterplanen/mislykket-opdatering/" class="u-url" itemprop="url">Opdatering der mislykkes
 </a>
           </h1>
           
@@ -293,16 +293,22 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <p>Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af Config Ignore.</p>
+        <p>Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af modulet Config Ignore Auto. Det er et modul, der sikrer at lokale ændringer ikke overskrives i forbindelse med opdatering af core. Det betyder at webmasterbiblioteket særlige indstillinger i backend bevares ved opdatering af sitet.</p>
 
-<p>Det er umuligt at forudsige om det er sikkert eller usikkert at ændre en konfiguration.</p>
+<p>Ulempen ved den løsning er at biblioteket uden at vide det, kan komme til at sætte en indstilling, der senere viser sig at være i konflikt med core-koden. Det er umuligt at forudsige om en bestemt indstilling i backend sikkert kan ændres lokalt.</p>
 
-<p>Når et biblioteks modultestsite eller driftssite ikke kan opdateres sker følgende:
-Reload kontakter DDF support med detaljeret information om problemet (stack trace)
-DDF support videresender detaljeret fejlinformation til bibliotekets kontaktpersoner 
-Biblioteket løser problemet på eget site og melder klar til DDF Support, der giver oplysningen videre til Reload.
-Opdatering forsøges på ny</p>
+<p>Ved en konfigurationskonflikt kan websitet ikke opdateres. Det kan ske for både modultestsite og driftssite.</p>
 
+<p>Kan et biblioteks modultestsite eller driftssite ikke opdateres sker følgende:</p>
+<ul>
+  <li>Reload kontakter DDF support med detaljeret information om problemet (stack trace)</li>
+  <li>DDF support videresender detaljeret fejlinformation til bibliotekets kontaktpersoner</li>
+  <li>Biblioteket løser problemet ved at ændre de konfigurationer, der forårsager fejlen.</li>
+  <li>Biblioteket melder deres site klar til DDF Support, som giver oplysningen videre til Reload.</li>
+  <li>Reload gør et nyt forsøg på opdatering</li>
+</ul>
+
+<p>Opdatering udsættes til ugen efter hvis bibliotekets kontaktpersoner svarer eller hvis det ikke muligt for biblioteket hurtigt at tilrette de berørte konfigurationer.</p>
 
         
       </section>
@@ -314,7 +320,7 @@ Opdatering forsøges på ny</p>
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-05-28T11:57:44+00:00">May 28, 2025</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-05-28T13:58:28+00:00">May 28, 2025</time></p>
 
       </footer>
 

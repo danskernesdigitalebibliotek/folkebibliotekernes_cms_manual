@@ -1229,8 +1229,8 @@ var store = [{
         "url": "/main/webmasterplanen/installation-af-moduler/",
         "teaser": null
       },{
-        "title": "Ved opdatering der mislykkes",
-        "excerpt":"Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af Config Ignore. Det er umuligt at forudsige om det er sikkert eller usikkert at ændre en konfiguration. Når et biblioteks modultestsite eller driftssite ikke kan opdateres sker følgende: Reload kontakter DDF support med detaljeret information om problemet (stack trace)...","categories": ["Webmasterplanen"],
+        "title": "Opdatering der mislykkes",
+        "excerpt":"Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af modulet Config Ignore Auto. Det er et modul, der sikrer at lokale ændringer ikke overskrives i forbindelse med opdatering af core. Det betyder at webmasterbiblioteket særlige indstillinger i backend bevares ved opdatering af sitet. Ulempen ved den løsning er...","categories": ["Webmasterplanen"],
         "tags": [],
         "url": "/main/webmasterplanen/mislykket-opdatering/",
         "teaser": null
