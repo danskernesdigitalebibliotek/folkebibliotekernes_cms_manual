@@ -4,7 +4,7 @@ category: "Webmasterplanen"
 weight: 4
 ---
 
-Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af modulet Config Ignore Auto. Det er et modul, der sikrer at lokale ændringer ikke overskrives i forbindelse med opdatering af core. Det betyder at webmasterbiblioteket særlige indstillinger i backend bevares ved opdatering af sitet. 
+Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af modulet Config Ignore Auto. Det er et modul, der sikrer at lokale ændringer ikke overskrives i forbindelse med opdatering af core. Dermed bevares webmasterbibliotekets særlige backend-indstillinger ved opdatering af sitet. 
 
 Ulempen ved den løsning er at biblioteket uden at vide det, kan komme til at sætte en indstilling, der senere viser sig at være i konflikt med core-koden. Det er umuligt at forudsige om en bestemt indstilling i backend sikkert kan ændres lokalt.
 
