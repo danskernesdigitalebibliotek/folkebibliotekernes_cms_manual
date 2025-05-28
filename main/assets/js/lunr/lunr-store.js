@@ -1229,6 +1229,12 @@ var store = [{
         "url": "/main/webmasterplanen/installation-af-moduler/",
         "teaser": null
       },{
+        "title": "Ved opdatering der mislykkes",
+        "excerpt":"Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af Config Ignore. Det er umuligt at forudsige om det er sikkert eller usikkert at ændre en konfiguration. Når et biblioteks modultestsite eller driftssite ikke kan opdateres sker følgende: Reload kontakter DDF support med detaljeret information om problemet (stack trace)...","categories": ["Webmasterplanen"],
+        "tags": [],
+        "url": "/main/webmasterplanen/mislykket-opdatering/",
+        "teaser": null
+      },{
         "title": "Ofte stillede spørgsmål",
         "excerpt":"Hvor ofte tages der backup af produktionsmiljøet? Der bliver taget backups af produktionsmiljøerne 2 gange om dagen mellem kl. 12 og 13 og kl. 00 og 01. Hvordan ser jeg hvilken version af Folkebibliotekernes CMS der er installeret på mit site? Brugere der er logget ind kan øverst oppe i...","categories": ["Webmasterplanen"],
         "tags": [],
