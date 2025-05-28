@@ -474,7 +474,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Go",
-        "excerpt":" ","categories": [],
+        "excerpt":"Her kommer godokumentationen.  ","categories": [],
         "tags": [],
         "url": "/main/go/",
         "teaser": null
