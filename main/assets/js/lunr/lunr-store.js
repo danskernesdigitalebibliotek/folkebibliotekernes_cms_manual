@@ -204,7 +204,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Sådan sender du indhold til Delingstjenesten",
-        "excerpt":"Sådan sender du indhold til Delingstjenesten Med send-funktionen kan du dele artikler fra din egen hjemmeside med resten af landets biblioteker via Delingstjenesten. Du kan kun sende indhold én gang. Når artiklen først er sendt, vil efterfølgende ændringer kun gælde på dit eget site – ikke i Delingstjenesten. 1. Opret...","categories": ["Delingstjenesten"],
+        "excerpt":"Sådan sender du indhold til Delingstjenesten Med send-funktionen kan du dele indholdstyperne artikler og sider fra din egen hjemmeside med resten af landets biblioteker via Delingstjenesten. Du kan kun sende indhold én gang. Når artiklen eller siden først er sendt, vil efterfølgende ændringer kun gælde på dit eget site –...","categories": ["Delingstjenesten"],
         "tags": [],
         "url": "/main/delingstjenesten/eksport-af-indhold/",
         "teaser": null
