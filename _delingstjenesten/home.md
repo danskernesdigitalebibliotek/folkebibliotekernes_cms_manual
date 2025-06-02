@@ -15,7 +15,7 @@ Denne side samler de seneste vejledninger og information om den Delingstjeneste 
 
 - [Sådan henter du indhold fra Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/import-af-indhold/)
 
--  [Sådan sender du indhold til Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/ekport-af-indhold/)
+- [Sådan sender du indhold til Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/eksport-af-indhold/)
 
 ---
 
