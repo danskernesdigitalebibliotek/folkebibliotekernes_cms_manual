@@ -4,8 +4,6 @@ category: Delingstjenesten
 nav_order: 3
 ---
 
-## Sådan sender du indhold til Delingstjenesten
-
 Med **send-funktionen** kan du dele indholdstyperne artikler og sider fra din egen hjemmeside med resten af landets biblioteker via Delingstjenesten.
 
 Du kan kun sende indhold **én gang**. Når artiklen eller siden først er sendt, vil efterfølgende ændringer kun gælde på dit eget site – ikke i Delingstjenesten.
