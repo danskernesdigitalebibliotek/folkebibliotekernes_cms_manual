@@ -9,10 +9,13 @@ header:
       url: "/overblik/support"
     - label: "Hostingplaner"
       url: "/overblik/hostingplaner"
+      
     - label: "Tilgængelighedserklæring"
       url: "/overblik/tilgaengelighedserklaering"
     - label: "Status på udvikling og fejlrettelser"
       url: "/overblik/status"
+    - label: "Delingstjenesten"
+      url: "/delingstjenesten/"
     - label: "Releases"
       url: "/overblik/releases"
     - label: "Indberetning af udviklingsønsker "
