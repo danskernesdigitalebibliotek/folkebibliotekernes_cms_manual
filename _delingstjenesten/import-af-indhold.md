@@ -21,18 +21,17 @@ Du sendes nu videre til Delingstjenestens forside.
 På forsiden vises udvalgt og korrekturlæst materiale, som er kvalitetssikret af Bibliotekernes Nationale Redaktion.
 
 - Klik på **“Alt indhold”** i topmenuen for at se hele kataloget – inklusiv ukorrekturlæst materiale.
-- Brug søgefeltet. Filtrering på indhold redigeret af Bibliotekernes Nationale Redaktion (*Categorized*) eller ikke redigeret indhold (*Uncategorized*), vil først blive aktuel at bruge efter næste release med send-funktionen.
+- Brug søgefeltet. Filtrering på indhold redigeret af Bibliotekernes Nationale Redaktion (*Kategoriseret*) eller ikke redigeret indhold (*Ikke kategoriseret*).
 
 
 
 ## 3. Vælg en artikel eller side
 Klik dig ind på det ønskede indhold.  
-Bemærk: Du kan kun importere *artikler*. Indholdstypen Sider understøttes endnu ikke.
 
 
 
-## 4. Klik på “Importer til DPL CMS”
-I bunden af skærmen til højre finder du knappen **"Importer [titlen på indholdet] til DPL CMS"** – klik her.
+## 4. Klik på “Importer til dit bibliotek”
+I bunden af skærmen til højre finder du knappen **"Importer [titlen på indholdet] til bibliotek"** – klik her.
 
 
 
@@ -40,15 +39,7 @@ I bunden af skærmen til højre finder du knappen **"Importer [titlen på indhol
 Artiklen ligger nu i dit CMS. Du kan:
 
 - Tilføje, redigere eller rette **paragraffer**, **materialer**, **tags**, **kategorier** og tilføje **relaterede artikler**
-- **Ret forfatterfeltet**, hvis det eksempelvis står som "administrator" eller andet (fremover vil det automatisk hedde “Biblioteket”)
 - **Undgå at ændre i feltet “Metatags: Canonical URL”**, da det kan påvirke søgemaskinernes visning og SEO for ophavsbiblioteket.
-
-
-
-## 6. Materialer – automatisk og manuelt
-Materialegrids filtrerer automatisk bøger, der ikke findes i dit katalog.  
-Du kan selv tilføje relevante titler, især hvis der falder for mange fra og layoutet ikke længere går op.
-
 
 
 ---
@@ -99,8 +90,7 @@ Bibliotekernes Nationale Redaktion sørger for at det kun er de tilgængelige ty
 - Materialekomponent – manuel
 - Materialekomponent – automatic 
 - Recommendation 
-- Hero  
-- Banner  
+
 - GO linkbox  
 - GO Material Slider – Automatic  
 - GO Material Slider – Manual  
