@@ -6,15 +6,15 @@ nav_order: 3
 
 ## Sådan sender du indhold til Delingstjenesten
 
-Med **send-funktionen** kan du dele artikler fra din egen hjemmeside med resten af landets biblioteker via Delingstjenesten.
+Med **send-funktionen** kan du dele indholdstyperne artikler og sider fra din egen hjemmeside med resten af landets biblioteker via Delingstjenesten.
 
-Du kan kun sende indhold **én gang**. Når artiklen først er sendt, vil efterfølgende ændringer kun gælde på dit eget site – ikke i Delingstjenesten.
+Du kan kun sende indhold **én gang**. Når artiklen eller siden først er sendt, vil efterfølgende ændringer kun gælde på dit eget site – ikke i Delingstjenesten.
 
 ---
 
 ### 1. Opret eller rediger en artikel
 
-Gå til **Indhold → Tilføj indhold → Artikel** eller rediger en eksisterende artikel.
+Gå til **Indhold → Tilføj indhold → Artikel / Side** eller rediger en eksisterende artikel / side.
 
 Udfyld som normalt: titel, brødtekst, teaserbillede mv.
 
@@ -30,8 +30,6 @@ Udfyld som normalt: titel, brødtekst, teaserbillede mv.
 - Material grid link (automatic)  
 - Materialekomponent – manuel  
 - Recommendation  
-- Hero  
-- Banner
 
 **OBS:** Andre paragraph-typer bliver ikke sendt med.
 
@@ -43,16 +41,16 @@ Udfyld som normalt: titel, brødtekst, teaserbillede mv.
 Øverst i redigeringsvisningen finder du checkboksen **Publicer og send til Delingstjenesten**.  
 Sæt flueben og klik **Gem**.
 
-Artiklen bliver nu både publiceret på dit site og sendt til Delingstjenesten.
+Artiklen / siden bliver nu både publiceret på dit site samtidig med at den bliver sendt til Delingstjenesten.
 
 Funktionen fungerer som du måske kender fra *Biblioteksproduceret indhold (BPI)* – indholdet sendes kun én gang.
 
 
 ---
 
-### 3. Afsender: Vil du vise andet end dit brugernavn?
+### 3. Afsender
 
-Som udgangspunkt sendes dit CMS-brugernavn med som forfatter.
+Som udgangspunkt sendes indholdet som afsender: "af biblioteket".
 
 Hvis du ønsker at vise en anden forfatter:
 
@@ -62,17 +60,17 @@ Hvis du ønsker at vise en anden forfatter:
 Navnet vil fremgå i artiklen på Delingstjenesten.
 
 På søgesiden vises altid **dit biblioteksnavn** som afsender.  
-Når andre biblioteker henter artiklen, vises forfatterfeltet som **“Biblioteket”**.
+Når andre biblioteker henter artiklen, vises forfatterfeltet som **“af biblioteket”**.
 
 
 ---
 
-### 4. Tjek om artiklen er modtaget i Delingstjenesten
+### 4. Tjek om artiklen eller siden er modtaget i Delingstjenesten
 
 1. Log ind i Delingstjenesten via **Indhold → Login i Delingstjenesten**  
 2. Klik på **Alt indhold** i topmenuen  
 3. Skift filteret **Edited by BNR** til **Uncategorized**  
-4. Brug evt. søgefeltet for at finde artiklen
+4. Brug evt. søgefeltet for at finde artiklen / siden
 
 Artiklen vises under dit biblioteksnavn. Her kan du tjekke, at alle ønskede paragraphs er overført korrekt.
 
@@ -92,9 +90,9 @@ Artiklen vises under dit biblioteksnavn. Her kan du tjekke, at alle ønskede par
 
 | Spørgsmål | Svar |
 |----------|------|
-| **Kan jeg sende artiklen igen, hvis jeg retter den?** | Nej. Du kan ikke gensende en artikel. Opret en ny artikel og send den igen, hvis du har ændringer, du vil dele. |
+| **Kan jeg sende artiklen igen, hvis jeg retter den?** | Nej. Du kan ikke gensende en artikel eller en side. Opret en ny artikel og send den igen, hvis du har ændringer, du vil dele. |
 | **Hvad hvis nogle indholdselementer mangler på Delingstjenesten?** | Kun de understøttede paragraphs sendes med. Andre bliver sprunget over. |
-| **Hvem vises som forfatter?** | Hvis du ikke bruger “Override author”, vises dit brugernavn. Artiklen kan stadig findes via dit biblioteksnavn. |
+| **Hvem vises som forfatter?** | Hvis du ikke bruger “Override author”, vises forfatterfeltet automatisk som "af biblioteket". Artiklen og siden kan stadig findes via dit biblioteksnavn. |
 
 ---
 
