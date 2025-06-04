@@ -19,8 +19,6 @@ Releasedato: 05-06-2025
 
 - Valg af årgang og nummer: Ved visning og reservering af årbøger og aviser er det nu muligt at vælge årgang/nummer. 
 
-Releasen indeholder derudover ingen synlige forbedringer eller fejlrettelser til Folkebibliotekernes CMS. Der er udviklet på løsninger til børnesitet og delingstjenesten. 
-
 ## Fejlrettelser og justeringer
 - Counts på facetter fjernes fra grænsefladen. Det gælder både i “Flere-filtre-modalen” og i det intelligente facetbånd mellem søgefeltet og søgeresultatet.
 - Fejl rettet hvor visse tidsskrifter får vist både knapperne "Reservér" og "Se online".
