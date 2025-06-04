@@ -1128,7 +1128,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2025.23.0",
-        "excerpt":"Videreudvikling af løsninger med relevans for delingstjenesten og GO. Releasedato: 05-06-2025 Redaktør: Produktionssites: 2025.23.0 Silkeborg og Albertslund (Go-piloter): Produktionssites: 2025.23.0 Moduletestsites: 2025.23.0 Webmaster: Produktionssites: 2025.21.2 Moduletestsites: 2025.23.0 Nye features GO indholstyper (Børnesite): Under /admin/content/add er der nu adgang til en række GO indholdstyper: GO artikel, GO kategori og GO side....","categories": ["Release Notes"],
+        "excerpt":"Videreudvikling af løsninger med relevans for delingstjenesten og GO. Releasedato: 05-06-2025 Redaktør: Produktionssites: 2025.23.0 Silkeborg og Albertslund (Go-piloter): Produktionssites: 2025.23.0 Moduletestsites: 2025.23.0 Webmaster: Produktionssites: 2025.21.2 Moduletestsites: 2025.23.0 Nye features GO indholdstyper (Børnesite): Under /admin/content/add er der nu adgang til en række GO indholdstyper: GO artikel, GO kategori og GO side....","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2025-23-0/",
         "teaser": null
