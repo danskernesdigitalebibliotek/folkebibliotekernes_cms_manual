@@ -108,6 +108,6 @@ Det er også muligt via **Preview** at vurdere artiklens slutbruger-visning inde
 
 Du kan gemme artiklen uden at publicere ved slukke for den grønne knap ved ‘Published’. 
 
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/4eeac3ae-bb22-4a21-833c-7730a27ded31" Gem findes i øverste højre hjørne i hovedindholdsfelte %}
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/4eeac3ae-bb22-4a21-833c-7730a27ded31" alt="Gem findes i øverste højre hjørne i hovedindholdsfeltet" %}
 
 Gem findes i øverste højre hjørne i hovedindholdsfeltet.
