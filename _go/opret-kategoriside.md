@@ -37,7 +37,7 @@ Nedenfor ‘Title’ kan du til- eller fravælge om indholdet skal deles på Del
 
 Du kan nu opbygge din sides indhold og udseende ved hjælp af Paragraphs-komponenterne. 
 
-Læs om Paragraphs-komponenterne og deres funktioner 
+Læs om Paragraphs-komponenterne og deres funktioner [her](https://www.folkebibliotekernescms.dk/main/go/paragraphs-go/) 
 
 Der er følgende Paragraphs-komponenter at vælge fra: 
 
