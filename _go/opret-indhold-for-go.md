@@ -14,6 +14,12 @@ Når du er logget ind i jeres CMS (Content Management System), kan du under menu
 Under ‘Tilføj indhold’ kan du enten vælge elementer fra ‘Opret indhold fra bunden’ eller fra ‘Opret indhold fra skabelon’. De GO specifikke indholdselelemnter, der kan oprettes er hhv. GO Article, GO Category og GO Page.
 
 
+- [Sådan opretter du en artikel på GO](https://www.folkebibliotekernescms.dk/main/go/opret-artikel/)
+- [Sådan opretter du en kategoriside på GO](https://www.folkebibliotekernescms.dk/main/go/opret-kategoriside/)
+- [Sådan opretter du en side på GO](https://www.folkebibliotekernescms.dk/main/go/opret-side/)
+
+
+
 
 
 
