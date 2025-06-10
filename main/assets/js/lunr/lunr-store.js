@@ -479,6 +479,12 @@ var store = [{
         "url": "/main/go/",
         "teaser": null
       },{
+        "title": "Sådan opretter du indhold på GO",
+        "excerpt":"For at oprette indhold på GO skal du være logget ind i jeres backend.  ### Sådan opretter du nyt indhold  Når du er logget ind i jeres CMS (Content Management System), kan du under menupunktet ‘Content’ vælge ‘Tilføj indhold’:  ","categories": ["GO"],
+        "tags": [],
+        "url": "/main/go/opret-indhold-for-go/",
+        "teaser": null
+      },{
         "title": "Arrangement",
         "excerpt":"Når du skal oprette et arrangement i FB CMS, skal du vælge Arrangement(er). Det gælder uanset om du vil oprette et enkeltstående arrangement eller en serie af arrangementer. Sådan opretter du et arrangement I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk) Klik på Tilføj indhold i øverste højre hjørne: Tilføj indhold Klik...","categories": ["Indholdstyper"],
         "tags": [],
