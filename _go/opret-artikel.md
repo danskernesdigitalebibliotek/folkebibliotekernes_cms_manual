@@ -44,7 +44,7 @@ Bemærk, at undertekst ikke er det samme som Teaser text. Teaserteksten er den t
 
 Du kan nu opbygge din artikels indhold og udseende ved hjælp af Paragraphs-komponenterne. 
 
-[Læs om Paragraphs-komponenterne og deres funktioner](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/paragraphs-komponenter/)
+[Læs om Paragraphs-komponenterne og deres funktioner](https://www.folkebibliotekernescms.dk/main/go/paragraphs-go/)
 
 Der er følgende Paragraphs-komponenter at vælge fra: 
 
