@@ -4,6 +4,8 @@ category: GO
 nav_order: 4
 ---
 
+Du kan oprette din egen kategoriside på GO, som placerer sig i kategoribåndet øverst på siden. Vi anbefaler, at I laver en katrgoriside kaldet 'Mit bibliotek' hvis I ønsker at lave lokalt indhold til jeres børnemålgruppe. Her kan I oprette alle de formidlingselementer, som I har lyst til og som ikke bliver overskrevet af Bibliotekernes Nationale Redaktion, når de laver nyt nationalt indhold til GOs forside og de nationale GO kategorisider. 
+
 ### Sådan opretter du en Kategoriside 
 
 Indholdstypen ‘GO Category’ bruges til at oprette en landingpage for en specifik kategori. Når en kategoriside oprettes og publiceres, vil kategorien automatisk blive tilføjet i kategoribåndet. 
