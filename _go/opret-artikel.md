@@ -3,10 +3,9 @@ title: "Sådan opretter du en Artikel på GO"
 category: GO
 nav_order: 3
 ---
+Indholdstypen ‘GO Article’ gør det muligt at oprette artikler på GO, hvor der bl.a. kan formidles tekst kombineret med de andre GO paragraphs. Se mere om de forskellige Paragraphs [her](https://www.folkebibliotekernescms.dk/main/go/paragraphs-go/)
 
 ### Sådan opretter du en artikel
-
-Indholdstypen ‘GO Article’ gør det muligt at oprette artikler på GO, hvor der bl.a. kan formidles tekst kombineret med de andre GO paragraphs. Se mere om de forskellige Paragraphs [her](https://www.folkebibliotekernescms.dk/main/go/paragraphs-go/)
 
 I topmenuen før musen henover **‘Indhold’** og Klik på **‘Tilføj indhold’** eller klik på **‘Indhold’** og derefter klik på **‘Tilføj indhold’** knappen i øverste højre hjørne: 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/52f7aa56-c1fe-434c-89a7-1f1a1d2c644a" alt="Under 'Content' vælg 'Tilføj indhold" %}
