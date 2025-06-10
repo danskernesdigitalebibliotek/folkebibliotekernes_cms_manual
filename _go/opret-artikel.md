@@ -122,7 +122,7 @@ Det er også muligt via **Preview** at vurdere artiklens slutbruger-visning inde
 
 Du kan gemme artiklen uden at publicere ved slukke for den grønne knap ved ‘Publiceret’ **Udgivet**. 
 
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/de43e8d9-a104-458f-a2f3-cf69107b85ee" Gem findes i øverste højre hjørne i hovedindholdsfelte %}
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/de43e8d9-a104-458f-a2f3-cf69107b85ee" alt="Gem findes i øverste højre hjørne i hovedindholdsfeltet" %}
 Gem findes i øverste højre hjørne i hovedindholdsfeltet. 
 
 **OBS:** For at få vist en artikel på GO, skal den linkes til via paragraffen ‘Linkbox’. Se, hvordan du opretter en ‘Linkbox her.  
