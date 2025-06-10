@@ -479,10 +479,28 @@ var store = [{
         "url": "/main/go/",
         "teaser": null
       },{
+        "title": "Sådan opretter du en Artikel på GO",
+        "excerpt":"Sådan opretter du en artikel Indholdstypen ‘GO Article’ gør det muligt at oprette artikler på GO, hvor der bl.a. kan formidles tekst kombineret med de andre GO paragraphs. Se mere om de forskellige Paragraphs her I topmenuen før musen henover ‘Indhold’ og Klik på ‘Tilføj indhold’ eller klik på ‘Indhold’...","categories": ["GO"],
+        "tags": [],
+        "url": "/main/go/opret-artikel/",
+        "teaser": null
+      },{
         "title": "Sådan opretter du indhold på GO",
         "excerpt":"For at oprette indhold på GO skal du være logget ind i jeres backend. Sådan opretter du nyt indhold Når du er logget ind i jeres CMS (Content Management System), kan du under menupunktet ‘Content’ vælge ‘Tilføj indhold’: Under ‘Tilføj indhold’ kan du enten vælge elementer fra ‘Opret indhold fra...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/opret-indhold-for-go/",
+        "teaser": null
+      },{
+        "title": "Sådan opretter du en Kategoriside på GO",
+        "excerpt":"Sådan opretter du en Kategoriside Indholdstypen ‘GO Category’ bruges til at oprette en landingpage for en specifik kategori. Når en kategoriside oprettes og publiceres, vil kategorien automatisk blive tilføjet i kategoribåndet. I topmenuen før musen henover ‘Content’ og Klik på ‘Tilføj indhold’ eller klik på ‘Content’ og derefter klik på...","categories": ["GO"],
+        "tags": [],
+        "url": "/main/go/opret-kategoriside/",
+        "teaser": null
+      },{
+        "title": "Sådan opretter du en Kategoriside på GO",
+        "excerpt":" ","categories": ["GO"],
+        "tags": [],
+        "url": "/main/go/opret-side/",
         "teaser": null
       },{
         "title": "Arrangement",
