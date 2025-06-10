@@ -74,7 +74,8 @@ Skabeloner er nyttige, hvis I f.eks. vil lave en artikelserie, der har et genken
 
   
 
-#### Author & Date: 
+#### Author & Date
+
 
 #### Publication Date 
 
