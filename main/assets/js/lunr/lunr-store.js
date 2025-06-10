@@ -492,7 +492,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Sådan opretter du en Kategoriside på GO",
-        "excerpt":"Sådan opretter du en Kategoriside Indholdstypen ‘GO Category’ bruges til at oprette en landingpage for en specifik kategori. Når en kategoriside oprettes og publiceres, vil kategorien automatisk blive tilføjet i kategoribåndet. I topmenuen før musen henover ‘Content’ og Klik på ‘Tilføj indhold’ eller klik på ‘Content’ og derefter klik på...","categories": ["GO"],
+        "excerpt":"Du kan oprette din egen kategoriside på GO, som placerer sig i kategoribåndet øverst på siden. Vi anbefaler, at I laver en katrgoriside kaldet ‘Mit bibliotek’ hvis I ønsker at lave lokalt indhold til jeres børnemålgruppe. Her kan I oprette alle de formidlingselementer, som I har lyst til og som...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/opret-kategoriside/",
         "teaser": null
