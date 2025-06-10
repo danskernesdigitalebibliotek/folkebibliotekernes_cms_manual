@@ -474,7 +474,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Go",
-        "excerpt":"Her kommer godokumentationen.  ","categories": [],
+        "excerpt":"Denne side samler de seneste vejledninger og informationer om det nye GO, som får sin egen hjemmeside tilknyttet til Folkebibliotekernes eksisternde hjemmesider.     Vejledninger  GO’s Formidlingskomponenter:  ","categories": [],
         "tags": [],
         "url": "/main/go/",
         "teaser": null
