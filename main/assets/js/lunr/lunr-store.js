@@ -498,7 +498,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Sådan opretter du en Kategoriside på GO",
-        "excerpt":" ","categories": ["GO"],
+        "excerpt":"Sådan opretter du en Side Indholdstypen ‘GO Page’ bruges til at oprette forsider og lignende samlende indgange til tilknyttet indhold på dit site eksempelvis en FAQ-side. I topmenuen før musen henover ‘Content’ og Klik på ‘Tilføj indhold’ eller klik på ‘Content’ og derefter klik på ‘Tilføj indhold’-knappen i øverste højre...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/opret-side/",
         "teaser": null
