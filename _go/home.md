@@ -1,5 +1,5 @@
 ---
-title: "Go"
+title: "GO"
 weight: 1
 permalink: /go/
 ---
@@ -9,5 +9,5 @@ Denne side samler de seneste vejledninger og informationer om det nye GO, som f�
 ---
 
 ### Vejledninger
-GO's Formidlingskomponenter:
+GOs Formidlingskomponenter:
 - [Sådan opretter du nyt indhold på GO](https://www.folkebibliotekernescms.dk/main/go/opret-indhold-for-go/)
