@@ -473,14 +473,14 @@ var store = [{
         "url": "/main/formidlingsinspiration/personalesiden/",
         "teaser": null
       },{
-        "title": "Go",
-        "excerpt":"Denne side samler de seneste vejledninger og informationer om det nye GO, som får sin egen hjemmeside tilknyttet til Folkebibliotekernes eksisterende hjemmesider.     Vejledninger  GO’s Formidlingskomponenter:     Sådan opretter du nyt indhold på GO  ","categories": [],
+        "title": "GO",
+        "excerpt":"Denne side samler de seneste vejledninger og informationer om det nye GO, som får sin egen hjemmeside tilknyttet til Folkebibliotekernes eksisterende hjemmesider.     Vejledninger  GOs Formidlingskomponenter:     Sådan opretter du nyt indhold på GO  ","categories": [],
         "tags": [],
         "url": "/main/go/",
         "teaser": null
       },{
         "title": "Sådan opretter du indhold på GO",
-        "excerpt":"For at oprette indhold på GO skal du være logget ind i jeres backend.   Sådan opretter du nyt indhold   Når du er logget ind i jeres CMS (Content Management System), kan du under menupunktet ‘Content’ vælge ‘Tilføj indhold’:   ","categories": ["GO"],
+        "excerpt":"For at oprette indhold på GO skal du være logget ind i jeres backend. Sådan opretter du nyt indhold Når du er logget ind i jeres CMS (Content Management System), kan du under menupunktet ‘Content’ vælge ‘Tilføj indhold’: Under ‘Tilføj indhold’ kan du enten vælge elementer fra ‘Opret indhold fra...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/opret-indhold-for-go/",
         "teaser": null
