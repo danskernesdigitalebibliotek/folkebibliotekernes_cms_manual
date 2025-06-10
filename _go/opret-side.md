@@ -3,9 +3,9 @@ title: "Sådan opretter du en Kategoriside på GO"
 category: GO
 nav_order: 5
 ---
+Indholdstypen ‘GO Page’ bruges til at oprette forsider og lignende samlende indgange til tilknyttet indhold på dit site eksempelvis en FAQ-side.
 
-### Sådan opretter du en Side
-Indholdstypen ‘GO Page’ bruges til at oprette forsider og lignende samlende indgange til tilknyttet indhold på dit site eksempelvis en FAQ-side. 
+### Sådan opretter du en Side 
 
 I topmenuen før musen henover **‘Content’** og Klik på **'Tilføj indhold’** eller klik på **‘Content’** og derefter klik på **‘Tilføj indhold’**-knappen i øverste højre hjørne:
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/5621bbf9-74a2-423b-9296-76ce44d997bc" alt="Under 'Content' vælg 'Tilføj indhold" %}
