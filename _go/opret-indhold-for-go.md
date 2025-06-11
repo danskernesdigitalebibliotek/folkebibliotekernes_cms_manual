@@ -17,6 +17,7 @@ Under ‘Tilføj indhold’ kan du enten vælge elementer fra ‘Opret indhold f
 - [Sådan opretter du en artikel på GO](https://www.folkebibliotekernescms.dk/main/go/opret-artikel/)
 - [Sådan opretter du en kategoriside på GO](https://www.folkebibliotekernescms.dk/main/go/opret-kategoriside/)
 - [Sådan opretter du en side på GO](https://www.folkebibliotekernescms.dk/main/go/opret-side/)
+- [Paragrapg komponenter på GO](https://www.folkebibliotekernescms.dk/main/go/paragraphs-go/)
 
 
 
