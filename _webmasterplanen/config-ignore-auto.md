@@ -2,7 +2,7 @@
 title: "Drupal-modulet: Config Ignore Auto"
 weight: 5
 ---
-Drupal-modulet **Config Ignore Auto** er som standard aktiveret i Folkebibliotekernes CMS og kan ikke deaktiveres. Det er et modul som alle webmasterudviklere bør kende til.
+Drupal-modulet **Config Ignore Auto** er som standard aktiveret i Folkebibliotekernes CMS og kan ikke deaktiveres. Det er et nødvendigt modul, som alle webmastere bør kende til. Hvis **Config Ignore Auto** ikke var installeret, ville webmasterbibliotekerne miste deres lokale konfiguration hver uge, når ders site opdateres.
 
 ## Hvad er det?
 
@@ -14,39 +14,22 @@ Drupal-modulet **Config Ignore Auto** er som standard aktiveret i Folkebibliotek
   Når modulet er aktiveret, overvåger det ændringer foretaget gennem administrationsgrænsefladen og tilføjer dem til listen over ignorerede konfigurationer.
 
 
-- **Brugsscenarie**
-De indstillinger, som Config Ignore Auto har tilføjet til sin liste overskrives ikke når core opdateres. Dvs. de bevarer den værdi som du har sat - også selvom standardværdien ændrer sig.
+- **Brugsscenarie**\
+  De indstillinger, som Config Ignore Auto tilføjer til sin liste, overskrives ikke når core opdateres. Dvs. de bevarer den værdi, som du har sat. Også selvom standardværdien ændrer sig.
 
-
-Hvis **Config Ignore Auto** ikke var installeret ville webmasterbibliotekerne miste deres lokale konfiguration hver uge, når ders site opdateres.
 
 ## Hvad skal jeg være opmærksom på
-Det er let og hurtigt at ændre en indstilling via administrationsgrænsefladen men det kommer med en risiko.
+Det er let og hurtigt at ændre en indstilling via administrationsgrænsefladen, men man skal ikke tage let på det, for det kan have vidtrækkende konsekvenser.
 
-Hvis du har ændret en indstilling, som en core 
-Men det kommer med en risisko som men skal være opmærksom på som 
-Men det lægger også et stort ankan være nyttigt, medfører det visse risici.
+- Før logbog over alle ændringer, som du foretager i indstillinger via administrationsgrænsefladen, så du hele tiden har et komplet overblik.
+- Overvej nøje om du ændrer en essentiel værdi, som andre dele af sitet afhænger af. Man kan ikke altid vide det, men prøv alligevel.
 
-## ⚠️ 1. Konfigurationsdrift
-- **Forklaring**: Ændringer på live-sitet ignoreres ved import, så live-sitet afviger gradvist fra versioneret konfiguration.
-- **Problem**: Gør det svært at genskabe fejl eller udviklingsmiljøer.
+## Hvilke ricici er der?
+- **Ny funktionalitet mangler**: Du risikerer at ny funktionalitet i core ikke bliver synlig på jeres site, fordi en indstilling, som du har sat, forhindrer det. Der kommer ikke nødvendigvis en fejl ud af det, så du opdager det måske slet ikke.
+  
+- **Jeres site kan ikke opdateres**: Hvis jeres site pga. lokal konfiguration er anderledes end forventet af koden i core, kan der opstå en fejl, så jeres site slet ikke kan opdateres. 
 
-## ⚠️ 2. Utilsigtet ignorering af vigtig konfiguration
-- **Forklaring**: Modulet tilføjer automatisk ændringer til ignore-listen.
-- **Problem**: Vigtige ændringer kan blive udeladt fra deploys, hvilket kan skabe fejl eller sikkerhedsproblemer.
 
-## ⚠️ 3. Forvirring blandt teammedlemmer
-- **Forklaring**: Det er uklart, hvorfor nogle konfigurationer ikke importeres.
-- **Problem**: Tid spildes på fejlsøgning og fejlagtige rettelser.
 
----
 
-## 🛡️ Sådan afbøder du problemer
-
-- Brug kun modulet til specifikke undtagelser (fx pr. miljø-konfigurationer som sitenavn).
-- Gennemgå jævnligt listen over ignoreret konfiguration.
-- Dokumentér ændringer foretaget på live-sitet.
-- Informér teamet om hvordan og hvorfor konfiguration ignoreres.
-
----
 
