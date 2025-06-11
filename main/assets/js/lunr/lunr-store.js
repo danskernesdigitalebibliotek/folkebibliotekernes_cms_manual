@@ -95,6 +95,12 @@ var store = [{
         "url": "/main/category/delingstjenesten/",
         "teaser": null
       },{
+        "title": "Driftsforhold",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/main/category/driftsforhold/",
+        "teaser": null
+      },{
         "title": "Faste sider",
         "excerpt":"Faste sider  ","categories": [],
         "tags": [],
