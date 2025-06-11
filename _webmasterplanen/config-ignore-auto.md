@@ -2,24 +2,30 @@
 title: "Drupal-modulet: Config Ignore Auto"
 weight: 5
 ---
-Drupal-modulet **Config Ignore Auto** er som standard aktiveret i Folkebibliotekernes CMS.
+Drupal-modulet **Config Ignore Auto** er som standard aktiveret i Folkebibliotekernes CMS og kan ikke deaktiveres. Det er et modul som alle webmasterudviklere bør kende til.
 
 ## Hvad er det?
 
-**Config Ignore Auto** er et Drupal-modul, der automatiserer håndtering af konfigurationer ved at registrere og ignorere ændringer, der foretages gennem administrationsgrænsefladen i backend. Det forhindrer utilsigtet overskrivning af disse ændringer ved fremtidige opdateringer af core.
+**Config Ignore Auto** er et Drupal-modul, der opdager og registrerer alle ændringer, som du foretager gennem administrationsgrænsefladen i backend. Det kan være en oversættelse du ændrer, eller et flueben, som du sætter på en indstillingsside.  
 
-## Funktioner
+## Sådan virker det
 
 - **Automatisk sporing**  
   Når modulet er aktiveret, overvåger det ændringer foretaget gennem administrationsgrænsefladen og tilføjer dem til listen over ignorerede konfigurationer.
 
 
 - **Brugsscenarie**
-Modulet er nyttigt, når redaktører eller site-administratorer foretager ændringer, der ikke bør overskrives når core opdateres – fx ændringer i Views, blokke eller webformularer. Det reducerer behovet for koordination mellem udviklere og redaktører.
+De indstillinger, som Config Ignore Auto har tilføjet til sin liste overskrives ikke når core opdateres. Dvs. de bevarer den værdi som du har sat - også selvom standardværdien ændrer sig.
 
 
+Hvis **Config Ignore Auto** ikke var installeret ville webmasterbibliotekerne miste deres lokale konfiguration hver uge, når ders site opdateres.
 
-Selvom **Config Ignore Auto** kan være nyttigt, medfører det visse risici.
+## Hvad skal jeg være opmærksom på
+Det er let og hurtigt at ændre en indstilling via administrationsgrænsefladen men det kommer med en risiko.
+
+Hvis du har ændret en indstilling, som en core 
+Men det kommer med en risisko som men skal være opmærksom på som 
+Men det lægger også et stort ankan være nyttigt, medfører det visse risici.
 
 ## ⚠️ 1. Konfigurationsdrift
 - **Forklaring**: Ændringer på live-sitet ignoreres ved import, så live-sitet afviger gradvist fra versioneret konfiguration.
