@@ -1,6 +1,6 @@
 ---
 title: "Opdateringscyklus for sites"
-category: "Webmasterplanen"
+category: "Driftsforhold"
 weight: 2
 ---
 
