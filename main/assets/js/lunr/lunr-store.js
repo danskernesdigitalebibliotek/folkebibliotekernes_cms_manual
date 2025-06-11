@@ -1284,7 +1284,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Ofte stillede spørgsmål",
-        "excerpt":"Hvor ofte tages der backup af produktionsmiljøet? Der bliver taget backups af produktionsmiljøerne 2 gange om dagen mellem kl. 12 og 13 og kl. 00 og 01. Hvordan ser jeg hvilken version af Folkebibliotekernes CMS der er installeret på mit site? Brugere der er logget ind kan øverst oppe i...","categories": ["Webmasterplanen"],
+        "excerpt":"Hvor ofte tages der backup af produktionsmiljøet? Der bliver taget backups af produktionsmiljøerne 2 gange om dagen mellem kl. 12 og 13 og kl. 00 og 01. Hvordan ser jeg hvilken version af Folkebibliotekernes CMS der er installeret på mit site? Brugere der er logget ind kan øverst oppe i...","categories": ["Driftsforhold"],
         "tags": [],
         "url": "/main/webmasterplanen/ofte-stillede-spoergsmaal/",
         "teaser": null
