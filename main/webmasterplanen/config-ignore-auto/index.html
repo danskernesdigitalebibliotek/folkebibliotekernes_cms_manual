@@ -11,7 +11,7 @@
     <meta charset="utf-8">
 
 <!-- begin _includes/seo.html --><title>Drupal-modulet: Config Ignore Auto - Folkebibliotekernes CMS</title>
-<meta name="description" content="Drupal-modulet Config Ignore Auto er som standard aktiveret i Folkebibliotekernes CMS.">
+<meta name="description" content="Drupal-modulet Config Ignore Auto er som standard aktiveret i Folkebibliotekernes CMS og kan ikke deaktiveres. Det er et modul som alle webmasterudviklere bør kende til.">
 
 
 
@@ -22,7 +22,7 @@
 <meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/webmasterplanen/config-ignore-auto/">
 
 
-  <meta property="og:description" content="Drupal-modulet Config Ignore Auto er som standard aktiveret i Folkebibliotekernes CMS.">
+  <meta property="og:description" content="Drupal-modulet Config Ignore Auto er som standard aktiveret i Folkebibliotekernes CMS og kan ikke deaktiveres. Det er et modul som alle webmasterudviklere bør kende til.">
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2025-06-11T12:22:48+00:00">
+  <meta property="article:published_time" content="2025-06-11T12:45:26+00:00">
 
 
 
@@ -275,8 +275,8 @@
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Drupal-modulet: Config Ignore Auto">
-    <meta itemprop="description" content="Drupal-modulet Config Ignore Auto er som standard aktiveret i Folkebibliotekernes CMS.">
-    <meta itemprop="datePublished" content="2025-06-11T12:22:48+00:00">
+    <meta itemprop="description" content="Drupal-modulet Config Ignore Auto er som standard aktiveret i Folkebibliotekernes CMS og kan ikke deaktiveres. Det er et modul som alle webmasterudviklere bør kende til.">
+    <meta itemprop="datePublished" content="2025-06-11T12:45:26+00:00">
     
 
     <div class="page__inner-wrap">
@@ -307,13 +307,13 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <p>Drupal-modulet <strong>Config Ignore Auto</strong> er som standard aktiveret i Folkebibliotekernes CMS.</p>
+        <p>Drupal-modulet <strong>Config Ignore Auto</strong> er som standard aktiveret i Folkebibliotekernes CMS og kan ikke deaktiveres. Det er et modul som alle webmasterudviklere bør kende til.</p>
 
 <h2 id="hvad-er-det">Hvad er det?</h2>
 
-<p><strong>Config Ignore Auto</strong> er et Drupal-modul, der automatiserer håndtering af konfigurationer ved at registrere og ignorere ændringer, der foretages gennem administrationsgrænsefladen i backend. Det forhindrer utilsigtet overskrivning af disse ændringer ved fremtidige opdateringer af core.</p>
+<p><strong>Config Ignore Auto</strong> er et Drupal-modul, der opdager og registrerer alle ændringer, som du foretager gennem administrationsgrænsefladen i backend. Det kan være en oversættelse du ændrer, eller et flueben, som du sætter på en indstillingsside.</p>
 
-<h2 id="funktioner">Funktioner</h2>
+<h2 id="sådan-virker-det">Sådan virker det</h2>
 
 <ul>
   <li>
@@ -322,11 +322,18 @@ Når modulet er aktiveret, overvåger det ændringer foretaget gennem administra
   </li>
   <li>
     <p><strong>Brugsscenarie</strong>
-Modulet er nyttigt, når redaktører eller site-administratorer foretager ændringer, der ikke bør overskrives når core opdateres – fx ændringer i Views, blokke eller webformularer. Det reducerer behovet for koordination mellem udviklere og redaktører.</p>
+De indstillinger, som Config Ignore Auto har tilføjet til sin liste overskrives ikke når core opdateres. Dvs. de bevarer den værdi som du har sat - også selvom standardværdien ændrer sig.</p>
   </li>
 </ul>
 
-<p>Selvom <strong>Config Ignore Auto</strong> kan være nyttigt, medfører det visse risici.</p>
+<p>Hvis <strong>Config Ignore Auto</strong> ikke var installeret ville webmasterbibliotekerne miste deres lokale konfiguration hver uge, når ders site opdateres.</p>
+
+<h2 id="hvad-skal-jeg-være-opmærksom-på">Hvad skal jeg være opmærksom på</h2>
+<p>Det er let og hurtigt at ændre en indstilling via administrationsgrænsefladen men det kommer med en risiko.</p>
+
+<p>Hvis du har ændret en indstilling, som en core 
+Men det kommer med en risisko som men skal være opmærksom på som 
+Men det lægger også et stort ankan være nyttigt, medfører det visse risici.</p>
 
 <h2 id="️-1-konfigurationsdrift">⚠️ 1. Konfigurationsdrift</h2>
 <ul>
@@ -370,7 +377,7 @@ Modulet er nyttigt, når redaktører eller site-administratorer foretager ændri
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-06-11T12:22:48+00:00">June 11, 2025</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-06-11T12:45:26+00:00">June 11, 2025</time></p>
 
       </footer>
 
