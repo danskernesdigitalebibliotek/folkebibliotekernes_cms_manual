@@ -40,7 +40,7 @@ For manuel vises:
   {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/db26ff25-e5a9-4fdd-a0c4-5aa267e3df17" alt="Vælg 'GO Video Bundle Manual' " %}
 
 - For begge typer video bundles angives en ’Titel’. Dette er titlen, der vises ovenover din video bundle.
-{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/0fba6dfe-aaeb-4365-b7f5-61d64807a1ed" %}
+  {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/0fba6dfe-aaeb-4365-b7f5-61d64807a1ed" %}
 
 - Under ‘Embed video’ klikkes på ‘Add media'. Her kan du tilføje en video-URL fra VideoTool. Klik på ‘Add’ og videoen bliver tilføjet nede i Videoarkivet.  
 Fra Videoarkivet kan der nu vælges den nytilføjede video eller der kan vælges en video, som allerede er uploadet til arkivet.  
