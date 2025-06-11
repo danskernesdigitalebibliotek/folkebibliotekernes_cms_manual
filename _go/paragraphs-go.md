@@ -16,10 +16,10 @@ Paragraphs kan tilføjes både over og under allerede indsatte paragraphs
 - Gå ind på/opret den side, kategoriside eller artikel, som du ønsker at tilføje en video på. 
 
 - Klik på ‘+Add’ under ‘Paragraphs’. En visning af de tilgængelige paragraffer vises nu. Vælg ‘GO Video’ og følgende vises:  
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/86111349-565c-4b90-a62f-d38b13089784" alt="Vælg 'GO Video' " %}
+  {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/86111349-565c-4b90-a62f-d38b13089784" alt="Vælg 'GO Video' " %}
 
 - Giv din video en titel eller ‘Title’: Dette er titlen, der vises ovenover din video: 
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/f4232bc6-10ae-424e-b3d9-1d08ba907451" %}
+  {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/f4232bc6-10ae-424e-b3d9-1d08ba907451" %}
 
 - Under ‘Embed video’ klikkes på ‘Add media’. Her kan du tilføje en video-URL fra VideoTool. Klik på ‘Add’ og videoen bliver tilføjet nede i Videobiblioteket.  
 Fra Videobiblioteket kan der nu vælges den nytilføjede video eller der kan vælges en video, som allerede er uploadet til biblioteket.
@@ -34,10 +34,10 @@ Klik på ‘Indsæt det valgte’, når videoen er valgt (flueben).
 - Klik på ‘Add’ under ‘Paragraphs’. En visning af de tilgængelige paragraffer vises nu. Vælg enten ‘GO Video Bundle – Automatic’ eller ‘GO Video Bundle – Manual’ alt efter om du vil oprette en video bundle ved hjælp af en CQL-søgestreng eller manuelt tilvælge materialer.  
 
 For automatisk vises:
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/058025e0-1373-4408-b173-2a9f100210ac" alt="Vælg 'GO Video Bundle Automatic' " %}
+  {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/058025e0-1373-4408-b173-2a9f100210ac" alt="Vælg 'GO Video Bundle Automatic' " %}
 
 For manuel vises:  
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/db26ff25-e5a9-4fdd-a0c4-5aa267e3df17" alt="Vælg 'GO Video Bundle Manual' " %}
+  {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/db26ff25-e5a9-4fdd-a0c4-5aa267e3df17" alt="Vælg 'GO Video Bundle Manual' " %}
 
 - For begge typer video bundles angives en ’Titel’. Dette er titlen, der vises ovenover din video bundle.
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/0fba6dfe-aaeb-4365-b7f5-61d64807a1ed" %}
