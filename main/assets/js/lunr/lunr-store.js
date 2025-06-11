@@ -1259,10 +1259,10 @@ var store = [{
         "url": "/main/startopsaetning/udseende/",
         "teaser": null
       },{
-        "title": "Egenudvikling af moduler",
-        "excerpt":"Drupal-modulet: Config Ignore Auto Hvad er det? Config Ignore Auto er et Drupal-modul, der automatiserer håndtering af konfigurationer ved at registrere og ignorere ændringer, der foretages gennem administrationsgrænsefladen i backend. Det forhindrer utilsigtet overskrivning af disse ændringer ved fremtidige opdateringer af core. Funktioner Automatisk sporing Når modulet er aktiveret, overvåger...","categories": [],
+        "title": "Drupal-modulet: Config Ignore Auto",
+        "excerpt":"Drupal-modulet Config Ignore Auto er som standard aktiveret i Folkebibliotekernes CMS. Hvad er det? Config Ignore Auto er et Drupal-modul, der automatiserer håndtering af konfigurationer ved at registrere og ignorere ændringer, der foretages gennem administrationsgrænsefladen i backend. Det forhindrer utilsigtet overskrivning af disse ændringer ved fremtidige opdateringer af core. Funktioner...","categories": [],
         "tags": [],
-        "url": "/main/webmasterplanen/egenudvikling-af-moduler/",
+        "url": "/main/webmasterplanen/config-ignore-auto/",
         "teaser": null
       },{
         "title": "Webmasterplanen",
