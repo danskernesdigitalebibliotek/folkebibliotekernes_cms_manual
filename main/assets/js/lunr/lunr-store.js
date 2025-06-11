@@ -1296,7 +1296,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Produktions- og testmiljø",
-        "excerpt":"Webmasterbiblioteket har adgang til to selvstændige installationer af Folkebibliotekernes CMS: Et produktions- og et testmiljø. Produktionsmiljøet er den installation af hjemmesiden de primære brugere (aka lånerne) har adgang til og kan tilgås via bibliotekets domænenavn. Testmiljøet er som udgangspunkt udelukkende beregnet til internt brug og er konfigureret, så det ikke...","categories": ["Webmasterplanen"],
+        "excerpt":"Webmasterbiblioteket har adgang til to selvstændige installationer af Folkebibliotekernes CMS: Et produktions- og et testmiljø. Produktionsmiljøet er den installation af hjemmesiden de primære brugere (aka lånerne) har adgang til og kan tilgås via bibliotekets domænenavn. Testmiljøet er som udgangspunkt udelukkende beregnet til internt brug og er konfigureret, så det ikke...","categories": ["Driftsforhold"],
         "tags": [],
         "url": "/main/webmasterplanen/produktions-og-testmiljoe/",
         "teaser": null
