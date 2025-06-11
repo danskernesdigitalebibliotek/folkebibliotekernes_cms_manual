@@ -1,6 +1,6 @@
 ---
 title: "Opdatering der mislykkes"
-category: "Webmasterplanen"
+category: "Driftsforhold"
 weight: 3
 ---
 
