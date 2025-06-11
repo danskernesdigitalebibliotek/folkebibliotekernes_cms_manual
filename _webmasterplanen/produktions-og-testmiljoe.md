@@ -1,6 +1,6 @@
 ---
 title: "Produktions- og testmiljø"
-category: "Webmasterplanen"
+category: "Driftsforhold"
 weight: 1
 ---
 
