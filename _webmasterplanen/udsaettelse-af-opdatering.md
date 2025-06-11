@@ -1,6 +1,6 @@
 ---
 title: "Udsættelse af opdatering af produktionsmiljø"
-category: "Webmasterplanen"
+category: "Driftsforhold"
 weight: 3
 ---
 
