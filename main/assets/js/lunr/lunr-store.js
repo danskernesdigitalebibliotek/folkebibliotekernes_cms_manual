@@ -474,7 +474,7 @@ var store = [{
         "teaser": null
       },{
         "title": "GO",
-        "excerpt":"Denne side samler de seneste vejledninger og informationer om det nye GO. GO går fra at være et nationalt site til at få hver sin hjemmeside tilknyttet til Folkebibliotekernes eksisterende hjemmesider. Vejledninger GOs Formidlingskomponenter: Sådan opretter du nyt indhold på GO Materialer til bibliotekerne i forbindelse med lanceringen af GO:...","categories": [],
+        "excerpt":"Denne side samler de seneste vejledninger og informationer om det nye GO. GO går nu fra at være et nationalt site til at få hver sin hjemmeside tilknyttet til Folkebibliotekernes eksisterende hjemmesider. Vejledninger GOs Formidlingskomponenter: Sådan opretter du nyt indhold på GO Materialer til bibliotekerne i forbindelse med lanceringen af...","categories": [],
         "tags": [],
         "url": "/main/go/",
         "teaser": null
