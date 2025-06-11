@@ -1,6 +1,6 @@
 ---
 title: "Installation og opdatering af moduler"
-category: "Webmasterplanen"
+category: "Webmaster-funktionalitet"
 weight: 4
 ---
 
