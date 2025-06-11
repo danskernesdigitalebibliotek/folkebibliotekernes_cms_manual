@@ -1,6 +1,6 @@
 ---
 title: "Ofte stillede spørgsmål"
-category: "Webmasterplanen"
+category: "Driftsforhold"
 weight: 6
 ---
 
