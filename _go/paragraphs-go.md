@@ -18,10 +18,10 @@ Gå ind på/opret den side, kategoriside eller artikel, som du ønsker at tilfø
 Klik på ‘Add’ under ‘Paragraphs’. En visning af de tilgængelige paragraffer vises nu. Vælg ‘GO Video’ og følgende vises:  
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/86111349-565c-4b90-a62f-d38b13089784" alt="Vælg 'GO Video' " %}
 
-1. Giv din video en titel eller ‘Title’: Dette er titlen, der vises ovenover din video: 
+Giv din video en titel eller ‘Title’: Dette er titlen, der vises ovenover din video: 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/f4232bc6-10ae-424e-b3d9-1d08ba907451" %}
 
-2. Under ‘Embed video’ klikkes på ‘Add media’. Her kan du tilføje en video-URL fra VideoTool. Klik på ‘Add’ og videoen bliver tilføjet nede i Videobiblioteket.  
+Under ‘Embed video’ klikkes på ‘Add media’. Her kan du tilføje en video-URL fra VideoTool. Klik på ‘Add’ og videoen bliver tilføjet nede i Videobiblioteket.  
 Fra Videobiblioteket kan der nu vælges den nytilføjede video eller der kan vælges en video, som allerede er uploadet til biblioteket.
 Klik på ‘Indsæt det valgte’, når videoen er valgt (flueben). 
 
@@ -38,14 +38,14 @@ For automatisk vises:
 For manuel vises:  
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/db26ff25-e5a9-4fdd-a0c4-5aa267e3df17" alt="Vælg 'GO Video Bundle Manual' " %}
 
-1. For begge typer video bundles angives en ’Titel’. Dette er titlen, der vises ovenover din video bundle.
+For begge typer video bundles angives en ’Titel’. Dette er titlen, der vises ovenover din video bundle.
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/0fba6dfe-aaeb-4365-b7f5-61d64807a1ed" %}
 
-2. Under ‘Embed video’ klikkes på ‘Add media. Her kan du tilføje en video-URL fra VideoTool. Klik på ‘Add’ og videoen bliver tilføjet nede i Videoarkivet.  
+Under ‘Embed video’ klikkes på ‘Add media. Her kan du tilføje en video-URL fra VideoTool. Klik på ‘Add’ og videoen bliver tilføjet nede i Videoarkivet.  
 Fra Videoarkivet kan der nu vælges den nytilføjede video eller der kan vælges en video, som allerede er uploadet til arkivet.  
 Klik på ‘Indsæt det valgte’, når videoen er valgt (flueben). 
 
-3. For ‘Video Bundle – Automatic’ indsættes den CQL-søgestreng, som indeholder de materialer, din video bundle skal shuffle imellem.
+For ‘Video Bundle – Automatic’ indsættes den CQL-søgestreng, som indeholder de materialer, din video bundle skal shuffle imellem.
 **OBS:** Husk at afgrænse CQL-søgestrengen til kun at søge på materialer for børn af typen, ‘bog, ebog og lydbog’, da søgningen ellers vil tage resultater med, som ligger uden for GOs beholdning.  
 For at være sikker på, at sitet understøtter visning af de materialer, I lægger i automatiske karruseller (complex search), anbefaler vi derfor, at I indsætter følgende i søgestrengen:  
 and term.childrenoradults="til børn" and (term.specificmaterialtype="lydbog (online)" or term.specificmaterialtype="e-bog" or term.specificmaterialtype="podcast" or term.specificmaterialtype="bog" ) and phrase.language=dansk 
