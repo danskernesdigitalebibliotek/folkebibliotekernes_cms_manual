@@ -3,7 +3,7 @@ title: "GO"
 weight: 1
 permalink: /go/
 ---
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/80cb923a-fea3-43e0-a07f-2239c961446f" %}
+{% include figure class="ninety" image_path="https://github.com/user-attachments/assets/80cb923a-fea3-43e0-a07f-2239c961446f" %}
 
 Denne side samler de seneste vejledninger og informationer om det nye GO, som får sin egen hjemmeside tilknyttet til Folkebibliotekernes eksisterende hjemmesider.
 
