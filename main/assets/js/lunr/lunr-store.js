@@ -503,6 +503,12 @@ var store = [{
         "url": "/main/go/opret-side/",
         "teaser": null
       },{
+        "title": "Paragraph komponenterne på GO",
+        "excerpt":"De komponenter, som du bygger dit indhold op af på sider, kategorisider og artikler kaldes Paragraphs og på GO findes følgende: GO Video, GO Video Bundle – Automatic, GO Video Bundle - Manual, GO Material Slider – Automatic, GO Material Slider - Manual og GO Linkbox, Klik på ‘+ Add’...","categories": ["GO"],
+        "tags": [],
+        "url": "/main/go/paragraphs-go/",
+        "teaser": null
+      },{
         "title": "Arrangement",
         "excerpt":"Når du skal oprette et arrangement i FB CMS, skal du vælge Arrangement(er). Det gælder uanset om du vil oprette et enkeltstående arrangement eller en serie af arrangementer. Sådan opretter du et arrangement I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk) Klik på Tilføj indhold i øverste højre hjørne: Tilføj indhold Klik...","categories": ["Indholdstyper"],
         "tags": [],
