@@ -1,5 +1,5 @@
 ---
-title: "GO"
+title: "GO - Børnenes bibliotek"
 weight: 1
 permalink: /go/
 ---
