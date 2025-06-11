@@ -1,5 +1,6 @@
 ---
 title: "Drupal-modulet: Config Ignore Auto"
+category: "Webmaster-funktionalitet"
 weight: 5
 ---
 Drupal-modulet **Config Ignore Auto** er som standard aktiveret i Folkebibliotekernes CMS og kan ikke deaktiveres. Det er et nødvendigt modul, som alle webmastere bør kende til. Hvis **Config Ignore Auto** ikke var installeret, ville webmasterbibliotekerne miste deres lokale konfiguration hver uge, når ders site opdateres.
