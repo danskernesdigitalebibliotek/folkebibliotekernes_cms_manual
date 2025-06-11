@@ -15,7 +15,7 @@ Paragraphs kan tilføjes både over og under allerede indsatte paragraphs
 
 Gå ind på/opret den side, kategoriside eller artikel, som du ønsker at tilføje en video på. 
 
-Klik på ‘Add’ under ‘Paragraphs’. En visning af de tilgængelige paragraffer vises nu. Vælg ‘GO Video’ og følgende vises:  
+Klik på ‘+Add’ under ‘Paragraphs’. En visning af de tilgængelige paragraffer vises nu. Vælg ‘GO Video’ og følgende vises:  
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/86111349-565c-4b90-a62f-d38b13089784" alt="Vælg 'GO Video' " %}
 
 Giv din video en titel eller ‘Title’: Dette er titlen, der vises ovenover din video: 
