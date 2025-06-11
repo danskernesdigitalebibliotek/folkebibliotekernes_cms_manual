@@ -1,5 +1,5 @@
 ---
-title: "Drupal-modulet: Config Ignore Auto"
+title: "Drupal-modulet Config Ignore Auto"
 category: "Webmaster-funktionalitet"
 weight: 5
 ---
