@@ -1272,7 +1272,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Installation og opdatering af moduler",
-        "excerpt":"Som webmasterbibliotek har I mulighed for at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (core). Det kan være: Contrib-moduler: Gratis moduler hentet fra drupal.org, udviklet og vedligeholdt af Drupal-fællesskabet. Egenudviklede moduler: Moduler udviklet internt til jeres egne behov. Installation af moduler For at installere...","categories": ["Webmasterplanen"],
+        "excerpt":"Som webmasterbibliotek har I mulighed for at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (core). Det kan være: Contrib-moduler: Gratis moduler hentet fra drupal.org, udviklet og vedligeholdt af Drupal-fællesskabet. Egenudviklede moduler: Moduler udviklet internt til jeres egne behov. Installation af moduler For at installere...","categories": ["Webmaster-funktionalitet"],
         "tags": [],
         "url": "/main/webmasterplanen/installation-af-moduler/",
         "teaser": null
