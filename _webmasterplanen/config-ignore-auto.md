@@ -7,7 +7,7 @@ Drupal-modulet **Config Ignore Auto** er som standard aktiveret i Folkebibliotek
 
 ## Hvad er det?
 
-**Config Ignore Auto** er et Drupal-modul, der opdager og registrerer alle ændringer, som du foretager gennem administrationsgrænsefladen i backend. Det kan være en oversættelse du ændrer, eller et flueben, som du sætter på en indstillingsside.  
+**Config Ignore Auto** er et Drupal-modul, der opdager, registrerer og bevarer alle ændringer, som du foretager gennem administrationsgrænsefladen i backend. Det kan være en oversættelse du ændrer, eller et flueben, som du sætter på en indstillingsside.  
 
 ## Sådan virker det
 
