@@ -197,6 +197,12 @@ var store = [{
         "url": "/main/category/web-services/",
         "teaser": null
       },{
+        "title": "Webmaster-funktionalitet",
+        "excerpt":"","categories": [],
+        "tags": [],
+        "url": "/main/category/webmaster-funktionalitet/",
+        "teaser": null
+      },{
         "title": "Webmasterplanen",
         "excerpt":"Webmasterplanen  ","categories": [],
         "tags": [],
