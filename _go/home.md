@@ -13,6 +13,7 @@ Denne side samler de seneste vejledninger og informationer om det nye GO. GO gå
 GOs Formidlingskomponenter:
 - [Sådan opretter du nyt indhold på GO](https://www.folkebibliotekernescms.dk/main/go/opret-indhold-for-go/)
 
+
 Materialer til bibliotekerne i forbindelse med lanceringen af GO:
 - [Ny hjemmeside til børnene](https://delingstjenesten.dk/artikler/ny-hjemmeside-til-bornene-nb-husk-aendre-link-til-lokal-go-inden-i-publicerer)
 - [GO - børnenes digitale bibliotek](https://delingstjenesten.dk/artikler/go-bornenes-digitale-bibliotek-nb-husk-redigere-link-til-lokalt-go-inden-i-publicerer)
