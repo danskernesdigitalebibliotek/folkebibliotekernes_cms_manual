@@ -473,7 +473,7 @@ var store = [{
         "url": "/main/formidlingsinspiration/personalesiden/",
         "teaser": null
       },{
-        "title": "GO",
+        "title": "GO - Børnenes bibliotek",
         "excerpt":"Denne side samler de seneste vejledninger og informationer om det nye GO. GO går nu fra at være et nationalt site til at få hver sin hjemmeside tilknyttet til Folkebibliotekernes eksisterende hjemmesider. Vejledninger GOs Formidlingskomponenter: Sådan opretter du nyt indhold på GO Materialer til bibliotekerne i forbindelse med lanceringen af...","categories": [],
         "tags": [],
         "url": "/main/go/",
