@@ -1253,7 +1253,7 @@ var store = [{
         "url": "/main/webmasterplanen/egenudvikling-af-moduler/",
         "teaser": null
       },{
-        "title": "Webmasterbibliotekerne: Vejledning til webmasterhostingplanen",
+        "title": "Webmasterplanen",
         "excerpt":"Om vejledningen Vejledningen er målrettet webmasterbiblioteker og beskriver hvordan typiske arbejdsgange for et webmasterbibliotek håndteres herunder. Hvordan du håndterer installation af moduler på testsitet og produktionssitet Hvordan du håndterer opgraderinger af moduler, der i forvejen er installeret på sitet Derudover beskrives basale driftsforhold omkring de forskellige miljøer f.eks. opgraderingscyklus for...","categories": [],
         "tags": [],
         "url": "/main/webmasterplanen/",
