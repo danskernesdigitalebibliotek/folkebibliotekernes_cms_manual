@@ -1,8 +1,8 @@
 ---
-title: "Egenudvikling af moduler"
+title: "Drupal-modulet: Config Ignore Auto"
 weight: 5
 ---
-# Drupal-modulet: Config Ignore Auto
+Drupal-modulet **Config Ignore Auto** er som standard aktiveret i Folkebibliotekernes CMS.
 
 ## Hvad er det?
 
