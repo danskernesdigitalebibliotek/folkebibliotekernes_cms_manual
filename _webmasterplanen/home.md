@@ -1,5 +1,5 @@
 ---
-title: "Webmasterbibliotekerne: Vejledning til webmasterhostingplanen"
+title: "Webmasterplanen"
 permalink: /webmasterplanen/
 ---
 
