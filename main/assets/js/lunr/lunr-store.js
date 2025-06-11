@@ -1278,7 +1278,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opdatering der mislykkes",
-        "excerpt":"Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af modulet Config Ignore Auto. Det er et modul, der sikrer at lokale ændringer ikke overskrives i forbindelse med opdatering af core. Dermed bevares webmasterbibliotekets særlige backend-indstillinger ved opdatering af sitet. Ulempen ved den løsning er, at biblioteket kan komme...","categories": ["Webmasterplanen"],
+        "excerpt":"Når webmasterbiblioteker overstyrer konfigurationer via indstillinger i backend detekteres ændringerne af modulet Config Ignore Auto. Det er et modul, der sikrer at lokale ændringer ikke overskrives i forbindelse med opdatering af core. Dermed bevares webmasterbibliotekets særlige backend-indstillinger ved opdatering af sitet. Ulempen ved den løsning er, at biblioteket kan komme...","categories": ["Driftsforhold"],
         "tags": [],
         "url": "/main/webmasterplanen/mislykket-opdatering/",
         "teaser": null
