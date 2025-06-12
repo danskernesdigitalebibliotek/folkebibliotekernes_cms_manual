@@ -37,6 +37,8 @@ Det Digitale Folkebibliotek har selv evalueret hjemmesidesystemet (Folkebibliote
 
 Avanceret søgning: BIBLIOTEKSDOMÆNE.dk tilbyder mulighed for avanceret søgning. Hvis du alene anvender tastaturnavigation, er det nødvendigt at trykke tasten "space" (pt. kan tasten "enter" ikke anvendes) til at udfolde dropdown (dropdown med yderligere søgefunktion), som linker til avanceret søgning. Hvis du vil gå direkte til avanceret søgning findes funktionen under DOMÆNENAVN/advanced-search. Avanceret søgning tilbyder en række selectbokse, som giver mulighed for at indsnævre på bl.a. materialetype og fag/skønlitteratur. Disse har dog en række funktionsfejl pt., så de ikke kan anvendes i mange situationer.  
 
+Autofuldførsel: I forbindelse indtastning af søgning på BIBLIOTEKSDOMÆNE.dk, foreslår systemet ofte en række søgeforslag. Hvis man med skærmlæseren NVDA tilgår disse resultater, kan man opleve at sidens titel læses op sammen med søgeforslaget. Brugere af VoiceOver kan opleve at fokus skifter væk fra et søgeforslag, og det efterfølgende er nødvendigt at tabbe sig ind på forslaget igen. 
+  
 Knap til log-ind for skærmlæserbrugere på go.BIBLIOTEKSDOMÆNE.dk: I øjeblikket er der ingen alternativ tekst på knappen/ikonet, som aktiverer menuen med funktioner til log ind. Dvs. skærmlæserbrugere vil i øjeblikket få at vide, at der eksisterer en knap, men ikke hvad knappen er til. 
 
 Udløbstid af digitale lån på go.BIBLIOTEKSDOMÆNE.dk: Oplysninger om udløbstid af lånte digitale materialer kan i øjeblikket ikke oplæses af skærmlæsere. Skræmlæseren vil fortælle, at brugeren tilgår et værk af en bestemt forfatter, men ikke hvornår det udløber. 
@@ -55,8 +57,7 @@ Visse kombinationer af skærmlæser/browser og modal til læsning på go.BIBLIOT
 
 Ingen mulighed for at kontrollere afspilningen af animationer på go.BIBLIOTEKSDOMÆNE.dk: På sitet findes markedsføringspaneler med animationer, som gentages i et loop. Som bruger er det ikke muligt at stoppe, pause eller skjule panelerne på nuværende tidspunkt. 
 
-Autofuldførsel: I forbindelse indtastning af søgning på BIBLIOTEKSDOMÆNE.dk, foreslår systemet ofte en række søgeforslag. Hvis man med skærmlæseren NVDA tilgår disse resultater, kan man opleve at sidens titel læses op sammen med søgeforslaget. Brugere af VoiceOver kan opleve at fokus skifter væk fra et søgeforslag, og det efterfølgende er nødvendigt at tabbe sig ind på forslaget igen. 
-  
+
 
 
 
