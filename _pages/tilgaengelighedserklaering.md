@@ -55,7 +55,7 @@ Visse kombinationer af skærmlæser/browser og modal til læsning på go.BIBLIOT
 
 Ingen mulighed for at kontrollere afspilningen af animationer på go.BIBLIOTEKSDOMÆNE.dk: På sitet findes markedsføringspaneler med animationer, som gentages i et loop. Som bruger er det ikke muligt at stoppe, pause eller skjule panelerne på nuværende tidspunkt. 
 
-Autofuldførsel: I forbindelse indtastning af søgning BIBLIOTEKSDOMÆNE.dk, foreslår systemet ofte en række søgeforslag. Hvis man med skærmlæseren NVDA tilgår disse resultater, kan man opleve at sidens titel læses op sammen med søgeforslaget. Brugere af VoiceOver kan opleve at fokus skifter væk fra et søgeforslag, og det efterfølgende er nødvendigt at tabbe sig ind på forslaget igen. 
+Autofuldførsel: I forbindelse indtastning af søgning på BIBLIOTEKSDOMÆNE.dk, foreslår systemet ofte en række søgeforslag. Hvis man med skærmlæseren NVDA tilgår disse resultater, kan man opleve at sidens titel læses op sammen med søgeforslaget. Brugere af VoiceOver kan opleve at fokus skifter væk fra et søgeforslag, og det efterfølgende er nødvendigt at tabbe sig ind på forslaget igen. 
   
 
 
