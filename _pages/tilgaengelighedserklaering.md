@@ -4,7 +4,7 @@ title:  "Tilgængelighedserklæring"
 sidebar: true
 nav: "overblik"
 ---
-Sidst opdateret 25. oktober 2024
+Sidst opdateret 12. juni 2025
 
 **Hvad?**\
 Her finder du information, du skal bruge i jeres lokale tilgængelighedserklæring. Det er bl.a. oplysninger om  tilgængeligheden af Folkebibliotekernes CMS, og hvordan Det Digitale Folkebibliotek har arbejdet med tilgængelighed i løsningen.
@@ -13,17 +13,17 @@ Her finder du information, du skal bruge i jeres lokale tilgængelighedserklæri
  
 ## Til dig, der er ansvarlig for at opdatere tilgængelighedserklæringen
 
-Når I går i drift med Folkebibliotekernes CMS, skal tilgængelighedserklæringen på sitet opdateres. Det er et lovkrav, at tilgængelighedserklæringen ajourføres, når der sker ændringer på et offentligt website, som har betydning for de oplysninger, der står i tilgængelighedserklæringen. Som minimum skal den opdateres en gang om året.  [Læs mere om tilgængelighedserklæringen på digst.dk.](https://digst.dk/digital-inklusion/webtilgaengelighed/om-tilgaengelighedserklaeringen/)
+Når I går i drift med Folkebibliotekernes CMS og tilhørende subsite GO, skal tilgængelighedserklæringen på sitet opdateres. Det er et lovkrav, at tilgængelighedserklæringen ajourføres, når der sker ændringer på et offentligt website, som har betydning for de oplysninger, der står i tilgængelighedserklæringen. Som minimum skal den opdateres en gang om året.  [Læs mere om tilgængelighedserklæringen på digst.dk.](https://digst.dk/digital-inklusion/webtilgaengelighed/om-tilgaengelighedserklaeringen/)
 
-Der udvikles og releases løbende i relation til Folkebibliotekernes CMS. Både reel nyudvikling og fejlrettelser, som vedrører tilgængeligheden af løsningen. Teksten her vil blive opdateret, når der sker ændringer i hjemmesidesystemet, der har betydning for tilgængelighedserklæringen. 
+Der udvikles og releases løbende i relation til Folkebibliotekernes CMS og subsitet GO. Både reel nyudvikling og fejlrettelser, som vedrører tilgængeligheden af løsningen. Teksten her vil blive opdateret, når der sker ændringer i hjemmesidesystemet, der har betydning for tilgængelighedserklæringen. 
 
 I toppen af siden kan du se, hvornår teksten senest er opdateret. Vi vil anbefale, at du en gang om måneden i det første år efter lanceringen af jeres site, tjekker om der er ændringer til teksten og opdaterer den lokale tilgængelighedserklæring hvis nødvendigt. 
 
 ## Hvem har ansvaret for hvad? 
 
-Det Digitale Folkebibliotek har ansvaret for tilgængeligheden af design, kode og funktionalitet af kerneversionen af Folkebibliotekernes CMS. I det omfang der er områder af kerneversionen, som ikke lever op til disse krav, vil det stå i tilgængeligehedserklæringen, såfremt problemet påvirker brugerne væsentligt. Vi lister ikke samtlige tilgængelighedsproblemer, men dem, der er til størst gene for målgruppen og sværest at omgås. I det omfang det er relevant, beskrives hvordan et problem kan omgås.  
+Det Digitale Folkebibliotek har ansvaret for tilgængeligheden af design, kode og funktionalitet af kerneversionen af Folkebibliotekernes CMS og subsitet GO. I det omfang der er områder af kerneversionen, som ikke lever op til disse krav, vil det stå i tilgængeligehedserklæringen, såfremt problemet påvirker brugerne væsentligt. Vi lister ikke samtlige tilgængelighedsproblemer, men dem, der er til størst gene for målgruppen og sværest at omgås. I det omfang det er relevant, beskrives hvordan et problem kan omgås.  
 
-Som brugere af Folkebibliotekernes CMS har I selv ansvaret for at sikre tilgængeligheden af redaktionelt indhold (tekst, lyd og billeder) og lokalt installerede moduler (kun relevant for webmaster og programmørbiblioteker), som ikke er en del af kerneversionen af Folkebibliotekerne CMS. Husk også at opdatere tilgængelighedserklæringen for disse områder.
+Som brugere af Folkebibliotekernes CMS har I selv ansvaret for at sikre tilgængeligheden af redaktionelt indhold (tekst, lyd og billeder) og lokalt installerede moduler (kun relevant for webmasterbiblioteker), som ikke er en del af kerneversionen af Folkebibliotekerne CMS. Husk også at opdatere tilgængelighedserklæringen for disse områder.
 
 ## Tekst til tilgængelighedserklæringen
 
