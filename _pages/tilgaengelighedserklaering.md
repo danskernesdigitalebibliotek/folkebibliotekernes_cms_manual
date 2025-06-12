@@ -35,7 +35,7 @@ Det Digitale Folkebibliotek har selv evalueret hjemmesidesystemet (Folkebibliote
 
 ### Overholder ikke webtilgængelighedsloven
 
-Avanceret søgning: Sitet tilbyder mulighed for avanceret søgning. Hvis du alene anvender tastaturnavigation, er det nødvendigt at trykke tasten "space" (pt. kan tasten "enter" ikke anvendes) til at udfolde dropdown (dropdown med yderligere søgefunktion), som linker til avanceret søgning. Hvis du vil gå direkte til avanceret søgning findes funktionen under DOMÆNENAVN/advanced-search. Avanceret søgning tilbyder en række selectbokse, som giver mulighed for at indsnævre på bl.a. materialetype og fag/skønlitteratur. Disse har dog en række funktionsfejl pt., så de ikke kan anvendes i mange situationer.  
+Avanceret søgning: BIBLIOTEKSDOMÆNE.dk tilbyder mulighed for avanceret søgning. Hvis du alene anvender tastaturnavigation, er det nødvendigt at trykke tasten "space" (pt. kan tasten "enter" ikke anvendes) til at udfolde dropdown (dropdown med yderligere søgefunktion), som linker til avanceret søgning. Hvis du vil gå direkte til avanceret søgning findes funktionen under DOMÆNENAVN/advanced-search. Avanceret søgning tilbyder en række selectbokse, som giver mulighed for at indsnævre på bl.a. materialetype og fag/skønlitteratur. Disse har dog en række funktionsfejl pt., så de ikke kan anvendes i mange situationer.  
 
 Knap til log-ind for skærmlæserbrugere på go.BIBLIOTEKSDOMÆNE.dk: I øjeblikket er der ingen alternativ tekst på knappen/ikonet, som aktiverer menuen med funktioner til log ind. Dvs. skærmlæserbrugere vil i øjeblikket få at vide, at der eksisterer en knap, men ikke hvad knappen er til. 
 
