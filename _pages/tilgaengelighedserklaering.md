@@ -48,7 +48,7 @@ Udløbstid af digitale lån på go.BIBLIOTEKSDOMÆNE.dk: Oplysninger om udløbst
 
 Forsidekarruseller på go.BIBLIOTEKSDOMÆNE.dk: På sitet findes en række forsidekarruseller, med skiftende udvalgte digitale titler. Forsiderne skifter automatisk i karrusellerne, men det er ikke muligt at stoppe, pause eller skjule disse. 
 
-Søgefiltre på go.BIBLIOTEKSDOMÆNE.dk: Når man har foretaget en søgning på sitet, præsenteres en række søgefiltre programmeret som knapper. I øjeblikket findes der ingen oplysninger om tilstand på filterknapperne for skærmlæserbrugere. Dvs. skærmlæserbrugere får ikke præsenteret information om at et søgefilter kan slås til/fra, er aktiveret osv. Visuelt er dette vist ved at gøre knappen sort, når den er aktivt. 
+Søgefiltre på go.BIBLIOTEKSDOMÆNE.dk: Når man har foretaget en søgning på sitet, præsenteres en række søgefiltre programmeret som knapper. I øjeblikket findes der ingen oplysninger om tilstand på filterknapperne for skærmlæserbrugere. Dvs. skærmlæserbrugere får ikke præsenteret information om at et søgefilter kan slås til/fra, er aktiveret osv. 
 
 Feedback ved filtrering på go.BIBLIOTEKSDOMÆNE.dk: I øjeblikket modtager skærmlæserbrugere ingen feedback på at søgeresultatvisningen opdateres ved f.eks. valg af filtre, medmindre brugeren manuelt bevæger sig hen på den tekst, der beskriver at søgeresultatvisningen er opdateret.  
 
