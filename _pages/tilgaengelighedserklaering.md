@@ -13,9 +13,13 @@ Her finder du information, du skal bruge i jeres lokale tilgængelighedserklæri
  
 ## Til dig, der er ansvarlig for at opdatere tilgængelighedserklæringen
 
-Når I går i drift med Folkebibliotekernes CMS og det tilhørende subsite GO, skal sitets tilgængelighedserklæring opdateres. Det er et lovkrav, at tilgængelighedserklæringen ajourføres, når der sker ændringer på et offentligt website, som har betydning for de oplysninger, der står i tilgængelighedserklæringen. Som minimum skal den opdateres en gang om året.  [Læs mere om tilgængelighedserklæringen på digst.dk.](https://digst.dk/digital-inklusion/webtilgaengelighed/om-tilgaengelighedserklaeringen/)
+Når I går i drift med Folkebibliotekernes CMS og det tilhørende subsite GO, skal sitets tilgængelighedserklæring opdateres. Det er et lovkrav, at alle offentlige websites har en tilængelighedserkæring og at den ajourføres, når der sker ændringer på sitet, som har betydning for de oplysninger, der står i tilgængelighedserklæringen. Det er en lokal opgave at oprette og ajourføre tilgængelighedserklæringen for jeres installation af Folkebibliotekernes CMS og GO, men i afsnittet "Tekst til tilgængelighedserklæringen" nedenunder, finder du som udgangspunkt den nødvendige information, du skal bruge for at udfylde erklæringen. 
 
-Der udvikles og releases løbende i relation til Folkebibliotekernes CMS og subsitet GO. Både reel nyudvikling og fejlrettelser, som vedrører tilgængeligheden af løsningen. Teksten her vil blive opdateret, når der sker ændringer i hjemmesidesystemet, der har betydning for tilgængelighedserklæringen. 
+[Læs mere om tilgængelighedserklæringen på digst.dk og hvordan du publicerer en tilgængelighedserklæring.(https://digst.dk/digital-inklusion/webtilgaengelighed/om-tilgaengelighedserklaeringen/)
+
+Som minimum skal tilgængelighedserklæringen opdateres en gang om året. 
+
+Der udvikles og releases løbende i relation til Folkebibliotekernes CMS og subsitet GO. Både reel nyudvikling og fejlrettelser, som vedrører tilgængeligheden af løsningen. Afsnittet "Tekst til tilgængelighedserklæringen" nedenunder vil blive opdateret, når der sker ændringer i hjemmesidesystemet, der har betydning for tilgængelighedserklæringen. 
 
 I toppen af siden kan du se, hvornår teksten senest er opdateret. Vi vil anbefale, at du en gang om måneden i det første år efter lanceringen af GO, tjekker om der er ændringer til teksten og opdaterer den lokale tilgængelighedserklæring hvis nødvendigt. 
 
