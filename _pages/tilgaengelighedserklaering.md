@@ -39,9 +39,9 @@ Avanceret søgning: Sitet tilbyder mulighed for avanceret søgning. Hvis du alen
 
 Knap til log-ind for skærmlæserbrugere på go.BIBLIOTEKSDOMÆNE.dk: I øjeblikket er der ingen alternativ tekst på knappen/ikonet, som aktiverer menuen med funktioner til log ind. Dvs. skærmlæserbrugere vil i øjeblikket få at vide, at der eksisterer en knap, men ikke hvad knappen er til. 
 
-Udløbstid af digitale lån på go.BIBLIOTEKSDOMÆNE.dk: Oplysninger om udløbstid af lånte digitale materialer kan i øjeblikket ikke oplæses af skærmlæsere. Skræmlæseren vil fortælle at brugeren tilgår et værk af en bestemt forfatter, men ikke hvornår det udløber. 
+Udløbstid af digitale lån på go.BIBLIOTEKSDOMÆNE.dk: Oplysninger om udløbstid af lånte digitale materialer kan i øjeblikket ikke oplæses af skærmlæsere. Skræmlæseren vil fortælle, at brugeren tilgår et værk af en bestemt forfatter, men ikke hvornår det udløber. 
 
-Forsidekarruseller på go.BIBLIOTEKSDOMÆNE.dk: På sitet findes en række forsidekarruseller, som viser skiftende udvalgte digitale titler. Forsiderne skifter automatisk i karrusellerne, men det er ikke muligt at stoppe, pause eller skjule disse. 
+Forsidekarruseller på go.BIBLIOTEKSDOMÆNE.dk: På sitet findes en række forsidekarruseller, med skiftende udvalgte digitale titler. Forsiderne skifter automatisk i karrusellerne, men det er ikke muligt at stoppe, pause eller skjule disse. 
 
 Søgningfiltre på go.BIBLIOTEKSDOMÆNE.dk: Når man har foretaget en søgning på sitet, præsenteres en række søgefiltre programmeret som knapper. I øjeblikket findes der ingen oplysninger om tilstand på filterknapperne for skærmlæserbrugere. Dvs. skræmlæserbrugere får ikke præsenteret information om at et søgefilter kan slås til/fra, er aktiveret osv. Visuelt er dette vist ved at gøre knappen sort når den er aktivt og hvis når den er inaktiv. 
 
