@@ -37,6 +37,25 @@ Det Digitale Folkebibliotek har selv evalueret hjemmesidesystemet (Folkebibliote
 
 Avanceret søgning: Sitet tilbyder mulighed for avanceret søgning. Hvis du alene anvender tastaturnavigation, er det nødvendigt at trykke tasten "space" (pt. kan tasten "enter" ikke anvendes) til at udfolde dropdown (dropdown med yderligere søgefunktion), som linker til avanceret søgning. Hvis du vil gå direkte til avanceret søgning findes funktionen under DOMÆNENAVN/advanced-search. Avanceret søgning tilbyder en række selectbokse, som giver mulighed for at indsnævre på bl.a. materialetype og fag/skønlitteratur. Disse har dog en række funktionsfejl pt., så de ikke kan anvendes i mange situationer.  
 
+Knap til log-ind for skærmlæserbrugere på go.BIBLIOTEKSDOMÆNE.dk: I øjeblikket er der ingen alternativ tekst på knappen/ikonet, som aktiverer menuen med funktioner til log ind. Dvs. skærmlæserbrugere vil i øjeblikket få at vide, at der eksisterer en knap, men ikke hvad knappen er til. 
+
+Udløbstid af digitale lån på go.BIBLIOTEKSDOMÆNE.dk: Oplysninger om udløbstid af lånte digitale materialer kan i øjeblikket ikke oplæses af skærmlæsere. Skræmlæseren vil fortælle at brugeren tilgår et værk af en bestemt forfatter, men ikke hvornår det udløber. 
+
+Forsidekarruseller på go.BIBLIOTEKSDOMÆNE.dk: På sitet findes en række forsidekarruseller, som viser skiftende udvalgte digitale titler. Forsiderne skifter automatisk i karrusellerne, men det er ikke muligt at stoppe, pause eller skjule disse. 
+
+Søgningfiltre på go.BIBLIOTEKSDOMÆNE.dk: Når man har foretaget en søgning på sitet, præsenteres en række søgefiltre programmeret som knapper. I øjeblikket findes der ingen oplysninger om tilstand på filterknapperne for skærmlæserbrugere. Dvs. skræmlæserbrugere får ikke præsenteret information om at et søgefilter kan slås til/fra, er aktiveret osv. Visuelt er dette vist ved at gøre knappen sort når den er aktivt og hvis når den er inaktiv. 
+
+Feedback ved filtrering på go.BIBLIOTEKSDOMÆNE.dk: I øjeblikket modtager skærmlæserbrugere ingen feedback på at søgeresultatvisningen opdateres ved f.eks. valg af filtre, medmindre brugeren manuelt bevæger sig hen på den tekst, der beskriver at søgeresultatvisningen er opdateret.  
+
+Tastaturfokus i modal til læsning på go.BIBLIOTEKSDOMÆNE.dk: Som skærmlæser/tastaturbruger er det i øjeblikket muligt at navigere udenfor modal til læsning. Når man vælger at læse en digital titel sendes fokus ikke til læsemodalen, men bliver på sitet bag ved modalen. Skærmlæserbrugere vil derfor opleve at fokus bliver på elementer, der ikke vedkommer den interaktion, de aktuelt er igang med og seende tastaturbrugere vil opleve at fokus sendes til sted i grænsefladen, som ikke er synligt for brugeren. Bemærk at det faktisk er muligt at tabbe sig hen til læsemodalen, hvis man først tabber sig forbi elementer i det bagvedliggende site. En lignende problematik gælder for funktionerne "Indstillinger" og "Indhold" i selve modalen til læsning, hvor de to funktioner udløser modallignende menu, som ikke modtager fokus. Her kan man også tilgå indstilingerne i menuen, hvis man tabber sig igennem diverse elementer som ligger udenfor menuen. 
+
+Tastaturbrugere kan ikke anvende søgefunktion i læsemodal på go.BIBLIOTEKSDOMÆNE.dk. Som tastaturbruger kan man igangsætte en søgning, men ikke tilgå de søgeresultater der vises, da disse elementer ikke kan tilgås direkte med tastatur. 
+
+Visse kombinationer af skærmlæser/browser vil ikke fungere med modal til læsning på go.BIBLIOTEKSDOMÆNE.dk: Teksten, som beskriver formålet med knapper/funktioner i læsemodalen, vil ikke blive oplæst i visse kombinationer af skærmlæser/browser, da den i øjeblikket er kodet på en måde, der ikke understøttes bredt. Tilgår man f.eks. læsemodalen med VoiceOver og Safari (udbredt kombination af skæmlæsersoftware og browser) til diverse digitale titler på GO vil skærmlæseren ikke oplæse de forskellige tekster, der beskriver hvad knapperne bruges til. Omvendt vil teksten blive læst op hvis man f.eks. anvender VoiceOver og Chrome eller NVDA og Chrome. 
+
+Ingen mulighed for at kontrollere afspilningen af animationer på go.BIBLIOTEKSDOMÆNE.dk: På sitet findes markedsføringspaneler med animationer, som gentages i et loop. Det er ikke muligt at stoppe, pause eller skjule panelet på nuværende tidspunkt. 
+
+
 ### Søgning
 Autofuldførsel: I forbindelse indtastning af søgning, foreslår systemet ofte en række søgeforslag. Hvis man med skærmlæseren NVDA tilgår disse resultater, kan man opleve at sidens titel læses op sammen med søgeforslaget. Brugere af VoiceOver kan opleve at fokus skifter væk fra et søgeforslag, og det efterfølgende er nødvendigt at tabbe sig ind på forslaget igen. 
   
