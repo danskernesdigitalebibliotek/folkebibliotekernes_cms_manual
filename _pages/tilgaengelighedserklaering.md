@@ -27,7 +27,7 @@ I toppen af siden kan du se, hvornår teksten senest er opdateret. Vi vil anbefa
 
 Det Digitale Folkebibliotek har ansvaret for tilgængeligheden af design, kode og funktionalitet af kerneversionen af Folkebibliotekernes CMS og subsitet GO. I det omfang der er områder af kerneversionen, som ikke lever op til disse krav, vil det stå i tilgængelighedserklæringen, såfremt problemet påvirker brugerne væsentligt. Vi lister ikke samtlige tilgængelighedsproblemer, men dem, der er til størst gene for målgruppen og sværest at omgås. I det omfang det er relevant, beskrives hvordan et problem kan omgås.  
 
-Som brugere af Folkebibliotekernes CMS har I selv ansvaret for at sikre tilgængeligheden af redaktionelt indhold (tekst, lyd og billeder) og lokalt installerede moduler (kun relevant for webmasterbiblioteker), som ikke er en del af kerneversionen af Folkebibliotekerne CMS. Husk også at opdatere tilgængelighedserklæringen for disse områder.
+Som brugere af Folkebibliotekernes CMS og GO har I selv ansvaret for at sikre tilgængeligheden af det indhold i opretter (tekst, lyd og billeder) og den kode i tilføjer sitet (kun relevant for webmasterbiblioteker), som ikke er en del af kerneversionen af Folkebibliotekerne CMS. Husk også at opdatere tilgængelighedserklæringen for disse områder.
 
 ## Tekst til tilgængelighedserklæringen
 
