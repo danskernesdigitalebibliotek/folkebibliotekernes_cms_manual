@@ -13,7 +13,7 @@ Her finder du tekst, du kan kopiere ind i jeres lokale tilgængelighedserklærin
  
 ## Til dig, der er ansvarlig for at opdatere tilgængelighedserklæringen
 
-Når I går i drift med Folkebibliotekernes CMS og det tilhørende subsite GO, skal sitets tilgængelighedserklæring opdateres. Det er et lovkrav, at alle offentlige websites har en tilgængelighedserklæring og at den ajourføres, når der sker ændringer på sitet, som har betydning for de oplysninger, der står i den. Det er en lokal opgave at oprette og ajourføre tilgængelighedserklæringen for jeres installation af Folkebibliotekernes CMS og GO. I afsnittet "Tekst til tilgængelighedserklæringen" nedenunder, finder du som udgangspunkt den nødvendige information, du skal bruge for at udfylde erklæringen. 
+Når I går i drift med Folkebibliotekernes CMS og det tilhørende subsite GO, skal sitets tilgængelighedserklæring opdateres. Det er et lovkrav, at alle offentlige websites har en tilgængelighedserklæring og at den ajourføres, når der sker ændringer på sitet, som har betydning for de oplysninger, der står i den. Det er en lokal opgave at oprette og ajourføre tilgængelighedserklæringen for jeres installation af Folkebibliotekernes CMS og GO. I afsnittet "Tekst til tilgængelighedserklæringen" nedenunder, finder du som udgangspunkt den nødvendige tekst, du skal bruge for at udfylde erklæringen. 
 
 [Læs mere om tilgængelighedserklæringen på digst.dk og hvordan du publicerer en tilgængelighedserklæring med WAS-tool.](https://digst.dk/digital-inklusion/webtilgaengelighed/om-tilgaengelighedserklaeringen/)
 
