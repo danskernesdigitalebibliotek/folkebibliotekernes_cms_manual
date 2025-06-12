@@ -13,7 +13,7 @@ Her finder du information, du skal bruge i jeres lokale tilgængelighedserklæri
  
 ## Til dig, der er ansvarlig for at opdatere tilgængelighedserklæringen
 
-Når I går i drift med Folkebibliotekernes CMS og tilhørende subsite GO, skal tilgængelighedserklæringen på sitet opdateres. Det er et lovkrav, at tilgængelighedserklæringen ajourføres, når der sker ændringer på et offentligt website, som har betydning for de oplysninger, der står i tilgængelighedserklæringen. Som minimum skal den opdateres en gang om året.  [Læs mere om tilgængelighedserklæringen på digst.dk.](https://digst.dk/digital-inklusion/webtilgaengelighed/om-tilgaengelighedserklaeringen/)
+Når I går i drift med Folkebibliotekernes CMS og det tilhørende subsite GO, skal tilgængelighedserklæringen på sitet opdateres. Det er et lovkrav, at tilgængelighedserklæringen ajourføres, når der sker ændringer på et offentligt website, som har betydning for de oplysninger, der står i tilgængelighedserklæringen. Som minimum skal den opdateres en gang om året.  [Læs mere om tilgængelighedserklæringen på digst.dk.](https://digst.dk/digital-inklusion/webtilgaengelighed/om-tilgaengelighedserklaeringen/)
 
 Der udvikles og releases løbende i relation til Folkebibliotekernes CMS og subsitet GO. Både reel nyudvikling og fejlrettelser, som vedrører tilgængeligheden af løsningen. Teksten her vil blive opdateret, når der sker ændringer i hjemmesidesystemet, der har betydning for tilgængelighedserklæringen. 
 
