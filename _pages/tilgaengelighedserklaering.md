@@ -7,7 +7,7 @@ nav: "overblik"
 Sidst opdateret 12. juni 2025
 
 **Hvad?**\
-Her finder du tekst, du kan kopiere ind i jeres lokale tilgængelighedserklæring. Det er bl.a. oplysninger om  tilgængeligheden af Folkebibliotekernes CMS og subsitet GO, og hvordan Det Digitale Folkebibliotek har arbejdet med tilgængelighed i løsningen.
+Her finder du tekst, du kan kopiere ind i jeres lokale tilgængelighedserklæring. Det er bl.a. oplysninger om  tilgængeligheden af Folkebibliotekernes CMS og subsitet GO, og hvordan Det Digitale Folkebibliotek har arbejdet med tilgængelighed i løsningerne.
 {: .notice--info}
 ***
  
