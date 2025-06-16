@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## Servicevindue onsdag den 18. juni kl. 22
+Onsdag den 18. juni kl. 22 vil vi afholde et servicevindue til at opdatere konfigurationen af databasen. Opdateringen vil medføre nedetid på tværs af alle sites i 20-30 minutter.
 ## 14/5 kl. 17.50 Alle sites oppe igen
 Vi har haft et udfald på databasen, men alle sites er oppe igen.
 ## 14/5 kl. 17.30 Ustabile sider
