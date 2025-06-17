@@ -15,7 +15,7 @@ Så burde I også under fanen ’Configuration’ kunne se ’Unilogin configura
 ---
 
 I kommer nu til følgende side, hvor I skal sætte konfigurationerne op. Husk at gemme, når I har sat det op:
-{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/cfa18268-3442-4c16-97de-37ccfd7a9e56" %}
+{% include figure class="ninety" image_path="https://github.com/user-attachments/assets/cfa18268-3442-4c16-97de-37ccfd7a9e56" %}
 
 Her er oplysningerne, som I skal sætte ind:
 **Unilogin API client secret*** = 5b31715e-c2d7-4542-ae7d-99157a150910
