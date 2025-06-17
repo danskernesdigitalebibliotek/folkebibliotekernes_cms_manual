@@ -18,7 +18,7 @@ Du kommer nu til følgende side, hvor du skal sætte konfigurationerne op. Husk 
 {% include figure class="ninety" image_path="https://github.com/user-attachments/assets/cfa18268-3442-4c16-97de-37ccfd7a9e56" %}
 
 Her er oplysningerne, som du skal sætte ind:
-- **Unilogin API client secret*** = 5b31715e-c2d7-4542-ae7d-99157a150910
+- **Unilogin API client secret** = 5b31715e-c2d7-4542-ae7d-99157a150910
 - **Unilogin webservice username** = wsereolen
 - **Unilogin webservice password** = mDsbp2ha8zv2
 - **Retailer key code** = der89pot 
