@@ -77,7 +77,7 @@ For manuel vises:
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/d832b3b2-b1d2-4fa7-8c9d-c365cc76710a" alt="Vælg 'GO Material Slider Manual' " %}
 
 - For begge typer materialekarruseller angives en ’Titel’. Dette er titlen, der vises ovenover din karrusel.
-  {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/7c3cbac7-f39c-4612-930a-1815b1f36992" %}
+  {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/7c3cbac7-f39c-4612-930a-1815b1f36992" %}
 
 
 - Under ‘Embed video’ klikkes på ‘Add media'. Her kan du tilføje en video-URL fra VideoTool. Klik på ‘Add’ og videoen bliver tilføjet nede i Videoarkivet.  
