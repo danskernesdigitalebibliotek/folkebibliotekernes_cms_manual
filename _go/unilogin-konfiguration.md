@@ -4,7 +4,7 @@ category: GO
 nav_order: 7
 ---
 
-Du skal gå ind på jeres eget CMS’ backend og logge ind (du skal have enten rollen ’Administrator’ eller ’Lokaladministrator’). 
+Du skal gå ind på jeres eget CMS’ backend og logge ind (du skal have enten rollen ’Administrator’ eller ’Lokaladministrator’).
 Dernæst kopierer du følgende: */admin/config/services/unilogin-configuration* og sætter ind bag-ved url’en i jeres browser. Eksempel fra GOs demo-backend:*https://cms-demo.dpl-cms.dplplat01.dpl.reload.dk/admin/config/services/unilogin-configuration* 
 Du kan også finde det, når du er logget ind i jeres backend og ved at føre musen henover ’Indstillinger’ og ’Web-services’, og vælge ’Unilogin configuration’.
 
