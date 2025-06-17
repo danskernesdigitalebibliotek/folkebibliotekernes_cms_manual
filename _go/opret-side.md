@@ -75,9 +75,7 @@ Skabeloner er nyttige, hvis I f.eks. vil lave en artikelserie, der har et genken
   
 
 ##### Author & Date
-
-
-##### Publication Date 
+- Publication Date 
 
 Dette er selve udgivelsesdatoen og sættes automatisk til dags dato. 
 
