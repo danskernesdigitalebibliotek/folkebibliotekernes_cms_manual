@@ -1,7 +1,7 @@
 ---
 title: "Sådan opretter du indhold på GO"
 category: GO
-nav_order: 2
+weight: 2
 ---
 
 For at oprette indhold på GO skal du være logget ind i jeres backend.
