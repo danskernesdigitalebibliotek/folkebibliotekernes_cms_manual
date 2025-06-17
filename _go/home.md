@@ -11,6 +11,9 @@ Denne side samler de seneste vejledninger og informationer om det nye GO. GO gå
 ---
 
 ### Vejledninger
+Klargøring inden lancering:
+- [Konfiguration af Unilogin (OBS Opsættes uanset om Unilogin tilbydes i jeres kommune)]
+
 GOs Formidlingskomponenter:
 - [Sådan opretter du nyt indhold på GO](https://www.folkebibliotekernescms.dk/main/go/opret-indhold-for-go/)
 
