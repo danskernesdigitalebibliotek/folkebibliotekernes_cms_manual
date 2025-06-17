@@ -1,7 +1,7 @@
 ---
 title: "Paragraph komponenterne på GO"
 category: GO
-nav_order: 6
+weight: 6
 ---
 
 De komponenter, som du bygger dit indhold op af på sider, kategorisider og artikler kaldes **Paragraphs** og på GO findes følgende: GO Video, GO Video Bundle – Automatic, GO Video Bundle - Manual, GO Material Slider – Automatic, GO Material Slider - Manual og GO Linkbox, 
