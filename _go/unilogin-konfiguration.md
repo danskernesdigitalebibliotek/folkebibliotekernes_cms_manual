@@ -4,29 +4,28 @@ category: GO
 nav_order: 7
 ---
 
-I skal gå ind på jeres eget CMS’ backend og logge ind (I skal have enten rollen ’Administrator’ eller ’Lokaladministrator’). 
-Dernæst kopierer i følgende: */admin/config/services/unilogin-configuration* og sætter ind bag-ved url’en i jeres browser. Eksempel fra GOs demo-backend:*https://cms-demo.dpl-cms.dplplat01.dpl.reload.dk/admin/config/services/unilogin-configuration* 
-I kan også finde det, når I er logget ind i jeres backend og ved at føre musen henover ’Indstillinger’ og ’Web-services’, og vælge ’Unilogin configuration’.
+Du skal gå ind på jeres eget CMS’ backend og logge ind (du skal have enten rollen ’Administrator’ eller ’Lokaladministrator’). 
+Dernæst kopierer du følgende: */admin/config/services/unilogin-configuration* og sætter ind bag-ved url’en i jeres browser. Eksempel fra GOs demo-backend:*https://cms-demo.dpl-cms.dplplat01.dpl.reload.dk/admin/config/services/unilogin-configuration* 
+Du kan også finde det, når du er logget ind i jeres backend og ved at føre musen henover ’Indstillinger’ og ’Web-services’, og vælge ’Unilogin configuration’.
 
 ---
 *For Webmaster biblioteker:* 
-Hvis I ikke kan se konfigurationen i jeres backend, så skal I logge ind som ’Administrator’ og gå ind på /admin/people/permissions, filtrere på "unilogin" og give jer selv denne permission.
-Så burde I også under fanen ’Configuration’ kunne se ’Unilogin configuration’.
+Hvis du ikke kan se konfigurationen i jeres backend, så skal du logge ind som ’Administrator’ og gå ind på /admin/people/permissions, filtrere på "unilogin" og give jer selv denne permission.
+Så burde du også under fanen ’Configuration’ kunne se ’Unilogin configuration’.
 ---
 
-I kommer nu til følgende side, hvor I skal sætte konfigurationerne op. Husk at gemme, når I har sat det op:
+Du kommer nu til følgende side, hvor du skal sætte konfigurationerne op. Husk at gemme, når du har sat det op:
 {% include figure class="ninety" image_path="https://github.com/user-attachments/assets/cfa18268-3442-4c16-97de-37ccfd7a9e56" %}
 
-Her er oplysningerne, som I skal sætte ind:
+Her er oplysningerne, som du skal sætte ind:
 **Unilogin API client secret*** = 5b31715e-c2d7-4542-ae7d-99157a150910
 **Unilogin webservice username** = wsereolen
 **Unilogin webservice password** = mDsbp2ha8zv2
 **Retailer key code** = der89pot 
-**Unilogin Municipality ID = BEMÆRK**, at I her skal indsætte kommunenummeret for jeres specifikke kommune. Listen med kommunenumre findes nedenfor.
+**Unilogin Municipality ID = BEMÆRK**, at du her skal indsætte kommunenummeret for jeres specifikke kommune. Listen med kommunenumre findes nedenfor.
 
 #### Kommunekodeliste
 Find jeres kommune i listen og kopier det ind i konfigurationen:
-
 101: København  
 147: Frederiksberg  
 151: Ballerup  
