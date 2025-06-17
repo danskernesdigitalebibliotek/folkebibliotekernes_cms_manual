@@ -1,7 +1,7 @@
 ---
 title: "Sådan opretter du en Artikel på GO"
 category: GO
-nav_order: 3
+weight: 3
 ---
 Indholdstypen ‘GO Article’ gør det muligt at oprette artikler på GO, hvor der bl.a. kan formidles tekst kombineret med de andre GO paragraphs. Se mere om de forskellige Paragraphs [her](https://www.folkebibliotekernescms.dk/main/go/paragraphs-go/)
 
