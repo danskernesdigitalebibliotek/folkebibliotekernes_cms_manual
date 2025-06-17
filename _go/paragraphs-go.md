@@ -77,7 +77,7 @@ For manuel vises:
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/d832b3b2-b1d2-4fa7-8c9d-c365cc76710a" alt="Vælg 'GO Material Slider Manual' " %}
 
 - For begge typer materialekarruseller angives en ’Titel’. Dette er titlen, der vises ovenover din karrusel.
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/7c3cbac7-f39c-4612-930a-1815b1f36992" %}
+  {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/7c3cbac7-f39c-4612-930a-1815b1f36992" %}
 
 
 - Under ‘Embed video’ klikkes på ‘Add media'. Her kan du tilføje en video-URL fra VideoTool. Klik på ‘Add’ og videoen bliver tilføjet nede i Videoarkivet.  
@@ -94,7 +94,7 @@ For at være sikker på, at sitet understøtter visning af de materialer, I læg
 
   For hjælp til generering af CQL søgestrenge se følgende sider i Manualen: [CQL Søgestrenge](https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge/), [CQL Søgestrenge Eksempler](https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge-eksempler/) eller [Avanceret søgning og CQL Søgning](https://www.folkebibliotekernescms.dk/main/nye-features/avanceret-sogning/)
 
--Under ‘Amount of materials’ angives, hvor mange materialer, der skal vises i karrusellen. Der kan angives op til 100 – angives der højere end 100, vil karrusellen desværre ikke fungere.  
+- Under ‘Amount of materials’ angives, hvor mange materialer, der skal vises i karrusellen. Der kan angives op til 100 – angives der højere end 100, vil karrusellen desværre ikke fungere.  
 
 - For ‘Material Slider – Manual' fremsøges de materialer, du ønsker, at dine video bundle skal shuffle imellem. Funktionen ‘Select material type’, hvor man kan angive om det skal være e-bog, lydbog eller podcast er desværre ikke mulig at anvende i øjeblikket - i stedet vises værket med alle de tilknyttede materialetyper for titlen.
 
