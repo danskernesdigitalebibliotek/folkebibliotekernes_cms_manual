@@ -15,9 +15,9 @@ Klik på GO page:
 
 Sidens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-panel til højre. 
 
-- **Hovedindholdsfeltet** indeholder: Title og Paragraphs. 
+- **Hovedindholdsfeltet** indeholder: *Title* og *Paragraphs*. 
 
-- **Sidebar-panelet** indeholder: Logbesked, Planlægning, Entity Clone Template, Author & Date og Alternativ URL. 
+- **Sidebar-panelet** indeholder: *Logbesked*, *Planlægning*, *Entity Clone Template*, *Author & Date* og *Alternativ URL*. 
  
 
 #### Hovedindholdsfelt: 
