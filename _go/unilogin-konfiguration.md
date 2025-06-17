@@ -1,7 +1,7 @@
 ---
 title: "Konfiguration af Unilogin på nyt GO i CMS-backend"
 category: GO
-nav_order: 7
+weight: 7
 ---
 
 Du skal gå ind på jeres eget CMS’ backend og logge ind (du skal have enten rollen ’Administrator’ eller ’Lokaladministrator’).
