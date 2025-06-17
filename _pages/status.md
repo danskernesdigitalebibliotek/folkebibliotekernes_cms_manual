@@ -4,6 +4,7 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 17/6 Søgning er igen stabil på hjemmesiderne
 ## 17/6 kl. 9.30 Ustabil drift på søgning på hjemmesiderne
 Vi arbejder på en løsning.
 ## Servicevindue onsdag den 18. juni kl. 22
