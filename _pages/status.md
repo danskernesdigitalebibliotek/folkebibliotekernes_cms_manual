@@ -5,7 +5,7 @@ sidebar: true
 nav: "overblik"
 ---
 ## 17/6 Webforms: Mailudsendelse (primært ifm. kontaktformularer) virker pt. ikke
-Det er pt. ikke muligt at sende via webforms, da vi der er konstateret en klar stigning i antal requests, som har fået webformularerne til at gå ned.
+Det er pt. ikke muligt at sende via webforms, da der er konstateret en klar stigning i antal requests, som har fået webformularerne til at gå ned.
 Vi arbejder på at rette dette, og melder ud på statussitet, når de igen virker.
 ## 17/6 Søgning er igen stabil på hjemmesiderne
 Efter fejl på internettet hos DBC har der været ustabil drift på søgningen. Det er nu løst.
