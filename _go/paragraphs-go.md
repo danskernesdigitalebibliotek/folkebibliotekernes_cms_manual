@@ -101,3 +101,33 @@ For at være sikker på, at sitet understøtter visning af de materialer, I læg
 - Klik på ‘Gem’, når du har sat din(e) Materialekarrusel(ler) op.
 
 
+#### Sådan opretter du en GO Linkbox paragraph
+Gå ind på/opret den side, kategoriside eller artikel, som du ønsker at tilføje en linkboks på. 
+
+Klik på ‘Add’ under ‘Paragraphs’. En visning af de tilgængelige paragraffer vises nu. Vælg ‘GO Linkbox’ og følgende element vises:  
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/9a92e521-7192-4a4b-8455-c3f490984e36" alt="Vælg 'GO Linkbox' " %}
+
+- Under ‘Image’ klikkes på ‘Add media’. Her kan du uploade en billedfil fra din computer eller vælge et allerede tilføjet billede i billedarkivet nedenfor. Vælger du at uploade et billede, klikker du på ‘Vælg fil’ og finder det billede, du vil uploade og klikker på ‘Åbn’. Følgende bliver nu vist:
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/caafc657-22a4-4ca1-9b6f-9b91096d52e3" alt="Tilføj eller vælg et medie' " %}
+   - **Name** er obligatorisk og præudfyldt med det navn billedet havde på din computer - ønsker du, at ændre det kan du gøre det.  
+
+   - **Byline** er valgfrit, men kan bruges, hvis du ønsker kreditering og angivelse af copyright information. Bylinen vil blive placeret sammen med billedet.  
+
+   - **Alternative text** er valgfrit, men brugbart i forbindelse med øget tilgængelighed. Her kan du angive en kort beskrivelse af billedet, som skærmlæsere kan bruge og som vil fremgå, når billedet ikke indlæses.   
+
+   - **URL alias** er valgfrit, men kan bruges til at angive en alternativ sti til hvor formidlingselementet/siden kan tilgås. Angiv f.eks. “/om”, når du opretter en ‘Om-side’. 
+
+   - Klik på ‘Gem’, når du har udfyldt de relevante informationer og billedet uploades nu til arkivet, hvor det er forhåndsvalgt (flueben). Herefter klikkes der på ‘Indsæt det valgte’.
+
+- Angiv en ‘Titel’ på din Linkboks. Dette er overskriften, der vises ud for billedet på dit Linkboks-element.
+
+- Tilføj en beskrivelse af indholdet til din Linkboks.
+
+- Under ‘Link’ indsættes:
+   - selve linket (URL’en), som linkboksen skal lede til – dette link kan enten lede ud af GO-sitet eller linke ind til andre sider eller artikler* på GO-sitet.  
+
+   - en linktekst, som er obligatorisk. Denne linktekst vises på knappen for linket. 
+
+   - evt. en ‘Aria label’, som kan bruges af skærmlæsere 
+
+   - evt. en farve, som indrammer det tilføjede billede. Der kan vælges imellem 4 forskellige farver i en dropdown menu. Indsætter man ikke en farve, vil billedet være større, se eksemplerne nedenfor med og uden baggrundsfarve:
