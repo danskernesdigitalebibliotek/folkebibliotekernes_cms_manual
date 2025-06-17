@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 17/6 kl. 9.30 Ustabil drift på søgning på hjemmesiderne
+Vi arbejder på en løsning.
 ## Servicevindue onsdag den 18. juni kl. 22
 Onsdag den 18. juni kl. 22 vil vi afholde et servicevindue til at opdatere konfigurationen af databasen. Opdateringen vil medføre nedetid på tværs af alle sites i 20-30 minutter.
 ## 14/5 kl. 17.50 Alle sites oppe igen
