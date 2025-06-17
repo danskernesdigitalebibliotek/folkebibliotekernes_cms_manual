@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2025-06-16T15:01:12+00:00">
+  <meta property="article:published_time" content="2025-06-17T06:29:47+00:00">
 
 
 
@@ -224,7 +224,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Paragraph komponenterne på GO">
     <meta itemprop="description" content="De komponenter, som du bygger dit indhold op af på sider, kategorisider og artikler kaldes Paragraphs og på GO findes følgende: GO Video, GO Video Bundle – Automatic, GO Video Bundle - Manual, GO Material Slider – Automatic, GO Material Slider - Manual og GO Linkbox,">
-    <meta itemprop="datePublished" content="2025-06-16T15:01:12+00:00">
+    <meta itemprop="datePublished" content="2025-06-17T06:29:47+00:00">
     
 
     <div class="page__inner-wrap">
@@ -321,9 +321,57 @@ For at være sikker på, at sitet understøtter visning af de materialer, I læg
     <p>Under ‘Amount of materials’ angives, hvor mange materialer, der skal vises og shuffles imellem. Der kan angives op til 10.</p>
   </li>
   <li>
-    <p>For ‘Video Bundle – Manuel’ fremsøges de materialer, du ønsker, at dine video bundle skal shuffle imellem. Funktionen ‘Select material type’, hvor man kan angive om det skal være e-bog, lydbog eller podcast er desværre ikke mulig at anvende i øjeblikket - i stedet vises værket med alle de tilknyttede materialetyper for titlen.</p>
+    <p>For ‘Video Bundle – Manual’ fremsøges de materialer, du ønsker, at dine video bundle skal shuffle imellem. Funktionen ‘Select material type’, hvor man kan angive om det skal være e-bog, lydbog eller podcast er desværre ikke mulig at anvende i øjeblikket - i stedet vises værket med alle de tilknyttede materialetyper for titlen.</p>
   </li>
   <li>Klik på ‘Gem’, når du har sat din(e) video bundle(s) op.</li>
+</ul>
+
+<h4 id="sådan-opretter-du-en-go-materialekarrusel-paragraph">Sådan opretter du en GO Materialekarrusel paragraph</h4>
+
+<p>Gå ind på/opret den side, kategoriside eller artikel, som du ønsker at tilføje en Materialekarrusel på.</p>
+
+<p>Klik på ‘Add’ under ‘Paragraphs’. En visning af de tilgængelige paragraffer vises nu. Vælg enten ‘GO Material Slider – Automatic’ eller ‘GO Material Slider – Manual’ alt efter om du vil oprette en Video bundle ved hjælp af en CQL-søgestreng eller manuelt tilvælge materialer.</p>
+
+<p>For automatisk vises:</p>
+<figure class="sixty"><img src="https://github.com/user-attachments/assets/6ad4def3-c21e-459f-9d75-50f48d82809b" alt="Vælg &#39;GO Material Slider Automatic&#39; " /></figure>
+
+<p>For manuel vises:</p>
+<figure class="sixty"><img src="https://github.com/user-attachments/assets/d832b3b2-b1d2-4fa7-8c9d-c365cc76710a" alt="Vælg &#39;GO Material Slider Manual&#39; " /></figure>
+
+<ul>
+  <li>For begge typer materialekarruseller angives en ’Titel’. Dette er titlen, der vises ovenover din karrusel.</li>
+</ul>
+<figure class="sixty"><img src="https://github.com/user-attachments/assets/7c3cbac7-f39c-4612-930a-1815b1f36992" alt="" /></figure>
+
+<ul>
+  <li>
+    <p>Under ‘Embed video’ klikkes på ‘Add media’. Her kan du tilføje en video-URL fra VideoTool. Klik på ‘Add’ og videoen bliver tilføjet nede i Videoarkivet.<br />
+Fra Videoarkivet kan der nu vælges den nytilføjede video eller der kan vælges en video, som allerede er uploadet til arkivet.<br />
+Klik på ‘Indsæt det valgte’, når videoen er valgt (flueben).</p>
+  </li>
+  <li>
+    <p>For ‘Video Bundle – Automatic’ indsættes den CQL-søgestreng, som indeholder de materialer, din video bundle skal shuffle imellem.</p>
+  </li>
+  <li>
+    <p><strong>OBS:</strong> Husk at afgrænse CQL-søgestrengen til kun at søge på materialer for børn af typen, ‘bog, ebog og lydbog’, da søgningen ellers vil tage resultater med, som ligger uden for GOs beholdning.<br />
+For at være sikker på, at sitet understøtter visning af de materialer, I lægger i automatiske karruseller (complex search), anbefaler vi derfor, at I indsætter følgende i søgestrengen:<br />
+<em>and term.childrenoradults=”til børn” and (term.specificmaterialtype=”lydbog (online)” or term.specificmaterialtype=”e-bog” or term.specificmaterialtype=”podcast” or term.specificmaterialtype=”bog” ) and phrase.language=dansk</em></p>
+
+    <p>Det er selvfølgelig muligt blot at indsætte udvalgte af de “specific material types”, der er i ovenstående søgestreng (fx kun <em>term.specificmaterialtype=”bog”</em>), men det er vigtigt at benytte mindst én af de nævnte -typer for ikke risikere at søge materialer frem, som ikke er understøttet i visningen.</p>
+
+    <p>For hjælp til generering af CQL søgestrenge se følgende sider i Manualen: <a href="https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge/">CQL Søgestrenge</a>, <a href="https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge-eksempler/">CQL Søgestrenge Eksempler</a> eller <a href="https://www.folkebibliotekernescms.dk/main/nye-features/avanceret-sogning/">Avanceret søgning og CQL Søgning</a></p>
+  </li>
+</ul>
+
+<p>-Under ‘Amount of materials’ angives, hvor mange materialer, der skal vises i karrusellen. Der kan angives op til 100 – angives der højere end 100, vil karrusellen desværre ikke fungere.</p>
+
+<ul>
+  <li>
+    <p>For ‘Material Slider – Manual’ fremsøges de materialer, du ønsker, at dine video bundle skal shuffle imellem. Funktionen ‘Select material type’, hvor man kan angive om det skal være e-bog, lydbog eller podcast er desværre ikke mulig at anvende i øjeblikket - i stedet vises værket med alle de tilknyttede materialetyper for titlen.</p>
+  </li>
+  <li>
+    <p>Klik på ‘Gem’, når du har sat din(e) Materialekarrusel(ler) op.</p>
+  </li>
 </ul>
 
 
@@ -337,7 +385,7 @@ For at være sikker på, at sitet understøtter visning af de materialer, I læg
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-06-16T15:01:12+00:00">June 16, 2025</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-06-17T06:29:47+00:00">June 17, 2025</time></p>
 
       </footer>
 
