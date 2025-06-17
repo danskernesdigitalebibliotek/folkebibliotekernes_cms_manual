@@ -131,6 +131,6 @@ Klik på ‘Add’ under ‘Paragraphs’. En visning af de tilgængelige paragr
    - evt. angives en ‘Aria label’ som tilgængelig tekst, så brugere der anvender skærmlæsere kan få teksten læst op. 
 
    - evt. en farve, som indrammer det tilføjede billede. Der kan vælges imellem 4 forskellige farver i en dropdown menu. Indsætter man ikke en farve, vil billedet være større, se eksemplerne nedenfor med og uden baggrundsfarve:
-    {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/96936c20-14f6-4a43-b7bc-c24f35ab151a" alt="Linkbox med farvet baggrund' " %}
-    {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/516d17fd-f9b8-4845-8a90-7d2a6a30bb1a" alt="Linkbox uden farvet baggrund' " %}
+      {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/96936c20-14f6-4a43-b7bc-c24f35ab151a" alt="Linkbox med farvet baggrund' " %}
+      {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/516d17fd-f9b8-4845-8a90-7d2a6a30bb1a" alt="Linkbox uden farvet baggrund' " %}
 
