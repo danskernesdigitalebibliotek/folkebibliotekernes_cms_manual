@@ -1,7 +1,7 @@
 ---
 title: "Sådan opretter du en Side på GO"
 category: GO
-nav_order: 5
+weight: 5
 ---
 Indholdstypen ‘GO Page’ bruges til at oprette forsider og lignende samlende indgange til tilknyttet indhold på dit site eksempelvis en FAQ-side.
 
