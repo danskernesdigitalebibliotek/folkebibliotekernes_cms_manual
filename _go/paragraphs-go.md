@@ -58,8 +58,46 @@ For at være sikker på, at sitet understøtter visning af de materialer, I læg
 
 - Under ‘Amount of materials’ angives, hvor mange materialer, der skal vises og shuffles imellem. Der kan angives op til 10.
 
-- For ‘Video Bundle – Manuel' fremsøges de materialer, du ønsker, at dine video bundle skal shuffle imellem. Funktionen ‘Select material type’, hvor man kan angive om det skal være e-bog, lydbog eller podcast er desværre ikke mulig at anvende i øjeblikket - i stedet vises værket med alle de tilknyttede materialetyper for titlen.  
+- For ‘Video Bundle – Manual' fremsøges de materialer, du ønsker, at dine video bundle skal shuffle imellem. Funktionen ‘Select material type’, hvor man kan angive om det skal være e-bog, lydbog eller podcast er desværre ikke mulig at anvende i øjeblikket - i stedet vises værket med alle de tilknyttede materialetyper for titlen.  
  
 
 - Klik på ‘Gem’, når du har sat din(e) video bundle(s) op.
+
+
+#### Sådan opretter du en GO Materialekarrusel paragraph
+
+Gå ind på/opret den side, kategoriside eller artikel, som du ønsker at tilføje en Materialekarrusel på. 
+
+Klik på ‘Add’ under ‘Paragraphs’. En visning af de tilgængelige paragraffer vises nu. Vælg enten ‘GO Material Slider – Automatic’ eller ‘GO Material Slider – Manual’ alt efter om du vil oprette en Video bundle ved hjælp af en CQL-søgestreng eller manuelt tilvælge materialer.  
+
+For automatisk vises:
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/6ad4def3-c21e-459f-9d75-50f48d82809b" alt="Vælg 'GO Material Slider Automatic' " %}
+
+For manuel vises:
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/d832b3b2-b1d2-4fa7-8c9d-c365cc76710a" alt="Vælg 'GO Material Slider Manual' " %}
+
+- For begge typer materialekarruseller angives en ’Titel’. Dette er titlen, der vises ovenover din karrusel.
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/7c3cbac7-f39c-4612-930a-1815b1f36992" %}
+
+
+- Under ‘Embed video’ klikkes på ‘Add media'. Her kan du tilføje en video-URL fra VideoTool. Klik på ‘Add’ og videoen bliver tilføjet nede i Videoarkivet.  
+Fra Videoarkivet kan der nu vælges den nytilføjede video eller der kan vælges en video, som allerede er uploadet til arkivet.  
+Klik på ‘Indsæt det valgte’, når videoen er valgt (flueben). 
+
+- For ‘Video Bundle – Automatic’ indsættes den CQL-søgestreng, som indeholder de materialer, din video bundle skal shuffle imellem.
+
+- **OBS:** Husk at afgrænse CQL-søgestrengen til kun at søge på materialer for børn af typen, ‘bog, ebog og lydbog’, da søgningen ellers vil tage resultater med, som ligger uden for GOs beholdning.  
+For at være sikker på, at sitet understøtter visning af de materialer, I lægger i automatiske karruseller (complex search), anbefaler vi derfor, at I indsætter følgende i søgestrengen:  
+*and term.childrenoradults="til børn" and (term.specificmaterialtype="lydbog (online)" or term.specificmaterialtype="e-bog" or term.specificmaterialtype="podcast" or term.specificmaterialtype="bog" ) and phrase.language=dansk* 
+
+  Det er selvfølgelig muligt blot at indsætte udvalgte af de "specific material types", der er i ovenstående søgestreng (fx kun *term.specificmaterialtype="bog"*), men det er vigtigt at benytte mindst én af de nævnte -typer for ikke risikere at søge materialer frem, som ikke er understøttet i visningen. 
+
+  For hjælp til generering af CQL søgestrenge se følgende sider i Manualen: [CQL Søgestrenge](https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge/), [CQL Søgestrenge Eksempler](https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge-eksempler/) eller [Avanceret søgning og CQL Søgning](https://www.folkebibliotekernescms.dk/main/nye-features/avanceret-sogning/)
+
+-Under ‘Amount of materials’ angives, hvor mange materialer, der skal vises i karrusellen. Der kan angives op til 100 – angives der højere end 100, vil karrusellen desværre ikke fungere.  
+
+- For ‘Material Slider – Manual' fremsøges de materialer, du ønsker, at dine video bundle skal shuffle imellem. Funktionen ‘Select material type’, hvor man kan angive om det skal være e-bog, lydbog eller podcast er desværre ikke mulig at anvende i øjeblikket - i stedet vises værket med alle de tilknyttede materialetyper for titlen.
+
+- Klik på ‘Gem’, når du har sat din(e) Materialekarrusel(ler) op.
+
 
