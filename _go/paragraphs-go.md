@@ -134,5 +134,5 @@ Klik på ‘Add’ under ‘Paragraphs’. En visning af de tilgængelige paragr
       {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/96936c20-14f6-4a43-b7bc-c24f35ab151a" alt="Linkbox med farvet baggrund' " %}
       {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/516d17fd-f9b8-4845-8a90-7d2a6a30bb1a" alt="Linkbox uden farvet baggrund' " %}
 
-     * **OBS!** For at få vist en oprettet artikel, skal der oprettes en linkbox, som beskrevet ovenfor. Under ‘Link’ indsættes selve artiklens link, som kan fremsøges ved at indtaste artiklens titel i feltet.
+     * **OBS!** For at få vist en oprettet [artikel](https://www.folkebibliotekernescms.dk/main/go/opret-artikel/#s%C3%A5dan-opretter-du-en-artikel), skal der oprettes en linkbox, som beskrevet ovenfor. Under ‘Link’ indsættes selve artiklens link, som kan fremsøges ved at indtaste artiklens titel i feltet.
 
