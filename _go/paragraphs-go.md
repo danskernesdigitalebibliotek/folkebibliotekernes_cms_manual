@@ -108,7 +108,7 @@ Klik på ‘Add’ under ‘Paragraphs’. En visning af de tilgængelige paragr
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/9a92e521-7192-4a4b-8455-c3f490984e36" alt="Vælg 'GO Linkbox' " %}
 
 - Under ‘Image’ klikkes på ‘Add media’. Her kan du uploade en billedfil fra din computer eller vælge et allerede tilføjet billede i billedarkivet nedenfor. Vælger du at uploade et billede, klikker du på ‘Vælg fil’ og finder det billede, du vil uploade og klikker på ‘Åbn’. Følgende bliver nu vist:
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/caafc657-22a4-4ca1-9b6f-9b91096d52e3" alt="Tilføj eller vælg et medie' " %}
+  {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/caafc657-22a4-4ca1-9b6f-9b91096d52e3" alt="Tilføj eller vælg et medie' " %}
    - **Name** er obligatorisk og præudfyldt med det navn billedet havde på din computer - ønsker du, at ændre det kan du gøre det.  
 
    - **Byline** er valgfrit, men kan bruges, hvis du ønsker kreditering og angivelse af copyright information. Bylinen vil blive placeret sammen med billedet.  
@@ -128,6 +128,9 @@ Klik på ‘Add’ under ‘Paragraphs’. En visning af de tilgængelige paragr
 
    - en linktekst, som er obligatorisk. Denne linktekst vises på knappen for linket. 
 
-   - evt. en ‘Aria label’, som kan bruges af skærmlæsere 
+   - evt. angives en ‘Aria label’ som tilgængelig tekst, så brugere der anvender skærmlæsere kan få teksten læst op. 
 
    - evt. en farve, som indrammer det tilføjede billede. Der kan vælges imellem 4 forskellige farver i en dropdown menu. Indsætter man ikke en farve, vil billedet være større, se eksemplerne nedenfor med og uden baggrundsfarve:
+    {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/96936c20-14f6-4a43-b7bc-c24f35ab151a" alt="Linkbox med farvet baggrund' " %}
+    {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/516d17fd-f9b8-4845-8a90-7d2a6a30bb1a" alt="Linkbox uden farvet baggrund' " %}
+
