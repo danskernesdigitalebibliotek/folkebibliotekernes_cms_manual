@@ -522,7 +522,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Konfiguration af Unilogin på nyt GO i CMS-backend",
-        "excerpt":"I skal gå ind på jeres eget CMS’ backend og logge ind (I skal have enten rollen ’Administrator’ eller ’Lokaladministrator’). Dernæst kopierer i følgende: /admin/config/services/unilogin-configuration og sætter ind bag-ved url’en i jeres browser. Eksempel fra GOs demo-backend:https://cms-demo.dpl-cms.dplplat01.dpl.reload.dk/admin/config/services/unilogin-configuration I kan også finde det, når I er logget ind i jeres backend...","categories": ["GO"],
+        "excerpt":"Du skal gå ind på jeres eget CMS’ backend og logge ind (du skal have enten rollen ’Administrator’ eller ’Lokaladministrator’). Dernæst kopierer du følgende: /admin/config/services/unilogin-configuration og sætter ind bag-ved url’en i jeres browser. Eksempel fra GOs demo-backend:https://cms-demo.dpl-cms.dplplat01.dpl.reload.dk/admin/config/services/unilogin-configuration Du kan også finde det, når du er logget ind i jeres backend...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/unilogin-konfiguration/",
         "teaser": null
