@@ -40,7 +40,6 @@ Du kan nu opbygge din artikels indhold og udseende ved hjælp af Paragraphs-komp
 [Læs om Paragraphs-komponenterne og deres funktioner](https://www.folkebibliotekernescms.dk/main/go/paragraphs-go/)
 
 Der er følgende Paragraphs-komponenter at vælge fra: 
-
 - GO Video 
 
 - GO Video Bundle – Automatic 
@@ -72,19 +71,16 @@ Udgivelse af artiklen kan planlægges via sidebar-panelet. Der kan sættes et fr
 Her kan du vælge at gemme dit oprettede indholdselement som en skabelon, så den let kan bruges næste gang et lignende indholdselement skal oprettes. Du kan også tilføje et billede til skabelonen, så det er lettere at genkende den på listesiden over oprettede skabeloner. Klik på ‘Tillad indhold at blive defineret som en skabelon’, hvis du ønsker at oprette en skabelon. Listesiden over skabeloner findes, på ‘Tilføj indhold’-siden under ‘Opret indhold fra skabelon’, hvor du også kan redigere skabelonerne. 
 
 Skabeloner er nyttige, hvis I f.eks. vil lave en artikelserie, der har et genkendeligt “look”. [Læs mere om skabeloner](https://www.folkebibliotekernescms.dk/main/indhold/skabeloner/)  
-
   
 
 ##### Author & Date
 - Publication Date: Dette er selve udgivelsesdatoen og sættes automatisk til dags dato. 
 
- 
 
 ##### Overskriv forfatter 
 Hvis du ønsker, at artiklen skal have en anden forfatter-byline end dit navn – fx Redaktionen - kan du aktivere denne knap og indtaste en valgfri byline her.  
 
  
-
 ##### Teaser Card 
 - Teaser text og teaser image 
   Teaser-felterne bruges til visningskortene (udtræk, der fungerer som appetizers for artiklen andre steder på sitet). Hvis der ikke er valgt et teaserbillede, vises teaserteksten på farvet baggrund i kort-udtrækkene. 
@@ -95,7 +91,6 @@ Hvis du ønsker at give din artikel et andet [URL alias](https://www.folkebiblio
 **OBS!** For at få vist din artikel, skal du tilføje en linkboks enten på forsiden eller den kategoriside, du ønsker artiklen vist på, og linke til artiklen. Linket til din artikel finder du ved at anvende dit biblioteks GO-url efterfulgt af det URL alias, som står i sidepanelet under URL alias fx. www.go.esbjergbibliotek.dk/**artikel/boeger-med-blaat-ikon-kan-altid-laanes**. For at oprette en linkboks, se mere under [Sådan opretter du en linkboks](https://www.folkebibliotekernescms.dk/main/go/paragraphs-go/#s%C3%A5dan-opretter-du-en-go-linkbox-paragraph). 
 
  
-
 ##### Preview/Gem 
 Tryk **Gem** for at gemme/publicere artiklen. 
 
@@ -109,8 +104,7 @@ Gem findes i øverste højre hjørne i hovedindholdsfeltet.
 **OBS:** For at få vist en artikel på GO, skal den linkes til via paragraffen ‘Linkbox’. Se, hvordan du opretter en ‘Linkbox her.  
 
  
-
-#### Sådan redigerer du en Artikel 
+##### Sådan redigerer du en Artikel 
 Klik på ‘Indhold’ og allerede oprettet indhold vises i en liste. Ud for den artikel, du vil redigere, klikker du på ‘Rediger’. Bemærk, at indholdet kan være låst. I det tilfælde, skal man klikke på ‘Bryd lås’ før indholdet kan redigeres.  
 
 Afslut med at klikke ‘Gem’. 
