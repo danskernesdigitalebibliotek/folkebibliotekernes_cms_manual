@@ -14,7 +14,6 @@ Klik på GO Article:
 
 
 Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-panel til højre. 
-
 - **Hovedindholdsfeltet** indeholder: *Title, Subtitle* og *Paragraphs*. 
 
 - **Sidebar-panelet** indeholder: *Logbesked, Planlægning, Entity Clone Template, Author & Date, Teaser Card* og *Alternativ URL*. 
@@ -71,14 +70,14 @@ Her kan du angive en kort beskrivelse af dine ændringer.
 Udgivelse af artiklen kan planlægges via sidebar-panelet. Der kan sættes et fremtidigt publicerings-tidspunkt og/eller et fremtidigt afpublicerings-tidspunkt. 
  
 
-##### Clone Entity Template: 
+##### Clone Entity Template 
 Her kan du vælge at gemme dit oprettede indholdselement som en skabelon, så den let kan bruges næste gang et lignende indholdselement skal oprettes. Du kan også tilføje et billede til skabelonen, så det er lettere at genkende den på listesiden over oprettede skabeloner. Klik på ‘Tillad indhold at blive defineret som en skabelon’, hvis du ønsker at oprette en skabelon. Listesiden over skabeloner findes, på ‘Tilføj indhold’-siden under ‘Opret indhold fra skabelon’, hvor du også kan redigere skabelonerne. 
 
 Skabeloner er nyttige, hvis I f.eks. vil lave en artikelserie, der har et genkendeligt “look”. [Læs mere om skabeloner](https://www.folkebibliotekernescms.dk/main/indhold/skabeloner/)  
 
   
 
-##### Author & Date: 
+##### Author & Date
 - Publication Date: Dette er selve udgivelsesdatoen og sættes automatisk til dags dato. 
 
  
@@ -100,7 +99,6 @@ Hvis du ønsker at give din artikel et andet [URL alias](https://www.folkebiblio
  
 
 ##### Preview/Gem 
-
 Tryk **Gem** for at gemme/publicere artiklen. 
 
 Det er også muligt via **Preview** at vurdere artiklens slutbruger-visning inden publicering. 
@@ -115,7 +113,6 @@ Gem findes i øverste højre hjørne i hovedindholdsfeltet.
  
 
 #### Sådan redigerer du en Artikel 
-
 Klik på ‘Indhold’ og allerede oprettet indhold vises i en liste. Ud for den artikel, du vil redigere, klikker du på ‘Rediger’. Bemærk, at indholdet kan være låst. I det tilfælde, skal man klikke på ‘Bryd lås’ før indholdet kan redigeres.  
 
 Afslut med at klikke ‘Gem’. 
