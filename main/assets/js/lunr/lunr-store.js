@@ -1188,7 +1188,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2025.25.0",
-        "excerpt":"Fejlrettelser og opgradering af Drupal til 10.4. Releasedato: 19-06-2025 Redaktør: Produktionssites: 2025.25.0 Silkeborg, Albertslund og København (Go-piloter): Produktionssites: 2025.25.0 Moduletestsites: 2025.25.0 Webmaster: Produktionssites: 2025.24.1 Moduletestsites: 2025.25.0 Nye features Avanceret søgning: Sortering af søgeresultatet er nu gjort mulig ved feltsøgning og CQL-søgning efter seneste/ældste udgivelsesdato, efter alfabetisk rækkefølge og efter forfatternavn....","categories": ["Release Notes"],
+        "excerpt":"Fejlrettelser og opgradering til Drupal 10.4. Releasedato: 19-06-2025 Redaktør: Produktionssites: 2025.25.0 Silkeborg, Albertslund og København (Go-piloter): Produktionssites: 2025.25.0 Moduletestsites: 2025.25.0 Webmaster: Produktionssites: 2025.24.1 Moduletestsites: 2025.25.0 Nye features Avanceret søgning: Sortering af søgeresultatet er nu gjort mulig ved feltsøgning og CQL-søgning efter seneste/ældste udgivelsesdato, efter alfabetisk rækkefølge og efter forfatternavn. Bemærk,...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2025-25-0/",
         "teaser": null
