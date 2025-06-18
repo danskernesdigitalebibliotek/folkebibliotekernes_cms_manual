@@ -4,7 +4,7 @@ category: "Release Notes"
 weight: 333
 ---  
 
-### Fejlrettelser og opgradering af Drupal til 10.4.  
+### Fejlrettelser og opgradering til Drupal 10.4.  
 
 Releasedato: 19-06-2025
 
