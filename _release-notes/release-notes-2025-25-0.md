@@ -16,7 +16,7 @@ Releasedato: 19-06-2025
 
 ## Nye features
 - Avanceret søgning: Sortering af søgeresultatet er nu gjort mulig ved feltsøgning og CQL-søgning efter seneste/ældste udgivelsesdato, efter alfabetisk rækkefølge og efter forfatternavn. Bemærk, at sortering på udgivelsesdato sorterer efter seneste/ældste udgave, ikke seneste/ældste oprindelige udgivelsesår/workyear, som er dét, der vises i søgeresultatet.
-Vi har dog fundet en potentiel fejl i DBCs FBI-API som gør, at der mht. udgivelsesdato ikke sorteres efter rækkefølgen af de udgaver, der findes i den lokale beholdning, men efter hvad der findes i nationalbibliografien (som på Bibliotek.dk). Det betyder, at rækkefølgen af nogle værkposter i søgeresultatet vil give indtryk af, at der ikke sorteres korrekt, men det skyldes altså blot, at det enkelte bibliotek ikke har den seneste (eller ældste) af værkets udgaver i beholdning. Vi er i dialog med DBC omkring en løsning på dette, men har besluttet at rulle sortering af søgeresultatet ud med det samme, da det er en meget efterspurgt søgeforbedring.
+    Vi har dog fundet en potentiel fejl i DBCs FBI-API som gør, at der mht. udgivelsesdato ikke sorteres efter rækkefølgen af de udgaver, der findes i den lokale beholdning, men efter hvad der findes i nationalbibliografien (som på Bibliotek.dk). Det betyder, at rækkefølgen af nogle     værkposter i søgeresultatet vil give indtryk af, at der ikke sorteres korrekt, men det skyldes altså blot, at det enkelte bibliotek ikke har den seneste (eller ældste) af værkets udgaver i beholdning. Vi er i dialog med DBC omkring en løsning på dette, men har besluttet at rulle     sortering af søgeresultatet ud med det samme, da det er en meget efterspurgt søgeforbedring.
 
 
 ## Fejlrettelser og opgraderinger
