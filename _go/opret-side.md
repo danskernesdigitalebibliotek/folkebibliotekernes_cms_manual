@@ -77,16 +77,15 @@ Skabeloner er nyttige, hvis I f.eks. vil lave en artikelserie, der har et genken
 ##### Author & Date
 - Publication Date 
 
-Dette er selve udgivelsesdatoen og sættes automatisk til dags dato. 
+  Dette er selve udgivelsesdatoen og sættes automatisk til dags dato. 
+
 
  
-
 ##### Alternativ URL: 
 
-XXX 
+Hvis du ønsker at give din side et andet [URL alias](https://www.folkebibliotekernescms.dk/main/indhold/urler/#url-omd%C3%B8bning), kan du her fravælge 'Opret automatisk URL alias' og indsætte, en alternativ sti, som du i stedet ønsker, at siden skal kunne findes under. Hvis du f.eks. laver en 'Om side' kan du sætte 'URL alias' til at være '/om'
 
- 
- 
+
 
 ##### Preview/Gem 
 
@@ -98,6 +97,7 @@ Du kan gemme artiklen uden at publicere ved slukke for den grønne knap ved ‘P
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/684dcfe8-7271-4549-b5bc-ecce8c87e864" alt="Gem findes i øverste højre hjørne i hovedindholdsfeltet" %}
 
 Gem findes i øverste højre hjørne i hovedindholdsfeltet. 
+
  
 
 ##### Sådan redigerer du en Side 
