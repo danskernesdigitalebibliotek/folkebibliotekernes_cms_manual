@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 18/6 Webforms: Vi arbejder fortsat på en løsning
+Vores udvikler Reload arbejder fortsat på at finde ud af hvorfor der sendes så meget ud fra formularerne og dermed få formularerne til at virke igen. 
 ## 17/6 Webforms: Mailudsendelse (primært ifm. kontaktformularer) virker pt. ikke
 Det er pt. ikke muligt at sende via webforms, da der er konstateret en klar stigning i antal requests, som har fået webformularerne til at gå ned.
 Vi arbejder på at rette dette, og melder ud på statussitet, når de igen virker.
