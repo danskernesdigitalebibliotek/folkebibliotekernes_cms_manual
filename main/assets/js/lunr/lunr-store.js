@@ -1187,6 +1187,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-24-1/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.25.0",
+        "excerpt":"Fejlrettelser og opgradering af Drupal til 10.4. Releasedato: 19-06-2025 Redaktør: Produktionssites: 2025.25.0 Silkeborg, Albertslund og København (Go-piloter): Produktionssites: 2025.25.0 Moduletestsites: 2025.25.0 Webmaster: Produktionssites: 2025.24.1 Moduletestsites: 2025.25.0 Nye features Avanceret søgning: Sortering af søgeresultatet er nu gjort mulig ved feltsøgning og CQL-søgning efter seneste/ældste udgivelsesdato, efter alfabetisk rækkefølge og efter forfatternavn....","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-25-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
