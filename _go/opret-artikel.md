@@ -21,7 +21,6 @@ Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-pa
  
 
 #### Hovedindholdsfelt: 
-
 ##### Titel 
 Titel må ikke være tom. Det er din artikels overskrift. 
 
@@ -61,7 +60,6 @@ Der er følgende Paragraphs-komponenter at vælge fra:
  
 
 #### Sidebar-panel: 
-
 ##### Logbesked 
 Her kan du angive en kort beskrivelse af dine ændringer. 
 
@@ -87,7 +85,7 @@ Hvis du ønsker, at artiklen skal have en anden forfatter-byline end dit navn �
 
  
 
-##### Teaser Card: 
+##### Teaser Card 
 - Teaser text og teaser image 
   Teaser-felterne bruges til visningskortene (udtræk, der fungerer som appetizers for artiklen andre steder på sitet). Hvis der ikke er valgt et teaserbillede, vises teaserteksten på farvet baggrund i kort-udtrækkene. 
  
