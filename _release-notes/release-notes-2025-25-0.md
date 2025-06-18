@@ -22,6 +22,8 @@ Releasedato: 19-06-2025
 
 ## Fejlrettelser og opgraderinger
 - E-bøger og lydbøger: Knapperne ”Lån e-bog” og ”Lån lydbog (Online)” under ”Udgaver” fungerer nu igen.
+  
 - Afspiller (Læs og lyt): Nu er det også muligt at betjene afspilleren hvis man udelukkende anvender tastatur. Afspilleren lever derfor op til de krav der stilles i lov om webtilgængelighed for offentlige websites.
+
 - Drupal opgraderet til 10.4 og tilpasning så webmasterne stadig kan uploade, installere og opgradere moduler via administrativ backend efter opgraderingen. 
 
