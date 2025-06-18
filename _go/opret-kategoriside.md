@@ -77,7 +77,6 @@ Skabeloner er nyttige, hvis I f.eks. vil lave en artikelserie, der har et genken
 ##### Author & Date 
 - Publication Date: Dette er selve udgivelsesdatoen og sættes automatisk til dags dato. 
 
- 
 
 ##### Alternativ URL 
 Hvis du ønsker at give din kategoriside et andet [URL alias](https://www.folkebibliotekernescms.dk/main/indhold/urler/#url-omd%C3%B8bning), kan du her fravælge 'Opret automatisk URL alias' og indsætte, en alternativ sti, som du i stedet ønsker, at kategorisiden skal kunne findes under. Hvis du f.eks. laver en 'Mit bibliotek' kategoriside kan du sætte 'URL alias' til at være '/kategori/mitbib'
