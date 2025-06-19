@@ -1,5 +1,5 @@
 ---
-title: "Sådan opretter du indhold på GO"
+title: "Sådan synliggør du GO på dit hovedsite"
 category: GO
 weight: 8
 ---
