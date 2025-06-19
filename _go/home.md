@@ -10,7 +10,8 @@ Denne side samler de seneste vejledninger og informationer om det nye GO. GO gå
 
 
 ## OBS:
-*Den fulde lancering af GO kommer forventeligt ud i slutningen af uge 26 - det vil sige, at I allerede nu vil kunne se det indhold, som kommer til at være på GO inde i jeres hovedsites backend under 'Indhold', og GO-relaterede billeder vil også allerede ligge i jeres Mediebibliotek. Dette er ikke fejl, men en del af processen i, at få lanceret GO, som en del af jeres bibliotekstilbud. Derfor bedes I ikke fjerne GO-indholdet, da det lige om lidt er indhold, som bliver synligt på jeres nye GO-site.*
+*Den fulde lancering af GO er snart klar - det vil sige, at I allerede nu vil kunne se det indhold, som kommer til at være på GO inde i jeres hovedsites backend under 'Indhold', og GO-relaterede billeder vil også allerede ligge i jeres Mediebibliotek. Dette er ikke fejl, men en del af processen i, at få lanceret GO, som en del af jeres bibliotekstilbud. Derfor bedes I ikke fjerne GO-indholdet, da det lige om lidt er indhold, som bliver synligt på jeres nye GO-site.*
+
 ---
 
 ## Vejledninger
