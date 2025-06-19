@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 19/6 Webforms: Formularerne virker med forbehold
+Webformularerne virker igen. Vi har ikke fået det endeligt bekræftet endnu fra vores udviklere. Reload er i dialog med Microsoft om at få hævet kvoten på mailudsendelserne, men Microsoft har ikke hævet det endnu. Så det kan være at vi bliver ramt af endnu en høj stigning af mails, som får formularerne til at fejle. Så med andre ord: Vi arbejder fortsat på dette.
 ## 18/6 Webforms: Vi arbejder fortsat på en løsning
 Vores udvikler Reload arbejder fortsat på at finde ud af hvorfor der sendes så meget ud fra formularerne og dermed få formularerne til at virke igen. 
 ## 17/6 Webforms: Mailudsendelse (primært ifm. kontaktformularer) virker pt. ikke
