@@ -9,8 +9,8 @@ I disse slides kan I se eksempler på, hvordan det kan gøres:
 - [GO - eksempler på placering FB CMS.pdf](https://detdigitalefolkebibliotek.sharepoint.com/:b:/s/BibliotekernesNationaleRedaktion/EUppdEgewVRHpDMBauouPE4BWaOjQEcZUjfGuCqkwpqi5A?e=J7UiLw) 
 
 I delingstjenesten ligger to artikler, som kan bruges til at formidle GO generelt og til at formidle nyheden, at der er kommet ny hjemmeside til børnene:
-- [GO – børnenes digitale bibliotek (NB! Husk at redigere link til lokalt GO, inden I publicerer)| Bibliotekerne](https://delingstjenesten.dk/artikler/go-bornenes-digitale-bibliotek-nb-husk-redigere-link-til-lokalt-go-inden-i-publicerer)
-- [Ny hjemmeside til børnene – (NB! Husk at redigere link til lokalt GO, inden I publicerer) | Bibliotekerne](https://delingstjenesten.dk/artikler/ny-hjemmeside-til-bornene-nb-husk-redigere-link-til-lokalt-go-inden-i-publicerer) 
+- [GO – børnenes digitale bibliotek (NB! Husk at redigere link til lokalt GO, inden I publicerer)](https://delingstjenesten.dk/artikler/go-bornenes-digitale-bibliotek-nb-husk-redigere-link-til-lokalt-go-inden-i-publicerer)
+- [Ny hjemmeside til børnene – (NB! Husk at redigere link til lokalt GO, inden I publicerer)](https://delingstjenesten.dk/artikler/ny-hjemmeside-til-bornene-nb-husk-redigere-link-til-lokalt-go-inden-i-publicerer) 
 
 I denne mappe findes desuden grafik, der kan bruges til formidling af GO: 
 - [Grafik og information vedr nyt GO](https://detdigitalefolkebibliotek.sharepoint.com/:f:/s/BibliotekernesNationaleRedaktion/EmtmxoCW44RKrm_4GbEGQXkBxLVry4g_z-UkEGJPtNbrew?e=g6MpoS)
