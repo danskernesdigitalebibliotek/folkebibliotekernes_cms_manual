@@ -498,7 +498,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Sådan opretter du indhold på GO",
-        "excerpt":"For at oprette indhold på GO skal du være logget ind i jeres backend. Sådan opretter du nyt indhold Når du er logget ind i jeres CMS (Content Management System), kan du under menupunktet ‘Content’ vælge ‘Tilføj indhold’: Under ‘Tilføj indhold’ kan du enten vælge elementer fra ‘Opret indhold fra...","categories": ["GO"],
+        "excerpt":"For at oprette indhold på GO skal du være logget ind i jeres backend. OBS! Vær opmærksom på, at GO på nogle områder opfører sig anderleders end FB CMS - det er derfor vigtigt, at du læser manualen for at sikre, at jeres GO indhold vises, som forventet. Vær især...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/opret-indhold-for-go/",
         "teaser": null
