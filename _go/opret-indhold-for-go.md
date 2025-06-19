@@ -3,7 +3,7 @@ title: "Sådan opretter du indhold på GO"
 category: GO
 weight: 2
 ---
-For at oprette indhold på GO skal du være logget ind i jeres backend.
+**For at oprette indhold på GO skal du være logget ind i jeres backend.**
 
 **OBS!** Vær opmærksom på, at GO på nogle områder opfører sig anderleders end FB CMS - det er derfor vigtigt, at du læser manualen for at sikre, at jeres GO indhold vises, som forventet. Vær især opmærksom på, at indhold I selv opretter og placerer på GO-forsiden vil blive overskrevet, når Bibliotekernes Nationale Redaktion (BNR) opdaterer siden hver torsdag. Medmindre I slår abonnementet fra og vælger ikke at få indhold fra BNR. Vi anbefaler derfor i stedet, at I opretter en kategoriside fx kaldet ”Mit bibliotek”, som I opretter i jeres egen backend. Se [Sådan opretter du en kategoriside](https://www.folkebibliotekernescms.dk/main/go/opret-kategoriside/) Den kommer til at ligge oppe i toppen af siden ved siden af ”Gys”, ”venskab” osv. Katergorisider, som I selv opretter bliver ikke overskrevet, når der sendes nyt indhold ud fra BNR.
 
