@@ -521,7 +521,7 @@ var store = [{
         "url": "/main/go/paragraphs-go/",
         "teaser": null
       },{
-        "title": "Sådan opretter du indhold på GO",
+        "title": "Sådan synliggør du GO på dit hovedsite",
         "excerpt":"Vi anbefaler, at I formidler GO-sitet via jeres hovedsite – eks. bibliotek.kk.dk, så brugere kan finde GO ad den vej. Dette kan gøres på mange måder. I disse slides kan I se eksempler på, hvordan det kan gøres: GO - eksempler på placering FB CMS.pdf I delingstjenesten ligger to artikler,...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/synliggoer-go-paa-hovedsite/",
