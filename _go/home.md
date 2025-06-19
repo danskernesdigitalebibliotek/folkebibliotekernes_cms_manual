@@ -8,6 +8,9 @@ permalink: /go/
 
 Denne side samler de seneste vejledninger og informationer om det nye GO. GO går nu fra at være et nationalt site til at få hver sin hjemmeside tilknyttet til Folkebibliotekernes eksisterende hjemmesider.
 
+
+## OBS:
+*Den fulde lancering af GO kommer forventeligt ud i slutningen af uge 26 - det vil sige, at I allerede nu vil kunne se det indhol,d som kommer til at være på GO inde i jeres hovedsites backend under 'Indhold', og GO-relaterede billeder vil også allerede ligge i jeres Mediebibliotek. Dette er ikke fejl, men en del af processen i, at få lanceret GO, som en del af jeres bibliotekstilbud.*
 ---
 
 ## Vejledninger
