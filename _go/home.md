@@ -22,7 +22,7 @@ Denne side samler de seneste vejledninger og informationer om det nye GO. GO gå
 
   
 
-#### Materialer til bibliotekerne i forbindelse med lanceringen af GO:
+## Materialer til bibliotekerne i forbindelse med lanceringen af GO:
 - [Ny hjemmeside til børnene](https://delingstjenesten.dk/artikler/ny-hjemmeside-til-bornene-nb-husk-aendre-link-til-lokal-go-inden-i-publicerer)
 - [GO - børnenes digitale bibliotek](https://delingstjenesten.dk/artikler/go-bornenes-digitale-bibliotek-nb-husk-redigere-link-til-lokalt-go-inden-i-publicerer)
 - [Grafik og information vedrørende nyt GO](https://detdigitalefolkebibliotek.sharepoint.com/:f:/s/BibliotekernesNationaleRedaktion/EmtmxoCW44RKrm_4GbEGQXkBxLVry4g_z-UkEGJPtNbrew?e=oc4aSl)
