@@ -25,7 +25,9 @@ De øvrige felter skal du ikke ændre på – så klik på ‘Gem’ og abonneme
 
 - Når abonnementet er loadet ind i backenden vil en oversigt over jeres abonnementer blive vist:
   {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/c8aca8e8-d0b5-494f-9067-e93104f4676b" %}
-Og du kan gå til jeres GO-site for at se alt indholdet eksempelvis www.go.bibliotek.kk.dk
+  Her kan du redigere eller slette abonnementerne igen.
+
+  Der kan gå op til en time, fra abonnementet er oprettet til, at du kan se alt indholdet på jeres GO-site eksempelvis www.go.bibliotek.kk.dk
 
 
 
