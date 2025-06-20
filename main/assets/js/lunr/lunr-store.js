@@ -804,7 +804,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Unilogin indstillinger",
-        "excerpt":"Unilogin konfiguration kræver en bruger med rollen Administartor eller Lokaladministrator. Konfiguration skal kun udføres en gang. I topmenuen klik på Indstillinger &gt; Web-services &gt; Unilogin configuration Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/services/unilogin-configuration For Webmaster-biblioteker Hvis du får Access denied når du går ind på admin/config/services/unilogin-configuration i jeres backend, så...","categories": ["Konfiguration"],
+        "excerpt":"Unilogin konfiguration kræver en bruger med rollen Administartor eller Lokaladministrator. Konfiguration skal kun udføres en gang. Unilogin skal konfigureres uanset om det tilbydes i jeres kommune eller ej. I topmenuen klik på Indstillinger &gt; Web-services &gt; Unilogin configuration Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/services/unilogin-configuration For Webmaster-biblioteker Hvis du får...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/main/konfiguration/unilogin/",
         "teaser": null
