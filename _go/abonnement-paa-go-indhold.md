@@ -32,7 +32,7 @@ De øvrige felter skal du ikke ændre på – så klik på ‘Gem’ og abonneme
 
 
 ### Sæt automatisk opdatering af indhold fra BNR på pause 
-Ønsker du for en periode ikke at få opdateringer på forsiden og på de kategorisider, som BNR er afsender på, så kan du sætte automatiske opdateringer på pause. 
+Ønsker du for en periode ikke at få opdateringer på GO-forsiden og på de kategorisider, som BNR er afsender på, så kan du sætte automatiske opdateringer på pause. 
 
 Du skal gøre følgende for at sætte automatisk opdateringer på pause: 
 -	Klik på ’Content’ eller ’Indhold’ for at få vist listen over indhold. Find frem til den/de sider (af typen: GO page eller GO Category), som du vil pause eksempelvis for kategorisiden ’Gys’ og klik ’Edit’ eller ’Rediger’:
