@@ -485,7 +485,7 @@ var store = [{
         "url": "/main/formidlingsinspiration/personalesiden/",
         "teaser": null
       },{
-        "title": "Abonner på indhold til GO",
+        "title": "Abonnér på indhold til GO",
         "excerpt":"Jeres nye GO-site bliver født med det indhold, som Bibliotekernes Nationale Redaktion (BNR) har lavet. Det vil sige, at I automatisk får selve GO forsiden og de underliggende kategorisider ind på jeres GO site. Får du på et tidspunkt brug for at oprette abonnementet for GO igen, kan du anvende...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/abonnement-paa-go-indhold/",
