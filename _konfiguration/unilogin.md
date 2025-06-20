@@ -3,7 +3,9 @@ title: "Unilogin indstillinger"
 click-path: "Indstillinger > Web-services > Unilogin configuration"
 category: "Konfiguration"
 ---
-Unilogin konfiguration kræver en bruger med rollen *Administartor* eller *Lokaladministrator*. Konfiguration skal kun udføres en gang.
+- Unilogin konfiguration kræver en bruger med rollen *Administartor* eller *Lokaladministrator*.
+- Konfiguration skal kun udføres en gang.
+- Unilogin skal konfigureres uanset om det tilbydes i jeres kommune eller ej. 
 
 I topmenuen klik på **{{ page.click-path }}**
 
