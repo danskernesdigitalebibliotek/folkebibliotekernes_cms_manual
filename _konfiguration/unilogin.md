@@ -19,7 +19,7 @@ Herefter har du adgang til Unilogin konfiguration.
 ---
 
 Du kommer nu til følgende side, hvor du skal sætte konfigurationerne op. Husk at gemme, når du har sat det op:
-{% include figure class="ninety" image_path="https://github.com/user-attachments/assets/cfa18268-3442-4c16-97de-37ccfd7a9e56" alt="Indstillinger for UNI-login" caption="Indstillinger for UNI-LOGIN" %}
+{% include figure class="ninety" image_path="https://github.com/user-attachments/assets/cfa18268-3442-4c16-97de-37ccfd7a9e56" alt="Indstillinger for unilogin" caption="Indstillinger for unilogin" %}
 
 Her er oplysningerne, som du skal sætte ind:
 
