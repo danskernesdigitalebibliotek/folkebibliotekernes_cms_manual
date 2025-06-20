@@ -485,6 +485,12 @@ var store = [{
         "url": "/main/formidlingsinspiration/personalesiden/",
         "teaser": null
       },{
+        "title": "Abonner på indhold til GO",
+        "excerpt":"Jeres nye GO-site bliver født med det indhold, som Bibliotekernes Nationale Redaktion (BNR) har lavet. Det vil sige, at I automatisk får selve GO forsiden og de underliggende kategorisider ind på jeres GO site. Får du på et tidspunkt brug for at oprette abonnementet for GO igen, kan du anvende...","categories": ["GO"],
+        "tags": [],
+        "url": "/main/go/abonnement-paa-go-indhold/",
+        "teaser": null
+      },{
         "title": "GO - Børnenes bibliotek",
         "excerpt":"Denne side samler de seneste vejledninger og informationer om det nye GO. GO går nu fra at være et nationalt site til at få hver sin hjemmeside tilknyttet til Folkebibliotekernes eksisterende hjemmesider. OBS: Den fulde lancering af GO er snart klar - det vil sige, at I allerede nu vil...","categories": [],
         "tags": [],
