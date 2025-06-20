@@ -14,6 +14,8 @@ header:
       url: "/overblik/tilgaengelighedserklaering"
     - label: "Status på udvikling og fejlrettelser"
       url: "/overblik/status"
+    - label: "GO"
+      url: "/go/"
     - label: "Delingstjenesten"
       url: "/delingstjenesten/"
     - label: "Releases"
