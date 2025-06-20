@@ -16,7 +16,7 @@ Denne side samler de seneste vejledninger og informationer om det nye GO. GO gå
 
 ## Vejledninger
 #### Klargøring inden lancering:
-- [Konfiguration af Unilogin (OBS Opsættes uanset om Unilogin tilbydes i jeres kommune)](https://www.folkebibliotekernescms.dk/main/go/unilogin-konfiguration/)
+- [Konfiguration af Unilogin (OBS Opsættes uanset om Unilogin tilbydes i jeres kommune)](https://www.folkebibliotekernescms.dk/main/konfiguration/unilogin/)
 
 #### Synliggørelse efter lancering:
 - [Sådan synliggør du GO på dit hovedsite](https://www.folkebibliotekernescms.dk/main/go/synliggoer-go-paa-hovedsite/)
