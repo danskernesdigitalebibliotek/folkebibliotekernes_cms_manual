@@ -18,10 +18,10 @@ Får du på et tidspunkt brug for at oprette abonnementet for GO igen, kan du an
 - Herefter kommer du til siden, hvor du skal bekræfte abonnementet. Siden ser ud som følger:
   {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/002ee506-1bae-43e7-9f77-a962ad55b91f" %}
 
-**OBS!** Du skal huske at *slukke for/toggle* ’Importer kun kommende indhold’ *fra* øverst på siden, så du får hentet alt det indhold ind, som BNR har oprettet og som ligger klar til at komme ud på jeres GO side. 
+  **OBS!** Du skal huske at *slukke for/toggle* ’Importer kun kommende indhold’ *fra* øverst på siden, så du får hentet alt det indhold ind, som BNR har oprettet og som ligger klar til at komme ud på jeres GO side. 
 De øvrige felter skal du ikke ændre på – så klik på ‘Gem’ og abonnementet loades nu ind. Der kan gå op til en time før indholdet er processeret helt ud på jeres GO-site. 
 
-**Vær opmærksom på, at når du abonnerer på GOs forside og Kategorisider, så vil det indhold du evt. selv har lavet blive overskrevet på de sider, der vedligeholdes af BNR. Det gælder ikke for dine egne oprettede Kategorisider, de overskrives ikke.** 
+  **Vær opmærksom på, at når du abonnerer på GOs forside og Kategorisider, så vil det indhold du evt. selv har lavet blive overskrevet på de sider, der vedligeholdes af BNR. Det gælder ikke for dine egne oprettede Kategorisider, de overskrives ikke.** 
 
 - Når abonnementet er loadet ind i backenden vil en oversigt over jeres abonnementer blive vist:
   {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/c8aca8e8-d0b5-494f-9067-e93104f4676b" %}
