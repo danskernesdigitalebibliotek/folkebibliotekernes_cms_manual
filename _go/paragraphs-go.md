@@ -48,13 +48,13 @@ Klik på ‘Indsæt det valgte’, når videoen er valgt (flueben).
 
 - For ‘Video Bundle – Automatic’ indsættes den CQL-søgestreng, som indeholder de materialer, din video bundle skal shuffle imellem.
 
-- **OBS:** Husk at afgrænse CQL-søgestrengen til kun at søge på materialer for børn af typen, ‘bog, ebog og lydbog’, da søgningen ellers vil tage resultater med, som ligger uden for GOs beholdning.  
+  - **OBS:** Husk at afgrænse CQL-søgestrengen til kun at søge på materialer for børn af typen, ‘bog, ebog og lydbog’, da søgningen ellers vil tage resultater med, som ligger uden for GOs beholdning.  
 For at være sikker på, at sitet understøtter visning af de materialer, I lægger i automatiske karruseller (complex search), anbefaler vi derfor, at I indsætter følgende i søgestrengen:  
 *and term.childrenoradults="til børn" and (term.specificmaterialtype="lydbog (online)" or term.specificmaterialtype="e-bog" or term.specificmaterialtype="podcast" or term.specificmaterialtype="bog" ) and phrase.language=dansk* 
 
-  Det er selvfølgelig muligt blot at indsætte udvalgte af de "specific material types", der er i ovenstående søgestreng (fx kun *term.specificmaterialtype="bog"*), men det er vigtigt at benytte mindst én af de nævnte -typer for ikke risikere at søge materialer frem, som ikke er understøttet i visningen. 
+    Det er selvfølgelig muligt blot at indsætte udvalgte af de "specific material types", der er i ovenstående søgestreng (fx kun *term.specificmaterialtype="bog"*), men det er vigtigt at benytte mindst én af de nævnte -typer for ikke risikere at søge materialer frem, som ikke er understøttet i visningen. 
 
-  For hjælp til generering af CQL søgestrenge se følgende sider i Manualen: [CQL Søgestrenge](https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge/), [CQL Søgestrenge Eksempler](https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge-eksempler/) eller [Avanceret søgning og CQL Søgning](https://www.folkebibliotekernescms.dk/main/nye-features/avanceret-sogning/) 
+    For hjælp til generering af CQL søgestrenge se følgende sider i Manualen: [CQL Søgestrenge](https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge/), [CQL Søgestrenge Eksempler](https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge-eksempler/) eller [Avanceret søgning og CQL Søgning](https://www.folkebibliotekernescms.dk/main/nye-features/avanceret-sogning/) 
 
 - Under ‘Amount of materials’ angives, hvor mange materialer, der skal vises og shuffles imellem. Der kan angives op til 10.
 
@@ -80,19 +80,15 @@ For manuel vises:
   {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/7c3cbac7-f39c-4612-930a-1815b1f36992" %}
 
 
-- Under ‘Embed video’ klikkes på ‘Add media'. Her kan du tilføje en video-URL fra VideoTool. Klik på ‘Add’ og videoen bliver tilføjet nede i Videoarkivet.  
-Fra Videoarkivet kan der nu vælges den nytilføjede video eller der kan vælges en video, som allerede er uploadet til arkivet.  
-Klik på ‘Indsæt det valgte’, når videoen er valgt (flueben). 
+- For ‘Material Slider – Automatic’ indsættes den CQL-søgestreng, som indeholder de materialer, din karrusel skal indeholde. 
 
-- For ‘Video Bundle – Automatic’ indsættes den CQL-søgestreng, som indeholder de materialer, din video bundle skal shuffle imellem.
-
-- **OBS:** Husk at afgrænse CQL-søgestrengen til kun at søge på materialer for børn af typen, ‘bog, ebog og lydbog’, da søgningen ellers vil tage resultater med, som ligger uden for GOs beholdning.  
+  - **OBS:** Husk at afgrænse CQL-søgestrengen til kun at søge på materialer for børn af typen, ‘bog, ebog og lydbog’, da søgningen ellers vil tage resultater med, som ligger uden for GOs beholdning.  
 For at være sikker på, at sitet understøtter visning af de materialer, I lægger i automatiske karruseller (complex search), anbefaler vi derfor, at I indsætter følgende i søgestrengen:  
 *and term.childrenoradults="til børn" and (term.specificmaterialtype="lydbog (online)" or term.specificmaterialtype="e-bog" or term.specificmaterialtype="podcast" or term.specificmaterialtype="bog" ) and phrase.language=dansk* 
 
-  Det er selvfølgelig muligt blot at indsætte udvalgte af de "specific material types", der er i ovenstående søgestreng (fx kun *term.specificmaterialtype="bog"*), men det er vigtigt at benytte mindst én af de nævnte -typer for ikke risikere at søge materialer frem, som ikke er understøttet i visningen. 
+    Det er selvfølgelig muligt blot at indsætte udvalgte af de "specific material types", der er i ovenstående søgestreng (fx kun *term.specificmaterialtype="bog"*), men det er vigtigt at benytte mindst én af de nævnte -typer for ikke risikere at søge materialer frem, som ikke er understøttet i visningen. 
 
-  For hjælp til generering af CQL søgestrenge se følgende sider i Manualen: [CQL Søgestrenge](https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge/), [CQL Søgestrenge Eksempler](https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge-eksempler/) eller [Avanceret søgning og CQL Søgning](https://www.folkebibliotekernescms.dk/main/nye-features/avanceret-sogning/)
+    For hjælp til generering af CQL søgestrenge se følgende sider i Manualen: [CQL Søgestrenge](https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge/), [CQL Søgestrenge Eksempler](https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge-eksempler/) eller [Avanceret søgning og CQL Søgning](https://www.folkebibliotekernescms.dk/main/nye-features/avanceret-sogning/)
 
 - Under ‘Amount of materials’ angives, hvor mange materialer, der skal vises i karrusellen. Der kan angives op til 100 – angives der højere end 100, vil karrusellen desværre ikke fungere.  
 
