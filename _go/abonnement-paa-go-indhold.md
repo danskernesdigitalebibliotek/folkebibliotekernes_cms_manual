@@ -11,6 +11,8 @@ Får du på et tidspunkt brug for at oprette abonnementet for GO igen, kan du an
 ## Opsætning af abonnement fra Delingstjenesten på GO indhold
 - Log ind i jeres backend for jeres hovedsite (FB CMS)
 - Før musen henover ’Indhold’ (eller Content) og klik på ’Log ind i Delingstjenesten - du kommer nu over på delingstjenesten.dk
+  {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/18305c2c-2655-4cd3-bde5-001b1304ecf7" %}
+
 - Oppe i browserens URL skal du indsætte følgende '*search/web/tag/go-formidling-til-boern*' efter '*delingstjenesten.dk*' så det kommer til at se sådan ud: *delingstjenesten.dk/search/web/tag/go-formidling-til-boern* Nu vises alt indholdet, der er oprettet for GO af BNR. 
 - Nederst i højre hjørne vil du se en knap, hvor der står ’ABONNER PÅ ”GO: FORMIDLING TIL BØRN” PÅ DPL CMS’ – klik på knappen. 
 - Herefter kommer du til siden, hvor du skal bekræfte abonnementet. Siden ser ud som følger:
