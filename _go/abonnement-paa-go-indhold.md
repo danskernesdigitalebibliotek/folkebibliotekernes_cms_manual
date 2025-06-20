@@ -36,12 +36,12 @@ De øvrige felter skal du ikke ændre på – så klik på ‘Gem’ og abonneme
 
 Du skal gøre følgende for at sætte automatisk opdateringer på pause: 
 -	Klik på ’Content’ eller ’Indhold’ for at få vist listen over indhold. Find frem til den/de sider (af typen: GO page eller GO Category), som du vil pause eksempelvis for kategorisiden ’Gys’ og klik ’Edit’ eller ’Rediger’:
-  {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/a6d81d29-788d-4715-b66a-3818dde110e9" %}
+    {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/a6d81d29-788d-4715-b66a-3818dde110e9" %}
 
-  Du skal nu slukke for knappen ved: ’Keep updated with Delingstjenesten’, så den er grå i stedet for grøn og klikke på ’Gem’
- 	{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/7c582144-9470-4fd5-a1ad-3bdbcb1cd4fe" %}
+    Du skal nu slukke for knappen ved: ’Keep updated with Delingstjenesten’, så den er grå i stedet for grøn og klikke på ’Gem’
+  	{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/7c582144-9470-4fd5-a1ad-3bdbcb1cd4fe" %}
 
-  Ønsker du at ophæve pausen tændes der for knappen igen og der klikkes på 'Gem'. Indholdet vil nu fremover bliver opdateret igen, når BNR næste gang laver ændringer til siden.
+    Ønsker du at ophæve pausen tændes der for knappen igen og der klikkes på 'Gem'. Indholdet vil nu fremover bliver opdateret igen, når BNR næste gang laver ændringer til siden.
 
 
 
