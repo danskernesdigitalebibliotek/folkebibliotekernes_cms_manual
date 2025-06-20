@@ -10,19 +10,19 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Oversættelse af brugergrænseflade - Folkebibliotekernes CMS</title>
-<meta name="description" content="I topmenuen klik på Indstillinger &gt; Region og sprog &gt; Oversættelse af brugergrænseflade">
+<!-- begin _includes/seo.html --><title>Konfiguration af Unilogin på nyt GO i CMS-backend - Folkebibliotekernes CMS</title>
+<meta name="description" content="UNI-login konfiguration kræver en bruger med rollen Administartor eller Lokaladministrator. Konfiguration skal kun udføres en gang.">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Oversættelse af brugergrænseflade">
-<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/konfiguration/oversaettelse-af-brugergraenseflade/">
+<meta property="og:title" content="Konfiguration af Unilogin på nyt GO i CMS-backend">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/konfiguration/unilogin/">
 
 
-  <meta property="og:description" content="I topmenuen klik på Indstillinger &gt; Region og sprog &gt; Oversættelse af brugergrænseflade">
+  <meta property="og:description" content="UNI-login konfiguration kræver en bruger med rollen Administartor eller Lokaladministrator. Konfiguration skal kun udføres en gang.">
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/konfiguration/oversaettelse-af-brugergraenseflade/">
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/konfiguration/unilogin/">
 
 
 
@@ -169,7 +169,7 @@
     
       
       
-        <li class="current">Oversættelse af brugergrænseflade</li>
+        <li class="current">Konfiguration af Unilogin på nyt GO i CMS-backend</li>
       
     
   </ol>
@@ -256,7 +256,7 @@
               
             
               
-                <li><a href="/main/konfiguration/oversaettelse-af-brugergraenseflade/" class="active">Indstillinger > Region og sprog > Oversættelse af brugergrænseflade</a></li>
+                <li><a href="/main/konfiguration/oversaettelse-af-brugergraenseflade/">Indstillinger > Region og sprog > Oversættelse af brugergrænseflade</a></li>
               
             
               
@@ -272,7 +272,7 @@
               
             
               
-                <li><a href="/main/konfiguration/unilogin/">Indstillinger > Web-services > Unilogin configuration</a></li>
+                <li><a href="/main/konfiguration/unilogin/" class="active">Indstillinger > Web-services > Unilogin configuration</a></li>
               
             
               
@@ -296,8 +296,8 @@
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Oversættelse af brugergrænseflade">
-    <meta itemprop="description" content="I topmenuen klik på Indstillinger &gt; Region og sprog &gt; Oversættelse af brugergrænseflade">
+    <meta itemprop="headline" content="Konfiguration af Unilogin på nyt GO i CMS-backend">
+    <meta itemprop="description" content="UNI-login konfiguration kræver en bruger med rollen Administartor eller Lokaladministrator. Konfiguration skal kun udføres en gang.">
     <meta itemprop="datePublished" content="2025-06-20T08:55:32+00:00">
     
 
@@ -306,7 +306,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://www.folkebibliotekernescms.dk/main/konfiguration/oversaettelse-af-brugergraenseflade/" class="u-url" itemprop="url">Oversættelse af brugergrænseflade
+            <a href="https://www.folkebibliotekernescms.dk/main/konfiguration/unilogin/" class="u-url" itemprop="url">Konfiguration af Unilogin på nyt GO i CMS-backend
 </a>
           </h1>
           
@@ -314,8 +314,6 @@
 
           <p class="emneord">
   
-  
-  <a href="/main/overblik/emneord/overs%C3%A6ttelser/" class="btn btn--inverse btn--small">Oversættelser</a>
   
 </p>
 
@@ -331,25 +329,162 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <p>I topmenuen klik på <strong>Indstillinger &gt; Region og sprog &gt; Oversættelse af brugergrænseflade</strong></p>
+        <p>UNI-login konfiguration kræver en bruger med rollen <em>Administartor</em> eller <em>Lokaladministrator</em>. Konfiguration skal kun udføres en gang.</p>
+
+<p>I topmenuen klik på <strong>Indstillinger &gt; Web-services &gt; Unilogin configuration</strong></p>
 
 <p>Eller åbn via URL (udskift mit-domænenavn.dk):<br />
-<code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/admin/config/regional/translate</code></p>
+<code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/admin/config/services/unilogin-configuration</code></p>
 
-<h2 id="om-oversættelse-af-brugergrænseflade">Om oversættelse af brugergrænseflade</h2>
+<hr />
 
-<p>De fleste tekster i grænsefladen i Folkebibliotekernes CMS kan oversættes ved at bruge den indbyggede oversættelsesfunktion.</p>
+<p><strong>For Webmaster-biblioteker</strong><br />
+Hvis du får <em>Access denied</em> når du går ind på <code class="language-plaintext highlighter-rouge">admin/config/services/unilogin-configuration</code> i jeres backend, så skal du logge ind som Administrator og gå ind på <code class="language-plaintext highlighter-rouge">/admin/people/permissions</code>, filtrere på “unilogin” og give jer selv denne permission.
+Herefter har du adgang til Unilogin konfiguration.</p>
 
-<h3 id="sådan-oversætter-du">Sådan oversætter du</h3>
-<p class="notice--danger"><strong>Vigtigt</strong> Vær forsigtig med at oversætte tekststrenge som indeholder kode.</p>
+<hr />
 
-<ul>
-  <li>Fremsøg den tekststreng du ønsker at oversætte. Bemærk at du får forskellige søgeresultater afhængig af, om du skriver store eller små bogstaver i søgningen.</li>
-  <li>Ret i den danske oversættelse.</li>
-  <li>Klik på knappen “Gem oversættelser” nederst på siden.</li>
-</ul>
+<p>Du kommer nu til følgende side, hvor du skal sætte konfigurationerne op. Husk at gemme, når du har sat det op:</p>
+<figure class="ninety"><img src="https://github.com/user-attachments/assets/cfa18268-3442-4c16-97de-37ccfd7a9e56" alt="Indstillinger for UNI-login" /><figcaption>
+      Indstillinger for UNI-LOGIN
 
-<p class="notice--info"><strong>Bemærk:</strong> Lokale oversættelser bevares når Folkebibliotekernes CMS opdateres. Det er både godt og skidt. Godt fordi du kan ændre oversættelsen én gang for alle. Skidt fordi du ikke opdager det, hvis standardoversættelsen forbedres.</p>
+    </figcaption></figure>
+
+<p>Her er oplysningerne, som du skal sætte ind:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Feltnavn</th>
+      <th>Standardværdi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Unilogin API client secret</strong></td>
+      <td>5b31715e-c2d7-4542-ae7d-99157a150910</td>
+    </tr>
+    <tr>
+      <td><strong>Unilogin webservice username</strong></td>
+      <td>wsereolen</td>
+    </tr>
+    <tr>
+      <td><strong>Unilogin webservice password</strong></td>
+      <td>mDsbp2ha8zv2</td>
+    </tr>
+    <tr>
+      <td><strong>Retailer key code</strong></td>
+      <td>der89pot</td>
+    </tr>
+    <tr>
+      <td><strong>Unilogin Municipality ID</strong></td>
+      <td><strong>BEMÆRK</strong>: Indsæt kommunenummeret for jeres specifikke kommune. Listen med kommunenumre findes nedenfor</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="kommunekodeliste">Kommunekodeliste</h3>
+
+<p>Find jeres kommune i listen og kopier det ind i konfigurationen:
+101: København<br />
+147: Frederiksberg<br />
+151: Ballerup<br />
+153: Brøndby<br />
+155: Dragør<br />
+157: Gentofte<br />
+159: Gladsaxe<br />
+161: Glostrup<br />
+163: Herlev<br />
+165: Albertslund<br />
+167: Hvidovre<br />
+169: Høje-Taastrup<br />
+173: Lyngby-Taarbæk<br />
+175: Rødovre<br />
+183: Ishøj<br />
+185: Tårnby<br />
+187: Vallensbæk<br />
+190: Furesø<br />
+201: Allerød<br />
+210: Fredensborg<br />
+217: Helsingør<br />
+219: Hillerød<br />
+223: Hørsholm<br />
+230: Rudersdal<br />
+240: Egedal<br />
+250: Frederikssund<br />
+253: Greve<br />
+259: Køge<br />
+260: Halsnæs<br />
+265: Roskilde<br />
+269: Solrød<br />
+270: Gribskov<br />
+306: Odsherred<br />
+316: Holbæk<br />
+320: Faxe<br />
+326: Kalundborg<br />
+329: Ringsted<br />
+330: Slagelse<br />
+336: Stevns<br />
+340: Sorø<br />
+350: Lejre<br />
+360: Lolland<br />
+370: Næstved<br />
+376: Guldborgsund<br />
+390: Vordingborg<br />
+400: Bornholm<br />
+410: Middelfart<br />
+411: Christiansø<br />
+420: Assens<br />
+430: Faaborg-Midtfyn<br />
+440: Kerteminde<br />
+450: Nyborg<br />
+461: Odense<br />
+479: Svendborg<br />
+480: Nordfyns<br />
+482: Langeland<br />
+492: Ærø<br />
+510: Haderslev<br />
+530: Billund<br />
+540: Sønderborg<br />
+550: Tønder<br />
+561: Esbjerg<br />
+563: Fanø<br />
+573: Varde<br />
+575: Vejen<br />
+580: Aabenraa<br />
+607: Fredericia<br />
+615: Horsens<br />
+621: Kolding<br />
+630: Vejle<br />
+657: Herning<br />
+661: Holstebro<br />
+665: Lemvig<br />
+671: Struer<br />
+706: Syddjurs<br />
+707: Norddjurs<br />
+710: Favrskov<br />
+727: Odder<br />
+730: Randers<br />
+740: Silkeborg<br />
+741: Samsø<br />
+746: Skanderborg<br />
+751: Aarhus<br />
+756: Ikast-Brande<br />
+760: Ringkøbing-Skjern<br />
+766: Hedensted<br />
+773: Morsø<br />
+779: Skive<br />
+787: Thisted<br />
+791: Viborg<br />
+810: Brønderslev<br />
+813: Frederikshavn<br />
+820: Vesthimmerlands<br />
+825: Læsø<br />
+840: Rebild<br />
+846: Mariagerfjord<br />
+849: Jammerbugt<br />
+851: Aalborg<br />
+860: Hjørring</p>
 
 
         

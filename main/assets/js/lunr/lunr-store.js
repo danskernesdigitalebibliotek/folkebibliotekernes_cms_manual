@@ -803,6 +803,12 @@ var store = [{
         "url": "/main/konfiguration/udseende/",
         "teaser": null
       },{
+        "title": "Konfiguration af Unilogin på nyt GO i CMS-backend",
+        "excerpt":"UNI-login konfiguration kræver en bruger med rollen Administartor eller Lokaladministrator. Konfiguration skal kun udføres en gang. I topmenuen klik på Indstillinger &gt; Web-services &gt; Unilogin configuration Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/services/unilogin-configuration For Webmaster-biblioteker Hvis du får Access denied når du går ind på admin/config/services/unilogin-configuration i jeres backend, så...","categories": ["Konfiguration"],
+        "tags": [],
+        "url": "/main/konfiguration/unilogin/",
+        "teaser": null
+      },{
         "title": "Opsæt proxy URL'er",
         "excerpt":"Hvis du er i gang med at opsætte Folkebibliotekernes CMS for første gang, så følg startopgave 7: Fjernadgang - Proxyindstillinger I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Proxyindstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn/admin/config/services/dpl-url-proxy Om proxy URL’er Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske...","categories": ["Konfiguration"],
         "tags": [],
