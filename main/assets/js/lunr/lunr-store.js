@@ -1326,7 +1326,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Odense",
-        "excerpt":" ","categories": ["Webmaster showroom"],
+        "excerpt":"Her kommer der eksempler på funktionalitet som Odense Bibliotekerne har udviklet til deres eget website.  ","categories": ["Webmaster showroom"],
         "tags": [],
         "url": "/main/webmasterplanen/odense/",
         "teaser": null
