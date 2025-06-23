@@ -31,7 +31,7 @@ Her er oplysningerne, som du skal sætte ind:
 |**Unilogin webservice username**|wsereolen|
 |**Unilogin webservice password**|mDsbp2ha8zv2|
 |**Retailer key code**|der89pot|
-|**Unilogin Municipality ID**|**BEMÆRK**: Indsæt kommunenummeret for jeres specifikke kommune. Listen med kommunenumre findes nedenfor|
+|**Unilogin Municipality ID**|**BEMÆRK**: Indsæt det trecifrede kommunenummer, der er specifik for jeres kommune. Listen med kommunenumre findes nedenfor|
 
 
 ### Kommunekodeliste
