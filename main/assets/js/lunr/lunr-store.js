@@ -1319,6 +1319,12 @@ var store = [{
         "url": "/main/webmasterplanen/mislykket-opdatering/",
         "teaser": null
       },{
+        "title": "Odense",
+        "excerpt":" ","categories": ["Webmaster showroom"],
+        "tags": [],
+        "url": "/main/webmasterplanen/odense/",
+        "teaser": null
+      },{
         "title": "Ofte stillede spørgsmål",
         "excerpt":"Hvor ofte tages der backup af produktionsmiljøet? Der bliver taget backups af produktionsmiljøerne 2 gange om dagen mellem kl. 12 og 13 og kl. 00 og 01. Hvordan ser jeg hvilken version af Folkebibliotekernes CMS der er installeret på mit site? Brugere der er logget ind kan øverst oppe i...","categories": ["Driftsforhold"],
         "tags": [],
