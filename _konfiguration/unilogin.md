@@ -37,6 +37,7 @@ Her er oplysningerne, som du skal sætte ind:
 ### Kommunekodeliste
 
 Find jeres kommune i listen og kopier det ind i konfigurationen:
+
 101: København  
 147: Frederiksberg  
 151: Ballerup  
