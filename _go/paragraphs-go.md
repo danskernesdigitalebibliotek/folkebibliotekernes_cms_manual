@@ -60,7 +60,9 @@ For at være sikker på, at sitet understøtter visning af de materialer, I læg
 
 - Under ‘Amount of materials’ angives, hvor mange materialer, der skal vises og shuffles imellem. Der kan angives op til 10.
 
-- For ‘Video Bundle – Manual' fremsøges de materialer, du ønsker, at dine video bundle skal shuffle imellem. Funktionen ‘Select material type’, hvor man kan angive om det skal være e-bog, lydbog eller podcast er desværre ikke mulig at anvende i øjeblikket - i stedet vises værket med alle de tilknyttede materialetyper for titlen.  
+- For ‘Video Bundle – Manual' fremsøges de materialer, du ønsker, at dine video bundle skal shuffle imellem.
+  - **OBS:** Husk først at lave en søgning på de materialer, du ønsker at tilføje til din 'Video Bundle Manual' i GOs frontend, for at sikre dig, at materialet kan vises på GO. De materialetyper der er understøttet og kan vises på nuværende tidspunkt er: e-bog, lydbog, podcast og fysiske bøger.  
+  - Funktionen ‘Select material type’, hvor man kan angive om det skal være e-bog, lydbog eller podcast er desværre ikke mulig at anvende i øjeblikket - i stedet vises værket med alle de tilknyttede materialetyper for titlen.  
  
 
 - Klik på ‘Gem’, når du har sat din(e) video bundle(s) op.
@@ -94,7 +96,9 @@ For at være sikker på, at sitet understøtter visning af de materialer, I læg
 
 - Under ‘Amount of materials’ angives, hvor mange materialer, der skal vises i karrusellen. Der kan angives op til 100 – angives der højere end 100, vil karrusellen desværre ikke fungere.  
 
-- For ‘Material Slider – Manual' fremsøges de materialer, du ønsker, at dine video bundle skal shuffle imellem. Funktionen ‘Select material type’, hvor man kan angive om det skal være e-bog, lydbog eller podcast er desværre ikke mulig at anvende i øjeblikket - i stedet vises værket med alle de tilknyttede materialetyper for titlen.
+- For ‘Material Slider – Manual' fremsøges de materialer, du ønsker, at dine video bundle skal shuffle imellem.
+  - **OBS:** Husk først at lave en søgning på de materialer, du ønsker at tilføje til din 'Materialekarrusel Manual' i GOs frontend, for at sikre dig, at materialet kan vises på GO. De materialetyper der er understøttet og kan vises på nuværende tidspunkt er: e-bog, lydbog, podcast og fysiske bøger. 
+  - Funktionen ‘Select material type’, hvor man kan angive om det skal være e-bog, lydbog eller podcast er desværre ikke mulig at anvende i øjeblikket - i stedet vises værket med alle de tilknyttede materialetyper for titlen.
 
 - Klik på ‘Gem’, når du har sat din(e) Materialekarrusel(ler) op.
 
