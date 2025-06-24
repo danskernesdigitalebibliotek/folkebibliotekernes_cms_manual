@@ -4,7 +4,7 @@ category: GO
 weight: 9
 ---
 
-Jeres nye GO-site bliver født med det indhold, som Bibliotekernes Nationale Redaktion (BNR) har lavet. Det vil sige, at I automatisk får selve GO forsiden og de underliggende kategorisider ind på jeres GO site. 
+Vær opmærksom på, at jeres nye GO-site bliver født med det indhold, som Bibliotekernes Nationale Redaktion (BNR) har lavet. Det vil sige, at I allerede abonnerer på GO og automatisk får selve GO forsiden og de underliggende kategorisider ind på jeres GO site, når siden går live.  
 
 Får du på et tidspunkt brug for at oprette abonnementet for GO igen, kan du anvende vejledningen nedenfor.
 
