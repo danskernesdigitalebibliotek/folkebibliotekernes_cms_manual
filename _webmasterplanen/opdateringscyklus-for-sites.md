@@ -14,6 +14,9 @@ Opdateringen af produktions- og testmiljøer for webmasterbiblioteker sker efter
 ## Opgradering af testmiljø
 **Torsdag: Testmiljøet synkroniseres indholdsmæssigt med produktionssitet og opdateres hver torsdag med nyeste release af Folkebibliotekernes CMS.**
 
+Fra uge 34 2025 skiftes der til 2 ugers release cyklus. Der releases i lige uger fra uge 34.
+{: .notice} 
+
 Dvs. at produktionsmiljøet opgraderes til den version som biblioteket har haft til test på sit modultestsite ugen inden.
 
 [Tekniske detaljer vedr. opgradering og synkronisering af testmiljøet](https://www.folkebibliotekernescms.dk/main/webmasterplanen/produktions-og-testmiljoe/#opgradering-og-synkronisering-af-testmilj%C3%B8)
