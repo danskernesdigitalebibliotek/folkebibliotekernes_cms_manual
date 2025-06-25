@@ -4,7 +4,7 @@ title:  "Tilgængelighedserklæring"
 sidebar: true
 nav: "overblik"
 ---
-Sidst opdateret 12. juni 2025
+Sidst opdateret 25. juni 2025
 
 **Hvad?**\
 Her finder du tekst, du kan kopiere ind i jeres lokale tilgængelighedserklæring. Det er bl.a. oplysninger om  tilgængeligheden af Folkebibliotekernes CMS og subsitet GO, og hvordan Det Digitale Folkebibliotek har arbejdet med tilgængelighed i løsningerne.
@@ -44,9 +44,6 @@ Det Digitale Folkebibliotek har selv evalueret hjemmesidesystemet (Folkebibliote
 
 Avanceret søgning: BIBLIOTEKSDOMÆNE.dk tilbyder mulighed for avanceret søgning. Hvis du alene anvender tastaturnavigation, er det nødvendigt at trykke tasten “space” (pt. kan tasten “enter” ikke anvendes) til at udfolde dropdown (dropdown med yderligere søgefunktion), som linker til avanceret søgning. Hvis du vil gå direkte til avanceret søgning, findes funktionen under DOMÆNENAVN/advanced-search. Avanceret søgning tilbyder en række selectbokse, som giver mulighed for at indsnævre på bl.a. materialetype og fag/skønlitteratur. Disse har dog en række funktionsfejl pt., så de ikke kan anvendes i mange situationer.
 
-Autofuldførsel: I forbindelse med indtastning af søgning på BIBLIOTEKSDOMÆNE.dk foreslår systemet ofte en række søgeforslag. Hvis man med skærmlæseren NVDA tilgår disse resultater, kan man opleve, at sidens titel læses op sammen med søgeforslaget. Brugere af VoiceOver kan opleve, at fokus skifter væk fra et søgeforslag, og det efterfølgende er nødvendigt at tabbe sig ind på forslaget igen.
-
-  
 Knap til log ind for skærmlæserbrugere på go.BIBLIOTEKSDOMÆNE.dk: I øjeblikket er der ingen alternativ tekst på knappen/ikonet, som aktiverer menuen med funktioner til log ind. Dvs. skærmlæserbrugere vil i øjeblikket få at vide, at der eksisterer en knap, men ikke hvad knappen er til.
 
 Udløbstid af digitale lån på go.BIBLIOTEKSDOMÆNE.dk: Oplysninger om udløbstid af lånte digitale materialer kan i øjeblikket ikke oplæses af skærmlæsere. Skærmlæseren vil fortælle, at brugeren tilgår et værk af en bestemt forfatter, men ikke hvornår det udløber.
