@@ -26,6 +26,6 @@ Releasedato: 26-06-2025
 
 - Tilgængelighed: Tagget title læses ikke længere op af skærmlæsere for hvert autogenererede forslag. 
 
-- Søgning: Tryk på tasten "Enter" udløser nu søgning under både "Avanceret søgning - feltsøgning" og "Avanceret søgning - CQL"
+- Søgning: Tryk på tasten "Enter" udløser nu søgning under både "Avanceret søgning - feltsøgning" og "Avanceret søgning - CQL".
 
 - Intelligente facetter: Facetten "ÅR" sorteres efter faldende værdi. 
