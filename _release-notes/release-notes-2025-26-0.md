@@ -1,0 +1,31 @@
+---
+title:  "Release Notes 2025.26.0"
+category: "Release Notes"
+weight: 332
+---  
+
+###  FBI-info (Ny forsideservice) og bedre visning  
+
+Releasedato: 26-06-2025
+
+**Redaktør**: Produktionssites: 2025.26.0
+
+**Webmaster**: Produktionssites: 2025.25.4 Moduletestsites: 2025.26.0
+
+## Nye features
+- Material Grid Automatic: Ny version af Material Grid Automatic. Indhold lavet med den gamle version er automatisk migreret til den nye løsning. Brug ikke paragraphen "Material grid link automatic (DEPRECATED - WILL BE DELETED)". Den vil blive fjernet i forbindelse med fremtidig opdatering af FBCMS. 
+
+- eReolen feed: Videothumbnail tlilføjet. 
+
+## Fejlrettelser og opgraderinger
+- Besked om ikke-reservérbare eksemplarer - dvs. titler der skal lånes direkte i biblioteksrummet - i "Godkend-reserverings-modalen" er nu flyttet op øverst i modalen. 
+
+- FBI-info: Nu trækker FBCMS covers fra ny forsideserice (FBI-info). Ændringen her konfigurerer FBCMS så der automatisk trækkes fra FBI-info. [Læs mere om FBI-info og upload af forsider.](https://www.detdigitalefolkebibliotek.dk/nyheder/cover-service-udfases-erstattes-af-ny-forsideservice-pr-1-juli-2025nbsp) 
+
+- Artikler fra Delingstjenesten markeres ikke længere automatisk som skabeloner. 
+
+- Tilgængelighed: <title> Læses ikke længere op af skærmlæsere ved autogenererede forslag. 
+
+- Søgning: Tryk på tasten "Enter" udløser nu søgning under både "Avanceret søgning - feltsøgning" og "Avanceret søgning - CQL"
+
+- Intelligente facetter: Facetten "ÅR" sorteres efter faldende værdi. 
