@@ -1307,6 +1307,12 @@ var store = [{
         "url": "/main/startopsaetning/udseende/",
         "teaser": null
       },{
+        "title": "Asset Injector og Add to Head",
+        "excerpt":"Stort set alle webmasterbiblioteker har valgt at installere tredjepartsmodulerne Asset Injector samt Add to Head. Fordi de er så bredt anvendt, behandles de her i manualen. Vær dog opmærksom på, at de ikke er en del af FB CMS og som sådan ikke er supporterede af DDF. Asset Injector Asset...","categories": ["Webmaster-funktionalitet"],
+        "tags": [],
+        "url": "/main/webmasterplanen/asset-injector/",
+        "teaser": null
+      },{
         "title": "Webmasterplanen",
         "excerpt":"Om vejledningen Vejledningen er målrettet webmasterbiblioteker og beskriver hvordan typiske arbejdsgange for et webmasterbibliotek håndteres herunder. Hvordan du håndterer installation af moduler på testsitet og produktionssitet Hvordan du håndterer opgraderinger af moduler, der i forvejen er installeret på sitet Derudover beskrives basale driftsforhold omkring de forskellige miljøer f.eks. opgraderingscyklus for...","categories": [],
         "tags": [],
