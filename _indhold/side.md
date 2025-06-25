@@ -29,8 +29,7 @@ Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-pa
 - Hovedindholdsfeltet indeholder Branch (bibliotek), Titel og Paragraphs.
 - Sidebar-panelet indeholder bl.a. Planlægning, Indstillinger for forfremmelse samt mulighed for at gøre siden til en skabelon (’Entity Clone Template’).
 
-{% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/cd08eb5c-cbdb-4a6b-8257-891f8eb48ee3" alt="Hovedindholdsfelt til venstre, sidebar til højre" caption="Hovedindholdsfelt til venstre, sidebar til højre" %}
-
+{% include figure image_path="https://github.com/user-attachments/assets/23ec4f8a-9ecf-429d-bba1-4e034f2f3ea6" alt="Hovedindholdsfelt til venstre, sidebar til højre" caption="Hovedindholdsfelt til venstre, sidebar til højre" %}
 
 ## Opbygning af sider
 
