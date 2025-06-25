@@ -1,8 +1,11 @@
 ---
-title: "Drupal-modulet Config Ignore Auto"
+title: "Udvidet backendmenu"
 category: "Webmaster-funktionalitet"
 weight: 5
 ---
+Webmasterbiblioteker har i modsætning til Redaktørbiblioteker mulighed for at oprette brugere med administratorrettigheder.
+
+Når en bruger med administratorrettigheder logger ind i backend er der flere menuer tilgængelige.
 Drupal-modulet **Config Ignore Auto** er som standard aktiveret i Folkebibliotekernes CMS og kan ikke deaktiveres. Det er et nødvendigt modul, som alle webmastere bør kende til. Hvis **Config Ignore Auto** ikke var installeret, ville webmasterbibliotekerne miste deres lokale konfigurationer hver uge, når deres sites opdateres.
 
 ## Hvad er det?
