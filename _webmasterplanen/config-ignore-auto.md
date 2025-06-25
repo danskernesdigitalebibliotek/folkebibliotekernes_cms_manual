@@ -15,7 +15,7 @@ Drupal-modulet **Config Ignore Auto** er som standard aktiveret i Folkebibliotek
   Når modulet er aktiveret, overvåger det ændringer foretaget gennem administrationsgrænsefladen og tilføjer dem til listen over ignorerede konfigurationer.
 
 
-- **Brugsscenarie**\
+- **Lokale ændringer bevares**\
   De indstillinger, som Config Ignore Auto tilføjer til sin liste, overskrives ikke når core opdateres. Dvs. de bevarer den værdi, som du har sat. Også selvom standardværdien ændrer sig.
 
 
