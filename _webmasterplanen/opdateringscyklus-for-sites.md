@@ -3,7 +3,7 @@ title: "Opdateringscyklus for sites"
 category: "Driftsforhold"
 weight: 2
 ---
-Fra uge 34 2025 skiftes der til 2 ugers release cyklus. Der releases i lige uger fra uge 34.
+Fra uge 34 2025 skiftes der til 2 ugers release cyklus. Der releases i lige uger.
 {: .notice} 
 
 Der frigives en ny releases af Folkebibliotekernes CMS hver torsdag med mindre ferie eller helligdage forhindrer det.
