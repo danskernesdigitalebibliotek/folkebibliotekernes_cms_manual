@@ -1308,7 +1308,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Udvidet backendmenu",
-        "excerpt":"Webmasterbiblioteker har i modsætning til Redaktørbiblioteker mulighed for at oprette brugere med administratorrettigheder. Når en bruger med administratorrettigheder logger ind i backend er der flere menuer tilgængelige. Drupal-modulet Config Ignore Auto er som standard aktiveret i Folkebibliotekernes CMS og kan ikke deaktiveres. Det er et nødvendigt modul, som alle webmastere...","categories": ["Webmaster-funktionalitet"],
+        "excerpt":"Webmasterbiblioteker har mulighed for at oprette brugere med administratorrettigheder. Når en bruger med administratorrettigheder logger ind i backend vises der nogle ekstra punkter i hovedmenuen. Webmasterbiblioteker har disse ekstra menupunkteter: Udvid giver adgang til at installere moduler Udseende giver adgang til at skifte tema Rapporter giver adgang til statusrapport med...","categories": ["Webmaster-funktionalitet"],
         "tags": [],
         "url": "/main/webmasterplanen/config-ignore-auto/",
         "teaser": null

@@ -11,7 +11,7 @@
     <meta charset="utf-8">
 
 <!-- begin _includes/seo.html --><title>Udvidet backendmenu - Folkebibliotekernes CMS</title>
-<meta name="description" content="Webmasterbiblioteker har i modsætning til Redaktørbiblioteker mulighed for at oprette brugere med administratorrettigheder.">
+<meta name="description" content="Webmasterbiblioteker har mulighed for at oprette brugere med administratorrettigheder. Når en bruger med administratorrettigheder logger ind i backend vises der nogle ekstra punkter i hovedmenuen.">
 
 
 
@@ -22,7 +22,7 @@
 <meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/webmasterplanen/config-ignore-auto/">
 
 
-  <meta property="og:description" content="Webmasterbiblioteker har i modsætning til Redaktørbiblioteker mulighed for at oprette brugere med administratorrettigheder.">
+  <meta property="og:description" content="Webmasterbiblioteker har mulighed for at oprette brugere med administratorrettigheder. Når en bruger med administratorrettigheder logger ind i backend vises der nogle ekstra punkter i hovedmenuen.">
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2025-06-25T11:50:20+00:00">
+  <meta property="article:published_time" content="2025-06-25T12:18:45+00:00">
 
 
 
@@ -297,8 +297,8 @@
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Udvidet backendmenu">
-    <meta itemprop="description" content="Webmasterbiblioteker har i modsætning til Redaktørbiblioteker mulighed for at oprette brugere med administratorrettigheder.">
-    <meta itemprop="datePublished" content="2025-06-25T11:50:20+00:00">
+    <meta itemprop="description" content="Webmasterbiblioteker har mulighed for at oprette brugere med administratorrettigheder.Når en bruger med administratorrettigheder logger ind i backend vises der nogle ekstra punkter i hovedmenuen.">
+    <meta itemprop="datePublished" content="2025-06-25T12:18:45+00:00">
     
 
     <div class="page__inner-wrap">
@@ -329,16 +329,33 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <p>Webmasterbiblioteker har i modsætning til Redaktørbiblioteker mulighed for at oprette brugere med administratorrettigheder.</p>
+        <p>Webmasterbiblioteker har mulighed for at oprette brugere med administratorrettigheder.
+Når en bruger med administratorrettigheder logger ind i backend vises der nogle ekstra punkter i hovedmenuen.</p>
 
-<p>Når en bruger med administratorrettigheder logger ind i backend er der flere menuer tilgængelige.
-Drupal-modulet <strong>Config Ignore Auto</strong> er som standard aktiveret i Folkebibliotekernes CMS og kan ikke deaktiveres. Det er et nødvendigt modul, som alle webmastere bør kende til. Hvis <strong>Config Ignore Auto</strong> ikke var installeret, ville webmasterbibliotekerne miste deres lokale konfigurationer hver uge, når deres sites opdateres.</p>
+<p><img src="https://github.com/user-attachments/assets/7529d47f-1f65-4b74-801b-2cd6998b74d1" alt="Webmaster" /></p>
 
-<h2 id="hvad-er-det">Hvad er det?</h2>
+<p>Webmasterbiblioteker har disse ekstra menupunkteter:</p>
+<ul>
+  <li><strong>Udvid</strong> giver adgang til at installere moduler</li>
+  <li><strong>Udseende</strong> giver adgang til at skifte tema</li>
+  <li><strong>Rapporter</strong> giver adgang til statusrapport med fejlbeskeder fra systemet</li>
+  <li><strong>Indstillinger</strong> har mange flere underpunkter end hvad der Redaktør-brugere ser</li>
+</ul>
+
+<h2 id="risiko-ved-at-ændre-i-indstillinger">Risiko ved at ændre i indstillinger</h2>
+<p>Særligt i forhold til at rette i indstillinger skal webmasterbiblioteker være varsomme.</p>
+
+<p>Laver du en lokal ændring i indstillinger på jeres hjemmeside bliver den bevaret og ikke overskrevet. Det er jo umiddelbart godt, men det kan have langsigtede uhensigtsmæssige konsekvenser.
+Læs herunder hvordan teknikken fungerer.</p>
+
+<h2 id="config-ignore-auto">Config Ignore Auto</h2>
+<p>Drupal-modulet <strong>Config Ignore Auto</strong> er som standard aktiveret i Folkebibliotekernes CMS og kan ikke deaktiveres. Det er et nødvendigt modul, som alle webmastere bør kende til. Hvis <strong>Config Ignore Auto</strong> ikke var installeret, ville webmasterbibliotekerne miste deres lokale konfigurationer hver uge, når deres sites opdateres.</p>
+
+<h3 id="hvad-er-det">Hvad er det?</h3>
 
 <p><strong>Config Ignore Auto</strong> er et Drupal-modul, der opdager, registrerer og bevarer alle ændringer, som du foretager gennem administrationsgrænsefladen i backend. Det kan være en oversættelse du ændrer, eller et flueben, som du sætter på en indstillingsside.</p>
 
-<h2 id="sådan-virker-det">Sådan virker det</h2>
+<h3 id="sådan-virker-det">Sådan virker det</h3>
 
 <ul>
   <li>
@@ -351,15 +368,7 @@ De indstillinger, som Config Ignore Auto tilføjer til sin liste, overskrives ik
   </li>
 </ul>
 
-<h2 id="hvad-skal-jeg-være-opmærksom-på">Hvad skal jeg være opmærksom på</h2>
-<p>Det er let og hurtigt at ændre en indstilling via administrationsgrænsefladen, men man skal ikke tage let på det, for det kan have vidtrækkende konsekvenser.</p>
-
-<ul>
-  <li>Før logbog over alle ændringer, som du foretager i indstillinger via administrationsgrænsefladen, så du hele tiden har et komplet overblik.</li>
-  <li>Overvej nøje om du ændrer en essentiel værdi, som andre dele af sitet afhænger af. Man kan ikke altid vide det, men prøv alligevel.</li>
-</ul>
-
-<h2 id="hvilke-ricici-er-der">Hvilke ricici er der?</h2>
+<h3 id="hvilke-ricici-er-der">Hvilke ricici er der?</h3>
 <ul>
   <li>
     <p><strong>Ny funktionalitet mangler</strong>: Du risikerer at ny funktionalitet i core ikke bliver synlig på jeres site, fordi en indstilling, som du har sat, forhindrer det. Der kommer ikke nødvendigvis en fejl ud af det, så du opdager det måske slet ikke.</p>
@@ -367,6 +376,14 @@ De indstillinger, som Config Ignore Auto tilføjer til sin liste, overskrives ik
   <li>
     <p><strong>Jeres site kan ikke opdateres</strong>: Hvis jeres site pga. lokal konfiguration er anderledes end forventet af koden i core, kan der opstå en fejl, så jeres site slet ikke kan opdateres.</p>
   </li>
+</ul>
+
+<h3 id="hvad-skal-jeg-være-opmærksom-på">Hvad skal jeg være opmærksom på</h3>
+<p>Det er let og hurtigt at ændre en indstilling via administrationsgrænsefladen, men man skal ikke tage let på det, for det kan have vidtrækkende konsekvenser.</p>
+
+<ul>
+  <li>Før logbog over alle ændringer, som du foretager i indstillinger via administrationsgrænsefladen, så du hele tiden har et komplet overblik.</li>
+  <li>Overvej nøje om du ændrer en essentiel værdi, som andre dele af sitet afhænger af. Man kan ikke altid vide det, men prøv alligevel.</li>
 </ul>
 
 
@@ -380,7 +397,7 @@ De indstillinger, som Config Ignore Auto tilføjer til sin liste, overskrives ik
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-06-25T11:50:20+00:00">June 25, 2025</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-06-25T12:18:45+00:00">June 25, 2025</time></p>
 
       </footer>
 
