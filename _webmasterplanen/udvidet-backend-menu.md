@@ -1,7 +1,7 @@
 ---
 title: "Udvidet backendmenu"
 category: "Webmaster-funktionalitet"
-weight: 5
+weight: 2
 ---
 Webmasterbiblioteker har mulighed for at oprette brugere med administratorrettigheder.
 Når en bruger med administratorrettigheder logger ind i backend vises der nogle ekstra punkter i hovedmenuen.
