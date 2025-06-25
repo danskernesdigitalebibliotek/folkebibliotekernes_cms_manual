@@ -1,3 +1,9 @@
+---
+title: "Asset Injector og Add to Head"
+category: "Webmaster-funktionalitet"
+weight: 5
+---
+
 Stort set alle webmasterbiblioteker har valgt at installere tredjepartsmodulerne Asset Injector samt Add to Head.
 
 Fordi de er så bredt anvendt, behandles de her i manualen. Vær dog opmærksom på, at de ikke er en del af FB CMS og som sådan ikke er supporterede af DDF.
