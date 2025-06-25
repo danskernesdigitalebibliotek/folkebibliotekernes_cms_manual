@@ -24,4 +24,4 @@ Asset Injector er nem at komme i gang med og har flere fordele i forhorld til FB
 ## Add to Head-modulet
 Add to Head-modulet gør det muligt at injicere indhold direkte i HTML-sidens <head>, samt i $scripts og $styles elementerne i page.tpl.php-skabelonen.
 
-Add to Head har samme fordele som Asset Injector. 
+Add to Head har samme fordele som Asset Injector i forhold til FB CMS.
