@@ -1307,12 +1307,6 @@ var store = [{
         "url": "/main/startopsaetning/udseende/",
         "teaser": null
       },{
-        "title": "Udvidet backendmenu",
-        "excerpt":"Webmasterbiblioteker har mulighed for at oprette brugere med administratorrettigheder. Når en bruger med administratorrettigheder logger ind i backend vises der nogle ekstra punkter i hovedmenuen. Webmasterbiblioteker har disse ekstra menupunkteter: Udvid giver adgang til at installere moduler Udseende giver adgang til at skifte tema Rapporter giver adgang til statusrapport med...","categories": ["Webmaster-funktionalitet"],
-        "tags": [],
-        "url": "/main/webmasterplanen/config-ignore-auto/",
-        "teaser": null
-      },{
         "title": "Webmasterplanen",
         "excerpt":"Om vejledningen Vejledningen er målrettet webmasterbiblioteker og beskriver hvordan typiske arbejdsgange for et webmasterbibliotek håndteres herunder. Hvordan du håndterer installation af moduler på testsitet og produktionssitet Hvordan du håndterer opgraderinger af moduler, der i forvejen er installeret på sitet Derudover beskrives basale driftsforhold omkring de forskellige miljøer f.eks. opgraderingscyklus for...","categories": [],
         "tags": [],
@@ -1359,5 +1353,11 @@ var store = [{
         "excerpt":"Et webmasterbibliotek kan udsætte opdateringen af et produktionsmiljø i op til fire uger (ved normal releasecyklus vil det svare til fire releases af Folkebibliotekernes CMS). Udsættelse kan f.eks. være relevant, hvis et egenudviklet modul ikke længere fungerer med Folkebibliotekernes CMS, og der er brug for tid til at tilpasse løsningen....","categories": ["Driftsforhold"],
         "tags": [],
         "url": "/main/webmasterplanen/udsaettelse-af-opdatering/",
+        "teaser": null
+      },{
+        "title": "Udvidet backendmenu",
+        "excerpt":"Webmasterbiblioteker har mulighed for at oprette brugere med administratorrettigheder. Når en bruger med administratorrettigheder logger ind i backend vises der nogle ekstra punkter i hovedmenuen. Webmasterbiblioteker har disse ekstra menupunkteter: Udvid giver adgang til at installere moduler Udseende giver adgang til at skifte tema Rapporter giver adgang til statusrapport med...","categories": ["Webmaster-funktionalitet"],
+        "tags": [],
+        "url": "/main/webmasterplanen/udvidet-backend-menu/",
         "teaser": null
       }]
