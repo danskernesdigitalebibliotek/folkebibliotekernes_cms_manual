@@ -1,7 +1,7 @@
 ---
 title: "Installation og opdatering af moduler"
 category: "Webmaster-funktionalitet"
-weight: 4
+weight: 8
 ---
 
 Som **webmasterbibliotek** har I mulighed for at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (*core*). Det kan være:
