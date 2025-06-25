@@ -24,7 +24,7 @@ Klik på **Side**
 
 Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-panel til højre.
 
-- Hovedindholdsfeltet indeholder Branch (bibliotek), Titel og Paragraphs.
+- Hovedindholdsfeltet indeholder bl. a. Branch (bibliotek), Titel og Paragraphs.
 - Sidebar-panelet indeholder bl.a. Planlægning, Indstillinger for forfremmelse samt mulighed for at gøre siden til en skabelon (’Entity Clone Template’).
 
 {% include figure image_path="https://github.com/user-attachments/assets/23ec4f8a-9ecf-429d-bba1-4e034f2f3ea6" alt="Hovedindholdsfelt til venstre, sidebar til højre" caption="Hovedindholdsfelt til venstre, sidebar til højre" %}
@@ -34,6 +34,10 @@ Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-pa
 ### Branch
 I dropdown’en under Branch kan du tilknytte siden til en af dine bibliotekssider, fx Hovedbiblioteket eller Østerby Lokalbibliotek.
 
+### Publiser og send til Delingstjenesten
+
+### Breadcrumb parent
+
 ### Titel
 Titel-feltet skal udfyldes. Det er din sides navn i back-enden, men vises som udgangspunkt ikke for slutbrugeren.
 
@@ -42,6 +46,8 @@ Hvis du gerne vil have, at der vises en overskrift og eventuelt en under-overskr
 Det giver mulighed for at udfylde felterne **Hero title** og **Subtitle**. Hero title er en overskrift - subtitle er en under-overskrift.
 
 Hvis toggle-knappen er aktiveret, men du ikke skriver noget i Hero title-feltet, vil sidens titel vises for slutbrugeren som overskrift.
+
+### Display titles
 
 ### Paragraphs
 Du kan nu opbygge din sides indhold og udseende ved hjælp af Paragraphs-komponenterne.
