@@ -24,7 +24,7 @@ Releasedato: 26-06-2025
 
 - Artikler fra Delingstjenesten markeres ikke længere automatisk som skabeloner. 
 
-- Tilgængelighed: <title> Læses ikke længere op af skærmlæsere ved autogenererede forslag. 
+- Tilgængelighed: Tagget title læses ikke længere op af skærmlæsere for hvert autogenererede forslag. 
 
 - Søgning: Tryk på tasten "Enter" udløser nu søgning under både "Avanceret søgning - feltsøgning" og "Avanceret søgning - CQL"
 
