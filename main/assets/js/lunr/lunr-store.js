@@ -1338,7 +1338,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opdateringscyklus for sites",
-        "excerpt":"Fra uge 34 2025 skiftes der til 2 ugers release cyklus. Der releases i lige uger fra uge 34. Der frigives en ny releases af Folkebibliotekernes CMS hver torsdag med mindre ferie eller helligdage forhindrer det. Opdateringen af produktions- og testmiljøer for webmasterbiblioteker sker efter et opdateringsmønster, der skal sikre,...","categories": ["Driftsforhold"],
+        "excerpt":"Fra uge 34 2025 skiftes der til 2 ugers release cyklus. Der releases i lige uger. Der frigives en ny releases af Folkebibliotekernes CMS hver torsdag med mindre ferie eller helligdage forhindrer det. Opdateringen af produktions- og testmiljøer for webmasterbiblioteker sker efter et opdateringsmønster, der skal sikre, at nye releases...","categories": ["Driftsforhold"],
         "tags": [],
         "url": "/main/webmasterplanen/opdateringscyklus-for-sites/",
         "teaser": null
