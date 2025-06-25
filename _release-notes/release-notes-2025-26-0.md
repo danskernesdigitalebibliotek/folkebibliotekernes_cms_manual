@@ -22,7 +22,9 @@ Releasedato: 26-06-2025
 
 - FBIinfo: Nu trækker FBCMS covers fra ny forsideserice (FBIinfo). Ændringen her konfigurerer FBCMS så der automatisk trækkes fra FBIinfo. [Læs mere om FBIinfo og upload af forsider.](https://www.detdigitalefolkebibliotek.dk/nyheder/cover-service-udfases-erstattes-af-ny-forsideservice-pr-1-juli-2025nbsp) 
 
-- Artikler fra Delingstjenesten markeres ikke længere automatisk som skabeloner. 
+- Delingstjenesten: Indhold fra Delingstjenesten vil ikke længere blive oprettet som skabeloner.
+
+- Delingstjenesten: Alle eksisterende skabeloner, der uretmæssigt er blevet oprettet (se rettelse ovenover), vil automatisk blive fjernet fra skabelonoversigten.
 
 - Tilgængelighed: Tagget title læses ikke længere op af skærmlæsere for hvert autogenererede forslag. 
 
