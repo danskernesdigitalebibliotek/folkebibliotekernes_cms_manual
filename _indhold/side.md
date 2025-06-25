@@ -35,8 +35,10 @@ Artiklens indhold opbygges via et hovedindholdsfelt til venstre og et sidebar-pa
 I dropdown’en under Branch kan du tilknytte siden til en af dine bibliotekssider, fx Hovedbiblioteket eller Østerby Lokalbibliotek.
 
 ### Publiser og send til Delingstjenesten
+Læs om [Send til Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/eksport-af-indhold/), for at vurdere om denne indstilling er relevant for din side.
 
 ### Breadcrumb parent
+Læs mere om [brødkrummestier](https://www.folkebibliotekernescms.dk/main/indhold/broedkrummesti/), for at forstå hvordan feltet skal udfyldes.
 
 ### Titel
 Titel-feltet skal udfyldes. Det er din sides navn i back-enden, men vises som udgangspunkt ikke for slutbrugeren.
