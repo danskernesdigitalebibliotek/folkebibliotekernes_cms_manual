@@ -1307,8 +1307,8 @@ var store = [{
         "url": "/main/startopsaetning/udseende/",
         "teaser": null
       },{
-        "title": "Drupal-modulet Config Ignore Auto",
-        "excerpt":"Drupal-modulet Config Ignore Auto er som standard aktiveret i Folkebibliotekernes CMS og kan ikke deaktiveres. Det er et nødvendigt modul, som alle webmastere bør kende til. Hvis Config Ignore Auto ikke var installeret, ville webmasterbibliotekerne miste deres lokale konfigurationer hver uge, når deres sites opdateres. Hvad er det? Config Ignore...","categories": ["Webmaster-funktionalitet"],
+        "title": "Udvidet backendmenu",
+        "excerpt":"Webmasterbiblioteker har i modsætning til Redaktørbiblioteker mulighed for at oprette brugere med administratorrettigheder. Når en bruger med administratorrettigheder logger ind i backend er der flere menuer tilgængelige. Drupal-modulet Config Ignore Auto er som standard aktiveret i Folkebibliotekernes CMS og kan ikke deaktiveres. Det er et nødvendigt modul, som alle webmastere...","categories": ["Webmaster-funktionalitet"],
         "tags": [],
         "url": "/main/webmasterplanen/config-ignore-auto/",
         "teaser": null
