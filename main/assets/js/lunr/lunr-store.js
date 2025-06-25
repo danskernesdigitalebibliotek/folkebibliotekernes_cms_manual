@@ -119,6 +119,12 @@ var store = [{
         "url": "/main/category/generelt/",
         "teaser": null
       },{
+        "title": "GO",
+        "excerpt":"GO  ","categories": [],
+        "tags": [],
+        "url": "/main/category/go/",
+        "teaser": null
+      },{
         "title": "Startopsætning",
         "excerpt":"Startopsætning  ","categories": [],
         "tags": [],
