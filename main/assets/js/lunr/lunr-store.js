@@ -1223,6 +1223,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-25-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.26.0",
+        "excerpt":"FBI-info (Ny forsideservice) og bedre visning Releasedato: 26-06-2025 Redaktør: Produktionssites: 2025.26.0 Webmaster: Produktionssites: 2025.25.4 Moduletestsites: 2025.26.0 Nye features Material Grid Automatic: Ny version af Material Grid Automatic. Indhold lavet med den gamle version er automatisk migreret til den nye løsning. Brug ikke paragraphen “Material grid link automatic (DEPRECATED - WILL...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-26-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
