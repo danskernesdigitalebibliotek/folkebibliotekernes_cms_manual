@@ -12,7 +12,7 @@ Webmasterbiblioteker har disse ekstra menupunkteter:
 - **Udvid** giver adgang til at installere moduler
 - **Udseende** giver adgang til at skifte tema
 - **Rapporter** giver adgang til statusrapport med fejlbeskeder fra systemet
-- **Indstillinger** har mange flere underpunkter end hvad der Redaktør-brugere ser
+- **Indstillinger** har mange flere underpunkter end hvad en Redaktør-brugere ser
 
 ## Risiko ved at ændre i indstillinger
 Særligt i forhold til at rette i indstillinger skal webmasterbiblioteker være varsomme.
