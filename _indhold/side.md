@@ -2,8 +2,6 @@
 title: "Side"
 category: "Indholdstyper"
 weight: 1
-emneord:
-- "X Mangler tekst"
 ---
 Indholdstypen Side bruges til at oprette forsider og lignende samlende indgange til tilknyttet indhold på dit site.
 
