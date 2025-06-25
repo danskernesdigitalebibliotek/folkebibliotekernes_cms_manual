@@ -18,8 +18,7 @@ Asset Injector er nem at komme i gang med og har flere fordele i forhorld til FB
 - **Du lægger ikke sitet ned**: Du kan ikke lave noget, der får dit site til at gå ned. 
 - **Du kan nemt rulle tilbage**: Får du lavet noget kode, der ikke opfører sig som tiltænkt, går du bare ind på Asset Injector i backend og deaktiverer din injection. Du skal være meget uheldig, hvis din kode gør backend utilgængelig.
 
-- Når det er sagt er Asset Injector stadig et udviklingsværktøj, der kræver viden og omtanke. Man kan sagtens skrive kode der ødelægger funktionalitet på sitet og smadrer styling.
-- Tjek op på dine injections efter hver core opdatering for at sikre dig at alting stadig fungerer som det skal.
+Når det er sagt er Asset Injector stadig et udviklingsværktøj, der kræver viden og omtanke. Man kan sagtens skrive kode der ødelægger funktionalitet på sitet og smadrer styling. Tjek op på dine injections efter hver core opdatering for at sikre dig at alting stadig fungerer som det skal.
 
 ## Add to Head-modulet
 Add to Head-modulet gør det muligt at injicere indhold direkte i HTML-sidens <head>, samt i $scripts og $styles elementerne i page.tpl.php-skabelonen.
