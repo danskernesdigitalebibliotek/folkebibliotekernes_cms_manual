@@ -4,7 +4,7 @@ category: "Release Notes"
 weight: 332
 ---  
 
-###  FBI-info (Ny forsideservice) og bedre visning  
+###  FBIinfo (Ny forsideservice) og bedre visning  
 
 Releasedato: 26-06-2025
 
@@ -20,7 +20,7 @@ Releasedato: 26-06-2025
 ## Fejlrettelser og opgraderinger
 - Besked om ikke-reservérbare eksemplarer - dvs. titler der skal lånes direkte i biblioteksrummet - i "Godkend-reserverings-modalen" er nu flyttet op øverst i modalen. 
 
-- FBI-info: Nu trækker FBCMS covers fra ny forsideserice (FBI-info). Ændringen her konfigurerer FBCMS så der automatisk trækkes fra FBI-info. [Læs mere om FBI-info og upload af forsider.](https://www.detdigitalefolkebibliotek.dk/nyheder/cover-service-udfases-erstattes-af-ny-forsideservice-pr-1-juli-2025nbsp) 
+- FBIinfo: Nu trækker FBCMS covers fra ny forsideserice (FBIinfo). Ændringen her konfigurerer FBCMS så der automatisk trækkes fra FBIinfo. [Læs mere om FBIinfo og upload af forsider.](https://www.detdigitalefolkebibliotek.dk/nyheder/cover-service-udfases-erstattes-af-ny-forsideservice-pr-1-juli-2025nbsp) 
 
 - Artikler fra Delingstjenesten markeres ikke længere automatisk som skabeloner. 
 
