@@ -26,7 +26,7 @@ Releasedato: 26-06-2025
 
 - Delingstjenesten: Alle eksisterende skabeloner, der uretmæssigt er blevet oprettet (se rettelse ovenover), vil automatisk blive fjernet fra skabelonoversigten.
 
-- Tilgængelighed: Tagget title læses ikke længere op af skærmlæsere for hvert autogenererede forslag. 
+- Tilgængelighed: Tagget title læses ikke længere op af skærmlæsere for hvert autogenereret forslag. 
 
 - Søgning: Tryk på tasten "Enter" udløser nu søgning under "Avanceret søgning - feltsøgning".
 
