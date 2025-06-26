@@ -6,7 +6,9 @@ permalink: /go/
 {% include figure class="ninety" image_path="https://github.com/user-attachments/assets/91802c87-1bcd-4712-ba1e-00c57e6ca989" %}
 
 
-Denne side samler de seneste vejledninger og informationer om det nye GO. GO går nu fra at være et nationalt site til at få hver sin hjemmeside tilknyttet til Folkebibliotekernes eksisterende hjemmesider.
+Denne side samler de seneste vejledninger og informationer om det nye GO. 
+
+GO går nu fra at være et nationalt site til at få hver sin hjemmeside tilknyttet til Folkebibliotekernes eksisterende hjemmesider.
 
 
 ## OBS:
