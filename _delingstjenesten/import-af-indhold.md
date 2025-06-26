@@ -34,6 +34,7 @@ Klik dig ind på det ønskede indhold.
 
 ## 4. Klik på “Importer til dit bibliotek”
 I bunden af skærmen til højre finder du knappen **"Importer [titlen på indholdet] til [dit biblioteksnavn]"** – klik her.
+
 <img width="589" alt="import" src="https://github.com/user-attachments/assets/c4d4ba7d-6944-4d67-a388-f7774c728488" />
 
 
