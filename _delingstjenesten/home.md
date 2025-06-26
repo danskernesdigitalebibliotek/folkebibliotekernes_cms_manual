@@ -17,9 +17,22 @@ Denne side samler de seneste vejledninger og information om Delingstjenesten - b
 
 - [Sådan sender du indhold til Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/eksport-af-indhold/)
 
+<br>
+
+
+
+
+
+### Brug for hjælp?
+- Oplever du fejl, så meld ind via **ServiceDesk**: *Folkebibliotekernes CMS → Indmeld fejl*  
+- Spørgsmål til indhold, billeder eller rettigheder? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
+
+
+<br>
+
+
 ---
-
-
+<br>
 Med få klik kan biblioteker nu:
 
 - Hente artikler, sider, grafik og videoer fra Delingstjenesten.
