@@ -1218,7 +1218,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2025.26.0",
-        "excerpt":"FBIinfo (Ny forsideservice) og bedre visning Releasedato: 26-06-2025 Redaktør: Produktionssites: 2025.26.0 Webmaster: Produktionssites: 2025.25.4 Moduletestsites: 2025.26.0 Nye features Material Grid Automatic: Ny version af Material Grid Automatic. Indhold lavet med den gamle version er automatisk migreret til den nye løsning. Brug ikke paragraphen “Material grid link automatic (DEPRECATED - WILL...","categories": ["Release Notes"],
+        "excerpt":"FBIinfo (Ny forsideservice) og bedre visning Releasedato: 26-06-2025 Redaktør: Produktionssites: 2025.26.0 Webmaster: Produktionssites: 2025.25.4 Moduletestsites: 2025.26.0 Nye features Material Grid Automatic: Ny version af Material Grid Automatic. Indhold lavet med de to gamle versioner af Materiale Grid Automatic er automatisk migreret til den nye løsning. Brug ikke paragraphen “Material grid...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2025-26-0/",
         "teaser": null
