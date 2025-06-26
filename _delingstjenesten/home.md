@@ -5,7 +5,7 @@ permalink: /delingstjenesten/
 ---
 
 
-Denne side samler de seneste vejledninger og information om den Delingstjeneste - bibliotekernes nationale formidling.
+Denne side samler de seneste vejledninger og information om Delingstjenesten - bibliotekernes nationale formidling.
 
 ---
 
