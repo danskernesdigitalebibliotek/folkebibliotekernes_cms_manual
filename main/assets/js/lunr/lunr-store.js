@@ -246,7 +246,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Sådan logger du ind på Delingstjenesten",
-        "excerpt":"For at hente indhold fra Delingstjenesten til din biblioteks hjemmeside, skal du være logget ind som dit bibliotek. Det kræver blot få klik. Sådan logger du ind Gå ind på dit lokale bibliotekssite. Sørg for, at du er logget ind i backend. Alle roller giver dig adgang: Formidler, Redaktør, Administrator,...","categories": ["Delingstjenesten"],
+        "excerpt":"For at hente og abonnere på indhold fra Delingstjenesten til dit bibliotekssite, skal du være logget ind som dit bibliotek. Det kræver blot få klik. Sådan logger du ind Gå ind på dit lokale bibliotekssite. Sørg for, at du er logget ind i backend. Alle roller giver dig adgang: Formidler,...","categories": ["Delingstjenesten"],
         "tags": [],
         "url": "/main/delingstjenesten/login-i-delingstjenesten/",
         "teaser": null
