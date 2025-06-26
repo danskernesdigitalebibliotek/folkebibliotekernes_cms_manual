@@ -13,7 +13,7 @@ Releasedato: 26-06-2025
 **Webmaster**: Produktionssites: 2025.25.4 Moduletestsites: 2025.26.0
 
 ## Nye features
-- Material Grid Automatic: Ny version af Material Grid Automatic. Indhold lavet med den gamle version er automatisk migreret til den nye løsning. Brug ikke paragraphen "Material grid link automatic (DEPRECATED - WILL BE DELETED)". Den vil blive fjernet i forbindelse med fremtidig opdatering af FBCMS. 
+- Material Grid Automatic: Ny version af Material Grid Automatic. Indhold lavet med de to gamle versioner af Materiale Grid Automatic er automatisk migreret til den nye løsning. Brug ikke paragraphen "Material grid link automatic (DEPRECATED - WILL BE DELETED)". Den vil blive fjernet i forbindelse med fremtidig opdatering af FBCMS. 
 
 - eReolen feed: Videothumbnail tlilføjet. 
 
