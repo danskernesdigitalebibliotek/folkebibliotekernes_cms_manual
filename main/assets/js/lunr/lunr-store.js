@@ -240,7 +240,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Sådan henter du indhold fra Delingstjenesten",
-        "excerpt":"Du kan hente indhold fra Bibliotekernes Nationale Redaktion – klar til brug på dit eget bibliotekssite. Nedenfor guider vi dig trin-for-trin. 1. Log ind via bibliotekets CMS Gå ind på dit lokale bibliotekssite, vær logget ind som medarbejder og klik: Indhold → Login i Delingstjenesten Du sendes nu videre til...","categories": ["Delingstjenesten"],
+        "excerpt":"Du kan hente indhold fra Bibliotekernes Nationale Redaktion – klar til brug på dit eget bibliotekssite. Nedenfor guider vi dig trin-for-trin. 1. Log ind via bibliotekets CMS Læs vejledning for login på Delingstjenesten Du sendes herfra videre til Delingstjenestens forside. 2. Find det rette indhold På forsiden vises udvalgt og...","categories": ["Delingstjenesten"],
         "tags": [],
         "url": "/main/delingstjenesten/import-af-indhold/",
         "teaser": null
