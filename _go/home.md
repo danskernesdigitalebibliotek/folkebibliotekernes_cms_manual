@@ -12,7 +12,7 @@ GO går nu fra at være et nationalt site til at få hver sin hjemmeside tilknyt
 
 
 ## OBS:
-*Den fulde lancering af GO er snart klar - det vil sige, at I allerede nu vil kunne se det indhold, som kommer til at være på GO inde i jeres hovedsites backend under 'Indhold', og GO-relaterede billeder vil også allerede ligge i jeres Mediebibliotek. Dette er ikke fejl, men en del af processen i, at få lanceret GO, som en del af jeres bibliotekstilbud. Derfor bedes I ikke fjerne GO-indholdet, da det lige om lidt er indhold, som bliver synligt på jeres nye GO-site. GO-indholdet kan virke overvældende lige nu, da alt indhold skal ind fra starten af, men fremadrettet vil GO-indholdet ikke fylde ligeså meget i jeres liste af 'Indhold', da Bibliotekernes Nationale Redaktion kun typisk kommer til at opdatere 2 sider ugenligt.*
+*Den fulde lancering af GO er snart klar - det vil sige, at I allerede nu vil kunne se det indhold, som kommer til at være på GO inde i jeres hovedsites backend under 'Indhold', og GO-relaterede billeder vil også allerede ligge i jeres Mediebibliotek. Dette er **ikke** en fejl, men en del af processen i, at få lanceret GO, som en del af jeres bibliotekstilbud. Derfor bedes I ikke fjerne GO-indholdet, da det lige om lidt er indhold, som bliver synligt på jeres nye GO-site. GO-indholdet kan virke overvældende lige nu, da alt indhold skal ind fra starten af, men fremadrettet vil GO-indholdet ikke fylde ligeså meget i jeres liste af 'Indhold', da Bibliotekernes Nationale Redaktion kun typisk kommer til at opdatere 2 sider ugenligt.*
 
 ---
 
