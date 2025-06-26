@@ -234,7 +234,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Delingstjenesten",
-        "excerpt":"Denne side samler de seneste vejledninger og information om Delingstjenesten - bibliotekernes nationale formidling. Vejledninger Sådan logger du ind på Delingstjenesten Sådan henter du indhold fra Delingstjenesten Sådan sender du indhold til Delingstjenesten Med få klik kan biblioteker nu: Hente artikler, sider, grafik og videoer fra Delingstjenesten. Tilpasse og redigere...","categories": [],
+        "excerpt":"Denne side samler de seneste vejledninger og information om Delingstjenesten - bibliotekernes nationale formidling. Vejledninger Sådan logger du ind på Delingstjenesten Sådan henter du indhold fra Delingstjenesten Sådan sender du indhold til Delingstjenesten Brug for hjælp? Oplever du fejl, så meld ind via ServiceDesk: Folkebibliotekernes CMS → Indmeld fejl Spørgsmål...","categories": [],
         "tags": [],
         "url": "/main/delingstjenesten/",
         "teaser": null
