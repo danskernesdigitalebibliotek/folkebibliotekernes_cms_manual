@@ -22,7 +22,7 @@ Denne side samler de seneste vejledninger og information om den Delingstjeneste 
 
 Med få klik kan biblioteker nu:
 
-- Hente artikler, sider, grafik og videoer fra Delingstjensten.
+- Hente artikler, sider, grafik og videoer fra Delingstjenesten.
 
 - Tilpasse og redigere indholdet lokalt.
 
@@ -34,7 +34,7 @@ Med få klik kan biblioteker nu:
 
 - Få automatisk tilføjet Canonical URL på indholdet fra biblioteket, så korrekt søgemaskineindeksering sikres.
   
-- Sende artikler, grafik og videoer til Delingstjensten for deling ud til landets biblioteker.
+- Sende artikler, grafik og videoer til Delingstjenesten for deling ud til landets biblioteker.
 
-Når du logger ind på Delingstjenesten via backend på dit eget bibliotekssite, får du automatisk adgang som din institution – helt uden ekstra login.
+Og når du logger ind på Delingstjenesten via backend på dit eget bibliotekssite, får du automatisk adgang som din institution – helt uden ekstra login.
 
