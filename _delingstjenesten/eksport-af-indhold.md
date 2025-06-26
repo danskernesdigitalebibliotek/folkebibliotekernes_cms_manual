@@ -25,7 +25,7 @@ Udfyld som normalt: titel, brødtekst, teaserbillede mv.
 - Video  
 - Accordion  
 - Enkel linkliste  
-- Material grid link (automatic)  
+- Materialekomponent - automatic
 - Materialekomponent – manuel  
 - Recommendation  
 
@@ -58,7 +58,7 @@ Hvis du ønsker at vise en anden forfatter:
 Navnet vil fremgå i artiklen på Delingstjenesten.
 
 På søgesiden vises altid **dit biblioteksnavn** som afsender.  
-Når andre biblioteker henter artiklen, vises forfatterfeltet som **“af biblioteket”**.
+Når andre biblioteker henter indholdet, vises forfatterfeltet som **“af biblioteket”**.
 
 
 ---
@@ -67,7 +67,7 @@ Når andre biblioteker henter artiklen, vises forfatterfeltet som **“af biblio
 
 1. Log ind i Delingstjenesten via **Indhold → Login i Delingstjenesten**  
 2. Klik på **Alt indhold** i topmenuen  
-3. Skift filteret **Edited by BNR** til **Uncategorized**  
+3. Skift filteret **Redigeret af BNR** til **Ikke kategoriseret**  
 4. Brug evt. søgefeltet for at finde artiklen / siden
 
 Artiklen vises under dit biblioteksnavn. Her kan du tjekke, at alle ønskede paragraphs er overført korrekt.
@@ -80,6 +80,7 @@ Artiklen vises under dit biblioteksnavn. Her kan du tjekke, at alle ønskede par
 - Sørg for at billeder er **rettighedsclearede** og egnede til deling på tværs af biblioteker.  
 - Felterne **“Navn”** og **“Billedtekst”** overføres automatisk.  
 - Hvis der kræves fotograf- eller kildeangivelse, skal det fremgå tydeligt i billedteksten.
+- Feltet med Metatags: Canonical URL vil automatisk blive tildelt dit bibliotekssite. Dermed får dit sitet SEO-fordelen og landets biblioteker bliver ikke straffet af duplikeret indhold.
 
 
 ---
