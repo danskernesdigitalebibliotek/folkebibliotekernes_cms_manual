@@ -234,7 +234,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Delingstjenesten",
-        "excerpt":"Denne side samler de seneste vejledninger og information om den Delingstjeneste - bibliotekernes nationale formidling. Vejledninger Sådan logger du ind på Delingstjenesten Sådan henter du indhold fra Delingstjenesten Sådan sender du indhold til Delingstjenesten Med få klik kan biblioteker nu: Hente artikler, sider, grafik og videoer fra Delingstjensten. Tilpasse og...","categories": [],
+        "excerpt":"Denne side samler de seneste vejledninger og information om den Delingstjeneste - bibliotekernes nationale formidling. Vejledninger Sådan logger du ind på Delingstjenesten Sådan henter du indhold fra Delingstjenesten Sådan sender du indhold til Delingstjenesten Med få klik kan biblioteker nu: Hente artikler, sider, grafik og videoer fra Delingstjenesten. Tilpasse og...","categories": [],
         "tags": [],
         "url": "/main/delingstjenesten/",
         "teaser": null
