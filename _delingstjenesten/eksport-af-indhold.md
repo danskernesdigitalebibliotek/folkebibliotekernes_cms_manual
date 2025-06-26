@@ -39,6 +39,10 @@ Udfyld som normalt: titel, brødtekst, teaserbillede mv.
 Øverst i redigeringsvisningen finder du checkboksen **Publicer og send til Delingstjenesten**.  
 Sæt flueben og klik **Gem**.
 
+<img width="365" alt="send_til_delingstjenesten" src="https://github.com/user-attachments/assets/bfd05a5e-c8cd-43a6-a73d-95de83dd0a48" />
+
+
+
 Artiklen / siden bliver nu både publiceret på dit site samtidig med at den bliver sendt til Delingstjenesten.
 
 Funktionen fungerer som du måske kender fra *Biblioteksproduceret indhold (BPI)* – indholdet sendes kun én gang.
