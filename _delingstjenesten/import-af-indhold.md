@@ -9,10 +9,9 @@ Du kan hente indhold fra Bibliotekernes Nationale Redaktion – klar til brug p�
 
 ## 1. Log ind via bibliotekets CMS
 
-Gå ind på dit lokale bibliotekssite, vær logget ind som medarbejder og klik:  
-**Indhold → Login i Delingstjenesten**
+[Læs vejledning for login på Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/login-i-delingstjenesten/)
 
-Du sendes nu videre til Delingstjenestens forside.
+Du sendes herfra videre til Delingstjenestens forside.
 
 
 
@@ -20,8 +19,11 @@ Du sendes nu videre til Delingstjenestens forside.
 
 På forsiden vises udvalgt og korrekturlæst materiale, som er kvalitetssikret af Bibliotekernes Nationale Redaktion.
 
-- Klik på **“Alt indhold”** i topmenuen for at se hele kataloget – inklusiv ukorrekturlæst materiale.
+- Klik på **“Alt indhold”** i topmenuen for at se alt tilgængeligt indhold – inklusiv ukorrekturlæst materiale.
 - Brug søgefeltet. Filtrering på indhold redigeret af Bibliotekernes Nationale Redaktion (*Kategoriseret*) eller ikke redigeret indhold (*Ikke kategoriseret*).
+
+
+Søgesiden er som standard filteret efter indhold som er kvalitetssikret af Bibliotekernes Nationale Redaktion. Det er for at sikre, at det er et aktivt valg, når man henter indhold, som ikke er kvalitetssikret. Altså at man som webedaktør er klar over, at man selv er ansvarlig for at læse korrektur og sikre national relevans. På den måde sikrer vi os, at man som bibliotek selv forholder sig til kvalitet, retstavning og relevans, før indhold deles. 
 
 
 
@@ -31,12 +33,14 @@ Klik dig ind på det ønskede indhold.
 
 
 ## 4. Klik på “Importer til dit bibliotek”
-I bunden af skærmen til højre finder du knappen **"Importer [titlen på indholdet] til bibliotek"** – klik her.
+I bunden af skærmen til højre finder du knappen **"Importer [titlen på indholdet] til [dit biblioteksnavn]"** – klik her.
+<img width="589" alt="import" src="https://github.com/user-attachments/assets/c4d4ba7d-6944-4d67-a388-f7774c728488" />
+
 
 
 
 ## 5. Redigér og tilpas indholdet
-Artiklen ligger nu i dit CMS. Du kan:
+Indholdet ligger nu i dit CMS. Du kan:
 
 - Tilføje, redigere eller rette **paragraffer**, **materialer**, **tags**, **kategorier** og tilføje **relaterede artikler**
 - **Undgå at ændre i feltet “Metatags: Canonical URL”**, da det kan påvirke søgemaskinernes visning og SEO for ophavsbiblioteket.
@@ -47,7 +51,7 @@ Artiklen ligger nu i dit CMS. Du kan:
 ## Godt at vide
 
 **Grafikker og billeder**  
-Alt materiale redigeret af BNR er tilpasset jeres CMS og rettighedsclearet. Enkelte billeder kræver billedkreditering, hvilket fremgår af billedfilen og bylinen.
+Alt materiale redigeret af Bibliotekernes Nationale Redaktion er tilpasset jeres CMS og rettighedsclearet. Enkelte billeder kræver billedkreditering, hvilket fremgår af billedfilen og bylinen.
 
 **Videoer**  
 Videoer er typisk delt med link til Videotool.  
@@ -58,7 +62,7 @@ YouTube-versioner kan findes på:
 Undgå ændringer i feltet **Metatags → Canonical URL**, så undgår vi at søgemaskiner registrerer indholdet som dubleret.
 
 **Kreditering af forfatter**  
-Det er ikke nødvendigt at kreditere forfattere, når indholdet importeres til jeres site.
+Det er ikke nødvendigt at kreditere forfattere, når indholdet importeres til jeres site, da det altid vil have "biblioteket" automatisk som afsender. 
 
 ---
 
@@ -86,7 +90,6 @@ Bibliotekernes Nationale Redaktion sørger for at det kun er de tilgængelige ty
 - Video  
 - Accordion  
 - Enkel linkliste  
-- Material grid link - automatic  
 - Materialekomponent – manuel
 - Materialekomponent – automatic 
 - Recommendation 
@@ -98,6 +101,7 @@ Bibliotekernes Nationale Redaktion sørger for at det kun er de tilgængelige ty
 - GO Video Bundle – Automatic  
 - GO Video Bundle – Manual  
 
+[Se vejledning for paragraph komponenterne på GO](https://www.folkebibliotekernescms.dk/main/go/paragraphs-go/)
 
 ## Ikke-understøttede paragraphs som ikke kan hentes:
 
