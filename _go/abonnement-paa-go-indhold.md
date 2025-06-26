@@ -1,5 +1,5 @@
 ---
-title: "Abonnér på indhold til GO"
+title: "Abonnér på indhold for GO"
 category: GO
 weight: 9
 ---
