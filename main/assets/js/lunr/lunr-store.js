@@ -227,6 +227,12 @@ var store = [{
         "url": "/main/category/webmasterplanen/",
         "teaser": null
       },{
+        "title": "Sådan abonnerer du på indhold",
+        "excerpt":"Sådan abonnerer du på indhold fra Delingstjenesten Du kan nu abonnere på indhold fra Delingstjenesten baseret på tags og kategorier. Når nye artikler med det valgte tag eller kategori udgives, bliver de automatisk hentet ind på dit bibliotekssite - på den placering, du selv har valgt. 1. Vælg et tag...","categories": [],
+        "tags": [],
+        "url": "/main/delingstjenesten/abonnementsordning/",
+        "teaser": null
+      },{
         "title": "Sådan sender du indhold til Delingstjenesten",
         "excerpt":"Med send-funktionen kan du dele indholdstyperne artikler og sider fra din egen hjemmeside med resten af landets biblioteker via Delingstjenesten. Du kan kun sende indhold én gang. Når artiklen eller siden først er sendt, vil efterfølgende ændringer kun gælde på dit eget site – ikke i Delingstjenesten. 1. Opret eller...","categories": ["Delingstjenesten"],
         "tags": [],
