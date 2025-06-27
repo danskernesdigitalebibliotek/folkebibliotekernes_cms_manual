@@ -137,4 +137,7 @@ Find jeres kommune i listen og kopier det ind i konfigurationen:
 849: Jammerbugt  
 851: Aalborg  
 860: Hjørring
+956: Kalaallit Nunaat/Grønland
+1110: Tórshavn
+4: Sydslesvig
 
