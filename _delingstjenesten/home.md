@@ -5,7 +5,7 @@ permalink: /delingstjenesten/
 ---
 
 
-Denne side samler de seneste vejledninger og information om Delingstjenesten - bibliotekernes nationale formidling.
+Denne side samler de seneste vejledninger og information om [Delingstjenesten - bibliotekernes nationale formidling](https://delingstjenesten.dk/).
 
 ---
 
@@ -16,6 +16,10 @@ Denne side samler de seneste vejledninger og information om Delingstjenesten - b
 - [Sådan henter du indhold fra Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/import-af-indhold/)
 
 - [Sådan sender du indhold til Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/eksport-af-indhold/)
+  
+-  [Sådan abonnerer du på indhold fra Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/abonnementsordning/)
+
+<br>
 
 <br>
 
@@ -33,7 +37,7 @@ Denne side samler de seneste vejledninger og information om Delingstjenesten - b
 
 ---
 <br>
-Med få klik kan biblioteker nu:
+Med få klik kan biblioteker:
 
 - Hente artikler, sider, grafik og videoer fra Delingstjenesten.
 
