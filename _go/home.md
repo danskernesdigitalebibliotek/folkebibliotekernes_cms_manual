@@ -27,6 +27,9 @@ GO går nu fra at være et nationalt site til at få hver sin hjemmeside tilknyt
 - [Sådan opretter du nyt indhold på GO](https://www.folkebibliotekernescms.dk/main/go/opret-indhold-for-go/)
 - [Abonnement på GO-indhold](https://www.folkebibliotekernescms.dk/main/go/abonnement-paa-go-indhold/)
 
+#### Ændring af biblioteksnavn i headeren og footeren:
+- [Sådan ændrer du biblioteksnavnet i GOs header og footer](https://www.folkebibliotekernescms.dk/main/go/aendre-biblioteksnavn-header-footer/)
+
   
 
 ## PR-materialer til bibliotekerne i forbindelse med lanceringen af GO:
