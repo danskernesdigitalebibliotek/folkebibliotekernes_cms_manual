@@ -509,6 +509,12 @@ var store = [{
         "url": "/main/go/abonnement-paa-go-indhold/",
         "teaser": null
       },{
+        "title": "Sådan ændrer du biblioteksnavnet i GOs header og footer",
+        "excerpt":"Du kan ændre det biblioteksnavn, der fremgår af jeres nye GO-sites header og footer. Eksempelvis: Du skal være logget ind i jeres almindelige CMS-backend og enten indsætte dette i oppe browserens URL ‘admin/appearance/settings/novel’ efter din hjemmesides URL, så eksempelvis: https://taarnbybib.dk/admin/appearance/settings/novel eller efter login i backenden gå til ‘Appearance’ i topmenuen...","categories": ["GO"],
+        "tags": [],
+        "url": "/main/go/aendre-biblioteksnavn-header-footer/",
+        "teaser": null
+      },{
         "title": "GO - Børnenes bibliotek",
         "excerpt":"Denne side samler de seneste vejledninger og informationer om det nye GO. GO går nu fra at være et nationalt site til at få hver sin hjemmeside tilknyttet til Folkebibliotekernes eksisterende hjemmesider. OBS: Den fulde lancering af GO er snart klar - det vil sige, at I allerede nu vil...","categories": [],
         "tags": [],
