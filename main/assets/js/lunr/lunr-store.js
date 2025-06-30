@@ -510,7 +510,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Sådan ændrer du biblioteksnavnet i GOs header og footer",
-        "excerpt":"Du kan ændre det biblioteksnavn, der fremgår af jeres nye GO-sites header og footer. Eksempelvis: Du skal være logget ind i jeres almindelige CMS-backend og enten indsætte dette i oppe browserens URL ‘admin/appearance/settings/novel’ efter din hjemmesides URL, så eksempelvis: https://taarnbybib.dk/admin/appearance/settings/novel eller efter login i backenden gå til ‘Appearance’ i topmenuen...","categories": ["GO"],
+        "excerpt":"Du kan ændre det biblioteksnavn, der fremgår af jeres nye GO-sites header og footer. Eksempelvis: Du skal være logget ind i jeres almindelige CMS-backend og enten indsætte dette: ‘admin/appearance/settings/novel’ oppe i browserens URL efter din hjemmesides URL, så eksempelvis: https://taarnbybib.dk/admin/appearance/settings/novel eller du kan, efter login i backenden, gå til ‘Appearance’...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/aendre-biblioteksnavn-header-footer/",
         "teaser": null
