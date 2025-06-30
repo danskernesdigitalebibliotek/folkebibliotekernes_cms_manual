@@ -126,7 +126,9 @@ Klik på ‘Add’ under ‘Paragraphs’. En visning af de tilgængelige paragr
 - Tilføj en beskrivelse af indholdet til din Linkboks.
 
 - Under ‘Link’ indsættes:
-   - selve linket (URL’en), som linkboksen skal lede til – dette link kan enten lede ud af GO-sitet eller linke ind til andre sider eller artikler* på GO-sitet.  
+   - selve linket (URL’en), som linkboksen skal lede til – dette link kan enten lede ud af GO-sitet eller linke ind til andre sider eller artikler* på GO-sitet.
+
+     **OBS!** For nuværende kan du desværre ikke linke med relative links til jeres CMS' sider og/eller artikler altså eksempelvis anvende "/node/591". Du skal i stedet anvende din sides eller artikels fulde URL, når du linker. 
 
    - en linktekst, som er obligatorisk. Denne linktekst vises på knappen for linket. 
 
