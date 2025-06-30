@@ -4,8 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 30/6 GO-sites: Forsiden melder "Ups! Noget gik galt"
-Vi er blevet opmærksomme på, at forsiden på nogle bibliotekers GO-sites melder "Ups! Noget gik galt." Reload er i gang med lave en fejlrettelse, som vi forventer kommer ud enten i dag d. 30/6 eller i morgen d. 1/7. Vi vil melde ud her på statussitet, når alle GO-siderne igen kører som normalt.
+## 30/6 GO-sites: Forsiden melder Ups! Noget gik galt
+Vi er blevet opmærksomme på, at forsiden på nogle bibliotekers GO-sites melder Ups! Noget gik galt. Reload er i gang med lave en fejlrettelse, som vi forventer kommer ud enten i dag d. 30/6 eller i morgen d. 1/7. Vi vil melde ud her på statussitet, når alle GO-siderne igen kører som normalt.
 ## 19/6 Webforms: Formularerne virker med forbehold
 Webformularerne virker igen. Vi har ikke fået det endeligt bekræftet endnu fra vores udviklere. Reload er i dialog med Microsoft om at få hævet kvoten på mailudsendelserne, men Microsoft har ikke hævet det endnu. Så det kan være at vi bliver ramt af endnu en høj stigning af mails, som får formularerne til at fejle. Så med andre ord: Vi arbejder fortsat på dette.
 ## 18/6 Webforms: Vi arbejder fortsat på en løsning
