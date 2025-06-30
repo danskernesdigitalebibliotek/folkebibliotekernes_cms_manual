@@ -14,4 +14,4 @@ Du skal være logget ind i jeres almindelige CMS-backend og enten indsætte dett
 Under 'Logo billede' kan du under 'Title' angive, hvilket biblioteksnavn, der skal fremgå af GOs header og footer. Klik på Gem, når du er færdig.
 
 
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/6bcfe055-cb2c-4722-98e8-aca829fd5c94" Under 'Content' vælg 'Tilføj indhold" %} 
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/6bcfe055-cb2c-4722-98e8-aca829fd5c94" %} 
