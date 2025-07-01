@@ -1,5 +1,5 @@
 ---
-title: "Sådan abonnerer du på indhold"
+title: "Sådan abonnerer du på indhold fra Delingstjenesten"
 parent: "Delingstjenesten"
 nav_order: 4
 ---
@@ -11,7 +11,7 @@ Du kan nu abonnere på indhold fra Delingstjenesten baseret på **tags og katego
 
 ## 1. Vælg et tag eller kategori du vil abonnere på
 
-- Gå til en af **tag- eller kategori-samlesiderne** på Delingstjenesten (f.eks. *Klima*, *Forfatterfokus*, *Børn og unge* m.fl.)
+- Gå til en af **tag- eller kategori-samlesiderne** på Delingstjenesten (f.eks. *DR Romanprisen*, *Noget, der ligner*, *Forfatterfokus* m.fl.)
 - Klik på knappen nederst til venstre:  
   **Abonner på "[tag/kategorinavn]"**
 
