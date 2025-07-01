@@ -4,7 +4,6 @@ parent: "Delingstjenesten"
 nav_order: 4
 ---
 
-# Sådan abonnerer du på indhold fra Delingstjenesten
 
 Du kan nu abonnere på indhold fra Delingstjenesten baseret på **tags og kategorier**. Når nye artikler med det valgte tag eller kategori udgives, bliver de automatisk hentet ind på dit bibliotekssite - på den placering, du selv har valgt.
 
