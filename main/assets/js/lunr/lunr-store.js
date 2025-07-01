@@ -228,7 +228,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Sådan abonnerer du på indhold",
-        "excerpt":"Sådan abonnerer du på indhold fra Delingstjenesten Du kan nu abonnere på indhold fra Delingstjenesten baseret på tags og kategorier. Når nye artikler med det valgte tag eller kategori udgives, bliver de automatisk hentet ind på dit bibliotekssite - på den placering, du selv har valgt. 1. Vælg et tag...","categories": [],
+        "excerpt":"Du kan nu abonnere på indhold fra Delingstjenesten baseret på tags og kategorier. Når nye artikler med det valgte tag eller kategori udgives, bliver de automatisk hentet ind på dit bibliotekssite - på den placering, du selv har valgt. 1. Vælg et tag eller kategori du vil abonnere på Gå...","categories": [],
         "tags": [],
         "url": "/main/delingstjenesten/abonnementsordning/",
         "teaser": null
