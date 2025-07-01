@@ -88,6 +88,13 @@ Artiklen vises under dit biblioteksnavn. Her kan du tjekke, at alle ønskede par
 
 
 ---
+### 5. SEO og Canonical URL
+
+Når du sender indhold til Delingstjenesten, bliveer en Canonical URL automatisk tildelt dit bibliotekssite. Der følger altså altid en Canonical URL med over fra det oprindelige afsenderbibliotek, når indholdet eksporteres til Delingstjenesten.
+
+Når andre biblioteker importerer indholdet via abonnementsordningen, fastholdes denne Canonical URL, så søgemaskiner forstår, hvor det originale indhold stammer fra, og undgår problemer med duplicate content.
+
+---
 
 ### Ofte stillede spørgsmål
 
