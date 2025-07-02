@@ -66,6 +66,7 @@ Her kan du:
 - Du kan abonnere på **flere tags samtidig**
 - Eksisterende indhold ændres **ikke**, før nye artikler med tagget udgives
 - Du har altid **fuld kontrol** over importeret indhold
+- Bibliotekernes Nationale Redaktion vil forsøge at dække de kategorier, der udstilles, med indhold nok til at der løbende sker en velkoordineret udskiftning og et godt flow i strømmen af formidling. Du kan altid finde de aktive abonnementer på Delingstjenestens forside. 
 
 ---
 
