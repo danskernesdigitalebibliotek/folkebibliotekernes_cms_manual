@@ -70,10 +70,12 @@ Klik på ‘Gem’ og abonnementet loades nu ind. Der kan gå op til en time fø
 Vælg **Indhold → Administrér abonnementer***
 
 Klik på knappen "Opdatér abonnementer" og få de nyeste opdateringer ind på dit site med det samme. 
-![opdater abonnement_e](https://github.com/user-attachments/assets/2711478e-9080-4b4a-92d9-9e7bca15fbc3)
+
+![opdater abonnement_pil](https://github.com/user-attachments/assets/3896d0f2-ffca-4d48-aa1e-b1e57af64962)
 
 
-<br>
+
+
 
 
 ---
@@ -82,6 +84,8 @@ Klik på knappen "Opdatér abonnementer" og få de nyeste opdateringer ind på d
 
 - Du kan altid **redigere eller slette** artikler hentet via abonnement
 - Ønsker du at stoppe opdateringer på en enkelt artikel, kan du i redigeringstilstand **frakoble abonnementet i toppen af artiklen**
+
+<br>
 
 ---
 
