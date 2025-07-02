@@ -8,6 +8,8 @@ Med **send-funktionen** kan du dele indholdstyperne artikler og sider fra din eg
 
 Du kan kun sende indhold **én gang**. Når artiklen eller siden først er sendt, vil efterfølgende ændringer kun gælde på dit eget site – ikke i Delingstjenesten.
 
+<br>
+
 ---
 
 ### 1. Opret eller rediger en artikel
@@ -31,6 +33,7 @@ Udfyld som normalt: titel, brødtekst, teaserbillede mv.
 
 **OBS:** Andre paragraph-typer bliver ikke sendt med.
 
+<br>
 
 ---
 
@@ -46,6 +49,10 @@ Sæt flueben og klik **Gem**.
 Artiklen / siden bliver nu både publiceret på dit site samtidig med at den bliver sendt til Delingstjenesten.
 
 Funktionen fungerer som du måske kender fra *Biblioteksproduceret indhold (BPI)* – indholdet sendes kun én gang.
+
+<br>
+
+<br> 
 
 
 ---
@@ -63,6 +70,8 @@ Navnet vil fremgå i artiklen på Delingstjenesten.
 
 På søgesiden vises altid **dit biblioteksnavn** som afsender.  
 Når andre biblioteker henter indholdet, vises forfatterfeltet som **“af biblioteket”**.
+
+
 
 
 ---
