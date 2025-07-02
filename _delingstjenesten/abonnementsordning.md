@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 
-Du kan nu abonnere på indhold fra Delingstjenesten baseret på **tags og kategorier**. Når nye artikler med det valgte tag eller kategori udgives, bliver de automatisk hentet ind på dit bibliotekssite - på den placering, du selv har valgt.
+Med abonnementsfunktionen kan du automatisk få det nyeste indhold leveret direkte på dit biblioteketssite, efterhånden som det publiceres. Du kan abonnere på indhold fra Delingstjenesten baseret på **tags og kategorier**. Når nye artikler med det valgte tag eller kategori udgives, bliver de automatisk hentet ind på dit bibliotekssite - på den placering, du selv har valgt.
 
 ---
 
