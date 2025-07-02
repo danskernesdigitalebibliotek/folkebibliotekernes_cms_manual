@@ -30,8 +30,10 @@ Efter klik på *Abonner* lander du på dit eget sitet igen, på en opsætningssi
 
 Her kan du vælge med togglen "Importer kun kommende indhold":
 
-- Om du **kun vil hente fremtidige artikler**
+- Om du **kun vil hente fremtidige artikler**.
 - Eller om du ønsker at hente **eksisterende artikler**. Det vil sige få alt det indhold ind, som Bibliotekernes Nationale Redaktion allerede har oprettet og som ligger klar til at komme ud på dit bibliotekssite.
+
+![importer_kun_](https://github.com/user-attachments/assets/5a8ad6b7-aa30-4358-b932-755102fecaf5)
 
 
 
@@ -44,9 +46,17 @@ Brug slideren i toppen til at vælge.
 ### 3. Forbind til tag eller kategori på dit bibliotek
 
 Vælg herefter, hvilket tag eller hvilken kategori indholdet skal forbindes til på dit bibliotek.
+<br>
+
 
 Eksempel:  
-Tagget *Forfatterfokus* fra Delingstjenesten kan forbindes med bibliotekets kategori *Litteratur*. Artiklerne lander så automatisk under *Litteratur*, sorteret efter udgivelsesdato.
+Tagget *DR Romanprisen* fra Delingstjenesten kan forbindes med bibliotekets tagget *Litteraturpriser*. Artiklerne lander så automatisk under *Litteraturpriser*, sorteret efter udgivelsesdato.
+
+![oprettelse abonnement](https://github.com/user-attachments/assets/f94fffcb-7e00-4c77-84c7-7ccca7f51226)
+
+Anbefaling: Behold gerne navngivning med det oprindelige tag eller kategori i titlen, som vist i eksemplet. På den måde er det nemt for dig at danne et overblik over hvilke taksonomier du allerede abonnenere på.
+
+
 
 <br>
 
