@@ -19,6 +19,8 @@ Du kan abonnere på indhold fra Delingstjenesten baseret på **tags og kategorie
   
 ![tag tilmelding](https://github.com/user-attachments/assets/1f6d8e82-4919-4963-b77d-6e186d0bef4c)
 
+<br>
+
 
 
 ---
@@ -34,6 +36,8 @@ Her kan du vælge med togglen "Importer kun kommende indhold":
 
 Brug slideren i toppen til at vælge.
 
+<br>
+
 ---
 
 ### 3. Forbind til tag eller kategori på dit bibliotek
@@ -43,12 +47,16 @@ Vælg herefter, hvilket tag eller hvilken kategori indholdet skal forbindes til 
 Eksempel:  
 Tagget *Forfatterfokus* fra Delingstjenesten kan forbindes med bibliotekets kategori *Litteratur*. Artiklerne lander så automatisk under *Litteratur*, sorteret efter udgivelsesdato.
 
+<br>
+
 
 ---
 
 ## 4. Gem og se indhold
 Klik på ‘Gem’ og abonnementet loades nu ind. Der kan gå op til en time før indholdet er processeret helt ud på dit bibliotekssite. Men du kan fremskynde processen ved at gå ind i oversigten over dine abonnementer. Vælg **Indhold → Administrér abonnementer***
 Find knappen "Opdatér abonnementer" i højre hjørne. Klik og få de nyeste opdateringer med. 
+
+<br>
 
 
 ---
@@ -72,6 +80,8 @@ Her kan du:
 - Se og redigere alle aktive abonnementer
 - Ændre koblingen til tag eller kategori
 - Slette abonnementer, du ikke længere ønsker at følge
+
+<br>
 
 ---
 
