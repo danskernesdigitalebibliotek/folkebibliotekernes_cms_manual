@@ -52,7 +52,7 @@ Tagget *Forfatterfokus* fra Delingstjenesten kan forbindes med bibliotekets kate
 
 ---
 
-## 4. Gem og se indhold
+### 4. Gem og se indhold
 Klik på ‘Gem’ og abonnementet loades nu ind. Der kan gå op til en time før indholdet er processeret helt ud på dit bibliotekssite. Men du kan fremskynde processen ved at gå ind i oversigten over dine abonnementer. Vælg **Indhold → Administrér abonnementer***
 Find knappen "Opdatér abonnementer" i højre hjørne. Klik og få de nyeste opdateringer med. 
 
@@ -61,14 +61,14 @@ Find knappen "Opdatér abonnementer" i højre hjørne. Klik og få de nyeste opd
 
 ---
 
-## 5. Redigér og frakobl efter behov
+### 5. Redigér og frakobl efter behov
 
 - Du kan altid **redigere eller slette** artikler hentet via abonnement
 - Ønsker du at stoppe opdateringer på en artikel, kan du i redigeringstilstand **frakoble abonnementet i toppen af artiklen**
 
 ---
 
-## 6. Administrér dine abonnementer
+### 6. Administrér dine abonnementer
 
 Du kan nemt få overblik over dine aktive abonnementer:
 
@@ -83,9 +83,11 @@ Her kan du:
 
 <br>
 
+<br>
+
 ---
 
-## Godt at vide
+### Godt at vide
 
 - Du kan abonnere på **flere tags samtidig**
 - Eksisterende indhold ændres **ikke**, før nye artikler med tagget udgives
@@ -94,7 +96,7 @@ Her kan du:
 
 ---
 
-## Brug for hjælp?
+### Brug for hjælp?
 
 - Se også [**Import af indhold fra Delingstjenesten**](https://www.folkebibliotekernescms.dk/main/delingstjenesten/import-af-indhold/)
 - Oplever du fejl? Meld ind via **ServiceDesk → Folkebibliotekernes CMS → Indmeld fejl**
