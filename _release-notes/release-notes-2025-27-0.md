@@ -23,7 +23,7 @@ Følgende webmasterbiblioteker overgår efter aftale til 2025.27.0 også på pro
 - Aalborg
 - Faxe
 
-Følgende webmasterbiblioteker har ønsket at blive deres normale rul, dvs. deres produktionsites får 2025.26.1:
+Følgende webmasterbiblioteker har ønsket at blive på deres normale udrulningsplan, dvs. deres produktionsites får 2025.26.1:
 - Aarhus
 - København
 - Silkeborg
