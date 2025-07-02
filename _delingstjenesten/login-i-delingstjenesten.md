@@ -18,6 +18,8 @@ For at hente og abonnere på indhold fra Delingstjenesten til dit bibliotekssite
 Du sendes nu videre til Delingstjenestens forside.  
 Her er du automatisk logget ind som dit bibliotek og har adgang til at hente og abonnere på indhold.
 
+<br>
+
 ---
 
 ### Sådan kan du se, at du er logget ind
@@ -26,6 +28,8 @@ I nederste venstre hjørne på Delingstjenesten vises en login-indikator: **“F
 <img width="399" alt="login_indikator" src="https://github.com/user-attachments/assets/86ab97b9-8296-43d5-975b-deb11f4b6652" /> 
 
 Når denne knap vises, er du logget korrekt ind. Du kan klikke på knappen for at komme direkte til **søgesiden** med alt tilgængeligt indhold på Delingstjenesten.
+
+<br>
 
 
 ---
