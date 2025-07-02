@@ -33,4 +33,4 @@ Følgende webmasterbiblioteker har ønsket at blive på deres normale udrulnings
 - Udarbejdes
 
 ## Fejlrettelser og opgraderinger
-- Udarbejdes
+- En tidligere fejl gjorde, at medier fra importeret indhold fra Delingstjenesten blev duplikeret mange gange.
