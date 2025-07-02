@@ -31,7 +31,9 @@ Efter klik på *Abonner* lander du på dit eget sitet igen, på en opsætningssi
 Her kan du vælge med togglen "Importer kun kommende indhold":
 
 - Om du **kun vil hente fremtidige artikler**
-- Eller om du ønsker at hente **eksisterende artikler** med tagget eller kategorien. Det vil sige få alt det indhold ind, som Bibliotekernes Nationale Redaktion allerede har oprettet og som ligger klar til at komme ud på dit bibliotekssite. 
+- Eller om du ønsker at hente **eksisterende artikler**. Det vil sige få alt det indhold ind, som Bibliotekernes Nationale Redaktion allerede har oprettet og som ligger klar til at komme ud på dit bibliotekssite.
+
+
 
 Brug slideren i toppen til at vælge.
 
@@ -54,6 +56,8 @@ Tagget *Forfatterfokus* fra Delingstjenesten kan forbindes med bibliotekets kate
 ### 4. Gem og se indhold
 Klik på ‘Gem’ og abonnementet loades nu ind. Der kan gå op til en time før indholdet er processeret helt ud på dit bibliotekssite. Men du kan fremskynde denne proces ved at gå ind i oversigten over dine abonnementer. Vælg **Indhold → Administrér abonnementer***
 Klik på knappen "Opdatér abonnementer" og få de nyeste opdateringer ind på dit site med det samme. 
+![opdater abonnement_e](https://github.com/user-attachments/assets/2711478e-9080-4b4a-92d9-9e7bca15fbc3)
+
 
 <br>
 
