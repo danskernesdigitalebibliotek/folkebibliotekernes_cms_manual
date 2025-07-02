@@ -14,8 +14,7 @@ Du kan abonnere på indhold fra Delingstjenesten baseret på **tags og kategorie
 ### 1. Vælg et tag eller kategori du vil abonnere på 
 
 - Gå til en af **tag- eller kategori-samlesiderne** på Delingstjenesten (f.eks. *DR Romanprisen*, *Noget, der ligner*, *Forfatterfokus* m.fl.)
-- Klik på knappen nederst til venstre:  
-  **Abonner på "[tag/kategorinavn]"**
+- Klik på knappen nederst til venstre: **Abonner på "[tag/kategorinavn]" på [dit biblioteksnavnn]**
   
 ![tag tilmelding](https://github.com/user-attachments/assets/1f6d8e82-4919-4963-b77d-6e186d0bef4c)
 
@@ -32,7 +31,7 @@ Efter klik på *Abonner* lander du på dit eget sitet igen, på en opsætningssi
 Her kan du vælge med togglen "Importer kun kommende indhold":
 
 - Om du **kun vil hente fremtidige artikler**
-- Eller om su ønsker at hente **eksisterende artikler** med tagget eller kategorien. Det vil sige få alt det indhold ind, som Bibliotekernes Nationale Redaktion allerede har oprettet og som ligger klar til at komme ud på dit bibliotekssite. 
+- Eller om du ønsker at hente **eksisterende artikler** med tagget eller kategorien. Det vil sige få alt det indhold ind, som Bibliotekernes Nationale Redaktion allerede har oprettet og som ligger klar til at komme ud på dit bibliotekssite. 
 
 Brug slideren i toppen til at vælge.
 
@@ -53,8 +52,8 @@ Tagget *Forfatterfokus* fra Delingstjenesten kan forbindes med bibliotekets kate
 ---
 
 ### 4. Gem og se indhold
-Klik på ‘Gem’ og abonnementet loades nu ind. Der kan gå op til en time før indholdet er processeret helt ud på dit bibliotekssite. Men du kan fremskynde processen ved at gå ind i oversigten over dine abonnementer. Vælg **Indhold → Administrér abonnementer***
-Find knappen "Opdatér abonnementer" i højre hjørne. Klik og få de nyeste opdateringer med. 
+Klik på ‘Gem’ og abonnementet loades nu ind. Der kan gå op til en time før indholdet er processeret helt ud på dit bibliotekssite. Men du kan fremskynde denne proces ved at gå ind i oversigten over dine abonnementer. Vælg **Indhold → Administrér abonnementer***
+Klik på knappen "Opdatér abonnementer" og få de nyeste opdateringer ind på dit site med det samme. 
 
 <br>
 
@@ -64,7 +63,7 @@ Find knappen "Opdatér abonnementer" i højre hjørne. Klik og få de nyeste opd
 ### 5. Redigér og frakobl efter behov
 
 - Du kan altid **redigere eller slette** artikler hentet via abonnement
-- Ønsker du at stoppe opdateringer på en artikel, kan du i redigeringstilstand **frakoble abonnementet i toppen af artiklen**
+- Ønsker du at stoppe opdateringer på en enkelt artikel, kan du i redigeringstilstand **frakoble abonnementet i toppen af artiklen**
 
 ---
 
