@@ -1235,6 +1235,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-26-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.27.0",
+        "excerpt":"FBIinfo (Ny forsideservice) og bedre visning   Releasedato: 07-07-2025   Redaktør: Produktionssites: 2025.27.0   Webmaster: Produktionssites: 2025.26.0 Moduletestsites: 2025.27.0   Nye features  ","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-27-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
