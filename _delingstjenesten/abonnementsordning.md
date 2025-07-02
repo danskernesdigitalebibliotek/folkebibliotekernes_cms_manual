@@ -11,7 +11,7 @@ Du kan abonnere på indhold fra Delingstjenesten baseret på **tags og kategorie
 
 ---
 
-## 1. Vælg et tag eller kategori du vil abonnere på
+### 1. Vælg et tag eller kategori du vil abonnere på 
 
 - Gå til en af **tag- eller kategori-samlesiderne** på Delingstjenesten (f.eks. *DR Romanprisen*, *Noget, der ligner*, *Forfatterfokus* m.fl.)
 - Klik på knappen nederst til venstre:  
@@ -23,7 +23,7 @@ Du kan abonnere på indhold fra Delingstjenesten baseret på **tags og kategorie
 
 ---
 
-## 2. Vælg, hvad der skal importeres
+### 2. Vælg, hvad der skal importeres
 
 Efter klik på *Abonner* lander du på dit eget sitet igen, på en opsætningsside for abonnementet.
 
@@ -36,7 +36,7 @@ Brug slideren i toppen til at vælge.
 
 ---
 
-## 3. Forbind til tag eller kategori på dit bibliotek
+### 3. Forbind til tag eller kategori på dit bibliotek
 
 Vælg herefter, hvilket tag eller hvilken kategori indholdet skal forbindes til på dit bibliotek.
 
