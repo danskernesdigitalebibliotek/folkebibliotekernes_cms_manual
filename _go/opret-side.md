@@ -4,6 +4,7 @@ category: GO
 weight: 5
 ---
 Indholdstypen ‘GO Page’ bruges til at oprette forsider og lignende samlende indgange til tilknyttet indhold på dit site eksempelvis en FAQ-side.
+
 Vær opmærksom på at nyoprettet indhold eller ændringer i indhold kan have en forsinkelse, fra du gemmer til det er synligt på sitet.
 
 ## Sådan opretter du en Side 
