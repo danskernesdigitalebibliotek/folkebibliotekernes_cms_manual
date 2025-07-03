@@ -43,7 +43,7 @@ Ved siden af udviklingsønsker har vi løbende udvikling som skal understøtte f
 For at understøtte prioriteringen bruger vi disse generelle principper:
 - Kristisk sikkerhed, fejlrettelser og driftsstabilisering bliver prioritet over nyudvikling
 - Værdi for slutbrugerne vægter højere end værdi for redaktørerne
-- Værdi for flertallet vægter over værdi for mindretallet, men vi er bevist på særmålgrupper fx studerende
+- Værdi for flertallet vægter over værdi for mindretallet, men vi er opmærksomme på særmålgrupper fx studerende
 - Primære brugerrejser prioriteres over sekundære brugerrejser som prioriteres over øvrige brugerrejser
 
 Alle ønsker, som går videre til udvikling, skal overholde de vedtagne designprincipper for CMS’en og vi forbeholder os ret til at afvise ønsker som, efter vores vurdering, ikke passer til løsningen, og som går imod det ansvar, vi har påtaget os for kvaliteten af den samlede løsning.
