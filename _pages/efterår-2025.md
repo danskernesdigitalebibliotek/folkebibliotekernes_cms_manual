@@ -9,11 +9,11 @@ Siden webinaret den 20. maj har 76 bibliotekskommuner prioriteret mellem de 20 e
 
 Resultatet er ret tydeligt hvor emneområdet Avanceret søgning samt Arrangementer har fået flest stemmer. 
 
- 
+{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/c23e8d2c-f355-4e56-a8f1-52fa56cd18b4" alt="Prioriteret liste" caption="Prioriteret liste" %}
 
 Sammen med Reload har vi nu estimeret de enkelte sager, og vores forventning er, at vi kan nå emneområderne 1. Avanceret søgning, 2. Arrangementer, 3. Søgeresultatsiden og værkvisningssiden og 4. Lånerstatus og brugerprofil i efteråret 2025. 
 
-
+{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/277b0589-fcec-4eb2-a256-4de4534cdfc5" alt="Tidsplan" caption="Tidsplan" %}
 
 Ønskerne i et emneområde vil komme ud løbende i de releases indenfor deres releaseperiode.  
 
