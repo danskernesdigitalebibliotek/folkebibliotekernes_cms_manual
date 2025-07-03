@@ -1236,9 +1236,9 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2025.27.0",
-        "excerpt":"Firstaccessiondate-søgekode bliver til firstaccessiondateitem-filter Releasedato: 03-07-2025 Redaktør: Produktionssites: 2025.27.0 Webmaster: Produktionssites: 2025.26.1 / 2025.27.0, Moduletestsites: 2025.27.0 Følgende webmasterbiblioteker overgår ekstraordinært efter aftale til 2025.27.0 også på produktionssites: Tårnby Herning Sønderborg Ballerup Albertslund Roskilde Odense Aalborg Faxe Følgende webmasterbiblioteker har ønsket at blive på deres normale udrulningsplan, dvs. deres produktionsites får...","categories": ["Release Notes"],
+        "excerpt":"Firstaccessiondate-søgekode bliver til firstaccessiondateitem-filter Releasedato: 03-07-2025 Redaktør: Produktionssites: 2025.27.2 Webmaster: Produktionssites: 2025.26.1 / 2025.27.2, Moduletestsites: 2025.27.2 Følgende webmasterbiblioteker overgår ekstraordinært efter aftale til 2025.27.2 også på produktionssites: Tårnby Herning Sønderborg Ballerup Albertslund Roskilde Odense Aalborg Faxe Følgende webmasterbiblioteker har ønsket at blive på deres normale udrulningsplan, dvs. deres produktionsites får...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2025-27-0/",
+        "url": "/main/overblik/release-notes/release-notes-2025-27-2/",
         "teaser": null
       },{
         "title": "Release Notes 220324",
