@@ -9,7 +9,7 @@ Har du en god idé til videreudvikling eller et ønske om en ny funktion i Folke
 
 ## Udviklingsønsker i efteråret 2025
 
-[Læs om processen og prioriteringer for udviklingsønskerne i efteråret 2025](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/efteraar-2025){:target="_blank"} 
+[Læs om processen og prioriteringer for udviklingsønskerne i efteråret 2025](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/efteraar-2025) 
 {: .notice--info}
 
 ## Indmelding af ønsker
