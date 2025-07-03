@@ -9,7 +9,8 @@ Har du en god idé til videreudvikling eller et ønske om en ny funktion i Folke
 
 ## Udviklingsønsker i efteråret 2025
 
-[Læs om processen og prioriteringer for udviklingsønskerne i efteråret 2025](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker){:target="_blank"} {: .notice--info}
+[Læs om processen og prioriteringer for udviklingsønskerne i efteråret 2025](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker){:target="_blank"} 
+{: .notice--info}
 
 ## Indmelding af ønsker
 Du indmelder dit ønske via vores [serviceportal](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/user/login?destination=portals){:target="_blank"} og du skal være supportberettiget. 
