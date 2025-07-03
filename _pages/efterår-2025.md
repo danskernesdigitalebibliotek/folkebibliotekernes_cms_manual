@@ -1,6 +1,6 @@
 ---
 permalink: /overblik/udviklingsoensker/efteraar-2025
-title:  "Uviklingsønsker efterår 2025"
+title:  "Udviklingsønsker efterår 2025"
 sidebar: true
 nav: "overblik"
 ---
