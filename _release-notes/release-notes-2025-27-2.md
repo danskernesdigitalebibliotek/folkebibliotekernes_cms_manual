@@ -8,11 +8,11 @@ weight: 331
 
 Releasedato: 03-07-2025
 
-**Redaktør**: Produktionssites: 2025.27.0
+**Redaktør**: Produktionssites: 2025.27.2
 
-**Webmaster**: Produktionssites: 2025.26.1 / 2025.27.0, Moduletestsites: 2025.27.0
+**Webmaster**: Produktionssites: 2025.26.1 / 2025.27.2, Moduletestsites: 2025.27.2
 
-Følgende webmasterbiblioteker overgår ekstraordinært efter aftale til 2025.27.0 også på produktionssites:
+Følgende webmasterbiblioteker overgår ekstraordinært efter aftale til 2025.27.2 også på produktionssites:
 - Tårnby
 - Herning
 - Sønderborg
@@ -37,5 +37,6 @@ Følgende webmasterbiblioteker har ønsket at blive på deres normale udrulnings
 ## Fejlrettelser og opgraderinger
 - Duplikerede medier: En tidligere fejl gjorde, at medier fra importeret indhold fra Delingstjenesten blev duplikeret igen og igen i mediegalleriet. Det blev også løst ved en tidligere release, men med denne release er de duplikerede medier så også fjernet.
 - Delingstjenesten: Login-knappen i hovedmenuen, som ikke skal bruges på delingstjenesten.dk og blot er arvet fra den alm. CMS, er nu fjernet på delingstjenesten.dk.
+- Delingstjenesten: Der er rettet en fejl, hvor loginstatus og “Abonnér” / “Import”-knapperne ikke altid blev vist konsekvent i Delingstjenesten, når en redaktionel bruger var logget ind. Visningen er nu stabil.
 - GO: Relative links fra GO til bibliotekets alm. CMS-side linker nu korrekt videre fra GO til den alm. biblioteksside.
 - Tilgængelighed ift. søgning: Fokus ift. oplæsning holdes nu altid på valgt titel blandt søgeforslagene, fremfor fejlagtigt at læse øvrige elementer op på siden mellem oplæsning af søgeforslagene.
