@@ -10,34 +10,32 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Kategorier og tags - Folkebibliotekernes CMS</title>
-<meta name="description" content="">
+<!-- begin _includes/seo.html --><title>Uviklingsønsker efterår 2025 - Folkebibliotekernes CMS</title>
+<meta name="description" content="Manual, tidsplan og information om Folkebibliotekernes CMS. Sitets vedligeholdes af DDF  og udbygges løbende.">
 
 
 
-<meta property="og:type" content="article">
+<meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Kategorier og tags">
-<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/emneord/kategorier-og-tags/">
+<meta property="og:title" content="Uviklingsønsker efterår 2025">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/efteraar-2025">
 
 
-  <meta property="og:description" content="">
-
-
-
-
-
-
-
-  <meta property="article:published_time" content="2025-07-03T09:32:30+00:00">
+  <meta property="og:description" content="Manual, tidsplan og information om Folkebibliotekernes CMS. Sitets vedligeholdes af DDF  og udbygges løbende.">
 
 
 
 
 
 
-<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/emneord/kategorier-og-tags/">
+
+
+
+
+
+
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/efteraar-2025">
 
 
 
@@ -76,7 +74,7 @@
 <meta name="theme-color" content="#ffffff">
   </head>
 
-  <body class="layout--emneord" dir="ltr">
+  <body class="layout--single wide" dir="ltr">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -138,6 +136,8 @@
       
 
 
+
+
   
     
 
@@ -169,7 +169,7 @@
       
         
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-          <a href="/main/emneord" itemprop="item"><span itemprop="name">Emneord</span></a>
+          <a href="/main/udviklingsoensker" itemprop="item"><span itemprop="name">Udviklingsoensker</span></a>
           <meta itemprop="position" content="3" />
         </li>
         <span class="sep">/</span>
@@ -177,7 +177,7 @@
     
       
       
-        <li class="current">Kategorier og tags</li>
+        <li class="current">Uviklingsønsker efterår 2025</li>
       
     
   </ol>
@@ -188,57 +188,159 @@
 
 <div id="main" role="main">
   
+  
+  <div class="sidebar sticky">
+  
 
+  
 
-  <div class="archive">
+  
     
-      <h1 id="page-title" class="page__title">Kategorier og tags</h1>
-    
-    <section id="kategorier-og-tags" class="taxonomy__section">
-  <h2 class="archive__subtitle">Artikler om emnet "Kategorier og tags"</h2>
-  <div class="entries-">
+    <nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle Menu</label>
+  <ul class="nav__items">
     
       
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <div class="archive__item-collection">bliv-klar-til-folkebibliotekernes-cms</div>
-    <h2 class="archive__item-title no_toc" itemprop="headline">
       
-        <a href="/main/bliv-klar-til-folkebibliotekernes-cms/8taksonomi/" rel="permalink">Opgave 8: Taksonomi - kategorier og tags
+        <li>
+          
+            <span class="nav__sub-title">Overblik</span>
+          
+
+          
+          <ul>
+            
+              <li><a href="/main/overblik/support">Support og Servicedesk</a></li>
+            
+              <li><a href="/main/overblik/udviklingsoensker">Indberetning af udviklingsønsker </a></li>
+            
+              <li><a href="/main/overblik/status">Status på udvikling og fejlrettelser</a></li>
+            
+              <li><a href="/main/overblik/releases">Releases</a></li>
+            
+              <li><a href="/main/overblik/release-notes">Release Notes</a></li>
+            
+              <li><a href="/main/overblik/hostingplaner">Hostingplaner</a></li>
+            
+              <li><a href="/main/delingstjenesten/">Delingstjenesten</a></li>
+            
+              <li><a href="/main/overblik/pr-pakke">PR-pakke</a></li>
+            
+              <li><a href="/main/overblik/tilgaengelighedserklaering">Tilgængelighedserklæring</a></li>
+            
+              <li><a href="/main/overblik/hurtigguide-til-manualen">Hurtigguide til manualen</a></li>
+            
+              <li><a href="/main/overblik/nyt-i-manualen">Nyt i manualen</a></li>
+            
+          </ul>
+          
+        </li>
+      
+    
+  </ul>
+</nav>
+
+
+  
+
+  </div>
+
+
+  
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Uviklingsønsker efterår 2025">
+    
+    
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/efteraar-2025" class="u-url" itemprop="url">Uviklingsønsker efterår 2025
 </a>
+          </h1>
+          
+
+
+          <p class="emneord">
+  
+  
+</p>
+
+
+
+
+
+
+
+
+        </header>
       
-    </h2>
+      
+      <section class="page__content e-content" itemprop="text">
+        
+        Siden webinaret den 20. maj har 76 bibliotekskommuner prioriteret mellem de 20 emneområder, som udviklingsønskerne er inddelt i. Vi vil gerne benytte chancen for at takke jer for at indsende jeres prioriteringer samt at berige de sager, som ligger inden for emneområderne. Det er en kæmpe hjælp for arbejdet med udviklingen af hjemmesiderne. 
+
+Resultatet er ret tydeligt hvor emneområdet Avanceret søgning samt Arrangementer har fået flest stemmer. 
+
+ 
+
+Sammen med Reload har vi nu estimeret de enkelte sager, og vores forventning er, at vi kan nå emneområderne 1. Avanceret søgning, 2. Arrangementer, 3. Søgeresultatsiden og værkvisningssiden og 4. Lånerstatus og brugerprofil i efteråret 2025. 
+
+
+
+Ønskerne i et emneområde vil komme ud løbende i de releases indenfor deres releaseperiode.  
+
+Perioderne i roadmappet illustrerer, hvordan vi forventer, at udviklingen kommer til at foregå. Men det er vigtigt at pointere at dette roadmap ikke er statisk. 
+
+Da vi ikke har releases i ugerne 28-31, så vil de første uger i august sandsynligvis gå med sager fra supporten i sommerferien. 
+
+Som vi nævnte på webinaret vil det ikke være muligt at nå alle sager inden for et emneområde, men ud fra jeres kommentarer i sagerne og dialog med sagsindmelderne vil vi løbende vurdere de enkelte sager. Der vil være nogle sager, som vi ikke kan gå videre med pga. størrelsen af opgaven fx at det er for teknisk kompleks eller af UX/designmæssige årsager.  
+
+Selvom Avanceret søgning er det højest prioriterede emneområde vil selve udviklingen starte med emneområderne Arrangementer og Søgeresultatsiden og værkvisningssiden, da Avanceret søgning kræver et større analysearbejde.  Vi kan gå i gang med to forskellige emneområder på samme tid, da de to emneområder er lavet i to forskellige teknologier, og derfor kan forskellige udviklere arbejde på de to samtidigt. 
+
+## Avanceret søgning 
+
+Som sagt så vil vi starte med at analysere, hvad den rigtige løsning skal indeholde. Til den proces vil vi gerne inddrage nogle biblioteker. Vi prioriterer inddragelse af de biblioteker, som har indmeldt sager indenfor dette emneområde. Vi leder efter 1. input til hvor avanceret søgning ikke virker og 2. feedback på en potentiel løsning. 
+
+Hvis du har inputs til avanceret søgning, så meld det meget gerne ind i [denne sag om avanceret søgning](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1538){:target="_blank"}. I må gerne beskrive helt præcist, hvad der ikke fungerer som forventet og for hvilke brugere det ikke virker samt hvad der skal til for løsningen lever op til brugernes forventninger. 
+
+Fordi det er en analyseopgave, får vi højest sandsynligt ikke udviklet alt i denne omgang, da vi ikke kender omfanget før analysen er færdig. 
+
+Flere har udtrykt ønske om at vi læner os meget op ad Bibliotek.dk’s avancerede søgning, men DBC har fundet flere ting, som de gerne vil rette i deres løsning. Derfor kan vi ikke sigte efter en tæt kopi af deres løsning. I stedet vil vi se, hvad der fungerer i Bibliotek.dk og lytte til deres erfaringer.  
+
+Odense Bibliotekerne (webmasterbibliotek) har også implementeret [en avanceret søgning på deres side](https://www.odensebib.dk/advanced-search ){:target="_blank"}, som er et godt eksempel til inspiration. 
+
+## Arrangementer, Søgeresultatsiden og værkvisningssiden og Lånerstatus og brugerprofil 
+
+Emneområderne Arrangementer, Søgeresultatsiden og værkvisningssiden og Lånerstatus og brugerprofil indeholder sager, hvor udviklerne kan gå i gang med det samme, da de er konkret beskrevet. Det er hovedsageligt forbedringer til det eksisterende med nogle få nye mindre features. 
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+      </footer>
+
+      
+
+    </div>
+
     
-
-
-    <p class="archive__item-excerpt" itemprop="description">I Folkebibliotekernes CMS har tags og kategorier som i DDB CMS. Både kategorier og tags kan bruges på tværs af indholdstyper. Tags og kategorier anvendes til...</p>
   </article>
+
+  
+  
 </div>
-    
-  </div>
-  <a href="#page-title" class="back-to-top">Back to Top &uarr;</a>
-</section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-</div>
-
       
     </div>
 
