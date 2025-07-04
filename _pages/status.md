@@ -11,6 +11,7 @@ Med release 2025.27.2, som blev rullet ud til alle biblioteker i går (med undta
 - Et GO! site kunne stå med en tom forside og andre undersider (”Ups! Noget gik galt”)
 - Et GO! site blev ikke opdateret, når indhold blev opdateret i FB CMS - enten af lokale redaktører eller igennem Delingstjenesten
 - Et FB CMS site modtog ikke opdateringer fra Delingstjenesten igennem deres abonnement på GO!
+
 Meld endelig ind i Servicedesk hvis I opdager andre fejl.
 ## 30/6 GO-sites: Forsiden melder "Ups, Noget gik galt"
 Vi er blevet opmærksomme på, at forsiden på nogle bibliotekers GO-sites melder "Ups, Noget gik galt". Reload er i gang med lave en fejlrettelse, som vi forventer kommer ud enten i dag d. 30/6 eller i morgen d. 1/7. Vi vil melde ud her på statussitet, når alle GO-siderne igen kører som normalt.
