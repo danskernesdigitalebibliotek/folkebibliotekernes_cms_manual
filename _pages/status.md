@@ -4,7 +4,7 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 4/7 Problem med manglende indhold på GO løst
+## 4/7 Problem med manglende indhold på GO LØST
 Nogle biblioteker har oplevet problemer med synkronisering af formidlingsindhold på GO.
  
 Med release 2025.27.2, som blev rullet ud til alle biblioteker i går (med undtagelse af få biblioteker, der har fået separat besked) er følgende udfordringer blevet løst:
