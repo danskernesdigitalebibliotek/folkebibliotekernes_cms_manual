@@ -599,12 +599,6 @@ var store = [{
         "url": "/main/indhold/brugervilkaar-digitale-tilbud/",
         "teaser": null
       },{
-        "title": "CQL Søgestrenge – firstaccessiondateitem",
-        "excerpt":"### DBCs søgekoder til Avanceret søgning: [Complex Search sægekoder på Danbib.dk](https://danbib.dk/soegekoder-complex-search/){:target=\"_blank\" rel=\"noopener\"} {: .notice--info} ## OBS: UDARBEJDES CQL-søgestrenge bruges fx til at trække materialer ind i den paragraph, der hedder Material grid automatic. Med release 2025.27.2 kan Material grid automatic også bruges til at sortere søgningen, som vises i grid'et,...","categories": ["Generelt"],
-        "tags": [],
-        "url": "/main/indhold/cql-S%C3%B8gestrenge-firstaccessiondateitem/",
-        "teaser": null
-      },{
         "title": "CQL Søgestrenge Eksempler",
         "excerpt":"DBCs CQL dokumentation: FBI-API’s Complex Search Documentation Mette Kulmbach har været så venlig at dele nogle søgestrenge, som hun har bygget for Billund Bibliotekerne. De er til inspiration og er ikke perfekte eller udtømmende. Har du lavet søgestrenge, der er smartere eller mere korrekte, da send dine eksempler til cms-info@fddf.dk....","categories": ["Generelt"],
         "tags": [],
