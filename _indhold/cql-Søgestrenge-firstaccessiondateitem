@@ -6,9 +6,13 @@ category: "Generelt"
 ### DBCs søgekoder til Avanceret søgning: [Complex Search sægekoder på Danbib.dk](https://danbib.dk/soegekoder-complex-search/){:target="_blank" rel="noopener"}
 {: .notice--info}
 
+## OBS: UDARBEJDES
+
 CQL-søgestrenge bruges fx til at trække materialer ind i den paragraph, der hedder Material grid automatic.
 
-## Sådan opretter du nemt en CQL-søgestreng
+Med release 2025.27.2 kan Material grid automatic også bruges til at sortere søgningen, som vises i grid'et, samt filtrere søgningen på firstaccessiondateitem, dvs. den dato et materiale første gang er indgået i ens samling, hvilket kan bruges til at udstille bibliotekets nyindkøbte materialer.
+
+## Sådan opretter du nemt en CQL-søgestreng med filtrering på firstaccessiondateitem
 
 CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion og kopiere søgestrengen derfra.
 
@@ -16,11 +20,13 @@ Klik på **Avanceret søgning**.
 
 {% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/4e64d74b-726d-4975-b314-e91b891a2e66" alt="Klik på Avanceret søgning" caption="Klik på Avanceret søgning" %}
 
-Lav din søgning og klik på **Kopier søgestreng**.
+Lav din søgning samt filtrering på firstaccessiondateitem.
+
+Klik så på **Kopier søgestreng**.
 
 {% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/39811f60-a69e-4304-88d1-9583cf180d08" alt="Klik på Kopier søgestreng" caption="Klik på Kopier søgestreng" %}
 
-Hvis du skal bruge søgestrengen i komponenten **Materialekomponent - automatisk**, skal du indsætte den i feltet **CQL Search**. Sådan her:
+Hvis du skal bruge søgestrengen i komponenten **Material grid automatic**, skal du indsætte den i feltet **Fill out fields using link (optional)**, og trykke "Load filters from URL". Sådan her:
 
 {% include figure image_path="https://github.com/user-attachments/assets/f14afd0d-374a-4864-8fed-48fce75a752d" alt="Indsæt søgestrengen i CQL Search-feltet" caption="Indsæt søgestrengen i CQL Search-feltet" %}
 
