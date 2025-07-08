@@ -600,7 +600,7 @@ var store = [{
         "teaser": null
       },{
         "title": "CQL Søgestrenge – firstaccessiondateitem",
-        "excerpt":"### DBCs søgekoder til Avanceret søgning: [Complex Search sægekoder på Danbib.dk](https://danbib.dk/soegekoder-complex-search/){:target=\"_blank\" rel=\"noopener\"} {: .notice--info} CQL-søgestrenge bruges fx til at trække materialer ind i den paragraph, der hedder Material grid automatic. ## Sådan opretter du nemt en CQL-søgestreng CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion...","categories": ["Generelt"],
+        "excerpt":"### DBCs søgekoder til Avanceret søgning: [Complex Search sægekoder på Danbib.dk](https://danbib.dk/soegekoder-complex-search/){:target=\"_blank\" rel=\"noopener\"} {: .notice--info} ## OBS: UDARBEJDES CQL-søgestrenge bruges fx til at trække materialer ind i den paragraph, der hedder Material grid automatic. Med release 2025.27.2 kan Material grid automatic også bruges til at sortere søgningen, som vises i grid'et,...","categories": ["Generelt"],
         "tags": [],
         "url": "/main/indhold/cql-S%C3%B8gestrenge-firstaccessiondateitem/",
         "teaser": null
