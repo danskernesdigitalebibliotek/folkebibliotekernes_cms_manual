@@ -557,12 +557,6 @@ var store = [{
         "url": "/main/go/synliggoer-go-paa-hovedsite/",
         "teaser": null
       },{
-        "title": "CQL Søgestrenge – firstaccessiondateitem",
-        "excerpt":"### DBCs søgekoder til Avanceret søgning: [Complex Search sægekoder på Danbib.dk](https://danbib.dk/soegekoder-complex-search/){:target=\"_blank\" rel=\"noopener\"} {: .notice--info} CQL-søgestrenge bruges fx til at trække materialer ind i den paragraph, der hedder Material grid automatic. ## Sådan opretter du nemt en CQL-søgestreng CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion...","categories": ["Generelt"],
-        "tags": [],
-        "url": "/main/indhold/CQL%20S%C3%B8gestrenge%20%E2%80%93%20firstaccessiondateitem/",
-        "teaser": null
-      },{
         "title": "Arrangement",
         "excerpt":"Når du skal oprette et arrangement i FB CMS, skal du vælge Arrangement(er). Det gælder uanset om du vil oprette et enkeltstående arrangement eller en serie af arrangementer. Sådan opretter du et arrangement I topmenuen klik på Indhold eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk) Klik på Tilføj indhold i øverste højre hjørne: Tilføj indhold Klik...","categories": ["Indholdstyper"],
         "tags": [],
@@ -603,6 +597,12 @@ var store = [{
         "excerpt":"DDF har skrevet et forslag til en tekst om brugsvilkår og betingelser, der gælder for de digitale tilbud og licenser. Vi anbefaler, at I kopierer teksten og lægger den på siden, hvorfra I linker til jeres digitale tilbud: Bemærk at enkelte digitale tilbud kan kræve oprettelse af brugerprofil, download af...","categories": ["Generelt"],
         "tags": [],
         "url": "/main/indhold/brugervilkaar-digitale-tilbud/",
+        "teaser": null
+      },{
+        "title": "CQL Søgestrenge – firstaccessiondateitem",
+        "excerpt":"### DBCs søgekoder til Avanceret søgning: [Complex Search sægekoder på Danbib.dk](https://danbib.dk/soegekoder-complex-search/){:target=\"_blank\" rel=\"noopener\"} {: .notice--info} CQL-søgestrenge bruges fx til at trække materialer ind i den paragraph, der hedder Material grid automatic. ## Sådan opretter du nemt en CQL-søgestreng CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion...","categories": ["Generelt"],
+        "tags": [],
+        "url": "/main/indhold/cql-S%C3%B8gestrenge-firstaccessiondateitem/",
         "teaser": null
       },{
         "title": "CQL Søgestrenge Eksempler",
