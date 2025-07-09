@@ -57,10 +57,10 @@ Opgavernes størrelse er ikke estimeret, da de indgår i et større analysearbej
 
 ## Arrangementer
 ### Beskrivelse
-Dette emneområder indeholder både ønsker til arrangementsoversigten og arrange-mentssiden. Bemærk: Området dækker ikke paragrafer som eventlist manual og automa-tic (se i stedet for emneområde 2) eller billetintegration (se i stedet for emneområde 6).
+Dette emneområder indeholder både ønsker til arrangementsoversigten og arrange-mentssiden. Bemærk: Området dækker ikke paragrafer som eventlist manual og automatic eller billetintegration.
 
 ### Fremgangsmåde
-Langt de fleste sager i dette emneområde er koncentreret om arrangementsoversigten, og det vil derfor give mening at se på sagerne i en samlet helhed for at sikre en forbedret vis-ning af listen. 
+Langt de fleste sager i dette emneområde er koncentreret om arrangementsoversigten, og det vil derfor give mening at se på sagerne i en samlet helhed for at sikre en forbedret visning af listen. 
 
 ### Sager
 Disse er opdelt i størrelsen af opgaven. Der bruges en t-shirt størrelse. Det kan ikke sammenlignes med t-shirt størrelserne på emneområdet. Det er for at indikere at vi ikke kan lave mange større opgaver indenfor dette emneområde.
@@ -97,8 +97,8 @@ Disse er opdelt i størrelsen af opgaven. Der bruges en t-shirt størrelse. Det 
 Værkvisningssiden er den side som samler alle materialetyper og udgaver for en titel. Søgeresultatsiden er den side med posterne i søgeresultatet, som brugerne ser, når de har foretaget en søgning.
 
 ### Fremgangsmåde
-Et stort antal af udviklingsønskerne, såvel som tidligere indmeldte fejl, under dette emne-område, indgår i et større problem-kompleks, og relaterer sig til hinanden. Vi kan derfor forvente, at løsning af én sag kan medføre at andre kan lukkes, eller skal omskrives.
-Derfor skal arbejdet indledes med en analyse, hvorunder udviklingsønsker og fejl der ved-rører søgeresultat og værkvisning behandles under ét, prioriteres, og relateres til hinan-den.
+Et stort antal af udviklingsønskerne, såvel som tidligere indmeldte fejl, under dette emneområde, indgår i et større problemkompleks, og relaterer sig til hinanden. Vi kan derfor forvente, at løsning af én sag kan medføre at andre kan lukkes, eller skal omskrives.
+Derfor skal arbejdet indledes med en analyse, hvorunder udviklingsønsker og fejl der vedrører søgeresultat og værkvisning behandles under ét, prioriteres, og relateres til hinanden.
 
 ### Sager
 Disse er opdelt i størrelsen af opgaven. Der bruges en t-shirt størrelse. Det kan ikke sammenlignes med t-shirt størrelserne på emneområdet. Det er for at indikere at vi ikke kan lave mange større opgaver indenfor dette emneområde.
