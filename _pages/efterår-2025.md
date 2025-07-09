@@ -27,15 +27,31 @@ Selvom Avanceret søgning er det højest prioriterede emneområde vil selve udvi
 
 ## Avanceret søgning 
 
-Som sagt så vil vi starte med at analysere, hvad den rigtige løsning skal indeholde. Til den proces vil vi gerne inddrage nogle biblioteker. Vi prioriterer inddragelse af de biblioteker, som har indmeldt sager indenfor dette emneområde. Vi leder efter 1. input til hvor avanceret søgning ikke virker og 2. feedback på en potentiel løsning. 
+### Beskrivelse
+Den nuværende implementering af avanceret søgning består af to grænseflader: Feltsøgning og CQL-søgning. Dette emneområde angår udviklingsønsker i begge.
 
-Hvis du har inputs til avanceret søgning, så meld det meget gerne ind i [denne sag om avanceret søgning](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1538){:target="_blank"}. I må gerne beskrive helt præcist, hvad der ikke fungerer som forventet og for hvilke brugere det ikke virker samt hvad der skal til for løsningen lever op til brugernes forventninger. 
+### Fremgangsmåde
+Som sagt så vil vi starte med at analysere, hvad den rigtige løsning skal indeholde. Til den proces vil vi gerne inddrage nogle biblioteker. Vi prioriterer inddragelse af de biblioteker, som har indmeldt sager indenfor dette emneområde. Vi leder efter 1. input til hvor avanceret søgning ikke virker og 2. feedback på en potentiel løsning. 
 
 Fordi det er en analyseopgave, får vi højest sandsynligt ikke udviklet alt i denne omgang, da vi ikke kender omfanget før analysen er færdig. 
 
 Flere har udtrykt ønske om at vi læner os meget op ad Bibliotek.dk’s avancerede søgning, men DBC har fundet flere ting, som de gerne vil rette i deres løsning. Derfor kan vi ikke sigte efter en tæt kopi af deres løsning. I stedet vil vi se, hvad der fungerer i Bibliotek.dk og lytte til deres erfaringer.  
 
 Odense Bibliotekerne (webmasterbibliotek) har også implementeret [en avanceret søgning på deres side](https://www.odensebib.dk/advanced-search ){:target="_blank"}, som er et godt eksempel til inspiration. 
+
+### Kom med input
+Hvis du har inputs til avanceret søgning, så meld det meget gerne ind i [denne sag om avanceret søgning](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1538){:target="_blank"}. I må gerne beskrive helt præcist, hvad der ikke fungerer som forventet og for hvilke brugere det ikke virker samt hvad der skal til for løsningen lever op til brugernes forventninger. 
+
+### Sager
+[CMS-952: Forbedring og udbygning af avanceret søgning](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-952)  
+[CMS-960: Ikon for avanceret søgning skal ændres](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-960)  
+[CMS-965: Mulighed for sortering bl.a. på nyeste først ifm Avanceret Søgning](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-965)  
+[CMS-1011: Avanceret søgning – forslag til at forbedre brugervenlighed samt søgeresultater](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1011)  
+[CMS-1475: Målgruppe i avanceret søgning](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1475)  
+[CMS-1482: Avanceret søgning som bibliotek.dk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1482)  
+[CMS-1483: Ønske om flere søgbare felter via avanceret søgning](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1483)  
+[CMS-1486: Besked om syntaksfejl i Complex Search](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1486)  
+[CMS-1487: Filtreringsindekser ”Department” og ”Branch” i avanceret søgning](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1487)
 
 ## Arrangementer, Søgeresultatsiden og værkvisningssiden og Lånerstatus og brugerprofil 
 
