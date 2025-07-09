@@ -90,6 +90,7 @@ Disse er opdelt i størrelsen af opgaven. Der bruges en t-shirt størrelse. Det 
 
 #### Andet
 [CMS-1357: Opdeling af arrangementer og udstillinger/længerevarende forløb](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1357){:target="_blank"} - skal defineres før den kan estimeres, læs mere i sagen. 
+
 [CMS-1471: Arrangementsvisning layout](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1471){:target="_blank"} - laves sammen med andre opgaver om arrangements layout
 
 ## Søgeresultatsiden og værkvisningssiden
@@ -125,6 +126,7 @@ Disse er opdelt i størrelsen af opgaven. Der bruges en t-shirt størrelse. Det 
 
 #### Andet
 [CMS-1012: Brødkrummer - På værkvisningen](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1012){:target="_blank"} - skal eventuelt skubbes til automatisk genereret samlesider er lavet.
+
 [CMS-1376: Find på hylden: Mulighed for at fravælge visning af de eksemplarer, som pt. er udlånt](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1376){:target="_blank"} - skal undersøges mere før den kan estimeres.
 
 ## Lånerstatus og brugerprofil
