@@ -4,9 +4,10 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 30/7 Adgangsplatformen på hjemmesiden fejler
+Man kan lige nu ikke logge ind på hjemmesiden. Vi har meldt fejlen vedrørende Adgangsplatformen til DBC. 
 ## 4/7 Problem med manglende indhold på GO LØST
 Nogle biblioteker har oplevet problemer med synkronisering af formidlingsindhold på GO.
- 
 Med release 2025.27.2, som blev rullet ud til alle biblioteker i går (med undtagelse af få biblioteker, der har fået separat besked) er følgende udfordringer blevet løst:
 - Et GO! site kunne stå med en tom forside og andre undersider (”Ups! Noget gik galt”)
 - Et GO! site blev ikke opdateret, når indhold blev opdateret i FB CMS - enten af lokale redaktører eller igennem Delingstjenesten
