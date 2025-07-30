@@ -4,6 +4,7 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 30/7 Adgangsplatformen virker igen
 ## 30/7 Adgangsplatformen på hjemmesiden fejler
 Man kan lige nu ikke logge ind på hjemmesiden. Vi har meldt fejlen vedrørende Adgangsplatformen til DBC. 
 ## 4/7 Problem med manglende indhold på GO LØST
