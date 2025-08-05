@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## Servicevindue mandag den 11. august kl. 21
+Mandag den 11. august kl. 21 vil vi afholde et servicevindue til at opdatere konfigurationen af databasen. Opdateringen kan medføre nedetid på tværs af alle sites i 20-30 minutter.
 ## 30/7 Adgangsplatformen virker igen
 ## 30/7 Adgangsplatformen på hjemmesiden fejler
 Man kan lige nu ikke logge ind på hjemmesiden. Vi har meldt fejlen vedrørende Adgangsplatformen til DBC. 
