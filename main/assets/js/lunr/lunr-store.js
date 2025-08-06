@@ -1242,7 +1242,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2025.32.0",
-        "excerpt":"Firstaccessiondate-søgekode bliver til firstaccessiondateitem-filter Releasedato: 07-08-2025 Redaktør: Produktionssites: 2025.32.0 Webmaster: Produktionssites: 2025.27.2, Moduletestsites: 2025.32.0 Nye features Support ID til Publizon på FB CMS: Brugerprofilen (/user/me) indeholder nu information om Support ID, som bruges ved supporthenvendelser til Publizon. Avanceret søgning: Det er nu muligt at filtrere på “Department” og “Branch” under...","categories": ["Release Notes"],
+        "excerpt":"Forbedringer til avanceret søgning, mere brugervenligt design af autofuldførelse og fejlrettelser Releasedato: 07-08-2025 Redaktør: Produktionssites: 2025.32.0 Webmaster: Produktionssites: 2025.27.2, Moduletestsites: 2025.32.0 Nye features Support ID til Publizon på FB CMS: Brugerprofilen (/user/me) indeholder nu information om Support ID, som bruges ved supporthenvendelser til Publizon. Avanceret søgning: Det er nu muligt...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2025-32-0/",
         "teaser": null
