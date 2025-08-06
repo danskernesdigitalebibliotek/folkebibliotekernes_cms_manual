@@ -4,7 +4,7 @@ category: "Release Notes"
 weight: 330
 ---  
 
-#  Firstaccessiondate-søgekode bliver til firstaccessiondateitem-filter
+#  Forbedringer til avanceret søgning, mere brugervenligt design af autofuldførelse og fejlrettelser
 
 Releasedato: 07-08-2025
 
