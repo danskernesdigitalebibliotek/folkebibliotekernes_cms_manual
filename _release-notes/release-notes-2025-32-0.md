@@ -19,7 +19,7 @@ Releasedato: 07-08-2025
 
 - Avanceret søgning: Det er nu muligt at filtrere på "Department" og "Branch" under "CQL søgning".
 
-- Emnetal (DK5) vises nu også på værksvisningssiden for udenlandsk skønlitteratur
+- Emnetal (DK5) vises nu også på værksvisningssiden for udenlandsk skønlitteratur.
 
 - Find på hylden: Det er nu muligt at konfigurere (admin/config/dpl-library-agency/general-settings), om beholdninger på alle filialer i “Find på hylden” modalen er udfoldet, når brugeren kommer derind.
 
@@ -28,7 +28,7 @@ Releasedato: 07-08-2025
 
 - Lektørudtalelse vises nu også under "Anmeldelser" på værkvisningssiden.
 
-- Avanceret søgning: Mindre rettelser bl.a. justering af placeholdertekst til “e.g. term.title=snemand*” og tilføjelse af link (https://danbib.dk/soegekoder-complex-search) til søgekoder
+- Avanceret søgning: Mindre rettelser bl.a. justering af placeholdertekst til “e.g. term.title=snemand*” og tilføjelse af link (https://danbib.dk/soegekoder-complex-search) til søgekoder.
 
 - Dropdown med autogenererede forslag ved søgefelt: Lille designændring som skaber kontrast mellem dropdown med autogenererede forslag og baggrund. Brugertest har vist, at mange brugere overser dropdown, fordi den har samme farve som baggrunden, og den samtidig befinder sig i brugerens perifære syn, når fokus er på søgefeltet. 
 
@@ -42,5 +42,5 @@ Releasedato: 07-08-2025
 
 - GO: Fejl rettet hvor link til det almindelige CMS fejler på GO, når der anvendes relative links. 
 
-- Forbedret læsevisning af Infomedia-artikler
+- Forbedret læsevisning af Infomedia-artikler.
 
