@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 6/8 kl.12 Flere hjemmesider er nede
+Flere hjemmesider er nede. Vi arbejder på sagen og melder tilbage her, når det er løst.
 ## Servicevindue mandag den 11. august kl. 21
 Mandag den 11. august kl. 21 vil vi afholde et servicevindue til at opdatere konfigurationen af databasen. Opdateringen kan medføre nedetid på tværs af alle sites i 20-30 minutter.
 ## 30/7 Adgangsplatformen virker igen
