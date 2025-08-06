@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 6/8 kl. 13.07 Alle sites er oppe igen
+Vi genstartede databasen og alle hjemmesider er nu oppe.
 ## 6/8 kl.12 Flere hjemmesider er nede
 Flere hjemmesider er nede. Vi arbejder på sagen og melder tilbage her, når det er løst.
 Vi afventer at Azure selv stabiliserer databasen.
