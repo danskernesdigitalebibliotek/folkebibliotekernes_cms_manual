@@ -10,19 +10,19 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Release Notes 2025.15.2 - Folkebibliotekernes CMS</title>
-<meta name="description" content="2025.15.2 - 29.4.2025 kun til webmasterbiblioteker">
+<!-- begin _includes/seo.html --><title>Release Notes 2025.32.0 - Folkebibliotekernes CMS</title>
+<meta name="description" content="Firstaccessiondate-søgekode bliver til firstaccessiondateitem-filter">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Release Notes 2025.15.2">
-<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-15-2/">
+<meta property="og:title" content="Release Notes 2025.32.0">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-32-0/">
 
 
-  <meta property="og:description" content="2025.15.2 - 29.4.2025 kun til webmasterbiblioteker">
+  <meta property="og:description" content="Firstaccessiondate-søgekode bliver til firstaccessiondateitem-filter">
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-15-2/">
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-32-0/">
 
 
 
@@ -179,7 +179,7 @@
     
       
       
-        <li class="current">Release Notes 2025.15.2</li>
+        <li class="current">Release Notes 2025.32.0</li>
       
     
   </ol>
@@ -234,7 +234,7 @@
 
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2025-32-0/">Release Notes 2025.32.0</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2025-32-0/" class="active">Release Notes 2025.32.0</a></li>
               
             
               
@@ -278,7 +278,7 @@
               
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2025-15-2/" class="active">Release Notes 2025.15.2</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2025-15-2/">Release Notes 2025.15.2</a></li>
               
             
               
@@ -466,8 +466,8 @@
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Release Notes 2025.15.2">
-    <meta itemprop="description" content="2025.15.2 - 29.4.2025 kun til webmasterbiblioteker">
+    <meta itemprop="headline" content="Release Notes 2025.32.0">
+    <meta itemprop="description" content="Firstaccessiondate-søgekode bliver til firstaccessiondateitem-filter">
     <meta itemprop="datePublished" content="2025-08-06T12:31:47+00:00">
     
 
@@ -476,7 +476,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-15-2/" class="u-url" itemprop="url">Release Notes 2025.15.2
+            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-32-0/" class="u-url" itemprop="url">Release Notes 2025.32.0
 </a>
           </h1>
           
@@ -499,33 +499,63 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <h2 id="2025152---2942025-kun-til-webmasterbiblioteker">2025.15.2 - 29.4.2025 kun til webmasterbiblioteker</h2>
+        <h1 id="firstaccessiondate-søgekode-bliver-til-firstaccessiondateitem-filter">Firstaccessiondate-søgekode bliver til firstaccessiondateitem-filter</h1>
 
-<p>Webmasterbiblioteker får 2025.17.1 på modultestsites og 2025.15.2 på produktiontestsites. Modultestsites bliver ikke nulstilles ifm. deployment.</p>
+<p>Releasedato: 07-08-2025</p>
 
-<p>Tilpasning af vores integrationer til FBS (Fælles Bibliotek System) ift. <a href="https://ciceroconnect.zendesk.com/hc/da/articles/11396856511517-%C3%86ndringer-til-CMS-API-december-2024" target="_blank">de ændringer til CMS API udmeldt her</a></p>
+<p><strong>Redaktør</strong>: Produktionssites: 2025.32.0</p>
 
-<p>Vi har en enkelt fejl, som bliver rettet snarligt. Brugere som ikke har typen person – altså virksomhed, bibliotek og gruppe – kan ikke opdatere stamdata. Det vil sige at de ikke kan ændre telefonnummer, e-mail, afhentningsfilial, pinkode og reserveringspause. Det vil blive rettet snarligt.</p>
+<p><strong>Webmaster</strong>: Produktionssites: 2025.27.2, Moduletestsites: 2025.32.0</p>
 
-<h2 id="2025151---2542025">2025.15.1 - 25.4.2025</h2>
+<h2 id="nye-features">Nye features</h2>
 
-<p><strong>Redaktørbiblioteker</strong>: Produktionssites opgraderes til 2025.15.1<br />
-<strong>Webmasterbiblioteker</strong>: Produktionssites opgraderes til 2025.14.3. Modultestsites opgraderes til 2025.15.1.</p>
+<ul>
+  <li>
+    <p>Support ID til Publizon på FB CMS: Brugerprofilen (/user/me) indeholder nu information om Support ID, som bruges ved supporthenvendelser til Publizon.</p>
+  </li>
+  <li>
+    <p>Avanceret søgning: Det er nu muligt at filtrere på “Department” og “Branch” under “CQL søgning”.</p>
+  </li>
+  <li>
+    <p>Emnetal (DK5) vises nu også på værksvisningssiden for udenlandsk skønlitteratur</p>
+  </li>
+  <li>
+    <p>Find på hylden: Det er nu muligt at konfigurere (admin/config/dpl-library-agency/general-settings), om beholdninger på alle filialer i “Find på hylden” modalen er udfoldet, når brugeren kommer derind.</p>
+  </li>
+</ul>
 
-<h3 id="nye-features">Nye features</h3>
+<h2 id="fejlrettelser-og-opgraderinger">Fejlrettelser og opgraderinger</h2>
 
-<p><strong>Tags på sider:</strong> Tags kan nu tilføjes til indholdstypen “sider”, ligesom på arrangementer og artikler. Sider med tags vises på de(n) pågældende tagssamlesider.</p>
+<ul>
+  <li>
+    <p>Lektørudtalelse vises nu også under “Anmeldelser” på værkvisningssiden.</p>
+  </li>
+  <li>
+    <p>Avanceret søgning: Mindre rettelser bl.a. justering af placeholdertekst til “e.g. term.title=snemand*” og tilføjelse af link (https://danbib.dk/soegekoder-complex-search) til søgekoder</p>
+  </li>
+  <li>
+    <p>Dropdown med autogenererede forslag ved søgefelt: Lille designændring som skaber kontrast mellem dropdown med autogenererede forslag og baggrund. Brugertest har vist, at mange brugere overser dropdown, fordi den har samme farve som baggrunden, og den samtidig befinder sig i brugerens perifære syn, når fokus er på søgefeltet.</p>
+  </li>
+  <li>
+    <p>Udløbstidspunkt for reserverede digitale materialer er nu korrekt. Tidligere har udløbstidspunktet været en time forskudt i FBCMS i forhold til diverse notifikationer på sms og mail.</p>
+  </li>
+  <li>
+    <p>Blå titler fra e-reolen: Brugere som ikke er logget ind på sitet får nu også vist om en titel fra e-reolen er en såkaldt blå titel - dvs. en titel som ikke tæller med i brugerens kvote over hvor meget der kan lånes.</p>
+  </li>
+  <li>
+    <p>Rettigheder for lokalt installerede moduler: Fejl rettet hvor rettighedsindstillinger forsvinder ved hver opgradering af FBCMS. Kun relevant for webmasterbiblioteker.</p>
+  </li>
+  <li>
+    <p>Ændring af pinkode på mobil: Fejl rettet hvor sitet kaster en fejlmeddelelse når man forsøger at ændre pinkode til brugerprofil via mobil.</p>
+  </li>
+  <li>
+    <p>GO: Fejl rettet hvor link til det almindelige CMS fejler på GO, når der anvendes relative links.</p>
+  </li>
+  <li>
+    <p>Forbedret læsevisning af Infomedia-artikler</p>
+  </li>
+</ul>
 
-<p><strong>Intelligente facetter:</strong> Nu kan intelligente facetter i simpel søgning vise op til 50 værdier - hævet fra 5.</p>
-
-<h3 id="fejlrettelser">Fejlrettelser</h3>
-<p><strong>Arrangementer i paragraphs:</strong> Fejl rettet, hvor enkeltstående arrangementer over flere dage bliver vist som udløbet i manuelle paragraphs straks efter startdato.</p>
-
-<p><strong>Navigation spot paragraph:</strong> Sider, der indsættes i navigation spot paragraphs, får nu fjernet billedtekst, på samme måde som det sker for arrangementer og artikler.</p>
-
-<p><strong>Material Grid Link Automatic:</strong> Meget lange links kan ikke længere skubbe “Rediger”-knappen ind under højremenuen, så den ikke kan nås.</p>
-
-<p><strong>Caching:</strong> Caching-fejl, der kan medføre visning af afpublicerede arrangementer, er løst.</p>
 
         
       </section>

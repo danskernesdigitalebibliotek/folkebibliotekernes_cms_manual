@@ -1241,6 +1241,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-27-2/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.32.0",
+        "excerpt":"Firstaccessiondate-søgekode bliver til firstaccessiondateitem-filter Releasedato: 07-08-2025 Redaktør: Produktionssites: 2025.32.0 Webmaster: Produktionssites: 2025.27.2, Moduletestsites: 2025.32.0 Nye features Support ID til Publizon på FB CMS: Brugerprofilen (/user/me) indeholder nu information om Support ID, som bruges ved supporthenvendelser til Publizon. Avanceret søgning: Det er nu muligt at filtrere på “Department” og “Branch” under...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-32-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
