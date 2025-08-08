@@ -1314,25 +1314,25 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 12: Redirects fra søgeresultater på Google",
-        "excerpt":"Jeres nye website er ikke identisk med det gamle. I har sikkert oprettet nyt indhold, fjernet noget gammelt og flyttet rundt med ting. Søgemaskinerne kender jeres gamle website, og har indekseret strukturen herfra. Når I skifter til den nye hjemmeside, vil mange af de links, som Google har registreret ikke...","categories": ["Startopsætning"],
+        "excerpt":"Jeres nye website er ikke identisk med det gamle. I har sikkert oprettet nyt indhold, fjernet noget gammelt og flyttet rundt med ting. Søgemaskinerne kender jeres gamle website, og har indekseret strukturen herfra. Når I skifter til den nye hjemmeside, vil mange af de links, som Google har registreret ikke...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/redirects-google/",
         "teaser": null
       },{
         "title": "Opgave 10: Byg sidens faste struktur og menuer",
-        "excerpt":"1. Planlæg strukturen af hjemmesiden For at oprette strukturen på jeres hjemmesiden, kan I benytte det arbejde, som I lavede i forberedelsesopgave 4: Informationsarkitektur og navigation. Hvis I ikke har lavet det endnu, kan det bruges som inspiration til hvordan I vil bygge siden op. 2. Opret jeres sider Start...","categories": ["Startopsætning"],
+        "excerpt":"1. Planlæg strukturen af hjemmesiden For at oprette strukturen på jeres hjemmesiden, kan I benytte det arbejde, som I lavede i forberedelsesopgave 4: Informationsarkitektur og navigation. Hvis I ikke har lavet det endnu, kan det bruges som inspiration til hvordan I vil bygge siden op. 2. Opret jeres sider Start...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/struktur-og-menuer/",
         "teaser": null
       },{
         "title": "Opgave 4: Opret systembrugere",
-        "excerpt":"Du er sikkert ikke den eneste, der skal lave indhold til jeres nye hjemmeside. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden. Vi anbefaler meget, at I bruger individuelle logins med kun de nødvendige rettigheder tilknyttet. I DDB CMS skulle...","categories": ["Startopsætning"],
+        "excerpt":"Du er sikkert ikke den eneste, der skal lave indhold til jeres nye hjemmeside. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden. Vi anbefaler meget, at I bruger individuelle logins med kun de nødvendige rettigheder tilknyttet. I DDB CMS skulle...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/systembrugere/",
         "teaser": null
       },{
         "title": "Opgave 8: Logo, identitetsfarve og favicon",
-        "excerpt":"Ændr sidens udseende  Man kan ændre sidens udseende til at passe til jeres identitet. Man kan skifte identitetsfarve, logo og favicon.   Følg guiden i Konfiguration for Logo, identitetsfarve og favicon.  ","categories": ["Startopsætning"],
+        "excerpt":"Ændr sidens udseende  Man kan ændre sidens udseende til at passe til jeres identitet. Man kan skifte identitetsfarve, logo og favicon.   Følg guiden i Konfiguration for Logo, identitetsfarve og favicon.  ","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/udseende/",
         "teaser": null
