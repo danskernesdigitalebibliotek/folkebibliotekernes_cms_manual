@@ -1332,7 +1332,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 8: Logo, identitetsfarve og favicon",
-        "excerpt":"Ændr sidens udseende  Man kan ændre sidens udseende til at passe til jeres identitet. Man kan skifte identitetsfarve, logo og favicon.   Følg guiden i Konfiguration for Logo, identitetsfarve og favicon.  ","categories": ["Startopsætning"],
+        "excerpt":"Ændr sidens udseende  Man kan ændre sidens udseende til at passe til jeres identitet. Man kan skifte identitetsfarve, logo og favicon.   Følg guiden i Konfiguration for Logo, identitetsfarve og favicon.  ","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/udseende/",
         "teaser": null
