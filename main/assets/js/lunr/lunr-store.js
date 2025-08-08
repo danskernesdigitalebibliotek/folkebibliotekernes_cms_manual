@@ -1266,7 +1266,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 2: Generelle indstillinger",
-        "excerpt":"I denne opgave laver du den grundlæggende konfiguration af sitet. Det er noget, du kun skal gøre én gang, men det er vigtigt, at det bliver gjort ordentligt. Sæt dig sammen med med en kollega, der ved rigtig meget om jeres bibliotek. Ham/hende der er en haj til Cicero, og...","categories": ["Startopsætning"],
+        "excerpt":"I denne opgave laver du den grundlæggende konfiguration af sitet. Det er noget, du kun skal gøre én gang, men det er vigtigt, at det bliver gjort ordentligt. Sæt dig sammen med med en kollega, der ved rigtig meget om jeres bibliotek. Ham/hende der er en haj til Cicero, og...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/generelle-indstillinger/",
         "teaser": null
