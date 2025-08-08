@@ -1265,8 +1265,8 @@ var store = [{
         "url": "/main/startopsaetning/generelle-indstillinger/",
         "teaser": null
       },{
-        "title": "Startopsætning",
-        "excerpt":"Denne guide hjælper jer med startopsætning af jeres site. Det er en god idé at gennemføre startopsætningen, inden I begynder at oprette indhold.   Startopsætning - kom i gang  I kan gå i gang med startopsætningen, når I har modtaget URL og login til jeres Folkebibliotekernes CMS site   ","categories": [],
+        "title": "Etablering af nyt DDB CMS site",
+        "excerpt":"Denne guide dkomuneterer, hvilke trin der skal gennemføres når et helt nyt DDB CMS site skal oprettes. Der er en nogle opgaver der skal løses af henholdsvis DDF og biblioteket i en bestemt rækkefølge. Staging-site etableres Startopsætning - kom i gang I kan gå i gang med startopsætningen, når I...","categories": [],
         "tags": [],
         "url": "/main/startopsaetning/",
         "teaser": null
