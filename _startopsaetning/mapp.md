@@ -1,6 +1,6 @@
 ---
 title: "Opgave 6: Mapp Intelligence"
-category: "Startopsætning"
+category: "Basis konfiguration"
 weight: 6
 emneord:
   - Statistik
