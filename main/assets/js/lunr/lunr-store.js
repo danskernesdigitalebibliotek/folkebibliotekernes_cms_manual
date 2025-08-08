@@ -125,8 +125,8 @@ var store = [{
         "url": "/main/category/go/",
         "teaser": null
       },{
-        "title": "Startopsætning",
-        "excerpt":"Startopsætning  ","categories": [],
+        "title": "Basis konfiguration",
+        "excerpt":"Basis konfiguration  ","categories": [],
         "tags": [],
         "url": "/main/category/grundkonfiguration/",
         "teaser": null
