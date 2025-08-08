@@ -11,9 +11,9 @@ Når hjemmesiden er klar til lancering, aftales der en **go-live dato** mellem D
 2. DDF etablerer et tomt staging-site og sender **staging-site URL** til biblioteket. Biblioteket modtager også et **admin-login**, som kun bør benyttes af bibliotekets webansvarlige. Til øvrige medarbejdere skal biblioteket oprette personlige logins.
 
 3. Bibliotekets webansvarlige logger ind på adressen:\
-   `https://staging-site-url.dk/user/login`
+   `https://staging-site-url.dk/user`
    
-   Dvs. I skal skrive `/user/login` efter jeres staging-site URL, for at komme til login-siden.
+   Dvs. I skal skrive `/user` efter jeres staging-site URL, for at komme til login-siden.
    Bibliotekets medarbejdere IKKE kan logge ind via den formnular, som borgerne benytter.
 
 
