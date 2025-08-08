@@ -1308,13 +1308,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 9: Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside",
-        "excerpt":"Fra Adgangsplatformen er der et link til siden registration på jeres gamle hjemmeside. Det link skal ændres, så det peger på siden Opret bruger, fra den dag I går live. Det skal I selv sørge for, ved at lave et redirect. I må gerne oprette redirect nu med det samme....","categories": ["Startopsætning"],
+        "excerpt":"Fra Adgangsplatformen er der et link til siden registration på jeres gamle hjemmeside. Det link skal ændres, så det peger på siden Opret bruger, fra den dag I går live. Det skal I selv sørge for, ved at lave et redirect. I må gerne oprette redirect nu med det samme....","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/redirect-adgangsplatformen/",
         "teaser": null
       },{
         "title": "Opgave 12: Redirects fra søgeresultater på Google",
-        "excerpt":"Jeres nye website er ikke identisk med det gamle. I har sikkert oprettet nyt indhold, fjernet noget gammelt og flyttet rundt med ting. Søgemaskinerne kender jeres gamle website, og har indekseret strukturen herfra. Når I skifter til den nye hjemmeside, vil mange af de links, som Google har registreret ikke...","categories": ["Startopsætning"],
+        "excerpt":"Jeres nye website er ikke identisk med det gamle. I har sikkert oprettet nyt indhold, fjernet noget gammelt og flyttet rundt med ting. Søgemaskinerne kender jeres gamle website, og har indekseret strukturen herfra. Når I skifter til den nye hjemmeside, vil mange af de links, som Google har registreret ikke...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/redirects-google/",
         "teaser": null
