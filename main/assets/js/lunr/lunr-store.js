@@ -1272,7 +1272,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Etablering af nyt DDB CMS site",
-        "excerpt":"Denne guide dkomuneterer, hvilke trin der skal gennemføres når et helt nyt DDB CMS site skal oprettes. Der er en nogle opgaver der skal løses af henholdsvis DDF og biblioteket i en bestemt rækkefølge. Staging-site etableres Startopsætning - kom i gang I kan gå i gang med startopsætningen, når I...","categories": [],
+        "excerpt":"Denne guide dokunenterer, de trin der skal til for at oprette et nyt DDB CMS site. Nogle nogle opgaver skal udføres af DDF - andre af biblioteket. Og de skal udføres i den rigtige rækkefølge. Der er fire faser i processen og de skal udføres i nævnte rækkefølge. I parantes...","categories": [],
         "tags": [],
         "url": "/main/startopsaetning/",
         "teaser": null
