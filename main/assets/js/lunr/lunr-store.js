@@ -1344,7 +1344,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 8: Logo, identitetsfarve og favicon",
-        "excerpt":"Ændr sidens udseende  Man kan ændre sidens udseende til at passe til jeres identitet. Man kan skifte identitetsfarve, logo og favicon.   Følg guiden i Konfiguration for Logo, identitetsfarve og favicon.  ","categories": ["Basis konfiguration"],
+        "excerpt":"Logo Logo vises i øverste ventre hjørne af alle websider. Det placeres i et rektangulært felt, som sætter nogle krav til udformningen. Meget aflange logoer fungerer dårligt og vil gøre bibliotekets navn meget småt. Ombryd evt. teksten i to dæk for bedre læsbarhed. Logoet bør være en PNG eller SVG...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/udseende/",
         "teaser": null
