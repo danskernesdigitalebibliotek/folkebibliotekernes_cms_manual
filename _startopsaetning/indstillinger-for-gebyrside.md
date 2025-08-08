@@ -1,6 +1,6 @@
 ---
 title: "Opgave 3: Indstillinger for gebyrside"
-category: "Startopsætning"
+category: "Basis konfiguration"
 weight: 3
 emneord:
   - Betaling
