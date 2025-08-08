@@ -1,6 +1,6 @@
 ---
 title: "Opgave 11: Ændr kontaktformularens konfiguration"
-category: "Startopsætning"
+category: "Basis konfiguration"
 weight: 11
 ---
 
