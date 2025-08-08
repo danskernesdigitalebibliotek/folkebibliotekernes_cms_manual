@@ -10,19 +10,19 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Opgave 7: Fjernadgang - Proxy indstillinger - Folkebibliotekernes CMS</title>
-<meta name="description" content="Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til.">
+<!-- begin _includes/seo.html --><title>Staging-site - Folkebibliotekernes CMS</title>
+<meta name="description" content="Staging-site">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Opgave 7: Fjernadgang - Proxy indstillinger">
-<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/startopsaetning/proxyindstillinger/">
+<meta property="og:title" content="Staging-site">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/category/staging-sitet/">
 
 
-  <meta property="og:description" content="Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til.">
+  <meta property="og:description" content="Staging-site">
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/startopsaetning/proxyindstillinger/">
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/category/staging-sitet/">
 
 
 
@@ -76,7 +76,7 @@
 <meta name="theme-color" content="#ffffff">
   </head>
 
-  <body class="layout--single wide" dir="ltr">
+  <body class="layout--single" dir="ltr">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -161,7 +161,7 @@
       
         
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-          <a href="/main/startopsaetning" itemprop="item"><span itemprop="name">Startopsaetning</span></a>
+          <a href="/main/category" itemprop="item"><span itemprop="name">Category</span></a>
           <meta itemprop="position" content="2" />
         </li>
         <span class="sep">/</span>
@@ -169,7 +169,7 @@
     
       
       
-        <li class="current">Opgave 7: Fjernadgang - Proxy indstillinger</li>
+        <li class="current">Staging-site</li>
       
     
   </ol>
@@ -181,49 +181,11 @@
 <div id="main" role="main">
   
   
-  <div class="sidebar sticky">
-  
-
-  
-
-  
-
-    
-    
-
-    
-    
-
-    
-    
-
-    
-    
-    
-
-    
-
-    
-    
-   
-
-  <nav class="nav__list">
-    <input id="ac-toc" name="accordion-toc" type="checkbox" />
-    <label for="ac-toc">Toggle Menu</label>
-    <ul class="nav__items">
-
-           
-    </ul>
-  </nav>
-  
-
-  </div>
-
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Opgave 7: Fjernadgang - Proxy indstillinger">
-    <meta itemprop="description" content="Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til.">
+    <meta itemprop="headline" content="Staging-site">
+    <meta itemprop="description" content="Staging-site">
     <meta itemprop="datePublished" content="2025-08-08T10:25:05+00:00">
     
 
@@ -232,7 +194,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://www.folkebibliotekernescms.dk/main/startopsaetning/proxyindstillinger/" class="u-url" itemprop="url">Opgave 7: Fjernadgang - Proxy indstillinger
+            <a href="https://www.folkebibliotekernescms.dk/main/category/staging-sitet/" class="u-url" itemprop="url">Staging-site
 </a>
           </h1>
           
@@ -240,8 +202,6 @@
 
           <p class="emneord">
   
-  
-  <a href="/main/overblik/emneord/elektroniske-ressourcer/" class="btn btn--inverse btn--small">Elektroniske ressourcer</a>
   
 </p>
 
@@ -257,39 +217,7 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <p>Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til.</p>
-
-<p>Det foregår på samme måde i DDB CMS, så du kan kopiere jeres indstillinger herfra.</p>
-
-<h2 id="kopier-proxy-indstillinger-fra-ddb-cms">Kopier proxy indstillinger fra DDB CMS</h2>
-
-<p>Log ind i DDB CMS med en bruger der har “Lokal administrator” rollen. I topmenuen klik på <strong>Indstillinger &gt; Materialer &gt; Proxy Settings</strong></p>
-
-<p>Eller åbn via direkte link (udskift mit-domænenavn.dk):<br />
-<code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/admin/config/ting/proxy</code></p>
-
-<ul>
-  <li>Kopier Proxy server URL prefix</li>
-  <li>Kopier værtsnavne og replacements</li>
-</ul>
-
-<p><strong>Bemærk!</strong> Replacement skal foldes ud, før man kan se, om der er indhold i. De fleste kilder har en tom Replacement, men der er undtagelser. F. eks. Ebook Central. Det er meget vigtigt, at få replacement med, hvis den er der.</p>
-
-<p><strong>Bemærk!</strong> Det er ikke alle licenser der kræver et Hostname / Værtsnavn. Der kan sagtens ligge flere hostnavne til samme udbyder f.eks. gale, som har tre forskellige hvis man har flere licenser fra dem. Der kan også være flere hostnavne end I har licenser i dag - disse behøver I ikke at kopiere over.</p>
-
-<p>Er du i tvivl om hostname/værtsnavn kan du finde oplysningerne på DBCs oversigt <a href="https://danbib.dk/kilder-databroenden" target="_blank">Kilder i databrønden</a></p>
-
-<p>Få inspiration til e-materiale side visninger her:</p>
-
-<p><a href="https://www.herlevbibliotek.dk/digitale-tilbud" target="_blank">https://www.herlevbibliotek.dk/digitale-tilbud</a><br />
-<a href="https://nginx.main.kobenhavn.dplplat01.dpl.reload.dk/medier" target="_blank">https://nginx.main.kobenhavn.dplplat01.dpl.reload.dk/medier</a></p>
-
-<h2 id="indsæt-proxy-indstillinger-i-folkebibliotekernes-cms">Indsæt proxy indstillinger i Folkebibliotekernes CMS</h2>
-
-<p>Proxy-indstillinger indsættes som beskrevet i vejledningen herunder. Det er præcis samme fremgangsmåde som i DDB CMS.</p>
-
-<p><a href="https://www.folkebibliotekernescms.dk/main/konfiguration/url-proxy-indstillinger/">Vejledningen om opsætning af proxy URLer</a>.</p>
-
+        <p>Staging-site</p>
 
         
       </section>

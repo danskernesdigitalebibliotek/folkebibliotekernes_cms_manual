@@ -191,6 +191,12 @@ var store = [{
         "url": "/main/category/soegning/",
         "teaser": null
       },{
+        "title": "Staging-site",
+        "excerpt":"Staging-site  ","categories": [],
+        "tags": [],
+        "url": "/main/category/staging-sitet/",
+        "teaser": null
+      },{
         "title": "Indstillinger > System",
         "excerpt":"System er en overskrift i konfiguration  ","categories": [],
         "tags": [],
