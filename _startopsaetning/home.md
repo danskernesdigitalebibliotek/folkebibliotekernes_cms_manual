@@ -13,10 +13,6 @@ Der er fire faser i processen og de skal udføres i nævnte rækkefølge. I para
 
 
 
-## Startopsætning - kom i gang
-I kan gå i gang med startopsætningen, når I har modtaget URL og login til jeres Folkebibliotekernes CMS site
-
-
 
 
 
