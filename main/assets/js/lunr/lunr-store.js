@@ -1278,13 +1278,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 3: Indstillinger for gebyrside",
-        "excerpt":"I skal selv overføre indstillinger for fra DDB CMS. Kopier betalingslink og betalingsknaptekst fra DDB CMS over i Folkebibliotekernes CMS. Biblioteker, der ikke har Mit betalingsoverblik, skal læse mere her Kopier oplysninger fra DDB CMS Log ind i DDB CMS med en bruger, der har “Lokal administrator” rollen. I topmenuen...","categories": ["Startopsætning"],
+        "excerpt":"I skal selv overføre indstillinger for fra DDB CMS. Kopier betalingslink og betalingsknaptekst fra DDB CMS over i Folkebibliotekernes CMS. Biblioteker, der ikke har Mit betalingsoverblik, skal læse mere her Kopier oplysninger fra DDB CMS Log ind i DDB CMS med en bruger, der har “Lokal administrator” rollen. I topmenuen...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/indstillinger-for-gebyrside/",
         "teaser": null
       },{
         "title": "Opgave 11: Ændr kontaktformularens konfiguration",
-        "excerpt":"Jeres kontaktformular /kontakt skal ændres, så det information der sendes til brugerne er korrekt og de rigtigte personer modtager henvendelserne fra brugerne. Kontaktformularen 1. Opret de korrekte email kategorier I kontaktformularen kan brugerne vælge en kategori, som henvendelsen omhandler, og I kan tilknytte en email til de kategorier, så de...","categories": ["Startopsætning"],
+        "excerpt":"Jeres kontaktformular /kontakt skal ændres, så det information der sendes til brugerne er korrekt og de rigtigte personer modtager henvendelserne fra brugerne. Kontaktformularen 1. Opret de korrekte email kategorier I kontaktformularen kan brugerne vælge en kategori, som henvendelsen omhandler, og I kan tilknytte en email til de kategorier, så de...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/kontaktformular/",
         "teaser": null
