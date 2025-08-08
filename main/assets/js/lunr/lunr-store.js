@@ -1319,6 +1319,12 @@ var store = [{
         "url": "/main/startopsaetning/redirects-google/",
         "teaser": null
       },{
+        "title": "Etablering af staging-site",
+        "excerpt":" ","categories": ["Staging-site"],
+        "tags": [],
+        "url": "/main/startopsaetning/staging-site/",
+        "teaser": null
+      },{
         "title": "Opgave 10: Byg sidens faste struktur og menuer",
         "excerpt":"1. Planlæg strukturen af hjemmesiden For at oprette strukturen på jeres hjemmesiden, kan I benytte det arbejde, som I lavede i forberedelsesopgave 4: Informationsarkitektur og navigation. Hvis I ikke har lavet det endnu, kan det bruges som inspiration til hvordan I vil bygge siden op. 2. Opret jeres sider Start...","categories": ["Basis konfiguration"],
         "tags": [],
