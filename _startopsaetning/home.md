@@ -3,9 +3,13 @@ title: "Etablering af nyt DDB CMS site"
 permalink: /startopsaetning/
 ---
 
-Denne guide dkomuneterer, hvilke trin der skal gennemføres når et helt nyt DDB CMS site skal oprettes. Der er en nogle opgaver der skal løses af henholdsvis DDF og biblioteket i en bestemt rækkefølge.
+Denne guide dokunenterer, de trin der skal til for at oprette et nyt DDB CMS site. Nogle nogle opgaver skal udføres af DDF - andre af biblioteket. Og de skal udføres i den rigtige rækkefølge.
 
-## Staging-site etableres
+Der er fire faser i processen og de skal udføres i nævnte rækkefølge. I parantes står hvem der er ansvarlig for udførelsen.
+1. Etablering af staging-site (DDF)
+2. Basis konfiguration af sitet (Biblioteket)
+3. Oprettelse af indhold på sitet (Biblioteket)
+4. Go live (Samarbejde mellem DDF og biblioteket)
 
 
 
