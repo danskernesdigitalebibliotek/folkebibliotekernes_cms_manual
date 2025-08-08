@@ -1,7 +1,7 @@
 ---
 title: "Opgave 4: Opret systembrugere"
 weight: 4
-category: "Startopsætning"
+category: "Basis konfiguration"
 emneord:
   - Brugere og roller
 ---
