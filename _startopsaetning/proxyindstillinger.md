@@ -1,6 +1,6 @@
 ---
 title: "Opgave 7: Fjernadgang - Proxy indstillinger"
-category: "Startopsætning"
+category: "Basis konfiguration"
 weight: 7
 emneord:
   - Elektroniske ressourcer
