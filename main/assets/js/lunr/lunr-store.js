@@ -194,7 +194,7 @@ var store = [{
         "title": "Staging-site",
         "excerpt":"Staging-site  ","categories": [],
         "tags": [],
-        "url": "/main/category/staging-sitet/",
+        "url": "/main/category/staging-site/",
         "teaser": null
       },{
         "title": "Indstillinger > System",
