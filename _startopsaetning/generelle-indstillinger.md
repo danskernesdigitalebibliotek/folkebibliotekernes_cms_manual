@@ -1,6 +1,6 @@
 ---
 title: "Opgave 2: Generelle indstillinger"
-category: "Startopsætning"
+category: "Basis konfiguration"
 weight: 2
 emneord:
   - Søgning
