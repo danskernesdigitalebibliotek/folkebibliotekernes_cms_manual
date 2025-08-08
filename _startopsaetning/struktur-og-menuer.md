@@ -1,7 +1,7 @@
 ---
 title: "Opgave 10: Byg sidens faste struktur og menuer"
 weight: 10
-category: "Startopsætning"
+category: "Basis konfiguration"
 emneord:
 - Menuer og navigation
 ---
