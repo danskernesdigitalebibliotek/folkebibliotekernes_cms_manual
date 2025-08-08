@@ -2,8 +2,6 @@
 title: "Opgave 4: Opret systembrugere"
 weight: 4
 category: "Basis konfiguration"
-emneord:
-  - Brugere og roller
 ---
 
 Du er sikkert ikke den eneste, der skal lave indhold til jeres nye hjemmeside. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden.
