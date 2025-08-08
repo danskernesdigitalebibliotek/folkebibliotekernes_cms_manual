@@ -13,8 +13,8 @@ Når hjemmesiden er klar til lancering, aftales der en **go-live dato** mellem D
 3. Bibliotekets webansvarlige logger ind på adressen:\
    `https://staging-site-url.dk/user`
    
-   Dvs. I skal skrive `/user` efter jeres staging-site URL, for at komme til login-siden.
-   Bibliotekets medarbejdere IKKE kan logge ind via den formnular, som borgerne benytter.
+   Dvs. du skal skrive `/user` efter jeres staging-site URL, for at logge ind i hjemmsidens backend.
+   Den login-side, som borgerne benytter, kan ikke bruges.
 
 
 
