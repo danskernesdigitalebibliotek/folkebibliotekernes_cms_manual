@@ -39,3 +39,7 @@ Eksempel på tekstblok uden billede – men med identitetsfarve:
 Bemærk: For at sikre god læsbarhed og overholdelse af krav til kontrast, må bibliotekets identitetsfarve aldrig bruges i direkte forbindelse med tekst. Det vil sige at I ikke skal skrive tekst med jeres farve.
 
 [Konfiguration af logo, identitetsfarve og favicon]({{ site.baseurl }}{% link _konfiguration/udseende.md %}).
+
+## Favicon
+Et favicon vises i browserens adresselinje og som bogmærke ikon. Det er et 16 x 16 px billede i ico-format.
+Det er frivilligt om man vil uploade et favicon. Sitet fungerer fint uden.
