@@ -1,6 +1,6 @@
 ---
 title: "Opgave 8: Logo, identitetsfarve og favicon"
-category: "Startopsætning"
+category: "Basis konfiguration"
 weight: 8
 emneord:
   - Identitet, Tema
