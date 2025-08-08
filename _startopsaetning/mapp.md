@@ -2,8 +2,6 @@
 title: "Opgave 6: Mapp Intelligence"
 category: "Basis konfiguration"
 weight: 6
-emneord:
-  - Statistik
 ---
 
 Via Mapp indsamles statistik for jeres hjemmeside. 
