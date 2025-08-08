@@ -77,6 +77,12 @@ var store = [{
         "url": "/main/bliv-klar-til-folkebibliotekernes-cms/",
         "teaser": null
       },{
+        "title": "Basis konfiguration",
+        "excerpt":"Basis konfiguration  ","categories": [],
+        "tags": [],
+        "url": "/main/category/basiskonfiguration/",
+        "teaser": null
+      },{
         "title": "Indstillinger > Biblioteksindstillinger",
         "excerpt":"Biblioteksindstillinger er en overskrift i konfiguration  ","categories": [],
         "tags": [],
@@ -123,12 +129,6 @@ var store = [{
         "excerpt":"GO  ","categories": [],
         "tags": [],
         "url": "/main/category/go/",
-        "teaser": null
-      },{
-        "title": "Basis konfiguration",
-        "excerpt":"Basis konfiguration  ","categories": [],
-        "tags": [],
-        "url": "/main/category/grundkonfiguration/",
         "teaser": null
       },{
         "title": "Indholdstyper",
