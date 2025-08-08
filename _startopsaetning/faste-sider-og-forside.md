@@ -1,7 +1,7 @@
 ---
 title: "Opgave 5: Faste sider og forsiden"
 weight: 5
-category: "Startopsætning"
+category: "Basis konfiguration"
 ---
 
 ## Gennemgå de faste sider
