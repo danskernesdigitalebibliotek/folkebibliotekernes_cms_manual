@@ -1,6 +1,6 @@
 ---
 title: "Opgave 9: Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside"
-category: "Startopsætning"
+category: "Basis konfiguration"
 weight: 9
 emneord:
   - Adgangsplatformen
