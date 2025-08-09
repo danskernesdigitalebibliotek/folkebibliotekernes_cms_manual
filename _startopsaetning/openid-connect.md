@@ -2,32 +2,34 @@
 title: "Opgave 1: OpenID Connect (Adgangsplatformen)"
 weight: 1
 category: "Basis konfiguration"
-emneord:
-  - Adgangsplatformen
 ---
 
 Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt.
 
-I denne opgave skal I kopiere jeres OpenID Connect adgangsnøgler fra DDB CMS over i Folkebibliotekernes CMS.
+I denne opgave skal I indsætte OpenID Connect adgangsnøgler i Folkebibliotekernes CMS.
 
-## Kopier nøgler fra DDB CMS
+## Rekvirer nøgler fra DBC
 
-Log ind i DDB CMS med en bruger der har "Lokal administrator" rollen. I topmenuen klik på **Indstillinger > Ding > Adgangsplatformen**
+Det er DBC, der kan udlevere adgangsnøgler til Adgangsplatformen. Ikke DDF.
 
-Eller åbn via direkte link (udskift mit-domænenavn.dk):\
-`https://mit-domænenavn.dk/admin/config/ding/adgangsplatformen`
-
-Kopier Client ID og Client Secret. Vær omhyggelig så det hele kommer med!
-
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c2318e78-7318-4384-91b7-358b613b0e70" alt="Kopier Client ID og Client secret fra DDB CMS" caption="Kopier Client ID og Client secret fra DDB CMS" %} 
+Hvis I ikke har dem, skal I oprette en supportsag hos DBC, hvor I beder om at få udleveret jeres Client ID og Client Secret til Adgangsplatformen. 
 
 
 ## Indsæt nøgler i Folkebibliotekernes CMS
 
-Log ind i Folkebibliotekernes CMS. I topmenuen klik på **Indstillinger > Web-services > OpenID Connect**
+Log ind i Folkebibliotekernes CMS med jeres admin-login. I topmenuen klik på **Indstillinger > Redaktionelle brugere > OpenID Connect**
 
-Eller åbn via direkte link (udskift mit-staging-domæne.dk):\
-`https://mit-staging-domæne.dk/admin/config/services/openid-connect`
+Eller åbn siden via direkte link (udskift mit-staging-domæne.dk):\
+`https://mit-staging-domæne.dk/admin/config/people/openid-connect`
+
+Siden der åbner ser sådan ud. På billedet her er Adgangsplatformen allerede oprettet. 
+
+Hvis jeres oversigt er tom, så tryk på den **blå +Adgangsplatformen knap øverst**.
+
+<img width="1273" height="328" alt="image" src="https://github.com/user-attachments/assets/f8db206a-41ec-4cb3-9a7b-ea296499b9c1" />
+
+
+
 
 
 1. Indsæt Client ID og Clent Secret. Vær igen omhyggelig så det hele kommer med!
