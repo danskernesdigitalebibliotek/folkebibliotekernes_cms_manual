@@ -1260,7 +1260,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Basiskonfiguration - introduktion",
-        "excerpt":"Det første der skal ske, er at biblioteket skal lave en basiskonfiguration af hjemmesiden. Alle basiskonfigurationsopgaver skal udføres og de skal laves i den rigtige rækkefølge. Rækkefølgen er ikke tilfældig, da opgaverne afhænger af hinanden. Staging-sitet som biblioteket modtager er uden indhold og er ikke sat op til at hente...","categories": ["Basis konfiguration"],
+        "excerpt":"Det første der skal ske, er at biblioteket skal lave en basiskonfiguration af hjemmesiden. Alle basiskonfigurationsopgaver skal udføres og de skal laves i den rigtige rækkefølge. Rækkefølgen er ikke tilfældig, da opgaverne afhænger af hinanden. Vigtigst af alt er at få etableret forbindelse til Adgangsplatformen. Uden den kan borgerne ikke...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/basiskonfiguration-intro/",
         "teaser": null
