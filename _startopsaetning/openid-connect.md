@@ -24,17 +24,12 @@ Eller åbn siden via direkte link (udskift mit-staging-domæne.dk):\
 
 På billedet her er Adgangsplatformen allerede oprettet. 
 
-Hvis jeres oversigt er tom, så tryk på den **blå +Adgangsplatformen knap øverst**.
+- Hvis jeres oversigt er tom, så tryk på den blå **+Adgangsplatformen** knap øverst.
 
 <img width="1273" height="328" alt="image" src="https://github.com/user-attachments/assets/f8db206a-41ec-4cb3-9a7b-ea296499b9c1" />
 
+- Indsæt Client ID og Clent Secret. Vær igen omhyggelig så det hele kommer med!
+- Udfyld feltet Agency ID (6 tal - ingen DK foran)
+- Tryk på **Gem** nederst på siden
 
-
-
-
-1. Indsæt Client ID og Clent Secret. Vær igen omhyggelig så det hele kommer med!
-2. Udfyld feltet Agency ID (6 tal - ingen DK foran)
-3. Tryk på **Save configuration** nederst på siden
-
-{% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3cf6e2ff-7993-4b5a-a924-754563244a0f" alt="Indsæt Client ID, Client secret og Agency ID i Folkebibliotekernes CMS" caption="Indsæt Client ID, Client secret og Agency ID i Folkebibliotekernes CMS" %} 
 <img width="671" height="852" alt="Adgangsplatformen" src="https://github.com/user-attachments/assets/285558d1-164c-4f9a-8690-61174a7761d9" />
