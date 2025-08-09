@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2025-08-09T10:40:12+00:00">
+  <meta property="article:published_time" content="2025-08-09T11:00:57+00:00">
 
 
 
@@ -308,7 +308,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Opgave 1: OpenID Connect (Adgangsplatformen)">
     <meta itemprop="description" content="Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt.">
-    <meta itemprop="datePublished" content="2025-08-09T10:40:12+00:00">
+    <meta itemprop="datePublished" content="2025-08-09T11:00:57+00:00">
     
 
     <div class="page__inner-wrap">
@@ -324,8 +324,6 @@
 
           <p class="emneord">
   
-  
-  <a href="/main/overblik/emneord/adgangsplatformen/" class="btn btn--inverse btn--small">Adgangsplatformen</a>
   
 </p>
 
@@ -343,28 +341,26 @@
         
         <p>Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt.</p>
 
-<p>I denne opgave skal I kopiere jeres OpenID Connect adgangsnøgler fra DDB CMS over i Folkebibliotekernes CMS.</p>
+<p>I denne opgave skal I indsætte OpenID Connect adgangsnøgler i Folkebibliotekernes CMS.</p>
 
-<h2 id="kopier-nøgler-fra-ddb-cms">Kopier nøgler fra DDB CMS</h2>
+<h2 id="rekvirer-nøgler-fra-dbc">Rekvirer nøgler fra DBC</h2>
 
-<p>Log ind i DDB CMS med en bruger der har “Lokal administrator” rollen. I topmenuen klik på <strong>Indstillinger &gt; Ding &gt; Adgangsplatformen</strong></p>
+<p>Det er DBC, der kan udlevere adgangsnøgler til Adgangsplatformen. Ikke DDF.</p>
 
-<p>Eller åbn via direkte link (udskift mit-domænenavn.dk):<br />
-<code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/admin/config/ding/adgangsplatformen</code></p>
-
-<p>Kopier Client ID og Client Secret. Vær omhyggelig så det hele kommer med!</p>
-
-<figure class="eighty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c2318e78-7318-4384-91b7-358b613b0e70" alt="Kopier Client ID og Client secret fra DDB CMS" /><figcaption>
-      Kopier Client ID og Client secret fra DDB CMS
-
-    </figcaption></figure>
+<p>Hvis I ikke har dem, skal I oprette en supportsag hos DBC, hvor I beder om at få udleveret jeres Client ID og Client Secret til Adgangsplatformen.</p>
 
 <h2 id="indsæt-nøgler-i-folkebibliotekernes-cms">Indsæt nøgler i Folkebibliotekernes CMS</h2>
 
-<p>Log ind i Folkebibliotekernes CMS. I topmenuen klik på <strong>Indstillinger &gt; Web-services &gt; OpenID Connect</strong></p>
+<p>Log ind i Folkebibliotekernes CMS med jeres admin-login. I topmenuen klik på <strong>Indstillinger &gt; Redaktionelle brugere &gt; OpenID Connect</strong></p>
 
-<p>Eller åbn via direkte link (udskift mit-staging-domæne.dk):<br />
-<code class="language-plaintext highlighter-rouge">https://mit-staging-domæne.dk/admin/config/services/openid-connect</code></p>
+<p>Eller åbn siden via direkte link (udskift mit-staging-domæne.dk):<br />
+<code class="language-plaintext highlighter-rouge">https://mit-staging-domæne.dk/admin/config/people/openid-connect</code></p>
+
+<p>Siden der åbner ser sådan ud. På billedet her er Adgangsplatformen allerede oprettet.</p>
+
+<p>Hvis jeres oversigt er tom, så tryk på den <strong>blå +Adgangsplatformen knap øverst</strong>.</p>
+
+<p><img width="1273" height="328" alt="image" src="https://github.com/user-attachments/assets/f8db206a-41ec-4cb3-9a7b-ea296499b9c1" /></p>
 
 <ol>
   <li>Indsæt Client ID og Clent Secret. Vær igen omhyggelig så det hele kommer med!</li>
@@ -388,7 +384,7 @@
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-08-09T10:40:12+00:00">August 9, 2025</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-08-09T11:00:57+00:00">August 9, 2025</time></p>
 
       </footer>
 
