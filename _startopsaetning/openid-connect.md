@@ -22,7 +22,7 @@ Log ind i Folkebibliotekernes CMS med jeres admin-login. I topmenuen klik på **
 Eller åbn siden via direkte link (udskift mit-staging-domæne.dk):\
 `https://mit-staging-domæne.dk/admin/config/people/openid-connect`
 
-Siden der åbner ser sådan ud. På billedet her er Adgangsplatformen allerede oprettet. 
+På billedet her er Adgangsplatformen allerede oprettet. 
 
 Hvis jeres oversigt er tom, så tryk på den **blå +Adgangsplatformen knap øverst**.
 
@@ -37,3 +37,4 @@ Hvis jeres oversigt er tom, så tryk på den **blå +Adgangsplatformen knap øve
 3. Tryk på **Save configuration** nederst på siden
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/3cf6e2ff-7993-4b5a-a924-754563244a0f" alt="Indsæt Client ID, Client secret og Agency ID i Folkebibliotekernes CMS" caption="Indsæt Client ID, Client secret og Agency ID i Folkebibliotekernes CMS" %} 
+<img width="671" height="852" alt="Adgangsplatformen" src="https://github.com/user-attachments/assets/285558d1-164c-4f9a-8690-61174a7761d9" />
