@@ -1,20 +1,8 @@
 ---
-title: "Opgave 5: Faste sider og forsiden"
+title: "Opgave 5: Forsiden og faste sider"
 weight: 5
 category: "Basis konfiguration"
 ---
-
-## Gennemgå de faste sider
-Folkebibliotekernes CMS fødes med nogle **faste sider** eller **standardsider**. De faste sider kan redigeres, præcis som sider I selv har oprettet. De er der bare fra starten af, når I får systemet.
-
-Rundt omkring på jeres website, er der links til de faste sider. Hvis de faste sider mangler, risikerer I, at jeres brugere møder døde links og/eller at sitet fejler. Derfor skal I ikke slette dem.
-
-I må gerne tilrette de medfølgende standardsider efter lokale forhold samt evt. tone.
-
-1. [Læs om de faste sider.](https://www.folkebibliotekernescms.dk/main/indhold/faste-sider/) Der er uddybende information om hver af dem.
-2. Log ind på jeres site og fremsøg hver af de faste sider under "Indhold"
-3. Tilret siderne efter behov
-
 ## Opret en forside
 Folkebibliotekernes CMS fødes ikke med en forside. Den skal I selv opbygge. En hvilken som helst side kan fungere som forside.
 
@@ -29,6 +17,19 @@ Vi anbefaler, at I opretter en side med navnet Forside. I behøver ikke gøre de
 **Hvor blev login-siden af?** Fra start af er login-siden sat som forside. Efter I har registreret jeres rigtige forside, kan det føles som om login-siden er "blevet væk". Systembrugere skal gå til siden **/user** for at logge ind\ 
 https://mit-domænenavn.dk/user (udskift mit-domænenavn.dk) 
 {: .notice--info}
+
+## Gennemgå de faste sider
+Folkebibliotekernes CMS fødes med nogle **faste sider** eller **standardsider**. De faste sider kan redigeres, præcis som sider I selv har oprettet. De er der bare fra starten af, når I får systemet.
+
+Rundt omkring på jeres website, er der links til de faste sider. Hvis de faste sider mangler, risikerer I, at jeres brugere møder døde links og/eller at sitet fejler. Derfor skal I ikke slette dem.
+
+I må gerne tilrette de medfølgende standardsider efter lokale forhold samt evt. tone.
+
+1. [Læs om de faste sider.](https://www.folkebibliotekernescms.dk/main/indhold/faste-sider/) Der er uddybende information om hver af dem.
+2. Log ind på jeres site og fremsøg hver af de faste sider under "Indhold"
+3. Tilret siderne efter behov
+
+
 
 
 
