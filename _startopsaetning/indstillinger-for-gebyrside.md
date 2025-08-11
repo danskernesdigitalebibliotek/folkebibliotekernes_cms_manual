@@ -8,7 +8,7 @@ De fleste kommuner er i dag overgået til [ØiR](https://digitaliseringskataloge
 
 "Mit betalingsoverblik" giver en samlet oversigt over de økonomiske mellemværender med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og biblioteksgebyrer.
 
-Bruger jeres kommune "Mit betalingsoverblik" skal du kontakte den person der er ansvarlig for systemet i jeres kommune og sørge for at biblioteket bliver tilknyttet. 
+Skal biblioteket i gang med "Mit betalingsoverblik" skal du kontakte den person der er ansvarlig for systemet i jeres kommune og sørge for at biblioteket bliver tilknyttet. 
 Du skal også have udleveret et link til den side, som borgerne skal logge ind på for at se deres mellemværende.
 
 URLen til "Mit betalingsoverblik" er den samme for alle enheder i jeres kommune. Biblioteket skal ikke have et særligt link. 
