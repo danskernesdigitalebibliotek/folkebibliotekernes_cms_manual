@@ -1302,7 +1302,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 11: Ændr kontaktformularens konfiguration",
-        "excerpt":"Jeres hjemmeside har en indbygget kontaktformular, der ligger på adressen https://mit-domænenavn.dk/kontakt. Inden I tager hjemmesiden i brug, skal I sørge for at tilpasse de automatiske email-svar, der sendes til brugerne, og sørge for at de rigtigte medarbejdere modtager henvendelserne fra brugerne. Kontaktformularen 1. Opret de korrekte email kategorier I kontaktformularen...","categories": ["Basis konfiguration"],
+        "excerpt":"Jeres hjemmeside har en indbygget kontaktformular, der ligger på adressen https://mit-domænenavn.dk/kontakt. Inden I tager hjemmesiden i brug, skal I sørge for at tilpasse de automatiske email-svar, der sendes til brugerne, og sørge for at de rigtigte medarbejdere modtager henvendelserne fra brugerne. Kontaktformularen 1. Opret kategorier og tilknyt medarbejder emails I...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/kontaktformular/",
         "teaser": null
