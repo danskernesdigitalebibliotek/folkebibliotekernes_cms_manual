@@ -1313,8 +1313,8 @@ var store = [{
         "url": "/main/startopsaetning/mapp/",
         "teaser": null
       },{
-        "title": "Opgave 6: Forbered nyt indhold, hvor det er påkrævet",
-        "excerpt":"Ikke alle komponenter og indholdstyper i det gamle CMS findes i det nye CMS. Nogle udvikles slet ikke og andre når ikke at blive klar inden indflytningsdatoen. Her er en oversigt over indhold, som I skal gentænke, hvis det skal overføres til Folkebibliotekernes CMS. Metode og fremgangsmåde Læs dette afsnit...","categories": ["Overgangsaktiviter"],
+        "title": "Opgave 6: Medarbejdere, e-ressourcer og formularer",
+        "excerpt":"Medarbejderoversigt Hvis I ønsker en oversigt over medarbejdere på biblioteket, skal den laves i en liste på en side, som I manuelt vedligeholder. Besøg nogle af de andre bibliotekshjemmesider for at få inspiration til hvordan det kan gøres. E-ressourcer Der findes ingen E-ressource oversigtsside eller e-ressource indholdstypen i Folkebibliotekernes CMS....","categories": ["Struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/medarbejdere-eressourcer-fomularer/",
         "teaser": null
