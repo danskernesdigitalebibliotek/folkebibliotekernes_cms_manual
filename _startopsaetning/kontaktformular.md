@@ -10,7 +10,7 @@ Inden I tager hjemmesiden i brug, skal I sørge for at tilpasse de automatiske e
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/9ef4152e-6912-4bc9-8e07-7f8c9e33c24b" alt="Kontaktformularen" caption="Kontaktformularen" %}
 
-## 1. Opret kategorier og tilknyt medarbejder emails
+## 1. Opret kategorier og tilknyt medarbejder-emails
 I kontaktformularen skal brugerne vælge en kategori, som henvendelsen omhandler. I bestemmer selv hvilke og hvor mange kategorier, der skal være. Man kan godt nøjes med kun én kategori.
 
 På hver kategori skal I registere emailadresser på de medarbejdere, der skal modtage og behandle henvendelserne.
