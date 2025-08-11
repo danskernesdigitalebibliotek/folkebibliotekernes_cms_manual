@@ -768,7 +768,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Indstillinger for gebyrside",
-        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for gebyrside Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/fees Skal du i gang med gebyr-konfiguration? Baggrundsinformation vedr. Indstillinger for gebyrside. URL URL til informationsside om gebyrtakster, erstatninger og betaling. Der linkes til denne side flere steder, bla. fra Gebyrer &amp; Erstatninger,...","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for gebyrside Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/config/dpl-library-agency/fees Skal du i gang med gebyr-konfiguration? Baggrundsinformation om gebyrer og betaling. URL URL til informationsside om gebyrtakster, erstatninger og betaling. Der linkes til denne side flere steder, bla. fra Gebyrer &amp; Erstatninger,...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/main/konfiguration/gebyrindstillinger/",
         "teaser": null
