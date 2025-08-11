@@ -1,36 +1,16 @@
 ---
-title: "Opgave 6: Forbered nyt indhold, hvor det er påkrævet"
-category: "Overgangsaktiviter"
-weight: 6
-emneord:
-  - Elektroniske ressourcer
-  - Medarbejderoversigt
+title: "Opgave 6: Medarbejdere, e-ressourcer og formularer"
+category: "Struktur og indhold"
+weight: 4
 ---
-Ikke alle komponenter og indholdstyper i det gamle CMS findes i det nye CMS. Nogle udvikles slet ikke og andre når ikke at blive klar inden indflytningsdatoen.
+### Medarbejderoversigt
+Hvis I ønsker en oversigt over medarbejdere på biblioteket, skal den laves i en liste på en side, som I manuelt vedligeholder.
+Besøg nogle af de andre bibliotekshjemmesider for at få inspiration til hvordan det kan gøres.
 
-Her er en oversigt over indhold, som I skal gentænke, hvis det skal overføres til Folkebibliotekernes CMS. 
-
-## Metode og fremgangsmåde
-Læs dette afsnit grundigt og beslut jer for, hvad I vil gøre med jeres indhold. Vi foreslår en løsning, men I beslutter selv, hvad der fungerer bedst for jer.
-
-### Medarbejderoversigten
-Medarbejderoversigten og staff brugertypen findes ikke i Folkebibliotekernes CMS. Hvis I ønsker en oversigt over medarbejdere, skal den laves i en liste på en side, som I manuelt vedligeholder.
-
-Vi anbefaler at I gør medarbejderoversigten klar, inden I får adgang til det nye CMS. Lav den i Notepad eller en anden editor, der ikke indsætter skjult formatering (ikke Microsoft Word). Listen kan I så kopiere ind på en side, når I får adgang til det nye CMS.
-
-Lav en linje pr. medarbejder, som her:
-```
-Publikum og Rum
-Rikke Hansen, Bibliotekar, Tlf: 88889999, E-mail: riha@kommune.dk
-Kirsten Nielsen, Assistent, Tlf: 22225555, E-mail; kini@kommune.dk
-
-```
 ### E-ressourcer
-E-ressource oversigtssiden og e-ressource indholdstypen findes ikke i Folkebibliotekernes CMS. Det betyder, at I skal beslutte, hvad I stiller op med jeres e-ressourcer.
+Der findes ingen E-ressource oversigtsside eller e-ressource indholdstypen i Folkebibliotekernes CMS. 
 
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d62c12f0-21dd-4f37-9035-40a29434b99e" alt="E-ressource oversigtssiden findes ikke i FBCMS" caption="E-ressource oversigtssiden findes ikke i FBCMS" %}
-
-Den simple løsning er, at I laver en side, der viser en liste over jeres e-ressourcer med navn, kort beskrivelse og proxy-link. Også den kan forberedes i Notepad i god tid inden flyningen.
+Den simple løsning er, at I laver en side, der viser en liste over jeres e-ressourcer med navn, kort beskrivelse og proxy-link.
 
 Lav en liste over e-ressoucer som denne:
 ```
@@ -40,10 +20,11 @@ https://bibxxx.bibbaser.dk/login?url=http://www.europaworld.com/
 
 Gale in Context: Science
 Med Gale in Context: Science har du adgang til en naturvidenskabelig database med emneoversigter, eksperimenter, biografier, billeder og illustrationer.
-https://bib751.bibbaser.dk/login?url=http://find.galegroup.com/menu/start?userGroupName=45aarkomm&prod=SCIC
+https://bibxxx.bibbaser.dk/login?url=http://find.galegroup.com/menu/start?userGroupName=45aarkomm&prod=SCIC
 
 ```
-Hvis det er vigtigt for jer med længere beskrivelser og billeder til hver e-ressource, kan I lave en side for hver ressource og bruge en navigationsside til at skabe det samlede overblik. Den skal I selv opbygge og holde opdateret. 
+
+Hvis det er vigtigt for jer med længere beskrivelser og billeder til hver e-ressource, kan I som f. eks. Københavns Kommune lave en side for hver e-ressource og bruge en navigationsside til at skabe det samlede overblik. Den skal I selv opbygge og holde opdateret. [Se Københavns e-ressource oversigt her](https://bibliotek.kk.dk/medier/e-materialer/e-boger-og-lydboger){:target="_blank"}.
 
 ### Formularer
 Det er besluttet at Webforms, som vi kender fra DDB CMS, også bliver en del af Folkebibliotekernes CMS. MEN det bliver udviklet til sidst og vil ikke være klar, når piloterne går live. 
