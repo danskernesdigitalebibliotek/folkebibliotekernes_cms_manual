@@ -6,6 +6,8 @@ weight: 3
 ---
 De fleste kommuner er i dag overgået til [ØiR](https://digitaliseringskataloget.dk/l%C3%B8sninger/oekonomi-i-rammearkitekturen){:target="_blank"}. Mange kommuner bruger desuden KMD Opus økonomisystemet, hvor borgernes udeståender samles i "Mit betalingsoverblik". 
 
+Du opsætter adgang til "Mit betalingsoverblik" 
+
 "Mit betalingsoverblik" giver en samlet oversigt over de økonomiske mellemværender med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og biblioteksgebyrer.
 
 [Har I ikke "Mit betalingsoverblik", så læs mere her](https://www.folkebibliotekernescms.dk/main/startopsaetning/indstillinger-for-gebyrside/#for-biblioteker-der-ikke-har-mit-betalingsoverblik).
