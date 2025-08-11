@@ -9,7 +9,7 @@ De fleste kommuner bruger "Mit betalingsoverblik", der giver borgeren en samlet 
 Bruger jeres kommune "Mit betalingsoverblik" skal du kontakte den person der er ansvarlig for systemet i jeres kommune og sørge for at biblioteket bliver tilknyttet. 
 Du skal også have udleveret et link til den side, som borgerne skal logge ind på for at se deres mellemværende.
 
-URLen til "Mit betalingsoverblik" er den samme for alle instanser i jeres kommune. Biblioteket skal ikke have et særligt link. 
+URLen til "Mit betalingsoverblik" er den samme for alle enheder i jeres kommune. Biblioteket skal ikke have et særligt link. 
 
 Mangler du linket, kan du ofte finde det på din kommunens hjemmeside. Find et sted hvor der linkes til "Mit betalingsoverblik" og kopier linket. 
 
