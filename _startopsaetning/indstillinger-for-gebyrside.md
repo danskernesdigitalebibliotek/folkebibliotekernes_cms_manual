@@ -4,7 +4,9 @@ category: "Basis konfiguration"
 weight: 3
 
 ---
-De fleste kommuner bruger "Mit betalingsoverblik", der giver borgeren en samlet status for hans/hendes økonomiske mellemværende med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og biblioteksgebyrer.
+De fleste kommuner er i dag overgået til [ØiR](https://digitaliseringskataloget.dk/l%C3%B8sninger/oekonomi-i-rammearkitekturen){:target="_blank"}. Mange kommuner bruger desuden KMD Opus økonomisystemet, hvor borgernes udeståender samles i "Mit betalingsoverblik". 
+
+I "Mit betalingsoverblik" giver borgeren en samlet status for hans/hendes økonomiske mellemværende med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og biblioteksgebyrer.
 
 Bruger jeres kommune "Mit betalingsoverblik" skal du kontakte den person der er ansvarlig for systemet i jeres kommune og sørge for at biblioteket bliver tilknyttet. 
 Du skal også have udleveret et link til den side, som borgerne skal logge ind på for at se deres mellemværende.
@@ -40,12 +42,11 @@ I kan tilrette de viste labels i Cicero.
 
 
 ## For biblioteker, der ikke har Mit betalingsoverblik
-Biblioteker der pt. bruger **Nets EASY betalingsmodulet**, skal finde en ny løsning. Folkebibliotekernes CMS har ikke integration til Nets EASY og får det heller ikke. Årsagen ligger i det kommende FBS udbud, hvor al betalingsfunktionalitet udgår.
-{: .notice}
 
 De fleste kommuner er i dag overgået til [ØiR](https://digitaliseringskataloget.dk/l%C3%B8sninger/oekonomi-i-rammearkitekturen){:target="_blank"}. Mange kommuner bruger desuden KMD Opus økonomisystemet, hvor borgernes udeståender samles i "Mit betalingsoverblik". 
 
-I kommuner, der bruger andre økonomisystemer, er det anderledes. Ikke alle har en betalingsside, der kan linkes til. Her sendes opkrævninger via Digital Post og betaling sker via bankoverførsel.
+Kommuner, der ikke bruger KMD Opus økonomisystemet, har ikke "mit betalingsoverblik". Men de har måske en anden betalingsside, der kan linkes til. 
+I kommuner hvor der ikke er adgang til en betalingsside kan biblioteket sende opkrævninger via Digital Post og betaling ske via bankoverførsel.
 
 Har I ikke "Mit betalingsoverblik", skal du udfylde gebyrindstillingerne anderledes.
 
