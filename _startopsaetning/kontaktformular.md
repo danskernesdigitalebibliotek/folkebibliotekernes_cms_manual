@@ -4,20 +4,22 @@ category: "Basis konfiguration"
 weight: 11
 ---
 
-Jeres kontaktformular `/kontakt` skal ændres, så det information der sendes til brugerne er korrekt og de rigtigte personer modtager henvendelserne fra brugerne.
+Jeres hjemmeside har en indbygget kontaktformular, der ligger på adressen `https://mit-domænenavn.dk/kontakt`. 
+
+Inden I tager hjemmesiden i brug, skal I sørge for at tilpasse de automatiske email-svar, der sendes til brugerne, og sørge for at de rigtigte medarbejdere modtager henvendelserne fra brugerne.
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/9ef4152e-6912-4bc9-8e07-7f8c9e33c24b" alt="Kontaktformularen" caption="Kontaktformularen" %}
 
 ## 1. Opret de korrekte email kategorier
-I kontaktformularen kan brugerne vælge en kategori, som henvendelsen omhandler, og I kan tilknytte en email til de kategorier, så de sendes til de rette personer på biblioteket.
+I kontaktformularen kan brugerne vælge en kategori, som henvendelsen omhandler. Til hver kategori kan I tilknytte emailadresser på de medarbejdere, der skal modtage og behandle henvendelserne.
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/226400d7-9974-4d0d-b7cc-d5b6917cce9a" alt="Email kategorier" caption="Email kategorier" %}
 
-I topmenuen klik på **Struktur** eller åbn `https://mit-domænenavn.dk/admin/structure (udskift mit-domænenavn.dk)`
+1. I topmenuen klik på **Struktur** eller åbn `https://mit-domænenavn.dk/admin/structure (udskift mit-domænenavn.dk)`
 
-Tryk på **Taksonomi**
+2. Tryk på **Taksonomi**
 
-Tryk på **Vis ord** ud for Webform email kategories
+3. Tryk på **Vis ord** ud for Webform email kategories
 
 Her kan I redigere, tilføje og slette kategorier. 
 
