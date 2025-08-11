@@ -1338,7 +1338,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 4: Opret systembrugere",
-        "excerpt":"Du er sikkert ikke den eneste, der skal lave indhold til jeres nye hjemmeside. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden. Vi anbefaler meget, at I bruger individuelle logins med kun de nødvendige rettigheder tilknyttet. OBS! Når du opretter...","categories": ["Basis konfiguration"],
+        "excerpt":"Du er sikkert ikke den eneste, der skal lave indhold til jeres nye hjemmeside. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden. Det er ikke nødvendigt at oprette logins til alle dine kolleger. Kun dem der skal lægge indhold på...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/systembrugere/",
         "teaser": null
