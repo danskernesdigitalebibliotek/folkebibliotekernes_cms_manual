@@ -1343,8 +1343,8 @@ var store = [{
         "url": "/main/startopsaetning/struktur-indhold-intro/",
         "teaser": null
       },{
-        "title": "Opgave 10: Byg sidens faste struktur og menuer",
-        "excerpt":"1. Planlæg strukturen af hjemmesiden For at oprette strukturen på jeres hjemmesiden, kan I benytte det arbejde, som I lavede i forberedelsesopgave 4: Informationsarkitektur og navigation. Hvis I ikke har lavet det endnu, kan det bruges som inspiration til hvordan I vil bygge siden op. 2. Opret jeres sider Start...","categories": ["Basis konfiguration"],
+        "title": "Opgave 2: Byg sidens faste struktur og menuer",
+        "excerpt":"1. Planlæg strukturen af hjemmesiden For at oprette strukturen på jeres hjemmesiden, kan I benytte det arbejde, som I lavede i forberedelsesopgave 4: Informationsarkitektur og navigation. Hvis I ikke har lavet det endnu, kan det bruges som inspiration til hvordan I vil bygge siden op. 2. Opret jeres sider Start...","categories": ["Struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/struktur-og-menuer/",
         "teaser": null
