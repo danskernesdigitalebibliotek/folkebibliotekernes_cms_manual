@@ -6,6 +6,7 @@ nav: "overblik"
 ---
 ## 11/8 Azure melder servicevindue kl. 17-08 i dag
 Baseret på erfaringer fra tidligere servicevinduer vil det for os medføre en genstart af databasen, hvilket kan medføre ~30 minutters nedetid.
+Dette servicevindue har intet med det allerede varslede servicevindue, som Reload afholder efter kl. 21.
 ## 6/8 kl. 13.07 Alle sites er oppe igen
 Vi genstartede databasen og alle hjemmesider er nu oppe.
 ## 6/8 kl.12 Flere hjemmesider er nede
