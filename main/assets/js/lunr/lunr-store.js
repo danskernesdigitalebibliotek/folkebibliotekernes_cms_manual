@@ -1314,7 +1314,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 7: Fjernadgang - Proxy indstillinger",
-        "excerpt":"Søgefeltet på hjemmesiden kan vise resultater fra elektroniske ressourcer som biblioteket abonnerer på. Hvilke kilder der skal være søgbare, beslutter I selv via VIP søgeprofilen. Har man valgt at inkludere en kilde som XX er det vigtigt at registere proxy indstillinger for kilden. Gør I ikke det, vil links fra...","categories": ["Basis konfiguration"],
+        "excerpt":"Søgefeltet på hjemmesiden kan vise resultater fra elektroniske ressourcer som biblioteket abonnerer på. Hvilke kilder der skal være søgbare, beslutter I selv via VIP søgeprofilen. Har I valgt at inkludere en kilder som Gale eller Ebook Central er det vigtigt at registere proxy indstillinger for kilden. Gør I ikke det,...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/proxyindstillinger/",
         "teaser": null
