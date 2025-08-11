@@ -12,9 +12,23 @@ Eller åbn via URL (udskift mit-domænenavn.dk):\
 ## Hvorfor proxy URL'er?
 Søgefeltet på hjemmesiden kan vise resultater fra elektroniske ressourcer, som biblioteket abonnerer på. Hvilke kilder der skal være søgbare, beslutter I selv via VIP søgeprofilen.
 
-Har I valgt at inkludere kilder som *Gale* eller *Ebook Central* er det vigtigt at registere proxy indstillinger for kilden. Gør I ikke det, vil links fra søgeresultatet til kilden ikke fungere. I hvert fald ikke for borgere der sidder på deres egen internetforbindelse og ikke er på biblioteket.
+Har I valgt at inkludere kilder som *Gale* eller *Ebook Central* er det vigtigt at registere proxy indstillinger for kilden. Gør I ikke det, vil links fra søgeresultatet til kilden ikke fungere. I hvert fald ikke for borgere der sidder på deres egen internetforbindelse og ikke befinder sig på biblioteket.
 
-Hvis I indsætter link til elektroniske ressourcer på sider eller andre steder på hjemmesiden er det vigtigt at linket peger på proxy-URL'en. Ellers vil borgere der bruger hjemmesiden via deres egen internetforbindelse ikke have adgang.
+Hvis I indsætter links til elektroniske ressourcer på sider eller andre steder på hjemmesiden, er det vigtigt at I altid bruger proxy-versionen af URL'en. Ellers vil borgere, der bruger hjemmesiden via deres egen internetforbindelse ikke have adgang.
+
+Bemærk! Hver kommune har deres helt egne URL'er, så det duer ikke at kopiere links fra andre bibliotekers hjemmesider.
+
+## Hvor finder jeg proxy URL'er?
+I [ConsortiaManager](https://consortiamanager.com/) finder du proxy URL'er for alle de elektroniske ressourcer, som I køber herigennem
+
+1. Log ind i [ConsortiaManager](https://consortiamanager.com/)
+2. Klik på **Abonnementer** i hovedmenuen.
+3. Klik ind på den kilde som du vil finde proxy URL for
+4. Scroll ned af siden ind til du kommer til feltet **Links for this agreement**.
+5. Her finder du proxy URL'en. Det er altid den du skal bruge, når du linker til kilden.
+
+<img width="986" height="434" alt="image" src="https://github.com/user-attachments/assets/e4297120-6f39-4b5d-9593-93444506d314" />
+
 
 ## Forstå proxy URL'er
 
