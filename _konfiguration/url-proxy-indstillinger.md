@@ -10,11 +10,11 @@ Eller åbn via URL (udskift mit-domænenavn.dk):\
 `https://mit-domænenavn/admin/config/services/dpl-url-proxy`
 
 ## Hvorfor proxy URL'er?
-Søgefeltet på hjemmesiden kan vise resultater fra elektroniske ressourcer som biblioteket abonnerer på. Hvilke kilder der skal være søgbare, beslutter I selv via VIP søgeprofilen.
+Søgefeltet på hjemmesiden kan vise resultater fra elektroniske ressourcer, som biblioteket abonnerer på. Hvilke kilder der skal være søgbare, beslutter I selv via VIP søgeprofilen.
 
-Har I valgt at inkludere kilder som Gale eller Ebook Central er det vigtigt at registere proxy indstillinger for kilden. Gør I ikke det, vil links fra søgeresultatet til kilden ikke fungere. I hvert fald ikke for borgere der sidder på deres egen internetforbindelse og ikke er på biblioteket.
+Har I valgt at inkludere kilder som *Gale* eller *Ebook Central* er det vigtigt at registere proxy indstillinger for kilden. Gør I ikke det, vil links fra søgeresultatet til kilden ikke fungere. I hvert fald ikke for borgere der sidder på deres egen internetforbindelse og ikke er på biblioteket.
 
-Hvis I indsætter link til elektroniske ressourcer på sider eller andre steder på hjemmesiden er det vigtigt at linket peger på proxy-URL'en. Ellers vil borgere der bruger hjemmesiden via deres egen internetforbindelse ikke kunne få adgang.
+Hvis I indsætter link til elektroniske ressourcer på sider eller andre steder på hjemmesiden er det vigtigt at linket peger på proxy-URL'en. Ellers vil borgere der bruger hjemmesiden via deres egen internetforbindelse ikke have adgang.
 
 ## Forstå proxy URL'er
 
