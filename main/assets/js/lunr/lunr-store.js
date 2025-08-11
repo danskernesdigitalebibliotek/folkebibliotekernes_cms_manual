@@ -1284,7 +1284,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 3: Indstillinger for gebyrside",
-        "excerpt":"De fleste kommuner er i dag overgået til ØiR. Mange kommuner bruger desuden KMD Opus økonomisystemet, hvor borgernes udeståender samles i “Mit betalingsoverblik”. Du opsætter adgang til “Mit betalingsoverblik” “Mit betalingsoverblik” giver en samlet oversigt over de økonomiske mellemværender med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og...","categories": ["Basis konfiguration"],
+        "excerpt":"De fleste kommuner er i dag overgået til ØiR. Mange kommuner bruger desuden KMD Opus økonomisystemet, hvor borgernes udeståender samles i “Mit betalingsoverblik”. “Mit betalingsoverblik” giver en samlet oversigt over de økonomiske mellemværender med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og biblioteksgebyrer. Har I ikke “Mit betalingsoverblik”,...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/indstillinger-for-gebyrside/",
         "teaser": null
