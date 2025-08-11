@@ -7,7 +7,7 @@ weight: 3
 De fleste kommuner bruger "Mit betalingsoverblik", der giver borgeren en samlet status for hans/hendes økonomiske mellemværende med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og biblioteksgebyrer.
 
 Bruger jeres kommune "Mit betalingsoverblik" skal du kontakte den person der er ansvarlig for systemet i jeres kommune og sørge for at biblioteket bliver tilknyttet. 
-Du skal også have udleveret et link til den side, som borgerne skal logge ind på for at se deres betalinger.
+Du skal også have udleveret et link til den side, som borgerne skal logge ind på for at se deres mellemværende.
 
 URLen til "Mit betalingsoverblik" er den samme for alle instanser i jeres kommune. Biblioteket skal ikke have et særligt link. 
 
