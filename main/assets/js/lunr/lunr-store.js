@@ -1313,6 +1313,12 @@ var store = [{
         "url": "/main/startopsaetning/mapp/",
         "teaser": null
       },{
+        "title": "Opgave 6: Forbered nyt indhold, hvor det er påkrævet",
+        "excerpt":"Ikke alle komponenter og indholdstyper i det gamle CMS findes i det nye CMS. Nogle udvikles slet ikke og andre når ikke at blive klar inden indflytningsdatoen. Her er en oversigt over indhold, som I skal gentænke, hvis det skal overføres til Folkebibliotekernes CMS. Metode og fremgangsmåde Læs dette afsnit...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/main/startopsaetning/medarbejdere-eressourcer-fomularer/",
+        "teaser": null
+      },{
         "title": "Opgave 1: OpenID Connect (Adgangsplatformen)",
         "excerpt":"Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt. I denne opgave skal I indsætte OpenID Connect adgangsnøgler i Folkebibliotekernes CMS. Rekvirer nøgler...","categories": ["Basis konfiguration"],
         "tags": [],
