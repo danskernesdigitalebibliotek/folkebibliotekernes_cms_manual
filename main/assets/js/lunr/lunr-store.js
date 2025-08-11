@@ -1295,6 +1295,12 @@ var store = [{
         "url": "/main/startopsaetning/indstillinger-for-gebyrside/",
         "teaser": null
       },{
+        "title": "Informationsarkitektur og navigation",
+        "excerpt":"Det er designbureauet Dept, der har lavet grunddesign til Folkebibliotekernes CMS. Det bygger på et navigationsprincip, som hedder navigation hub konceptet. Idéen er at bygge en dyb navigationsstruktur med få menupunkter i hovedmenuen, så brugeren præsenteres for få simple valg. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Via navigationselementer på disse...","categories": ["Struktur og indhold"],
+        "tags": [],
+        "url": "/main/startopsaetning/informationsarkitektur/",
+        "teaser": null
+      },{
         "title": "Opgave 11: Ændr kontaktformularens konfiguration",
         "excerpt":"Jeres kontaktformular /kontakt skal ændres, så det information der sendes til brugerne er korrekt og de rigtigte personer modtager henvendelserne fra brugerne. Kontaktformularen 1. Opret de korrekte email kategorier I kontaktformularen kan brugerne vælge en kategori, som henvendelsen omhandler, og I kan tilknytte en email til de kategorier, så de...","categories": ["Basis konfiguration"],
         "tags": [],
