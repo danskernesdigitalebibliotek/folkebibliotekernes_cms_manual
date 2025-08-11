@@ -1284,7 +1284,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 3: Indstillinger for gebyrside",
-        "excerpt":"I skal selv overføre indstillinger for fra DDB CMS. Kopier betalingslink og betalingsknaptekst fra DDB CMS over i Folkebibliotekernes CMS. Biblioteker, der ikke har Mit betalingsoverblik, skal læse mere her Kopier oplysninger fra DDB CMS Log ind i DDB CMS med en bruger, der har “Lokal administrator” rollen. I topmenuen...","categories": ["Basis konfiguration"],
+        "excerpt":"De fleste kommuner bruger “Mit betalingsoverblik”, der giver borgeren en samlet status for hans/hendes økonomiske mellemværende med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og biblioteksgebyrer. Bruger jeres kommune “Mit betalingsoverblik” skal du kontakte den person der er ansvarlig for systemet i jeres kommune og sørge for at...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/indstillinger-for-gebyrside/",
         "teaser": null

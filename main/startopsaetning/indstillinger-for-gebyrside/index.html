@@ -11,7 +11,7 @@
     <meta charset="utf-8">
 
 <!-- begin _includes/seo.html --><title>Opgave 3: Indstillinger for gebyrside - Folkebibliotekernes CMS</title>
-<meta name="description" content="I skal selv overføre indstillinger for fra DDB CMS. Kopier betalingslink og betalingsknaptekst fra DDB CMS over i Folkebibliotekernes CMS.">
+<meta name="description" content="De fleste kommuner bruger “Mit betalingsoverblik”, der giver borgeren en samlet status for hans/hendes økonomiske mellemværende med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og biblioteksgebyrer.">
 
 
 
@@ -22,7 +22,7 @@
 <meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/startopsaetning/indstillinger-for-gebyrside/">
 
 
-  <meta property="og:description" content="I skal selv overføre indstillinger for fra DDB CMS. Kopier betalingslink og betalingsknaptekst fra DDB CMS over i Folkebibliotekernes CMS.">
+  <meta property="og:description" content="De fleste kommuner bruger “Mit betalingsoverblik”, der giver borgeren en samlet status for hans/hendes økonomiske mellemværende med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og biblioteksgebyrer.">
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2025-08-11T06:49:19+00:00">
+  <meta property="article:published_time" content="2025-08-11T07:17:47+00:00">
 
 
 
@@ -307,8 +307,8 @@
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Opgave 3: Indstillinger for gebyrside">
-    <meta itemprop="description" content="I skal selv overføre indstillinger for fra DDB CMS. Kopier betalingslink og betalingsknaptekst fra DDB CMS over i Folkebibliotekernes CMS.">
-    <meta itemprop="datePublished" content="2025-08-11T06:49:19+00:00">
+    <meta itemprop="description" content="De fleste kommuner bruger “Mit betalingsoverblik”, der giver borgeren en samlet status for hans/hendes økonomiske mellemværende med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og biblioteksgebyrer.">
+    <meta itemprop="datePublished" content="2025-08-11T07:17:47+00:00">
     
 
     <div class="page__inner-wrap">
@@ -325,8 +325,6 @@
           <p class="emneord">
   
   
-  <a href="/main/overblik/emneord/betaling/" class="btn btn--inverse btn--small">Betaling</a>
-  
 </p>
 
 
@@ -341,43 +339,14 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <p>I skal selv overføre indstillinger for fra DDB CMS. Kopier <strong>betalingslink</strong> og <strong>betalingsknaptekst</strong> fra DDB CMS over i Folkebibliotekernes CMS.</p>
+        <p>De fleste kommuner bruger “Mit betalingsoverblik”, der giver borgeren en samlet status for hans/hendes økonomiske mellemværende med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og biblioteksgebyrer.</p>
 
-<p class="notice--primary"><a href="https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/indstillinger-for-gebyrside/#for-biblioteker-der-ikke-har-mit-betalingsoverblik">Biblioteker, der ikke har Mit betalingsoverblik, skal læse mere her</a></p>
+<p>Bruger jeres kommune “Mit betalingsoverblik” skal du kontakte den person der er ansvarlig for systemet i jeres kommune og sørge for at biblioteket bliver tilknyttet. 
+Du skal også have udleveret et link til den side, som borgerne skal logge ind på for at se deres betalinger.</p>
 
-<h2 id="kopier-oplysninger-fra-ddb-cms">Kopier oplysninger fra DDB CMS</h2>
-<ol>
-  <li>Log ind i DDB CMS med en bruger, der har “Lokal administrator” rollen.</li>
-  <li>I topmenuen klik på <strong>Indstillinger &gt; Betaling &gt; Ding Payment</strong><br />
-Eller åbn via URL (udskift mit-ddbcms-domænenavn.dk):<br />
-  <code class="language-plaintext highlighter-rouge">https://mit-ddbcms-domænenavn.dk/admin/config/payment/ding</code></li>
-  <li>Under overskriften <strong>Payment Button</strong> ligger de oplysninger, der skal kopieres. Du skal bruge linket under <strong>Payment Button URL</strong> og knapteksten under <strong>Payment Button Text</strong>. Vær omhyggelig, når du kopierer, så det hele kommer med!
-    <figure class="seventy"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c99ae7a4-7027-4544-bda1-ebe471158cb5" alt="Siden Ding Payment i DDB CMS" /><figcaption>
-   Siden Ding Payment i DDB CMS
+<p>URLen til “Mit betalingsoverblik” er den samme for alle instanser i jeres kommune. Biblioteket skal ikke have et særligt link.</p>
 
- </figcaption></figure>
-  </li>
-</ol>
-
-<h2 id="indsæt-oplysninger-i-folkebibliotekernes-cms">Indsæt oplysninger i Folkebibliotekernes CMS</h2>
-<ol>
-  <li>Log ind på jeres nye hjemmeside med en bruger, der har rollen “Lokal administrator”.</li>
-  <li>Via topmenuen åbn <strong>Indstillinger &gt; Biblioteksindstillinger &gt; Indstillinger for gebyrside</strong>
-    <figure class="seventy"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/e230e220-e845-4899-9940-b11c6821a915" alt="Indstillinger for gebyrside" /><figcaption>
-   Indstillinger for gebyrside
-
- </figcaption></figure>
-  </li>
-  <li>Indsæt <strong>Payment Button URL</strong> i to felter på siden: <strong>Link til betalingsside</strong> og <strong>Link til blokeret bruger, som vises i modal</strong>.</li>
-  <li>
-    <p>Indsæt <strong>Payment Button Text</strong> i feltet <strong>Tekst på knap til betalingsside</strong>.</p>
-
-    <figure class="seventy"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ed9403ca-fe18-4fc1-ab4a-361c7b0b587c" alt="Indstillinger for gebyrside" /><figcaption>
-   Indstillinger for gebyrside
-
- </figcaption></figure>
-  </li>
-</ol>
+<p>Mangler du linket, kan du ofte finde det på din kommunens hjemmeside. Find et sted hvor der linkes til “Mit betalingsoverblik” og kopier linket.</p>
 
 <h2 id="sådan-ser-det-ud-for-brugerne">Sådan ser det ud for brugerne</h2>
 
@@ -449,7 +418,7 @@ Eller åbn via URL (udskift mit-ddbcms-domænenavn.dk):<br />
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-08-11T06:49:19+00:00">August 11, 2025</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-08-11T07:17:47+00:00">August 11, 2025</time></p>
 
       </footer>
 
