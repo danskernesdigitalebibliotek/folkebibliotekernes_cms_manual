@@ -1,7 +1,7 @@
 ---
 title: "Opgave 5: Forsiden og faste sider"
 weight: 5
-category: "Basis konfiguration"
+category: "Struktur og indhold"
 ---
 ## Opret en forside
 Folkebibliotekernes CMS fødes ikke med en forside. Den skal I selv opbygge. En hvilken som helst side kan fungere som forside.
