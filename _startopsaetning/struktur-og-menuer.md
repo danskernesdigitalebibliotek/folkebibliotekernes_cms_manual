@@ -1,6 +1,6 @@
 ---
-title: "Opgave 2: Byg sidens faste struktur og menuer"
-weight: 2
+title: "Opgave 3: Sider og menuer"
+weight: 10
 category: "Struktur og indhold"
 ---
 
