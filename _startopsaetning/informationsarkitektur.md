@@ -1,5 +1,5 @@
 ---
-title: "Informationsarkitektur og navigation"
+title: "Opgave 1: Informationsarkitektur og navigation"
 category: "Struktur og indhold"
 weight: 1
 ---
