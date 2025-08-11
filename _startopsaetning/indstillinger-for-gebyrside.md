@@ -11,7 +11,7 @@ Du skal også have udleveret et link til den side, som borgerne skal logge ind p
 
 URLen til "Mit betalingsoverblik" er den samme for alle enheder i jeres kommune. Biblioteket skal ikke have et særligt link. 
 
-Mangler du linket, kan du ofte finde det på din kommunens hjemmeside. Find et sted hvor der linkes til "Mit betalingsoverblik" og kopier linket. 
+Mangler du linket, kan du ofte finde det på kommunens hjemmeside. Find et sted hvor der linkes til "Mit betalingsoverblik" og kopier linket. 
 
 ## Sådan ser det ud for brugerne
 
