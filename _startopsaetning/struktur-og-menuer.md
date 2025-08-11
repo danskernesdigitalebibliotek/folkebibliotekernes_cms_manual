@@ -5,7 +5,6 @@ category: "Struktur og indhold"
 ---
 
 ## 1. Planlæg strukturen af hjemmesiden
-
 For at oprette strukturen på jeres hjemmesiden, kan I benytte det arbejde, som I lavede i [forberedelsesopgave 4: Informationsarkitektur og navigation]({{ site.baseurl }}{% link _bliv-klar-til-folkebibliotekernes-cms/4informationsarkiktektur.md %}). Hvis I ikke har lavet det endnu, kan det bruges som inspiration til hvordan I vil bygge siden op. 
 
 ## 2. Opret jeres sider
