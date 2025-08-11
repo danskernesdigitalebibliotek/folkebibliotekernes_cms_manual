@@ -2,31 +2,16 @@
 title: "Opgave 3: Indstillinger for gebyrside"
 category: "Basis konfiguration"
 weight: 3
-emneord:
-  - Betaling
+
 ---
-I skal selv overføre indstillinger for fra DDB CMS. Kopier **betalingslink** og **betalingsknaptekst** fra DDB CMS over i Folkebibliotekernes CMS.
+De fleste kommuner bruger "Mit betalingsoverblik", der giver borgeren en samlet status for hans/hendes økonomiske mellemværende med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og biblioteksgebyrer.
 
-[Biblioteker, der ikke har Mit betalingsoverblik, skal læse mere her](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/indstillinger-for-gebyrside/#for-biblioteker-der-ikke-har-mit-betalingsoverblik)
-{: .notice--primary}
+Bruger jeres kommune "Mit betalingsoverblik" skal du kontakte den person der er ansvarlig for systemet i jeres kommune og sørge for at biblioteket bliver tilknyttet. 
+Du skal også have udleveret et link til den side, som borgerne skal logge ind på for at se deres betalinger.
 
-## Kopier oplysninger fra DDB CMS
-1. Log ind i DDB CMS med en bruger, der har "Lokal administrator" rollen.
-2. I topmenuen klik på **Indstillinger > Betaling > Ding Payment**\
-   Eller åbn via URL (udskift mit-ddbcms-domænenavn.dk):\
-  `https://mit-ddbcms-domænenavn.dk/admin/config/payment/ding`
-3. Under overskriften **Payment Button** ligger de oplysninger, der skal kopieres. Du skal bruge linket under **Payment Button URL** og knapteksten under **Payment Button Text**. Vær omhyggelig, når du kopierer, så det hele kommer med!
-   {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c99ae7a4-7027-4544-bda1-ebe471158cb5" alt="Siden Ding Payment i DDB CMS" caption="Siden Ding Payment i DDB CMS" %}
+URLen til "Mit betalingsoverblik" er den samme for alle instanser i jeres kommune. Biblioteket skal ikke have et særligt link. 
 
-## Indsæt oplysninger i Folkebibliotekernes CMS
-1. Log ind på jeres nye hjemmeside med en bruger, der har rollen "Lokal administrator".
-2. Via topmenuen åbn **Indstillinger > Biblioteksindstillinger > Indstillinger for gebyrside**
-    {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/e230e220-e845-4899-9940-b11c6821a915" alt="Indstillinger for gebyrside" caption="Indstillinger for gebyrside" %}
-
-3. Indsæt **Payment Button URL** i to felter på siden: **Link til betalingsside** og **Link til blokeret bruger, som vises i modal**.
-4. Indsæt **Payment Button Text** i feltet **Tekst på knap til betalingsside**.
-
-   {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/ed9403ca-fe18-4fc1-ab4a-361c7b0b587c" alt="Indstillinger for gebyrside" caption="Indstillinger for gebyrside" %}
+Mangler du linket, kan du ofte finde det på din kommunens hjemmeside. Find et sted hvor der linkes til "Mit betalingsoverblik" og kopier linket. 
 
 ## Sådan ser det ud for brugerne
 
