@@ -1314,7 +1314,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 7: Fjernadgang - Proxy indstillinger",
-        "excerpt":"Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til. Det foregår på samme måde i DDB CMS, så du kan kopiere jeres indstillinger herfra. Kopier proxy indstillinger fra DDB CMS Log ind i DDB CMS med...","categories": ["Basis konfiguration"],
+        "excerpt":"Biblioteket kan vælge at medtage elektroniske ressourcer i søgning på hjemmesiden. Hvilke kilder der skal være søgbare beslutter I selv via VIP søgeprofilen. Har man valgt at inkludere en kilde som XX er det vigtigt at registere proxy indstillinger for kilden. Gør I ikke det, vil links fra søgeresultatet til...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/proxyindstillinger/",
         "teaser": null
