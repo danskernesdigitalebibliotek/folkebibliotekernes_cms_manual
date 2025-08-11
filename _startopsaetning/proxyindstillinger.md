@@ -4,7 +4,7 @@ category: "Basis konfiguration"
 weight: 7
 ---
 
-Biblioteket kan vælge at søgefeltet på hjemmesiden også skal vise resultater fra elektroniske ressourcer. Hvilke kilder der skal være søgbare, beslutter I selv via VIP søgeprofilen.
+Søgefeltet på hjemmesiden også skal vise resultater fra elektroniske ressourcer. Hvilke kilder der skal være søgbare, beslutter I selv via VIP søgeprofilen.
 Har man valgt at inkludere en kilde som XX er det vigtigt at registere proxy indstillinger for kilden. Gør I ikke det, vil links fra søgeresultatet til kilden ikke fungere. 
 
 
