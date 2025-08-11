@@ -2,15 +2,13 @@
 title: "Indstillinger for gebyrside"
 click-path: "Indstillinger > Biblioteksindstillinger > Indstillinger for gebyrside"
 category: "Konfiguration"
-emneord: 
-- "Betaling"
 ---
 I topmenuen klik på **{{ page.click-path }}**
 
 Eller åbn via URL (udskift mit-domænenavn.dk):\
 `https://mit-domænenavn.dk/admin/config/dpl-library-agency/fees`
 
-Skal du i gang med gebyr-konfiguration? [Gå til klik-opgaven Indstillinger for gebyrside](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/indstillinger-for-gebyrside/).
+Skal du i gang med gebyr-konfiguration? [Baggrundsinformation vedr. Indstillinger for gebyrside](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/indstillinger-for-gebyrside/).
 {: .notice--primary}
 
 ## URL
