@@ -1,7 +1,7 @@
 ---
 title: "Opgave 1: Informationsarkitektur og navigation"
 category: "Struktur og indhold"
-weight: 1
+weight: 2
 ---
 Det er designbureauet **Dept**, der har lavet grunddesign til Folkebibliotekernes CMS. Det bygger på et navigationsprincip, som hedder **navigation hub konceptet**. 
 
