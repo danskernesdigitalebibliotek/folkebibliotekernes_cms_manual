@@ -197,6 +197,12 @@ var store = [{
         "url": "/main/category/staging-site/",
         "teaser": null
       },{
+        "title": "Struktur og indhold",
+        "excerpt":"Struktur og indhold  ","categories": [],
+        "tags": [],
+        "url": "/main/category/struktur-og-indhold/",
+        "teaser": null
+      },{
         "title": "Indstillinger > System",
         "excerpt":"System er en overskrift i konfiguration  ","categories": [],
         "tags": [],
