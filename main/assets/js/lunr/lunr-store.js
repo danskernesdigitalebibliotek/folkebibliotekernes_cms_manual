@@ -1272,7 +1272,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 5: Forsiden og faste sider",
-        "excerpt":"Opret en forside Folkebibliotekernes CMS fødes ikke med en forside. Den skal I selv opbygge. En hvilken som helst side kan fungere som forside. Vi anbefaler, at I opretter en side med navnet Forside. I behøver ikke gøre den færdig rent indholdsmæssigt. For nu er det ok, at den er...","categories": ["Basis konfiguration"],
+        "excerpt":"Opret en forside Folkebibliotekernes CMS fødes ikke med en forside. Den skal I selv opbygge. En hvilken som helst side kan fungere som forside. Vi anbefaler, at I opretter en side med navnet Forside. I behøver ikke gøre den færdig rent indholdsmæssigt. For nu er det ok, at den er...","categories": ["Struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/faste-sider-og-forside/",
         "teaser": null
