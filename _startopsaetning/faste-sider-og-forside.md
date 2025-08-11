@@ -9,7 +9,7 @@ Folkebibliotekernes CMS fødes med nogle **faste sider** eller **standardsider**
 
 Rundt omkring på jeres website, er der links til de faste sider. Hvis de faste sider mangler, risikerer I, at jeres brugere møder døde links og/eller at sitet fejler. Derfor skal I ikke slette dem.
 
-Tanken er, at I skal bruge de medfølgende standardsider, men at I tilretter teksterne efter lokale forhold samt evt. tone.
+I må gerne tilrette de medfølgende standardsider efter lokale forhold samt evt. tone.
 
 1. [Læs om de faste sider.](https://www.folkebibliotekernescms.dk/main/indhold/faste-sider/) Der er uddybende information om hver af dem.
 2. Log ind på jeres site og fremsøg hver af de faste sider under "Indhold"
