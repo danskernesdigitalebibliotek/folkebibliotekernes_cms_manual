@@ -1,7 +1,7 @@
 ---
-title: "Opgave 10: Byg sidens faste struktur og menuer"
-weight: 10
-category: "Basis konfiguration"
+title: "Opgave 2: Byg sidens faste struktur og menuer"
+weight: 2
+category: "Struktur og indhold"
 ---
 
 ## 1. Planlæg strukturen af hjemmesiden
