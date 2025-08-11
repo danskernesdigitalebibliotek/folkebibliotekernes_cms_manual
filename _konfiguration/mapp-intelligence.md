@@ -16,10 +16,13 @@ Webstatistik indgår også som en del af den hjemmesidepakke, Det Digitale Folke
 Alle spørgsmål om Mapp sendes til [cms-info@fddf.dk(mailto:cms-info@fddf.dk). Også hvis I har forlist jeres password til Mapp.
 {: .notice--info}
 
-For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt – ”Domæne” og ”Tag
-Integration ID”.
+For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt – **Domæne** og **Tag Integration ID**.
 
 ## Anbefalede indstillinger for Mapp
+
+Mapp indstillingerne er ens for alle kommuner.
+
+Alle skal indsætte nøglen **476651662471322** i feltet **Tag Integration ID**.
 
 |Feltnavn|Værdi|
 |---|---|
