@@ -15,7 +15,6 @@ Webstatistik indgår også som en del af den hjemmesidepakke, Det Digitale Folke
 
 Alle spørgsmål om Mapp sendes til [cms-info@fddf.dk(mailto:cms-info@fddf.dk). Også hvis I har forlist jeres password til Mapp.
 {: .notice--info}
-[Læs mere om Mapp](https://detdigitalefolkebibliotek.dk/section/i-brug-paa-biblioteket/bibliotekernes-web-og-appstatistik){:target="_blank"}. Og besøg også vores [”Kom-godt-i-gang-med-Mapp-side”](https://detdigitalefolkebibliotek.dk/node/103){:target="_blank"}
 
 For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt – ”Domæne” og ”Tag
 Integration ID”.
