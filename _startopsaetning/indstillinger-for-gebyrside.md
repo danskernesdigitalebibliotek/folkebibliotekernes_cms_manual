@@ -6,8 +6,6 @@ weight: 3
 ---
 De fleste kommuner er i dag overgået til [ØiR](https://digitaliseringskataloget.dk/l%C3%B8sninger/oekonomi-i-rammearkitekturen){:target="_blank"}. Mange kommuner bruger desuden KMD Opus økonomisystemet, hvor borgernes udeståender samles i "Mit betalingsoverblik". 
 
-Du opsætter adgang til "Mit betalingsoverblik" 
-
 "Mit betalingsoverblik" giver en samlet oversigt over de økonomiske mellemværender med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og biblioteksgebyrer.
 
 [Har I ikke "Mit betalingsoverblik", så læs mere her](https://www.folkebibliotekernescms.dk/main/startopsaetning/indstillinger-for-gebyrside/#for-biblioteker-der-ikke-har-mit-betalingsoverblik).
@@ -19,6 +17,13 @@ Du skal også have udleveret et link til den side, som borgerne skal logge ind p
 URLen til "Mit betalingsoverblik" er den samme for alle enheder i jeres kommune. Biblioteket skal ikke have et særligt link. 
 
 Mangler du linket, kan du ofte finde det på kommunens hjemmeside. Find et sted hvor der linkes til "Mit betalingsoverblik" og kopier linket. 
+
+## Udfyld Indstillinger for gebyrside
+**Her indstiller du link til Mit betalingsoverblik, labels på betalingsknap og andre indstillinger der handler om gebyrer og betaling**
+
+- Log ind som lokaladmin på jeres nye hjemmeside
+- Åbn siden med **Indstillinger for gebyrside**. Den ligger her: Indstillinger > Biblioteksindstillinger > Indstillinger for gebyrside
+- Gennemgå og udfyld alle felter. Du kan finde hjælp til alle felter på [manualsiden om de Indstillinger for gebyrside](https://www.folkebibliotekernescms.dk/main/konfiguration/gebyrindstillinger/).
 
 ## Sådan ser det ud for brugerne
 
