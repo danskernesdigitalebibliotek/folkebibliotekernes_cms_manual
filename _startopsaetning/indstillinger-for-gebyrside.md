@@ -11,7 +11,7 @@ De fleste kommuner er i dag overgået til [ØiR](https://digitaliseringskataloge
 [Har I ikke "Mit betalingsoverblik", så læs mere her](https://www.folkebibliotekernescms.dk/main/startopsaetning/indstillinger-for-gebyrside/#for-biblioteker-der-ikke-har-mit-betalingsoverblik).
 
 Skal biblioteket i gang med ØiR og "Mit betalingsoverblik" skal du kontakte den person, der er ansvarlig for systemet i jeres kommune og sørge for at biblioteket bliver tilknyttet. 
-Du skal også have udleveret et link til den side, som borgerne skal logge ind på, for at se deres mellemværende.
+Du skal også have udleveret et link til den side, som borgerne skal logge ind på, for at betale deres mellemværende.
 
 URLen til "Mit betalingsoverblik" er den samme for alle enheder i jeres kommune. Biblioteket skal ikke have et særligt link. 
 
