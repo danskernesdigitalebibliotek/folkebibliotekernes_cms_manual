@@ -1265,8 +1265,8 @@ var store = [{
         "url": "/main/startopsaetning/basiskonfiguration-intro/",
         "teaser": null
       },{
-        "title": "Opgave 5: Faste sider og forsiden",
-        "excerpt":"Gennemgå de faste sider Folkebibliotekernes CMS fødes med nogle faste sider eller standardsider. De faste sider kan redigeres, præcis som sider I selv har oprettet. De er der bare fra starten af, når I får systemet. Rundt omkring på jeres website, er der links til de faste sider. Hvis de...","categories": ["Basis konfiguration"],
+        "title": "Opgave 5: Forsiden og faste sider",
+        "excerpt":"Opret en forside Folkebibliotekernes CMS fødes ikke med en forside. Den skal I selv opbygge. En hvilken som helst side kan fungere som forside. Vi anbefaler, at I opretter en side med navnet Forside. I behøver ikke gøre den færdig rent indholdsmæssigt. For nu er det ok, at den er...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/faste-sider-og-forside/",
         "teaser": null
