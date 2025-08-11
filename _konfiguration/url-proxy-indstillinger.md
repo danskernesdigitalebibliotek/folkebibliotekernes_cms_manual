@@ -55,8 +55,7 @@ Idet man kontakter proxyen bliver det checket om man kommer fra en af biblioteke
 
 Proxyen omskriver automatisk alle links på udbyderens website, så de peger tilbage på proxy'en i stedet for direkte på e-ressourcen. Det giver nogle lidt spøjse links som `https://www-pressreader-com.bib123.bibbaser.dk/catalog`. Lad endelig være med at bruge disse links direkte på jeres egen hjemmeside - brug altid proxy-prefix klistret foran den "oprindelige" url.
 
-**TIP**:  Links på e-materiale siderne omskrives ikke automatisk. I skal huske at bruge URL'er med "proxy prefix", når I linker til eressourcer rundt omkring på sitet - ikke mindst e-materiale-siderne.
-{: .notice--info}
+Er du i tvivl om hostname/værtsnavn kan du finde oplysningerne på DBCs oversigt [Kilder i databrønden](https://danbib.dk/kilder-databroenden){:target="_blank"}
 
 Den nationale proxyløsning er bygget på ezproxy. Den drives af DBC for DDF.
 
