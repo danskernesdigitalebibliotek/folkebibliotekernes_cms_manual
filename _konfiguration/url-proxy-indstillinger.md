@@ -2,9 +2,6 @@
 title: "Opsæt proxy URL'er"
 click-path: "Indstillinger > Biblioteksindstillinger > Proxyindstillinger"
 category: "Konfiguration"
-emneord: 
-- "Fjernadgang"
-- "Elektroniske ressourcer"
 ---
 
 Hvis du er i gang med at opsætte Folkebibliotekernes CMS for første gang, så følg startopgave 7: [Fjernadgang - Proxyindstillinger]({{ site.baseurl }}{% link _startopsaetning/proxyindstillinger.md %})
@@ -15,7 +12,14 @@ I topmenuen klik på **{{ page.click-path }}**
 Eller åbn via URL (udskift mit-domænenavn.dk):\
 `https://mit-domænenavn/admin/config/services/dpl-url-proxy`
 
-## Om proxy URL'er
+## Hvorfor proxy URL'er?
+Søgefeltet på hjemmesiden kan vise resultater fra elektroniske ressourcer som biblioteket abonnerer på. Hvilke kilder der skal være søgbare, beslutter I selv via VIP søgeprofilen.
+
+Har I valgt at inkludere kilder som Gale eller Ebook Central er det vigtigt at registere proxy indstillinger for kilden. Gør I ikke det, vil links fra søgeresultatet til kilden ikke fungere. I hvert fald ikke for borgere der sidder på deres egen internetforbindelse og ikke er på biblioteket.
+
+Hvis I indsætter link til elektroniske ressourcer på sider eller andre steder på hjemmesiden er det vigtigt at linket peger på proxy-URL'en. Ellers vil borgere der bruger hjemmesiden via deres egen internetforbindelse ikke kunne få adgang.
+
+## Forstå proxy URL'er
 
 Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske ressourcer - databaser, e-tidsskrifter osv. - som bibliotekerne har købt adgang til.
 
