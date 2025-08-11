@@ -846,7 +846,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opsæt proxy URL'er",
-        "excerpt":"Hvis du er i gang med at opsætte Folkebibliotekernes CMS for første gang, så følg startopgave 7: Fjernadgang - Proxyindstillinger I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Proxyindstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn/admin/config/services/dpl-url-proxy Om proxy URL’er Formålet med fjernadgang er at give biblioteksbrugerne adgang hjemmefra til elektroniske...","categories": ["Konfiguration"],
+        "excerpt":"Hvis du er i gang med at opsætte Folkebibliotekernes CMS for første gang, så følg startopgave 7: Fjernadgang - Proxyindstillinger I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Proxyindstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn/admin/config/services/dpl-url-proxy Hvorfor proxy URL’er? Søgefeltet på hjemmesiden kan vise resultater fra elektroniske ressourcer som biblioteket...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/main/konfiguration/url-proxy-indstillinger/",
         "teaser": null
