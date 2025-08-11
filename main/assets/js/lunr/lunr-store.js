@@ -1295,7 +1295,7 @@ var store = [{
         "url": "/main/startopsaetning/indstillinger-for-gebyrside/",
         "teaser": null
       },{
-        "title": "Informationsarkitektur og navigation",
+        "title": "Opgave 1: Informationsarkitektur og navigation",
         "excerpt":"Det er designbureauet Dept, der har lavet grunddesign til Folkebibliotekernes CMS. Det bygger på et navigationsprincip, som hedder navigation hub konceptet. Idéen er at bygge en dyb navigationsstruktur med få menupunkter i hovedmenuen, så brugeren præsenteres for få simple valg. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Via navigationselementer på disse...","categories": ["Struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/informationsarkitektur/",
