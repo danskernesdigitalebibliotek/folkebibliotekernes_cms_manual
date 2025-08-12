@@ -875,12 +875,6 @@ var store = [{
         "url": "/main/nye-features/intelligente-facetter/",
         "teaser": null
       },{
-        "title": "Låneoversigten",
-        "excerpt":"Samlet overblik over alle lån I Folkebibliotekernes CMS vises Overskredne lån, Lån og Digitale lån under menupunktet Lån. Derved samles alle lån på én side der giver et samlet overblik. Ny visningsmulighed - Lån grupperet efter afleveringsdato Oversigten over alle lån har to visningsmuligheder. Man kan få materialerne vist ét...","categories": ["Lånerstatus og brugerprofil"],
-        "tags": [],
-        "url": "/main/nye-features/laan/",
-        "teaser": null
-      },{
         "title": "Overbygningsmaterialer",
         "excerpt":"Som noget nyt er det muligt for brugere af Folkebibliotekernes CMS at oprette fjernlån fra Centralbibliotekerne direkte på hjemmesiden, i stedet for at skulle igennem bibliotek.dk. Det er kun overbygningsmaterialerne, der kan bestilles, og kun når I ikke selv har dem i beholdning. For at stille denne funktionalitet til rådighed...","categories": ["Søgning"],
         "tags": [],
