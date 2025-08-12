@@ -1,0 +1,559 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.27.3 by Michael Rose
+  Copyright 2013-2025 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Udvidet backendmenu - Folkebibliotekernes CMS</title>
+<meta name="description" content="Webmasterbiblioteker har mulighed for at oprette brugere med administratorrettigheder. Når en bruger med administratorrettigheder logger ind i backend vises der nogle ekstra punkter i hovedmenuen.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Folkebibliotekernes CMS">
+<meta property="og:title" content="Udvidet backendmenu">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/preview/backup-060825/webmasterplanen/udvidet-backend-menu/">
+
+
+  <meta property="og:description" content="Webmasterbiblioteker har mulighed for at oprette brugere med administratorrettigheder. Når en bruger med administratorrettigheder logger ind i backend vises der nogle ekstra punkter i hovedmenuen.">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2025-08-12T12:44:33+00:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/preview/backup-060825/webmasterplanen/udvidet-backend-menu/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/preview/backup-060825/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/preview/backup-060825/assets/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/preview/backup-060825/assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/preview/backup-060825/assets/images/favicon-16x16.png">
+<link rel="manifest" href="/preview/backup-060825/assets/images/site.webmanifest">
+<link rel="mask-icon" color="#5bbad5" href="/preview/backup-060825/assets/images/safari-pinned-tab.svg">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+  </head>
+
+  <body class="layout--single wide" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/preview/backup-060825/"><img src="/preview/backup-060825/assets/images/layout/ddf-logo-small.png" alt="Folkebibliotekernes CMS"></a>
+        
+        <a class="site-title" href="/preview/backup-060825/">
+          Folkebibliotekernes CMS
+          <span class="site-subtitle">via foreningen Det Digitale Folkebibliotek</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/preview/backup-060825/overblik/nyt-i-manualen"
+                
+                
+              >Nyt i manualen</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/preview/backup-060825/overblik/hurtigguide-til-manualen"
+                
+                
+              >Hurtigguide til manualen</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/preview/backup-060825/overblik/emneord"
+                
+                
+              >Emner</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+  
+    
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/preview/backup-060825/" itemprop="item"><span itemprop="name">Home</span></a>
+
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep">/</span>
+      
+      
+        
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/preview/backup-060825/webmasterplanen" itemprop="item"><span itemprop="name">Webmasterplanen</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        <span class="sep">/</span>
+      
+    
+      
+      
+        <li class="current">Udvidet backendmenu</li>
+      
+    
+  </ol>
+</nav>
+
+  
+
+
+<div id="main" role="main">
+  
+  
+  <div class="sidebar sticky">
+  
+
+  
+
+  
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+   
+
+  <nav class="nav__list">
+    <input id="ac-toc" name="accordion-toc" type="checkbox" />
+    <label for="ac-toc">Toggle Menu</label>
+    <ul class="nav__items">
+
+      
+        
+        <li>
+          <span class="nav__sub-title">Webmaster-funktionalitet</span>        
+          <ul>
+            
+            
+            
+            
+
+            
+              
+                <li><a href="/preview/backup-060825/webmasterplanen/udvidet-backend-menu/" class="active">Udvidet backendmenu</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/webmasterplanen/asset-injector/">Asset Injector og Add to Head</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/webmasterplanen/installation-af-moduler/">Installation og opdatering af moduler</a></li>
+              
+            
+          </ul>
+        </li>
+        
+      
+        
+        <li>
+          <span class="nav__sub-title">Driftsforhold</span>        
+          <ul>
+            
+            
+            
+            
+
+            
+              
+                <li><a href="/preview/backup-060825/webmasterplanen/produktions-og-testmiljoe/">Produktions- og testmiljø</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/webmasterplanen/opdateringscyklus-for-sites/">Opdateringscyklus for sites</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/webmasterplanen/mislykket-opdatering/">Opdatering der mislykkes</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/webmasterplanen/udsaettelse-af-opdatering/">Udsættelse af opdatering af produktionsmiljø</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/webmasterplanen/ofte-stillede-spoergsmaal/">Ofte stillede spørgsmål</a></li>
+              
+            
+          </ul>
+        </li>
+        
+      
+        
+        <li>
+          <span class="nav__sub-title">Webmaster showroom</span>        
+          <ul>
+            
+            
+            
+            
+
+            
+              
+                <li><a href="/preview/backup-060825/webmasterplanen/odense/">Odense</a></li>
+              
+            
+          </ul>
+        </li>
+        
+           
+    </ul>
+  </nav>
+  
+
+  </div>
+
+
+  
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Udvidet backendmenu">
+    <meta itemprop="description" content="Webmasterbiblioteker har mulighed for at oprette brugere med administratorrettigheder.Når en bruger med administratorrettigheder logger ind i backend vises der nogle ekstra punkter i hovedmenuen.">
+    <meta itemprop="datePublished" content="2025-08-12T12:44:33+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://www.folkebibliotekernescms.dk/preview/backup-060825/webmasterplanen/udvidet-backend-menu/" class="u-url" itemprop="url">Udvidet backendmenu
+</a>
+          </h1>
+          
+
+
+          <p class="emneord">
+  
+  
+</p>
+
+
+
+
+
+
+
+
+        </header>
+      
+      
+      <section class="page__content e-content" itemprop="text">
+        
+        <p>Webmasterbiblioteker har mulighed for at oprette brugere med administratorrettigheder.
+Når en bruger med administratorrettigheder logger ind i backend vises der nogle ekstra punkter i hovedmenuen.</p>
+
+<p><img src="https://github.com/user-attachments/assets/7529d47f-1f65-4b74-801b-2cd6998b74d1" alt="Webmaster" /></p>
+
+<p>Webmasterbiblioteker har disse ekstra menupunkteter:</p>
+<ul>
+  <li><strong>Udvid</strong> giver adgang til at installere moduler</li>
+  <li><strong>Udseende</strong> giver adgang til at skifte tema</li>
+  <li><strong>Rapporter</strong> giver adgang til statusrapport med fejlbeskeder fra systemet</li>
+  <li><strong>Indstillinger</strong> har mange flere underpunkter end hvad en Redaktør-brugere ser</li>
+</ul>
+
+<h2 id="risiko-ved-at-ændre-i-indstillinger">Risiko ved at ændre i indstillinger</h2>
+<p>Særligt i forhold til at rette i indstillinger skal webmasterbiblioteker være varsomme.</p>
+
+<p>Laver du en lokal ændring i indstillinger på jeres hjemmeside bliver den bevaret og ikke overskrevet. Det er jo umiddelbart godt, men det kan have langsigtede uhensigtsmæssige konsekvenser.
+Læs herunder hvordan teknikken fungerer.</p>
+
+<h2 id="config-ignore-auto">Config Ignore Auto</h2>
+<p>Drupal-modulet <strong>Config Ignore Auto</strong> er som standard aktiveret i Folkebibliotekernes CMS og kan ikke deaktiveres. Det er et nødvendigt modul, som alle webmastere bør kende til. Hvis <strong>Config Ignore Auto</strong> ikke var installeret, ville webmasterbibliotekerne miste deres lokale konfigurationer hver uge, når deres sites opdateres.</p>
+
+<h3 id="hvad-er-det">Hvad er det?</h3>
+
+<p><strong>Config Ignore Auto</strong> er et Drupal-modul, der opdager, registrerer og bevarer alle ændringer, som du foretager gennem administrationsgrænsefladen i backend. Det kan være en oversættelse du ændrer, eller et flueben, som du sætter på en indstillingsside.</p>
+
+<h3 id="sådan-virker-det">Sådan virker det</h3>
+
+<ul>
+  <li>
+    <p><strong>Automatisk sporing</strong><br />
+Når modulet er aktiveret, overvåger det ændringer foretaget gennem administrationsgrænsefladen og tilføjer dem til listen over ignorerede konfigurationer.</p>
+  </li>
+  <li>
+    <p><strong>Lokale ændringer bevares</strong><br />
+De indstillinger, som Config Ignore Auto tilføjer til sin liste, overskrives ikke når core opdateres. Dvs. de bevarer den værdi, som du har sat. Også selvom standardværdien ændrer sig.</p>
+  </li>
+</ul>
+
+<h3 id="hvilke-ricici-er-der">Hvilke ricici er der?</h3>
+<ul>
+  <li>
+    <p><strong>Ny funktionalitet mangler</strong>: Du risikerer at ny funktionalitet i core ikke bliver synlig på jeres site, fordi en indstilling, som du har sat, forhindrer det. Der kommer ikke nødvendigvis en fejl ud af det, så du opdager det måske slet ikke.</p>
+  </li>
+  <li>
+    <p><strong>Jeres site kan ikke opdateres</strong>: Hvis jeres site pga. lokal konfiguration er anderledes end forventet af koden i core, kan der opstå en fejl, så jeres site slet ikke kan opdateres.</p>
+  </li>
+</ul>
+
+<h3 id="hvad-skal-jeg-være-opmærksom-på">Hvad skal jeg være opmærksom på</h3>
+<p>Det er let og hurtigt at ændre en indstilling via administrationsgrænsefladen, men man skal ikke tage let på det, for det kan have vidtrækkende konsekvenser.</p>
+
+<ul>
+  <li>Før logbog over alle ændringer, som du foretager i indstillinger via administrationsgrænsefladen, så du hele tiden har et komplet overblik.</li>
+  <li>Overvej nøje om du ændrer en essentiel værdi, som andre dele af sitet afhænger af. Man kan ikke altid vide det, men prøv alligevel.</li>
+</ul>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-08-12T12:44:33+00:00">August 12, 2025</time></p>
+
+      </footer>
+
+      
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+      
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><div class="search-searchbar"></div>
+  <div class="search-hits"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+  </ul>
+</div>
+<div class="page__footer-copyright">
+  Folkebibliotekernes CMS udvikles af <a href="https://detdigitalefolkebibliotek.dk/">Det Digitale Folkebibliotek</a><br/>
+</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/preview/backup-060825/assets/js/main.min.js"></script>
+
+
+<script>
+// Including InstantSearch.js library and styling
+const loadSearch = function() {
+  const loadCSS = function(src) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = src;
+    link.media = 'all';
+    document.head.appendChild(link);
+  };
+
+  var script = document.createElement('script');
+  script.setAttribute("type", "text/javascript");
+  script.setAttribute("src", "https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.js");
+  script.addEventListener("load", function() {
+    // Instantiating InstantSearch.js with Algolia credentials
+    const search = instantsearch({
+      appId: 'TVP7W0OS24',
+      apiKey: 'e8c5920789ad3f6d57903b6edc107af5',
+      indexName: 'prod_folkebibliotekernes_cms_manual',
+      searchParameters: {
+        restrictSearchableAttributes: ['title', 'content']
+      }
+    });
+
+    const hitTemplate = function(hit) {
+      const url = hit.url;
+      const hightlight = hit._highlightResult;
+      const title = hightlight.title && hightlight.title.value  || "";
+      const content = hightlight.html && hightlight.html.value  || "";
+
+      return `
+        <div class="list__item">
+          <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+            <h2 class="archive__item-title" itemprop="headline"><a href="/preview/backup-060825${url}">${title}</a></h2>
+            <div class="archive__item-excerpt" itemprop="description">${content}</div>
+          </article>
+        </div>
+      `;
+    }
+
+    // Adding searchbar and results widgets
+    search.addWidget(
+      instantsearch.widgets.searchBox({
+        container: '.search-searchbar',
+        poweredBy: true,
+        placeholder: 'Enter your search term...'
+      })
+    );
+    search.addWidget(
+      instantsearch.widgets.hits({
+        container: '.search-hits',
+        templates: {
+          item: hitTemplate,
+          empty: 'No results',
+        }
+      })
+    );
+
+    if (!search.started) {
+      search.start();
+    }
+  });
+  document.body.appendChild(script);
+
+  loadCSS("https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.css");
+  loadCSS("https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch-theme-algolia.min.css");
+};
+
+// Starting the search only when toggle is clicked
+$(document).ready(function() {
+  var scriptLoaded = false;
+
+  $(".search__toggle").on("click", function() {
+    if (!scriptLoaded) {
+      loadSearch();
+      scriptLoaded = true;
+    }
+  });
+});
+</script>
+
+
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YW8N0HH0F5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YW8N0HH0F5', { 'anonymize_ip': false});
+</script>
+
+
+
+
+
+
+
+
+  </body>
+</html>

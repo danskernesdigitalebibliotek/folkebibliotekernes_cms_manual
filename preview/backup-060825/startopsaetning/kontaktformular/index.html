@@ -1,0 +1,618 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.27.3 by Michael Rose
+  Copyright 2013-2025 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Opgave 11: Ændr kontaktformularens konfiguration - Folkebibliotekernes CMS</title>
+<meta name="description" content="Jeres kontaktformular /kontakt skal ændres, så det information der sendes til brugerne er korrekt og de rigtigte personer modtager henvendelserne fra brugerne.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Folkebibliotekernes CMS">
+<meta property="og:title" content="Opgave 11: Ændr kontaktformularens konfiguration">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/preview/backup-060825/startopsaetning/kontaktformular/">
+
+
+  <meta property="og:description" content="Jeres kontaktformular /kontakt skal ændres, så det information der sendes til brugerne er korrekt og de rigtigte personer modtager henvendelserne fra brugerne.">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2025-08-12T12:44:33+00:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/preview/backup-060825/startopsaetning/kontaktformular/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/preview/backup-060825/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/preview/backup-060825/assets/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/preview/backup-060825/assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/preview/backup-060825/assets/images/favicon-16x16.png">
+<link rel="manifest" href="/preview/backup-060825/assets/images/site.webmanifest">
+<link rel="mask-icon" color="#5bbad5" href="/preview/backup-060825/assets/images/safari-pinned-tab.svg">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+  </head>
+
+  <body class="layout--single wide" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/preview/backup-060825/"><img src="/preview/backup-060825/assets/images/layout/ddf-logo-small.png" alt="Folkebibliotekernes CMS"></a>
+        
+        <a class="site-title" href="/preview/backup-060825/">
+          Folkebibliotekernes CMS
+          <span class="site-subtitle">via foreningen Det Digitale Folkebibliotek</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/preview/backup-060825/overblik/nyt-i-manualen"
+                
+                
+              >Nyt i manualen</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/preview/backup-060825/overblik/hurtigguide-til-manualen"
+                
+                
+              >Hurtigguide til manualen</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/preview/backup-060825/overblik/emneord"
+                
+                
+              >Emner</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+  
+    
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/preview/backup-060825/" itemprop="item"><span itemprop="name">Home</span></a>
+
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep">/</span>
+      
+      
+        
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/preview/backup-060825/startopsaetning" itemprop="item"><span itemprop="name">Startopsaetning</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        <span class="sep">/</span>
+      
+    
+      
+      
+        <li class="current">Opgave 11: Ændr kontaktformularens konfiguration</li>
+      
+    
+  </ol>
+</nav>
+
+  
+
+
+<div id="main" role="main">
+  
+  
+  <div class="sidebar sticky">
+  
+
+  
+
+  
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+   
+
+  <nav class="nav__list">
+    <input id="ac-toc" name="accordion-toc" type="checkbox" />
+    <label for="ac-toc">Toggle Menu</label>
+    <ul class="nav__items">
+
+      
+        
+        <li>
+          <span class="nav__sub-title">Startopsætning</span>        
+          <ul>
+            
+            
+            
+            
+
+            
+              
+                <li><a href="/preview/backup-060825/startopsaetning/openid-connect/">Opgave 1: OpenID Connect (Adgangsplatformen)</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/startopsaetning/generelle-indstillinger/">Opgave 2: Generelle indstillinger</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/startopsaetning/indstillinger-for-gebyrside/">Opgave 3: Indstillinger for gebyrside</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/startopsaetning/systembrugere/">Opgave 4: Opret systembrugere</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/startopsaetning/faste-sider-og-forside/">Opgave 5: Faste sider og forsiden</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/startopsaetning/mapp/">Opgave 6: Mapp Intelligence</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/startopsaetning/proxyindstillinger/">Opgave 7: Fjernadgang - Proxy indstillinger</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/startopsaetning/udseende/">Opgave 8: Logo, identitetsfarve og favicon</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/startopsaetning/redirect-adgangsplatformen/">Opgave 9: Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/startopsaetning/struktur-og-menuer/">Opgave 10: Byg sidens faste struktur og menuer</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/startopsaetning/kontaktformular/" class="active">Opgave 11: Ændr kontaktformularens konfiguration</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/startopsaetning/redirects-google/">Opgave 12: Redirects fra søgeresultater på Google</a></li>
+              
+            
+          </ul>
+        </li>
+        
+           
+    </ul>
+  </nav>
+  
+
+  </div>
+
+
+  
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Opgave 11: Ændr kontaktformularens konfiguration">
+    <meta itemprop="description" content="Jeres kontaktformular /kontakt skal ændres, så det information der sendes til brugerne er korrekt og de rigtigte personer modtager henvendelserne fra brugerne.">
+    <meta itemprop="datePublished" content="2025-08-12T12:44:33+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://www.folkebibliotekernescms.dk/preview/backup-060825/startopsaetning/kontaktformular/" class="u-url" itemprop="url">Opgave 11: Ændr kontaktformularens konfiguration
+</a>
+          </h1>
+          
+
+
+          <p class="emneord">
+  
+  
+</p>
+
+
+
+
+
+
+
+
+        </header>
+      
+      
+      <section class="page__content e-content" itemprop="text">
+        
+        <p>Jeres kontaktformular <code class="language-plaintext highlighter-rouge">/kontakt</code> skal ændres, så det information der sendes til brugerne er korrekt og de rigtigte personer modtager henvendelserne fra brugerne.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/9ef4152e-6912-4bc9-8e07-7f8c9e33c24b" alt="Kontaktformularen" /><figcaption>
+      Kontaktformularen
+
+    </figcaption></figure>
+
+<h2 id="1-opret-de-korrekte-email-kategorier">1. Opret de korrekte email kategorier</h2>
+<p>I kontaktformularen kan brugerne vælge en kategori, som henvendelsen omhandler, og I kan tilknytte en email til de kategorier, så de sendes til de rette personer på biblioteket.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/226400d7-9974-4d0d-b7cc-d5b6917cce9a" alt="Email kategorier" /><figcaption>
+      Email kategorier
+
+    </figcaption></figure>
+
+<p>I topmenuen klik på <strong>Struktur</strong> eller åbn <code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/admin/structure (udskift mit-domænenavn.dk)</code></p>
+
+<p>Tryk på <strong>Taksonomi</strong></p>
+
+<p>Tryk på <strong>Vis ord</strong> ud for Webform email kategories</p>
+
+<p>Her kan I redigere, tilføje og slette kategorier.</p>
+
+<p><strong>Det er vigtigt at I retter emails på alle eksisterende kategorier, som I vil beholde</strong> ellers modtager I ikke mails når brugerne vælger de kategorier.</p>
+
+<p>For at gøre det, så trykker I på <strong>Rediger</strong> ud for den kategori, som skal have tilknyttet en email og retter emailen i feltet <strong>Email</strong> og tryk på <strong>Gem</strong>.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/7dab3d81-8cff-4abb-bdd9-32e5d9f7ffa8" alt="Ret email" /><figcaption>
+      Ret email
+
+    </figcaption></figure>
+
+<h2 id="2-ret-teksten-i-bekræftelsesbeskederne">2. Ret teksten i bekræftelsesbeskederne</h2>
+
+<h3 id="21-bekræftelsesbesked-på-hjemmesiden">2.1 Bekræftelsesbesked på hjemmesiden</h3>
+<p>Først skal I rette den besked, som brugerne modtager på hjemmesiden efter at have udfyldt en henvendelse i kontaktformularen.</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/05ee1542-3091-49de-a3c9-f928401fb482" alt="Bekræftelsesbesked på hjemmesiden" /><figcaption>
+      Bekræftelsesbesked på hjemmesiden
+
+    </figcaption></figure>
+
+<p>I topmenuen klik på <strong>Struktur</strong> eller åbn <code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/admin/structure (udskift mit-domænenavn.dk)</code></p>
+
+<p>Tryk på <strong>Webformularer</strong></p>
+
+<p>Tryk på <strong>Byg</strong> ud for “Kontaktformular”</p>
+
+<p>Tryk på <strong>Indstillinger</strong> øverst</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/8af25966-532e-4b55-8dce-16134249ba0a" alt="Tryk på Indstillinger" /><figcaption>
+      Tryk på Indstillinger
+
+    </figcaption></figure>
+
+<p>Tryk på <strong>Bekræftelse</strong></p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/9f9add0a-a7fe-4671-8809-dfa34111b7bb" alt="Tryk på Bekræftelse" /><figcaption>
+      Tryk på Bekræftelse
+
+    </figcaption></figure>
+
+<p>Ret teksten i feltet <strong>Bekræftelse</strong>ryk på <strong>Gem</strong></p>
+
+<p class="notice--primary">Dette kunne være “Tak for din besked. Vi besvarer din mail indenfor X dage.”</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/8ac9f35d-0d0a-42d8-a2e9-f4e823ea81cc" alt="Ret teksten" /><figcaption>
+      Ret teksten
+
+    </figcaption></figure>
+
+<p>Tryk på <strong>Gem</strong></p>
+
+<h3 id="22-bekræftelsesmails">2.2 Bekræftelsesmails</h3>
+<p>Herefter skal I rette teksten til bekræftelses-emailen, som borgeren modtager.</p>
+
+<p>Hvis I ikke har fulgt opgave <strong>2.1 Bekræftelsesbesked på hjemmesiden</strong> i denne, så skal I følge den opgave til og med “Tryk på <strong>Indstillinger</strong>” og så komme tilbage til denne opgave.</p>
+
+<p>Tryk på <strong>Emails / Handlers</strong></p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/cdf40089-dd1d-4f29-8940-a2ca97798d0c" alt="Bekræftelses-email" /><figcaption>
+      Bekræftelses-email
+
+    </figcaption></figure>
+
+<p>Tryk på <strong>Rediger</strong> ud for den Email bekræftelse, som har ID’et email_confirmation</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/15d50e3e-ec41-4c3f-8194-63968b509ce9" alt="Rediger email" /><figcaption>
+      Rediger email
+
+    </figcaption></figure>
+
+<p>Scroll ned til <strong>Besked</strong> og ret teksten</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/1479b81a-85a7-4ca5-99f6-809908528830" alt="Ret teksten" /><figcaption>
+      Ret teksten
+
+    </figcaption></figure>
+
+<p>I teksten er der variabler, som indsætter information baseret på det, som borgeren har indtastet i formularen. Fx indsætter [webform_submission:values:name] det navn, som brugeren indtaster i feltet Navn i kontaktformularen.</p>
+
+<p class="notice--primary">Variabler I kan bruge er fx
+[webform_submission:values:name] er det som blev indtastet i Navn i formularen
+[webform_submission:created] er tidspunktet som henvendelsen i kontaktformularen blev indsendt
+[webform_submission:values:subject] er det som blev indtastet i Emne i formularen
+[webform_submission:values:message] er det som blev indtastet i Besked i formularen
+[webform_submission:values:email] er det som blev indtastet i Email i formularen</p>
+
+<p>Denne tekst kunne fx være:</p>
+
+<p class="notice--primary">Kære [webform_submission:values:name]<br />
+<br />
+Mange tak for din henvendelse. Vi besvarer henvendelser indenfor X dage.<br />
+<br />
+<em>Besked blev modtaget: [webform_submission:created]</em><br />
+<br />
+<strong>Din besked</strong><br />
+[webform_submission:values:subject]<br />
+<br />
+[webform_submission:values:message]<br />
+<br />
+Med venlig hilsen<br />
+Eksempel Bibliotekerne</p>
+
+<p>Det vil se således ud i mail til brugeren</p>
+
+<figure class="sixty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/696744f5-5025-4ba1-92b4-fd923217d46f" alt="Eksempel mail" /><figcaption>
+      Eksempel mail
+
+    </figcaption></figure>
+
+<p>Tryk på <strong>Gem</strong></p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-08-12T12:44:33+00:00">August 12, 2025</time></p>
+
+      </footer>
+
+      
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+      
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><div class="search-searchbar"></div>
+  <div class="search-hits"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+  </ul>
+</div>
+<div class="page__footer-copyright">
+  Folkebibliotekernes CMS udvikles af <a href="https://detdigitalefolkebibliotek.dk/">Det Digitale Folkebibliotek</a><br/>
+</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/preview/backup-060825/assets/js/main.min.js"></script>
+
+
+<script>
+// Including InstantSearch.js library and styling
+const loadSearch = function() {
+  const loadCSS = function(src) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = src;
+    link.media = 'all';
+    document.head.appendChild(link);
+  };
+
+  var script = document.createElement('script');
+  script.setAttribute("type", "text/javascript");
+  script.setAttribute("src", "https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.js");
+  script.addEventListener("load", function() {
+    // Instantiating InstantSearch.js with Algolia credentials
+    const search = instantsearch({
+      appId: 'TVP7W0OS24',
+      apiKey: 'e8c5920789ad3f6d57903b6edc107af5',
+      indexName: 'prod_folkebibliotekernes_cms_manual',
+      searchParameters: {
+        restrictSearchableAttributes: ['title', 'content']
+      }
+    });
+
+    const hitTemplate = function(hit) {
+      const url = hit.url;
+      const hightlight = hit._highlightResult;
+      const title = hightlight.title && hightlight.title.value  || "";
+      const content = hightlight.html && hightlight.html.value  || "";
+
+      return `
+        <div class="list__item">
+          <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+            <h2 class="archive__item-title" itemprop="headline"><a href="/preview/backup-060825${url}">${title}</a></h2>
+            <div class="archive__item-excerpt" itemprop="description">${content}</div>
+          </article>
+        </div>
+      `;
+    }
+
+    // Adding searchbar and results widgets
+    search.addWidget(
+      instantsearch.widgets.searchBox({
+        container: '.search-searchbar',
+        poweredBy: true,
+        placeholder: 'Enter your search term...'
+      })
+    );
+    search.addWidget(
+      instantsearch.widgets.hits({
+        container: '.search-hits',
+        templates: {
+          item: hitTemplate,
+          empty: 'No results',
+        }
+      })
+    );
+
+    if (!search.started) {
+      search.start();
+    }
+  });
+  document.body.appendChild(script);
+
+  loadCSS("https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.css");
+  loadCSS("https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch-theme-algolia.min.css");
+};
+
+// Starting the search only when toggle is clicked
+$(document).ready(function() {
+  var scriptLoaded = false;
+
+  $(".search__toggle").on("click", function() {
+    if (!scriptLoaded) {
+      loadSearch();
+      scriptLoaded = true;
+    }
+  });
+});
+</script>
+
+
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YW8N0HH0F5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YW8N0HH0F5', { 'anonymize_ip': false});
+</script>
+
+
+
+
+
+
+
+
+  </body>
+</html>

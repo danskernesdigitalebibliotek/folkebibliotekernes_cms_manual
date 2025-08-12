@@ -1,0 +1,726 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.27.3 by Michael Rose
+  Copyright 2013-2025 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Release Notes 220324 - Folkebibliotekernes CMS</title>
+<meta name="description" content="Nye features">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Folkebibliotekernes CMS">
+<meta property="og:title" content="Release Notes 220324">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/preview/backup-060825/overblik/release-notes/release-notes-220324/">
+
+
+  <meta property="og:description" content="Nye features">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2025-08-12T12:44:33+00:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/preview/backup-060825/overblik/release-notes/release-notes-220324/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/preview/backup-060825/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/preview/backup-060825/assets/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/preview/backup-060825/assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/preview/backup-060825/assets/images/favicon-16x16.png">
+<link rel="manifest" href="/preview/backup-060825/assets/images/site.webmanifest">
+<link rel="mask-icon" color="#5bbad5" href="/preview/backup-060825/assets/images/safari-pinned-tab.svg">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+  </head>
+
+  <body class="layout--single wide" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/preview/backup-060825/"><img src="/preview/backup-060825/assets/images/layout/ddf-logo-small.png" alt="Folkebibliotekernes CMS"></a>
+        
+        <a class="site-title" href="/preview/backup-060825/">
+          Folkebibliotekernes CMS
+          <span class="site-subtitle">via foreningen Det Digitale Folkebibliotek</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/preview/backup-060825/overblik/nyt-i-manualen"
+                
+                
+              >Nyt i manualen</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/preview/backup-060825/overblik/hurtigguide-til-manualen"
+                
+                
+              >Hurtigguide til manualen</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/preview/backup-060825/overblik/emneord"
+                
+                
+              >Emner</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+  
+    
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/preview/backup-060825/" itemprop="item"><span itemprop="name">Home</span></a>
+
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep">/</span>
+      
+      
+        
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/preview/backup-060825/overblik" itemprop="item"><span itemprop="name">Overblik</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        <span class="sep">/</span>
+      
+    
+      
+      
+        
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/preview/backup-060825/release-notes" itemprop="item"><span itemprop="name">Release notes</span></a>
+          <meta itemprop="position" content="3" />
+        </li>
+        <span class="sep">/</span>
+      
+    
+      
+      
+        <li class="current">Release Notes 220324</li>
+      
+    
+  </ol>
+</nav>
+
+  
+
+
+<div id="main" role="main">
+  
+  
+  <div class="sidebar sticky">
+  
+
+  
+
+  
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+   
+
+  <nav class="nav__list">
+    <input id="ac-toc" name="accordion-toc" type="checkbox" />
+    <label for="ac-toc">Toggle Menu</label>
+    <ul class="nav__items">
+
+      
+        
+        <li>
+          <span class="nav__sub-title">Release Notes</span>        
+          <ul>
+            
+            
+            
+            
+
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-32-0/">Release Notes 2025.32.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-27-2/">Release Notes 2025.27.2</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-26-0/">Release Notes 2025.26.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-25-0/">Release Notes 2025.25.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-24-1/">Release Notes 2025.24.1</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-23-0/">Release Notes 2025.23.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-21-2/">Release Notes 2025.21.2</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-20-0/">Release Notes 2025.20.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-19-0/">Release Notes 2025.19.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-18-1/">Release Notes 2025.18.1</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-17-2/">Release Notes 2025.17.2</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-15-2/">Release Notes 2025.15.2</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-14-3/">Release Notes 2025.14.3</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-13-0/">Release Notes 2025.13.1</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-11-0/">Release Notes 2025.11.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-10-0/">Release Notes 2025.10.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-09-0/">Release Notes 2025.09.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-08-1/">Release Notes 2025.08.1</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-08-0/">Release Notes 2025.08.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-07-1/">Release Notes 2025.07.1</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-06-0/">Release Notes 2025.06.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-05-1/">Release Notes 2025.05.1</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-04-0/">Release Notes 2025.04.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2025-03-2/">Release Notes 2025.03.2</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-50-0/">Release Notes 2024.50.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-49-0/">Release Notes 2024.49.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-48-0/">Release Notes 2024.48.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-47-2/">Release Notes 2024.47.2</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-46-0/">Release Notes 2024.46.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-45-0/">Release Notes 2024.45.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-44-1/">Release Notes 2024.44.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-43-1/">Release Notes 2024.43.1</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-41-0/">Release Notes 2024.41.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-40-0/">Release Notes 2024.40.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-39-0/">Release Notes 2024.39.1</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-38-1/">Release Notes 2024.38.1</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-37-0/">Release Notes 2024.37.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-36-0/">Release Notes 2024.36.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-35-0/">Release Notes 2024.35.1</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-33-0/">Release Notes 2024.33.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-32-1/">Release Notes 2024.32.1</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-29-1/">Release Notes 2024.29.1</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-28-0/">Release Notes 2024.28.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-27-1/">Release Notes 2024.27.1</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-26-0/">Release Notes 2024.26.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-25-0/">Release Notes 2024.25.1</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-24-0/">Release Notes 2024.24.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-23-0/">Release Notes 2024.23.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-22-1/">Release Notes 2024.22.1</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-20-2/">Release Notes 2024.20.2</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-18-3/">Release Notes 2024.18.3</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-17-0/">Release Notes 2024.17.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-15-0/">Release Notes 2024.15.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-2024-11-0/">Release Notes 2024.11.0</a></li>
+              
+            
+              
+                <li><a href="/preview/backup-060825/overblik/release-notes/release-notes-220324/" class="active">Release Notes 220324</a></li>
+              
+            
+          </ul>
+        </li>
+        
+           
+    </ul>
+  </nav>
+  
+
+  </div>
+
+
+  
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Release Notes 220324">
+    <meta itemprop="description" content="Nye features">
+    <meta itemprop="datePublished" content="2025-08-12T12:44:33+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://www.folkebibliotekernescms.dk/preview/backup-060825/overblik/release-notes/release-notes-220324/" class="u-url" itemprop="url">Release Notes 220324
+</a>
+          </h1>
+          
+
+
+          <p class="emneord">
+  
+  
+</p>
+
+
+
+
+
+
+
+
+        </header>
+      
+      
+      <section class="page__content e-content" itemprop="text">
+        
+        <h2 id="nye-features">Nye features</h2>
+
+<ul>
+  <li>Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier.</li>
+  <li>Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund.</li>
+  <li>Automatisk materialeparagraph: Tilføj en liste med materialer til din artikel eller anden indholdstype. Listen genereres på baggrund af CQL-søgestreng.</li>
+  <li>Manuel materialeparagraph: Tilføj en liste med materialer til din artikel eller anden indholdstype. Listen genereres pba manuelt indsatte ID’er på den enkelte værker f.eks. work-of:870970-basis:136336282</li>
+  <li>Anbefalingsparagraph (recommendation): Tidligere har det kun været muligt at linke til et værk og ikke til de specifikke materialetyper værket eksisterer som. Det er det nu. F.eks. kan man henvise direkte til en e-bog.</li>
+  <li>Uret i headeren kan nu konfigureres: Bestem hvad uret skal linke til under /admin/config/dpl-library-agency/general-settings og feltet “Opening hours link”.</li>
+  <li>Filialliste: /branches lister oprettede filialer.</li>
+  <li>Arrangement kan tilknyttes filial i forbindelse med oprettelse via feltet “Branch”. Der er oprettet separat opgave på at adresse fra filialen skal bruges i relation til arrangementet.</li>
+  <li>Filialnavn vises nu i relation til arrangementer i diverse lister.</li>
+  <li>Arrangementer kan nu afpubliseres automatisk: Under /admin/config/dpl-event/settings kan redaktører nu konfigurere hvornår arrangementer som udgangspunkt skal afpubliceres.</li>
+  <li>Knap til billetsystem viser nu retvisende tekst for gratisarrangementer. Default tekst er nu “Get tickets”/”Hent billet” ved gratis arrangementer, som kræver billet/tilmelding.</li>
+  <li>Hero-paragraph: Det store billede i hero-paragraphen linker nu også til det indhold, der formidles og fonttypen er korrekt.</li>
+</ul>
+
+<h2 id="fejlrettelser">Fejlrettelser:</h2>
+
+<ul>
+  <li>Arrangementer: Tekststørrelse på arrangementer er gjort større på mobilvisning</li>
+  <li>Tilgængelighed: Arrangementer i arrangementslideren forsvinder ikke længere ud af viewport ved keyboardfokus.</li>
+  <li>Tvungen alt-tekst på billeder er fjernet.</li>
+  <li>Pargraphen “Linkboks” kan nu også linke til eksterne lokationer.</li>
+  <li>Roller og rettigheder: Administrator har nu også rettigheder til at redigere i footeren.</li>
+  <li>Roller og rettigheder: Roller udover admin kan nu også anvende skabeloner.</li>
+  <li>Ensretning af placering af felter på tværs af indholdstyper, serie og enkeltinstanser.</li>
+  <li>Arrangement: Beslægtede felter til indsættelse af billetkategori og link er nu placeret ved siden af hinanden.</li>
+  <li>Filialer kan nu oprettes uden der i første omgang kastes fejlmeddelelse.</li>
+  <li>Arrangementsliste: Layoutet skrider ikke længere i toppen af arrangementslisten.</li>
+  <li>Paragraph: “Card grid automatic” og “Card grid manual” viser nu udelukkende indholdstypen artikler.
+    <ul>
+      <li>Bemærk at dette hele tiden har været meningen, men en fejl gjorde at man kunne indsætte andre typer. Dette har været meldt ud da fasen startede og står i ”Status til piloter”. Der kommer senere en særskilt komponent til at fremhæve arrangementer</li>
+    </ul>
+  </li>
+  <li>Artikler: Nu vises dato kun én gang på artikler.</li>
+</ul>
+
+<h2 id="kendte-fejl">Kendte fejl:</h2>
+<p>Generelt set løser denne release de fejl der var registrerede op til pilotfasen gik i gang. Derfor kan I forvente at størstedelen af de fejl I har indmeldt IKKE er rettet endnu, men forventes med i næste release. Der er dog en del af jeres indmeldte fejl, som også blev fundet af vores testere i ugen inden pilotfasen, og derfor er nået at blive rettet til denne release.</p>
+<ul>
+  <li>Accordion formattering: Styling. Formatering i editor vises ikke korrekt i slutbrugervisningen. Det gælder f.eks. afsnitsformatering, styling af overskrifter og brødtekst der ikke renderes efter bogen.- Nogle gange mangler mellemrum mellem paragraphs, ex mellem link og accordion- Paragraph media: Tekst til byline lægger sig over redigeringsikoner. Preview af tekst til byline lægger sig over ikoner der giver adgang til at redigere billede.- Artikelliste: Enkelte kategorier vises selvom der tilsyneladende ikke er indhold under kategorien. - Paragraph: Overskrifter på accordions er default h3. Skal være h2.- Arrangementer: Redigeringsmulighed mangler på billederne i sidebaren til højre</li>
+  <li>iOS generelt:
+    <ul>
+      <li>Arrangement: Mobil (iOS): Skalerer ikke i forhold til mobilvisning.</li>
+      <li>Mobilvisning (iOS): Scrollbar i flere dimensioner.</li>
+      <li>Paragraph: Material grid: Mobil (iOS): felter forskellig størrelse</li>
+    </ul>
+  </li>
+  <li>Branch: Unødvendige prikker i liste-visningen</li>
+  <li>Paragraph: “Card grid - automatic” kan pt. ikke trække indhold ind fra mere end et tag ad gangen.</li>
+  <li>Footer: Det kræver to klik at gemme ændringer</li>
+  <li>Beskrivelsestekst til Sider mangler. Når jeg går ind under /admin/content/add savner jeg den lille beskrivelsestekst til hvad en Side er, ligesom der er under de andre indholdstyper</li>
+  <li>Arrangementer: Brødtekst skal flyttes op under descriptionfeltet på arrangementer. Som ønsket i DDFFORM-187: skal brødtekstfeltet ligge umiddelbart under descriptionfeltet på arrangementer. Ellers sker det at redaktørerne lægger alt tekst ind i descriptionfeltet og det kan designet ikke håndtere.</li>
+  <li>Arrangement: Weekly events: Ingen slutdato for serie af gentagne arrangementer. Når man opretter Weekly event vises på frontend at arrangement afholdes hver tirsdag 10:00-12:00 men indtil hvilken dato? Det burde vises at arrangement afholde hver tirsdag mellem 10 og 12:00 indtil 25. marts 2024</li>
+  <li>Arrangementer: Styling: Afstand mellem tags og brødtekst følger ikke design</li>
+</ul>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-08-12T12:44:33+00:00">August 12, 2025</time></p>
+
+      </footer>
+
+      
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+      
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><div class="search-searchbar"></div>
+  <div class="search-hits"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+  </ul>
+</div>
+<div class="page__footer-copyright">
+  Folkebibliotekernes CMS udvikles af <a href="https://detdigitalefolkebibliotek.dk/">Det Digitale Folkebibliotek</a><br/>
+</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/preview/backup-060825/assets/js/main.min.js"></script>
+
+
+<script>
+// Including InstantSearch.js library and styling
+const loadSearch = function() {
+  const loadCSS = function(src) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = src;
+    link.media = 'all';
+    document.head.appendChild(link);
+  };
+
+  var script = document.createElement('script');
+  script.setAttribute("type", "text/javascript");
+  script.setAttribute("src", "https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.js");
+  script.addEventListener("load", function() {
+    // Instantiating InstantSearch.js with Algolia credentials
+    const search = instantsearch({
+      appId: 'TVP7W0OS24',
+      apiKey: 'e8c5920789ad3f6d57903b6edc107af5',
+      indexName: 'prod_folkebibliotekernes_cms_manual',
+      searchParameters: {
+        restrictSearchableAttributes: ['title', 'content']
+      }
+    });
+
+    const hitTemplate = function(hit) {
+      const url = hit.url;
+      const hightlight = hit._highlightResult;
+      const title = hightlight.title && hightlight.title.value  || "";
+      const content = hightlight.html && hightlight.html.value  || "";
+
+      return `
+        <div class="list__item">
+          <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+            <h2 class="archive__item-title" itemprop="headline"><a href="/preview/backup-060825${url}">${title}</a></h2>
+            <div class="archive__item-excerpt" itemprop="description">${content}</div>
+          </article>
+        </div>
+      `;
+    }
+
+    // Adding searchbar and results widgets
+    search.addWidget(
+      instantsearch.widgets.searchBox({
+        container: '.search-searchbar',
+        poweredBy: true,
+        placeholder: 'Enter your search term...'
+      })
+    );
+    search.addWidget(
+      instantsearch.widgets.hits({
+        container: '.search-hits',
+        templates: {
+          item: hitTemplate,
+          empty: 'No results',
+        }
+      })
+    );
+
+    if (!search.started) {
+      search.start();
+    }
+  });
+  document.body.appendChild(script);
+
+  loadCSS("https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.css");
+  loadCSS("https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch-theme-algolia.min.css");
+};
+
+// Starting the search only when toggle is clicked
+$(document).ready(function() {
+  var scriptLoaded = false;
+
+  $(".search__toggle").on("click", function() {
+    if (!scriptLoaded) {
+      loadSearch();
+      scriptLoaded = true;
+    }
+  });
+});
+</script>
+
+
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YW8N0HH0F5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YW8N0HH0F5', { 'anonymize_ip': false});
+</script>
+
+
+
+
+
+
+
+
+  </body>
+</html>
