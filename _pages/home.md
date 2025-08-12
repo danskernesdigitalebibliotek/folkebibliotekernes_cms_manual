@@ -59,7 +59,7 @@ feature_row:
   - image_path: /assets/images/soegning.png
     alt: "Simpel- og avanceret søgning. Værk- og materialevisning"
     title: "Søgning"
-    excerpt: "Få overblik over hvad er nyt i forhold til DDB CMS."
+    excerpt: "Simpel- og avanceret søgning. Værk- og materialevisning."
     url: "/nye-features/"
   - image_path: /assets/images/content.jpg
     alt: "Guidelines til god webkommunikation"
@@ -71,6 +71,7 @@ feature_row:
 ---
 
 {% include feature_row %}
+
 
 
 
