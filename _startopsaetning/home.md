@@ -1,9 +1,12 @@
 ---
-title: "Etablering af nyt DDB CMS site"
+title: "Onboarding af ny kommune"
 permalink: /startopsaetning/
 ---
 
-Denne guide dokunenterer, de trin der skal til for at oprette et nyt DDB CMS site. Nogle opgaver skal udføres af DDF - andre af biblioteket. Og de skal udføres i den rigtige rækkefølge.
+Denne guide dokunenterer processen for at onboarde en kommune, der ønsker at skifte hjemmesidesystem til Folkebibliotekernes CMS. 
+
+Den dokumenterer de opgaver der skal udføres og deres rækkefølge.
+Nogle opgaver skal udføres af DDF - andre af biblioteket. 
 
 Der er fire faser i processen og de skal udføres i nævnte rækkefølge. I parantes står hvem der er ansvarlig for udførelsen.
 1. [Etablering af staging-site](https://www.folkebibliotekernescms.dk/main/startopsaetning/staging-site/) (DDF og biblioteket)

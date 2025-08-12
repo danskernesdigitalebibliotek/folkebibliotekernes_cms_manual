@@ -46,10 +46,10 @@ feature_row:
     title: "Bliv klar"
     excerpt: "Kom i gang med forberedelserne allerede nu."
     url: "/bliv-klar-til-folkebibliotekernes-cms/"
-  - image_path: /assets/images/startopsaetning.jpg
-    alt: "Startopsætning"
-    title: "Startopsætning"
-    excerpt: "Skal udføres straks I modtager login til jeres site."
+  - image_path: /assets/images/overgang-til-folkebibliotekernes-cms.jpg
+    alt: "Onboarding af ny kommune"
+    title: "Onboarding af ny kommune"
+    excerpt: "Trin for trin: Opbyg en hjemmeside i Folkebibliotekernes CMS."
     url: "/startopsaetning/"
   - image_path: /assets/images/inspiration.png
     alt: "Formidlingsinspiration i Folkebibliotekernes CMS"
