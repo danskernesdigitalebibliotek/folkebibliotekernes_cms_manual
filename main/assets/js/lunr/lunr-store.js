@@ -1277,6 +1277,12 @@ var store = [{
         "url": "/main/startopsaetning/basiskonfiguration-intro/",
         "teaser": null
       },{
+        "title": "DNS opsætning",
+        "excerpt":"Guide til GO subdomæne opsætning Denne guide informere om hvordan subdomænet skal sættes for jeres bibliotek. Vejledning Gå ind på jeres webhotels control panel (eller der, hvor DNS’en for domænet styres fra). Gå til DNS indstillinger. DNS indstillinger kan i nogle tilfælde være gemt væk under en tab eller en...","categories": ["Go-live"],
+        "tags": [],
+        "url": "/main/startopsaetning/dns/",
+        "teaser": null
+      },{
         "title": "Opgave 2: Forsiden og faste sider",
         "excerpt":"Opret en forside Folkebibliotekernes CMS fødes ikke med en forside. Den skal I selv opbygge. En hvilken som helst side kan fungere som forside. Vi anbefaler, at I opretter en side med navnet Forside. I behøver ikke gøre den færdig rent indholdsmæssigt. For nu er det ok, at den er...","categories": ["Struktur og indhold"],
         "tags": [],
