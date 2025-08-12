@@ -1278,7 +1278,7 @@ var store = [{
         "teaser": null
       },{
         "title": "DNS opsætning",
-        "excerpt":"Guide til GO subdomæne opsætning Denne guide informere om hvordan subdomænet skal sættes for jeres bibliotek. Vejledning Gå ind på jeres webhotels control panel (eller der, hvor DNS’en for domænet styres fra). Gå til DNS indstillinger. DNS indstillinger kan i nogle tilfælde være gemt væk under en tab eller en...","categories": ["Go-live"],
+        "excerpt":"DNS står for Domain Name Service. Det er DNS registreringen der gør, at jeres hjemmeside adresse virker og peger hen på det rigtige website. Biblioteket har ansvaret for at lave DNS registreringen. Nogle biblioteker står selv for DNS-opsætningen, mens andre får hjælp af IT-afdelingen i deres kommune. I skal finde...","categories": ["Go-live"],
         "tags": [],
         "url": "/main/startopsaetning/dns/",
         "teaser": null
