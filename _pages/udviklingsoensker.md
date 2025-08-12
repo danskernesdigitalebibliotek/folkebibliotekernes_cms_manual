@@ -14,7 +14,7 @@ Har du en god idé til videreudvikling eller et ønske om en ny funktion i Folke
 
 ## Indmelding af ønsker
 Du indmelder dit ønske via vores [serviceportal](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/user/login?destination=portals){:target="_blank"} og du skal være supportberettiget. 
-Er du i tvivl om hvem det er hos dig, eller vil ændre de supportberettigede, så skriv til os på [cms-info@detdigitalefolkebibliotek.dk](mailto:cms-info@detdigitalefolkebibliotek.dk).  
+Er du i tvivl om hvem det er hos dig, eller vil ændre de supportberettigede, så skriv til os på [kontakt@detdigitalefolkebibliotek.dk](mailto:kontakt@detdigitalefolkebibliotek.dk).  
 
 Vi vil gerne have så mange detaljer som muligt, så vi bliver klædt bedst muligt på til at forstå dit ønske. Derfor er der mange felter i skabelonen til indberetninger, hvoraf kun nogle er obligatoriske. 
 Felterne giver os mulighed for at filtrere og gruppere ønskerne, så vi kan samle dem i relaterede emner. 
@@ -27,7 +27,7 @@ Felterne giver os mulighed for at filtrere og gruppere ønskerne, så vi kan sam
 ## Proces for prioritering af ønskerne
 Når du har indberettet dit ønske, får du automatisk en kvittering for, at vi har modtaget din indberetning. Hvis et ønske hænger sammen med funktionalitet, som er under udvikling, kan ønsket medtages i de aktuelle udviklingsplaner.  
 
-Hver halve år grupperer vi ønskerne i emneområder (EPICS). De vil blive præsenteret ved et webinar. Efterfølgende vil kontaktpersonerne på bibliotekerne kunne indgive en stemme på de EPICS, som de ønsker prioriteret. Ud fra bibliotekernes prioriteringer laver vi et roadmap for udviklingen.
+Hver halve år grupperer vi ønskerne i emneområder. Emneområderne vil blive præsenteret ved et webinar. Efterfølgende vil kontaktpersonerne på bibliotekerne kunne indgive en stemme på de emneområder, som de ønsker prioriteret. Ud fra bibliotekernes prioriteringer laver vi et roadmap for udviklingen.
 
 Vi kommer til at arbejde med udviklingsønsker og support samtidigt, som betyder at i nogle perioder vil support fylde mere end andre, og derfor vil vi ikke arbejde med skarpe deadlines for udviklingsønskerne. 
 
