@@ -1349,8 +1349,8 @@ var store = [{
         "url": "/main/startopsaetning/openid-connect/",
         "teaser": null
       },{
-        "title": "Opgave 7: Fjernadgang - Proxy indstillinger",
-        "excerpt":"Søgefeltet på hjemmesiden kan vise resultater fra elektroniske ressourcer som biblioteket abonnerer på. Hvilke kilder der skal være søgbare, beslutter I selv via VIP søgeprofilen. Har I valgt at inkludere kilder som Gale eller Ebook Central er det vigtigt at registere proxy indstillinger for kilden. Gør I ikke det, vil...","categories": ["Basis konfiguration"],
+        "title": "Opgave 6: Fjernadgang - Proxy indstillinger",
+        "excerpt":"Søgefeltet på hjemmesiden kan vise resultater fra elektroniske ressourcer, som biblioteket abonnerer på. Hvilke kilder der skal være søgbare, beslutter I selv via VIP søgeprofilen. Har I valgt at inkludere kilder som Gale eller Ebook Central, er det vigtigt at registere proxy indstillinger for kilden. Ellers vil links fra søgeresultatet...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/proxyindstillinger/",
         "teaser": null
