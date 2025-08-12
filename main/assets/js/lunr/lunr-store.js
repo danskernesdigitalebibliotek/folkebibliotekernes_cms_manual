@@ -155,12 +155,6 @@ var store = [{
         "url": "/main/category/konfiguration/",
         "teaser": null
       },{
-        "title": "Lånerstatus og brugerprofil",
-        "excerpt":"Lånerstatus og brugerprofil  ","categories": [],
-        "tags": [],
-        "url": "/main/category/laanerstatus-brugerprofil/",
-        "teaser": null
-      },{
         "title": "Media",
         "excerpt":"Media er en overskrift i konfiguration  ","categories": [],
         "tags": [],
