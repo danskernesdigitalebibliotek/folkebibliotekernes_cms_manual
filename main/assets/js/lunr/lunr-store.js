@@ -125,6 +125,12 @@ var store = [{
         "url": "/main/category/generelt/",
         "teaser": null
       },{
+        "title": "Go-live",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/main/category/go-live/",
+        "teaser": null
+      },{
         "title": "GO",
         "excerpt":"GO  ","categories": [],
         "tags": [],
