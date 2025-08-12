@@ -893,12 +893,6 @@ var store = [{
         "url": "/main/nye-features/rankering-og-fuzzy-match/",
         "teaser": null
       },{
-        "title": "Reserveringsoversigten",
-        "excerpt":"Under menupunktet Reserveringer får man det samlede overblik over sine reserveringer. Siden er opdelt i: Klar til afhentning, Fysiske reserveringer og Digitale reserveringer med angivelse af antallet ved hver type. I forhold til DDB CMS er de to sider ‘Reserveringer klar’ og ’Reserveringer i kø’ blevet samlet under ét menupunkt....","categories": ["Lånerstatus og brugerprofil"],
-        "tags": [],
-        "url": "/main/nye-features/reserveringsoversigt/",
-        "teaser": null
-      },{
         "title": "Strakslåns-notifikation",
         "excerpt":"Mens man opretter en reservation kan man få en strakslåns-notifikation. Strakslåns-notifikation Du møder strakslåns-notifikationen, når der er reserveringskø på den materialetype, du er ved at reservere OG hvis biblioteket har et eller flere ikke-reserverbare eksemplarer hjemme. Mange biblioteker har ikke-reserverbare eksemplarer i form af “kviklån” eller “kortlån”. I det tilfælde...","categories": ["Søgning"],
         "tags": [],
