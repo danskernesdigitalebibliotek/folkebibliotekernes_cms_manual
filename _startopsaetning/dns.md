@@ -1,6 +1,7 @@
 ---
 title: "DNS opsætning"  
 category: Go-live
+weight: 2
 ---
 **DNS** står for Domain Name Service. Det er DNS registreringen der gør, at jeres hjemmeside adresse virker og peger hen på det rigtige website. 
 Biblioteket har ansvaret for at lave DNS registreringen. 
