@@ -1325,7 +1325,7 @@ var store = [{
         "url": "/main/startopsaetning/kontaktformular/",
         "teaser": null
       },{
-        "title": "Opgave 6: Mapp Intelligence",
+        "title": "Opgave 5: Mapp Intelligence",
         "excerpt":"Via Mapp indsamles statistik for jeres hjemmeside. Indsæt Mapp ID i Folkebibliotekernes CMS I topmenuen klik på Indstillinger &gt; System &gt; Mapp Intelligence indstillinger Eller åbn via direkte link (udskift mit-staging-domæne.dk): https://mit-staging-domæne.dk/admin/config/system/dpl-mapp Indsæt 476651662471322 i feltet ID Tryk på Gem indstillinger Egenkontrol Det er ikke muligt at tjekke Mapp konfigurationen...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/mapp/",
