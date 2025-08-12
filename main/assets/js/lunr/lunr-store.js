@@ -1278,7 +1278,7 @@ var store = [{
         "teaser": null
       },{
         "title": "DNS opsætning",
-        "excerpt":"DNS står for Domain Name Service. Det er DNS registreringen der gør, at jeres hjemmeside adresse virker og peger hen på det rigtige website. Biblioteket har ansvaret for at lave DNS registreringen. Nogle biblioteker står selv for DNS-opsætningen, mens andre får hjælp af IT-afdelingen i deres kommune. I skal finde...","categories": ["Go-live"],
+        "excerpt":"DNS står for Domain Name Service. Det er DNS registreringen der gør, at jeres hjemmeside adresse virker og peger hen på det rigtige website. Biblioteket har ansvaret for at lave DNS registreringen. I nogle kommuner er det biblioteket selv står selv for DNS-opsætningen, mens andre får hjælp af IT-afdelingen i...","categories": ["Go-live"],
         "tags": [],
         "url": "/main/startopsaetning/dns/",
         "teaser": null
