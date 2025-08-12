@@ -185,7 +185,7 @@ var store = [{
         "url": "/main/category/release-notes/",
         "teaser": null
       },{
-        "title": "Søgning",
+        "title": "Om søgning",
         "excerpt":"Søgning  ","categories": [],
         "tags": [],
         "url": "/main/category/soegning/",
@@ -213,6 +213,18 @@ var store = [{
         "excerpt":"Udvikling er en overskrift i konfiguration  ","categories": [],
         "tags": [],
         "url": "/main/category/udvikling/",
+        "teaser": null
+      },{
+        "title": "VIP og proxy",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/main/category/vip-proxy/",
+        "teaser": null
+      },{
+        "title": "Om visning og reservering",
+        "excerpt":"Om visning og reserveringer  ","categories": [],
+        "tags": [],
+        "url": "/main/category/visning/",
         "teaser": null
       },{
         "title": "Indstillinger > Web-services",
@@ -1188,7 +1200,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Avanceret søgning og CQL Søgning",
-        "excerpt":"Bemærk: Den komplette liste over alle søgekoder, der kan bruges, findes her: https://fbi-api.dbc.dk/indexmapper/ Når man søger i Folkebibliotekernes CMS, så benyttes som udgangspunkt Simple Search, da det er bygget til at understøtte de hyppigste brugsscenarier. Men der er også brugs-scenarier, hvor der er behov for traditionel feltsøgning. Studerende og undervisere,...","categories": ["Søgning"],
+        "excerpt":"Bemærk: Den komplette liste over alle søgekoder, der kan bruges, findes her: https://fbi-api.dbc.dk/indexmapper/ Når man søger i Folkebibliotekernes CMS, så benyttes som udgangspunkt Simple Search, da det er bygget til at understøtte de hyppigste brugsscenarier. Men der er også brugs-scenarier, hvor der er behov for traditionel feltsøgning. Studerende og undervisere,...","categories": ["Om søgning"],
         "tags": [],
         "url": "/main/soegning/avanceret-sogning/",
         "teaser": null
@@ -1200,45 +1212,57 @@ var store = [{
         "teaser": null
       },{
         "title": "Intelligente facetter",
-        "excerpt":"Et søgeresultat vises sådan her. Facet-båndet er markeret med rødt. Søgefacetter i et søgeresultat Der findes 12 forskellige facet-bånd, der kan vises for brugerne: Studerende, Børnebøger, Ebøger, Faglitteratur, Film, Film for børn, Lydbøger, Lydbøger for børn, Musik, Skønlitteratur, Spil og Spil for børn. Ud fra det søgeresultat, brugerens søgning har...","categories": ["Søgning"],
+        "excerpt":"Et søgeresultat vises sådan her. Facet-båndet er markeret med rødt. Søgefacetter i et søgeresultat Der findes 12 forskellige facet-bånd, der kan vises for brugerne: Studerende, Børnebøger, Ebøger, Faglitteratur, Film, Film for børn, Lydbøger, Lydbøger for børn, Musik, Skønlitteratur, Spil og Spil for børn. Ud fra det søgeresultat, brugerens søgning har...","categories": ["Om søgning"],
         "tags": [],
         "url": "/main/soegning/intelligente-facetter/",
         "teaser": null
       },{
         "title": "Overbygningsmaterialer",
-        "excerpt":"Som noget nyt er det muligt for brugere af Folkebibliotekernes CMS at oprette fjernlån fra Centralbibliotekerne direkte på hjemmesiden, i stedet for at skulle igennem bibliotek.dk. Det er kun overbygningsmaterialerne, der kan bestilles, og kun når I ikke selv har dem i beholdning. For at stille denne funktionalitet til rådighed...","categories": ["Søgning"],
+        "excerpt":"Som noget nyt er det muligt for brugere af Folkebibliotekernes CMS at oprette fjernlån fra Centralbibliotekerne direkte på hjemmesiden, i stedet for at skulle igennem bibliotek.dk. Det er kun overbygningsmaterialerne, der kan bestilles, og kun når I ikke selv har dem i beholdning. For at stille denne funktionalitet til rådighed...","categories": ["Om søgning"],
         "tags": [],
         "url": "/main/soegning/overbygningsmaterialer/",
         "teaser": null
       },{
         "title": "Parallelreservering",
-        "excerpt":"I FBS har det længe været en muligt at oprette parallelreserveringer – men det er først med Folkebibliotekernes CMS at det bliver muligt for slutbrugerne selv at oprette dem. Opret reservering Her er en værkvisningsside for et skønlitterært værk, hvor der er to manifestationer i den valgte materialetype (bog). Skønlitterært...","categories": ["Søgning"],
+        "excerpt":"I FBS har det længe været en muligt at oprette parallelreserveringer – men det er først med Folkebibliotekernes CMS at det bliver muligt for slutbrugerne selv at oprette dem. Opret reservering Her er en værkvisningsside for et skønlitterært værk, hvor der er to manifestationer i den valgte materialetype (bog). Skønlitterært...","categories": ["Om visning og reservering"],
         "tags": [],
         "url": "/main/soegning/parallelreservering/",
         "teaser": null
       },{
+        "title": "Fjernadgang - Proxy indstillinger",
+        "excerpt":"Søgefeltet på hjemmesiden kan vise resultater fra elektroniske ressourcer, som biblioteket abonnerer på. Hvilke kilder der skal være søgbare, beslutter I selv via VIP søgeprofilen. Har I valgt at inkludere kilder som Gale eller Ebook Central, er det vigtigt at registere proxy indstillinger for kilden. Ellers vil links fra søgeresultatet...","categories": ["VIP og proxy"],
+        "tags": [],
+        "url": "/main/soegning/proxyindstillinger/",
+        "teaser": null
+      },{
         "title": "Rankering af fuzzy match",
-        "excerpt":"Der er kun ét søgefelt i Folkebibliotekernes CMS, og der er rigtig mange, meget forskelligartede brugerbehov. For at kunne understøtte så mange som muligt af disse, benyttes ”fuzzy match”. Ordet “fuzzy” betegner noget der er uskarpt, sløret, ikke helt præcist, og det er dækkende for, hvad der sker. Systemet finder...","categories": ["Søgning"],
+        "excerpt":"Der er kun ét søgefelt i Folkebibliotekernes CMS, og der er rigtig mange, meget forskelligartede brugerbehov. For at kunne understøtte så mange som muligt af disse, benyttes ”fuzzy match”. Ordet “fuzzy” betegner noget der er uskarpt, sløret, ikke helt præcist, og det er dækkende for, hvad der sker. Systemet finder...","categories": ["Om søgning"],
         "tags": [],
         "url": "/main/soegning/rankering-og-fuzzy-match/",
         "teaser": null
       },{
         "title": "Strakslåns-notifikation",
-        "excerpt":"Mens man opretter en reservation kan man få en strakslåns-notifikation. Strakslåns-notifikation Du møder strakslåns-notifikationen, når der er reserveringskø på den materialetype, du er ved at reservere OG hvis biblioteket har et eller flere ikke-reserverbare eksemplarer hjemme. Mange biblioteker har ikke-reserverbare eksemplarer i form af “kviklån” eller “kortlån”. I det tilfælde...","categories": ["Søgning"],
+        "excerpt":"Mens man opretter en reservation kan man få en strakslåns-notifikation. Strakslåns-notifikation Du møder strakslåns-notifikationen, når der er reserveringskø på den materialetype, du er ved at reservere OG hvis biblioteket har et eller flere ikke-reserverbare eksemplarer hjemme. Mange biblioteker har ikke-reserverbare eksemplarer i form af “kviklån” eller “kortlån”. I det tilfælde...","categories": ["Om visning og reservering"],
         "tags": [],
         "url": "/main/soegning/strakslaansnotifikation/",
         "teaser": null
       },{
         "title": "Værk og manifestation",
-        "excerpt":"Søgeresultater i Folkebibliotekernes CMS leveres fra brønden. Søgninger sendes afsted og resultater modtages via en ny-udviklet snitflade der hedder FBI-API. Den virker helt anderledes end den snitflade der bruges i DDB CMS. FBI-API skelner mellem værker og manifestationer. Det er begreber, der er hentet fra Dublin Core, som er en...","categories": ["Søgning"],
+        "excerpt":"Søgeresultater i Folkebibliotekernes CMS leveres fra brønden. Søgninger sendes afsted og resultater modtages via en ny-udviklet snitflade der hedder FBI-API. Den virker helt anderledes end den snitflade der bruges i DDB CMS. FBI-API skelner mellem værker og manifestationer. Det er begreber, der er hentet fra Dublin Core, som er en...","categories": ["Om visning og reservering"],
         "tags": [],
         "url": "/main/soegning/vaerk-og-manifestation/",
         "teaser": null
       },{
         "title": "Værkvisningsside",
-        "excerpt":"Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på en materialetype. Filtrerer man på ”Online lydbog”, da vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”. Fra DDB CMS er vi vant...","categories": ["Søgning"],
+        "excerpt":"Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på en materialetype. Filtrerer man på ”Online lydbog”, da vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”. Fra DDB CMS er vi vant...","categories": ["Om visning og reservering"],
         "tags": [],
         "url": "/main/soegning/vaerkvisningssiden/",
+        "teaser": null
+      },{
+        "title": "Opret søge- og visningsprofil i VIP",
+        "excerpt":"Hjemmesiden henter data fra databrønden i mange forskellige sammenhænge, og disse sammenhænge kan overordnet inddeles i søgning og visning. Folkebibliotekernes CMS kræver to brøndprofiler i VIP-basen - en søgeprofil og en visningsprofil. De to brøndprofiler skal I selv oprette. I må selv bestemme hvad de skal hedde. Kald dem f....","categories": ["VIP og proxy"],
+        "tags": [],
+        "url": "/main/soegning/vip-profiler/",
         "teaser": null
       },{
         "title": "Basiskonfiguration - introduktion",
@@ -1317,12 +1341,6 @@ var store = [{
         "excerpt":"Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt. I denne opgave skal I indsætte OpenID Connect adgangsnøgler i Folkebibliotekernes CMS. Rekvirer nøgler...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/openid-connect/",
-        "teaser": null
-      },{
-        "title": "Opgave 6: Fjernadgang - Proxy indstillinger",
-        "excerpt":"Søgefeltet på hjemmesiden kan vise resultater fra elektroniske ressourcer, som biblioteket abonnerer på. Hvilke kilder der skal være søgbare, beslutter I selv via VIP søgeprofilen. Har I valgt at inkludere kilder som Gale eller Ebook Central, er det vigtigt at registere proxy indstillinger for kilden. Ellers vil links fra søgeresultatet...","categories": ["Basis konfiguration"],
-        "tags": [],
-        "url": "/main/startopsaetning/proxyindstillinger/",
         "teaser": null
       },{
         "title": "Opgave 9: Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside",
