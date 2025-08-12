@@ -1295,6 +1295,12 @@ var store = [{
         "url": "/main/startopsaetning/generelle-indstillinger/",
         "teaser": null
       },{
+        "title": "Introduktion til Go-live",
+        "excerpt":" ","categories": ["Go-live"],
+        "tags": [],
+        "url": "/main/startopsaetning/go-live-intro/",
+        "teaser": null
+      },{
         "title": "Etablering af nyt DDB CMS site",
         "excerpt":"Denne guide dokunenterer, de trin der skal til for at oprette et nyt DDB CMS site. Nogle opgaver skal udføres af DDF - andre af biblioteket. Og de skal udføres i den rigtige rækkefølge. Der er fire faser i processen og de skal udføres i nævnte rækkefølge. I parantes står...","categories": [],
         "tags": [],
