@@ -851,60 +851,6 @@ var store = [{
         "url": "/main/konfiguration/url-proxy-indstillinger/",
         "teaser": null
       },{
-        "title": "Avanceret søgning og CQL Søgning",
-        "excerpt":"Bemærk: Den komplette liste over alle søgekoder, der kan bruges, findes her: https://fbi-api.dbc.dk/indexmapper/ Når man søger i Folkebibliotekernes CMS, så benyttes som udgangspunkt Simple Search, da det er bygget til at understøtte de hyppigste brugsscenarier. Men der er også brugs-scenarier, hvor der er behov for traditionel feltsøgning. Studerende og undervisere,...","categories": ["Søgning"],
-        "tags": [],
-        "url": "/main/nye-features/avanceret-sogning/",
-        "teaser": null
-      },{
-        "title": "Nye features i Folkebibliotekernes CMS",
-        "excerpt":"Folkebibliotekernes CMS har mange af de samme features som DDB CMS. Dem vil brugerne kunne genkende og tage i brug uden videre. Folkebibliotekernes CMS introducerer også nye features som kræver forklaring for både borgere og bibliotekernes medarbejdere. I denne sektion sætter vi spot på de nye features og begreber. Vi...","categories": [],
-        "tags": [],
-        "url": "/main/nye-features/",
-        "teaser": null
-      },{
-        "title": "Intelligente facetter",
-        "excerpt":"Et søgeresultat vises sådan her. Facet-båndet er markeret med rødt. Søgefacetter i et søgeresultat Der findes 12 forskellige facet-bånd, der kan vises for brugerne: Studerende, Børnebøger, Ebøger, Faglitteratur, Film, Film for børn, Lydbøger, Lydbøger for børn, Musik, Skønlitteratur, Spil og Spil for børn. Ud fra det søgeresultat, brugerens søgning har...","categories": ["Søgning"],
-        "tags": [],
-        "url": "/main/nye-features/intelligente-facetter/",
-        "teaser": null
-      },{
-        "title": "Overbygningsmaterialer",
-        "excerpt":"Som noget nyt er det muligt for brugere af Folkebibliotekernes CMS at oprette fjernlån fra Centralbibliotekerne direkte på hjemmesiden, i stedet for at skulle igennem bibliotek.dk. Det er kun overbygningsmaterialerne, der kan bestilles, og kun når I ikke selv har dem i beholdning. For at stille denne funktionalitet til rådighed...","categories": ["Søgning"],
-        "tags": [],
-        "url": "/main/nye-features/overbygningsmaterialer/",
-        "teaser": null
-      },{
-        "title": "Parallelreservering",
-        "excerpt":"I FBS har det længe været en muligt at oprette parallelreserveringer – men det er først med Folkebibliotekernes CMS at det bliver muligt for slutbrugerne selv at oprette dem. Opret reservering Her er en værkvisningsside for et skønlitterært værk, hvor der er to manifestationer i den valgte materialetype (bog). Skønlitterært...","categories": ["Søgning"],
-        "tags": [],
-        "url": "/main/nye-features/parallelreservering/",
-        "teaser": null
-      },{
-        "title": "Rankering af fuzzy match",
-        "excerpt":"Der er kun ét søgefelt i Folkebibliotekernes CMS, og der er rigtig mange, meget forskelligartede brugerbehov. For at kunne understøtte så mange som muligt af disse, benyttes ”fuzzy match”. Ordet “fuzzy” betegner noget der er uskarpt, sløret, ikke helt præcist, og det er dækkende for, hvad der sker. Systemet finder...","categories": ["Søgning"],
-        "tags": [],
-        "url": "/main/nye-features/rankering-og-fuzzy-match/",
-        "teaser": null
-      },{
-        "title": "Strakslåns-notifikation",
-        "excerpt":"Mens man opretter en reservation kan man få en strakslåns-notifikation. Strakslåns-notifikation Du møder strakslåns-notifikationen, når der er reserveringskø på den materialetype, du er ved at reservere OG hvis biblioteket har et eller flere ikke-reserverbare eksemplarer hjemme. Mange biblioteker har ikke-reserverbare eksemplarer i form af “kviklån” eller “kortlån”. I det tilfælde...","categories": ["Søgning"],
-        "tags": [],
-        "url": "/main/nye-features/strakslaansnotifikation/",
-        "teaser": null
-      },{
-        "title": "Værk og manifestation",
-        "excerpt":"Søgeresultater i Folkebibliotekernes CMS leveres fra brønden. Søgninger sendes afsted og resultater modtages via en ny-udviklet snitflade der hedder FBI-API. Den virker helt anderledes end den snitflade der bruges i DDB CMS. FBI-API skelner mellem værker og manifestationer. Det er begreber, der er hentet fra Dublin Core, som er en...","categories": ["Søgning"],
-        "tags": [],
-        "url": "/main/nye-features/vaerk-og-manifestation/",
-        "teaser": null
-      },{
-        "title": "Værkvisningsside",
-        "excerpt":"Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på en materialetype. Filtrerer man på ”Online lydbog”, da vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”. Fra DDB CMS er vi vant...","categories": ["Søgning"],
-        "tags": [],
-        "url": "/main/nye-features/vaerkvisningssiden/",
-        "teaser": null
-      },{
         "title": "Release Notes",
         "excerpt":"Hold dig ajour med de ændringer der sker i Folkebibliotekernes CMS.   Se hvilken release i er på  Når du er logget ind, så kan du se hvilken release, som jeres side er på øverst til venstre i menubaren.          Se hvilken release jeres side er på        ","categories": [],
         "tags": [],
@@ -1239,6 +1185,60 @@ var store = [{
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-220324/",
+        "teaser": null
+      },{
+        "title": "Avanceret søgning og CQL Søgning",
+        "excerpt":"Bemærk: Den komplette liste over alle søgekoder, der kan bruges, findes her: https://fbi-api.dbc.dk/indexmapper/ Når man søger i Folkebibliotekernes CMS, så benyttes som udgangspunkt Simple Search, da det er bygget til at understøtte de hyppigste brugsscenarier. Men der er også brugs-scenarier, hvor der er behov for traditionel feltsøgning. Studerende og undervisere,...","categories": ["Søgning"],
+        "tags": [],
+        "url": "/main/soegning/avanceret-sogning/",
+        "teaser": null
+      },{
+        "title": "Søgning og visning",
+        "excerpt":"Bliv klogere på hvordan simpel søgning og avanceret søgning.   ","categories": [],
+        "tags": [],
+        "url": "/main/soegning/",
+        "teaser": null
+      },{
+        "title": "Intelligente facetter",
+        "excerpt":"Et søgeresultat vises sådan her. Facet-båndet er markeret med rødt. Søgefacetter i et søgeresultat Der findes 12 forskellige facet-bånd, der kan vises for brugerne: Studerende, Børnebøger, Ebøger, Faglitteratur, Film, Film for børn, Lydbøger, Lydbøger for børn, Musik, Skønlitteratur, Spil og Spil for børn. Ud fra det søgeresultat, brugerens søgning har...","categories": ["Søgning"],
+        "tags": [],
+        "url": "/main/soegning/intelligente-facetter/",
+        "teaser": null
+      },{
+        "title": "Overbygningsmaterialer",
+        "excerpt":"Som noget nyt er det muligt for brugere af Folkebibliotekernes CMS at oprette fjernlån fra Centralbibliotekerne direkte på hjemmesiden, i stedet for at skulle igennem bibliotek.dk. Det er kun overbygningsmaterialerne, der kan bestilles, og kun når I ikke selv har dem i beholdning. For at stille denne funktionalitet til rådighed...","categories": ["Søgning"],
+        "tags": [],
+        "url": "/main/soegning/overbygningsmaterialer/",
+        "teaser": null
+      },{
+        "title": "Parallelreservering",
+        "excerpt":"I FBS har det længe været en muligt at oprette parallelreserveringer – men det er først med Folkebibliotekernes CMS at det bliver muligt for slutbrugerne selv at oprette dem. Opret reservering Her er en værkvisningsside for et skønlitterært værk, hvor der er to manifestationer i den valgte materialetype (bog). Skønlitterært...","categories": ["Søgning"],
+        "tags": [],
+        "url": "/main/soegning/parallelreservering/",
+        "teaser": null
+      },{
+        "title": "Rankering af fuzzy match",
+        "excerpt":"Der er kun ét søgefelt i Folkebibliotekernes CMS, og der er rigtig mange, meget forskelligartede brugerbehov. For at kunne understøtte så mange som muligt af disse, benyttes ”fuzzy match”. Ordet “fuzzy” betegner noget der er uskarpt, sløret, ikke helt præcist, og det er dækkende for, hvad der sker. Systemet finder...","categories": ["Søgning"],
+        "tags": [],
+        "url": "/main/soegning/rankering-og-fuzzy-match/",
+        "teaser": null
+      },{
+        "title": "Strakslåns-notifikation",
+        "excerpt":"Mens man opretter en reservation kan man få en strakslåns-notifikation. Strakslåns-notifikation Du møder strakslåns-notifikationen, når der er reserveringskø på den materialetype, du er ved at reservere OG hvis biblioteket har et eller flere ikke-reserverbare eksemplarer hjemme. Mange biblioteker har ikke-reserverbare eksemplarer i form af “kviklån” eller “kortlån”. I det tilfælde...","categories": ["Søgning"],
+        "tags": [],
+        "url": "/main/soegning/strakslaansnotifikation/",
+        "teaser": null
+      },{
+        "title": "Værk og manifestation",
+        "excerpt":"Søgeresultater i Folkebibliotekernes CMS leveres fra brønden. Søgninger sendes afsted og resultater modtages via en ny-udviklet snitflade der hedder FBI-API. Den virker helt anderledes end den snitflade der bruges i DDB CMS. FBI-API skelner mellem værker og manifestationer. Det er begreber, der er hentet fra Dublin Core, som er en...","categories": ["Søgning"],
+        "tags": [],
+        "url": "/main/soegning/vaerk-og-manifestation/",
+        "teaser": null
+      },{
+        "title": "Værkvisningsside",
+        "excerpt":"Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på en materialetype. Filtrerer man på ”Online lydbog”, da vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”. Fra DDB CMS er vi vant...","categories": ["Søgning"],
+        "tags": [],
+        "url": "/main/soegning/vaerkvisningssiden/",
         "teaser": null
       },{
         "title": "Basiskonfiguration - introduktion",
