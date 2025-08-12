@@ -1,5 +1,5 @@
 ---
-title: "Opgave 6: Mapp Intelligence"
+title: "Opgave 5: Mapp Intelligence"
 category: "Basis konfiguration"
 weight: 6
 ---
