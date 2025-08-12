@@ -56,9 +56,9 @@ feature_row:
     title: "Inspiration til formidling"
     excerpt: "Gode eksempler på sideopbygning og brug af formidlingskomponenterne."
     url: "/formidlingsinspiration/"
-  - image_path: /assets/images/new-features.png
-    alt: "Nye features i Folkebibliotekernes CM"
-    title: "Nye features"
+  - image_path: /assets/images/soegning.png
+    alt: "Simpel- og avanceret søgning. Værk- og materialevisning"
+    title: "Søgning"
     excerpt: "Få overblik over hvad er nyt i forhold til DDB CMS."
     url: "/nye-features/"
   - image_path: /assets/images/content.jpg
@@ -71,6 +71,7 @@ feature_row:
 ---
 
 {% include feature_row %}
+
 
 
 
