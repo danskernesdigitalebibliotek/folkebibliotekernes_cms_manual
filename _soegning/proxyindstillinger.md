@@ -1,7 +1,6 @@
 ---
-title: "Opgave 6: Fjernadgang - Proxy indstillinger"
-category: "Basis konfiguration"
-weight: 7
+title: "Fjernadgang - Proxy indstillinger"
+category: "VIP og proxy"
 ---
 
 Søgefeltet på hjemmesiden kan vise resultater fra elektroniske ressourcer, som biblioteket abonnerer på. Hvilke kilder der skal være søgbare, beslutter I selv via VIP søgeprofilen.

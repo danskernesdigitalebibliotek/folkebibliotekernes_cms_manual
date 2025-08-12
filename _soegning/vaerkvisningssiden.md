@@ -1,6 +1,6 @@
 ---
 title: "Værkvisningsside"
-category: "Søgning"
+category: "Om visning og reservering"
 ---
 
 Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på en materialetype. Filtrerer man på ”Online lydbog”, da vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”. 

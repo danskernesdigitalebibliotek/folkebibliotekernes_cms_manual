@@ -1,6 +1,6 @@
 ---
 title: "Rankering af fuzzy match"
-category: "Søgning"
+category: "Om søgning"
 ---
 Der er kun ét søgefelt i Folkebibliotekernes CMS, og der er rigtig mange, meget forskelligartede brugerbehov. For at kunne understøtte så mange som muligt af disse, benyttes ”fuzzy match”.
 

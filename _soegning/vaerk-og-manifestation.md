@@ -1,6 +1,6 @@
 ---
 title: "Værk og manifestation"
-category: "Søgning"
+category: "Om visning og reservering"
 ---
 Søgeresultater i  Folkebibliotekernes CMS leveres fra [brønden](https://www.dbc.dk/fbi/databronden){:target="_blank" rel="noopener"}. Søgninger sendes afsted og resultater modtages via en ny-udviklet snitflade der hedder [FBI-API](https://fbi-api.dbc.dk/){:target="_blank" rel="noopener"}. Den virker helt anderledes end den snitflade der bruges i DDB CMS.
 

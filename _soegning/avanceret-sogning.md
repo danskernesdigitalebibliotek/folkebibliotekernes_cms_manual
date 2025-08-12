@@ -1,6 +1,6 @@
 ---
 title: "Avanceret søgning og CQL Søgning"
-category: "Søgning"
+category: "Om søgning"
 ---
 
 Bemærk: Den komplette liste over alle søgekoder, der kan bruges, findes her: [https://fbi-api.dbc.dk/indexmapper/](https://fbi-api.dbc.dk/indexmapper/)

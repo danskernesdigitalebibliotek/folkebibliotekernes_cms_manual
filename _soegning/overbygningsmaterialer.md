@@ -1,6 +1,6 @@
 ---
 title: "Overbygningsmaterialer"
-category: "Søgning"
+category: "Om søgning"
 ---
 
 Som noget nyt er det muligt for brugere af Folkebibliotekernes CMS at oprette fjernlån fra Centralbibliotekerne direkte på hjemmesiden, i stedet for at skulle igennem bibliotek.dk.
