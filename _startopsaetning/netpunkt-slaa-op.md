@@ -1,6 +1,7 @@
 ---
 title: "Slå-op funktion i Netpunkt"
 category: "Go-live"
+weight: 3
 ---
 ### Denne opgave skal løses, når I er gået i drift med det nye site.
 {: .notice--info}
