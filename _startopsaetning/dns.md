@@ -3,52 +3,61 @@ title: "DNS opsætning"
 category: Go-live
 ---
 **DNS** står for Domain Name Service. Det er DNS registreringen der gør, at jeres hjemmeside adresse virker og peger hen på det rigtige website. 
+Biblioteket har ansvaret for at lave DNS registreringen. 
 
-Biblioteket har ansvaret for at lave DNS registreringen. Nogle biblioteker står selv for DNS-opsætningen, mens andre får hjælp af IT-afdelingen i deres kommune.
-I skal finde ud af, hvem der står for jeres DNS-opsætning, og sikre jer at I har adgang til at få lavet en ny DNS registrering, den dag I vil lancerer jeres website.
+I nogle kommuner er det biblioteket selv står selv for DNS-opsætningen, mens andre får hjælp af IT-afdelingen i deres kommune.
 
+**I skal finde ud af, hvem der står for jeres DNS-opsætning, og sikre jer at I har adgang til at få lavet en ny DNS registrering, den dag I vil lancerer jeres website.**
+
+## Find ud af hvem der står for jeres DNS-opsætning
 Sådan gør du:
 1.	Gå til: [https://who.is/](https://who.is/) og indtast jeres nuværende domænenavn f.eks. *albertslundbibliotek.dk*
 2.	Vælg punktet **DNS record**:
       {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d58f2bb4-308b-4434-b9af-b1d0a83877a7" alt="Slå op på https://who.is og find ud af hvem der hoster jeres DNS-opsætning" caption="Slå op på https://who.is og find ud af hvem der hoster jeres DNS-opsætning" %}
-4.	I dette tilfælde kan du se at udbyderen Gigahost.dk er ansvarlig for DNS opsætningen (andre eksempler er drabib.dk som anvender eurodns.com, bibliotek.kk.dk anvender One.com og bronderslevbib.dk anvender både DBC og KMD).
-5. Kontakt den person eller afdeling hos kommunen som er ansvarlig for jeres hjemmesides tekniske drift og har adgang til Gigahost.dk (spørg efter en som kender alt til A-records, MX-records, CNAME m.v.)
-6. Med DDF aftales hvilken dato og tidspunkt, I går live.  I kan selv vælge hvilken ugedag I ønsker at gå live - dog ikke en fredag aht muligheden for at kunne tilrette div. opsætninger inden weekenden, såfremt det skulle være nødvendigt.
-7. Før golive dagen:\
-   a. I bør bede jeres leverandør om at sænke TTL (time-to-live) til **600** på jeres domæne, for at sikre en hurtig overgang. Ellers kan der gå flere timer, før alle ser den nye side.
-   b. Har man CAA records, skal man følge denne guides eksempel 1, 2 eller 3, for at sikre at vi kan udstede et certifikat til sitet: https://help.zerossl.com/hc/en-us/articles/360060119753-Invalid-CAA-Records. Hvis ikke man ved hvilket eksempel der er bedst, så kontakt DDF for hjælp.
-9. På golive dagen:\
-   a. Ret alle DNS A-records for jeres domæner til at pege på følgende IP-adresse: **20.86.109.250**
-   b. Ret alle DNS CNAME-records for jeres domæner til at pege på følgende domæne: **cluster-1.folkebibliotekernescms.dk**
-10. Efter golive:\
-   a. I skal bede jeres DNS udbyder om at hæve TTL på jeres domæner igen.
-11. Bed den teknisk ansvarlige om at teste, at alle dele af den nye opsætning fungerer: e-mail, domæne omdirigeringer, certifikater m.m.
-12. Efter golive kan I finde den gamle hjemmeside på adressen **[kommune].ddbcms.dk** Her vil den være tilgængelig indtil jeres kontrakt med DBC udløber.
+3.	I dette tilfælde kan du se at udbyderen Gigahost.dk er ansvarlig for DNS opsætningen (andre eksempler er drabib.dk som anvender eurodns.com, bibliotek.kk.dk anvender One.com og bronderslevbib.dk anvender både DBC og KMD).
+4. Kontakt den person eller afdeling hos kommunen som er ansvarlig for jeres hjemmesides tekniske drift og har adgang til Gigahost.dk (spørg efter en som kender alt til A-records, MX-records, CNAME m.v.)
 
+## Aftal go-live dato med DDF
+- Med DDF aftales hvilken dato og tidspunkt, I går live.  I kan selv vælge hvilken ugedag I ønsker at gå live - dog ikke en fredag aht muligheden for at kunne tilrette div. opsætninger inden weekenden, såfremt det skulle være nødvendigt.
+- Hvis I har kommunens IT-afdeling til at hjælpe jer med DNS-opsætningen, så book dem på go-live dagen
+- Send nedenstående vejledning til teknikerne der skal ændre jeres DNS-indstillinger
+
+## DNS opgaven (skrevet til teknikere)
+### Nogle dage før go-live dagen
+ - I bør bede jeres leverandør om at sænke TTL (time-to-live) til **600** på jeres domæne, for at sikre en hurtig overgang. Ellers kan der gå flere timer, før alle ser den nye side.
+ - Har man CAA records, skal man følge denne guides eksempel 1, 2 eller 3, for at sikre at vi kan udstede et certifikat til sitet: https://help.zerossl.com/hc/en-us/articles/360060119753-Invalid-CAA-Records. Hvis ikke man ved hvilket eksempel der er bedst, så kontakt DDF for hjælp.
+   
+### På go-live dagen
+1. Ret alle DNS A-records for jeres biblioteksdomæner til at pege på følgende IP-adresse: **20.86.109.250**
+
+2. Ret alle DNS CNAME-records for jeres biblioteksdomæner til at pege på følgende domæne: **cluster-1.folkebibliotekernescms.dk**
+
+3. Opret to nye DNS CNAME records til GO subdomænerne.
+
+      Begge subdomæner SKAL oprettes. Også selvom I tænker, at I kun vil bruge det ene.
+      
+         
+      | Hostname                   | Alias for                              | TTL  |
+      |----------------------------|----------------------------------------|------|
+      | go.biblioteksdomæne.dk     | cluster-1.folkebibliotekernescms.dk     | 3600 |
+      | www.go.biblioteksdomæne.dk | cluster-1.folkebibliotekernescms.dk     | 3600 |
+      
+      
+   Her er vist et eksempel med *herningbib.dk*. I skal  udskifte *biblioteksdomæne.dk* med jeres domænenavn.
+      
+      | Hostname                   | Alias for                              | TTL  |
+      |----------------------------|----------------------------------------|------|
+      | go.herningbib.dk    | cluster-1.folkebibliotekernescms.dk     | 3600 |
+      | www.go.herningbib.dk | cluster-1.folkebibliotekernescms.dk     | 3600 |
+
+
+### Efter go-live:
+ - I skal bede jeres DNS udbyder om at hæve TTL på jeres domæner igen.
+ - Bed den teknisk ansvarlige om at teste, at alle dele af den nye opsætning fungerer: e-mail, domæne omdirigeringer, certifikater m.m.
+
+## SSL-certifikater
 I skal ikke gøre noget ifm. **SSL certifikater**, som dannes fra vores side vha. Lets Encrypt af Reload. I kan dog først de dem efter go live.
-{: .notice--primary}
 
+## Nyt domænenavn
 Hvis I ønsker at købe nye domænenavne eller tjekke oplysninger for eksisterende, sker det her: punktum.dk (tidligere kaldet DK-Hostmaster)
 Bemærk at nye .dk domæner både kan købes hos Punktum.dk samt via forhandlere af webhotel, typisk som en del af en pakke. 
-
-Detaljeret forklaring af hvad der sker i praksis når en bruger indtaster jeres biblioteksdomæne navn i en browser eller klikker på et link med jeres domænenavn:
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/deac92ed-a010-4183-9b54-28a9a0f7a9a6" alt="Sådan virker DNS opslag i praksis" caption="Sådan virker DNS opslag i praksis" %} 
-
-
-Guide til GO subdomæne opsætning
-Denne guide informere om hvordan subdomænet skal sættes for jeres bibliotek.
-Vejledning
-Gå ind på jeres webhotels control panel (eller der, hvor DNS'en for domænet styres fra). Gå til DNS indstillinger. DNS indstillinger kan i nogle tilfælde være gemt væk under en tab eller en side som kan hedde noget i stil med avancerede indstillinger.
-Når DNS indstillinger er fundet, tryk da på ny record eller, hvis siden er på engelsk: create new record. Der skal nu være mulighed for at vælge en record type og der vælges CNAME som type.
-Der skal nu være mindst 2 felter og helst 3. De felter skulle gerne være hostname, alias for og TTL.
-I Hostname skrive for f.eks. Hernings bibliotek www.go.herningbib.dk. I Alias for skrives cluster-1.folkebibliotekernescms.dk og i TTL skrives der 3600.
-For de biblioteker som også har et sekundært domæne, er proceduren den samme for det sekundære domæne. Der skal også oprettes en CNAME record for denne. I Hernings tilfælde ville den skulle udfyldes som følger:
-Hostname go.herningbib.dk
-Alias for cluster-1.folkebibliotekernescms.dk
-TTL 3600
-Opsummering
-Der skal for de domæner biblioteket benytte oprettes en CNAME DNS record per domæne. Alle CNAME records der oprettes for subdomænet skal have Aliaset cluster-1.folkebibliotekernescms.dk
-samt en TTL ppå 3600.
-Subdomænet, som skal skrives is hostnavn-feltet skal have en af følgende udformninger:
-- www.go.biblioteksdomæne.dk
-- go.biblioteksdomæne.dk
