@@ -89,7 +89,7 @@ collections:
   indhold:
     output: true
     permalink: /:collection/:path/
-  nye-features:
+  soegning:
     output: true
     permalink: /:collection/:path/
   bliv-klar-til-folkebibliotekernes-cms:
@@ -153,10 +153,10 @@ defaults:
       share: false
       comments: false
       sidebar: true
-  # _nye-features
+  # _soegning
   - scope:
       path: ""
-      type: nye-features
+      type: soegning
     values:
       layout: single
       classes: wide

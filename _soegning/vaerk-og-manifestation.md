@@ -12,6 +12,6 @@ Her er en skematisk oversigt over hvordan der skelnes mellem værk og manifestat
 
 Indførelsen af det nye værk-begreb betyder et større fokus på indhold, og et mindre på form, eftersom det nu er hele værket, der formidles - f. eks. ”Kongens Fald”, ikke ”Lydbogs-udgaven på MP3-cd af Kongens Fald”.
 
-Der er flere **fordele ved værk-begrebet**. En af de vigtigste er, at alle manifestationer af samme værk nu er samlet på en [værkvisningsside]({{ site.baseurl }}{% link _nye-features/vaerkvisningssiden.md %}). Førhen når der kom en ny udgave, så kom der også en ny materialeside, hvilket ofte førte til, at den nye udgave af en populær titel trak reserveringskøen, mens de ældre udgaver stod uberørte hen. Nu vil reserveringen fordele sig på alle udgaver af værket.
+Der er flere **fordele ved værk-begrebet**. En af de vigtigste er, at alle manifestationer af samme værk nu er samlet på en [værkvisningsside]({{ site.baseurl }}{% link _soegning/vaerkvisningssiden.md %}). Førhen når der kom en ny udgave, så kom der også en ny materialeside, hvilket ofte førte til, at den nye udgave af en populær titel trak reserveringskøen, mens de ældre udgaver stod uberørte hen. Nu vil reserveringen fordele sig på alle udgaver af værket.
 
 Desuden bringer øget fokus på værket os et skridt nærmere RDA, den nye katalogiseringsstandard, som DBC arbejder hen imod en indførelse af.

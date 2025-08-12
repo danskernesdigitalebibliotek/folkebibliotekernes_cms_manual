@@ -24,7 +24,7 @@ Hvis du skal bruge søgestrengen i komponenten **Materialekomponent - automatisk
 
 {% include figure image_path="https://github.com/user-attachments/assets/f14afd0d-374a-4864-8fed-48fce75a752d" alt="Indsæt søgestrengen i CQL Search-feltet" caption="Indsæt søgestrengen i CQL Search-feltet" %}
 
-[Læs mere om avanceret søgning og CQL søgning](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/nye-features/avanceret-sogning/)
+[Læs mere om avanceret søgning og CQL søgning](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/soegning/avanceret-sogning/)
 
 [Link til FBI-API's Complex Search Documentation](https://fbi-api.dbc.dk/indexmapper/){:target="_blank" rel="noopener"}
 

@@ -60,7 +60,7 @@ feature_row:
     alt: "Simpel- og avanceret søgning. Værk- og materialevisning"
     title: "Søgning"
     excerpt: "Simpel- og avanceret søgning. Værk- og materialevisning."
-    url: "/nye-features/"
+    url: "/soegning/"
   - image_path: /assets/images/content.jpg
     alt: "Guidelines til god webkommunikation"
     title: "Guidelines til god webkommunikation"

@@ -31,7 +31,7 @@ De kilder, som I ønsker, at brugerne kan søge i på jeres hjemmeside. Det er s
 Tilføj kilden "Bibliotekets poster med aktive beholdninger - for FBS biblioteker". 
 
 **3. Overbygningsmaterialer**\
-Tilføj kilden ”Overbygningsmaterialer” hvis I ønsker, at brugerne skal kunne fremsøge centralbibliotekernes materialer og oprette fjernlån direkte fra Folkebibliotekernes CMS. Læs mere om [overbygningsmaterialer]({{ site.baseurl }}{% link _nye-features/overbygningsmaterialer.md %}).
+Tilføj kilden ”Overbygningsmaterialer” hvis I ønsker, at brugerne skal kunne fremsøge centralbibliotekernes materialer og oprette fjernlån direkte fra Folkebibliotekernes CMS. Læs mere om [overbygningsmaterialer]({{ site.baseurl }}{% link _soegning/overbygningsmaterialer.md %}).
 
 {% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/22dfeac7-4a4f-4a7f-8710-95b7efb70f9e" alt="Visningsprofilen skal IKKE have flueben i Tilføj alle visningskilder" caption="Søgeprofilen skal IKKE have flueben i Tilføj alle visningskilder" %} 
 
