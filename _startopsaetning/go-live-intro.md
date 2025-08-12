@@ -1,6 +1,7 @@
 ---
 title: Introduktion til Go-live
 category: Go-live
+weight: 1
 ---
 
 Go-live datoen er den dag, hvor jeres nye website bliver synligt på internettet, og hvor jeres brugere får adgang til siden.
