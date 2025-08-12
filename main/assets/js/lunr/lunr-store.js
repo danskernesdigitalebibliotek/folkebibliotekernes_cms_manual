@@ -869,12 +869,6 @@ var store = [{
         "url": "/main/nye-features/",
         "teaser": null
       },{
-        "title": "Huskelisten",
-        "excerpt":"Hjerteikonet Hjerteikonet er symbol på Huskelisten, som brugerne vil kunne genkende fra andre websteder. Tilføj/slet fungerer helt simpelt: et klik – hvorved hjertet udfyldes og værket er sat på listen, klik igen og værket er slettet fra listen. Hjerteikonet er symbol for huskeliste Hjerteikonet optræder på alle værker, i materialekomponent...","categories": ["Lånerstatus og brugerprofil"],
-        "tags": [],
-        "url": "/main/nye-features/huskeliste/",
-        "teaser": null
-      },{
         "title": "Intelligente facetter",
         "excerpt":"Et søgeresultat vises sådan her. Facet-båndet er markeret med rødt. Søgefacetter i et søgeresultat Der findes 12 forskellige facet-bånd, der kan vises for brugerne: Studerende, Børnebøger, Ebøger, Faglitteratur, Film, Film for børn, Lydbøger, Lydbøger for børn, Musik, Skønlitteratur, Spil og Spil for børn. Ud fra det søgeresultat, brugerens søgning har...","categories": ["Søgning"],
         "tags": [],
