@@ -1,6 +1,6 @@
 ---
 title: "Biblioteker"
-category: "Formidlingsinspiration"
+category: "Struktur og indhold"
 ---
 
 Start med oprette alle jeres biblioteker (branches) under indhold. 

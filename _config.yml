@@ -94,9 +94,6 @@ collections:
   integrationer:
     output: true
     permalink: /:collection/:path/
-  formidlingsinspiration:
-    output: true
-    permalink: /:collection/:path/
   release-notes:
     output: true
     permalink: /overblik/:collection/:path/
@@ -166,19 +163,6 @@ defaults:
   - scope:
       path: ""
       type: startopsaetning
-    values:
-      layout: single
-      classes: wide
-      toc: false
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar: true
-  # _formidlingsinspiration
-  - scope:
-      path: ""
-      type: formidlingsinspiration
     values:
       layout: single
       classes: wide

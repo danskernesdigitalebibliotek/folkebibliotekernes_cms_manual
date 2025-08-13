@@ -1,6 +1,6 @@
 ---
 title: "Digitale tilbud"
-category: "Formidlingsinspiration"
+category: "Struktur og indhold"
 ---
 Folkebibliotekernes CMS er ikke født med en linksamling til digitale tilbud (licenser, netmedier eller hvad I kalder det). Derfor skal I selv opbygge en side med dem.
 

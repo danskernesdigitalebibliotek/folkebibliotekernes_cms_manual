@@ -1,6 +1,6 @@
 ---
 title: "Personalesiden"
-category: "Formidlingsinspiration"
+category: "Struktur og indhold"
 ---
 Folkebibliotekernes CMS er ikke født med en personaleside, så man skal selv være kreativ, hvis den skal opbygges. 
 

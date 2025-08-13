@@ -51,11 +51,6 @@ feature_row:
     title: "Onboarding af ny kommune"
     excerpt: "Trin for trin: Opbyg en bibliotekshjemmeside i Folkebibliotekernes CMS."
     url: "/startopsaetning/"
-  - image_path: /assets/images/inspiration.png
-    alt: "Formidlingsinspiration i Folkebibliotekernes CMS"
-    title: "Inspiration til formidling"
-    excerpt: "Gode eksempler på sideopbygning og brug af formidlingskomponenterne."
-    url: "/formidlingsinspiration/"
   - image_path: /assets/images/soegning.png
     alt: "Simpel- og avanceret søgning. Værk- og materialevisning"
     title: "Søgning og visning"

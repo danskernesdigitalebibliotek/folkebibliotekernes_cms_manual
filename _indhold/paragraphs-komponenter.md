@@ -11,7 +11,7 @@ Klik på **+ Add** for at tilføje de paragraphs, som du ønsker, at din side sk
 
 Paragraphs kan tilføjes både over og under allerede indsatte paragraphs.
 
-Du kan få inspiration til hvordan du kan sammensætte komponenterne i guiden [Formidlingsinspiration]({{ site.baseurl }}{% link _formidlingsinspiration/forsiden.md %}).
+Du kan få inspiration til hvordan du kan sammensætte komponenterne i guiden [her]({{ site.baseurl }}{% link _startopsaetning/struktur-indhold-intro.md %}).
 
 ## Formidlingskomponenter
 Her er de visuelle navigationskomponenter, som kan henvise til og fremvise indhold på sitet.
