@@ -22,4 +22,4 @@ Releasedato: 13-08-2025
 
 - Pauseperiode for reserveringer: Datovælger starter nu på dags dato. Tidligere startede den i august 2026. 
 
-- Webmasterbiblioteker: Tilpasning af proces for synkronisering mellem produktions- og testsite. Det løser fejl hvor bl.a. Asset Injector blev vist anderledes på webmasterbibliotekers testsite end på produktionsmiljøet efter synkronisering mellem miljøerne. 
+- Webmasterbiblioteker: Mindre ændring af proces for synkronisering mellem produktions- og testsite. Tilpasningen løser fejl hvor redigeringsfelt i Asset Injector blev vist anderledes på webmasterbibliotekers testsite end på produktionsmiljøet selvom der umiddelbart inden var synkroniseret mellem miljøerne. 
