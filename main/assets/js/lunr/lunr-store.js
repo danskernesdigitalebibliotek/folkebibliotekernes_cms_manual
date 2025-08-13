@@ -1,82 +1,4 @@
 var store = [{
-        "title": "Opgave 10: Opret søge- og visningsprofil i VIP",
-        "excerpt":"Hjemmesiden henter data fra databrønden i mange forskellige sammenhænge, og disse sammenhænge kan overordnet inddeles i søgning og visning. Folkebibliotekernes CMS kræver to brøndprofiler i VIP-basen - en søgeprofil og en visningsprofil. I kan allerede nu bygge de to brøndprofiler. I må selv bestemme hvad de skal hedde. Kald dem...","categories": ["Overgangsaktiviter"],
-        "tags": [],
-        "url": "/main/bliv-klar-til-folkebibliotekernes-cms/10vip-profiler/",
-        "teaser": null
-      },{
-        "title": "Opgave 11: DNS opsætning",
-        "excerpt":"DNS står for Domain Name Service. Det er DNS registreringen der gør, at jeres hjemmeside adresse virker og peger hen på det rigtige website. Når I skifter fra DDB CMS til Folkebibliotekernes CMS skal jeres hjemmeside adresse (domænenavn) pege på en ny webserver (ip-adresse). I er selv ansvarlige for at...","categories": ["Overgangsaktiviter"],
-        "tags": [],
-        "url": "/main/bliv-klar-til-folkebibliotekernes-cms/11dns/",
-        "teaser": null
-      },{
-        "title": "Opgave 12: Slå-op funktion i Netpunkt",
-        "excerpt":"Denne opgave skal løses, når I er gået i drift med det nye site. I Netpunkt findes en Er hjemme - slå op funktion. Den linker til beholdningsvisning for en titel i bibliotekets eget CMS. Netpunkt skal kende url-strukturen I jeres nye CMS, for at funktionen virker. Den skal I...","categories": ["Overgangsaktiviter"],
-        "tags": [],
-        "url": "/main/bliv-klar-til-folkebibliotekernes-cms/12netpunkt-slaa-op/",
-        "teaser": null
-      },{
-        "title": "Opgave 1: Projektorganisering på biblioteket",
-        "excerpt":"Målet med denne opgave er at få etableret en fornuftig organisering af arbejdet med at implementere Folkebibliotekernes CMS. Beskrivelse I skal nu til at opbygge en helt ny hjemmeside, og det kommer til at tage noget tid. Derfor er det vigtigt, at I får styr på, hvem der skal gøre...","categories": ["Overgangsaktiviter"],
-        "tags": [],
-        "url": "/main/bliv-klar-til-folkebibliotekernes-cms/1projektorganisering-paa-biblioteket/",
-        "teaser": null
-      },{
-        "title": "Opgave 2: Tilretning af logo til nyt design ",
-        "excerpt":"Det kan godt tage tid at designe et nyt logo, så tænk allerede nu over, om bibliotekets logo overholder de krav, der er til det nye CMS. Måske får det betydning for hele bibliotekets visuelle identitet, så det er vigtigt hurtigst muligt at få det på plads. Metode og fremgangsmåde...","categories": ["Overgangsaktiviter"],
-        "tags": [],
-        "url": "/main/bliv-klar-til-folkebibliotekernes-cms/2logo/",
-        "teaser": null
-      },{
-        "title": "Opgave 3: Identitetsfarve",
-        "excerpt":"Bibliotekets egen unikke identitetsfarve bruges på en lang række elementer i brugergrænsefladen. I har måske haft flere farver på jeres nuværende hjemmeside, men nu skal I kun vælge en. Metode og fremgangsmåde I skal vælge en identitetsfarve for jeres hjemmeside. I skal vælge en stærk og ren farve, da den...","categories": ["Overgangsaktiviter"],
-        "tags": [],
-        "url": "/main/bliv-klar-til-folkebibliotekernes-cms/3identitetsfarve/",
-        "teaser": null
-      },{
-        "title": "Opgave 4: Informationsarkitektur og navigation",
-        "excerpt":"Det er designbureauet Dept, der har lavet grunddesign til Folkebibliotekernes CMS. Det bygger på et navigationsprincip, som hedder navigation hub konceptet. Idéen er at bygge en dyb navigationsstruktur med få menupunkter i hovedmenuen, så brugeren præsenteres for få simple valg. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Via navigationselementer på disse...","categories": ["Overgangsaktiviter"],
-        "tags": [],
-        "url": "/main/bliv-klar-til-folkebibliotekernes-cms/4informationsarkiktektur/",
-        "teaser": null
-      },{
-        "title": "Opgave 5: Udvælg indhold der skal flyttes med over",
-        "excerpt":"En flytning kan være en god lejlighed til at få ryddet op i gammelt indhold. I denne opgave får I nogle tips til at få kvalificeret det indhold, som skal med over på den nye hjemmeside. Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal flyttes...","categories": ["Overgangsaktiviter"],
-        "tags": [],
-        "url": "/main/bliv-klar-til-folkebibliotekernes-cms/5oprydning/",
-        "teaser": null
-      },{
-        "title": "Opgave 6: Forbered nyt indhold, hvor det er påkrævet",
-        "excerpt":"Ikke alle komponenter og indholdstyper i det gamle CMS findes i det nye CMS. Nogle udvikles slet ikke og andre når ikke at blive klar inden indflytningsdatoen. Her er en oversigt over indhold, som I skal gentænke, hvis det skal overføres til Folkebibliotekernes CMS. Metode og fremgangsmåde Læs dette afsnit...","categories": ["Overgangsaktiviter"],
-        "tags": [],
-        "url": "/main/bliv-klar-til-folkebibliotekernes-cms/6forbered-indhold/",
-        "teaser": null
-      },{
-        "title": "Opgave 7: Billeder og filer/ nyt billedmateriale",
-        "excerpt":"Et billede siger mere end 1000 ord. Det ordsprog kender de fleste af os efterhånden, og der er noget om snakken. Billeder er visuelle udtryk, der kan give bedre forståelse for dit indhold på hjemmesiden, samtidig med at det gør teksten letfordøjelig. Med denne opgave skal I tage stilling til...","categories": ["Overgangsaktiviter"],
-        "tags": [],
-        "url": "/main/bliv-klar-til-folkebibliotekernes-cms/7billedmateriale/",
-        "teaser": null
-      },{
-        "title": "Opgave 8: Taksonomi - kategorier og tags",
-        "excerpt":"I Folkebibliotekernes CMS har tags og kategorier som i DDB CMS. Både kategorier og tags kan bruges på tværs af indholdstyper. Tags og kategorier anvendes til filtrering af indhold i lister og komponenter. For eksempel kan en slider (nyheds- eller artikelkarrusel) på en sektionsside sættes op til at kun at...","categories": ["Overgangsaktiviter"],
-        "tags": [],
-        "url": "/main/bliv-klar-til-folkebibliotekernes-cms/8taksonomi/",
-        "teaser": null
-      },{
-        "title": "Opgave 9: Overblik over integrationer",
-        "excerpt":"Integrationerne på jeres hjemmeside har stor betydning for de muligheder og tilbud I tilbyder jeres brugere. Derfor er det vigtigt at se på inden overgangen til den nye hjemmeside, så I tager højde for disse funktioner – også på det nye site. Mål Målet med denne opgave er at danne...","categories": ["Overgangsaktiviter"],
-        "tags": [],
-        "url": "/main/bliv-klar-til-folkebibliotekernes-cms/9integrationer/",
-        "teaser": null
-      },{
-        "title": "Bliv klar til Folkebibliotekernes CMS",
-        "excerpt":"Her kan I danne jer et overblik over de aktiviteter, I skal igennem ifm. overgangen til Folkebibliotekernes CMS. Tag stilling til indholdet på jeres nuværende website og skitsér en plan for det nye. Kig på de nye designelementer og lad jer inspirere til en ny måde at strukturere og vise...","categories": [],
-        "tags": [],
-        "url": "/main/bliv-klar-til-folkebibliotekernes-cms/",
-        "teaser": null
-      },{
         "title": "Basis konfiguration",
         "excerpt":"Basis konfiguration  ","categories": [],
         "tags": [],
@@ -765,6 +687,84 @@ var store = [{
         "excerpt":"Webformular oversigten I topmenuen klik på Struktur &gt; Webformularer eller åbn https://mit-domænenavn.dk/admin/structure/webform (udskift mit-domænenavn.dk) Du kommer ind på en oversigt over webformularer, som du har oprettet. Her ligger også jeres Kontaktformular. Vil du ændre en webformular skal du trykke på Byg ude til højre. Indlejring af webformularer på sider, artikler og arrangementer...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/main/indhold/webforms/",
+        "teaser": null
+      },{
+        "title": "Opgave 10: Opret søge- og visningsprofil i VIP",
+        "excerpt":"Hjemmesiden henter data fra databrønden i mange forskellige sammenhænge, og disse sammenhænge kan overordnet inddeles i søgning og visning. Folkebibliotekernes CMS kræver to brøndprofiler i VIP-basen - en søgeprofil og en visningsprofil. I kan allerede nu bygge de to brøndprofiler. I må selv bestemme hvad de skal hedde. Kald dem...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/main/integrationer/10vip-profiler/",
+        "teaser": null
+      },{
+        "title": "Opgave 11: DNS opsætning",
+        "excerpt":"DNS står for Domain Name Service. Det er DNS registreringen der gør, at jeres hjemmeside adresse virker og peger hen på det rigtige website. Når I skifter fra DDB CMS til Folkebibliotekernes CMS skal jeres hjemmeside adresse (domænenavn) pege på en ny webserver (ip-adresse). I er selv ansvarlige for at...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/main/integrationer/11dns/",
+        "teaser": null
+      },{
+        "title": "Opgave 12: Slå-op funktion i Netpunkt",
+        "excerpt":"Denne opgave skal løses, når I er gået i drift med det nye site. I Netpunkt findes en Er hjemme - slå op funktion. Den linker til beholdningsvisning for en titel i bibliotekets eget CMS. Netpunkt skal kende url-strukturen I jeres nye CMS, for at funktionen virker. Den skal I...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/main/integrationer/12netpunkt-slaa-op/",
+        "teaser": null
+      },{
+        "title": "Opgave 1: Projektorganisering på biblioteket",
+        "excerpt":"Målet med denne opgave er at få etableret en fornuftig organisering af arbejdet med at implementere Folkebibliotekernes CMS. Beskrivelse I skal nu til at opbygge en helt ny hjemmeside, og det kommer til at tage noget tid. Derfor er det vigtigt, at I får styr på, hvem der skal gøre...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/main/integrationer/1projektorganisering-paa-biblioteket/",
+        "teaser": null
+      },{
+        "title": "Opgave 2: Tilretning af logo til nyt design ",
+        "excerpt":"Det kan godt tage tid at designe et nyt logo, så tænk allerede nu over, om bibliotekets logo overholder de krav, der er til det nye CMS. Måske får det betydning for hele bibliotekets visuelle identitet, så det er vigtigt hurtigst muligt at få det på plads. Metode og fremgangsmåde...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/main/integrationer/2logo/",
+        "teaser": null
+      },{
+        "title": "Opgave 3: Identitetsfarve",
+        "excerpt":"Bibliotekets egen unikke identitetsfarve bruges på en lang række elementer i brugergrænsefladen. I har måske haft flere farver på jeres nuværende hjemmeside, men nu skal I kun vælge en. Metode og fremgangsmåde I skal vælge en identitetsfarve for jeres hjemmeside. I skal vælge en stærk og ren farve, da den...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/main/integrationer/3identitetsfarve/",
+        "teaser": null
+      },{
+        "title": "Opgave 4: Informationsarkitektur og navigation",
+        "excerpt":"Det er designbureauet Dept, der har lavet grunddesign til Folkebibliotekernes CMS. Det bygger på et navigationsprincip, som hedder navigation hub konceptet. Idéen er at bygge en dyb navigationsstruktur med få menupunkter i hovedmenuen, så brugeren præsenteres for få simple valg. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Via navigationselementer på disse...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/main/integrationer/4informationsarkiktektur/",
+        "teaser": null
+      },{
+        "title": "Opgave 5: Udvælg indhold der skal flyttes med over",
+        "excerpt":"En flytning kan være en god lejlighed til at få ryddet op i gammelt indhold. I denne opgave får I nogle tips til at få kvalificeret det indhold, som skal med over på den nye hjemmeside. Der er ingen minimumskrav til hvor mange sider, artikler, licenser osv. der skal flyttes...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/main/integrationer/5oprydning/",
+        "teaser": null
+      },{
+        "title": "Opgave 6: Forbered nyt indhold, hvor det er påkrævet",
+        "excerpt":"Ikke alle komponenter og indholdstyper i det gamle CMS findes i det nye CMS. Nogle udvikles slet ikke og andre når ikke at blive klar inden indflytningsdatoen. Her er en oversigt over indhold, som I skal gentænke, hvis det skal overføres til Folkebibliotekernes CMS. Metode og fremgangsmåde Læs dette afsnit...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/main/integrationer/6forbered-indhold/",
+        "teaser": null
+      },{
+        "title": "Opgave 7: Billeder og filer/ nyt billedmateriale",
+        "excerpt":"Et billede siger mere end 1000 ord. Det ordsprog kender de fleste af os efterhånden, og der er noget om snakken. Billeder er visuelle udtryk, der kan give bedre forståelse for dit indhold på hjemmesiden, samtidig med at det gør teksten letfordøjelig. Med denne opgave skal I tage stilling til...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/main/integrationer/7billedmateriale/",
+        "teaser": null
+      },{
+        "title": "Opgave 8: Taksonomi - kategorier og tags",
+        "excerpt":"I Folkebibliotekernes CMS har tags og kategorier som i DDB CMS. Både kategorier og tags kan bruges på tværs af indholdstyper. Tags og kategorier anvendes til filtrering af indhold i lister og komponenter. For eksempel kan en slider (nyheds- eller artikelkarrusel) på en sektionsside sættes op til at kun at...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/main/integrationer/8taksonomi/",
+        "teaser": null
+      },{
+        "title": "Opgave 9: Overblik over integrationer",
+        "excerpt":"Integrationerne på jeres hjemmeside har stor betydning for de muligheder og tilbud I tilbyder jeres brugere. Derfor er det vigtigt at se på inden overgangen til den nye hjemmeside, så I tager højde for disse funktioner – også på det nye site. Mål Målet med denne opgave er at danne...","categories": ["Overgangsaktiviter"],
+        "tags": [],
+        "url": "/main/integrationer/9integrationer/",
+        "teaser": null
+      },{
+        "title": "Bliv klar til Folkebibliotekernes CMS",
+        "excerpt":"Her kan I danne jer et overblik over de aktiviteter, I skal igennem ifm. overgangen til Folkebibliotekernes CMS. Tag stilling til indholdet på jeres nuværende website og skitsér en plan for det nye. Kig på de nye designelementer og lad jer inspirere til en ny måde at strukturere og vise...","categories": [],
+        "tags": [],
+        "url": "/main/integrationer/",
         "teaser": null
       },{
         "title": "Arrangementsindstillinger",
