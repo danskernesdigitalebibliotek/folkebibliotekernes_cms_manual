@@ -2,8 +2,6 @@
 title: "Opgave 12: Redirects fra søgeresultater på Google"
 weight: 12
 category: "Basis konfiguration"
-emneord:
-  - "URL omdirigeringer"
 ---
 Jeres nye website er ikke identisk med det gamle. I har sikkert oprettet nyt indhold, fjernet noget gammelt og flyttet rundt med ting.
 

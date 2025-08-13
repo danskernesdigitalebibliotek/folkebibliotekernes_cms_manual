@@ -1,5 +1,0 @@
----
-title: "Oversættelser"  
----
-
-Oversættelser

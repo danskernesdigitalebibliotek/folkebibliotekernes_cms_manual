@@ -2,8 +2,6 @@
 title: "OpenID connect (Adgangsplatformen)"
 click-path: "Indstillinger > Redaktionelle brugere > OpenID Connect Clients"
 category: "Konfiguration"
-emneord: 
-- "Adgangsplatformen"
 ---
 I topmenuen klik på **{{ page.click-path }}**
 

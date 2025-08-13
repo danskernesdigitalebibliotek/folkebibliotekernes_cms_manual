@@ -1,5 +1,0 @@
----
-title: "Statistik"  
----
-
-Statistik

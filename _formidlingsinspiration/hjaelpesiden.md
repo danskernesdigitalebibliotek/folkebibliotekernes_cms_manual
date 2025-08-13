@@ -1,8 +1,6 @@
 ---
 title: "Hjælpesiden"
 category: "Formidlingsinspiration"
-emneord:
-- "Formidlingsinspiration"
 ---
 
 Hjælpesiden kan med opbygges vha. et card grid som her i København, hvor der er lavet underliggende sider med hjælp.

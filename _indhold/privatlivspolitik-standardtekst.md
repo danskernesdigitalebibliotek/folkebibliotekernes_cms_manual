@@ -1,7 +1,5 @@
 ---
 title: "Standardtekst for Privatlivspolitik"
-emneord:
-- "Faste sider"
 ---
 Har du mistet standardteksten til den faste side "Privatlivspolitik", så er den her:
 

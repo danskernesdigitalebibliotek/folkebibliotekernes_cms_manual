@@ -2,8 +2,6 @@
 title: "Hovedmenu"
 category: "Navigation"
 weight: 1
-emneord:
-- "Menuer og navigation"
 ---
 Vær opmærksom på at der kan gå lidt tid før at punkterne i hovedmenuen indlæses på siden efter at de er oprettet.
 {: .notice--warning}

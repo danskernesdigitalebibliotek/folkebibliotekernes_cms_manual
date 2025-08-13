@@ -1,4 +1,0 @@
----
-title: "URL omdirigeringer"  
----
-Redirects

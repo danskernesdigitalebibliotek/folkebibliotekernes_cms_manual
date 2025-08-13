@@ -1,8 +1,6 @@
 ---
 title: "Privatlivspolitik"
 category: "Faste sider"
-emneord:
-- "Faste sider"
 ---
 
 **Privatlivspolitik** er en oplysningsside om behandling af personoplysninger. Det er et lovkrav at have en privatlivspolitik på hjemmesiden og at linke til den fra forsiden.

@@ -2,14 +2,6 @@
 title: "Generelle indstillinger"
 click-path: "Indstillinger > Biblioteksindstillinger > Generelle indstillinger"
 category: "Konfiguration"
-emneord: 
-- "Søgning"
-- "Reserveringer"
-- "SMS"
-- "Interesseperiode"
-- "VIP og søgeprofiler"
-- "FBS"
-- "Faste sider"
 ---
 
 I topmenuen klik på **{{ page.click-path }}**

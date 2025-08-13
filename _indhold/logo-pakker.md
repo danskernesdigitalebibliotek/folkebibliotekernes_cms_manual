@@ -1,8 +1,6 @@
 ---
 title: "Logoer til de digitale tilbud"
 category: "Generelt"
-emneord:
-- "Elektroniske ressourcer"
 ---
 ## DDFs logo-pakke
 DDF har lavet en PR-pakke med logoer til eReolen og eReolen go.

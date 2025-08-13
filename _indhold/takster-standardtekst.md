@@ -1,7 +1,5 @@
 ---
 title: "Standardtekst for Takster"
-emneord:
-- "Faste sider"
 ---
 Har du mistet standardteksten til den faste side "Takster", så er den her:
 

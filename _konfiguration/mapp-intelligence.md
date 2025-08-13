@@ -2,8 +2,6 @@
 title: "Mapp Intelligence"
 click-path: Indstillinger > System > Mapp Intelligence indstillinger
 category: "Konfiguration"
-emneord: 
-- "Statistik"
 ---
 I topmenuen klik på **{{ page.click-path }}**
 

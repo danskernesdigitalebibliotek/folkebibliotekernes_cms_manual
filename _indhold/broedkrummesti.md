@@ -2,8 +2,6 @@
 title: "Brødkrummesti"
 category: "Navigation"
 weight: 1
-emneord:
-- "Menuer og navigation"
 ---
 
 En brødkrummesti er en lille linje øverst under headeren, der viser brugeren, hvor man er på siden, og giver mulighed for at man kan navigere tilbage i sidens struktur. I kan selv definere, hvordan brødkrummestien skal være opbygget. 

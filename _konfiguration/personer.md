@@ -2,8 +2,6 @@
 title: "Redaktionelle brugere"
 click-path: "Redaktionelle brugere"
 category: "Konfiguration"
-emneord: 
-- "Brugere og roller"
 ---
 I topmenuen klik på **{{ page.click-path }}**
 

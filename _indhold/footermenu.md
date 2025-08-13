@@ -2,8 +2,6 @@
 title: "Footermenu og servicemenu"
 category: "Navigation"
 weight: 1
-emneord:
-- "Menuer og navigation"
 ---
 
 Footermenuen består af to dele 1. selve footmenuen og 2. en servicemenu, hvor I kan indsætte links til fx tilgængelighedserklæring, privatlivspolitik etc. og indsættte links til jeres sociale medie kanaler.

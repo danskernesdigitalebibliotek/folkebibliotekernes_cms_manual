@@ -2,11 +2,6 @@
 title: "Indstillinger for brugerprofil"
 click-path: "Indstillinger > Biblioteksindstillinger > Indstillinger for brugerprofil"
 category: "Konfiguration"
-emneord: 
-- "FBS"
-- "Publizon"
-- "Faste sider"
-
 ---
 
 I topmenuen klik på **{{ page.click-path }}**

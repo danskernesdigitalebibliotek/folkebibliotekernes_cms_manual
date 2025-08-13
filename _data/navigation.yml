@@ -3,8 +3,6 @@ main:
     url: /overblik/nyt-i-manualen
   - title: "Hurtigguide til manualen"
     url: /overblik/hurtigguide-til-manualen
-  - title: "Emner"
-    url: /overblik/emneord
 
 overblik:
   - title: Overblik

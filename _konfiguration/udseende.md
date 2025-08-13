@@ -2,8 +2,6 @@
 title: "Logo, identitetsfarve og favicon"
 click-path: "Udseende > Novel > Indstillinger"
 category: "Konfiguration"
-emneord: 
-- "Logo og identitetsfarve"
 ---
 I topmenuen klik på **{{ page.click-path }}**
 

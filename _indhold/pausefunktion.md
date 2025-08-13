@@ -1,9 +1,6 @@
 ---
 title: "Pausefunktion"
 category: "Faste sider"
-emneord: 
-- "Reserveringer"
-- "Faste sider"
 ---
 **Pausefunktion** er en informationside om at sætte sine reserveringer på pause. Det er en standardside eller "fast side".
 Fra brugernes reserveringsoversigt kan reserveringer sættes på pause. Og herfra er der link til siden Pausefunktion.

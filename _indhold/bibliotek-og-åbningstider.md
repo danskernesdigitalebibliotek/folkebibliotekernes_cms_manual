@@ -1,9 +1,6 @@
 ---
 title: "Bibliotek og åbningstider"
 category: "Indholdstyper"
-emneord:
-- "Åbningstider"
-- "Biblioteket App"
 ---
 
 ## Tilføj, redigér og slet åbningstider for et bibliotek

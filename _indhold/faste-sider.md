@@ -1,8 +1,6 @@
 ---
 title: "Faste sider - overblik"
 category: "Faste sider"
-emneord:
-- "Faste sider"
 ---
 Folkebibliotekernes CMS fødes med nogle **faste side** eller **standardsider**. Faste sider er præcis som alle andre sider. De er der bare fra starten af, når I får systemet.
 

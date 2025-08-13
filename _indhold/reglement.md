@@ -1,8 +1,6 @@
 ---
 title: "Reglement"
 category: "Faste sider"
-emneord:
-- "Faste sider"
 ---
 
 Der linkes til siden **Reglement** fra siden **Opret bruger**. 

@@ -2,8 +2,6 @@
 title: "FBS indstillinger"
 click-path: "Indstillinger > Web-services > FBS indstillinger"
 category: "Konfiguration"
-emneord: 
-- "FBS"
 ---
 I topmenuen klik på **{{ page.click-path }}**
 

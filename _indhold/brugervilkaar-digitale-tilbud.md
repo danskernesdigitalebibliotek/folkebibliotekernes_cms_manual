@@ -1,8 +1,6 @@
 ---
 title: "Digitale tilbud - brugsvilkår og betingelser"
 category: "Generelt"
-emneord:
-- "Elektroniske ressourcer"
 ---
 
 DDF har skrevet et forslag til en tekst om brugsvilkår og betingelser, der gælder for de digitale tilbud og licenser. Vi anbefaler, at I kopierer teksten og lægger den på siden, hvorfra I linker til jeres digitale tilbud: 

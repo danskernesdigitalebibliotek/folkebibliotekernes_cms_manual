@@ -1,8 +1,6 @@
 ---
 title: "Opret bruger"
 category: "Faste sider"
-emneord:
-- "Faste sider"
 ---
 
 Der vises et link til den faste side **Opret bruger**, når man trykker på brugerikonet. (Man må ikke i forvejen være logget ind.)

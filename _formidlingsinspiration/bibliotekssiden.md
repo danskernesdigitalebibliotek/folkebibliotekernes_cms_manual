@@ -1,8 +1,6 @@
 ---
 title: "Biblioteker"
 category: "Formidlingsinspiration"
-emneord:
-- "Formidlingsinspiration"
 ---
 
 Start med oprette alle jeres biblioteker (branches) under indhold. 

@@ -2,8 +2,6 @@
 title: "Opgave 9: Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside"
 category: "Basis konfiguration"
 weight: 9
-emneord:
-  - Adgangsplatformen
 ---
 Fra **Adgangsplatformen** er der et link til siden registration på jeres gamle hjemmeside. Det link skal ændres, så det peger på siden **Opret bruger**, fra den dag I går live. Det skal I selv sørge for, ved at lave et redirect. 
 

@@ -38,7 +38,6 @@ algolia:
   nodes_to_index: 'h1,h2,h3,h4,h5,h6,p,blockquote,li'
   files_to_exclude:
    - _category/*
-   - _emneord/*
    - _pages/404.md
 
 
@@ -113,9 +112,6 @@ collections:
   category:
     output: true
     permalink: /:collection/:path/
-  emneord:
-    output: true
-    permalink: /overblik/:collection/:path/
 
 defaults:
   # _pages
@@ -263,17 +259,6 @@ defaults:
       type: category
     values:
       layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-  # _emneord
-  - scope:
-      path: ""
-      type: emneord
-    values:
-      layout: emneord
-      taxonomy-header: "Artikler om emnet"
       read_time: false
       author_profile: false
       share: false
