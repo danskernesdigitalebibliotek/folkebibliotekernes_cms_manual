@@ -41,15 +41,15 @@ feature_row:
     title: "Webmasterbibliotekerne"
     excerpt: "Vejledning til webmasterhostingplanen."
     url: "/webmasterplanen/"
-  - image_path: /assets/images/overgang-til-folkebibliotekernes-cms.jpg
-    alt: "Bliv klar til Folkebibliotekernes CM"
-    title: "Bliv klar"
-    excerpt: "Kom i gang med forberedelserne allerede nu."
-    url: "/bliv-klar-til-folkebibliotekernes-cms/"
+  - image_path: /assets/images/integrationer.jpg
+    alt: "Integrationer til andre systemer fra Folkebibliotekernes CMS"
+    title: "Integrationer"
+    excerpt: "Integrationer fra Folkebibliotekernes CMS til andre IT-systemer"
+    url: "/integrationer/"
   - image_path: /assets/images/overgang-til-folkebibliotekernes-cms.jpg
     alt: "Onboarding af ny kommune"
     title: "Onboarding af ny kommune"
-    excerpt: "Trin for trin: Opbyg en hjemmeside i Folkebibliotekernes CMS."
+    excerpt: "Trin for trin: Opbyg en bibliotekshjemmeside i Folkebibliotekernes CMS."
     url: "/startopsaetning/"
   - image_path: /assets/images/inspiration.png
     alt: "Formidlingsinspiration i Folkebibliotekernes CMS"
@@ -58,7 +58,7 @@ feature_row:
     url: "/formidlingsinspiration/"
   - image_path: /assets/images/soegning.png
     alt: "Simpel- og avanceret søgning. Værk- og materialevisning"
-    title: "Søgning"
+    title: "Søgning og visning"
     excerpt: "Simpel- og avanceret søgning. Værk- og materialevisning."
     url: "/soegning/"
   - image_path: /assets/images/content.jpg

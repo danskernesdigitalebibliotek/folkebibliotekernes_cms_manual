@@ -37,7 +37,7 @@ I kan ændre nogle få ting i standard-temaet:
 
 **Ændring af identitetsfarve**
 
-Læs mere om [identitetsfarvens betydning](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/bliv-klar-til-folkebibliotekernes-cms/3identitetsfarve/) for sitet.
+Læs mere om [identitetsfarvens betydning](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/integrationer/3identitetsfarve/) for sitet.
 
 1. Klik på **Udseende** i toppen af siden.
 

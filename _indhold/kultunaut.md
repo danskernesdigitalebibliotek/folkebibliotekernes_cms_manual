@@ -3,7 +3,7 @@ title: "Kultunaut integration"
 category: "Generelt"
 ---
 
-Kulturkalenderen Kultunaut har udviklet en integration til Folkebibliotekernes CMS via [arrangements APIet](https://www.folkebibliotekernescms.dk/main/bliv-klar-til-folkebibliotekernes-cms/9integrationer/#arrangements-api-til-brug-for-eksterne-systemer). 
+Kulturkalenderen Kultunaut har udviklet en integration til Folkebibliotekernes CMS via [arrangements APIet](https://www.folkebibliotekernescms.dk/main/integrationer/9integrationer/#arrangements-api-til-brug-for-eksterne-systemer). 
 
 Kultunaut henter automatisk oplysninger om arrangementer fra alle bibliotekernes hjemmesider og viser dem på [Kultunauts hjemmeside](https://www.kultunaut.dk/) samt på hjemmesider, der har et samarbejde med Kultunaut.
 

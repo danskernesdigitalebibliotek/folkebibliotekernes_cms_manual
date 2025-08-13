@@ -92,7 +92,7 @@ collections:
   soegning:
     output: true
     permalink: /:collection/:path/
-  bliv-klar-til-folkebibliotekernes-cms:
+  integrationer:
     output: true
     permalink: /:collection/:path/
   formidlingsinspiration:
@@ -192,10 +192,10 @@ defaults:
       share: false
       comments: false
       sidebar: true
-  # _bliv-klar-til-folkebibliotekernes-cms
+  # _integrationer
   - scope:
       path: ""
-      type: bliv-klar-til-folkebibliotekernes-cms
+      type: integrationer
     values:
       layout: single
       classes: wide

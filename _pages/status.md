@@ -441,7 +441,7 @@ Det er ikke hensigtsmæssigt at det er lydbogsudgaven som bliver vist som standa
 Der kommer også en del sager ind på manglende forsider. Vi ved godt, at der mangler forsider i rigtig mange visninger, og det påvirker jeres formidling på sitet. Problemet vil blive prioriteret i et senere projekt, men for nu har vi valgt at fokusere på forretningskritisk funktionalitet.
 
 ### VIGTIG tilføjelse til startopsætningen i manualen
-I Netpunkt findes en Er hjemme - slå op funktion. Den linker til beholdningsvisning for en titel i bibliotekets eget CMS. Netpunkt skal kende url-strukturen I jeres nye CMS, for at funktionen virker. Den skal I angive i VIP. Læs hvordan her: https://www.folkebibliotekernescms.dk/main/bliv-klar-til-folkebibliotekernes-cms/12netpunkt-slaa-op/
+I Netpunkt findes en Er hjemme - slå op funktion. Den linker til beholdningsvisning for en titel i bibliotekets eget CMS. Netpunkt skal kende url-strukturen I jeres nye CMS, for at funktionen virker. Den skal I angive i VIP. Læs hvordan her: https://www.folkebibliotekernescms.dk/main/integrationer/12netpunkt-slaa-op/
 
 ## 10/6: Status på udvikling
 ### Søgning og VIP profil
