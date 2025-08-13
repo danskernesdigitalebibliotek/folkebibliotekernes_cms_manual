@@ -4,8 +4,8 @@ weight: 10
 category: "Struktur og indhold"
 ---
 
-## 1. Planlæg strukturen af hjemmesiden
-For at oprette strukturen på jeres hjemmesiden, kan I benytte det arbejde, som I lavede i [forberedelsesopgave 4: Informationsarkitektur og navigation]({{ site.baseurl }}{% link _integrationer/4informationsarkiktektur.md %}). Hvis I ikke har lavet det endnu, kan det bruges som inspiration til hvordan I vil bygge siden op. 
+## Planlæg strukturen af hjemmesiden
+
 
 ## 2. Opret jeres sider
 Start med at oprette de sider, som strukturen skal bestå af. Se hvordan man opretter sider i guiden [Opret indhold: Side]({{ site.baseurl }}{% link _indhold/side.md %}).

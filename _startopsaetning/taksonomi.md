@@ -1,9 +1,7 @@
 ---
-title: "Opgave 8: Taksonomi - kategorier og tags"
-category: "Overgangsaktiviter"
+title: "Taksonomi - kategorier og tags"
+category: "Struktur og indhold"
 weight: 8
-emneord:
-  - Kategorier og tags
 ---
 
 I Folkebibliotekernes CMS har tags og kategorier som i DDB CMS. Både kategorier og tags kan bruges på tværs af indholdstyper. Tags og kategorier anvendes til filtrering af indhold i lister og komponenter. 

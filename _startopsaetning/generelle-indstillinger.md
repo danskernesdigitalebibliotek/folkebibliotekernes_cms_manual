@@ -10,7 +10,7 @@ Sæt dig sammen med med en kollega, der ved rigtig meget om jeres bibliotek. Ham
 I skal i fællesskab løse denne opgave.
 
 ## 1. Klargør en søgeprofil og en visningsprofil i VIP
-Ovre i VIP-basen skal i klargør en søgeprofil og en visningsprofil. Læs mere her: [søge- og visningsprofiler i VIP]({{ site.baseurl }}{% link _integrationer/10vip-profiler.md %}).
+Ovre i VIP-basen skal i klargør en søgeprofil og en visningsprofil. Læs mere her: [søge- og visningsprofiler i VIP]({{ site.baseurl }}{% link _soegning/vip-profiler.md %}).
 
 ## 2. Generelle biblioteksindstillinger
 **Her indstiller du VIP-profil, blacklistede filialer, SMS-notifikation til/fra, interesseperiode**
