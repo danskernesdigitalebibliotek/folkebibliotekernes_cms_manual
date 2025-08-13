@@ -20,6 +20,6 @@ Releasedato: 13-08-2025
 
 - Event-feed: Kategori for arrangementer udstilles nu i event-feedet. 
 
-- Pauseperiode for reserveringer: Datovælger starter nu på dags dato. Tidligere har den startet i august 2026. 
+- Pauseperiode for reserveringer: Datovælger starter nu på dags dato. Tidligere startede den i august 2026. 
 
 - Webmasterbiblioteker: Tilpasning af proces for synkronisering mellem produktions- og testsite. Det løser fejl hvor bl.a. Asset Injector blev vist anderledes på webmasterbibliotekers testsite end på produktionsmiljøet efter synkronisering af disse. 
