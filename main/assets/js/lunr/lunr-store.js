@@ -35,12 +35,6 @@ var store = [{
         "url": "/main/category/faste-sider/",
         "teaser": null
       },{
-        "title": "Formidlingsinspiration",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/main/category/formidlingsinspiration/",
-        "teaser": null
-      },{
         "title": "Generelt",
         "excerpt":"Generelt  ","categories": [],
         "tags": [],
@@ -201,48 +195,6 @@ var store = [{
         "excerpt":"For at hente og abonnere på indhold fra Delingstjenesten til dit bibliotekssite, skal du være logget ind som dit bibliotek. Det kræver blot få klik. Sådan logger du ind Gå ind på dit lokale bibliotekssite. Sørg for, at du er logget ind i backend. Alle roller giver dig adgang: Formidler,...","categories": ["Delingstjenesten"],
         "tags": [],
         "url": "/main/delingstjenesten/login-i-delingstjenesten/",
-        "teaser": null
-      },{
-        "title": "Biblioteker",
-        "excerpt":"Start med oprette alle jeres biblioteker (branches) under indhold. Et bibliotek kan bygges op af følgende: Et navn Et hovedbillede En brødtekst (paragraph) Et navigation grid til fx arrangementer (paragraph) Åbningstider (paragraph) Eksempel på bibliotek Du kan lave et link til samlesiden for alle biblioteker fra hovedmenuen. Samlesiden hedder /biblioteker....","categories": ["Formidlingsinspiration"],
-        "tags": [],
-        "url": "/main/formidlingsinspiration/bibliotekssiden/",
-        "teaser": null
-      },{
-        "title": "Digitale tilbud",
-        "excerpt":"Folkebibliotekernes CMS er ikke født med en linksamling til digitale tilbud (licenser, netmedier eller hvad I kalder det). Derfor skal I selv opbygge en side med dem. Hvis I ikke har mange licenser, kan I med fordel bruge Navigation spots – manual, hvor der blot linkes til et indhold. Nedenstående...","categories": ["Formidlingsinspiration"],
-        "tags": [],
-        "url": "/main/formidlingsinspiration/digitale-tilbud/",
-        "teaser": null
-      },{
-        "title": "Forsiden",
-        "excerpt":"Forsiden er en side som alle andre. Alle sider kan i princippet bruges som forside. I backend skal I selv indstille, hvilken side, der skal væres jeres forside. Læs hvordan man registrerer en side som forside. Forsiden er bygget op af inspirationskomponenter, og det er redaktionelt muligt for det enkelte...","categories": ["Formidlingsinspiration"],
-        "tags": [],
-        "url": "/main/formidlingsinspiration/forsiden/",
-        "teaser": null
-      },{
-        "title": "Hjælpesiden",
-        "excerpt":"Hjælpesiden kan med opbygges vha. et card grid som her i København, hvor der er lavet underliggende sider med hjælp. Hjælp-side opbygget med Card Grid undersider En anden mulighed er at opbygge sider med en brødtekst og en accordion, som kan vejlede brugeren trin for trin: En lang informationsside er...","categories": ["Formidlingsinspiration"],
-        "tags": [],
-        "url": "/main/formidlingsinspiration/hjaelpesiden/",
-        "teaser": null
-      },{
-        "title": "Inspiration til formidling",
-        "excerpt":"Designsystemet bag Folkebibliotekernes CMS er opbygget af formidlingskomponenter (paragraphs), som kan bruges efter behov. Vi har her samlet eksempler på opbygning af forskellige typer sider, som I kan lade jer inspirere af. Der er mange formidlingskomponenter (paragraphs) at vælge imellem I kan mere om paragraph komponenterne i guiden Opret indhold:...","categories": [],
-        "tags": [],
-        "url": "/main/formidlingsinspiration/",
-        "teaser": null
-      },{
-        "title": "Inspiration / litteratur",
-        "excerpt":"Der er et utal af muligheder for at formidle litteratur på hjemmesiden. Her er et eksempel fra Billund, hvor der er bygget et inspirationsunivers op ved hjælp af følgende paragraphs: Material grid automatic Links Eksempel på bibliotek Der er også muligt at oprette forskellige artikler som kan trækkes ind i...","categories": ["Formidlingsinspiration"],
-        "tags": [],
-        "url": "/main/formidlingsinspiration/inspiration-litteratur/",
-        "teaser": null
-      },{
-        "title": "Personalesiden",
-        "excerpt":"Folkebibliotekernes CMS er ikke født med en personaleside, så man skal selv være kreativ, hvis den skal opbygges. Her er et eksempel på hvordan en simpel personaleside kan opbygges vha. formidlingskomponenten accordion: Personaleoversigt opbygget med Accordion Hvis I meget gerne vil have billeder på, kan I finde inspiration hos Struer,...","categories": ["Formidlingsinspiration"],
-        "tags": [],
-        "url": "/main/formidlingsinspiration/personalesiden/",
         "teaser": null
       },{
         "title": "Abonnér på indhold for GO",
@@ -438,7 +390,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Side",
-        "excerpt":"Indholdstypen Side bruges til at oprette forsider og lignende samlende indgange til tilknyttet indhold på dit site. FB CMS benytter betegnelserne sektionsside og navigationsside, men det henviser blot til deres funktioner – der er ikke forskel på, hvordan man som udgangspunkt opretter dem. Du kan se eksempler på, hvordan du...","categories": ["Indholdstyper"],
+        "excerpt":"Indholdstypen Side bruges til at oprette forsider og lignende samlende indgange til tilknyttet indhold på dit site. FB CMS benytter betegnelserne sektionsside og navigationsside, men det henviser blot til deres funktioner – der er ikke forskel på, hvordan man som udgangspunkt opretter dem. Her kan du få idéer til hvordan...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/main/indhold/side/",
         "teaser": null
@@ -995,6 +947,18 @@ var store = [{
         "url": "/main/startopsaetning/basiskonfiguration-intro/",
         "teaser": null
       },{
+        "title": "Biblioteker",
+        "excerpt":"Start med oprette alle jeres biblioteker (branches) under indhold. Et bibliotek kan bygges op af følgende: Et navn Et hovedbillede En brødtekst (paragraph) Et navigation grid til fx arrangementer (paragraph) Åbningstider (paragraph) Eksempel på bibliotek Du kan lave et link til samlesiden for alle biblioteker fra hovedmenuen. Samlesiden hedder /biblioteker....","categories": ["Struktur og indhold"],
+        "tags": [],
+        "url": "/main/startopsaetning/bibliotekssiden/",
+        "teaser": null
+      },{
+        "title": "Digitale tilbud",
+        "excerpt":"Folkebibliotekernes CMS er ikke født med en linksamling til digitale tilbud (licenser, netmedier eller hvad I kalder det). Derfor skal I selv opbygge en side med dem. Hvis I ikke har mange licenser, kan I med fordel bruge Navigation spots – manual, hvor der blot linkes til et indhold. Nedenstående...","categories": ["Struktur og indhold"],
+        "tags": [],
+        "url": "/main/startopsaetning/digitale-tilbud/",
+        "teaser": null
+      },{
         "title": "DNS opsætning",
         "excerpt":"DNS står for Domain Name Service. Det er DNS registreringen der gør, at jeres hjemmeside adresse virker og peger hen på det rigtige website. Biblioteket har ansvaret for at lave DNS registreringen. I nogle kommuner er det biblioteket selv står selv for DNS-opsætningen, mens andre får hjælp af IT-afdelingen i...","categories": ["Go-live"],
         "tags": [],
@@ -1007,6 +971,12 @@ var store = [{
         "url": "/main/startopsaetning/faste-sider-og-forside/",
         "teaser": null
       },{
+        "title": "Forsiden",
+        "excerpt":"Forsiden er en side som alle andre. Alle sider kan i princippet bruges som forside. I backend skal I selv indstille, hvilken side, der skal væres jeres forside. Læs hvordan man registrerer en side som forside. Forsiden er bygget op af inspirationskomponenter, og det er redaktionelt muligt for det enkelte...","categories": ["Struktur og indhold"],
+        "tags": [],
+        "url": "/main/startopsaetning/forsiden/",
+        "teaser": null
+      },{
         "title": "Opgave 2: Generelle indstillinger",
         "excerpt":"I denne opgave laver du den grundlæggende konfiguration af sitet. Det er noget, du kun skal gøre én gang, men det er vigtigt, at det bliver gjort ordentligt. Sæt dig sammen med med en kollega, der ved rigtig meget om jeres bibliotek. Ham/hende der er en haj til Cicero, og...","categories": ["Basis konfiguration"],
         "tags": [],
@@ -1017,6 +987,12 @@ var store = [{
         "excerpt":"Go-live datoen er den dag, hvor jeres nye website bliver synligt på internettet, og hvor jeres brugere får adgang til siden.   Den URL på som jeres nuværende hjemmeside ligger på vil på den dag begynde at pege på jeres nye Folkebibliotekernes CMS-hjemmeside.   Go-live opgaverne er beskrevet herunder.   ","categories": ["Go-live"],
         "tags": [],
         "url": "/main/startopsaetning/go-live-intro/",
+        "teaser": null
+      },{
+        "title": "Hjælpesiden",
+        "excerpt":"Hjælpesiden kan med opbygges vha. et card grid som her i København, hvor der er lavet underliggende sider med hjælp. Hjælp-side opbygget med Card Grid undersider En anden mulighed er at opbygge sider med en brødtekst og en accordion, som kan vejlede brugeren trin for trin: En lang informationsside er...","categories": ["Struktur og indhold"],
+        "tags": [],
+        "url": "/main/startopsaetning/hjaelpesiden/",
         "teaser": null
       },{
         "title": "Onboarding af ny kommune",
@@ -1035,6 +1011,12 @@ var store = [{
         "excerpt":"Det er designbureauet Dept, der har lavet grunddesign til Folkebibliotekernes CMS. Det bygger på et navigationsprincip, som hedder navigation hub konceptet. Idéen er at bygge en dyb navigationsstruktur med få menupunkter i hovedmenuen, så brugeren præsenteres for få simple valg. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Via navigationselementer på disse...","categories": ["Struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/informationsarkitektur/",
+        "teaser": null
+      },{
+        "title": "Inspiration / litteratur",
+        "excerpt":"Der er et utal af muligheder for at formidle litteratur på hjemmesiden. Her er et eksempel fra Billund, hvor der er bygget et inspirationsunivers op ved hjælp af følgende paragraphs: Material grid automatic Links Eksempel på bibliotek Der er også muligt at oprette forskellige artikler som kan trækkes ind i...","categories": ["Struktur og indhold"],
+        "tags": [],
+        "url": "/main/startopsaetning/inspiration-litteratur/",
         "teaser": null
       },{
         "title": "Opgave 11: Ændr kontaktformularens konfiguration",
@@ -1065,6 +1047,12 @@ var store = [{
         "excerpt":"Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt. I denne opgave skal I indsætte OpenID Connect adgangsnøgler i Folkebibliotekernes CMS. Rekvirer nøgler...","categories": ["Basis konfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/openid-connect/",
+        "teaser": null
+      },{
+        "title": "Personalesiden",
+        "excerpt":"Folkebibliotekernes CMS er ikke født med en personaleside, så man skal selv være kreativ, hvis den skal opbygges. Her er et eksempel på hvordan en simpel personaleside kan opbygges vha. formidlingskomponenten accordion: Personaleoversigt opbygget med Accordion Hvis I meget gerne vil have billeder på, kan I finde inspiration hos Struer,...","categories": ["Struktur og indhold"],
+        "tags": [],
+        "url": "/main/startopsaetning/personalesiden/",
         "teaser": null
       },{
         "title": "Opgave 9: Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside",
