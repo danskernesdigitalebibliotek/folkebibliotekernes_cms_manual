@@ -869,6 +869,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-32-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.33.0",
+        "excerpt":"Fejlrettelser og forbedringer Releasedato: 13-08-2025 Redaktør: Produktionssites: 2025.33.0 Webmaster: Produktionssites: 2025.32.0, Moduletestsites: 2025.33.0 Værkvisningsside: Når man klikker på forfatter, emne eller emnetal på værkvisningssiden udføres en stjernesøgning med det specifikke filter. Søgning: Nu står søgeordet også i søgefeltet, efter man har udført en søgning. Det betyder, at det nu er...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-33-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
