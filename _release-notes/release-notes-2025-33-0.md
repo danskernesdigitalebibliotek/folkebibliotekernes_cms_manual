@@ -16,7 +16,7 @@ Releasedato: 13-08-2025
 
 - Søgning: Nu står søgeordet også i søgefeltet, efter man har udført en søgning. Det betyder, at det nu er muligt at tilpasse søgestrengen efter udført søgning. 
 
-- Arrangementer: Mindre justering af visning af datoer, så ved samtlige visninger af arrangementer er punktum efter tal for dato. 
+- Arrangementer: Mindre justering af visning af datoer, så der ved samtlige visninger af arrangementer er punktum efter tal for dato. 
 
 - Event-feed: Kategori for arrangementer udstilles nu i event-feedet. 
 
