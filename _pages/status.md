@@ -4,7 +4,7 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 13/8 Microsoft har flyttet Azure servicevinduet kl. 17-08
+## 12/8 Microsoft har flyttet Azure servicevinduet kl. 17-08
 Var oprrindeligt sat til den 11/8.
 Baseret på erfaringer fra tidligere servicevinduer vil det for os medføre en genstart af databasen, hvilket kan medføre ~30 minutters nedetid.
 ## 6/8 kl. 13.07 Alle sites er oppe igen
