@@ -6,7 +6,7 @@ weight: 329
 
 # Fejlrettelser og forbedringer
 
-Releasedato: 13-08-2025
+Releasedato: 14-08-2025
 
 **Redaktør**: Produktionssites: 2025.33.0
 
