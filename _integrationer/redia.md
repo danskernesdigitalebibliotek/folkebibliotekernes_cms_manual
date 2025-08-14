@@ -1,6 +1,6 @@
 ---
 title: "Åbningstider og arrangementer i Biblioteket Appen"  
-category: "Generelt"
+category: "Integrationer"
 ---
 
 Fra 31/1-2025 kan åbningstider og arrangementer igen automatisk blive overført til Biblioteket Appen. Dvs. når I opdaterer åbningstider og arrangementer på hjemmesiden bliver ændringerne automatisk synkroniseret over i Biblioteket Appen.

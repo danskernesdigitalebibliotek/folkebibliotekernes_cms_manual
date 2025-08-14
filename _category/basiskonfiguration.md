@@ -1,5 +1,5 @@
 ---
-title: "Basis konfiguration"  
+title: "Opgaver - Basiskonfiguration"  
 weight: 2
 ---
-Basis konfiguration
+Basiskonfiguration

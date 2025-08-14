@@ -1,7 +1,7 @@
 ---
 title: "Opgave 3: Sider og menuer"
 weight: 10
-category: "Struktur og indhold"
+category: "Opret struktur og indhold"
 ---
 
 ## Planlæg strukturen af hjemmesiden

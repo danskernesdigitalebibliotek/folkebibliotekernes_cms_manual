@@ -1,6 +1,6 @@
 ---
 title: "Opgave 6: Medarbejdere, e-ressourcer og formularer"
-category: "Struktur og indhold"
+category: "Opret struktur og indhold"
 weight: 4
 ---
 ### Medarbejderoversigt

@@ -1,6 +1,6 @@
 ---
 title: "Taksonomi - kategorier og tags"
-category: "Struktur og indhold"
+category: "Opret struktur og indhold"
 weight: 8
 ---
 

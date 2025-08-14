@@ -1,6 +1,6 @@
 ---
-title: "Opgave 8: Logo, identitetsfarve og favicon"
-category: "Basis konfiguration"
+title: "6. Logo, identitetsfarve og favicon"
+category: "Opgaver - Basiskonfiguration"
 weight: 8
 ---
 

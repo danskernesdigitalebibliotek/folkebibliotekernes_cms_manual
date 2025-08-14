@@ -1,6 +1,6 @@
 ---
 title: "Biblioteker"
-category: "Struktur og indhold"
+category: "Opret struktur og indhold"
 ---
 
 Start med oprette alle jeres biblioteker (branches) under indhold. 

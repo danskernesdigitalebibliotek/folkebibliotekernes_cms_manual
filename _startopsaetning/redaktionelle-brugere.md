@@ -1,7 +1,7 @@
 ---
-title: "Opgave 4: Opret redaktionelle brugere"
+title: "4. Redaktionelle brugere"
 weight: 4
-category: "Basis konfiguration"
+category: "Opgaver - Basiskonfiguration"
 ---
 
 Du er sikkert ikke den eneste, der skal lave indhold til jeres nye hjemmeside. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden.

@@ -1,6 +1,7 @@
 ---
-title: "Etablering af staging-site"
-category: "Staging-site"
+title: "1. Etablering af staging-site"
+category: "Onboarding"
+weight: 1
 ---
 
 Den nye hjemmmeside opbygges i et **staging-site**, som ikke umiddelbart er synligt for borgerne. Her kan biblioteket i ro og mag opbygge struktur og indhold.

@@ -1,6 +1,6 @@
 ---
-title: "Opgave 2: Generelle indstillinger"
-category: "Basis konfiguration"
+title: "2. Biblioteksindstillinger"
+category: "Opgaver - Basiskonfiguration"
 weight: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Opgave 11: Ændr kontaktformularens konfiguration"
-category: "Basis konfiguration"
+title: "8. Kontaktformularen"
+category: "Opgaver - Basiskonfiguration"
 weight: 11
 ---
 

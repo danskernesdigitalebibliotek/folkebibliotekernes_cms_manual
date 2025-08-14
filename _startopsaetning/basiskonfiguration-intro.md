@@ -1,7 +1,7 @@
 ---
-title: "Basiskonfiguration - introduktion"
-category: "Basis konfiguration"
-weight: 0
+title: "2. Basiskonfiguration"
+category: "Onboarding"
+weight: 2
 ---
 
 Det første der skal ske, er at biblioteket skal lave en basiskonfiguration af hjemmesiden. 

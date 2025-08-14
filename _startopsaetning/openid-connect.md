@@ -1,7 +1,7 @@
 ---
-title: "Opgave 1: OpenID Connect (Adgangsplatformen)"
+title: "1. Adgangsplatformen"
 weight: 1
-category: "Basis konfiguration"
+category: "Opgaver - Basiskonfiguration"
 ---
 
 Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt.

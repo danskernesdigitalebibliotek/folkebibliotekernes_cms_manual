@@ -1,7 +1,7 @@
 ---
-title: "Struktur og indhold - introduktion"
-category: "Struktur og indhold"
-weight: 1
+title: "3. Struktur og indhold"
+category: "Onboarding"
+weight: 3
 ---
 
 Jeres staging-site er grundlæggende tomt. I skal selv oprette sider, biblioteker, åbningstider, arrangementer mv.
