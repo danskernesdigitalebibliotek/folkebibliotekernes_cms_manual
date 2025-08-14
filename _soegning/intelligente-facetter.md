@@ -1,6 +1,7 @@
 ---
 title: "Intelligente facetter"
-category: "Om søgning"
+category: "Søgning"
+weight: 20
 ---
 Et søgeresultat vises sådan her. Facet-båndet er markeret med rødt.
 

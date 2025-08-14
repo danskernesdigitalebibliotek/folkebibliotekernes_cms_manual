@@ -1,6 +1,6 @@
 ---
 title: "Fjernadgang - Proxy indstillinger"
-category: "VIP og proxy"
+category: "Digitale tilbud"
 ---
 
 Søgefeltet på hjemmesiden kan vise resultater fra elektroniske ressourcer, som biblioteket abonnerer på. Hvilke kilder der skal være søgbare, beslutter I selv via VIP søgeprofilen.

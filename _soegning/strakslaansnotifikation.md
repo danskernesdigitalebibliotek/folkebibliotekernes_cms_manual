@@ -1,6 +1,6 @@
 ---
 title: "Strakslåns-notifikation"
-category: "Om visning og reservering"
+category: "Visning og reservering"
 ---
 Mens man opretter en reservation kan man få en  **strakslåns-notifikation**. 
 

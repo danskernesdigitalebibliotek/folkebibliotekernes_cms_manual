@@ -1,6 +1,7 @@
 ---
 title: "CQL Søgestrenge Eksempler"  
-category: "Generelt"
+category: "Søgning"
+weight: 15
 ---
 
 ### DBCs CQL dokumentation: [FBI-API's Complex Search Documentation](https://fbi-api.dbc.dk/indexmapper/){:target="_blank" rel="noopener"}

@@ -1,6 +1,6 @@
 ---
-title: "Om søgning"  
-weight: 10
+title: "Søgning"  
+weight: 5
 ---
 
 Søgning

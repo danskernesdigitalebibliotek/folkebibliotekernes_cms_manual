@@ -53,8 +53,8 @@ feature_row:
     url: "/startopsaetning/"
   - image_path: /assets/images/soegning.png
     alt: "Simpel- og avanceret søgning. Værk- og materialevisning"
-    title: "Søgning og visning"
-    excerpt: "Simpel- og avanceret søgning. Værk- og materialevisning."
+    title: "Søgning, visning og digitale tilbud"
+    excerpt: "Simpel- og avanceret søgning. Værk- og materialevisning. Digitale tilbud og proxy."
     url: "/soegning/"
   - image_path: /assets/images/content.jpg
     alt: "Guidelines til god webkommunikation"

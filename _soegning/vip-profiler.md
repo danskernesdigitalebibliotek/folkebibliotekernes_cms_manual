@@ -1,6 +1,7 @@
 ---
 title: "Opret søge- og visningsprofil i VIP"
-category: "VIP og proxy"
+category: "Søgning"
+weight: 5
 ---
 Hjemmesiden henter data fra [databrønden](https://www.dbc.dk/fbi/databronden){:target="_blank"} i mange forskellige sammenhænge, og disse
 sammenhænge kan overordnet inddeles i søgning og visning.

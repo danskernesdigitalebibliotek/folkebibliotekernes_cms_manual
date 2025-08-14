@@ -1,6 +1,6 @@
 ---
-title: "Om visning og reservering"  
-weight: 15
+title: "Visning og reservering"  
+weight: 10
 ---
 
-Om visning og reserveringer
+Visning og reservering
