@@ -1,6 +1,6 @@
 var store = [{
-        "title": "Basis konfiguration",
-        "excerpt":"Basis konfiguration  ","categories": [],
+        "title": "Opgaver - Basiskonfiguration",
+        "excerpt":"Basiskonfiguration  ","categories": [],
         "tags": [],
         "url": "/main/category/basiskonfiguration/",
         "teaser": null
@@ -107,13 +107,13 @@ var store = [{
         "url": "/main/category/soegning/",
         "teaser": null
       },{
-        "title": "Staging-site",
+        "title": "Onboarding",
         "excerpt":"Staging-site  ","categories": [],
         "tags": [],
         "url": "/main/category/staging-site/",
         "teaser": null
       },{
-        "title": "Struktur og indhold",
+        "title": "Opret struktur og indhold",
         "excerpt":"Struktur og indhold  ","categories": [],
         "tags": [],
         "url": "/main/category/struktur-og-indhold/",
@@ -335,12 +335,6 @@ var store = [{
         "url": "/main/indhold/kampagner/",
         "teaser": null
       },{
-        "title": "Kultunaut integration",
-        "excerpt":"Kulturkalenderen Kultunaut har udviklet en integration til Folkebibliotekernes CMS via arrangements APIet. Kultunaut henter automatisk oplysninger om arrangementer fra alle bibliotekernes hjemmesider og viser dem på Kultunauts hjemmeside samt på hjemmesider, der har et samarbejde med Kultunaut. Træk af arrangementer foregår om natten og herfra går der 1-2 hverdage før...","categories": ["Generelt"],
-        "tags": [],
-        "url": "/main/indhold/kultunaut/",
-        "teaser": null
-      },{
         "title": "Logoer til de digitale tilbud",
         "excerpt":"DDFs logo-pakke DDF har lavet en PR-pakke med logoer til eReolen og eReolen go. Download pakke med logo-filer til DDFs tjenester. DBCs logo-pakke DBC har lavet en PR-pakke til deres digitale digitale tilbud. Den indeholder logoer i forskellige udgaver og i høj opløsning. Der er logo til Bibliotek.dk, Børnebiffen, Buggi,...","categories": ["Generelt"],
         "tags": [],
@@ -359,12 +353,6 @@ var store = [{
         "url": "/main/indhold/pausefunktion/",
         "teaser": null
       },{
-        "title": "Place2book integration",
-        "excerpt":"Billetsystemet Place2book har udviklet en integration til Folkebibliotekernes CMS via arrangements APIet. Arrangements APIet er tilgængeligt for alle billetleverandører, der ønsker at bygge integration til Folkebibliotekernes CMS. Opsæt Place2book integration Denne guide forudsætter at dit bibliotek/kommune er kunde hos Place2book. Opsætning skal kun udføres en gang. I Folkebibliotekernes CMS opret...","categories": ["Generelt"],
-        "tags": [],
-        "url": "/main/indhold/place2book/",
-        "teaser": null
-      },{
         "title": "Standardtekst for Privatlivspolitik",
         "excerpt":"Har du mistet standardteksten til den faste side “Privatlivspolitik”, så er den her: Privatlivspolitik Oplysningstekst om behandling af personoplysninger. I forbindelse med din oprettelse som bruger hos [Dannevang Kommunes Biblioteker] samt din fremadrettede brug af [Dannevangs Bibliotekers] selvbetjeningsløsninger, herunder selvbetjeningsautomater, hjemmeside, åbne biblioteker (dvs. benytte biblioteket udenfor betjent åbningstid) og...","categories": [],
         "tags": [],
@@ -375,12 +363,6 @@ var store = [{
         "excerpt":"Privatlivspolitik er en oplysningsside om behandling af personoplysninger. Det er et lovkrav at have en privatlivspolitik på hjemmesiden og at linke til den fra forsiden. Vi anbefaler, at I oprette et link til privatlivspolitikken i servicemenuen, der er en del af footeren, og som vises i bunden af alle sider....","categories": ["Faste sider"],
         "tags": [],
         "url": "/main/indhold/privatlivspolitik/",
-        "teaser": null
-      },{
-        "title": "Åbningstider og arrangementer i Biblioteket Appen",
-        "excerpt":"Fra 31/1-2025 kan åbningstider og arrangementer igen automatisk blive overført til Biblioteket Appen. Dvs. når I opdaterer åbningstider og arrangementer på hjemmesiden bliver ændringerne automatisk synkroniseret over i Biblioteket Appen. Det virker først når I har ændret jeres profil i Redias administrationssystem til automatisk synkronisering. Følg Redias vejledning: https://email.redia.dk/integrationer-mellem-biblioteket-appen-og-folkebibliotekernes-cms Links...","categories": ["Generelt"],
-        "tags": [],
-        "url": "/main/indhold/redia/",
         "teaser": null
       },{
         "title": "Reglement",
@@ -441,6 +423,24 @@ var store = [{
         "excerpt":"Integrationerne på jeres hjemmeside har stor betydning for de muligheder og tilbud I tilbyder jeres brugere. Derfor er det vigtigt at se på inden overgangen til den nye hjemmeside, så I tager højde for disse funktioner – også på det nye site. Mål Målet med denne opgave er at danne...","categories": [],
         "tags": [],
         "url": "/main/integrationer/",
+        "teaser": null
+      },{
+        "title": "Kultunaut integration",
+        "excerpt":"Kulturkalenderen Kultunaut har udviklet en integration til Folkebibliotekernes CMS via arrangements APIet. Kultunaut henter automatisk oplysninger om arrangementer fra alle bibliotekernes hjemmesider og viser dem på Kultunauts hjemmeside samt på hjemmesider, der har et samarbejde med Kultunaut. Træk af arrangementer foregår om natten og herfra går der 1-2 hverdage før...","categories": ["Integrationer"],
+        "tags": [],
+        "url": "/main/integrationer/kultunaut/",
+        "teaser": null
+      },{
+        "title": "Place2book integration",
+        "excerpt":"Billetsystemet Place2book har udviklet en integration til Folkebibliotekernes CMS via arrangements APIet. Arrangements APIet er tilgængeligt for alle billetleverandører, der ønsker at bygge integration til Folkebibliotekernes CMS. Opsæt Place2book integration Denne guide forudsætter at dit bibliotek/kommune er kunde hos Place2book. Opsætning skal kun udføres en gang. I Folkebibliotekernes CMS opret...","categories": ["Integrationer"],
+        "tags": [],
+        "url": "/main/integrationer/place2book/",
+        "teaser": null
+      },{
+        "title": "Åbningstider og arrangementer i Biblioteket Appen",
+        "excerpt":"Fra 31/1-2025 kan åbningstider og arrangementer igen automatisk blive overført til Biblioteket Appen. Dvs. når I opdaterer åbningstider og arrangementer på hjemmesiden bliver ændringerne automatisk synkroniseret over i Biblioteket Appen. Det virker først når I har ændret jeres profil i Redias administrationssystem til automatisk synkronisering. Følg Redias vejledning: https://email.redia.dk/integrationer-mellem-biblioteket-appen-og-folkebibliotekernes-cms Links...","categories": ["Integrationer"],
+        "tags": [],
+        "url": "/main/integrationer/redia/",
         "teaser": null
       },{
         "title": "Arrangementsindstillinger",
@@ -947,20 +947,32 @@ var store = [{
         "url": "/main/soegning/vip-profiler/",
         "teaser": null
       },{
-        "title": "Basiskonfiguration - introduktion",
-        "excerpt":"Det første der skal ske, er at biblioteket skal lave en basiskonfiguration af hjemmesiden. Alle basiskonfigurationsopgaver skal udføres og de skal laves i den rigtige rækkefølge. Rækkefølgen er ikke tilfældig, da opgaverne afhænger af hinanden. Vigtigst af alt er at få etableret forbindelse til Adgangsplatformen. Uden den kan borgerne ikke...","categories": ["Basis konfiguration"],
+        "title": "2. Basiskonfiguration",
+        "excerpt":"Det første der skal ske, er at biblioteket skal lave en basiskonfiguration af hjemmesiden. Alle basiskonfigurationsopgaver skal udføres og de skal laves i den rigtige rækkefølge. Rækkefølgen er ikke tilfældig, da opgaverne afhænger af hinanden. Vigtigst af alt er at få etableret forbindelse til Adgangsplatformen. Uden den kan borgerne ikke...","categories": ["Onboarding"],
         "tags": [],
         "url": "/main/startopsaetning/basiskonfiguration-intro/",
         "teaser": null
       },{
+        "title": "3. Betaling",
+        "excerpt":"De fleste kommuner er i dag overgået til ØiR. Mange kommuner bruger desuden KMD Opus økonomisystemet, hvor borgernes udeståender samles i “Mit betalingsoverblik”. “Mit betalingsoverblik” giver en samlet oversigt over de økonomiske mellemværender med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og biblioteksgebyrer. Har I ikke “Mit betalingsoverblik”,...","categories": ["Opgaver - Basiskonfiguration"],
+        "tags": [],
+        "url": "/main/startopsaetning/betaling/",
+        "teaser": null
+      },{
+        "title": "2. Biblioteksindstillinger",
+        "excerpt":"I denne opgave laver du den grundlæggende konfiguration af sitet. Det er noget, du kun skal gøre én gang, men det er vigtigt, at det bliver gjort ordentligt. Sæt dig sammen med med en kollega, der ved rigtig meget om jeres bibliotek. Ham/hende der er en haj til Cicero, og...","categories": ["Opgaver - Basiskonfiguration"],
+        "tags": [],
+        "url": "/main/startopsaetning/biblioteksindstillinger/",
+        "teaser": null
+      },{
         "title": "Biblioteker",
-        "excerpt":"Start med oprette alle jeres biblioteker (branches) under indhold. Et bibliotek kan bygges op af følgende: Et navn Et hovedbillede En brødtekst (paragraph) Et navigation grid til fx arrangementer (paragraph) Åbningstider (paragraph) Eksempel på bibliotek Du kan lave et link til samlesiden for alle biblioteker fra hovedmenuen. Samlesiden hedder /biblioteker....","categories": ["Struktur og indhold"],
+        "excerpt":"Start med oprette alle jeres biblioteker (branches) under indhold. Et bibliotek kan bygges op af følgende: Et navn Et hovedbillede En brødtekst (paragraph) Et navigation grid til fx arrangementer (paragraph) Åbningstider (paragraph) Eksempel på bibliotek Du kan lave et link til samlesiden for alle biblioteker fra hovedmenuen. Samlesiden hedder /biblioteker....","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/bibliotekssiden/",
         "teaser": null
       },{
         "title": "Digitale tilbud",
-        "excerpt":"Folkebibliotekernes CMS er ikke født med en linksamling til digitale tilbud (licenser, netmedier eller hvad I kalder det). Derfor skal I selv opbygge en side med dem. Hvis I ikke har mange licenser, kan I med fordel bruge Navigation spots – manual, hvor der blot linkes til et indhold. Nedenstående...","categories": ["Struktur og indhold"],
+        "excerpt":"Folkebibliotekernes CMS er ikke født med en linksamling til digitale tilbud (licenser, netmedier eller hvad I kalder det). Derfor skal I selv opbygge en side med dem. Hvis I ikke har mange licenser, kan I med fordel bruge Navigation spots – manual, hvor der blot linkes til et indhold. Nedenstående...","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/digitale-tilbud/",
         "teaser": null
@@ -972,31 +984,25 @@ var store = [{
         "teaser": null
       },{
         "title": "Opgave 2: Forsiden og faste sider",
-        "excerpt":"Opret en forside Folkebibliotekernes CMS fødes ikke med en forside. Den skal I selv opbygge. En hvilken som helst side kan fungere som forside. Vi anbefaler, at I opretter en side med navnet Forside. I behøver ikke gøre den færdig rent indholdsmæssigt. For nu er det ok, at den er...","categories": ["Struktur og indhold"],
+        "excerpt":"Opret en forside Folkebibliotekernes CMS fødes ikke med en forside. Den skal I selv opbygge. En hvilken som helst side kan fungere som forside. Vi anbefaler, at I opretter en side med navnet Forside. I behøver ikke gøre den færdig rent indholdsmæssigt. For nu er det ok, at den er...","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/faste-sider-og-forside/",
         "teaser": null
       },{
         "title": "Forsiden",
-        "excerpt":"Forsiden er en side som alle andre. Alle sider kan i princippet bruges som forside. I backend skal I selv indstille, hvilken side, der skal væres jeres forside. Læs hvordan man registrerer en side som forside. Forsiden er bygget op af inspirationskomponenter, og det er redaktionelt muligt for det enkelte...","categories": ["Struktur og indhold"],
+        "excerpt":"Forsiden er en side som alle andre. Alle sider kan i princippet bruges som forside. I backend skal I selv indstille, hvilken side, der skal væres jeres forside. Læs hvordan man registrerer en side som forside. Forsiden er bygget op af inspirationskomponenter, og det er redaktionelt muligt for det enkelte...","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/forsiden/",
         "teaser": null
       },{
-        "title": "Opgave 2: Generelle indstillinger",
-        "excerpt":"I denne opgave laver du den grundlæggende konfiguration af sitet. Det er noget, du kun skal gøre én gang, men det er vigtigt, at det bliver gjort ordentligt. Sæt dig sammen med med en kollega, der ved rigtig meget om jeres bibliotek. Ham/hende der er en haj til Cicero, og...","categories": ["Basis konfiguration"],
-        "tags": [],
-        "url": "/main/startopsaetning/generelle-indstillinger/",
-        "teaser": null
-      },{
-        "title": "Introduktion til Go-live",
-        "excerpt":"Go-live datoen er den dag, hvor jeres nye website bliver synligt på internettet, og hvor jeres brugere får adgang til siden.   Den URL på som jeres nuværende hjemmeside ligger på vil på den dag begynde at pege på jeres nye Folkebibliotekernes CMS-hjemmeside.   Go-live opgaverne er beskrevet herunder.   ","categories": ["Go-live"],
+        "title": "4. Go-live",
+        "excerpt":"Go-live datoen er den dag, hvor jeres nye website bliver synligt på internettet, og hvor jeres brugere får adgang til siden.   Den URL på som jeres nuværende hjemmeside ligger på vil på den dag begynde at pege på jeres nye Folkebibliotekernes CMS-hjemmeside.   Go-live opgaverne er beskrevet herunder.   ","categories": ["Onboarding"],
         "tags": [],
         "url": "/main/startopsaetning/go-live-intro/",
         "teaser": null
       },{
         "title": "Hjælpesiden",
-        "excerpt":"Hjælpesiden kan med opbygges vha. et card grid som her i København, hvor der er lavet underliggende sider med hjælp. Hjælp-side opbygget med Card Grid undersider En anden mulighed er at opbygge sider med en brødtekst og en accordion, som kan vejlede brugeren trin for trin: En lang informationsside er...","categories": ["Struktur og indhold"],
+        "excerpt":"Hjælpesiden kan med opbygges vha. et card grid som her i København, hvor der er lavet underliggende sider med hjælp. Hjælp-side opbygget med Card Grid undersider En anden mulighed er at opbygge sider med en brødtekst og en accordion, som kan vejlede brugeren trin for trin: En lang informationsside er...","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/hjaelpesiden/",
         "teaser": null
@@ -1007,38 +1013,32 @@ var store = [{
         "url": "/main/startopsaetning/",
         "teaser": null
       },{
-        "title": "Opgave 3: Indstillinger for gebyrside",
-        "excerpt":"De fleste kommuner er i dag overgået til ØiR. Mange kommuner bruger desuden KMD Opus økonomisystemet, hvor borgernes udeståender samles i “Mit betalingsoverblik”. “Mit betalingsoverblik” giver en samlet oversigt over de økonomiske mellemværender med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og biblioteksgebyrer. Har I ikke “Mit betalingsoverblik”,...","categories": ["Basis konfiguration"],
-        "tags": [],
-        "url": "/main/startopsaetning/indstillinger-for-gebyrside/",
-        "teaser": null
-      },{
         "title": "Opgave 1: Informationsarkitektur og navigation",
-        "excerpt":"Det er designbureauet Dept, der har lavet grunddesign til Folkebibliotekernes CMS. Det bygger på et navigationsprincip, som hedder navigation hub konceptet. Idéen er at bygge en dyb navigationsstruktur med få menupunkter i hovedmenuen, så brugeren præsenteres for få simple valg. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Via navigationselementer på disse...","categories": ["Struktur og indhold"],
+        "excerpt":"Det er designbureauet Dept, der har lavet grunddesign til Folkebibliotekernes CMS. Det bygger på et navigationsprincip, som hedder navigation hub konceptet. Idéen er at bygge en dyb navigationsstruktur med få menupunkter i hovedmenuen, så brugeren præsenteres for få simple valg. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Via navigationselementer på disse...","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/informationsarkitektur/",
         "teaser": null
       },{
         "title": "Inspiration / litteratur",
-        "excerpt":"Der er et utal af muligheder for at formidle litteratur på hjemmesiden. Her er et eksempel fra Billund, hvor der er bygget et inspirationsunivers op ved hjælp af følgende paragraphs: Material grid automatic Links Eksempel på bibliotek Der er også muligt at oprette forskellige artikler som kan trækkes ind i...","categories": ["Struktur og indhold"],
+        "excerpt":"Der er et utal af muligheder for at formidle litteratur på hjemmesiden. Her er et eksempel fra Billund, hvor der er bygget et inspirationsunivers op ved hjælp af følgende paragraphs: Material grid automatic Links Eksempel på bibliotek Der er også muligt at oprette forskellige artikler som kan trækkes ind i...","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/inspiration-litteratur/",
         "teaser": null
       },{
-        "title": "Opgave 11: Ændr kontaktformularens konfiguration",
-        "excerpt":"Jeres hjemmeside har en indbygget kontaktformular, der ligger på adressen https://mit-domænenavn.dk/kontakt. Inden I tager hjemmesiden i brug, skal I sørge for at tilpasse de automatiske email-svar, der sendes til brugerne, og sørge for at de rigtigte medarbejdere modtager henvendelserne fra brugerne. Kontaktformularen 1. Opret kategorier og tilknyt medarbejder-emails I kontaktformularen...","categories": ["Basis konfiguration"],
+        "title": "8. Kontaktformularen",
+        "excerpt":"Jeres hjemmeside har en indbygget kontaktformular, der ligger på adressen https://mit-domænenavn.dk/kontakt. Inden I tager hjemmesiden i brug, skal I sørge for at tilpasse de automatiske email-svar, der sendes til brugerne, og sørge for at de rigtigte medarbejdere modtager henvendelserne fra brugerne. Kontaktformularen 1. Opret kategorier og tilknyt medarbejder-emails I kontaktformularen...","categories": ["Opgaver - Basiskonfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/kontaktformular/",
         "teaser": null
       },{
-        "title": "Opgave 5: Mapp Intelligence",
-        "excerpt":"Via Mapp indsamles statistik for jeres hjemmeside. Indsæt Mapp ID i Folkebibliotekernes CMS I topmenuen klik på Indstillinger &gt; System &gt; Mapp Intelligence indstillinger Eller åbn via direkte link (udskift mit-staging-domæne.dk): https://mit-staging-domæne.dk/admin/config/system/dpl-mapp Indsæt 476651662471322 i feltet ID Tryk på Gem indstillinger Egenkontrol Det er ikke muligt at tjekke Mapp konfigurationen...","categories": ["Basis konfiguration"],
+        "title": "5. Mapp Intelligence",
+        "excerpt":"Via Mapp indsamles statistik for jeres hjemmeside. Indsæt Mapp ID i Folkebibliotekernes CMS I topmenuen klik på Indstillinger &gt; System &gt; Mapp Intelligence indstillinger Eller åbn via direkte link (udskift mit-staging-domæne.dk): https://mit-staging-domæne.dk/admin/config/system/dpl-mapp Indsæt 476651662471322 i feltet ID Tryk på Gem indstillinger Egenkontrol Det er ikke muligt at tjekke Mapp konfigurationen...","categories": ["Opgaver - Basiskonfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/mapp/",
         "teaser": null
       },{
         "title": "Opgave 6: Medarbejdere, e-ressourcer og formularer",
-        "excerpt":"Medarbejderoversigt Hvis I ønsker en oversigt over medarbejdere på biblioteket, skal I selv lave en liste på en side. Listen skal I manuelt vedligeholde. Besøg nogle af de andre bibliotekshjemmesider for at få inspiration til hvordan det kan gøres. E-ressourcer Der findes ingen e-ressource oversigtsside i Folkebibliotekernes CMS. Den simple...","categories": ["Struktur og indhold"],
+        "excerpt":"Medarbejderoversigt Hvis I ønsker en oversigt over medarbejdere på biblioteket, skal I selv lave en liste på en side. Listen skal I manuelt vedligeholde. Besøg nogle af de andre bibliotekshjemmesider for at få inspiration til hvordan det kan gøres. E-ressourcer Der findes ingen e-ressource oversigtsside i Folkebibliotekernes CMS. Den simple...","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/medarbejdere-eressourcer-fomularer/",
         "teaser": null
@@ -1049,62 +1049,62 @@ var store = [{
         "url": "/main/startopsaetning/netpunkt-slaa-op/",
         "teaser": null
       },{
-        "title": "Opgave 1: OpenID Connect (Adgangsplatformen)",
-        "excerpt":"Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt. I denne opgave skal I indsætte OpenID Connect adgangsnøgler i Folkebibliotekernes CMS. Rekvirer nøgler...","categories": ["Basis konfiguration"],
+        "title": "1. Adgangsplatformen",
+        "excerpt":"Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt. I denne opgave skal I indsætte OpenID Connect adgangsnøgler i Folkebibliotekernes CMS. Rekvirer nøgler...","categories": ["Opgaver - Basiskonfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/openid-connect/",
         "teaser": null
       },{
         "title": "Personalesiden",
-        "excerpt":"Folkebibliotekernes CMS er ikke født med en personaleside, så man skal selv være kreativ, hvis den skal opbygges. Her er et eksempel på hvordan en simpel personaleside kan opbygges vha. formidlingskomponenten accordion: Personaleoversigt opbygget med Accordion Hvis I meget gerne vil have billeder på, kan I finde inspiration hos Struer,...","categories": ["Struktur og indhold"],
+        "excerpt":"Folkebibliotekernes CMS er ikke født med en personaleside, så man skal selv være kreativ, hvis den skal opbygges. Her er et eksempel på hvordan en simpel personaleside kan opbygges vha. formidlingskomponenten accordion: Personaleoversigt opbygget med Accordion Hvis I meget gerne vil have billeder på, kan I finde inspiration hos Struer,...","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/personalesiden/",
         "teaser": null
       },{
-        "title": "Opgave 9: Få Adgangsplatformen til at pege på den rigtige brugeroprettelsesside",
-        "excerpt":"Fra Adgangsplatformen er der et link til siden registration på jeres gamle hjemmeside. Det link skal ændres, så det peger på siden Opret bruger, fra den dag I går live. Det skal I selv sørge for, ved at lave et redirect. I må gerne oprette redirect nu med det samme....","categories": ["Basis konfiguration"],
+        "title": "4. Redaktionelle brugere",
+        "excerpt":"Du er sikkert ikke den eneste, der skal lave indhold til jeres nye hjemmeside. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden. Det er ikke nødvendigt at oprette logins til alle dine kolleger. Kun dem der skal lægge indhold på...","categories": ["Opgaver - Basiskonfiguration"],
+        "tags": [],
+        "url": "/main/startopsaetning/redaktionelle-brugere/",
+        "teaser": null
+      },{
+        "title": "7. Adgangsplatformen - omdiriger link til brugeroprettelsesside",
+        "excerpt":"Adgangsplatformens login-side har et link med teksten “Ny bruger?”. Det henviser til en side med adressen /registration på jeres hjemmeside. Problemet er at den side ikke findes i Folkebibliotekernes CMS. I Folkebibliotekernes CMS ligger oprettelsessiden på adressen /opret-bruger. Der skal derfor laves en omdirigering, så forespørgsler til /registration viderestilles til...","categories": ["Opgaver - Basiskonfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/redirect-adgangsplatformen/",
         "teaser": null
       },{
-        "title": "Opgave 12: Redirects fra søgeresultater på Google",
-        "excerpt":"Jeres nye website er ikke identisk med det gamle. I har sikkert oprettet nyt indhold, fjernet noget gammelt og flyttet rundt med ting. Søgemaskinerne kender jeres gamle website, og har indekseret strukturen herfra. Når I skifter til den nye hjemmeside, vil mange af de links, som Google har registreret ikke...","categories": ["Basis konfiguration"],
+        "title": "9. Redirects fra søgeresultater på Google",
+        "excerpt":"Jeres nye website er ikke identisk med det gamle. I har sikkert oprettet nyt indhold, fjernet noget gammelt og flyttet rundt med ting. Søgemaskinerne kender jeres gamle website, og har indekseret strukturen herfra. Når I skifter til den nye hjemmeside, vil mange af de links, som Google har registreret ikke...","categories": ["Opgaver - Basiskonfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/redirects-google/",
         "teaser": null
       },{
-        "title": "Etablering af staging-site",
-        "excerpt":"Den nye hjemmmeside opbygges i et staging-site, som ikke umiddelbart er synligt for borgerne. Her kan biblioteket i ro og mag opbygge struktur og indhold. Når hjemmesiden er klar til lancering, aftales der en go-live dato mellem DDF og biblioteket. Biblioteket indgår aftale med DDF og vælger hosting-plan. DDF registerer...","categories": ["Staging-site"],
+        "title": "1. Etablering af staging-site",
+        "excerpt":"Den nye hjemmmeside opbygges i et staging-site, som ikke umiddelbart er synligt for borgerne. Her kan biblioteket i ro og mag opbygge struktur og indhold. Når hjemmesiden er klar til lancering, aftales der en go-live dato mellem DDF og biblioteket. Biblioteket indgår aftale med DDF og vælger hosting-plan. DDF registerer...","categories": ["Onboarding"],
         "tags": [],
         "url": "/main/startopsaetning/staging-site/",
         "teaser": null
       },{
-        "title": "Struktur og indhold - introduktion",
-        "excerpt":"Jeres staging-site er grundlæggende tomt. I skal selv oprette sider, biblioteker, åbningstider, arrangementer mv.   I skal også selv opbygge navigationsstrukturen. Dvs. beslutte hvad der skal linkes til fra hovedmenuen og footermenuen. Opbygge brødkrummestier og opbygge navigationssider.  ","categories": ["Struktur og indhold"],
+        "title": "3. Struktur og indhold",
+        "excerpt":"Jeres staging-site er grundlæggende tomt. I skal selv oprette sider, biblioteker, åbningstider, arrangementer mv.   I skal også selv opbygge navigationsstrukturen. Dvs. beslutte hvad der skal linkes til fra hovedmenuen og footermenuen. Opbygge brødkrummestier og opbygge navigationssider.  ","categories": ["Onboarding"],
         "tags": [],
         "url": "/main/startopsaetning/struktur-indhold-intro/",
         "teaser": null
       },{
         "title": "Opgave 3: Sider og menuer",
-        "excerpt":"Planlæg strukturen af hjemmesiden 2. Opret jeres sider Start med at oprette de sider, som strukturen skal bestå af. Se hvordan man opretter sider i guiden Opret indhold: Side. 3. Lav jeres brødkrummesti Sider struktureres ved at opbygge brødkrummer. Se hvordan man laver en brødkrummesti i guiden Opret indhold: Brødkrummesti....","categories": ["Struktur og indhold"],
+        "excerpt":"Planlæg strukturen af hjemmesiden 2. Opret jeres sider Start med at oprette de sider, som strukturen skal bestå af. Se hvordan man opretter sider i guiden Opret indhold: Side. 3. Lav jeres brødkrummesti Sider struktureres ved at opbygge brødkrummer. Se hvordan man laver en brødkrummesti i guiden Opret indhold: Brødkrummesti....","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/struktur-og-menuer/",
         "teaser": null
       },{
-        "title": "Opgave 4: Opret redaktionelle brugere",
-        "excerpt":"Du er sikkert ikke den eneste, der skal lave indhold til jeres nye hjemmeside. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden. Det er ikke nødvendigt at oprette logins til alle dine kolleger. Kun dem der skal lægge indhold på...","categories": ["Basis konfiguration"],
-        "tags": [],
-        "url": "/main/startopsaetning/systembrugere/",
-        "teaser": null
-      },{
         "title": "Taksonomi - kategorier og tags",
-        "excerpt":"I Folkebibliotekernes CMS har tags og kategorier som i DDB CMS. Både kategorier og tags kan bruges på tværs af indholdstyper. Tags og kategorier anvendes til filtrering af indhold i lister og komponenter. For eksempel kan en slider (nyheds- eller artikelkarrusel) på en sektionsside sættes op til at kun at...","categories": ["Struktur og indhold"],
+        "excerpt":"I Folkebibliotekernes CMS har tags og kategorier som i DDB CMS. Både kategorier og tags kan bruges på tværs af indholdstyper. Tags og kategorier anvendes til filtrering af indhold i lister og komponenter. For eksempel kan en slider (nyheds- eller artikelkarrusel) på en sektionsside sættes op til at kun at...","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/taksonomi/",
         "teaser": null
       },{
-        "title": "Opgave 8: Logo, identitetsfarve og favicon",
-        "excerpt":"Logo Logo vises i øverste ventre hjørne af alle websider. Det placeres i et rektangulært felt, som sætter nogle krav til udformningen. Meget aflange logoer fungerer dårligt og vil gøre bibliotekets navn meget småt. Ombryd evt. teksten i to dæk for bedre læsbarhed. Logoet bør være en PNG eller SVG...","categories": ["Basis konfiguration"],
+        "title": "6. Logo, identitetsfarve og favicon",
+        "excerpt":"Logo Logo vises i øverste ventre hjørne af alle websider. Det placeres i et rektangulært felt, som sætter nogle krav til udformningen. Meget aflange logoer fungerer dårligt og vil gøre bibliotekets navn meget småt. Ombryd evt. teksten i to dæk for bedre læsbarhed. Logoet bør være en PNG eller SVG...","categories": ["Opgaver - Basiskonfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/udseende/",
         "teaser": null
