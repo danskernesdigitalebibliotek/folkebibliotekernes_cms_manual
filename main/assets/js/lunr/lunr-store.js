@@ -23,6 +23,12 @@ var store = [{
         "url": "/main/category/delingstjenesten/",
         "teaser": null
       },{
+        "title": "Digitale tilbud",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/main/category/digitale%20tilbud/",
+        "teaser": null
+      },{
         "title": "Driftsforhold",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -101,7 +107,7 @@ var store = [{
         "url": "/main/category/release-notes/",
         "teaser": null
       },{
-        "title": "Om søgning",
+        "title": "Søgning",
         "excerpt":"Søgning  ","categories": [],
         "tags": [],
         "url": "/main/category/soegning/",
@@ -131,14 +137,8 @@ var store = [{
         "url": "/main/category/udvikling/",
         "teaser": null
       },{
-        "title": "VIP og proxy",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/main/category/vip-proxy/",
-        "teaser": null
-      },{
-        "title": "Om visning og reservering",
-        "excerpt":"Om visning og reserveringer  ","categories": [],
+        "title": "Visning og reservering",
+        "excerpt":"Visning og reservering  ","categories": [],
         "tags": [],
         "url": "/main/category/visning/",
         "teaser": null
@@ -285,24 +285,6 @@ var store = [{
         "excerpt":"Der vises et link til den faste side Opret bruger, når man trykker på brugerikonet. (Man må ikke i forvejen være logget ind.) Herfra linkes til siden Opret bruger Tilret teksten på siden Opret bruger Find siden Opret bruger under indhold og tilret teksten efter jeres behov Standardteksten må gerne...","categories": ["Faste sider"],
         "tags": [],
         "url": "/main/indhold/brugeroprettelsesside/",
-        "teaser": null
-      },{
-        "title": "Digitale tilbud - brugsvilkår og betingelser",
-        "excerpt":"DDF har skrevet et forslag til en tekst om brugsvilkår og betingelser, der gælder for de digitale tilbud og licenser. Vi anbefaler, at I kopierer teksten og lægger den på siden, hvorfra I linker til jeres digitale tilbud: Bemærk at enkelte digitale tilbud kan kræve oprettelse af brugerprofil, download af...","categories": ["Generelt"],
-        "tags": [],
-        "url": "/main/indhold/brugervilkaar-digitale-tilbud/",
-        "teaser": null
-      },{
-        "title": "CQL Søgestrenge Eksempler",
-        "excerpt":"DBCs CQL dokumentation: FBI-API’s Complex Search Documentation Mette Kulmbach har været så venlig at dele nogle søgestrenge, som hun har bygget for Billund Bibliotekerne. De er til inspiration og er ikke perfekte eller udtømmende. Har du lavet søgestrenge, der er smartere eller mere korrekte, da send dine eksempler til cms-info@fddf.dk....","categories": ["Generelt"],
-        "tags": [],
-        "url": "/main/indhold/cql-soegestrenge-eksempler/",
-        "teaser": null
-      },{
-        "title": "CQL Søgestrenge",
-        "excerpt":"DBCs CQL dokumentation: FBI-API’s Complex Search Documentation CQL-søgestrenge bruges fx til at trække materialer ind i den paragraph, der hedder Material grid automatic. Sådan opretter du nemt en CQL-søgestreng CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion og kopiere søgestrengen derfra. Klik på Avanceret søgning....","categories": ["Generelt"],
-        "tags": [],
-        "url": "/main/indhold/cql-soegestrenge/",
         "teaser": null
       },{
         "title": "Faste sider - overblik",
@@ -887,6 +869,24 @@ var store = [{
         "url": "/main/soegning/avanceret-sogning/",
         "teaser": null
       },{
+        "title": "Digitale tilbud - brugsvilkår og betingelser",
+        "excerpt":"DDF har skrevet et forslag til en tekst om brugsvilkår og betingelser, der gælder for de digitale tilbud og licenser. Vi anbefaler, at I kopierer teksten og lægger den på siden, hvorfra I linker til jeres digitale tilbud: Bemærk at enkelte digitale tilbud kan kræve oprettelse af brugerprofil, download af...","categories": ["Digitale tilbud"],
+        "tags": [],
+        "url": "/main/soegning/brugervilkaar-digitale-tilbud/",
+        "teaser": null
+      },{
+        "title": "CQL Søgestrenge Eksempler",
+        "excerpt":"DBCs CQL dokumentation: FBI-API’s Complex Search Documentation Mette Kulmbach har været så venlig at dele nogle søgestrenge, som hun har bygget for Billund Bibliotekerne. De er til inspiration og er ikke perfekte eller udtømmende. Har du lavet søgestrenge, der er smartere eller mere korrekte, da send dine eksempler til cms-info@fddf.dk....","categories": ["Søgning"],
+        "tags": [],
+        "url": "/main/soegning/cql-soegestrenge-eksempler/",
+        "teaser": null
+      },{
+        "title": "CQL Søgestrenge",
+        "excerpt":"DBCs CQL dokumentation: FBI-API’s Complex Search Documentation CQL-søgestrenge bruges fx til at trække materialer ind i den paragraph, der hedder Material grid automatic. Sådan opretter du nemt en CQL-søgestreng CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion og kopiere søgestrengen derfra. Klik på Avanceret søgning....","categories": ["Søgning"],
+        "tags": [],
+        "url": "/main/soegning/cql-soegestrenge/",
+        "teaser": null
+      },{
         "title": "Søgning og visning",
         "excerpt":"Bliv klogere på hvordan simpel søgning og avanceret søgning.   ","categories": [],
         "tags": [],
@@ -894,55 +894,55 @@ var store = [{
         "teaser": null
       },{
         "title": "Intelligente facetter",
-        "excerpt":"Et søgeresultat vises sådan her. Facet-båndet er markeret med rødt. Søgefacetter i et søgeresultat Der findes 12 forskellige facet-bånd, der kan vises for brugerne: Studerende, Børnebøger, Ebøger, Faglitteratur, Film, Film for børn, Lydbøger, Lydbøger for børn, Musik, Skønlitteratur, Spil og Spil for børn. Ud fra det søgeresultat, brugerens søgning har...","categories": ["Om søgning"],
+        "excerpt":"Et søgeresultat vises sådan her. Facet-båndet er markeret med rødt. Søgefacetter i et søgeresultat Der findes 12 forskellige facet-bånd, der kan vises for brugerne: Studerende, Børnebøger, Ebøger, Faglitteratur, Film, Film for børn, Lydbøger, Lydbøger for børn, Musik, Skønlitteratur, Spil og Spil for børn. Ud fra det søgeresultat, brugerens søgning har...","categories": ["Søgning"],
         "tags": [],
         "url": "/main/soegning/intelligente-facetter/",
         "teaser": null
       },{
         "title": "Overbygningsmaterialer",
-        "excerpt":"Som noget nyt er det muligt for brugere af Folkebibliotekernes CMS at oprette fjernlån fra Centralbibliotekerne direkte på hjemmesiden, i stedet for at skulle igennem bibliotek.dk. Det er kun overbygningsmaterialerne, der kan bestilles, og kun når I ikke selv har dem i beholdning. For at stille denne funktionalitet til rådighed...","categories": ["Om søgning"],
+        "excerpt":"Som noget nyt er det muligt for brugere af Folkebibliotekernes CMS at oprette fjernlån fra Centralbibliotekerne direkte på hjemmesiden, i stedet for at skulle igennem bibliotek.dk. Det er kun overbygningsmaterialerne, der kan bestilles, og kun når I ikke selv har dem i beholdning. For at stille denne funktionalitet til rådighed...","categories": ["Søgning"],
         "tags": [],
         "url": "/main/soegning/overbygningsmaterialer/",
         "teaser": null
       },{
         "title": "Parallelreservering",
-        "excerpt":"I FBS har det længe været en muligt at oprette parallelreserveringer – men det er først med Folkebibliotekernes CMS at det bliver muligt for slutbrugerne selv at oprette dem. Opret reservering Her er en værkvisningsside for et skønlitterært værk, hvor der er to manifestationer i den valgte materialetype (bog). Skønlitterært...","categories": ["Om visning og reservering"],
+        "excerpt":"I FBS har det længe været en muligt at oprette parallelreserveringer – men det er først med Folkebibliotekernes CMS at det bliver muligt for slutbrugerne selv at oprette dem. Opret reservering Her er en værkvisningsside for et skønlitterært værk, hvor der er to manifestationer i den valgte materialetype (bog). Skønlitterært...","categories": ["Visning og reservering"],
         "tags": [],
         "url": "/main/soegning/parallelreservering/",
         "teaser": null
       },{
         "title": "Fjernadgang - Proxy indstillinger",
-        "excerpt":"Søgefeltet på hjemmesiden kan vise resultater fra elektroniske ressourcer, som biblioteket abonnerer på. Hvilke kilder der skal være søgbare, beslutter I selv via VIP søgeprofilen. Har I valgt at inkludere kilder som Gale eller Ebook Central, er det vigtigt at registere proxy indstillinger for kilden. Ellers vil links fra søgeresultatet...","categories": ["VIP og proxy"],
+        "excerpt":"Søgefeltet på hjemmesiden kan vise resultater fra elektroniske ressourcer, som biblioteket abonnerer på. Hvilke kilder der skal være søgbare, beslutter I selv via VIP søgeprofilen. Har I valgt at inkludere kilder som Gale eller Ebook Central, er det vigtigt at registere proxy indstillinger for kilden. Ellers vil links fra søgeresultatet...","categories": ["Digitale tilbud"],
         "tags": [],
         "url": "/main/soegning/proxyindstillinger/",
         "teaser": null
       },{
         "title": "Rankering af fuzzy match",
-        "excerpt":"Der er kun ét søgefelt i Folkebibliotekernes CMS, og der er rigtig mange, meget forskelligartede brugerbehov. For at kunne understøtte så mange som muligt af disse, benyttes ”fuzzy match”. Ordet “fuzzy” betegner noget der er uskarpt, sløret, ikke helt præcist, og det er dækkende for, hvad der sker. Systemet finder...","categories": ["Om søgning"],
+        "excerpt":"Der er kun ét søgefelt i Folkebibliotekernes CMS, og der er rigtig mange, meget forskelligartede brugerbehov. For at kunne understøtte så mange som muligt af disse, benyttes ”fuzzy match”. Ordet “fuzzy” betegner noget der er uskarpt, sløret, ikke helt præcist, og det er dækkende for, hvad der sker. Systemet finder...","categories": ["Søgning"],
         "tags": [],
         "url": "/main/soegning/rankering-og-fuzzy-match/",
         "teaser": null
       },{
         "title": "Strakslåns-notifikation",
-        "excerpt":"Mens man opretter en reservation kan man få en strakslåns-notifikation. Strakslåns-notifikation Du møder strakslåns-notifikationen, når der er reserveringskø på den materialetype, du er ved at reservere OG hvis biblioteket har et eller flere ikke-reserverbare eksemplarer hjemme. Mange biblioteker har ikke-reserverbare eksemplarer i form af “kviklån” eller “kortlån”. I det tilfælde...","categories": ["Om visning og reservering"],
+        "excerpt":"Mens man opretter en reservation kan man få en strakslåns-notifikation. Strakslåns-notifikation Du møder strakslåns-notifikationen, når der er reserveringskø på den materialetype, du er ved at reservere OG hvis biblioteket har et eller flere ikke-reserverbare eksemplarer hjemme. Mange biblioteker har ikke-reserverbare eksemplarer i form af “kviklån” eller “kortlån”. I det tilfælde...","categories": ["Visning og reservering"],
         "tags": [],
         "url": "/main/soegning/strakslaansnotifikation/",
         "teaser": null
       },{
         "title": "Værk og manifestation",
-        "excerpt":"Søgeresultater i Folkebibliotekernes CMS leveres fra brønden. Søgninger sendes afsted og resultater modtages via en ny-udviklet snitflade der hedder FBI-API. Den virker helt anderledes end den snitflade der bruges i DDB CMS. FBI-API skelner mellem værker og manifestationer. Det er begreber, der er hentet fra Dublin Core, som er en...","categories": ["Om visning og reservering"],
+        "excerpt":"Søgeresultater i Folkebibliotekernes CMS leveres fra brønden. Søgninger sendes afsted og resultater modtages via en ny-udviklet snitflade der hedder FBI-API. Den virker helt anderledes end den snitflade der bruges i DDB CMS. FBI-API skelner mellem værker og manifestationer. Det er begreber, der er hentet fra Dublin Core, som er en...","categories": ["Visning og reservering"],
         "tags": [],
         "url": "/main/soegning/vaerk-og-manifestation/",
         "teaser": null
       },{
         "title": "Værkvisningsside",
-        "excerpt":"Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på en materialetype. Filtrerer man på ”Online lydbog”, da vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”. Fra DDB CMS er vi vant...","categories": ["Om visning og reservering"],
+        "excerpt":"Når en bruger foretager en søgning i Folkebibliotekernes CMS, vil det altid være værker, der vises i søgeresultatet. Også selvom man f. eks. filtrerer på en materialetype. Filtrerer man på ”Online lydbog”, da vises kun de værker, der er manifesteret i materialetypen ”Online lydbog”. Fra DDB CMS er vi vant...","categories": ["Visning og reservering"],
         "tags": [],
         "url": "/main/soegning/vaerkvisningssiden/",
         "teaser": null
       },{
         "title": "Opret søge- og visningsprofil i VIP",
-        "excerpt":"Hjemmesiden henter data fra databrønden i mange forskellige sammenhænge, og disse sammenhænge kan overordnet inddeles i søgning og visning. Folkebibliotekernes CMS kræver to brøndprofiler i VIP-basen - en søgeprofil og en visningsprofil. De to brøndprofiler skal I selv oprette. I må selv bestemme hvad de skal hedde. Kald dem f....","categories": ["VIP og proxy"],
+        "excerpt":"Hjemmesiden henter data fra databrønden i mange forskellige sammenhænge, og disse sammenhænge kan overordnet inddeles i søgning og visning. Folkebibliotekernes CMS kræver to brøndprofiler i VIP-basen - en søgeprofil og en visningsprofil. De to brøndprofiler skal I selv oprette. I må selv bestemme hvad de skal hedde. Kald dem f....","categories": ["Søgning"],
         "tags": [],
         "url": "/main/soegning/vip-profiler/",
         "teaser": null
@@ -965,8 +965,8 @@ var store = [{
         "url": "/main/startopsaetning/biblioteksindstillinger/",
         "teaser": null
       },{
-        "title": "Biblioteker",
-        "excerpt":"Start med oprette alle jeres biblioteker (branches) under indhold. Et bibliotek kan bygges op af følgende: Et navn Et hovedbillede En brødtekst (paragraph) Et navigation grid til fx arrangementer (paragraph) Åbningstider (paragraph) Eksempel på bibliotek Du kan lave et link til samlesiden for alle biblioteker fra hovedmenuen. Samlesiden hedder /biblioteker....","categories": ["Opret struktur og indhold"],
+        "title": "Biblioteker og åbningstider",
+        "excerpt":"Opret alle kommunens biblioteker Start med oprette alle jeres biblioteker (branches) under indhold. De oprettes med navn, billede, brødtekst. Der kan også tilføjes links til arrangementer på biblioteket eller andet. Sådan oprettes et bibliotek Register åbningstider for hvert bibliotek For hvert bibliotek skal der registreres åbniningstider. Tilknyt åbningstider til et...","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/bibliotekssiden/",
         "teaser": null
