@@ -180,7 +180,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Delingstjenesten",
-        "excerpt":"Nu er det blevet endnu nemmere at holde sin hjemmeside opdateret med nyt indhold. Ud over at sende og hente indhold manuelt, kan man med den nye abonnement-funktion automatisk få det nyeste indhold leveret direkte på bibliotekets hjemmeside, efterhånden som det publiceres. Overblik - Det kan man med Delingstjenesten Link...","categories": [],
+        "excerpt":"Nu er det blevet endnu nemmere at holde sin hjemmeside opdateret med nyt indhold. Ud over at sende og hente indhold manuelt, kan man med den nye abonnement-funktion automatisk få det nyeste indhold leveret direkte på bibliotekets hjemmeside, efterhånden som det publiceres. Overblik - Det kan man med Delingstjenesten Besøg...","categories": [],
         "tags": [],
         "url": "/main/delingstjenesten/",
         "teaser": null
