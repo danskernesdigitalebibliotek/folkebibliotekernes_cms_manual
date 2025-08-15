@@ -1019,7 +1019,7 @@ var store = [{
         "url": "/main/startopsaetning/",
         "teaser": null
       },{
-        "title": "Opgave 1: Informationsarkitektur og navigation",
+        "title": "Informationsarkitektur i FB CMS",
         "excerpt":"Det er designbureauet Dept, der har lavet grunddesign til Folkebibliotekernes CMS. Det bygger på et navigationsprincip, som hedder navigation hub konceptet. Idéen er at bygge en dyb navigationsstruktur med få menupunkter i hovedmenuen, så brugeren præsenteres for få simple valg. Fra forsiden linkes til fokuserede sektionssider/navigationssider. Via navigationselementer på disse...","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/informationsarkitektur/",
@@ -1079,6 +1079,12 @@ var store = [{
         "url": "/main/startopsaetning/redirects-google/",
         "teaser": null
       },{
+        "title": "Sider og menuer",
+        "excerpt":"Byg hjemmesidens grundstruktur Start med at oprette de centrale sider og menupunkter, så I får lagt fundamentet for hjemmesiden. 1. Opret jeres sider Start med at oprette de sider, som strukturen skal bestå af. Se hvordan man opretter sider i guiden Opret indhold: Side. 2. Lav jeres brødkrummestier Sider struktureres...","categories": ["Opret struktur og indhold"],
+        "tags": [],
+        "url": "/main/startopsaetning/sider-og-menuer/",
+        "teaser": null
+      },{
         "title": "1. Etablering af staging-site",
         "excerpt":"Den nye hjemmmeside opbygges i et staging-site, som ikke umiddelbart er synligt for borgerne. Her kan biblioteket i ro og mag opbygge struktur og indhold. Når hjemmesiden er klar til lancering, aftales der en go-live dato mellem DDF og biblioteket. Biblioteket indgår aftale med DDF og vælger hosting-plan. DDF registerer...","categories": ["Onboarding"],
         "tags": [],
@@ -1089,12 +1095,6 @@ var store = [{
         "excerpt":"Jeres staging-site er grundlæggende tomt. I skal selv oprette sider, biblioteker, åbningstider, arrangementer mv.   I skal også selv opbygge navigationsstrukturen. Dvs. beslutte hvad der skal linkes til fra hovedmenuen og footermenuen. Opbygge brødkrummestier og opbygge navigationssider.  ","categories": ["Onboarding"],
         "tags": [],
         "url": "/main/startopsaetning/struktur-indhold-intro/",
-        "teaser": null
-      },{
-        "title": "Opgave 3: Sider og menuer",
-        "excerpt":"Planlæg strukturen af hjemmesiden 2. Opret jeres sider Start med at oprette de sider, som strukturen skal bestå af. Se hvordan man opretter sider i guiden Opret indhold: Side. 3. Lav jeres brødkrummesti Sider struktureres ved at opbygge brødkrummer. Se hvordan man laver en brødkrummesti i guiden Opret indhold: Brødkrummesti....","categories": ["Opret struktur og indhold"],
-        "tags": [],
-        "url": "/main/startopsaetning/struktur-og-menuer/",
         "teaser": null
       },{
         "title": "Taksonomi - kategorier og tags",
