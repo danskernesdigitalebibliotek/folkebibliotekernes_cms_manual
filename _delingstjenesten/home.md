@@ -6,9 +6,9 @@ permalink: /delingstjenesten/
 
 Nu er det blevet endnu nemmere at holde sin hjemmeside opdateret med nyt indhold. Ud over at sende og hente indhold manuelt, kan man med den nye abonnement-funktion automatisk få det nyeste indhold leveret direkte på bibliotekets hjemmeside, efterhånden som det publiceres. 
 
-[Overblik - Det kan man med Delingstjenesten]()
+[Overblik - Det kan man med Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/#det-kan-man-med-delingstjenesten)
 
-[Link til Delingstjenesten - bibliotekernes nationale formidling](https://delingstjenesten.dk/){:target="_blank"}.
+Besøg Delingstjenestens hjemmeside: [Delingstjenesten - bibliotekernes nationale formidling](https://delingstjenesten.dk/){:target="_blank"}.
 
 ---
 
