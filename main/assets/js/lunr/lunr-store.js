@@ -287,6 +287,12 @@ var store = [{
         "url": "/main/indhold/brugeroprettelsesside/",
         "teaser": null
       },{
+        "title": "Faste sider",
+        "excerpt":"Gennemgå de faste sider Folkebibliotekernes CMS fødes med nogle faste sider eller standardsider. De faste sider kan redigeres, præcis som sider I selv har oprettet. De er der bare fra starten af, når I får systemet. Rundt omkring på jeres website, er der links til de faste sider. Hvis de...","categories": ["Generelt"],
+        "tags": [],
+        "url": "/main/indhold/faste-sider-intro/",
+        "teaser": null
+      },{
         "title": "Faste sider - overblik",
         "excerpt":"Folkebibliotekernes CMS fødes med nogle faste side eller standardsider. Faste sider er præcis som alle andre sider. De er der bare fra starten af, når I får systemet. Rundt omkring på jeres website, er der links til de faste sider. Hvis de mangler, risikerer I, at jeres brugere møder døde...","categories": ["Faste sider"],
         "tags": [],
@@ -297,6 +303,12 @@ var store = [{
         "excerpt":"Footermenuen består af to dele 1. selve footmenuen og 2. en servicemenu, hvor I kan indsætte links til fx tilgængelighedserklæring, privatlivspolitik etc. og indsættte links til jeres sociale medie kanaler. Footermenu I topmenuen klik på Indhold &gt; Footerindstillinger eller brug adressen https://mit-domænenavn.dk/admin/structure/footer (udskift mit-domænenavn.dk) Vælg Indhold og herefter Footerindstillinger i...","categories": ["Navigation"],
         "tags": [],
         "url": "/main/indhold/footermenu/",
+        "teaser": null
+      },{
+        "title": "Forsiden",
+        "excerpt":"Opret en forside Folkebibliotekernes CMS fødes ikke med en forside. Den skal I selv opbygge. En hvilken som helst side kan fungere som forside. Vi anbefaler, at I opretter en side med navnet Forside. I behøver ikke gøre den færdig rent indholdsmæssigt. For nu er det ok, at den er...","categories": ["Generelt"],
+        "tags": [],
+        "url": "/main/indhold/forside/",
         "teaser": null
       },{
         "title": "Opret indhold i Folkebibliotekernes CMS",
@@ -983,12 +995,6 @@ var store = [{
         "url": "/main/startopsaetning/dns/",
         "teaser": null
       },{
-        "title": "Opgave 2: Forsiden og faste sider",
-        "excerpt":"Opret en forside Folkebibliotekernes CMS fødes ikke med en forside. Den skal I selv opbygge. En hvilken som helst side kan fungere som forside. Vi anbefaler, at I opretter en side med navnet Forside. I behøver ikke gøre den færdig rent indholdsmæssigt. For nu er det ok, at den er...","categories": ["Opret struktur og indhold"],
-        "tags": [],
-        "url": "/main/startopsaetning/faste-sider-og-forside/",
-        "teaser": null
-      },{
         "title": "Forsiden",
         "excerpt":"Forsiden er en side som alle andre. Alle sider kan i princippet bruges som forside. I backend skal I selv indstille, hvilken side, der skal væres jeres forside. Læs hvordan man registrerer en side som forside. Forsiden er bygget op af inspirationskomponenter, og det er redaktionelt muligt for det enkelte...","categories": ["Opret struktur og indhold"],
         "tags": [],
@@ -1001,8 +1007,8 @@ var store = [{
         "url": "/main/startopsaetning/go-live-intro/",
         "teaser": null
       },{
-        "title": "Hjælpesiden",
-        "excerpt":"Hjælpesiden kan med opbygges vha. et card grid som her i København, hvor der er lavet underliggende sider med hjælp. Hjælp-side opbygget med Card Grid undersider En anden mulighed er at opbygge sider med en brødtekst og en accordion, som kan vejlede brugeren trin for trin: En lang informationsside er...","categories": ["Opret struktur og indhold"],
+        "title": "Hjælpesider",
+        "excerpt":"Hjælpesider kan opbygges vha. et card grid som her i København, hvor der er lavet underliggende sider med hjælp. Hjælp-side opbygget med Card Grid undersider En anden mulighed er at opbygge sider med en brødtekst og en accordion, som kan vejlede brugeren trin for trin: En lang informationsside er gjort...","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/hjaelpesiden/",
         "teaser": null
@@ -1037,12 +1043,6 @@ var store = [{
         "url": "/main/startopsaetning/mapp/",
         "teaser": null
       },{
-        "title": "Opgave 6: Medarbejdere, e-ressourcer og formularer",
-        "excerpt":"Medarbejderoversigt Hvis I ønsker en oversigt over medarbejdere på biblioteket, skal I selv lave en liste på en side. Listen skal I manuelt vedligeholde. Besøg nogle af de andre bibliotekshjemmesider for at få inspiration til hvordan det kan gøres. E-ressourcer Der findes ingen e-ressource oversigtsside i Folkebibliotekernes CMS. Den simple...","categories": ["Opret struktur og indhold"],
-        "tags": [],
-        "url": "/main/startopsaetning/medarbejdere-eressourcer-fomularer/",
-        "teaser": null
-      },{
         "title": "Slå-op funktion i Netpunkt",
         "excerpt":"Denne opgave skal løses, når I er gået i drift med det nye site. I Netpunkt findes en Er hjemme - slå op funktion. Den linker til beholdningsvisning for en titel i bibliotekets eget CMS. Netpunkt skal kende url-strukturen I jeres nye CMS, for at funktionen virker. Den skal I...","categories": ["Go-live"],
         "tags": [],
@@ -1056,7 +1056,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Personalesiden",
-        "excerpt":"Folkebibliotekernes CMS er ikke født med en personaleside, så man skal selv være kreativ, hvis den skal opbygges. Her er et eksempel på hvordan en simpel personaleside kan opbygges vha. formidlingskomponenten accordion: Personaleoversigt opbygget med Accordion Hvis I meget gerne vil have billeder på, kan I finde inspiration hos Struer,...","categories": ["Opret struktur og indhold"],
+        "excerpt":"Folkebibliotekernes CMS er ikke født med en personaleoversigt, så man skal selv være kreativ, hvis den skal opbygges. Her er et eksempel på hvordan en simpel personaleside kan opbygges vha. formidlingskomponenten accordion: Personaleoversigt opbygget med Accordion Hvis I meget gerne vil have billeder på, kan I finde inspiration hos Struer,...","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/personalesiden/",
         "teaser": null
