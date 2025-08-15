@@ -1,6 +1,7 @@
 ---
 title: "Biblioteker og åbningstider"
 category: "Opret struktur og indhold"
+weight: 12
 ---
 
 ## Opret alle kommunens biblioteker

@@ -1,7 +1,7 @@
 ---
-title: "Opgave 1: Informationsarkitektur og navigation"
+title: "Informationsarkitektur i FB CMS"
 category: "Opret struktur og indhold"
-weight: 2
+weight: 5
 ---
 Det er designbureauet **Dept**, der har lavet grunddesign til Folkebibliotekernes CMS. Det bygger på et navigationsprincip, som hedder **navigation hub konceptet**. 
 
@@ -35,11 +35,3 @@ I skal til at opbygge struktur og indhold på jeres hjemmeside. Overvej nu:
 
 Det kan være en god idé at lave et flowchart over navigationen inden I går i gang med at implementere alle siderne på hjemmesiden, så har I et overblik over hvad der skal oprettes. I kan finde en masse gratis flowchart skabeloner på nettet.  
 
-## Resultat ##
-I har en plan for:
-- Menustruktur
-- Hvilke sider der skal oprettes
-- Hvordan siderne skal bindes sammen vha. navigationskomponenter
-
-## Involverede parter ##
-Webredaktionen

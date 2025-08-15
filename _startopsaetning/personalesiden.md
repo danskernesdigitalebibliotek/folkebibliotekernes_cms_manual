@@ -1,6 +1,7 @@
 ---
 title: "Personalesiden"
 category: "Opret struktur og indhold"
+weight: 35
 ---
 Folkebibliotekernes CMS er ikke født med en personaleoversigt, så man skal selv være kreativ, hvis den skal opbygges. 
 

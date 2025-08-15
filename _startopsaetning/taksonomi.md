@@ -1,7 +1,7 @@
 ---
 title: "Taksonomi - kategorier og tags"
 category: "Opret struktur og indhold"
-weight: 8
+weight: 15
 ---
 
 I Folkebibliotekernes CMS har tags og kategorier som i DDB CMS. Både kategorier og tags kan bruges på tværs af indholdstyper. Tags og kategorier anvendes til filtrering af indhold i lister og komponenter. 

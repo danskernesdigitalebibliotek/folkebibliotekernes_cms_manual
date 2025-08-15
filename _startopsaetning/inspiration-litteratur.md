@@ -1,6 +1,7 @@
 ---
 title: "Inspiration / litteratur"
 category: "Opret struktur og indhold"
+weight: 25
 ---
 Der er et utal af muligheder for at formidle litteratur på hjemmesiden.
 Her er et eksempel fra Billund, hvor der er bygget et inspirationsunivers op ved hjælp af følgende paragraphs:

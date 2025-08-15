@@ -1,6 +1,7 @@
 ---
 title: "Hjælpesider"
 category: "Opret struktur og indhold"
+weight: 20
 ---
 
 Hjælpesider kan opbygges vha. et card grid som her i København, hvor der er lavet underliggende sider med hjælp.
