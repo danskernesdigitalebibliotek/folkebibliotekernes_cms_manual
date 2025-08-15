@@ -1,5 +1,5 @@
 ---
-title: "Sådan sender du indhold til Delingstjenesten"
+title: "Send indhold til Delingstjenesten"
 category: Delingstjenesten
 nav_order: 3
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Sådan logger du ind på Delingstjenesten"
+title: "Log ind på Delingstjenesten"
 category: Delingstjenesten
 nav_order: 4
 ---

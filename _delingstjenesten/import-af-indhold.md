@@ -1,5 +1,5 @@
 ---
-title: "Sådan henter du indhold fra Delingstjenesten"
+title: "Hent indhold fra Delingstjenesten"
 category: Delingstjenesten
 nav_order: 2
 ---

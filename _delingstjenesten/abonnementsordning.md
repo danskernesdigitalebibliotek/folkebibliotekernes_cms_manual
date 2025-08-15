@@ -1,5 +1,5 @@
 ---
-title: "Sådan abonnerer du på indhold fra Delingstjenesten"
+title: "Abonnerer på indhold fra Delingstjenesten"
 category: "Delingstjenesten"
 nav_order: 4
 ---
