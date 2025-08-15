@@ -167,13 +167,13 @@ var store = [{
         "url": "/main/category/webmasterplanen/",
         "teaser": null
       },{
-        "title": "Sådan abonnerer du på indhold fra Delingstjenesten",
+        "title": "Abonnerer på indhold fra Delingstjenesten",
         "excerpt":"Med abonnement kan du automatisk og fleksibelt få det nyeste indhold leveret direkte på dit biblioteketssite, efterhånden som det publiceres. Du kan abonnere på indhold fra Delingstjenesten baseret på tags og kategorier. Når nye artikler med det valgte tag eller kategori udgives, bliver de automatisk hentet ind på dit bibliotekssite...","categories": ["Delingstjenesten"],
         "tags": [],
         "url": "/main/delingstjenesten/abonnementsordning/",
         "teaser": null
       },{
-        "title": "Sådan sender du indhold til Delingstjenesten",
+        "title": "Send indhold til Delingstjenesten",
         "excerpt":"Med send-funktionen kan du dele indholdstyperne artikler og sider fra din egen hjemmeside med resten af landets biblioteker via Delingstjenesten. Du kan kun sende indhold én gang. Når artiklen eller siden først er sendt, vil efterfølgende ændringer kun gælde på dit eget site – ikke i Delingstjenesten. 1. Opret eller...","categories": ["Delingstjenesten"],
         "tags": [],
         "url": "/main/delingstjenesten/eksport-af-indhold/",
@@ -185,13 +185,13 @@ var store = [{
         "url": "/main/delingstjenesten/",
         "teaser": null
       },{
-        "title": "Sådan henter du indhold fra Delingstjenesten",
+        "title": "Hent indhold fra Delingstjenesten",
         "excerpt":"Du kan hente indhold fra Bibliotekernes Nationale Redaktion – klar til brug på dit eget bibliotekssite. Nedenfor guider vi dig trin-for-trin. 1. Log ind via bibliotekets CMS Læs vejledning for login på Delingstjenesten Du sendes herfra videre til Delingstjenestens forside. 2. Find det rette indhold På forsiden vises udvalgt og...","categories": ["Delingstjenesten"],
         "tags": [],
         "url": "/main/delingstjenesten/import-af-indhold/",
         "teaser": null
       },{
-        "title": "Sådan logger du ind på Delingstjenesten",
+        "title": "Log ind på Delingstjenesten",
         "excerpt":"For at hente og abonnere på indhold fra Delingstjenesten til dit bibliotekssite, skal du være logget ind som dit bibliotek. Det kræver blot få klik. Sådan logger du ind Gå ind på dit lokale bibliotekssite. Sørg for, at du er logget ind i backend. Alle roller giver dig adgang: Formidler,...","categories": ["Delingstjenesten"],
         "tags": [],
         "url": "/main/delingstjenesten/login-i-delingstjenesten/",
