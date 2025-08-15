@@ -4,12 +4,15 @@ weight: 1
 permalink: /delingstjenesten/
 ---
 
+Nu er det blevet endnu nemmere at holde sin hjemmeside opdateret med nyt indhold. Ud over at sende og hente indhold manuelt, kan man med den nye abonnement-funktion automatisk få det nyeste indhold leveret direkte på bibliotekets hjemmeside, efterhånden som det publiceres. 
 
-Denne side samler de seneste vejledninger og information om [Delingstjenesten - bibliotekernes nationale formidling](https://delingstjenesten.dk/).
+[Overblik - Det kan man med Delingstjenesten]()
+
+[Link til Delingstjenesten - bibliotekernes nationale formidling](https://delingstjenesten.dk/){:target="_blank"}.
 
 ---
 
-### Vejledninger
+## Vejledninger
 
 - [Sådan logger du ind på Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/login-i-delingstjenesten/)
 
@@ -17,27 +20,16 @@ Denne side samler de seneste vejledninger og information om [Delingstjenesten - 
 
 - [Sådan sender du indhold til Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/eksport-af-indhold/)
   
--  [Sådan abonnerer du på indhold fra Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/abonnementsordning/)
+- [Sådan abonnerer du på indhold fra Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/abonnementsordning/)
 
-<br>
-
-<br>
-
-
-
-
-
-### Brug for hjælp?
+## Brug for hjælp?
 - Oplever du fejl, så meld ind via **ServiceDesk**: *Folkebibliotekernes CMS → Indmeld fejl*  
 - Spørgsmål til indhold, billeder eller rettigheder? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
 
 
-<br>
-
-
 ---
-<br>
-Med få klik kan biblioteker:
+
+## Det kan man med Delingstjenesten
 
 - Hente artikler, sider, grafik og videoer fra Delingstjenesten.
 
