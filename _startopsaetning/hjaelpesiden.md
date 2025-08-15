@@ -1,9 +1,9 @@
 ---
-title: "Hjælpesiden"
+title: "Hjælpesider"
 category: "Opret struktur og indhold"
 ---
 
-Hjælpesiden kan med opbygges vha. et card grid som her i København, hvor der er lavet underliggende sider med hjælp.
+Hjælpesider kan opbygges vha. et card grid som her i København, hvor der er lavet underliggende sider med hjælp.
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2220edc7-f9e5-48d3-bfca-b9c83e068c01" alt="Hjælp-side opbygget med Card Grid og undersider" caption="Hjælp-side opbygget med Card Grid undersider" %}
 

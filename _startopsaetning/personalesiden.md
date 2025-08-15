@@ -2,7 +2,7 @@
 title: "Personalesiden"
 category: "Opret struktur og indhold"
 ---
-Folkebibliotekernes CMS er ikke født med en personaleside, så man skal selv være kreativ, hvis den skal opbygges. 
+Folkebibliotekernes CMS er ikke født med en personaleoversigt, så man skal selv være kreativ, hvis den skal opbygges. 
 
 Her er et eksempel på hvordan en simpel personaleside kan opbygges vha. formidlingskomponenten **accordion**: 
 

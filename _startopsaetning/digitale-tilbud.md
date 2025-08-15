@@ -13,7 +13,9 @@ Hvis I har rigtigt mange licenser, så kan I kan I bruge **Navigation grid**. Hu
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/9d290481-b5b6-4e69-b86f-d5c8fc490384" alt="Har I mange digitale tilbud, kan en løsning kan automatisk indtrækning via brødkrummer være smart" caption="Har I mange digitale tilbud, kan en løsning kan automatisk indtrækning via brødkrummer være smart" %}
 
-Fra den selvstændige side om tilbuddet kan du bruge paragraph **Links** til at linke til den konkrete licens. [Læs mere om opsætning af proxy-URL](https://www.folkebibliotekernescms.dk/main/konfiguration/url-proxy-indstillinger/)
+Fra den selvstændige side om tilbuddet kan du bruge paragraph **Links** til at linke til den konkrete licens. 
+
+Det er meget vigtigt at det er proxy-udgaven af linket til e-ressoucen i benytter. Ellers virker det ikke for borgerne, når de er på deres eget netværk derhjemme.  Proxy-linkene findes i Consortia Manager.  [Læs mere om opsætning af proxy-URL](https://www.folkebibliotekernescms.dk/main/konfiguration/url-proxy-indstillinger/)
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/acdaf752-799a-4c1a-b952-f2f70e371d0d" alt="Via Link paragraph laves linket hen til licensen (Se online)" caption="Via Link paragraph laves linket hen til licensen (Se online)" %}
 
@@ -21,10 +23,8 @@ Det er muligt til at tilføje andre formidlingskomponenter/paragraphs til at for
 
 ## Digitale tilbud - brugsvilkår og betingelser
 
-DDF har skrevet et forslag til en tekst om brugsvilkår og betingelser, der gælder for de digitale tilbud og licenser. Vi anbefaler, at I kopierer teksten og lægger den på siden, hvorfra I linker til jeres digitale tilbud: 
+DDF har skrevet et [forslag til en tekst om brugsvilkår og betingelser](https://www.folkebibliotekernescms.dk/main/soegning/brugervilkaar-digitale-tilbud/), der gælder for de digitale tilbud og licenser. Vi anbefaler, at I kopierer teksten og lægger den på siden, hvorfra I linker til jeres digitale tilbud. 
 
-> Bemærk at enkelte digitale tilbud kan kræve oprettelse af brugerprofil, download af udbyderens app samt accept af udbyderens vilkår og betingelser før du får fuld adgang til alle funktioner.
-> Det er på eget ansvar, når du downloader en app og accepterer udbyderens betingelser. Læs derfor altid vilkår og betingelser grundigt før du tilmelder dig.
 
 
 
