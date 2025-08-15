@@ -180,7 +180,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Delingstjenesten",
-        "excerpt":"Denne side samler de seneste vejledninger og information om Delingstjenesten - bibliotekernes nationale formidling. Vejledninger Sådan logger du ind på Delingstjenesten Sådan henter du indhold fra Delingstjenesten Sådan sender du indhold til Delingstjenesten Sådan abonnerer du på indhold fra Delingstjenesten Brug for hjælp? Oplever du fejl, så meld ind via...","categories": [],
+        "excerpt":"Nu er det blevet endnu nemmere at holde sin hjemmeside opdateret med nyt indhold. Ud over at sende og hente indhold manuelt, kan man med den nye abonnement-funktion automatisk få det nyeste indhold leveret direkte på bibliotekets hjemmeside, efterhånden som det publiceres. Overblik - Det kan man med Delingstjenesten Link...","categories": [],
         "tags": [],
         "url": "/main/delingstjenesten/",
         "teaser": null
