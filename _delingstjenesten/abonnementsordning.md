@@ -1,6 +1,6 @@
 ---
 title: "Sådan abonnerer du på indhold fra Delingstjenesten"
-parent: "Delingstjenesten"
+category: "Delingstjenesten"
 nav_order: 4
 ---
 
