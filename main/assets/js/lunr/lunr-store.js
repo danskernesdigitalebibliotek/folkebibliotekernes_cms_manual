@@ -1008,7 +1008,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Hjælpesider",
-        "excerpt":"Hjælpesider kan opbygges vha. et card grid som her i København, hvor der er lavet underliggende sider med hjælp. Hjælp-side opbygget med Card Grid undersider En anden mulighed er at opbygge sider med en brødtekst og en accordion, som kan vejlede brugeren trin for trin: En lang informationsside er gjort...","categories": ["Opret struktur og indhold"],
+        "excerpt":"Hjælpesider er ikke en særlig indholdstype. De opbygges af almindelige sider vha. f. eks. card grid som her i København, hvor der er lavet underliggende sider med hjælp. Hjælp-side opbygget med Card Grid undersider En anden mulighed er at opbygge sider med en brødtekst og en accordion, som kan vejlede...","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/hjaelpesiden/",
         "teaser": null
@@ -1098,7 +1098,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Taksonomi - kategorier og tags",
-        "excerpt":"I Folkebibliotekernes CMS har tags og kategorier som i DDB CMS. Både kategorier og tags kan bruges på tværs af indholdstyper. Tags og kategorier anvendes til filtrering af indhold i lister og komponenter. For eksempel kan en slider (nyheds- eller artikelkarrusel) på en sektionsside sættes op til at kun at...","categories": ["Opret struktur og indhold"],
+        "excerpt":"Tags og kategorier anvendes til filtrering af indhold i lister og komponenter. Kategorier og tags kan bruges på tværs af indholdstyper. For eksempel kan en inholdskomponent som f. eks. en slider sættes op til at kun at vise indhold, der har et bestemt tag eller en bestemt kategori. Delingstjenesten Du...","categories": ["Opret struktur og indhold"],
         "tags": [],
         "url": "/main/startopsaetning/taksonomi/",
         "teaser": null
