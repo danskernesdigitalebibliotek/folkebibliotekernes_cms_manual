@@ -216,7 +216,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Viderudviklingsønsker på GO",
-        "excerpt":" ","categories": ["GO"],
+        "excerpt":"Som med alle andre digitale produkter, Det Digitale Folkebibliotek leverer, er GO-hjemmesiden et produkt, der vil blive videreudviklet og udbygget løbende. Her kan du læse om allerede definerede ønsker til videreudvikling. Har du selv ønsker til ny funktionalitet i GO, kan disse meldes ind i servicedesk, som du kender det...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/oensker-til-videreudvikling/",
         "teaser": null
