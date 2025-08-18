@@ -44,7 +44,7 @@ jobs:
           commit_message: "Create root index.html"
       - name: Get branch names
         id: branch-name
-        uses: tj-actions/branch-names@v7
+        uses: tj-actions/branch-names@v9
       - name: Set GitHub Pages directory
         id: github-pages
         run: |
