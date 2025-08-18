@@ -215,6 +215,12 @@ var store = [{
         "url": "/main/go/",
         "teaser": null
       },{
+        "title": "Viderudviklingsønsker på GO",
+        "excerpt":" ","categories": ["GO"],
+        "tags": [],
+        "url": "/main/go/oensker-til-videreudvikling/",
+        "teaser": null
+      },{
         "title": "Sådan opretter du en Artikel på GO",
         "excerpt":"Indholdstypen ‘GO Article’ gør det muligt at oprette artikler på GO, hvor der bl.a. kan formidles tekst kombineret med de andre GO paragraphs. Se mere om de forskellige Paragraphs her Vær opmærksom på at nyoprettet indhold eller ændringer i indhold kan have en forsinkelse, fra du gemmer til det er...","categories": ["GO"],
         "tags": [],
