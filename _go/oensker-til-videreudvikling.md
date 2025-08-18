@@ -10,8 +10,7 @@ Har du selv ønsker til ny funktionalitet i GO, kan disse meldes ind i [serviced
 
  
 
-**Reservering af fysiske bøger** 
-
+#### Reservering af fysiske bøger
 På GOs hjemmeside vises de fysiske bøger fra bibliotekets kommunale beholdning i søgningen. Dette er for at synliggøre over for børnene, at bogen også kan lånes i fysisk form på det lokale bibliotek. Som det er nu, kan bogen ikke reserveres på GO-hjemmesiden. Dette er et udviklingsønske, som vil blive implementeret, når der er ressourcer til det.  
 
 Reservering af bøger er en omkostningstung funktion at udvikle, som kompliceres af, at der på GO både er mulighed for UNI-login og bibliotekslogin.  
