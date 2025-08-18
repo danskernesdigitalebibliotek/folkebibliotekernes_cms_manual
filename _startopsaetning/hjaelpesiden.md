@@ -4,7 +4,7 @@ category: "Opret struktur og indhold"
 weight: 20
 ---
 
-Hjælpesider kan opbygges vha. et card grid som her i København, hvor der er lavet underliggende sider med hjælp.
+Hjælpesider er ikke en særlig indholdstype. De opbygges af almindelige sider vha. f. eks. card grid som her i København, hvor der er lavet underliggende sider med hjælp.
 
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2220edc7-f9e5-48d3-bfca-b9c83e068c01" alt="Hjælp-side opbygget med Card Grid og undersider" caption="Hjælp-side opbygget med Card Grid undersider" %}
 

@@ -1,7 +1,7 @@
 ---
 title: "Forsiden"
 category: "Opret struktur og indhold"
-weight: 20
+weight: 18
 ---
 Forsiden er en side som alle andre. Alle sider kan i princippet bruges som forside. I backend skal I selv indstille, hvilken side, der skal væres jeres forside. [Læs hvordan man registrerer en side som forside.](https://www.folkebibliotekernescms.dk/main/indhold/forside/)
 {: .notice--info}

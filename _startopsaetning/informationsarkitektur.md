@@ -20,6 +20,10 @@ For at opnå dybde og bredde i navigationen kan der fra header og footer linkes 
 
 Uanset om man vil bygge en Navigationsside eller en Sektionsside er det **indholdstypen Side**, der skal benyttes. Det er sammensætningen af paragraphs på siden, der afgør sidens funktion. 
 
+Mens I planlægger den nye hjemmeside, så husk på at [Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/) findes. Ved at opsætte abonnementer på indhold fra Delingstejensten, kan I modtage artikler som automatisk oprettes og vises direkte på jeres hjemmeside. Det er smart!
+{: .notice--info}
+
+
 **Paragraphs** er visuelle komponenter, der bruges til at indsætte tekst, billeder, links, materialer osv. De fungere som byggeklodser, der trækkes ind og placeres i den rækkefølge, som  man ønsker det.
 Der er over 20 forskellige paragraphs at vælge imellem. [Læs mere om paragraphs](https://www.folkebibliotekernescms.dk/main/indhold/paragraphs-komponenter/).
 
