@@ -41,5 +41,5 @@ GO går nu fra at være et nationalt site til at få hver sin hjemmeside tilknyt
 - [Grafik og information vedrørende nyt GO](https://detdigitalefolkebibliotek.sharepoint.com/:f:/s/BibliotekernesNationaleRedaktion/EmtmxoCW44RKrm_4GbEGQXkBxLVry4g_z-UkEGJPtNbrew?e=oc4aSl)
 - [Grafikker til kategoriindgange for 'Mit bibliotek'](https://detdigitalefolkebibliotek.sharepoint.com/:f:/s/BibliotekernesNationaleRedaktion/Ena7jn4ft9dLqK4dCQ5RACgBaB5I0GUM_AG79G6_L_vyPg?e=2MGR9j)
 
-##Ønsker til videreudvikling af GO##
+## Ønsker til videreudvikling af GO
 - [Information om videreudviklingsønsker til GO](https://www.folkebibliotekernescms.dk/main/go/oensker-til-videreudvikling/)
