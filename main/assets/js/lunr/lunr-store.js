@@ -983,7 +983,7 @@ var store = [{
         "url": "/main/startopsaetning/betaling/",
         "teaser": null
       },{
-        "title": "2. Biblioteksindstillinger",
+        "title": "2 Biblioteksindstillinger",
         "excerpt":"I denne opgave laver du den grundlæggende konfiguration af sitet. Det er noget, du kun skal gøre én gang, men det er vigtigt, at det bliver gjort ordentligt. Sæt dig sammen med med en kollega, der ved rigtig meget om jeres bibliotek. Ham/hende der er en haj til Cicero, og...","categories": ["Opgaver - Basiskonfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/biblioteksindstillinger/",
@@ -1013,7 +1013,7 @@ var store = [{
         "url": "/main/startopsaetning/forsiden/",
         "teaser": null
       },{
-        "title": "4. Go-live",
+        "title": "4 Go-live",
         "excerpt":"Go-live datoen er den dag, hvor jeres nye website bliver synligt på internettet, og hvor jeres brugere får adgang til siden.   Den URL på som jeres nuværende hjemmeside ligger på vil på den dag begynde at pege på jeres nye Folkebibliotekernes CMS-hjemmeside.   Go-live opgaverne er beskrevet herunder.   ","categories": ["Onboarding"],
         "tags": [],
         "url": "/main/startopsaetning/go-live-intro/",
