@@ -1,5 +1,5 @@
 ---
-title: "1. Adgangsplatformen"
+title: "1 Adgangsplatformen"
 weight: 1
 category: "Opgaver - Basiskonfiguration"
 ---
