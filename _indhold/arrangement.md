@@ -74,7 +74,7 @@ Adresse, hvor arrangementet afholdes, hvis det ikke er på et bibliotek.
 
 ### Billetlink
 Hvis der er billetsalg til dit arrangement, lægges link til billetkøb ind her. 
-Bruger I Place2book? [Guide til billetintegration med Place2book](https://www.folkebibliotekernescms.dk/main/indhold/place2book/)
+Bruger I Place2book? [Guide til billetintegration med Place2book](https://www.folkebibliotekernescms.dk/main/integrationer/place2book/)
 
 ### Billetkategorier
 Her tilknyttes billetkategorinavn (Navn) og pris (Price). Pris kan også være 0 kr. (gratis).
