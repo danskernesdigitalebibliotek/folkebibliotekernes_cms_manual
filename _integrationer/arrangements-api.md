@@ -5,7 +5,7 @@ category: "Integrationer"
 Folkebibliotekernes CMS tilbyder alle typer eksterne systemer at hente arrangementer direkte fra hvert biblioteks hjemmeside. 
 
 Disse systemer kan eksempelvis være:
--	Billetsystemer (Place2Book, Biletto, YourTicket m.fl.)
+-	Billetsystemer (Place2Book, Biletto, YourTicket m. fl.)
 -	Kultunaut
 -	Storskærms-systemer
   
