@@ -1,5 +1,5 @@
 ---
-title: "2. Basiskonfiguration"
+title: "2 Basiskonfiguration"
 category: "Onboarding"
 weight: 2
 ---
