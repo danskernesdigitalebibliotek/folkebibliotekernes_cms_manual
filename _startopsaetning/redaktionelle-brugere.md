@@ -1,5 +1,5 @@
 ---
-title: "4. Redaktionelle brugere"
+title: "4 Redaktionelle brugere"
 weight: 4
 category: "Opgaver - Basiskonfiguration"
 ---
