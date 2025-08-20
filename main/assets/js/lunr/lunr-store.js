@@ -419,8 +419,14 @@ var store = [{
         "url": "/main/indhold/webforms/",
         "teaser": null
       },{
+        "title": "Arrangements API til brug for eksterne systemer",
+        "excerpt":"Folkebibliotekernes CMS tilbyder alle typer eksterne systemer at hente arrangementer direkte fra hvert biblioteks hjemmeside. Disse systemer kan eksempelvis være: Billetsystemer (Place2Book, Biletto, YourTicket m.fl.) Kultunaut Storskærms-systemer Vores system tilbyder følgende: Hent arrangementer: Åben snitflade som alle kan bruge. Det eksterne system henter alle arrangementer, som det enkelte bibliotek tilbyder....","categories": ["Integrationer"],
+        "tags": [],
+        "url": "/main/integrationer/arrangements-api/",
+        "teaser": null
+      },{
         "title": "Overblik over integrationer",
-        "excerpt":"Integrationerne på jeres hjemmeside har stor betydning for de muligheder og tilbud I tilbyder jeres brugere. Derfor er det vigtigt at se på inden overgangen til den nye hjemmeside, så I tager højde for disse funktioner – også på det nye site. Mål Målet med denne opgave er at danne...","categories": [],
+        "excerpt":"Integrationerne på jeres hjemmeside har stor betydning for de muligheder og tilbud I tilbyder jeres brugere. Mål Målet med denne opgave er at danne sig et overblik over hvilke integrationer, I har på jeres nuværende hjemmeside og hvilke der skal med over på Folkebibliotekernes CMS. Metode og fremgangsmåde Kig jeres...","categories": [],
         "tags": [],
         "url": "/main/integrationer/",
         "teaser": null
