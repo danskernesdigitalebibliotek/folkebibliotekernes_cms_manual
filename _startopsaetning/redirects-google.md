@@ -1,5 +1,5 @@
 ---
-title: "9. Redirects fra søgeresultater på Google"
+title: "9 Redirects fra søgeresultater på Google"
 weight: 12
 category: "Opgaver - Basiskonfiguration"
 ---
