@@ -1043,7 +1043,7 @@ var store = [{
         "url": "/main/startopsaetning/inspiration-litteratur/",
         "teaser": null
       },{
-        "title": "8. Kontaktformularen",
+        "title": "8 Kontaktformularen",
         "excerpt":"Jeres hjemmeside har en indbygget kontaktformular, der ligger på adressen https://mit-domænenavn.dk/kontakt. Inden I tager hjemmesiden i brug, skal I sørge for at tilpasse de automatiske email-svar, der sendes til brugerne, og sørge for at de rigtigte medarbejdere modtager henvendelserne fra brugerne. Kontaktformularen 1. Opret kategorier og tilknyt medarbejder-emails I kontaktformularen...","categories": ["Opgaver - Basiskonfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/kontaktformular/",
