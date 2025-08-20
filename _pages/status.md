@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## Servicevinduer fredag den 22. august og mandag den 25. august. Begge dage er efter kl. 22.
+I forbindelse med nedlukningen af det nuværende ereolengo.dk har vores leverandør brug for at tildele ekstra ressourcer til databasen. Det kræver at databasen bliver flyttet til en større maskine, hvilket vil betyde nedetid på tværs af sites'ne under flytningen.
+Vi vil gerne lave flytningen om fredagen, men har planlagt begge servicevinduer så vi har mulighed for at reagere mandag aften, hvis der er brug for ekstraordinære ændringer.
 ## 12/8 Microsoft har flyttet Azure servicevinduet kl. 17-08
 Var oprrindeligt sat til den 11/8.
 Baseret på erfaringer fra tidligere servicevinduer vil det for os medføre en genstart af databasen, hvilket kan medføre ~30 minutters nedetid.
