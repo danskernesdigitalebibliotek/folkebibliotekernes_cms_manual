@@ -1097,7 +1097,7 @@ var store = [{
         "url": "/main/startopsaetning/sider-og-menuer/",
         "teaser": null
       },{
-        "title": "1. Etablering af staging-site",
+        "title": "1 Etablering af staging-site",
         "excerpt":"Den nye hjemmmeside opbygges i et staging-site, som ikke umiddelbart er synligt for borgerne. Her kan biblioteket i ro og mag opbygge struktur og indhold. Når hjemmesiden er klar til lancering, aftales der en go-live dato mellem DDF og biblioteket. Biblioteket indgår aftale med DDF og vælger hosting-plan. DDF registerer...","categories": ["Onboarding"],
         "tags": [],
         "url": "/main/startopsaetning/staging-site/",
