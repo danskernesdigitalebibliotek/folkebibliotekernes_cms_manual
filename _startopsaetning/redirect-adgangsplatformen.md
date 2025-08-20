@@ -1,5 +1,5 @@
 ---
-title: "7. Adgangsplatformen - omdiriger link til brugeroprettelsesside"
+title: "7 Adgangsplatformen - omdiriger link til brugeroprettelsesside"
 category: "Opgaver - Basiskonfiguration"
 weight: 9
 ---
