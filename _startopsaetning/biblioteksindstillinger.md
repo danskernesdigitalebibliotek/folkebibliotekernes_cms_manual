@@ -1,5 +1,5 @@
 ---
-title: "2. Biblioteksindstillinger"
+title: "2 Biblioteksindstillinger"
 category: "Opgaver - Basiskonfiguration"
 weight: 2
 ---
