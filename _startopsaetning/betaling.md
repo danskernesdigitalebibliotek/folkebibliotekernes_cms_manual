@@ -1,5 +1,5 @@
 ---
-title: "3. Betaling"
+title: "3 Betaling"
 category: "Opgaver - Basiskonfiguration"
 weight: 3
 
