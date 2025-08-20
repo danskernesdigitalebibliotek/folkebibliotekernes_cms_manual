@@ -1,5 +1,5 @@
 ---
-title: "3. Struktur og indhold"
+title: "3 Struktur og indhold"
 category: "Onboarding"
 weight: 3
 ---
