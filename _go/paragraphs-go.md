@@ -56,7 +56,7 @@ For at være sikker på, at sitet understøtter visning af de materialer, I læg
 
     Det er selvfølgelig muligt blot at indsætte udvalgte af de "specific material types", der er i ovenstående søgestreng (fx kun *term.specificmaterialtype="bog"*), men det er vigtigt at benytte mindst én af de nævnte -typer for ikke risikere at søge materialer frem, som ikke er understøttet i visningen. 
 
-    For hjælp til generering af CQL søgestrenge se følgende sider i Manualen: [CQL Søgestrenge](https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge/), [CQL Søgestrenge Eksempler](https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge-eksempler/) eller [Avanceret søgning og CQL Søgning](https://www.folkebibliotekernescms.dk/main/soegning/avanceret-sogning/) 
+    For hjælp til generering af CQL søgestrenge se følgende sider i Manualen: [CQL Søgestrenge](https://www.folkebibliotekernescms.dk/main/indhold/cql-soegestrenge/), [CQL Søgestrenge Eksempler](https://www.folkebibliotekernescms.dk/main/soegning/cql-soegestrenge-eksempler/) eller [Avanceret søgning og CQL Søgning](https://www.folkebibliotekernescms.dk/main/soegning/avanceret-sogning/) 
 
 - Under ‘Amount of materials’ angives, hvor mange materialer, der skal vises og shuffles imellem. Der kan angives op til 10.
 
