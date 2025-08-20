@@ -1079,7 +1079,7 @@ var store = [{
         "url": "/main/startopsaetning/redaktionelle-brugere/",
         "teaser": null
       },{
-        "title": "7. Adgangsplatformen - omdiriger link til brugeroprettelsesside",
+        "title": "7 Adgangsplatformen - omdiriger link til brugeroprettelsesside",
         "excerpt":"Adgangsplatformens login-side har et link med teksten “Ny bruger?”. Det henviser til en side med adressen /registration på jeres hjemmeside. Problemet er at den side ikke findes i Folkebibliotekernes CMS. I Folkebibliotekernes CMS ligger oprettelsessiden på adressen /opret-bruger. Der skal derfor laves en omdirigering, så forespørgsler til /registration viderestilles til...","categories": ["Opgaver - Basiskonfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/redirect-adgangsplatformen/",
