@@ -8,7 +8,7 @@ I topmenuen klik på **{{ page.click-path }}**
 Eller åbn via URL (udskift mit-domænenavn.dk):\
 `https://mit-domænenavn.dk/admin/config/dpl-library-agency/fees`
 
-Skal du i gang med gebyr-konfiguration? [Baggrundsinformation om gebyrer og betaling](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/startopsaetning/indstillinger-for-gebyrside/).
+Skal du i gang med gebyr-konfiguration? [Baggrundsinformation om gebyrer og betaling](https://www.folkebibliotekernescms.dk/main/startopsaetning/betaling/).
 {: .notice--primary}
 
 ## URL
