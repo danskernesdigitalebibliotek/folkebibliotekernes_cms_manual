@@ -1085,7 +1085,7 @@ var store = [{
         "url": "/main/startopsaetning/redirect-adgangsplatformen/",
         "teaser": null
       },{
-        "title": "9. Redirects fra søgeresultater på Google",
+        "title": "9 Redirects fra søgeresultater på Google",
         "excerpt":"Jeres nye website er ikke identisk med det gamle. I har sikkert oprettet nyt indhold, fjernet noget gammelt og flyttet rundt med ting. Søgemaskinerne kender jeres gamle website, og har indekseret strukturen herfra. Når I skifter til den nye hjemmeside, vil mange af de links, som Google har registreret ikke...","categories": ["Opgaver - Basiskonfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/redirects-google/",
