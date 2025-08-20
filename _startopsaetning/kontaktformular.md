@@ -1,5 +1,5 @@
 ---
-title: "8. Kontaktformularen"
+title: "8 Kontaktformularen"
 category: "Opgaver - Basiskonfiguration"
 weight: 11
 ---
