@@ -977,7 +977,7 @@ var store = [{
         "url": "/main/startopsaetning/basiskonfiguration-intro/",
         "teaser": null
       },{
-        "title": "3. Betaling",
+        "title": "3 Betaling",
         "excerpt":"De fleste kommuner er i dag overgået til ØiR. Mange kommuner bruger desuden KMD Opus økonomisystemet, hvor borgernes udeståender samles i “Mit betalingsoverblik”. “Mit betalingsoverblik” giver en samlet oversigt over de økonomiske mellemværender med kommunen. Det er alt fra betaling af børnehaveplads, ejendomsskat og biblioteksgebyrer. Har I ikke “Mit betalingsoverblik”,...","categories": ["Opgaver - Basiskonfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/betaling/",
