@@ -151,15 +151,11 @@ Er du utilfreds med beskrivelsen, der hentes ind, kan du tilføje din egen. Du k
 
 ### Materialekomponent - automatisk
 
-Med Materialekomponent - automatisk kan du eksponere bøger og andre materialer.
+Med Materialekomponent - automatisk kan du eksponere bøger og andre materialer
 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/fad69f6f-2dc0-461c-b717-2641fda0b552" alt="Eksempel på en materialekomponent - automatisk" caption="Eksempel på en materialekomponent - automatisk" %}
 
-Automatic-varianten trækker materialer ind via en CQL-søgestreng.
-
-CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion og kopiere søgestrengen derfra.
-
-[Sådan opretter du CQL-søgestrenge](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/cql-soegestrenge/)
+Automatic-varianten trækker materialer ind via en CQL-søgestreng. CQL-søgestrengen er nemmest at bygge og teste i avanceret søgning i websitets søgefunktion. Når du er tilfreds med det søgeresultat som din CQL-streng danner kan dukopiere den og indsætte den i materialekomponenten. [Læs her hvordan du opbygger en CQL-søgestreng i avanceret søgning](https://www.folkebibliotekernescms.dk/main/soegning/cql-soegestrenge/)
 
 Du kan indstille komponenten til at vise et bestemt antal materialer. Antallet skal være deleligt med fire. Antallet bestemmer du i feltet **Antal materialer/værker**.
 
@@ -167,7 +163,7 @@ Komponenten viser minimum 4 materialer og kan maksimalt sættes til 32 materiale
 
 Bemærk, at det er en kendt fejl, at materialekomponenten ikke altid kan hente forsider på materialer, der er i andre sammenhænge har en forside. 
 
-### Materialekomponent - automatisk (Link)
+### Materialekomponent - automatisk (Link) UDFASES!!
 
 
 Med Materialekomponent - automatisk (Link) trækkes materialer ind via en URL, der linker til en Avanceret søgning.  Fordelen ved den, er at man kan oprette et material grid, hvor indholdet filtreres på opstilling, delopstilling eller “på hylde”/hjemme (`location`, `sublocation` og `onshelf`). 
