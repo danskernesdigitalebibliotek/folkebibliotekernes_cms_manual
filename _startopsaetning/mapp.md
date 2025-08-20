@@ -1,5 +1,5 @@
 ---
-title: "5. Mapp Intelligence"
+title: "5 Mapp Intelligence"
 category: "Opgaver - Basiskonfiguration"
 weight: 6
 ---
