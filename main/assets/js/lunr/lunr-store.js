@@ -420,7 +420,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Arrangements API til brug for eksterne systemer",
-        "excerpt":"Folkebibliotekernes CMS tilbyder alle typer eksterne systemer at hente arrangementer direkte fra hvert biblioteks hjemmeside. Disse systemer kan eksempelvis være: Billetsystemer (Place2Book, Biletto, YourTicket m.fl.) Kultunaut Storskærms-systemer Vores system tilbyder følgende: Hent arrangementer: Åben snitflade som alle kan bruge. Det eksterne system henter alle arrangementer, som det enkelte bibliotek tilbyder....","categories": ["Integrationer"],
+        "excerpt":"Folkebibliotekernes CMS tilbyder alle typer eksterne systemer at hente arrangementer direkte fra hvert biblioteks hjemmeside. Disse systemer kan eksempelvis være: Billetsystemer (Place2Book, Biletto, YourTicket m. fl.) Kultunaut Storskærms-systemer Vores system tilbyder følgende: Hent arrangementer: Åben snitflade som alle kan bruge. Det eksterne system henter alle arrangementer, som det enkelte bibliotek...","categories": ["Integrationer"],
         "tags": [],
         "url": "/main/integrationer/arrangements-api/",
         "teaser": null
