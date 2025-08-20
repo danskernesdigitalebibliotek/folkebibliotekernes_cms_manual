@@ -45,7 +45,7 @@ Kan I ikke vente en time? [Læs her, hvordan man kan gennemtvinge en opdatering 
 
 ### Arrangementer med billet og Kultunaut
 
-**VIGTIGT:** Kultunaut trækker information om alle jeres arrangementer direkte fra jeres hjemmeside uden at involvere Place2book. Derfor er det unødvendigt at bruge Place2books Kultunaut-eksport. [Læs mere om den direkte Kultunaut-eksport.](https://www.folkebibliotekernescms.dk/main/indhold/kultunaut/)
+**VIGTIGT:** Kultunaut trækker information om alle jeres arrangementer direkte fra jeres hjemmeside uden at involvere Place2book. Derfor er det unødvendigt at bruge Place2books Kultunaut-eksport. [Læs mere om den direkte Kultunaut-eksport.](https://www.folkebibliotekernescms.dk/main/integrationer/kultunaut/)
 {: .notice--info}
 
 Place2book kan videresende oplysninger om arrangementer til Kultunaut, men det sker ikke automatisk.
