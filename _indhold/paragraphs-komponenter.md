@@ -1,6 +1,7 @@
 ---
 title: "Paragraph komponenterne"  
 category: "Generelt"
+toc: true
 ---
 
 De komponenter, som du opbygger dit indhold i artikler, begivenheder og sider af, kaldes **Paragraphs**.
