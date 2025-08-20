@@ -1,5 +1,5 @@
 ---
-title: "1. Etablering af staging-site"
+title: "1 Etablering af staging-site"
 category: "Onboarding"
 weight: 1
 ---
