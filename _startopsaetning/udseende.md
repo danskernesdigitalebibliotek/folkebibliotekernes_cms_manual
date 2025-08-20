@@ -1,5 +1,5 @@
 ---
-title: "6. Logo, identitetsfarve og favicon"
+title: "6 Logo, identitetsfarve og favicon"
 category: "Opgaver - Basiskonfiguration"
 weight: 8
 ---
