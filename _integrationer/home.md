@@ -32,7 +32,7 @@ Der vil i Folkebibliotekernes CMS ikke være et specifikt nyhedsbrevsmodul. Derf
 Webforms, som vi kender fra DDB CMS, findes også i Folkebibliotekernes CMS. 
 
 ### Storskærmsintegrationer
-Måske har I i dag en storskærmsløsning som hiver fx arrangementer fra jeres hjemmeside. Jeres leverandør af storskærmsløsningen kan gøre brug af det nye arrangements API til at hente data og udstille dem. [Læs mere om arrangements API'et her.](https://www.folkebibliotekernescms.dk/main/integrationer/9integrationer/#arrangements-api-til-brug-for-eksterne-systemer)
+Måske har I i dag en storskærmsløsning som hiver fx arrangementer fra jeres hjemmeside. Jeres leverandør af storskærmsløsningen kan gøre brug af det nye arrangements API til at hente data og udstille dem. [Læs mere om arrangements API'et her.](https://www.folkebibliotekernescms.dk/main/integrationer/arrangements-api/)
 
 ### APP
 Læs om automatisk overførsel af arrangementer og åbningstider til Biblioteket Appen her: https://www.folkebibliotekernescms.dk/main/indhold/redia/
