@@ -1061,7 +1061,7 @@ var store = [{
         "url": "/main/startopsaetning/netpunkt-slaa-op/",
         "teaser": null
       },{
-        "title": "1. Adgangsplatformen",
+        "title": "1 Adgangsplatformen",
         "excerpt":"Adgangsplatformen er meget vigtig for Folkebibliotekernes CMS. Både søgning og brugerlogin forudsætter at bibliotekets adgangsnøgler til Adgangsplatformen er indsat korrekt i backend. Adgangsplatformen bygger på en teknologi der hedder OpenID Connect. Derfor omtales de ofte synonymt. I denne opgave skal I indsætte OpenID Connect adgangsnøgler i Folkebibliotekernes CMS. Rekvirer nøgler...","categories": ["Opgaver - Basiskonfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/openid-connect/",
