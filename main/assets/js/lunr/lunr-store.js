@@ -971,7 +971,7 @@ var store = [{
         "url": "/main/soegning/vip-profiler/",
         "teaser": null
       },{
-        "title": "2. Basiskonfiguration",
+        "title": "2 Basiskonfiguration",
         "excerpt":"Det første der skal ske, er at biblioteket skal lave en basiskonfiguration af hjemmesiden. Alle basiskonfigurationsopgaver skal udføres og de skal laves i den rigtige rækkefølge. Rækkefølgen er ikke tilfældig, da opgaverne afhænger af hinanden. Vigtigst af alt er at få etableret forbindelse til Adgangsplatformen. Uden den kan borgerne ikke...","categories": ["Onboarding"],
         "tags": [],
         "url": "/main/startopsaetning/basiskonfiguration-intro/",
