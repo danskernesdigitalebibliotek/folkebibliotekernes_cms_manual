@@ -1073,7 +1073,7 @@ var store = [{
         "url": "/main/startopsaetning/personalesiden/",
         "teaser": null
       },{
-        "title": "4. Redaktionelle brugere",
+        "title": "4 Redaktionelle brugere",
         "excerpt":"Du er sikkert ikke den eneste, der skal lave indhold til jeres nye hjemmeside. Derfor skal du nu oprette logins til de kolleger, der skal hjælpe dig dig med at bygge hjemmesiden. Det er ikke nødvendigt at oprette logins til alle dine kolleger. Kun dem der skal lægge indhold på...","categories": ["Opgaver - Basiskonfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/redaktionelle-brugere/",
