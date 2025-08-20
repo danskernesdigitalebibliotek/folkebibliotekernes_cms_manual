@@ -6,7 +6,7 @@ weight: 8
 
 Som **webmasterbibliotek** har I mulighed for at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (*core*). Det kan være:
 
-- **Contrib-moduler**: Gratis moduler hentet fra [drupal.org](https://new.drupal.org/home), udviklet og vedligeholdt af Drupal-fællesskabet.
+- **Contrib-moduler**: Gratis moduler hentet fra [drupal.org](https://new.drupal.org/home){:target="_blank"}, udviklet og vedligeholdt af Drupal-fællesskabet.
 - **Egenudviklede moduler**: Moduler udviklet internt til jeres egne behov.
 
 ---
@@ -15,7 +15,7 @@ Som **webmasterbibliotek** har I mulighed for at installere moduler lokalt, som 
 
 For at installere moduler skal du være logget ind med en bruger, der har rollen **Administrator**.
 
-> **Bemærk:** Har du ikke de nødvendige rettigheder, skal du oprette en sag via [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals).
+> **Bemærk:** Har du ikke de nødvendige rettigheder, skal du oprette en sag via [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals){:target="_blank"}.
 
 ### Sådan gør du:
 
