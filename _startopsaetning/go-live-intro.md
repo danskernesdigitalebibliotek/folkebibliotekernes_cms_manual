@@ -1,5 +1,5 @@
 ---
-title: 4. Go-live
+title: 4 Go-live
 category: Onboarding
 weight: 4
 ---
