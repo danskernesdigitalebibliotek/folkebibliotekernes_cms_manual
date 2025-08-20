@@ -2,7 +2,7 @@
 title: "Overblik over integrationer"
 permalink: /integrationer/
 ---
-Integrationerne på jeres hjemmeside har stor betydning for de muligheder og tilbud I tilbyder jeres brugere. Derfor er det vigtigt at se på inden overgangen til den nye hjemmeside, så I tager højde for disse funktioner – også på det nye site.
+Integrationerne på jeres hjemmeside har stor betydning for de muligheder og tilbud I tilbyder jeres brugere. 
 
 ## Mål
 Målet med denne opgave er at danne sig et overblik over hvilke integrationer, I har på jeres nuværende hjemmeside og hvilke der skal med over på Folkebibliotekernes CMS.
