@@ -40,7 +40,7 @@ Flere har udtrykt ønske om at vi læner os meget op ad Bibliotek.dk’s avancer
 Odense Bibliotekerne (webmasterbibliotek) har også implementeret [en avanceret søgning på deres side](https://www.odensebib.dk/advanced-search ){:target="_blank"}, som er et godt eksempel til inspiration. 
 
 ### Kom med input
-Hvis du har inputs til avanceret søgning, så meld det meget gerne ind i [denne sag om avanceret søgning](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1538){:target="_blank"}. I må gerne beskrive helt præcist, hvad der ikke fungerer som forventet og for hvilke brugere det ikke virker samt hvad der skal til for løsningen lever op til brugernes forventninger. 
+Hvis du har inputs til avanceret søgning, så meld det meget gerne ind i [denne sag om avanceret søgning](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-952){:target="_blank"}. I må gerne beskrive helt præcist, hvad der ikke fungerer som forventet og for hvilke brugere det ikke virker samt hvad der skal til for løsningen lever op til brugernes forventninger. 
 
 ### Sager
 Opgavernes størrelse er ikke estimeret, da de indgår i et større analysearbejde.
