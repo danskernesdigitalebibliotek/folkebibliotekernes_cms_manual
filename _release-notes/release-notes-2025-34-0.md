@@ -22,5 +22,5 @@ Releasedato: 21-08-2025
 
 - GO: Kan nu håndtere omdirigeringer fra tidligere site for eReolen GO.
   
-- API for arrangementer: Indeholder nu link til skaleret billede. Tidligere linkede de enkelte arrangementer itil billede i fuld størrelse. 
+- API for arrangementer: Indeholder nu link til skaleret billede. Tidligere linkede de enkelte arrangementer til billede i fuld størrelse. 
 
