@@ -1103,7 +1103,7 @@ var store = [{
         "url": "/main/startopsaetning/staging-site/",
         "teaser": null
       },{
-        "title": "3. Struktur og indhold",
+        "title": "3 Struktur og indhold",
         "excerpt":"Jeres staging-site er grundlæggende tomt. I skal selv oprette sider, biblioteker, åbningstider, arrangementer mv.   I skal også selv opbygge navigationsstrukturen. Dvs. beslutte hvad der skal linkes til fra hovedmenuen og footermenuen. Opbygge brødkrummestier og opbygge navigationssider.  ","categories": ["Onboarding"],
         "tags": [],
         "url": "/main/startopsaetning/struktur-indhold-intro/",
@@ -1115,7 +1115,7 @@ var store = [{
         "url": "/main/startopsaetning/taksonomi/",
         "teaser": null
       },{
-        "title": "6. Logo, identitetsfarve og favicon",
+        "title": "6 Logo, identitetsfarve og favicon",
         "excerpt":"Logo Logo vises i øverste ventre hjørne af alle websider. Det placeres i et rektangulært felt, som sætter nogle krav til udformningen. Meget aflange logoer fungerer dårligt og vil gøre bibliotekets navn meget småt. Ombryd evt. teksten i to dæk for bedre læsbarhed. Logoet bør være en PNG eller SVG...","categories": ["Opgaver - Basiskonfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/udseende/",
