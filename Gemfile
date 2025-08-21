@@ -6,3 +6,8 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-algolia"
 end
+
+# Only needed for local development
+group :development do
+  gem "webrick", "~> 1.8"
+end
