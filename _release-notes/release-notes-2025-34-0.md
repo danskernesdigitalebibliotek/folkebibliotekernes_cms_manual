@@ -14,7 +14,7 @@ Releasedato: 21-08-2025
 
 ## Nye features
 
-- Arrangementer: Nu muligt at oprettet arrangementer uden klokkeslæt. Det kan f.eks. være relevant i forbindelse med udstilling, som strækker sig over længere tid.
+- Arrangementer: Nu muligt at oprettet arrangementer uden klokkeslæt. Det kan f.eks. være relevant ved oprettelse af en udstilling, som strækker sig over længere tid.
 
 - Arrangementer: Nu muligt at fravælge at arrangementer vises i diverse automatiske oversigter. Løsningen er f.eks. nyttig når man har oprettet et arrangement, som kun er beregnet til et særligt indbudt publikum, som modtager link til arrangementet. 
 
