@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2025-08-22T11:13:06+00:00">
+  <meta property="article:published_time" content="2025-08-22T11:44:05+00:00">
 
 
 
@@ -312,7 +312,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Nyt filtreringsindeks firstaccessiondateitem">
     <meta itemprop="description" content="Med virkning fra 1. august 2025 nedlægges søgekoden firstaccessiondate i Complex Search / Avanceret søgning. Den erstattes af et nyt filtreringsindeks med navnet firstaccessiondateitem.">
-    <meta itemprop="datePublished" content="2025-08-22T11:13:06+00:00">
+    <meta itemprop="datePublished" content="2025-08-22T11:44:05+00:00">
     
 
     <div class="page__inner-wrap">
@@ -379,14 +379,23 @@ domænenavn.dk)</p>
 
 <p>Der er to trin:</p>
 
-<h4 id="1-slet-firstaccessiondate-under-cql-søgning">1. Slet <em>firstaccessiondate</em> under CQL-søgning</h4>
+<h4 id="1-slet-firstaccessiondate-i-cql-søgestrengen">1. Slet <em>firstaccessiondate</em> i CQL-søgestrengen</h4>
 <p><img width="752" height="181" alt="image" src="https://github.com/user-attachments/assets/212a71c7-0c3a-47a2-ab1a-648bed3359da" /></p>
 
-<p>ashhs</p>
+<p>Inden du sletter, så bemærk værdien. Det er jo den, der hidtil har fungeret som aldersafgrænsning. Den kan være sat til alt fra nogle få måneder til flere år.</p>
 
-<h4 id="2-tilføj-dato-interval-under-firstaccessiondateitem">2. Tilføj dato-interval under <em>firstaccessiondateitem</em></h4>
-<p>shhs
-<img width="758" height="561" alt="image" src="https://github.com/user-attachments/assets/905cad04-f0b1-4c83-9b0c-00b16481c7f0" /></p>
+<h4 id="2-tilføj-dato-interval-under-firstaccessiondateitem-værdi">2. Tilføj dato-interval under <em>Firstaccessiondateitem: Værdi</em></h4>
+<p>Nu skal du tilføje aldersafgrænsningen som et filter i feltet <strong>Firstaccessiondateitem: Værdi</strong></p>
+
+<p>Inden du bare indsætter en kopi af den værdi, som du lige slettede, så overvej om det kan gøres smartere.</p>
+
+<p>Dato kan angives som en bestemt dato, f.eks. 2025-07-08. Men det kan også gøres via termerne “NOW”, “DAYS” og “MONTHS”.</p>
+
+<p>F.eks. vil “NOW - 90 DAYS” vise indkøb indenfor de sidste 90 dage.</p>
+
+<p>Fordelen ved at angive en periode med “NOW” og x antal dage eller måneder, er at den filtrering vedligeholder sig selv, mens en filtrering på “senere end” plus en bestemt dato kræver, at man periodisk retter datoen manuelt.</p>
+
+<p><img width="758" height="561" alt="image" src="https://github.com/user-attachments/assets/905cad04-f0b1-4c83-9b0c-00b16481c7f0" /></p>
 
 
         
@@ -399,7 +408,7 @@ domænenavn.dk)</p>
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-08-22T11:13:06+00:00">August 22, 2025</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-08-22T11:44:05+00:00">August 22, 2025</time></p>
 
       </footer>
 
