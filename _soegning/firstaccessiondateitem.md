@@ -21,13 +21,12 @@ Det samme gælder, hvis I har bygget avancerede søgninger med *firstaccessionda
 **VIGTIGT!** Alle materialekomponenter og links til avancerde søgninger, der gør brug af *firstaccessiondate*, skal tilrettes inden den **1. oktober**. Ellers holder de op med at virke.
 {: .notice--warning}
 
-Problemet er typisk knyttet til *Nyt på hylderne* oversigter. Nogle biblioteker har rigtig mange - andre har slet ingen. Har I ikke den type lister på jeres hjemmeside, så er I ikke ramt af problemstillingen.
+Problemet er typisk knyttet til **Nyt på hylderne** oversigter. Nogle biblioteker har rigtig mange - andre har slet ingen af dem.
 
 <img width="1889" height="919" alt="image" src="https://github.com/user-attachments/assets/265d0345-fb84-4830-8012-c79e447aaae0" />
 
 ### Hjælpeværktøj til at identificere problem-indhold
-
-I backend på jeres CMS har I adgang til en liste over sider med materialekomponenter, der gør brug af *firstaccessiondate*. Tjek den for at se om I er ramt.
+I backend på jeres CMS kan I se en liste over sider med materialekomponenter, hvor *firstaccessiondate* er anvendt. Tjek den, for at se om I er ramt.
 
 1. Log ind i backend på jeres hjemmeside. 
 2. Åbn siden
@@ -36,22 +35,29 @@ domænenavn.dk)
 
 
 3. Nu åbner en tabel med alle forekomster af *Material Grid Automatic* der bruger *firstaccessiondate*.
-  TIP: I kan sortere listen efter feltet `Forfatter på siden` for at få et overblik over hvilke medarbejdere, der har oprettet indholdskomponenter, der skal tilrettes. Den der i sin tid skrev CQL-søgestrengen, vil måske være den bedste til at kontrollere om den virker efter den er tilrettet.
+
+4. Klik på **Rediger** knappen ud for hver enkelt søgning for at rette den.
+
+**TIP:** I kan sortere listen efter feltet `Forfatter på siden` for at få et overblik over hvilke medarbejdere, der har oprettet indholdskomponenter, der skal tilrettes. Den person, der i sin tid skrev CQL-søgestrengen, vil måske være den bedste til at kontrollere om den virker som den skal efter tilretning.
+
+**BEMÆRK** Listen indeholder desværre også *GO-indhold*, som I IKKE MÅ tilrette. Det styrer DDF via Delingstjenesten. I skal kun behandle indhold i selv har oprettet. GO-indhold kan kendes på at siden er oprettet af **Anonym**. 
+{: .notice--info}
 
 <img width="799" height="294" alt="image" src="https://github.com/user-attachments/assets/6dd4fa37-54a7-414b-96af-c21aea1d721d" />
 
 
 
-Listen indeholder desværre også *GO-indhold*, som I IKKE MÅ tilrette. Det klarer DDF via Delingstjenesten. I skal kun behandle indhold i selv har oprettet. GO-indhold kan kendes på at siden er oprettet af *Anonym*. 
-{: .notice--info}
+### Sådan tilrettes indhold
 
-4. Klip på **Rediger** knappen ud for hver enkelt søgning for at rette den.
+Alle **Material Grid Automatic**-komponenter, der bruger **firstaccessiondate** i CQL-søgestrengen, skal tilrettes.
 
-### Tilretning af *Material Grid Automatic*-komponenter, der bruger *firstaccessiondate*
+Der er to trin:
 
-Problem-indhold er alle *Material Grid Automatic*-komponenter, der bruger *firstaccessiondate* i CQL-søgestrengen.
+#### 1. Slet *firstaccessiondate* under CQL-søgning
 
-Det der skal ske med dem er følgende:
-- Slet *firstaccessiondate* under **CQL-søgning**
-- Tilføj dato-interval under **firstaccessiondateitem**
+ashhs
+
+
+#### 2. Tilføj dato-interval under *firstaccessiondateitem*
+shhs
 
