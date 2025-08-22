@@ -54,10 +54,13 @@ Alle **Material Grid Automatic**-komponenter, der bruger **firstaccessiondate** 
 Der er to trin:
 
 #### 1. Slet *firstaccessiondate* under CQL-søgning
+<img width="752" height="181" alt="image" src="https://github.com/user-attachments/assets/212a71c7-0c3a-47a2-ab1a-648bed3359da" />
 
 ashhs
 
 
 #### 2. Tilføj dato-interval under *firstaccessiondateitem*
 shhs
+<img width="758" height="561" alt="image" src="https://github.com/user-attachments/assets/905cad04-f0b1-4c83-9b0c-00b16481c7f0" />
+
 
