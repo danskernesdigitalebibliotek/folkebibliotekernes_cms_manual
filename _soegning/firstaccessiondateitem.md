@@ -53,14 +53,25 @@ Alle **Material Grid Automatic**-komponenter, der bruger **firstaccessiondate** 
 
 Der er to trin:
 
-#### 1. Slet *firstaccessiondate* under CQL-søgning
+#### 1. Slet *firstaccessiondate* i CQL-søgestrengen
 <img width="752" height="181" alt="image" src="https://github.com/user-attachments/assets/212a71c7-0c3a-47a2-ab1a-648bed3359da" />
 
-ashhs
+Inden du sletter, så bemærk værdien. Det er jo den, der hidtil har fungeret som aldersafgrænsning. Den kan være sat til alt fra nogle få måneder til flere år.
 
 
-#### 2. Tilføj dato-interval under *firstaccessiondateitem*
-shhs
+#### 2. Tilføj dato-interval under *Firstaccessiondateitem: Værdi*
+Nu skal du tilføje aldersafgrænsningen som et filter i feltet **Firstaccessiondateitem: Værdi**
+
+Inden du bare indsætter en kopi af den værdi, som du lige slettede, så overvej om det kan gøres smartere.
+
+Dato kan angives som en bestemt dato, f.eks. 2025-07-08. Men det kan også gøres via termerne “NOW”, “DAYS” og “MONTHS”. 
+
+F.eks. vil “NOW - 90 DAYS” vise indkøb indenfor de sidste 90 dage.
+
+Fordelen ved at angive en periode med “NOW” og x antal dage eller måneder, er at den filtrering vedligeholder sig selv, mens en filtrering på “senere end” plus en bestemt dato kræver, at man periodisk retter datoen manuelt.
+
 <img width="758" height="561" alt="image" src="https://github.com/user-attachments/assets/905cad04-f0b1-4c83-9b0c-00b16481c7f0" />
+
+
 
 
