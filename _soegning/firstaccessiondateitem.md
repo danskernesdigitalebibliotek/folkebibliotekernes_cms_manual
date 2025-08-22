@@ -13,6 +13,7 @@ Søgekoden `firstaccessiondate` har desværre aldrig fungeret hensigtsmæssigt i
 Det er *Det Digitale Folkebibliotek*, der har taget initiativ til ændringen. 
 
 ## Betydning for hjemmesiderne
+
 Materialekomponenter bygget på søgestrenge, som indeholder søgekoden *firstaccessiondate* vil holde op med at virke pr. 1. oktober.
 
 Det samme gælder, hvis I har bygget avancerede søgninger med *firstaccessiondate* og lagt dem som links på jeres side.
@@ -21,6 +22,8 @@ Det samme gælder, hvis I har bygget avancerede søgninger med *firstaccessionda
 {: .notice--warning}
 
 Problemet er typisk knyttet til *Nyt på hylderne* oversigter. Nogle biblioteker har rigtig mange - andre har slet ingen. Har I ikke den type lister på jeres hjemmeside, så er I ikke ramt af problemstillingen.
+
+<img width="1889" height="919" alt="image" src="https://github.com/user-attachments/assets/265d0345-fb84-4830-8012-c79e447aaae0" />
 
 ### Hjælpeværktøj til at identificere problem-indhold
 
