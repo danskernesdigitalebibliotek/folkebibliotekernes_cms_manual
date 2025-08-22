@@ -917,9 +917,9 @@ var store = [{
         "url": "/main/soegning/cql-soegestrenge/",
         "teaser": null
       },{
-        "title": null,
-        "excerpt":"Med virkning fra 1. august 2025 nedlægge søgekoden firstaccessiondate i Complex Search / Avanceret søgning. Den erstattes af et nyt filtreringsindeks med navnet firstaccessiondateitem. Baggrund Søgekoden firstaccessiondate har desværre aldrig har fungeret hensigtsmæssigt i forhold til at afgrænse nyindkøb i lokale beholdninger. Det har gjort det svært for biblioteker, at...","categories": [],
-        "tags": null,
+        "title": "Nyt filtreringsindeks firstaccessiondateitem",
+        "excerpt":"Med virkning fra 1. august 2025 nedlægges søgekoden firstaccessiondate i Complex Search / Avanceret søgning. Den erstattes af et nyt filtreringsindeks med navnet firstaccessiondateitem. Baggrund Søgekoden firstaccessiondate har desværre aldrig fungeret hensigtsmæssigt i forhold til at afgrænse nyindkøb i lokale beholdninger. Det har derfor været svært for biblioteker at bygge...","categories": ["Søgning"],
+        "tags": [],
         "url": "/main/soegning/firstaccessiondateitem/",
         "teaser": null
       },{
