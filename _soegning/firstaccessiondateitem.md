@@ -35,7 +35,9 @@ domænenavn.dk)
 3. Nu åbner en tabel med alle forekomster af *Material Grid Automatic* der bruger *firstaccessiondate*.
   TIP: I kan sortere listen efter feltet `Forfatter på siden` for at få et overblik over hvilke medarbejdere, der har oprettet indholdskomponenter, der skal tilrettes. Den der i sin tid skrev CQL-søgestrengen, vil måske være den bedste til at kontrollere om den virker efter den er tilrettet.
 
-  
+<img width="799" height="294" alt="image" src="https://github.com/user-attachments/assets/6dd4fa37-54a7-414b-96af-c21aea1d721d" />
+
+
 
 Listen indeholder desværre også *GO-indhold*, som I IKKE MÅ tilrette. Det klarer DDF via Delingstjenesten. I skal kun behandle indhold i selv har oprettet. GO-indhold kan kendes på at siden er oprettet af *Anonym*. 
 {: .notice--info}
