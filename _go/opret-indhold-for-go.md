@@ -45,7 +45,7 @@ De GO specifikke indholdselementer, der kan oprettes er hhv. GO Article, GO Cate
 
 - **Dedikeret område til lokal formidling på forsiden** 
 
-   Som udgangspunkt overskrives evt. lokalt tilføjet indhold på forsiden, når Bibliotekernes Nationale Redaktion opdaterer den. Det er et ønske at udvikle et dedikeret område på forsiden, hvor de lokale biblioteker kan tilføje indhold, som ikke overskrives
+   Som udgangspunkt overskrives evt. lokalt tilføjet indhold på forsiden, når Bibliotekernes Nationale Redaktion opdaterer den. Det er et ønske at udvikle et dedikeret område på forsiden, hvor de lokale biblioteker kan tilføje indhold, som ikke overskrives.
 
 
 
