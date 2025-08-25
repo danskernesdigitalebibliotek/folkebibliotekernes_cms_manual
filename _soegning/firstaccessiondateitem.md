@@ -66,7 +66,9 @@ Inden du bare indsætter en kopi af den værdi, som du lige slettede, så overve
 
 Dato kan angives som en bestemt dato, f.eks. 2025-07-08. Men det kan også gøres via termerne “NOW”, “DAYS” og “MONTHS”. 
 
-F.eks. vil “NOW - 90 DAYS” vise indkøb indenfor de sidste 90 dage.
+Eksempler:
+- “NOW - 90 DAYS” viser indkøb inden for de sidste 90 dage
+- "NOW - 12 MONTHS" viser indkøb inden for det seneste år
 
 Fordelen ved at angive en periode med “NOW” og x antal dage eller måneder, er at den filtrering vedligeholder sig selv, mens en filtrering på “senere end” plus en bestemt dato kræver, at man periodisk retter datoen manuelt.
 
