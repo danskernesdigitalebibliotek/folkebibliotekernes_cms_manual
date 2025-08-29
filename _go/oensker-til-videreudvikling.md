@@ -19,6 +19,9 @@ Vi ved fra både reserveringsstatistikker og fokusgruppeundersøgelser, at børn
 
 I første omgang har prioriteten derfor været at udvikle funktionalitet, der tilgodeser de mange digitale børnebrugere, der benytter ereolengo.dk til streaming af e-bøger og lydbøger for ikke tabe disse biblioteksbrugere. Ereolengo.dk kører på uddateret teknologi og skal derfor udfases.  
 
+Nogle har spurgt, om man ikke blot kan lave et link over til materialet på hovedsitet. Når vi ikke bare kan lave et link til bibliotekernes hovedsites eller bibliotek.dk for den sags skyld, er det fordi at LANGT hovedparten af de besøgende på nuværende tidspunkt vil være UNI-login-brugere, der ikke kender deres bibliotekslogin. Og for dem er det en decideret obstruerende brugerrejse at skulle sendes ud på et voksenrettet site, hvor de ikke kan logge ind.
+Derfor er det en dyrere sag at inkorporere, fordi det kalder på, at løsningen hele tiden skal lytte på, om der er tale om en anonymbruger, en biblioteksbruger eller en UNI-login-bruger.
+
 
 
 #### Arrangementer
