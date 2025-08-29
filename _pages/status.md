@@ -4,6 +4,17 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## Uni-login på GO-sitet fejler for nogle elever
+Vi har desværre fået meldinger ind på at Uni-loginet via GO-sitet fejler på nogle skoler. Vi er i fuld gang med at fejlsøge og lokalisere fejlen.
+Derfor har vi brug for jeres hjælp. Hvis I får henvendelser fra kommunens skoler, vil vi bede jer om at få følgende oplysninger fra skolerne:
+
+- Skolens institutionsnummer?
+
+- Er det web, app eller begge steder, de ikke kan logge ind med Unilogin?
+
+- Er det alle elever, der oplever, at de ikke kan logge ind eller kun nogle?
+
+- Hvilken fejlmeddelelse modtager de, når de prøver at logge ind? Send meget gerne screenshots, hvis muligt.
 ## Servicevinduer fredag den 22. august og mandag den 25. august. Begge dage er efter kl. 22.
 I forbindelse med nedlukningen af det nuværende ereolengo.dk har vores leverandør brug for at tildele ekstra ressourcer til databasen. Det kræver at databasen bliver flyttet til en større maskine, hvilket vil betyde nedetid på tværs af sites'ne under flytningen.
 Vi laver flytningen fredag aften, men har planlagt begge servicevinduer så vi har mulighed for at reagere mandag aften, hvis der er brug for ekstraordinære ændringer.
