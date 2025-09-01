@@ -28,7 +28,7 @@ Selvom Avanceret søgning er det højest prioriterede emneområde vil selve udvi
 ## Avanceret søgning 
 
 ### Status
-Vi har nu startet en proces med en lille gruppe af biblioteker, der skal hjælpe os med at finde ud af hvad der skal forbedre.
+Vi har nu startet en proces med en lille gruppe af biblioteker, der skal hjælpe os med at finde ud af hvad der skal forbedres.
 
 ### Beskrivelse
 Den nuværende implementering af avanceret søgning består af to grænseflader: Feltsøgning og CQL-søgning. Dette emneområde angår udviklingsønsker i begge.
