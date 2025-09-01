@@ -27,6 +27,9 @@ Selvom Avanceret søgning er det højest prioriterede emneområde vil selve udvi
 
 ## Avanceret søgning 
 
+### Status
+Vi har nu startet en proces med en lille gruppe af biblioteker, der skal hjælpe os med at finde ud af hvad der skal forbedre.
+
 ### Beskrivelse
 Den nuværende implementering af avanceret søgning består af to grænseflader: Feltsøgning og CQL-søgning. Dette emneområde angår udviklingsønsker i begge.
 
@@ -56,8 +59,11 @@ Opgavernes størrelse er ikke estimeret, da de indgår i et større analysearbej
 [CMS-1487: Filtreringsindekser ”Department” og ”Branch” i avanceret søgning](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1487){:target="_blank"}
 
 ## Arrangementer
+### Status
+Vi er i gang med at udvkikle på ønskerne og har implementeret nogle af ønskerne allerede.
+
 ### Beskrivelse
-Dette emneområder indeholder både ønsker til arrangementsoversigten og arrange-mentssiden. Bemærk: Området dækker ikke paragrafer som eventlist manual og automatic eller billetintegration.
+Dette emneområder indeholder både ønsker til arrangementsoversigten og arrangementssiden. Bemærk: Området dækker ikke paragrafer som eventlist manual og automatic eller billetintegration.
 
 ### Fremgangsmåde
 Langt de fleste sager i dette emneområde er koncentreret om arrangementsoversigten, og det vil derfor give mening at se på sagerne i en samlet helhed for at sikre en forbedret visning af listen. 
@@ -94,6 +100,10 @@ Disse er opdelt i størrelsen af opgaven. Der bruges en t-shirt størrelse. Det 
 [CMS-1471: Arrangementsvisning layout](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1471){:target="_blank"} - laves sammen med andre opgaver om arrangements layout
 
 ## Søgeresultatsiden og værkvisningssiden
+
+### Status
+Vi er i gang med at udvkikle på ønskerne og har implementeret nogle af ønskerne allerede.
+
 ### Beskrivelse
 Værkvisningssiden er den side som samler alle materialetyper og udgaver for en titel. Søgeresultatsiden er den side med posterne i søgeresultatet, som brugerne ser, når de har foretaget en søgning.
 
