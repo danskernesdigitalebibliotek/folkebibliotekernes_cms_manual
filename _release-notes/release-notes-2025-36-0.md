@@ -38,4 +38,4 @@ Releasedato: 04-09-2025
 
 -	GO - login: Redirect ved fejlede loginforsøg i Udbyderportalen er fjernet.
 
--	GO - statuskoder: Systemet returnerer nu korrekte statuskoder: 404 (side ikke fundet) og 500 (systemfejl).
+-	GO - statuskoder: Siden returnerer nu korrekte statuskoder: 404 (side ikke fundet) og 500 (systemfejl).
