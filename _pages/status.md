@@ -4,6 +4,8 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 5/9 -25 Fortsat fejl på UNI-login på nogle skoler
+Vi oplever fortsat fejl på UNI-login på nogle skoler. Vi arbejder på sagen sammen med STIL og Reload og melder ud, når der er styr på situationen igen. På alle GO-sites er der nu lagt information ud til slutbrugerne.
 ## Uni-login på GO-sitet fejler for nogle elever
 Vi har desværre fået meldinger ind på at Uni-loginet via GO-sitet fejler på nogle skoler. Vi er i fuld gang med at fejlsøge og lokalisere fejlen.
 Derfor har vi brug for jeres hjælp. Hvis I får henvendelser fra kommunens skoler, vil vi bede jer om at få følgende oplysninger fra skolerne:
