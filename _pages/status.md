@@ -5,7 +5,7 @@ sidebar: true
 nav: "overblik"
 ---
 ## 5/9 -25 Fortsat fejl på UNI-login på nogle skoler
-Vi oplever fortsat fejl på UNI-login på nogle skoler. Vi arbejder på sagen sammen med STIL og Reload og melder ud, når der er styr på situationen igen. På alle GO-sites er der nu lagt information ud til slutbrugerne.
+Vi oplever fortsat fejl på UNI-login på nogle skoler. Vi arbejder på sagen sammen med STIL og Reload og melder ud, når der er styr på situationen igen. På alle GO-sites er der nu lagt information ud til slutbrugerne. På mandag den 8/9 kører vi et hotfix ud til alle de biblioteker, som lige nu er på release 2025.36.0, så de kommer på release 2025.36.1. Vi håber, hotfixet kan bringe os nærmere på nogle løsninger på Unilogin ustabiliteten.
 ## Uni-login på GO-sitet fejler for nogle elever
 Vi har desværre fået meldinger ind på at Uni-loginet via GO-sitet fejler på nogle skoler. Vi er i fuld gang med at fejlsøge og lokalisere fejlen.
 Derfor har vi brug for jeres hjælp. Hvis I får henvendelser fra kommunens skoler, vil vi bede jer om at få følgende oplysninger fra skolerne:
