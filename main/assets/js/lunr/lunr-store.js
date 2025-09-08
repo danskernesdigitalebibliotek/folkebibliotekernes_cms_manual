@@ -924,7 +924,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Nyt filtreringsindeks firstaccessiondateitem",
-        "excerpt":"Med virkning fra 1. august 2025 nedlægges søgekoden firstaccessiondate i Complex Search / Avanceret søgning. Den erstattes af et nyt filtreringsindeks med navnet firstaccessiondateitem. Baggrund Søgekoden firstaccessiondate har desværre aldrig fungeret hensigtsmæssigt i forhold til at afgrænse nyindkøb i lokale beholdninger. Det har derfor været svært for biblioteker at bygge...","categories": ["Søgning"],
+        "excerpt":"Med virkning fra 1. oktober 2025 nedlægges søgekoden firstaccessiondate i Complex Search / Avanceret søgning. Den erstattes af et nyt filtreringsindeks med navnet firstaccessiondateitem. Bemærk at firstaccessiondateitem ikke kan bruges til at søge digitale materialer frem fx fra eReolen. Baggrund Søgekoden firstaccessiondate har desværre aldrig fungeret hensigtsmæssigt i forhold til...","categories": ["Søgning"],
         "tags": [],
         "url": "/main/soegning/firstaccessiondateitem/",
         "teaser": null
