@@ -4,7 +4,8 @@ category: "Søgning"
 weight: 30
 ---
 
-Med virkning fra 1. august 2025 nedlægges søgekoden `firstaccessiondate` i Complex Search / Avanceret søgning. Den erstattes af et nyt filtreringsindeks med navnet `firstaccessiondateitem`.
+Med virkning fra 1. oktober 2025 nedlægges søgekoden `firstaccessiondate` i Complex Search / Avanceret søgning. Den erstattes af et nyt filtreringsindeks med navnet `firstaccessiondateitem`.
+Bemærk at firstaccessiondateitem ikke kan bruges til at søge digitale materialer frem fx fra eReolen.
 
 ## Baggrund
 
