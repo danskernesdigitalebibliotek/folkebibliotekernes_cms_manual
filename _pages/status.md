@@ -4,6 +4,11 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+
+## 9/9 -25 Problemer med afspilning af digitale lån på hjemmesiderne
+Vi oplever pt. problemer med afspilning af e-bøger og nogle lydbøger via hjemmesiderne og via GO.
+
+Vi arbejder på at løse problematikken som er relateret til Publizon Adapteren, og melder ud her når der er nyt i sagen. 
 ## 5/9 -25 Fortsat fejl på UNI-login på nogle skoler
 Vi oplever fortsat fejl på UNI-login på nogle skoler. Vi arbejder på sagen sammen med STIL og Reload og melder ud, når der er styr på situationen igen. På alle GO-sites er der nu lagt information ud til slutbrugerne. 
 
