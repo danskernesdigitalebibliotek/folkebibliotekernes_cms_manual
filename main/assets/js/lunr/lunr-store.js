@@ -966,7 +966,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Rankering af fuzzy match",
-        "excerpt":"Der er kun ét søgefelt i Folkebibliotekernes CMS, og der er rigtig mange, meget forskelligartede brugerbehov. For at kunne understøtte så mange som muligt af disse, benyttes ”fuzzy match”. Ordet “fuzzy” betegner noget der er uskarpt, sløret, ikke helt præcist, og det er dækkende for, hvad der sker. Systemet finder...","categories": ["Søgning"],
+        "excerpt":"Søgefeltet i Folkebibliotekernes CMS skal imødekomme mange meget forskelligartede brugerbehov. For at kunne understøtte så mange som muligt af disse, benyttes ”fuzzy match”. Ordet “fuzzy” betegner noget der er uskarpt, sløret, ikke helt præcist, og det er dækkende for, hvad der sker. Systemet finder nogle svar, der ikke passer præcist...","categories": ["Søgning"],
         "tags": [],
         "url": "/main/soegning/rankering-og-fuzzy-match/",
         "teaser": null
