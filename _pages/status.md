@@ -5,6 +5,26 @@ sidebar: true
 nav: "overblik"
 ---
 
+## 10/9-25 Fejlen på digitale lån 
+Det har vist sig at nedenstående fejl nu kun findes på GO siderne og kun på e-bøger, som peger på en forkert materialetype.
+
+Sagen er beskrevet som følgende:
+
+Hvis jeg har lånt en e-bog og efterfølgende tilgår den fra min profilside, så ender jeg på en tom side. Hvis jeg fremsøger bogen igennem søgningen bliver den vist fint og jeg kan tilgå læse bogen.
+Så vidt jeg kan se skyldes til at der fra profilen linkes til materialet med en forkert materialetype:
+
+Eksempel:
+
+Link fra profilside: https://go.fkb.dk/work/work-of%3A870970-basis%3A53216676?type=COMICS
+
+Link fra søgning: https://go.fkb.dk/work/work-of%3A870970-basis%3A53216676?type=EBOOKS
+
+Linket fra profilsiden skal gå til den rigtige materialetype.
+
+Fejlen ser ikke ud til at påvirke lydbøger. 
+
+Vi arbejder på at få det løst så hurtigt som muligt.
+
 ## 9/9 -25 Problemer med afspilning af digitale lån på hjemmesiderne
 Vi oplever pt. problemer med afspilning og visning af e-bøger og nogle lydbøger via hjemmesiderne og via GO.
 
