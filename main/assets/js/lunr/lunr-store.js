@@ -918,7 +918,7 @@ var store = [{
         "teaser": null
       },{
         "title": "CQL Søgestrenge",
-        "excerpt":"DBCs CQL dokumentation: FBI-API’s Complex Search Documentation CQL-søgestrenge bruges fx til at trække materialer ind i den paragraph, der hedder Material grid automatic. Sådan opretter du nemt en CQL-søgestreng CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion og kopiere søgestrengen derfra. Klik på Avanceret søgning....","categories": ["Søgning"],
+        "excerpt":"DBCs CQL dokumentation: Søgekoder i Complex Search Værd at bemærke om søgekoder: Der er adgang til at søge på lokale opstillingsoplysninger som f.eks. voksen/børnefdeling og afgrænse på opstilling (location) og delopstilling (sub-location). Husk, at opstilling og del-opstilling skal skrives nøjagtigt som det står i FBS/Cicero. Det er også muligt kun...","categories": ["Søgning"],
         "tags": [],
         "url": "/main/soegning/cql-soegestrenge/",
         "teaser": null
