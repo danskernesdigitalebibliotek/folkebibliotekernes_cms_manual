@@ -34,8 +34,10 @@ Når man filtrerer på *firstaccessiondateitem*, kan man gøre det på forskelli
 I tilfældet med nye materialer giver det bedst mening at vælge “senere end” og så angive f.eks. “NOW - 90 DAYS” for at vise indkøb indenfor de sidste 90 dage.
 Fordelen ved at angive en periode med “NOW” og x antal dage eller måneder, er at den søgning + filtrering vedligeholder sig selv, mens en filtrering på “senere end” + en bestemt dato kræver, at man periodisk retter datoen manuelt.
 
-VÆRD AT OVERVEJE: 
-Hvilket aldersinterval man skal vælge afhænger af hvor meget der indkøbes. Gør man intervallet for smalt, så man f. eks. kun viser matetialer indkøbt de seneste 3 måneder, da risikerer man måske tomme displays i perioder med mindre asccession.
+**Hvilket aldersinterval skal man vælge?**: Det afhænger af hvor meget der indkøbes. Gør man intervallet for smalt, så man f. eks. kun viser matetialer indkøbt de seneste 3 måneder, da risikerer man måske tomme displays i perioder med mindre asccession.
+{: .notice--info}
+
+**OBS vedr. digitale materialer**: Filteret *firstaccessiondateitem* virker ikke på e-bøger og andre digitale materialer.  
 {: .notice--info}
 
 ### 3. Tryk på kopier-knappen
