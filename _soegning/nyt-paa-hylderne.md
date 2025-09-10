@@ -64,6 +64,7 @@ Når man er tilfreds med sin søgning/sortering/filtrering trykker man på knapp
 
 *Kopier søgning til udklipsholder*
 
+### 4. Indsæt i Material Grid Automatic
 Ovre i sin Material Grid Automatic paragraph trykker på knappen **Hent filtre fra URL**. Så trækkes ens søgning (inkl. “på hylden”), sortering og filtering ind i Material grid automatic, der herefter blot skal navngives og vælges antal materialer der skal vises og evt. suppleres med en beskrivelse. Man gentager samme procedure for alle de Material grid automatic, man vil oprette på sin “Nyt på hylderne”-side.
 
 <img width="1180" height="271" alt="image" src="https://github.com/user-attachments/assets/86fb5f41-47b3-4a69-abf9-44a7880783ea" />
