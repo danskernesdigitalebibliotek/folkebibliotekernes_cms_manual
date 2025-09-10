@@ -4,7 +4,15 @@ category: "Søgning"
 weight: 10
 ---
 
-### DBCs CQL dokumentation: [FBI-API's Complex Search Documentation](https://fbi-api.dbc.dk/indexmapper/){:target="_blank" rel="noopener"}
+### DBCs CQL dokumentation: [Søgekoder i Complex Search](https://danbib.dk/soegekoder-complex-search){:target="_blank" rel="noopener"}
+{: .notice--info}
+
+Værd at bemærke om søgekoder:
+- Der er adgang til at søge på lokale opstillingsoplysninger som f.eks. voksen/børnefdeling og afgrænse på opstilling (location) og delopstilling (sub-location). Husk, at opstilling og del-opstilling skal skrives nøjagtigt som det står i FBS/Cicero.
+- Det er også muligt kun at afgrænse til værkposter, som har materialer som er “på hylden”.
+
+Besøg denne side med hyppigt brugte CQL-søgestrenge. Her er CQL-søgestrenge til Nye billedbøger, Nye børnebøger, Nye blue-ray film og meget andet. 
+[CQL Søgestrenge eksempler](https://www.folkebibliotekernescms.dk/main/soegning/cql-soegestrenge-eksempler/)
 {: .notice--info}
 
 CQL-søgestrenge bruges fx til at trække materialer ind i den paragraph, der hedder Material grid automatic.
@@ -25,9 +33,7 @@ Hvis du skal bruge søgestrengen i komponenten **Materialekomponent - automatisk
 
 {% include figure image_path="https://github.com/user-attachments/assets/f14afd0d-374a-4864-8fed-48fce75a752d" alt="Indsæt søgestrengen i CQL Search-feltet" caption="Indsæt søgestrengen i CQL Search-feltet" %}
 
-[Læs mere om avanceret søgning og CQL søgning](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/soegning/avanceret-sogning/)
 
-[Link til FBI-API's Complex Search Documentation](https://fbi-api.dbc.dk/indexmapper/){:target="_blank" rel="noopener"}
 
 
 
