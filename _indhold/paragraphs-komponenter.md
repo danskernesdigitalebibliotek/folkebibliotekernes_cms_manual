@@ -151,11 +151,21 @@ Er du utilfreds med beskrivelsen, der hentes ind, kan du tilføje din egen. Du k
 
 ### Materialekomponent - automatisk
 
-Med Materialekomponent - automatisk kan du eksponere bøger og andre materialer
+Med Materialekomponent - automatisk kan du eksponere bøger og andre materialer på baggrund af en CQL-søgestreng.
 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/fad69f6f-2dc0-461c-b717-2641fda0b552" alt="Eksempel på en materialekomponent - automatisk" caption="Eksempel på en materialekomponent - automatisk" %}
 
-Automatic-varianten trækker materialer ind via en CQL-søgestreng. CQL-søgestrengen er nemmest at bygge og teste i avanceret søgning i websitets søgefunktion. Når du er tilfreds med det søgeresultat som din CQL-streng danner kan dukopiere den og indsætte den i materialekomponenten. [Læs her hvordan du opbygger en CQL-søgestreng i avanceret søgning](https://www.folkebibliotekernescms.dk/main/soegning/cql-soegestrenge/)
+Efter releases i juni og juli 2025 har komponenten fået flere indstillingsmuligheder. 
+
+Man skal nu tage stilling til tre ting: 
+- søgestreng
+- sortering
+- filtrering
+
+Førhen var der kun søgestrengen. Sortering og filtrering måtte man forsøge at indbygge i den. Men det virkede ikke ordentligt. Nu er det opdelt.
+
+Søgestreng, sortering og filtering er stadig nemmest at indstille og teste i avanceret søgning i websitets søgefunktion. Her opbygger og finjusterer man ind til man er tilfreds med resultatet. Så klikker man på en knap, og straks overføres søgestreng *samt filtrering og sortering* til Material Grid Automatic komponenten. Det er smart!
+[Læs her hvordan du indstiller Materialekomponent - automatisk via Avanceret søgning](https://www.folkebibliotekernescms.dk/main/soegning/cql-soegestrenge/)
 
 Du kan indstille komponenten til at vise et bestemt antal materialer. Antallet skal være deleligt med fire. Antallet bestemmer du i feltet **Antal materialer/værker**.
 
