@@ -1,5 +1,5 @@
 ---
-title: "Nyt på hylderne komponent via Avanceret søgning"
+title: "'Nyt på hylderne' komponent via Avanceret søgning"
 category: "Søgning"
 weight: 10
 ---
