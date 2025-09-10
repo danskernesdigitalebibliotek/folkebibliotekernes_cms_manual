@@ -7,7 +7,7 @@ weight: 10
 Mange biblioteker vil gerne bruge hjemmesiden til at fremhæve nyindkøbte materialer. F. eks. nye YA-titler, krimier eller Blu-ray film. Nogen gør det på hjemmesidens forside, mens andre opretter særskilte  “Nyt på hylderne”-sider.
 Materialerne præsenteres i den paragraph type der hedder **Material grid automatic**. Man kan sagtens have flere af dem på samme side, som vist herunder.
 
-<billede>
+BILLEDE
   
 Når man på sin side indsætter en ny Material grid automatic paragraph opdager man, at der er mange felter, der skal udfyldes. Der skal angives både *søgestreng* og *sortering* og *filtrering*. Og selv den mindste tastefejl resulterer i 0 resutater.
 Derfor er anbefaler vi at opbygge søgestreng, sortering og filtrering i Avenceret søgning og så bruge den indbyggede kopi-funktion til at udfylde felterne i sit Material Grid Automatic paragraph.
