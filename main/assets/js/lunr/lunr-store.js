@@ -941,7 +941,7 @@ var store = [{
         "url": "/main/soegning/intelligente-facetter/",
         "teaser": null
       },{
-        "title": "'Nyt på hylderne' komponent via Avanceret søgning",
+        "title": "Nyt på hylderne komponent via Avanceret søgning",
         "excerpt":"Mange biblioteker vil gerne bruge hjemmesiden til at fremhæve nyindkøbte materialer. F. eks. nye YA-titler, krimier eller Blu-ray film. Nogen gør det på hjemmesidens forside, mens andre opretter særskilte “Nyt på hylderne”-sider. Materialerne præsenteres i den paragraph type der hedder Material grid automatic. Man kan sagtens have flere af dem...","categories": ["Søgning"],
         "tags": [],
         "url": "/main/soegning/nyt-paa-hylderne/",
