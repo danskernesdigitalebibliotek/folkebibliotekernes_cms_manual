@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2025-09-10T13:41:53+00:00">
+  <meta property="article:published_time" content="2025-09-10T13:45:54+00:00">
 
 
 
@@ -316,7 +316,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Nyt på hylderne komponent via Avanceret søgning">
     <meta itemprop="description" content="Mange biblioteker vil gerne bruge hjemmesiden til at fremhæve nyindkøbte materialer. F. eks. nye YA-titler, krimier eller Blu-ray film. Nogen gør det på hjemmesidens forside, mens andre opretter særskilte  “Nyt på hylderne”-sider.Materialerne præsenteres i den paragraph type der hedder Material grid automatic. Man kan sagtens have flere af dem på samme side, som vist herunder.">
-    <meta itemprop="datePublished" content="2025-09-10T13:41:53+00:00">
+    <meta itemprop="datePublished" content="2025-09-10T13:45:54+00:00">
     
 
     <div class="page__inner-wrap">
@@ -338,43 +338,44 @@
         <p>Mange biblioteker vil gerne bruge hjemmesiden til at fremhæve nyindkøbte materialer. F. eks. nye YA-titler, krimier eller Blu-ray film. Nogen gør det på hjemmesidens forside, mens andre opretter særskilte  “Nyt på hylderne”-sider.
 Materialerne præsenteres i den paragraph type der hedder <strong>Material grid automatic</strong>. Man kan sagtens have flere af dem på samme side, som vist herunder.</p>
 
-<billede>
-  
-Når man på sin side indsætter en ny Material grid automatic paragraph opdager man, at der er mange felter, der skal udfyldes. Der skal angives både *søgestreng* og *sortering* og *filtrering*. Og selv den mindste tastefejl resulterer i 0 resutater.
-Derfor er anbefaler vi at opbygge søgestreng, sortering og filtrering i Avenceret søgning og så bruge den indbyggede kopi-funktion til at udfylde felterne i sit Material Grid Automatic paragraph.
+<p>BILLEDE</p>
 
-### Her er en trin for trin guide:
+<p>Når man på sin side indsætter en ny Material grid automatic paragraph opdager man, at der er mange felter, der skal udfyldes. Der skal angives både <em>søgestreng</em> og <em>sortering</em> og <em>filtrering</em>. Og selv den mindste tastefejl resulterer i 0 resutater.
+Derfor er anbefaler vi at opbygge søgestreng, sortering og filtrering i Avenceret søgning og så bruge den indbyggede kopi-funktion til at udfylde felterne i sit Material Grid Automatic paragraph.</p>
 
-**CASE: Vi opretter en Material Grid Automatic komponent, der viser nye krimier, som er indkøbt inden for de seneste 6 måneder og som sorteres med nyeste først.**
+<h3 id="her-er-en-trin-for-trin-guide">Her er en trin for trin guide:</h3>
 
-### 1. Gå ind i **CQL-søgning** under **Avanceret søgning**
-Lav en søgning på emnet. Glem i første omgang alt om sortering og filtrering på alder. Det kommer senere.
+<p><strong>CASE: Vi opretter en Material Grid Automatic komponent, der viser nye krimier, som er indkøbt inden for de seneste 6 måneder og som sorteres med nyeste først.</strong></p>
+
+<h3 id="1-gå-ind-i-cql-søgning-under-avanceret-søgning">1. Gå ind i <strong>CQL-søgning</strong> under <strong>Avanceret søgning</strong></h3>
+<p>Lav en søgning på emnet. Glem i første omgang alt om sortering og filtrering på alder. Det kommer senere.
 Søgning kan enten opbygges via brugergrænsefladen i Avanceret søgning eller skrives direkte som CQL søgning. Forfin din søgning indtil du er tilfreds med din søgning i forhold til at ramme den ønskede slags materialer.
-[Læs mere om CQL-søgning her](https://www.folkebibliotekernescms.dk/main/soegning/cql-soegestrenge/)
+<a href="https://www.folkebibliotekernescms.dk/main/soegning/cql-soegestrenge/">Læs mere om CQL-søgning her</a></p>
 
-### 2. Afgræns på alder
-Aldersafgrænsingen skal du IKKE forsøge at bygge ind i din søgning, for det kan man ikke. 
+<h3 id="2-afgræns-på-alder">2. Afgræns på alder</h3>
+<p>Aldersafgrænsingen skal du IKKE forsøge at bygge ind i din søgning, for det kan man ikke.</p>
 
-- Aldersafgrænsning laver man ved at **filtrere** på **firstaccessiondateitem**.
-- Hvis man vil have det allernyeste først tilføjer man også **sortering** på **Nyeste først**.
+<ul>
+  <li>Aldersafgrænsning laver man ved at <strong>filtrere</strong> på <strong>firstaccessiondateitem</strong>.</li>
+  <li>Hvis man vil have det allernyeste først tilføjer man også <strong>sortering</strong> på <strong>Nyeste først</strong>.</li>
+</ul>
 
-Når man filtrerer på *firstaccessiondateitem*, kan man gøre det på forskellige måder:
-- Man kan indstille datointervallet som “senere end” (standard), “præcis dato” eller “tidligere end“
-- Dato kan angives enten som en bestemt dato, f.eks. 2025-07-08, eller via termerne “NOW”, “DAYS” og “MONTHS”
-  
-I tilfældet med nye materialer giver det bedst mening at vælge “senere end” og så angive f.eks. “NOW - 90 DAYS” for at vise indkøb indenfor de sidste 90 dage.
-Fordelen ved at angive en periode med “NOW” og x antal dage eller måneder, er at den søgning + filtrering vedligeholder sig selv, mens en filtrering på “senere end” + en bestemt dato kræver, at man periodisk retter datoen manuelt.
+<p>Når man filtrerer på <em>firstaccessiondateitem</em>, kan man gøre det på forskellige måder:</p>
+<ul>
+  <li>Man kan indstille datointervallet som “senere end” (standard), “præcis dato” eller “tidligere end“</li>
+  <li>Dato kan angives enten som en bestemt dato, f.eks. 2025-07-08, eller via termerne “NOW”, “DAYS” og “MONTHS”</li>
+</ul>
 
-**Hvilket aldersinterval skal man vælge?**: Det afhænger af hvor meget der indkøbes. Gør man intervallet for smalt, så man f. eks. kun viser matetialer indkøbt de seneste 3 måneder, da risikerer man måske tomme displays i perioder med mindre asccession.
-{: .notice--info}
+<p>I tilfældet med nye materialer giver det bedst mening at vælge “senere end” og så angive f.eks. “NOW - 90 DAYS” for at vise indkøb indenfor de sidste 90 dage.
+Fordelen ved at angive en periode med “NOW” og x antal dage eller måneder, er at den søgning + filtrering vedligeholder sig selv, mens en filtrering på “senere end” + en bestemt dato kræver, at man periodisk retter datoen manuelt.</p>
 
-**OBS vedr. digitale materialer**: Filteret *firstaccessiondateitem* virker ikke på e-bøger og andre digitale materialer.  
-{: .notice--info}
+<p class="notice--info"><strong>Hvilket aldersinterval skal man vælge?</strong>: Det afhænger af hvor meget der indkøbes. Gør man intervallet for smalt, så man f. eks. kun viser matetialer indkøbt de seneste 3 måneder, da risikerer man måske tomme displays i perioder med mindre asccession.</p>
 
-### 3. Tryk på kopier-knappen
-Når man er tilfreds med sin søgning/sortering/filtrering trykker man på knappen “Link til denne søgning”, hvilket kopierer søgningen over i ens udklipsholder, og er lige til at indsætte i en Material grid automatic i link-feltet.
-Når man trykker på knappen “Load filters from URL” i sin Material grid automatic, trækkes ens søgning (inkl. “på hylden”), sortering og filtering ind i Material grid automatic, der herefter blot skal navngives og vælges antal materialer der skal vises og evt. suppleres med en beskrivelse. Man gentager samme procedure for alle de Material grid automatic, man vil oprette på sin “Nyt på hylderne”-side.
-</billede>
+<p class="notice--info"><strong>OBS vedr. digitale materialer</strong>: Filteret <em>firstaccessiondateitem</em> virker ikke på e-bøger og andre digitale materialer.</p>
+
+<h3 id="3-tryk-på-kopier-knappen">3. Tryk på kopier-knappen</h3>
+<p>Når man er tilfreds med sin søgning/sortering/filtrering trykker man på knappen “Link til denne søgning”, hvilket kopierer søgningen over i ens udklipsholder, og er lige til at indsætte i en Material grid automatic i link-feltet.
+Når man trykker på knappen “Load filters from URL” i sin Material grid automatic, trækkes ens søgning (inkl. “på hylden”), sortering og filtering ind i Material grid automatic, der herefter blot skal navngives og vælges antal materialer der skal vises og evt. suppleres med en beskrivelse. Man gentager samme procedure for alle de Material grid automatic, man vil oprette på sin “Nyt på hylderne”-side.</p>
 
         
       </section>
@@ -386,7 +387,7 @@ Når man trykker på knappen “Load filters from URL” i sin Material grid aut
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-09-10T13:41:53+00:00">September 10, 2025</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-09-10T13:45:54+00:00">September 10, 2025</time></p>
 
       </footer>
 
