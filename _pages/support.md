@@ -28,7 +28,6 @@ Udviklingsønsker kan du også melde ind via [Servicedesk](https://detdigitalefo
 Hvad skal meldes ind hvor?
 
 Sager om: 
-- Forsider - manglende eller forkerte (har du et forsidebillede, så vedhæft filen på sagen) - Meldes ind under Cover Service
 - Udseende / design af søgeresultater på hjemmesiden
 - Hvilke metadata der vises (ikke om viste metadata er korrekte, men om de overhovedet 
 vises)
@@ -40,8 +39,13 @@ Sager om:
 - Match (er resultaterne de rigtige set i forhold til det der søges på?)
 - Rankering (bliver søgeresultaterne vist i den rigtige orden?)
 - Forkerte metadata på specifikke poster
+- Forsider - manglende eller forkerte
 
 **Indberettes til [DBCs Kundeservice](https://kundeservice.dbc.dk/){:target="_blank"}**
 
 Sager til DBC, må meget gerne indeholde et link til søgningen foretaget direkte i FBI-API. Læs mere her:
 [Guide til at oprette sager om søgning hos DBC](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/assets/files/sager-om-soegning-til-DBC.pdf){:target="_blank" rel="noopener"}
+
+**Indberettes til [Det Kongelige Bibliotek](https://forbiblioteker.kb.dk/kontakt-og-information/kontakt){:target="_blank"}** 
+
+Sager ved fejl på Digital Artikelservice, hvor fejlen både findes på Folkebibliotekernes CMS og i Bibliotek.dk
