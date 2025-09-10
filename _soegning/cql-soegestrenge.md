@@ -17,7 +17,7 @@ Besøg denne side med hyppigt brugte CQL-søgestrenge. Her er CQL-søgestrenge t
 
 CQL-søgestrenge bruges fx til at trække materialer ind i den paragraph, der hedder Material grid automatic.
 
-## Sådan opretter du nemt en CQL-søgestreng
+## Sådan opretter du en CQL-søgestreng
 
 CQL-søgestrengen kan du finde ved at lave en avanceret søgning i websitets søgefunktion og kopiere søgestrengen derfra.
 
@@ -29,9 +29,11 @@ Lav din søgning og klik på **Kopier søgestreng**.
 
 {% include figure image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/39811f60-a69e-4304-88d1-9583cf180d08" alt="Klik på Kopier søgestreng" caption="Klik på Kopier søgestreng" %}
 
-Hvis du skal bruge søgestrengen i komponenten **Materialekomponent - automatisk**, skal du indsætte den i feltet **CQL Search**. Sådan her:
+## Søgestreng til komponenten **Materialekomponent - automatisk**
 
-{% include figure image_path="https://github.com/user-attachments/assets/f14afd0d-374a-4864-8fed-48fce75a752d" alt="Indsæt søgestrengen i CQL Search-feltet" caption="Indsæt søgestrengen i CQL Search-feltet" %}
+Hvis du vil bruge søgestrengen i en paragraph af typen **Materialekomponent - automatisk** skal du IKKE klikke på **Kopier søgestreng**. Du skal i stedet vælge **Link til denne søgning**. 
+
+Følg guiden ['Nyt på hylderne' komponent via Avanceret søgning](https://www.folkebibliotekernescms.dk/main/soegning/nyt-paa-hylderne/) for en grundig gennemgang af hvordan Avanceret søgning/CQL søgning bruges sammen med Materialekomponent - automatisk.
 
 
 
