@@ -3,7 +3,7 @@ title: "Rankering af fuzzy match"
 category: "Søgning"
 weight: 30
 ---
-Der er kun ét søgefelt i Folkebibliotekernes CMS, og der er rigtig mange, meget forskelligartede brugerbehov. For at kunne understøtte så mange som muligt af disse, benyttes ”fuzzy match”.
+Søgefeltet i Folkebibliotekernes CMS skal imødekomme mange meget forskelligartede brugerbehov. For at kunne understøtte så mange som muligt af disse, benyttes ”fuzzy match”.
 
 Ordet "fuzzy" betegner noget der er uskarpt, sløret, ikke helt præcist, og det er dækkende for, hvad der sker. Systemet finder nogle svar, der ikke passer præcist med det, der er spurgt efter, men som dog er i nærheden af det.
 
@@ -17,10 +17,10 @@ Men for at fuzzy match ikke afstedkommer at brugerne drukner i irrelevante poste
 
 Eksempelvis, men langt fra udtømmende:
 
-Det evalueres, hvor nøjagtigt brugernes søgetermer matcher indeksernes indhold, således at eksakt match gives en højere placering end en tilnærmet.
+- Det evalueres, hvor nøjagtigt brugernes søgetermer matcher indeksernes indhold, således at eksakt match gives en højere placering end en tilnærmet.
 
-Værker på dansk vægtes i de fleste søgninger højere end andre værker, ligesom nyhedsværdi også tælles ind som en faktor – der vejer endnu tungere, hvis der fx er mange artikler i søgeresultatet.
+- Værker på dansk vægtes i de fleste søgninger højere end andre værker, ligesom nyhedsværdi også tælles ind som en faktor – der vejer endnu tungere, hvis der fx er mange artikler i søgeresultatet.
 
-Popularitet spiller også en central rolle i rankeringen, hvor der anvendes data om brugeradfærd og antallet af eksemplarer på danske biblioteker til at vurdere et værks popularitet.
+- Popularitet spiller også en central rolle i rankeringen, hvor der anvendes data om brugeradfærd og antallet af eksemplarer på danske biblioteker til at vurdere et værks popularitet.
 
 Kompleksiteten er dermed også så stor, at logikken primært er en ”black box” hos DBC. Enhver, der ønsker yderligere dokumentation, kan få dette ved henvendelse til DBC – men der er ikke udstillet nogen muligheder for at foretage lokal tilretning af match eller rankering i Folkebibliotekernes CMS.
