@@ -4,6 +4,10 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 16/9-25 Problemer med afspilning af lydbøger på nogle biblioteker
+Siden i torsdag har vi fået forskellige sager ind i Servicedesk på at afspilning af lydbøger via hjemmesiden (ikke GO-sitet) fejler indimellem. Da det er en meget sporadisk fejl, er vi i fuld gang med at grave i hvor og i hvilke forbindelse fejlen opstår. Fejlen opstår både på interne og eksterne netværk og i forskellige browsere.
+
+Hvis I har noget viden og information til sagen, må I meget gerne melde det ind i denne sag: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1680
 
 ## 10/9-25 Fejlen på digitale lån 
 Det har vist sig at nedenstående fejl nu kun findes på GO siderne og kun på e-bøger, som peger på en forkert materialetype.
