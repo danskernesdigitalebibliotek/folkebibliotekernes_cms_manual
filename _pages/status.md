@@ -4,6 +4,11 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## Servicevindue mandag den 22. september efter kl. 22
+Vi afholder servicevindue på FB CMS på mandag den 22. september efter kl. 22.
+Vores driftsleverandør har planlagt et servicevindue for at kunne justere på databasens ressourcer efter lanceringen af bibliotekernes GO-sites. 
+Opdateringen kan medføre nedetid på tværs af alle sites i 20-30 minutter.
+
 ## 16/9-25 Problemer med afspilning af lydbøger på nogle biblioteker
 Siden i torsdag har vi fået forskellige sager ind i Servicedesk på at afspilning af lydbøger via hjemmesiden (ikke GO-sitet) fejler indimellem. Da det er en meget sporadisk fejl, er vi i fuld gang med at grave i hvor og i hvilke forbindelse fejlen opstår. Fejlen opstår både på interne og eksterne netværk og i forskellige browsere.
 
