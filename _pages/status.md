@@ -7,6 +7,7 @@ nav: "overblik"
 ## Brugere kan ikke oprette sig via hjemmesiderne
 I lørdags (den 13/9) blev seneste release af FBS lagt i drift. Det har efterfølgende vist sig, at Systematic, der leverer bibliotekssystemet får fejl på nogle datofelter ved opslag på CPR numre, og det betyder at brugerne ikke kan oprette sig på hjemmesiderne.
 KOMBIT og Systematic er ved at finde den bedste løsning på udfordringerne. 
+
 Det vil være en god ide at gøre opmærksom på hjemmesiden, at det pt. ikke er muligt at oprette sig via hjemmesiden, men at borgerne skal komme på biblioteket for at blive oprettet.
 
 ## Servicevindue mandag den 22. september efter kl. 22
