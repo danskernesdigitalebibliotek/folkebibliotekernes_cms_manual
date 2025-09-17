@@ -893,6 +893,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-36-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.38.0",
+        "excerpt":"Diverse forbedringer og fejlrettelser Releasedato: 18-09-2025 Redaktør: Produktionssites: 2025.38.0 Webmaster: Produktionssites: 2025.36.0, Moduletestsites: 2025.38.0 Forbedringer og fejlrettelser Fejl rettet hvor valgte filtre nulstilles på artikel- og arrangementsoversigten hvis man vælger knappen ”Vis flere”. Flere systemtekniske opdateringer f.eks. opgradering til Drupal 10.5 GO: Fejl rettet hvor lånte e-bøger listet under brugerprofilen...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-38-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
