@@ -14,5 +14,5 @@ Releasedato: 18-09-2025
 
 ## Forbedringer og fejlrettelser
 - Fejl rettet hvor valgte filtre nulstilles på artikel- og arrangementsoversigten hvis man vælger knappen ”Vis flere”. 
-- Flere systemtekniske opdateringer f.eks. opgradering til Drupal 10.5. 
+- Flere systemtekniske opdateringer f.eks. opgradering til Drupal 10.5 og PHP 8.3.
 - GO: Fejl rettet hvor lånte e-bøger listet under brugerprofilen linker til forkert materialetype.   
