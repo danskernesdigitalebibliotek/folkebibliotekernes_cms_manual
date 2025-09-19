@@ -4,6 +4,12 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## LØST - Problem med UNI-login til eReolenGO hjemmesiderne 
+Styrelsen for IT og Læring (STIL) har fredag eftermiddag (18/9) rullet en ny UNI-login version i drift. Problemet omkring fejlende licensopslag skulle herefter gerne være løst.
+I praksis betyder det, at de brugere/skoler, der i en periode IKKE har kunne logge på eReolenGO-hjemmesiderne med deres UNI-logins, nu burde kunne tilgå servicen uden problemer.
+ 
+Vi vil være meget taknemmelig for en tilbagemelding på e-mail: unilogin@ereolengo.dk, om I - som forventet - ude på skolerne oplever det samme, altså at adgangene nu virker som ønsket.
+
 ## 17/9-25 Brugere kan ikke oprette sig via hjemmesiderne
 I lørdags (den 13/9) blev seneste release af FBS lagt i drift. Det har efterfølgende vist sig, at Systematic, der leverer bibliotekssystemet får fejl på nogle datofelter ved opslag på CPR numre, og det betyder at brugerne ikke kan oprette sig på hjemmesiderne.
 KOMBIT og Systematic er ved at finde den bedste løsning på udfordringerne. 
