@@ -18,9 +18,9 @@ Eksterne sites som Go! eller andre elementer på sitet, som f.eks. en paragraph,
 ## Således fungerer konfigurationsflowet i DPL-CMS
 
 1. Når sitet opdateres, hentes konfigurationsfilerne fra ./config/sync i rod folderen af projektet - ca. tusind filer.
-2. Konfigurationer, som DPL-CMS på forhånd har defineret til ikke at skulle overskrives vha. [Config Ignore modulet]() f.eks. client id/secret til DBC, trækkes fra ca. 20 filer.  
+2. Konfigurationer, som DPL-CMS på forhånd har defineret til ikke at skulle overskrives vha. [Config Ignore modulet](https://www.folkebibliotekernescms.dk/main/webmasterplanen/konfigurationsaendringer-via-gui/#om-config-ignore) f.eks. client id/secret til DBC, trækkes fra ca. 20 filer.  
 3.  Konfigurationer, som man selv har ændret / tilføjet via brugergrænsefladen, som f.eks. en ny indholdtype eller rettelser i en eksisterende indholdtype som f.eks. Artikel opdages af [Config Ignore Auto modulet] og trækkes fra.
-4. Konfigurationer, som man har tilføjet via en service i et modul, lægges til. Læs mere om [udvikling af lokale moduler]().
+4. Konfigurationer, som man har tilføjet via en service i et modul, lægges til. Læs mere om [udvikling af lokale moduler](https://www.folkebibliotekernescms.dk/main/webmasterplanen/konfigurationsaendringer-via-gui/#om-config-ignore-auto).
 5. Filerne fra punkt 1-4 indlæses til den nye konfiguration efter en opdatering af sitet.
 
 ## Om Config Ignore
@@ -57,7 +57,7 @@ Hvis der er konfigurationer i "ignore auto", som også optræder i sync, så har
 Der er vide muligheder for at ændre og tilføje konfiguration, som på et normalt Drupal site.
 Dog skal man være meget varsom med at ændre konfiguration, som DPL-CMS allerede har sat - det er bedre at tilføje ny konfiguration, som et helt nyt view eller indholdstype.  
 
-Hvis man har en række konfigurationer, som danner en samlet funktion - kan det være en fordel at lave disse konfigurationer i et modul. Se [udvikling af lokale moduler]().
+Hvis man har en række konfigurationer, som danner en samlet funktion - kan det være en fordel at lave disse konfigurationer i et modul. Se [udvikling af lokale moduler](https://www.folkebibliotekernescms.dk/main/webmasterplanen/lokal-moduludvikling/).
 
 ## Anbefalinger
 

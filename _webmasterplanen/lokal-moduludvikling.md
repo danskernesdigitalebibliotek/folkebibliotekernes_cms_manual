@@ -14,7 +14,7 @@ Lokale moduler til DPL-CMS udvikles på samme måde som almindelige Drupal modul
 - konfigurationsfiler skal indlæses med en service
 
 ## Installation
-Lokalt udviklede moduler installeres på samme måde som contrib-moduler. Læs mere om [installation og opdatering af moduler]().
+Lokalt udviklede moduler installeres på samme måde som contrib-moduler. Læs mere om [installation og opdatering af moduler](https://www.folkebibliotekernescms.dk/main/webmasterplanen/installation-af-moduler/).
 
 #### Konfiguration
 

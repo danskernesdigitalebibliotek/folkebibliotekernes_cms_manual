@@ -2,11 +2,10 @@
 title: "Webmasterplanen"
 permalink: /webmasterplanen/
 ---
-
-## Om vejledningen
 Vejledningen er målrettet webmasterbiblioteker og beskriver hvordan typiske arbejdsgange
 for et webmasterbibliotek håndteres herunder.
 
+- Muligheder for lokal tilpasning
 - Hvordan du håndterer installation af moduler på testsitet og produktionssitet
 - Hvordan du håndterer opgraderinger af moduler, der i forvejen er installeret på sitet
 

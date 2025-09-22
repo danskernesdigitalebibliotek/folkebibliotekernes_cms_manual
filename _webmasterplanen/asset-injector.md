@@ -28,7 +28,7 @@ TIPS:
 - Det kan være nødvendigt at genoprette Asset Injector indførslerne for, at anonyme bruger kan se ændringerne pga. Varnish cache.
 
 ## Skriv Asset injector kode i custom dev-modul
-Koden kan med fordel udvikles i et custom modul i et [lokalt udviklingsmiljø](), og så kan det senere lægges op som i asset injectoren. Fordelene ved dette er, at man kan komme uden om de mange caching lag der er i Dpl Cms, at man kan arbejde i en desktop editor og at man kan versionsstyre sin kode.
+Koden kan med fordel udvikles i et custom modul i et [lokalt udviklingsmiljø](https://www.folkebibliotekernescms.dk/main/webmasterplanen/udviklingsmiljoe/), og så kan det senere lægges op som i asset injectoren. Fordelene ved dette er, at man kan komme uden om de mange caching lag der er i Dpl Cms, at man kan arbejde i en desktop editor og at man kan versionsstyre sin kode.
 
 Dette modul, som kan bruges som udgangspunkt. Det loader js og css på alle ikke admin sider.
 [https://github.com/odensebibliotekerne/webmaster_asset_injector_dev](https://github.com/odensebibliotekerne/webmaster_asset_injector_dev)
@@ -52,7 +52,7 @@ Asset Injector kan bruges på mange måder, nedenfor en en række eksempler.
 For yderligere inspiration kan man på andre webmaster biblioteker f.eks. på herningsbib.dk åbne Dev Tools i browseren. Her kan man enten i head se links eller man kan kigge i netværks tab'en og se js/css, som bliver loaded.
 
 ### Eksempel 1
-Ændre indstillinger i formularer. Det kan gøres via ændrede indstillinger i backend, men vil så resultere i [configuration overwrites](), og det ønsker man ikke. Asset injector er en bedre løsning. Et eksempel er at ændre "Opret billet i billetsystem" knappen så den er slået fra som default, når man opretter et arrangement.
+Ændre indstillinger i formularer. Det kan gøres via ændrede indstillinger i backend, men vil så resultere i [configuration overwrites](https://www.folkebibliotekernescms.dk/main/webmasterplanen/konfigurationsaendringer-via-gui/), og det ønsker man ikke. Asset injector er en bedre løsning. Et eksempel er at ændre "Opret billet i billetsystem" knappen så den er slået fra som default, når man opretter et arrangement.
 
 ```js
 document.addEventListener("DOMContentLoaded", function () {

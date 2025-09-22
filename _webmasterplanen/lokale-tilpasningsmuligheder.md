@@ -8,11 +8,11 @@ Webmaster-bibliotekerne kan lave lokale tilpasninger af Folkebibliotekernes CMS.
 
 Følgende udviklingsmetoder bliver beskrevet:
 
-- Konfigurationsændring via brugergrænsefladen
-- Asset Injector / Add to Head
-- Lokale Drupal moduler
+- [Konfigurationsændring via brugergrænsefladen](https://www.folkebibliotekernescms.dk/main/webmasterplanen/konfigurationsaendringer-via-gui/)
+- [Asset Injector / Add to Head](https://www.folkebibliotekernescms.dk/main/webmasterplanen/asset-injector/)
+- [Lokale Drupal moduler](https://www.folkebibliotekernescms.dk/main/webmasterplanen/lokal-moduludvikling/)
 
-Desuden dokumenteres det, hvordan man sætter et lokalt udviklingsmiljø op.
+Desuden dokumenteres det, hvordan man sætter et [lokalt udviklingsmiljø](https://www.folkebibliotekernescms.dk/main/webmasterplanen/udviklingsmiljoe/) op.
 
 Der er følgende begrænsninger i den lokale tilpasning, men ellers er der mange muligheder.
 
