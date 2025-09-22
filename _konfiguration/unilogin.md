@@ -12,27 +12,17 @@ I topmenuen klik på **{{ page.click-path }}**
 Eller åbn via URL (udskift mit-domænenavn.dk):\
 `https://mit-domænenavn.dk/admin/config/services/unilogin-configuration`
 
----
 
-**For Webmaster-biblioteker**\
-Hvis du får *Access denied* når du går ind på `admin/config/services/unilogin-configuration` i jeres backend, så skal du logge ind som Administrator og gå ind på `/admin/people/permissions`, filtrere på "unilogin" og give jer selv denne permission.
-Herefter har du adgang til Unilogin konfiguration.
+Du kommer nu til følgende side, hvor du skal sætte konfigurationerne op. 
 
----
+Oplysningerne, som du skal sætte ind får du ved at henvende sig til [kontakt@detdigitalefolkebibliotek.dk](mailto:kontakt@detdigitalefolkebibliotek.dk)
 
-Du kommer nu til følgende side, hvor du skal sætte konfigurationerne op. Husk at gemme, når du har sat det op:
+
 {% include figure class="ninety" image_path="https://github.com/user-attachments/assets/cfa18268-3442-4c16-97de-37ccfd7a9e56" alt="Indstillinger for unilogin" caption="Indstillinger for unilogin" %}
 
-Her er oplysningerne, som du skal sætte ind:
+Det nederste felt skal udfyldes med jeres kommunekode. Find den på listen herunder.
 
-|Feltnavn|Standardværdi|
-|---|---|
-|**Unilogin API client secret**|5b31715e-c2d7-4542-ae7d-99157a150910|
-|**Unilogin webservice username**|wsereolen|
-|**Unilogin webservice password**|mDsbp2ha8zv2|
-|**Retailer key code**|der89pot|
-|**Unilogin Municipality ID**|**BEMÆRK**: Indsæt det trecifrede kommunenummer, der er specifik for jeres kommune. Listen med kommunenumre findes nedenfor|
-
+Husk at gemme, når du har sat det op.
 
 ### Kommunekodeliste
 
