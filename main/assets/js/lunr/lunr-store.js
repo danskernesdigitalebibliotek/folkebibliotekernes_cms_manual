@@ -1151,8 +1151,8 @@ var store = [{
         "url": "/main/startopsaetning/udseende/",
         "teaser": null
       },{
-        "title": "Asset Injector og Add to Head",
-        "excerpt":"Stort set alle webmasterbiblioteker har valgt at installere tredjepartsmodulerne Asset Injector samt Add to Head. Fordi de er så bredt anvendt, behandles de her i manualen. Vær dog opmærksom på, at de ikke er en del af FB CMS og som sådan ikke er supporterede af DDF. Asset Injector Asset...","categories": ["Webmaster-funktionalitet"],
+        "title": "Injectors",
+        "excerpt":"Man kan bruge Asset Injector og Add to Head modulerne til at indsætte Javascript, CSS mm. på sitet. Asset Injector giver mulighed for at tilføje brugerdefineret CSS eller JavaScript til dit Drupal-site uden at skulle ændre i f.eks. tema eller bruge lokale moduler. Det er praktisk, hvis man hurtigt vil...","categories": ["Webmaster-funktionalitet"],
         "tags": [],
         "url": "/main/webmasterplanen/asset-injector/",
         "teaser": null
@@ -1167,6 +1167,24 @@ var store = [{
         "excerpt":"Som webmasterbibliotek har I mulighed for at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (core). Det kan være: Contrib-moduler: Gratis moduler hentet fra drupal.org, udviklet og vedligeholdt af Drupal-fællesskabet. Egenudviklede moduler: Moduler udviklet internt til jeres egne behov. Installation af moduler For at installere...","categories": ["Webmaster-funktionalitet"],
         "tags": [],
         "url": "/main/webmasterplanen/installation-af-moduler/",
+        "teaser": null
+      },{
+        "title": "Konfigurationsændring via brugergrænsefladen",
+        "excerpt":"Som webmasterbibliotek har man mulighed for at ændre konfiguration for DPL-CMS via brugergrænsefladen. Man kan tilføje ny konfiguration som f.eks. en helt ny indholdstype. Man kan rette i en eksisterende konfiguration. F. eks. ændre om et felt er påkrævet/ikke-påkrævet i en eksisterende indholdtype som f.eks. Artikel. Rettelser i eksistende konfiguration...","categories": ["Webmaster-funktionalitet"],
+        "tags": [],
+        "url": "/main/webmasterplanen/konfigurationsaendringer-via-gui/",
+        "teaser": null
+      },{
+        "title": "Lokal moduludvikling",
+        "excerpt":"Udvikling Lokale moduler til DPL-CMS udvikles på samme måde som almindelige Drupal moduler med følgende undtagelser kan ikke installeres med Composer da man ikke kan installere med Composer, skal evt. php pakker lægges i selve modulet det er ikke muligt at slette filer, som man allerede har uploadet - kun...","categories": ["Webmaster-funktionalitet"],
+        "tags": [],
+        "url": "/main/webmasterplanen/lokal-moduludvikling/",
+        "teaser": null
+      },{
+        "title": "Lokale tilpasningsmuligheder",
+        "excerpt":"Webmaster-bibliotekerne kan lave lokale tilpasninger af Folkebibliotekernes CMS. Følgende udviklingsmetoder bliver beskrevet: Konfigurationsændring via brugergrænsefladen Asset Injector / Add to Head Lokale Drupal moduler Desuden dokumenteres det, hvordan man sætter et lokalt udviklingsmiljø op. Der er følgende begrænsninger i den lokale tilpasning, men ellers er der mange muligheder. det kan...","categories": ["Webmaster-funktionalitet"],
+        "tags": [],
+        "url": "/main/webmasterplanen/lokale-tilpasningsmuligheder/",
         "teaser": null
       },{
         "title": "Opdatering der mislykkes",
@@ -1199,9 +1217,9 @@ var store = [{
         "url": "/main/webmasterplanen/udsaettelse-af-opdatering/",
         "teaser": null
       },{
-        "title": "Udvidet backendmenu",
-        "excerpt":"Webmasterbiblioteker har mulighed for at oprette brugere med administratorrettigheder. Når en bruger med administratorrettigheder logger ind i backend vises der nogle ekstra punkter i hovedmenuen. Webmasterbiblioteker har disse ekstra menupunkteter: Udvid giver adgang til at installere moduler Udseende giver adgang til at skifte tema Rapporter giver adgang til statusrapport med...","categories": ["Webmaster-funktionalitet"],
+        "title": "Udviklingsmiljø",
+        "excerpt":"Reload har i DPL-CMS projektet lavet et Docker miljø, som kan bruges til lokal udvikling og indeholder webserver, database etc. Installation af lokalt udviklingsmiljø kræver installation af en Docker klient f.eks. Docker Desktop eller Orbstack. Derudeover skal Task være installeret. Kan afvikles på Linux, Mac, Windows og Windows Subsystem for...","categories": ["Webmaster-funktionalitet"],
         "tags": [],
-        "url": "/main/webmasterplanen/udvidet-backend-menu/",
+        "url": "/main/webmasterplanen/udviklingsmiljoe/",
         "teaser": null
       }]
