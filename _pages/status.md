@@ -8,6 +8,7 @@ nav: "overblik"
 Mange biblioteker oplever lige nu fejl når de vil redigere eller oprette indhold og billeder i deres backend. Følgende fejl opleves: ‘Formularen er forældet. Tryk på tilbage-knappen, kopier eventuelt ikke-gemt arbejde i formularen, og indlæs derefter siden igen.’
 
 Skriv gerne i denne sag: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1702 hvis I også oplever det.
+Sagen er sendt videre til vores udviklere, for at de kan grave i det.
 
 ## LØST - Problem med UNI-login til GO hjemmesiderne 
 Styrelsen for IT og Læring (STIL) har fredag eftermiddag (18/9) rullet en ny UNI-login version i drift. Problemet omkring fejlende licensopslag skulle herefter gerne være løst.
