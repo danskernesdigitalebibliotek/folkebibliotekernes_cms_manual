@@ -888,7 +888,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2025.36.0",
-        "excerpt":"Forbedringer, fejlrettelser og landingsside til eReolen/GO Releasedato: 04-09-2025 Redaktør: Produktionssites: 2025.36.0 Webmaster: Produktionssites: 2025.34.0, Moduletestsites: 2025.36.0 Nye features eReolen/GO: Landingsside, der henviser til lokale sider, erstatter de gamle sites. Forbedringer og fejlrettelser Søgning: Forslag i søgefeltet afgrænses nu på agency-niveau og viser derfor kun materialer, der reelt er i beholdning....","categories": ["Release Notes"],
+        "excerpt":"Forbedringer, fejlrettelser og landingsside til eReolen/GO Releasedato: 04-09-2025 Redaktør: Produktionssites: 2025.36.3 Webmaster: Produktionssites: 2025.34.0, Moduletestsites: 2025.36.3 Nye features eReolen/GO: Landingsside, der henviser til lokale sider, erstatter de gamle sites. Forbedringer og fejlrettelser Søgning: Forslag i søgefeltet afgrænses nu på agency-niveau og viser derfor kun materialer, der reelt er i beholdning....","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2025-36-0/",
         "teaser": null
