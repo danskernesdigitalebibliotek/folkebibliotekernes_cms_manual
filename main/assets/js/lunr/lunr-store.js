@@ -917,12 +917,6 @@ var store = [{
         "url": "/main/soegning/brugervilkaar-digitale-tilbud/",
         "teaser": null
       },{
-        "title": "CQL Søgestrenge Eksempler",
-        "excerpt":"DBCs CQL dokumentation: FBI-API’s Complex Search Documentation Mette Kulmbach har været så venlig at dele nogle søgestrenge, som hun har bygget for Billund Bibliotekerne. De er til inspiration og er ikke perfekte eller udtømmende. Har du lavet søgestrenge, der er smartere eller mere korrekte, da send dine eksempler til cms-info@fddf.dk....","categories": ["Søgning"],
-        "tags": [],
-        "url": "/main/soegning/cql-soegestrenge-eksempler/",
-        "teaser": null
-      },{
         "title": "CQL Søgestrenge",
         "excerpt":"DBCs CQL dokumentation: Søgekoder i Complex Search Værd at bemærke om søgekoder: Der er adgang til at søge på lokale opstillingsoplysninger som f.eks. voksen/børnefdeling og afgrænse på opstilling (location) og delopstilling (sub-location). Husk, at opstilling og del-opstilling skal skrives nøjagtigt som det står i FBS/Cicero. Det er også muligt kun...","categories": ["Søgning"],
         "tags": [],
