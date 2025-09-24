@@ -11,10 +11,6 @@ Værd at bemærke om søgekoder:
 - Der er adgang til at søge på lokale opstillingsoplysninger som f.eks. voksen/børnefdeling og afgrænse på opstilling (location) og delopstilling (sub-location). Husk, at opstilling og del-opstilling skal skrives nøjagtigt som det står i FBS/Cicero.
 - Det er også muligt kun at afgrænse til værkposter, som har materialer som er “på hylden”.
 
-Besøg denne side med hyppigt brugte CQL-søgestrenge. Her er CQL-søgestrenge til Nye billedbøger, Nye børnebøger, Nye blue-ray film og meget andet. 
-[CQL Søgestrenge eksempler](https://www.folkebibliotekernescms.dk/main/soegning/cql-soegestrenge-eksempler/)
-{: .notice--info}
-
 CQL-søgestrenge bruges fx til at trække materialer ind i den paragraph, der hedder Material grid automatic.
 
 ## Sådan opretter du en CQL-søgestreng
