@@ -1,5 +1,5 @@
 ---
-title:  "Release Notes 2025.38.0"
+title:  "Release Notes 2025.38.1"
 category: "Release Notes"
 weight: 326
 ---  
@@ -8,9 +8,9 @@ weight: 326
 
 Releasedato: 18-09-2025
 
-**Redaktør**: Produktionssites: 2025.38.0
+**Redaktør**: Produktionssites: 2025.38.1
 
-**Webmaster**: Produktionssites: 2025.36.0, Moduletestsites: 2025.38.0
+**Webmaster**: Produktionssites: 2025.36.3, Moduletestsites: 2025.38.1
 
 ## Forbedringer og fejlrettelser
 - Fejl rettet hvor valgte filtre nulstilles på artikel- og arrangementsoversigten hvis man vælger knappen ”Vis flere”. 
