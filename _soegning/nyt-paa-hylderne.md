@@ -64,10 +64,22 @@ Når man er tilfreds med sin søgning/sortering/filtrering trykker man på knapp
 
 *Kopier søgning til udklipsholder*
 
-### 4. Indsæt i Material Grid Automatic
-Ovre i sin Material Grid Automatic paragraph trykker på knappen **Hent filtre fra URL**. Så trækkes ens søgning (inkl. “på hylden”), sortering og filtering ind i Material grid automatic, der herefter blot skal navngives og vælges antal materialer der skal vises og evt. suppleres med en beskrivelse. Man gentager samme procedure for alle de Material grid automatic, man vil oprette på sin “Nyt på hylderne”-side.
+### 4. Indsæt i CQL Søgestreng feltet i Material Grid Automatic
+Ovre i din Material Grid Automatic paragraph stiller du curseren i feltet CQL Søgestreng og vælger **Indsæt** eller **Ctrl + V**.
+Der indsættes en lang ulæselig URL
 
-<img width="1180" height="271" alt="image" src="https://github.com/user-attachments/assets/86fb5f41-47b3-4a69-abf9-44a7880783ea" />
+<img width="1157" height="313" alt="image" src="https://github.com/user-attachments/assets/aeb03ccf-76e8-48ea-870d-6ce7dfb0449d" />
 
-*Inde i Material grid automatic tryk på 'Hent filtre fra URL' for at indsætte*
+### 5. Tryk på knappen Hent filtre fra URL
+Tryk så på knappen **Hent filtre fra URL**.
+
+Nu sker der noget magisk! 
+- Den ulæselige URL i CQL Søgestreng feltet omdannes til en pæn CQL søgestreng
+- Feltet Sortering udfyldes med værdien fra din CQL Søgning
+- Feltet Filtrering på Firstaccessiondateitem udfyldes med værdien fra din CQL Søgning
+- "På hylden" indstilling udfyldes med værdien fra din CQL Søgning
+
+<img width="942" height="817" alt="image" src="https://github.com/user-attachments/assets/56649502-2263-4203-96e4-326b20c4ccd4" />
+
+
 
