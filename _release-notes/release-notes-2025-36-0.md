@@ -8,9 +8,9 @@ weight: 327
 
 Releasedato: 04-09-2025
 
-**Redaktør**: Produktionssites: 2025.36.0
+**Redaktør**: Produktionssites: 2025.36.3
 
-**Webmaster**: Produktionssites: 2025.34.0, Moduletestsites: 2025.36.0 
+**Webmaster**: Produktionssites: 2025.34.0, Moduletestsites: 2025.36.3 
 
 ## Nye features
 - eReolen/GO: Landingsside, der henviser til lokale sider, erstatter de gamle sites.  
