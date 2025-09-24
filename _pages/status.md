@@ -10,6 +10,7 @@ Systematic har rettet fejlen, så der igen kan slås lånere op ved oprettelse o
 ## 24/9-25 Fortsat sporadiske fejl ("Forældet formular...) ved oprettelse og redigering af indhold i backenden
 Vores udviklere har ikke kunne genskabe fejlen med redigering/oprettelse af indhold. Derfor har de nu opsat noget logging på via et hotfix 2025.38.1. På den måde bliver det lettere at lokalisere fejlen og dermed rette den.
 Så alle der er på 2025.38.1 må meget gerne fremprovokere fejlen, så vi får noget logging på fejlen. Det er denne fejl: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1702
+
 Meld meget gerne ind i sagen, hvis I ikke oplever fejlen mere. Det hjælper os meget!
 
 ## 22/9-25 Fejl ved oprettelse eller redigering af indhold i backenden
