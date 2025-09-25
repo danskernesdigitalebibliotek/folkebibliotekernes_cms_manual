@@ -4,6 +4,12 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 25/9-25 Flere biblioteksbrugere oplever fejl ved indlogning
+Vi har fået en del henvendelser ind på at brugere, der bruger chrome ofte får fejl, når de forsøger at logge ind.
+
+I må gerne skrive ind i denne sag, hvis I har dokumentation eller kommentarer: 
+https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1706
+
 ## 25/9-25 Artikler fra Infomedia og Digital Artikelservice fejler (for biblioteker på release 2025.38.1)
 Det er pt. kun muligt at se artikler fra Infomedia og Digital Artikelservice, hvis er logget ind som bibliotekslåner eller logget ind som redaktionel bruger i backenden.
 Tilgår man artiklerne, så fejler værkvisningen, hvis man ikke er logget ind som bibliotekslåner eller redaktionel bruger.
