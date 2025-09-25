@@ -5,7 +5,7 @@ sidebar: true
 nav: "overblik"
 ---
 ## 25/9-25 Flere biblioteksbrugere oplever fejl ved indlogning
-Vi har fået en del henvendelser ind på at brugere, der bruger chrome ofte får fejl, når de forsøger at logge ind.
+Vi har fået en del henvendelser ind på at brugere, der bruger chrome ofte får fejl, når de forsøger at logge ind. Det skulle hjælpe at lukke browseren helt ned og prøve igen eller bruge fx Edge.
 
 I må gerne skrive ind i denne sag, hvis I har dokumentation eller kommentarer: 
 https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1706
