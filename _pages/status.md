@@ -4,13 +4,11 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 25/9-25 Artikler fra Infomedia og Digital Artikelservice crasher værkvisningen (for biblioteker på release 2025.38.1)
-Det er pt. kun muligt at se artikler fra Infomedia og Digital Artikelservice, hvis er logget ind som bibliotekslåner eller logget ind som redaktionel bruger i backenden.  
+## 25/9-25 Artikler fra Infomedia og Digital Artikelservice fejler (for biblioteker på release 2025.38.1)
+Det er pt. kun muligt at se artikler fra Infomedia og Digital Artikelservice, hvis er logget ind som bibliotekslåner eller logget ind som redaktionel bruger i backenden.
+Tilgår man artiklerne, så fejler værkvisningen, hvis man ikke er logget ind som bibliotekslåner eller redaktionel bruger.
 
-Tilgår man artiklerne fra et redaktørbibliotek, så crasher værkvisningen, hvis man ikke er logget ind som bibliotekslåner eller redaktionel bruger.
-
-Vi arbejder på at løse fejlen for alle redaktørbibliotekerne på 2025.38.1.
-Følg sagen her: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1710
+Vi arbejder på at løse fejlen for alle redaktørbibliotekerne på 2025.38.1. Følg sagen her: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1710
  
 ## 25/9-25 LØST - Fortsat sporadiske fejl ("Forældet formular...) ved oprettelse og redigering af indhold i backenden
 Fejlen med de sporadiske fejl på formularerne på hjemmesiden, ser ud til at være løst. Oplever I andet, så meld det meget gerne ind i sagen: 
