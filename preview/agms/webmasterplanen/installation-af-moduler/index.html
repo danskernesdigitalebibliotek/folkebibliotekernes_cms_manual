@@ -1,0 +1,539 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.27.3 by Michael Rose
+  Copyright 2013-2025 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Installation og opdatering af moduler - Folkebibliotekernes CMS</title>
+<meta name="description" content="Som webmasterbibliotek har I mulighed for at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (core). Det kan være:">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Folkebibliotekernes CMS">
+<meta property="og:title" content="Installation og opdatering af moduler">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/preview/agms/webmasterplanen/installation-af-moduler/">
+
+
+  <meta property="og:description" content="Som webmasterbibliotek har I mulighed for at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (core). Det kan være:">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2025-10-01T13:46:38+00:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/preview/agms/webmasterplanen/installation-af-moduler/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/preview/agms/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/preview/agms/assets/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/preview/agms/assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/preview/agms/assets/images/favicon-16x16.png">
+<link rel="manifest" href="/preview/agms/assets/images/site.webmanifest">
+<link rel="mask-icon" color="#5bbad5" href="/preview/agms/assets/images/safari-pinned-tab.svg">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+  </head>
+
+  <body class="layout--single wide" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/preview/agms/"><img src="/preview/agms/assets/images/layout/ddf-logo-small.png" alt="Folkebibliotekernes CMS"></a>
+        
+        <a class="site-title" href="/preview/agms/">
+          Folkebibliotekernes CMS
+          <span class="site-subtitle">via foreningen Det Digitale Folkebibliotek</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/preview/agms/overblik/nyt-i-manualen"
+                
+                
+              >Nyt i manualen</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/preview/agms/overblik/hurtigguide-til-manualen"
+                
+                
+              >Hurtigguide til manualen</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+  
+    
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/preview/agms/" itemprop="item"><span itemprop="name">Home</span></a>
+
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep">/</span>
+      
+      
+        
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/preview/agms/webmasterplanen" itemprop="item"><span itemprop="name">Webmasterplanen</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        <span class="sep">/</span>
+      
+    
+      
+      
+        <li class="current">Installation og opdatering af moduler</li>
+      
+    
+  </ol>
+</nav>
+
+  
+
+
+<div id="main" role="main">
+  
+  
+  <div class="sidebar sticky">
+  
+
+  
+
+  
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+   
+
+  <nav class="nav__list">
+    <input id="ac-toc" name="accordion-toc" type="checkbox" />
+    <label for="ac-toc">Toggle Menu</label>
+    <ul class="nav__items">
+
+      
+        
+        <li>
+          <span class="nav__sub-title">Webmaster-funktionalitet</span>        
+          <ul>
+            
+            
+            
+            
+
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/lokale-tilpasningsmuligheder/">Lokale tilpasningsmuligheder</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/konfigurationsaendringer-via-gui/">Konfigurationsændring via brugergrænsefladen</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/asset-injector/">Injectors</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/installation-af-moduler/" class="active">Installation og opdatering af moduler</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/lokal-moduludvikling/">Lokal moduludvikling</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/udviklingsmiljoe/">Udviklingsmiljø</a></li>
+              
+            
+          </ul>
+        </li>
+        
+      
+        
+        <li>
+          <span class="nav__sub-title">Driftsforhold</span>        
+          <ul>
+            
+            
+            
+            
+
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/produktions-og-testmiljoe/">Produktions- og testmiljø</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/opdateringscyklus-for-sites/">Opdateringscyklus for sites</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/mislykket-opdatering/">Opdatering der mislykkes</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/udsaettelse-af-opdatering/">Udsættelse af opdatering af produktionsmiljø</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/ofte-stillede-spoergsmaal/">Ofte stillede spørgsmål</a></li>
+              
+            
+          </ul>
+        </li>
+        
+           
+    </ul>
+  </nav>
+  
+
+  </div>
+
+
+  
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Installation og opdatering af moduler">
+    <meta itemprop="description" content="Som webmasterbibliotek har I mulighed for at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (core). Det kan være:">
+    <meta itemprop="datePublished" content="2025-10-01T13:46:38+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://www.folkebibliotekernescms.dk/preview/agms/webmasterplanen/installation-af-moduler/" class="u-url" itemprop="url">Installation og opdatering af moduler
+</a>
+          </h1>
+          
+
+
+        </header>
+      
+      
+      <section class="page__content e-content" itemprop="text">
+        
+        <p>Som <strong>webmasterbibliotek</strong> har I mulighed for at installere moduler lokalt, som ikke er en del af standardudgaven af Folkebibliotekernes CMS (<em>core</em>). Det kan være:</p>
+
+<ul>
+  <li><strong>Contrib-moduler</strong>: Gratis moduler hentet fra <a href="https://new.drupal.org/home" target="_blank">drupal.org</a>, udviklet og vedligeholdt af Drupal-fællesskabet.</li>
+  <li><strong>Egenudviklede moduler</strong>: Moduler udviklet internt til jeres egne behov.</li>
+</ul>
+
+<hr />
+
+<h2 id="installation-af-moduler">Installation af moduler</h2>
+
+<p>For at installere moduler skal du være logget ind med en bruger, der har rollen <strong>Administrator</strong>.</p>
+
+<blockquote>
+  <p><strong>Bemærk:</strong> Har du ikke de nødvendige rettigheder, skal du oprette en sag via <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals" target="_blank">Servicedesk</a>.</p>
+</blockquote>
+
+<h3 id="sådan-gør-du">Sådan gør du:</h3>
+
+<ol>
+  <li>Log ind med en <strong>Administrator</strong>-bruger.</li>
+  <li>Gå til <strong>Udvid</strong> (<code class="language-plaintext highlighter-rouge">/admin/modules</code>) og klik på <strong>+ Add new module</strong>.</li>
+  <li>Klik på <strong>Vælg fil</strong>, find modulfilen (f.eks. <code class="language-plaintext highlighter-rouge">.tar</code> eller <code class="language-plaintext highlighter-rouge">.zip</code>), og upload den.</li>
+  <li>Søg modulet frem på <code class="language-plaintext highlighter-rouge">/admin/modules</code>, markér afkrydsningsfeltet, og klik på <strong>Installér</strong> nederst på siden.</li>
+  <li>Nogle moduler tilføjer nye tilladelser. Disse skal manuelt tildeles under <strong>Permissions</strong> for de relevante brugerroller.</li>
+</ol>
+
+<hr />
+
+<h2 id="opgradering-af-moduler">Opgradering af moduler</h2>
+
+<p>Et modul opgraderes ved blot at installere den nye version oven i den eksisterende.</p>
+
+<ul>
+  <li>Du behøver ikke afinstallere den gamle version først.</li>
+  <li>Følg samme fremgangsmåde som ved installation.</li>
+</ul>
+
+<h3 id="vigtigt-ved-opgradering-af-egenudviklede-moduler">Vigtigt ved opgradering af egenudviklede moduler:</h3>
+
+<ul>
+  <li><strong>Undlad at ændre mappenavnet</strong>. Ellers overskrives det gamle modul ikke, og det kan skabe konflikter.</li>
+  <li>Mappen ikke omdøbes til <code class="language-plaintext highlighter-rouge">mymodule2</code>, <code class="language-plaintext highlighter-rouge">mymodule-main</code> eller lignende.</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>mymodule/
+  mymodule.info.yml
+  mymodule.module
+  src/
+  config/
+  README.md
+  ...
+</code></pre></div></div>
+<p><em>Mappenavnet skal være det samme mellem versioner</em></p>
+
+<h3 id="husk-at">Husk at:</h3>
+
+<ul>
+  <li>Opdatere <code class="language-plaintext highlighter-rouge">mymodule.info.yml</code> med det korrekte <strong>modulnavn</strong> og <strong>versionsnummer</strong>.</li>
+  <li>Skift altid versionsnummer ved hver ny version – det vises på <code class="language-plaintext highlighter-rouge">/admin/modules</code>, så du kan bekræfte, at den rigtige version er i brug.</li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-10-01T13:46:38+00:00">October 1, 2025</time></p>
+
+      </footer>
+
+      
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+      
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><div class="search-searchbar"></div>
+  <div class="search-hits"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+  </ul>
+</div>
+<div class="page__footer-copyright">
+  Folkebibliotekernes CMS udvikles af <a href="https://detdigitalefolkebibliotek.dk/">Det Digitale Folkebibliotek</a><br/>
+</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/preview/agms/assets/js/main.min.js"></script>
+
+
+<script>
+// Including InstantSearch.js library and styling
+const loadSearch = function() {
+  const loadCSS = function(src) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = src;
+    link.media = 'all';
+    document.head.appendChild(link);
+  };
+
+  var script = document.createElement('script');
+  script.setAttribute("type", "text/javascript");
+  script.setAttribute("src", "https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.js");
+  script.addEventListener("load", function() {
+    // Instantiating InstantSearch.js with Algolia credentials
+    const search = instantsearch({
+      appId: 'TVP7W0OS24',
+      apiKey: 'e8c5920789ad3f6d57903b6edc107af5',
+      indexName: 'prod_folkebibliotekernes_cms_manual',
+      searchParameters: {
+        restrictSearchableAttributes: ['title', 'content']
+      }
+    });
+
+    const hitTemplate = function(hit) {
+      const url = hit.url;
+      const hightlight = hit._highlightResult;
+      const title = hightlight.title && hightlight.title.value  || "";
+      const content = hightlight.html && hightlight.html.value  || "";
+
+      return `
+        <div class="list__item">
+          <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+            <h2 class="archive__item-title" itemprop="headline"><a href="/preview/agms${url}">${title}</a></h2>
+            <div class="archive__item-excerpt" itemprop="description">${content}</div>
+          </article>
+        </div>
+      `;
+    }
+
+    // Adding searchbar and results widgets
+    search.addWidget(
+      instantsearch.widgets.searchBox({
+        container: '.search-searchbar',
+        poweredBy: true,
+        placeholder: 'Enter your search term...'
+      })
+    );
+    search.addWidget(
+      instantsearch.widgets.hits({
+        container: '.search-hits',
+        templates: {
+          item: hitTemplate,
+          empty: 'No results',
+        }
+      })
+    );
+
+    if (!search.started) {
+      search.start();
+    }
+  });
+  document.body.appendChild(script);
+
+  loadCSS("https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.css");
+  loadCSS("https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch-theme-algolia.min.css");
+};
+
+// Starting the search only when toggle is clicked
+$(document).ready(function() {
+  var scriptLoaded = false;
+
+  $(".search__toggle").on("click", function() {
+    if (!scriptLoaded) {
+      loadSearch();
+      scriptLoaded = true;
+    }
+  });
+});
+</script>
+
+
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YW8N0HH0F5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YW8N0HH0F5', { 'anonymize_ip': false});
+</script>
+
+
+
+
+
+
+
+
+  </body>
+</html>

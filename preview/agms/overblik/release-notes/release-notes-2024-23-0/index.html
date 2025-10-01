@@ -1,0 +1,741 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.27.3 by Michael Rose
+  Copyright 2013-2025 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Release Notes 2024.23.0 - Folkebibliotekernes CMS</title>
+<meta name="description" content="Mere brugervenligt dashboard, stylet loginside for redaktionelle brugere, avanceret funktionalitet til webforms og cookiebanner">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Folkebibliotekernes CMS">
+<meta property="og:title" content="Release Notes 2024.23.0">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/preview/agms/overblik/release-notes/release-notes-2024-23-0/">
+
+
+  <meta property="og:description" content="Mere brugervenligt dashboard, stylet loginside for redaktionelle brugere, avanceret funktionalitet til webforms og cookiebanner">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2025-10-01T13:46:38+00:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/preview/agms/overblik/release-notes/release-notes-2024-23-0/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/preview/agms/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/preview/agms/assets/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/preview/agms/assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/preview/agms/assets/images/favicon-16x16.png">
+<link rel="manifest" href="/preview/agms/assets/images/site.webmanifest">
+<link rel="mask-icon" color="#5bbad5" href="/preview/agms/assets/images/safari-pinned-tab.svg">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+  </head>
+
+  <body class="layout--single wide" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/preview/agms/"><img src="/preview/agms/assets/images/layout/ddf-logo-small.png" alt="Folkebibliotekernes CMS"></a>
+        
+        <a class="site-title" href="/preview/agms/">
+          Folkebibliotekernes CMS
+          <span class="site-subtitle">via foreningen Det Digitale Folkebibliotek</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/preview/agms/overblik/nyt-i-manualen"
+                
+                
+              >Nyt i manualen</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/preview/agms/overblik/hurtigguide-til-manualen"
+                
+                
+              >Hurtigguide til manualen</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+  
+    
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/preview/agms/" itemprop="item"><span itemprop="name">Home</span></a>
+
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep">/</span>
+      
+      
+        
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/preview/agms/overblik" itemprop="item"><span itemprop="name">Overblik</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        <span class="sep">/</span>
+      
+    
+      
+      
+        
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/preview/agms/release-notes" itemprop="item"><span itemprop="name">Release notes</span></a>
+          <meta itemprop="position" content="3" />
+        </li>
+        <span class="sep">/</span>
+      
+    
+      
+      
+        <li class="current">Release Notes 2024.23.0</li>
+      
+    
+  </ol>
+</nav>
+
+  
+
+
+<div id="main" role="main">
+  
+  
+  <div class="sidebar sticky">
+  
+
+  
+
+  
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+   
+
+  <nav class="nav__list">
+    <input id="ac-toc" name="accordion-toc" type="checkbox" />
+    <label for="ac-toc">Toggle Menu</label>
+    <ul class="nav__items">
+
+      
+        
+        <li>
+          <span class="nav__sub-title">Release Notes</span>        
+          <ul>
+            
+            
+            
+            
+
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-40-0/">Release Notes 2025.40.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-38-0/">Release Notes 2025.38.1</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-36-0/">Release Notes 2025.36.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-34-0/">Release Notes 2025.34.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-33-0/">Release Notes 2025.33.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-32-0/">Release Notes 2025.32.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-27-2/">Release Notes 2025.27.2</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-26-0/">Release Notes 2025.26.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-25-0/">Release Notes 2025.25.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-24-1/">Release Notes 2025.24.1</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-23-0/">Release Notes 2025.23.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-21-2/">Release Notes 2025.21.2</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-20-0/">Release Notes 2025.20.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-19-0/">Release Notes 2025.19.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-18-1/">Release Notes 2025.18.1</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-17-2/">Release Notes 2025.17.2</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-15-2/">Release Notes 2025.15.2</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-14-3/">Release Notes 2025.14.3</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-13-0/">Release Notes 2025.13.1</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-11-0/">Release Notes 2025.11.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-10-0/">Release Notes 2025.10.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-09-0/">Release Notes 2025.09.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-08-1/">Release Notes 2025.08.1</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-08-0/">Release Notes 2025.08.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-07-1/">Release Notes 2025.07.1</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-06-0/">Release Notes 2025.06.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-05-1/">Release Notes 2025.05.1</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-04-0/">Release Notes 2025.04.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2025-03-2/">Release Notes 2025.03.2</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-50-0/">Release Notes 2024.50.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-49-0/">Release Notes 2024.49.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-48-0/">Release Notes 2024.48.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-47-2/">Release Notes 2024.47.2</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-46-0/">Release Notes 2024.46.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-45-0/">Release Notes 2024.45.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-44-1/">Release Notes 2024.44.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-43-1/">Release Notes 2024.43.1</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-41-0/">Release Notes 2024.41.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-40-0/">Release Notes 2024.40.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-39-0/">Release Notes 2024.39.1</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-38-1/">Release Notes 2024.38.1</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-37-0/">Release Notes 2024.37.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-36-0/">Release Notes 2024.36.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-35-0/">Release Notes 2024.35.1</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-33-0/">Release Notes 2024.33.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-32-1/">Release Notes 2024.32.1</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-29-1/">Release Notes 2024.29.1</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-28-0/">Release Notes 2024.28.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-27-1/">Release Notes 2024.27.1</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-26-0/">Release Notes 2024.26.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-25-0/">Release Notes 2024.25.1</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-24-0/">Release Notes 2024.24.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-23-0/" class="active">Release Notes 2024.23.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-22-1/">Release Notes 2024.22.1</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-20-2/">Release Notes 2024.20.2</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-18-3/">Release Notes 2024.18.3</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-17-0/">Release Notes 2024.17.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-15-0/">Release Notes 2024.15.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-2024-11-0/">Release Notes 2024.11.0</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/overblik/release-notes/release-notes-220324/">Release Notes 220324</a></li>
+              
+            
+          </ul>
+        </li>
+        
+           
+    </ul>
+  </nav>
+  
+
+  </div>
+
+
+  
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Release Notes 2024.23.0">
+    <meta itemprop="description" content="Mere brugervenligt dashboard, stylet loginside for redaktionelle brugere, avanceret funktionalitet til webforms og cookiebanner">
+    <meta itemprop="datePublished" content="2025-10-01T13:46:38+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://www.folkebibliotekernescms.dk/preview/agms/overblik/release-notes/release-notes-2024-23-0/" class="u-url" itemprop="url">Release Notes 2024.23.0
+</a>
+          </h1>
+          
+
+
+        </header>
+      
+      
+      <section class="page__content e-content" itemprop="text">
+        
+        <h1 id="mere-brugervenligt-dashboard-stylet-loginside-for-redaktionelle-brugere-avanceret-funktionalitet-til-webforms-og-cookiebanner">Mere brugervenligt dashboard, stylet loginside for redaktionelle brugere, avanceret funktionalitet til webforms og cookiebanner</h1>
+
+<h2 id="nye-features">Nye features</h2>
+<ul>
+  <li>
+    <p>Overskredne lån: Henvisning og information om overskredne lån på ”Gebyr og erstatninger” user/me/fees.</p>
+  </li>
+  <li>
+    <p>Loginside for redaktionelle brugere: Nyt design på /user/login.</p>
+  </li>
+  <li>
+    <p>Webforms: Nu muligt at tilføje en lang række nye felttyper bl.a. ”Hidden”, ”Number”, ”Telephone” og ”Date”.</p>
+  </li>
+  <li>
+    <p>Webforms: Nu muligt at tilføje conditions til felter, så f.eks. et felt vises på baggrund af brugerens tidligere valg.</p>
+  </li>
+  <li>
+    <p>Webforms: Nu muligt at styre hvor bekræftelsesbesked vises, f.eks. om det skal være på samme side som formularen eller på separat side.</p>
+  </li>
+  <li>
+    <p>Arrangementer: Nu muligt at angive andre start- og sluttidspunkter end :00 og :30.</p>
+  </li>
+  <li>
+    <p>Cookie Information: Cookiebanner installeret.</p>
+  </li>
+</ul>
+
+<h2 id="fejlrettelser-og-forbedringer">Fejlrettelser og forbedringer</h2>
+
+<ul>
+  <li>
+    <p>Dashboard: /user/me/dashboard er justeret til efter input fra brugertest. Det er nu tydeligt hvad der er  overskrifter på siden og link til alle reservering og lån er tydeliggjort.</p>
+  </li>
+  <li>
+    <p>Arrangement: Brødtekstfelt er nu flyttet op under descriptionfeltet på arrangementer.</p>
+  </li>
+  <li>
+    <p>Arrangement: Manchet på arrangementer ser nu ud som manchetten på artikler.</p>
+  </li>
+  <li>
+    <p>Filialer: På /biblioteker vises der nu ikke billedkreditering på filialbilleder.</p>
+  </li>
+  <li>
+    <p>Paragraph ”Navigation Spot”: Nu vises billedtekster ikke på Navigation Spot.</p>
+  </li>
+  <li>
+    <p>Tilgængelighed: Størrelse af målområde for søgeikon er skiftet fra 20x20 til 24x24 som mindstekrav for at efterleve WCAG 2.2 2.5.8.</p>
+  </li>
+  <li>
+    <p>Tilgængelighed: Aria-label ”Åbn brugermenu” til login-ikon.</p>
+  </li>
+  <li>
+    <p>Tilgængelighed: Ved brug af tastaturnavigation: Efter man har slettet en søgerække under ”Avanceret søgning” sættes fokus aktivt.</p>
+  </li>
+  <li>
+    <p>Tilgængelighed: Flere elementer i gruppemodaler for lån havde tidligere samme ID. Alle ID’er er nu unikke.</p>
+  </li>
+  <li>
+    <p>Tilgængelighed: Dropdown med link til avanceret søgning formidler nu tilstand (at elementet kan foldes ud og at det er foldet ud) til skærmlæser.</p>
+  </li>
+  <li>
+    <p>Digitale lån vises ikke længere på listen over materialer, der snart skal fornys.</p>
+  </li>
+  <li>
+    <p>Digitale lån: Brugerprofilen user/me afspejler nu korrekt antal mulige digitale lån.</p>
+  </li>
+  <li>
+    <p>Webforms: Nu ikke muligt at ændre e-mailadresse under admin/config/system/site-information og afsendernavn i forbindelse med konfiguration af webforms. Hvis disse oplysninger ændres videresendes data ikke fra webforms.</p>
+  </li>
+</ul>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-10-01T13:46:38+00:00">October 1, 2025</time></p>
+
+      </footer>
+
+      
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+      
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><div class="search-searchbar"></div>
+  <div class="search-hits"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+  </ul>
+</div>
+<div class="page__footer-copyright">
+  Folkebibliotekernes CMS udvikles af <a href="https://detdigitalefolkebibliotek.dk/">Det Digitale Folkebibliotek</a><br/>
+</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/preview/agms/assets/js/main.min.js"></script>
+
+
+<script>
+// Including InstantSearch.js library and styling
+const loadSearch = function() {
+  const loadCSS = function(src) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = src;
+    link.media = 'all';
+    document.head.appendChild(link);
+  };
+
+  var script = document.createElement('script');
+  script.setAttribute("type", "text/javascript");
+  script.setAttribute("src", "https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.js");
+  script.addEventListener("load", function() {
+    // Instantiating InstantSearch.js with Algolia credentials
+    const search = instantsearch({
+      appId: 'TVP7W0OS24',
+      apiKey: 'e8c5920789ad3f6d57903b6edc107af5',
+      indexName: 'prod_folkebibliotekernes_cms_manual',
+      searchParameters: {
+        restrictSearchableAttributes: ['title', 'content']
+      }
+    });
+
+    const hitTemplate = function(hit) {
+      const url = hit.url;
+      const hightlight = hit._highlightResult;
+      const title = hightlight.title && hightlight.title.value  || "";
+      const content = hightlight.html && hightlight.html.value  || "";
+
+      return `
+        <div class="list__item">
+          <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+            <h2 class="archive__item-title" itemprop="headline"><a href="/preview/agms${url}">${title}</a></h2>
+            <div class="archive__item-excerpt" itemprop="description">${content}</div>
+          </article>
+        </div>
+      `;
+    }
+
+    // Adding searchbar and results widgets
+    search.addWidget(
+      instantsearch.widgets.searchBox({
+        container: '.search-searchbar',
+        poweredBy: true,
+        placeholder: 'Enter your search term...'
+      })
+    );
+    search.addWidget(
+      instantsearch.widgets.hits({
+        container: '.search-hits',
+        templates: {
+          item: hitTemplate,
+          empty: 'No results',
+        }
+      })
+    );
+
+    if (!search.started) {
+      search.start();
+    }
+  });
+  document.body.appendChild(script);
+
+  loadCSS("https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.css");
+  loadCSS("https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch-theme-algolia.min.css");
+};
+
+// Starting the search only when toggle is clicked
+$(document).ready(function() {
+  var scriptLoaded = false;
+
+  $(".search__toggle").on("click", function() {
+    if (!scriptLoaded) {
+      loadSearch();
+      scriptLoaded = true;
+    }
+  });
+});
+</script>
+
+
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YW8N0HH0F5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YW8N0HH0F5', { 'anonymize_ip': false});
+</script>
+
+
+
+
+
+
+
+
+  </body>
+</html>

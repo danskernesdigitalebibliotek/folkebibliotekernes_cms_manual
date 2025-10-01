@@ -1,0 +1,587 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.27.3 by Michael Rose
+  Copyright 2013-2025 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Udviklingsmiljø - Folkebibliotekernes CMS</title>
+<meta name="description" content="Reload har i DPL-CMS projektet lavet et Docker miljø, som kan bruges til lokal udvikling og indeholder webserver, database etc.">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Folkebibliotekernes CMS">
+<meta property="og:title" content="Udviklingsmiljø">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/preview/agms/webmasterplanen/udviklingsmiljoe/">
+
+
+  <meta property="og:description" content="Reload har i DPL-CMS projektet lavet et Docker miljø, som kan bruges til lokal udvikling og indeholder webserver, database etc.">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2025-10-01T13:46:38+00:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/preview/agms/webmasterplanen/udviklingsmiljoe/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/preview/agms/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/preview/agms/assets/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/preview/agms/assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/preview/agms/assets/images/favicon-16x16.png">
+<link rel="manifest" href="/preview/agms/assets/images/site.webmanifest">
+<link rel="mask-icon" color="#5bbad5" href="/preview/agms/assets/images/safari-pinned-tab.svg">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+  </head>
+
+  <body class="layout--single wide" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/preview/agms/"><img src="/preview/agms/assets/images/layout/ddf-logo-small.png" alt="Folkebibliotekernes CMS"></a>
+        
+        <a class="site-title" href="/preview/agms/">
+          Folkebibliotekernes CMS
+          <span class="site-subtitle">via foreningen Det Digitale Folkebibliotek</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/preview/agms/overblik/nyt-i-manualen"
+                
+                
+              >Nyt i manualen</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/preview/agms/overblik/hurtigguide-til-manualen"
+                
+                
+              >Hurtigguide til manualen</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+  
+    
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/preview/agms/" itemprop="item"><span itemprop="name">Home</span></a>
+
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep">/</span>
+      
+      
+        
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/preview/agms/webmasterplanen" itemprop="item"><span itemprop="name">Webmasterplanen</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        <span class="sep">/</span>
+      
+    
+      
+      
+        <li class="current">Udviklingsmiljø</li>
+      
+    
+  </ol>
+</nav>
+
+  
+
+
+<div id="main" role="main">
+  
+  
+  <div class="sidebar sticky">
+  
+
+  
+
+  
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+   
+
+  <nav class="nav__list">
+    <input id="ac-toc" name="accordion-toc" type="checkbox" />
+    <label for="ac-toc">Toggle Menu</label>
+    <ul class="nav__items">
+
+      
+        
+        <li>
+          <span class="nav__sub-title">Webmaster-funktionalitet</span>        
+          <ul>
+            
+            
+            
+            
+
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/lokale-tilpasningsmuligheder/">Lokale tilpasningsmuligheder</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/konfigurationsaendringer-via-gui/">Konfigurationsændring via brugergrænsefladen</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/asset-injector/">Injectors</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/installation-af-moduler/">Installation og opdatering af moduler</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/lokal-moduludvikling/">Lokal moduludvikling</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/udviklingsmiljoe/" class="active">Udviklingsmiljø</a></li>
+              
+            
+          </ul>
+        </li>
+        
+      
+        
+        <li>
+          <span class="nav__sub-title">Driftsforhold</span>        
+          <ul>
+            
+            
+            
+            
+
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/produktions-og-testmiljoe/">Produktions- og testmiljø</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/opdateringscyklus-for-sites/">Opdateringscyklus for sites</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/mislykket-opdatering/">Opdatering der mislykkes</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/udsaettelse-af-opdatering/">Udsættelse af opdatering af produktionsmiljø</a></li>
+              
+            
+              
+                <li><a href="/preview/agms/webmasterplanen/ofte-stillede-spoergsmaal/">Ofte stillede spørgsmål</a></li>
+              
+            
+          </ul>
+        </li>
+        
+           
+    </ul>
+  </nav>
+  
+
+  </div>
+
+
+  
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Udviklingsmiljø">
+    <meta itemprop="description" content="Reload har i DPL-CMS projektet lavet et Docker miljø, som kan bruges til lokal udvikling og indeholder webserver, database etc.">
+    <meta itemprop="datePublished" content="2025-10-01T13:46:38+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://www.folkebibliotekernescms.dk/preview/agms/webmasterplanen/udviklingsmiljoe/" class="u-url" itemprop="url">Udviklingsmiljø
+</a>
+          </h1>
+          
+
+
+        </header>
+      
+      
+      <section class="page__content e-content" itemprop="text">
+        
+        <p>Reload har i DPL-CMS projektet lavet et Docker miljø, som kan bruges til lokal udvikling og indeholder webserver, database etc.</p>
+
+<p>Installation af lokalt udviklingsmiljø kræver installation af en Docker klient f.eks. <a href="https://www.docker.com/products/docker-desktop/">Docker Desktop</a> eller <a href="https://orbstack.dev/">Orbstack</a>.</p>
+
+<p>Derudeover skal <a href="https://taskfile.dev/">Task</a> være installeret.
+Kan afvikles på Linux, Mac, Windows og Windows Subsystem for Linux.</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/danskernesdigitalebibliotek/dpl-cms.git
+<span class="nb">cd </span>dpl-cms
+<span class="c"># hvis man ønsker særlige udgaver af Dpl Cms kan man bruge følgende ellers får man den seneste develop udgave.</span>
+<span class="c"># lister releases</span>
+git tag <span class="nt">-l</span>
+<span class="c"># bruge den bestemt branch f.eks. en release</span>
+git checkout <span class="nt">-b</span> 2025-33-0
+<span class="c"># bygger et helt nyt Dpl Cms site og henter DPL React</span>
+task dev:reset
+<span class="c"># sætter bruger 1 adgangskode</span>
+task dev:cli <span class="nt">--</span> drush upwd admin etHeltNytUniktPassword
+<span class="c"># list kørende docker tjenester</span>
+docker ps
+</code></pre></div></div>
+
+<p>Url’en / ip adressen til sitet kan fåes på flere måder.</p>
+
+<ol>
+  <li>
+    <p>Virtual host vha. Dory eller nginx-proxy er beskrevet i den officielle dokumentation
+<a href="https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup" target="_blank">https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup</a></p>
+  </li>
+  <li>
+    <p>Via Docker klient.<br />
+Hvis man f.eks. bruger Orbstack kan man under DPL-CMS Varnish containeren se IP adresse f.eks. http://localhost:32769/ og en url f.eks. dpl-cms.local</p>
+  </li>
+  <li>
+    <p>Manuelt finde IP adressen.<br />
+Kommandoen “docker ps” lister kørende docker container og der vil være en Varnish docker for DPL CMS, som er den man skal tilgå for at se sitet i en browser. <br />
+Find varnish under Images hedder f.eks. dpl-cms-varnish og tjek porten under PORTS f.eks. 80/tcp, 8443/tcp, 0.0.0.0:32770-&gt;8080/tcp, [::]:32770-&gt;8080/tcp. <br />
+Sitet kan tilgåes i en browser på f.eks. localhost:32770.</p>
+  </li>
+</ol>
+
+<p>Når sitet er klart, skal man indsætte api nøgler til fbi - men ellers burde indstillinger og rettigheder være klar til, at man kan starte med at udvikle.</p>
+
+<p>Se desuden den officielle dokumentation for flere detaljer såsom certifikater og virtual host.
+<a href="https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup" target="_blank">https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup</a></p>
+
+<p>Der er lavet en masse task kommandoer til f.eks. at starte Xdebug, køre drush kommandoer osv. De kan ses i Taskfile.yml i roden af DPL CMS projektet.</p>
+
+<p>Her er nogle af</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># kør drush kommando</span>
+task dev:cli <span class="nt">--</span> drush ...
+<span class="c"># slå dev moduler og indstillinger til</span>
+task dev:enable-dev-tools
+<span class="c"># slå xdebug til</span>
+task dev:enable-xdebug
+<span class="c"># stop og start site</span>
+task dev:stop
+task dev:start
+<span class="c"># bygger sitet helt forfra</span>
+task dev:reset
+</code></pre></div></div>
+
+<h2 id="udviklingsindstillinger">Udviklingsindstillinger</h2>
+
+<p>Slå caching fra på /admin/config/development/settings og sæt eventuelt Twig i debug mode.</p>
+
+<h2 id="xdebug">Xdebug</h2>
+
+<p>Slå xdebug til med</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>task dev:enable-xdebug
+</code></pre></div></div>
+
+<p>Tilføj browser plugin f.eks. Xdebug Helper by JetBrains
+(chrome) https://chromewebstore.google.com/detail/xdebug-helper-by-jetbrain/aoelhdemabeimdhedkidlnbkfhnhgnhm</p>
+
+<p>Ved VS Code, lave en launch.json fil i .vscode mappen eller brug et IDE med Xdebug som PhpStorm</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"configurations"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"name"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Listen for Xdebug"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"php"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"request"</span><span class="p">:</span><span class="w"> </span><span class="s2">"launch"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"port"</span><span class="p">:</span><span class="w"> </span><span class="mi">9003</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"pathMappings"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+        </span><span class="nl">"/app"</span><span class="p">:</span><span class="w"> </span><span class="s2">"${workspaceFolder}"</span><span class="w">
+      </span><span class="p">}</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+  </span><span class="p">]</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p>Sæt breakpoints og start debugger (ved VScode).</p>
+
+<h2 id="tokens">Tokens</h2>
+
+<p>Når fbi nøgler er indsat, kan man få udleveret et fbi token på /dpl-react/user-tokens.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>window.dplReact = window.dplReact || {};
+window.dplReact.setToken("library", "0a4e11b2e3b90c350cf7a440cf9ddfda504051c2")
+</code></pre></div></div>
+
+<p>Man kan ikke logge ind som låner, i det lokale udviklingsmiljø. Hvis man har brug for at kunne logge ind som bruger / få et user token - er det nødvendigt, at udvikle direkte på en server (eller bruge en tunnel) og DBC skal tilføje ekstra adresser, som kan logge ind via login.dbc.dk.</p>
+
+<h2 id="dpl-react--dpl-designsystem">DPL React / DPL Designsystem</h2>
+
+<p>Det er muligt, at hente og starte både DPL React og DPL Designsystem, men det er ikke praktisk muligt at implementere ændringer herfra på de lokale sites. Derfor dokumenteres disse dele af tech stacken ikke.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-10-01T13:46:38+00:00">October 1, 2025</time></p>
+
+      </footer>
+
+      
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+      
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><div class="search-searchbar"></div>
+  <div class="search-hits"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+  </ul>
+</div>
+<div class="page__footer-copyright">
+  Folkebibliotekernes CMS udvikles af <a href="https://detdigitalefolkebibliotek.dk/">Det Digitale Folkebibliotek</a><br/>
+</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/preview/agms/assets/js/main.min.js"></script>
+
+
+<script>
+// Including InstantSearch.js library and styling
+const loadSearch = function() {
+  const loadCSS = function(src) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = src;
+    link.media = 'all';
+    document.head.appendChild(link);
+  };
+
+  var script = document.createElement('script');
+  script.setAttribute("type", "text/javascript");
+  script.setAttribute("src", "https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.js");
+  script.addEventListener("load", function() {
+    // Instantiating InstantSearch.js with Algolia credentials
+    const search = instantsearch({
+      appId: 'TVP7W0OS24',
+      apiKey: 'e8c5920789ad3f6d57903b6edc107af5',
+      indexName: 'prod_folkebibliotekernes_cms_manual',
+      searchParameters: {
+        restrictSearchableAttributes: ['title', 'content']
+      }
+    });
+
+    const hitTemplate = function(hit) {
+      const url = hit.url;
+      const hightlight = hit._highlightResult;
+      const title = hightlight.title && hightlight.title.value  || "";
+      const content = hightlight.html && hightlight.html.value  || "";
+
+      return `
+        <div class="list__item">
+          <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+            <h2 class="archive__item-title" itemprop="headline"><a href="/preview/agms${url}">${title}</a></h2>
+            <div class="archive__item-excerpt" itemprop="description">${content}</div>
+          </article>
+        </div>
+      `;
+    }
+
+    // Adding searchbar and results widgets
+    search.addWidget(
+      instantsearch.widgets.searchBox({
+        container: '.search-searchbar',
+        poweredBy: true,
+        placeholder: 'Enter your search term...'
+      })
+    );
+    search.addWidget(
+      instantsearch.widgets.hits({
+        container: '.search-hits',
+        templates: {
+          item: hitTemplate,
+          empty: 'No results',
+        }
+      })
+    );
+
+    if (!search.started) {
+      search.start();
+    }
+  });
+  document.body.appendChild(script);
+
+  loadCSS("https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.css");
+  loadCSS("https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch-theme-algolia.min.css");
+};
+
+// Starting the search only when toggle is clicked
+$(document).ready(function() {
+  var scriptLoaded = false;
+
+  $(".search__toggle").on("click", function() {
+    if (!scriptLoaded) {
+      loadSearch();
+      scriptLoaded = true;
+    }
+  });
+});
+</script>
+
+
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YW8N0HH0F5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YW8N0HH0F5', { 'anonymize_ip': false});
+</script>
+
+
+
+
+
+
+
+
+  </body>
+</html>
