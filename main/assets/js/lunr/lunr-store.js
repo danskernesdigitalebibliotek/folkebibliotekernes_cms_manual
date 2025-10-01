@@ -899,6 +899,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-38-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.40.0",
+        "excerpt":"Fejl ved afspilning af lydbøger rettet   Releasedato: 01-10-2025   Redaktør: Produktionssites: 2025.40.0   Webmaster: Produktionssites: 2025.38.1, Moduletestsites: 2025.40.0   Fejlrettelser      Lydbøger: Fejl rettet hvor der opstod periodisk fejl ved afspilning af lydbøger med fejlbeskeden “Der opstod en uventet fejl, prøv igen senere eller kontakt biblioteket”.  ","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-40-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
