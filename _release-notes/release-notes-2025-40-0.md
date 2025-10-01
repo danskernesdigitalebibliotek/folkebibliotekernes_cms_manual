@@ -6,7 +6,7 @@ weight: 325
 
 # Fejl ved afspilning af lydbøger rettet
 
-Releasedato: 01-10-2025
+Releasedato: 02-10-2025
 
 **Redaktør**: Produktionssites: 2025.40.0
 
