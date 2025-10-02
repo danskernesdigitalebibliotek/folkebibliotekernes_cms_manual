@@ -1,5 +1,5 @@
 ---
-title:  "Release Notes 2025.36.0"
+title:  "Release Notes 2025.36.1"
 category: "Release Notes"
 weight: 327
 ---  
@@ -8,7 +8,7 @@ weight: 327
 
 Releasedato: 04-09-2025
 
-**Redaktør**: Produktionssites: 2025.36.3
+**Redaktør**: Produktionssites: 2025.36.1
 
 **Webmaster**: Produktionssites: 2025.34.0, Moduletestsites: 2025.36.3 
 
