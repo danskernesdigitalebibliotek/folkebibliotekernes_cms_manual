@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2025-10-06T07:03:31+00:00">
+  <meta property="article:published_time" content="2025-10-06T07:20:41+00:00">
 
 
 
@@ -290,7 +290,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Udviklingsmiljø">
     <meta itemprop="description" content="Reload har i DPL-CMS projektet lavet et Docker miljø, som kan bruges til lokal udvikling og indeholder webserver, database etc.">
-    <meta itemprop="datePublished" content="2025-10-06T07:03:31+00:00">
+    <meta itemprop="datePublished" content="2025-10-06T07:20:41+00:00">
     
 
     <div class="page__inner-wrap">
@@ -336,7 +336,7 @@ docker ps
 <ol>
   <li>
     <p>Virtual host vha. Dory eller nginx-proxy er beskrevet i den officielle dokumentation
-<a href="https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup" target="_blank">https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup</a></p>
+<a href="https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup">https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup</a></p>
   </li>
   <li>
     <p>Via Docker klient.<br />
@@ -350,14 +350,16 @@ Sitet kan tilgåes i en browser på f.eks. localhost:32770.</p>
   </li>
 </ol>
 
+<p>Se desuden den officielle dokumentation for flere detaljer såsom certifikater og virtual host.
+<a href="https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup">https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup</a></p>
+
 <p>Når sitet er klart, skal man indsætte api nøgler til fbi - men ellers burde indstillinger og rettigheder være klar til, at man kan starte med at udvikle.</p>
 
-<p>Se desuden den officielle dokumentation for flere detaljer såsom certifikater og virtual host.
-<a href="https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup" target="_blank">https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup</a></p>
+<p>Hvis man skal bygge/rette via brugergrænsefladen, skal man slå relevante moduler som Views UI, Fields UI og Config til.</p>
 
 <p>Der er lavet en masse task kommandoer til f.eks. at starte Xdebug, køre drush kommandoer osv. De kan ses i Taskfile.yml i roden af DPL CMS projektet.</p>
 
-<p>Her er nogle af</p>
+<p>Her er et udpluk af dem</p>
 
 <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># kør drush kommando</span>
 task dev:cli <span class="nt">--</span> drush ...
@@ -370,6 +372,8 @@ task dev:stop
 task dev:start
 <span class="c"># bygger sitet helt forfra</span>
 task dev:reset
+<span class="c"># enable UI moduler</span>
+task dev:cli <span class="nt">--</span> drush en views_ui field_ui config
 </code></pre></div></div>
 
 <h2 id="udviklingsindstillinger">Udviklingsindstillinger</h2>
@@ -429,7 +433,7 @@ window.dplReact.setToken("library", "0a4e11b2e3b90c350cf7a440cf9ddfda504051c2")
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-10-06T07:03:31+00:00">October 6, 2025</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-10-06T07:20:41+00:00">October 6, 2025</time></p>
 
       </footer>
 
