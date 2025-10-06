@@ -30,7 +30,7 @@ docker ps
 Url'en / ip adressen til sitet kan fåes på flere måder.
 
 1. Virtual host vha. Dory eller nginx-proxy er beskrevet i den officielle dokumentation
-   [https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup](https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup){:target="_blank"}
+   [https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup](https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup)
 
 2. Via Docker klient.\
    Hvis man f.eks. bruger Orbstack kan man under DPL-CMS Varnish containeren se IP adresse f.eks. http://localhost:32769/ og en url f.eks. dpl-cms.local
@@ -40,14 +40,16 @@ Url'en / ip adressen til sitet kan fåes på flere måder.
    Find varnish under Images hedder f.eks. dpl-cms-varnish og tjek porten under PORTS f.eks. 80/tcp, 8443/tcp, 0.0.0.0:32770->8080/tcp, [::]:32770->8080/tcp. \
    Sitet kan tilgåes i en browser på f.eks. localhost:32770.
 
+Se desuden den officielle dokumentation for flere detaljer såsom certifikater og virtual host.
+[https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup](https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup)
+
 Når sitet er klart, skal man indsætte api nøgler til fbi - men ellers burde indstillinger og rettigheder være klar til, at man kan starte med at udvikle.
 
-Se desuden den officielle dokumentation for flere detaljer såsom certifikater og virtual host.
-[https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup](https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/local-development/#docker-setup){:target="_blank"}
+Hvis man skal bygge/rette via brugergrænsefladen, skal man slå relevante moduler som Views UI, Fields UI og Config til.
 
 Der er lavet en masse task kommandoer til f.eks. at starte Xdebug, køre drush kommandoer osv. De kan ses i Taskfile.yml i roden af DPL CMS projektet.
 
-Her er nogle af
+Her er et udpluk af dem
 
 ```sh
 # kør drush kommando
@@ -61,6 +63,8 @@ task dev:stop
 task dev:start
 # bygger sitet helt forfra
 task dev:reset
+# enable UI moduler
+task dev:cli -- drush en views_ui field_ui config
 ```
 
 ## Udviklingsindstillinger
