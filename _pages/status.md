@@ -5,7 +5,7 @@ sidebar: true
 nav: "overblik"
 ---
 ## 7/10-25 Status på login-problemerne på hjemmesiderne
-Vi er fortsat i fuld gang med at lave en fejlrettelse på sagen med login-problemerne >https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-170<, som vi håber at kunne få ud til jer med releasen i uge 42. 
+Vi er fortsat i fuld gang med at lave en fejlrettelse på sagen med login-problemerne >https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-170<, som vi håber at kunne få ud til jer med release 2025.42.0. 
 
 Vi opererer med en hypotese om at det skyldes at bruger-token’et man fik ved login er udløber. Det nogenlunde med beskrivelserne, og det faktum at alle de bagvedliggende services ikke vil tale med os, understøtter teorien. Løsningen er derfor at sikre en bedre håndtering af de udløbede tokens, og dermed sørge for at folk bliver logget ordenligt ud. Vi er ret sikre på, at det netop er den udløbne token som også forsager fejl i materialegrids og søgning: >https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1724<
 
