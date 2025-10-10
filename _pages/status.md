@@ -4,6 +4,20 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 10/10-25 Hotfix skulle gerne rette loginfejl samt fejl på digitale artikler fra Infomedia og Digital Artikelservice
+Vi har sendt et hotfix ud til jer, som gerne skulle rette følgende fejl:
+
+Fejl på digitale artikler fra Infomedia og Digital Artikelservice: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1710 
+
+Loginproblemer: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1706 hvor vi også mener at denne sag bliver løst: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1724 
+
+Det betyder, at:
+
+-	Redaktørbibliotekerne kommer på 2025.40.3
+-	Webmasterbibliotekerne på 2025.38 kommer på 2025.38.2
+
+Vi håber det vil løse ovenstående fejl ellers må I gerne melde ind i sagerne.
+
 ## 7/10-25 Status på login-problemerne på hjemmesiderne
 Vi er fortsat i fuld gang med at lave en fejlrettelse på sagen med login-problemerne [CMS-1706](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1706),som vi håber at kunne få ud til jer med release 2025.42.0. 
 
