@@ -13,7 +13,7 @@ Loginproblemer: https://detdigitalefolkebibliotek.atlassian.net/servicedesk/cust
 
 Det betyder, at:
 
--	Redaktørbibliotekerne kommer på 2025.40.3
+-	Redaktørbibliotekerne kommer på 2025.40.4
 -	Webmasterbibliotekerne på 2025.38 kommer på 2025.38.2
 
 Vi håber det vil løse ovenstående fejl ellers må I gerne melde ind i sagerne.
