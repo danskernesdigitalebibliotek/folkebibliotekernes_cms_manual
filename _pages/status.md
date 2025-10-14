@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 14/10-25 Problemer med login via UniLogin
+Følg status på [STILs dritside](https://driftsinfo.stil.dk/incidents/13641)
+
 ## 10/10-25 Hotfix skulle gerne rette loginfejl samt fejl på digitale artikler fra Infomedia og Digital Artikelservice
 Vi har sendt et hotfix ud til jer, som gerne skulle rette følgende fejl:
 
