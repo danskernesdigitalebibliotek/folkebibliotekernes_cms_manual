@@ -906,7 +906,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2025.42.0",
-        "excerpt":"Forbedringer, fejlrettelser og landingsside til eReolen/GO Releasedato: 16-10-2025 Redaktør: Produktionssites: 2025.42.0 Webmaster: Produktionssites: 2025.40.4, Moduletestsites: 2025.42.0 Nye features Værkvisning: Ny funktion gør det muligt at kopiere linket til en specifik udgave af et materiale direkte til udklipsholderen. Statistik: Nu muligt at se statistik over besøg på eReolernes landingsside. Søgning: Nyt...","categories": ["Release Notes"],
+        "excerpt":"Mulighed for at kopiere link til specifik udgave, forbedringer og fejlrettelser. Releasedato: 16-10-2025 Redaktør: Produktionssites: 2025.42.0 Webmaster: Produktionssites: 2025.40.4, Moduletestsites: 2025.42.0 Nye features Værkvisning: Ny funktion gør det muligt at kopiere linket til en specifik udgave af et materiale direkte til udklipsholderen. Statistik: Nu muligt at se statistik over besøg...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2025-42-0/",
         "teaser": null
