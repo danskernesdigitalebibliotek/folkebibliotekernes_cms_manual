@@ -4,7 +4,7 @@ category: "Release Notes"
 weight: 320
 ---  
 
-# Forbedringer, fejlrettelser og landingsside til eReolen/GO
+# Mulighed for at kopiere link til specifik udgave, forbedringer og fejlrettelser. 
 
 Releasedato: 16-10-2025
 
