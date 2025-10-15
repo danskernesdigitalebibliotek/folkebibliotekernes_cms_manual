@@ -905,6 +905,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-40-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.42.0",
+        "excerpt":"Forbedringer, fejlrettelser og landingsside til eReolen/GO Releasedato: 16-10-2025 Redaktør: Produktionssites: 2025.42.0 Webmaster: Produktionssites: 2025.40.4, Moduletestsites: 2025.42.0 Nye features Værkvisning: Ny funktion gør det muligt at kopiere linket til en specifik udgave af et materiale direkte til udklipsholderen. Statistik: Nu muligt at se statistik over besøg på eReolernes landingsside. Søgning: Nyt...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-42-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
