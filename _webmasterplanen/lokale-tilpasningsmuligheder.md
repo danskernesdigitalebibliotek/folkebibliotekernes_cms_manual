@@ -9,7 +9,7 @@ Webmaster-bibliotekerne kan lave lokale tilpasninger af Folkebibliotekernes CMS.
 Følgende metoder bliver beskrevet:
 
 - [Konfigurationsændring via brugergrænsefladen](https://www.folkebibliotekernescms.dk/main/webmasterplanen/konfigurationsaendringer-via-gui/)
-- [Asset Injector / Add to Head](https://www.folkebibliotekernescms.dk/main/webmasterplanen/asset-injector/) 
+- [Asset Injector](https://www.folkebibliotekernescms.dk/main/webmasterplanen/asset-injector/) 
 - [Contrib / Lokale Drupal moduler](https://www.folkebibliotekernescms.dk/main/webmasterplanen/lokal-moduludvikling/)
 
 Desuden dokumenteres det, hvordan man 
