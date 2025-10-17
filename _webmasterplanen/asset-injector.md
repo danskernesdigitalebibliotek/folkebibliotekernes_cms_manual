@@ -4,11 +4,9 @@ category: "Webmaster-funktionalitet"
 weight: 5
 ---
 
-Man kan bruge [Asset Injector](https://www.drupal.org/project/asset_injector){:target="_blank"} og [Add to Head](https://www.drupal.org/project/add_to_head){:target="_blank"} modulerne til at indsætte Javascript, CSS mm. på sitet.
+Man kan bruge [Asset Injector](https://www.drupal.org/project/asset_injector){:target="_blank"} modulet til at indsætte Javascript, CSS mm. på sitet.
 
 *Asset Injector* giver mulighed for at tilføje brugerdefineret CSS eller JavaScript til dit Drupal-site uden at skulle ændre i f.eks. tema eller bruge lokale moduler. Det er praktisk, hvis man hurtigt vil tilpasse udseendet eller funktionaliteten på specifikke sider eller site-wide.
-
-*Add to Head* modulet bruges til at tilføje scripts, styles eller meta-tags direkte til \<head\>-sektionen på sitet.
 
 ## Installation
 
@@ -133,10 +131,3 @@ nav.breadcrumb:not(.breadcrumb_material) a:last-child {
   }
 }
 ```
-
-## Udviklingsmuligheder og afklaring
-
-Hvordan er den optimale brug af Asset Injector i forhold til cache.
-
-
-
