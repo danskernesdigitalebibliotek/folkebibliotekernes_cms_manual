@@ -74,15 +74,3 @@ Et eksempel på, hvordan man kan inkludere php pakker fra f.eks. Packagist direk
 [https://github.com/odensebibliotekerne/example_local_package](https://github.com/odensebibliotekerne/example_local_package)
 
 Modulet danner en PDF udfra en simpel HTML streng. En anden anvendelsesmulighed kunne være at danne en PDF udfra arrangementerne på DPL-CMS, som kan printes til/hentes af brugerne af biblioteket.
-
-## Udviklingsmuligheder og afklaring
-
-Det kunne være godt at gøre specielt test-miljøet mindre "black box" agtigt.
-
-- Man skal erstatte de filer, som man uploader, istedet for at lægge dem oven i (test + produktion).
-- Det skal være muligt at se, hvad man har liggende i module/local mappen (test + produktion).
-- Det skal være muligt at slette fra module/local mappen (minimum på test).
-- Man skal kunne få et database dump fra test til lokal udvikling.
-- Se databaselog eller andre logs (test + produktion).
-- Man skal kunne trigger et test-deploy (test).
-- Asset injector og den hårde caching spiller ikke så godt sammen, hvis man skal teste.
