@@ -1158,7 +1158,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Injectors",
-        "excerpt":"Man kan bruge Asset Injector og Add to Head modulerne til at indsætte Javascript, CSS mm. på sitet. Asset Injector giver mulighed for at tilføje brugerdefineret CSS eller JavaScript til dit Drupal-site uden at skulle ændre i f.eks. tema eller bruge lokale moduler. Det er praktisk, hvis man hurtigt vil...","categories": ["Webmaster-funktionalitet"],
+        "excerpt":"Man kan bruge Asset Injector modulet til at indsætte Javascript, CSS mm. på sitet. Asset Injector giver mulighed for at tilføje brugerdefineret CSS eller JavaScript til dit Drupal-site uden at skulle ændre i f.eks. tema eller bruge lokale moduler. Det er praktisk, hvis man hurtigt vil tilpasse udseendet eller funktionaliteten...","categories": ["Webmaster-funktionalitet"],
         "tags": [],
         "url": "/main/webmasterplanen/asset-injector/",
         "teaser": null
