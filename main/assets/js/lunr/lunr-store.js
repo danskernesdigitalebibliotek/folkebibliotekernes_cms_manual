@@ -1188,7 +1188,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Lokale tilpasningsmuligheder",
-        "excerpt":"Webmaster-bibliotekerne kan lave lokale tilpasninger af Folkebibliotekernes CMS. Følgende metoder bliver beskrevet: Konfigurationsændring via brugergrænsefladen Asset Injector / Add to Head Contrib / Lokale Drupal moduler Desuden dokumenteres det, hvordan man installere moduler sætter et lokalt udviklingsmiljø op Der er følgende begrænsninger i den lokale tilpasning, men ellers er der...","categories": ["Webmaster-funktionalitet"],
+        "excerpt":"Webmaster-bibliotekerne kan lave lokale tilpasninger af Folkebibliotekernes CMS. Følgende metoder bliver beskrevet: Konfigurationsændring via brugergrænsefladen Asset Injector Contrib / Lokale Drupal moduler Desuden dokumenteres det, hvordan man installere moduler sætter et lokalt udviklingsmiljø op Der er følgende begrænsninger i den lokale tilpasning, men ellers er der mange muligheder. det kan...","categories": ["Webmaster-funktionalitet"],
         "tags": [],
         "url": "/main/webmasterplanen/lokale-tilpasningsmuligheder/",
         "teaser": null
