@@ -168,7 +168,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Fejl i abonnementslogik er rettet",
-        "excerpt":"## Hvad skal du være opmærksom på? Delingstjenestens abonnementsfunktion har i en periode opført sig uforudsigeligt. Det er nu rettet, og den forbedrede logik er allerede i drift på alle bibliotekssites. Det betyder, at du fremover **kun vil modtage det indhold fra Delingstjenesten, som er korrekt tagget** med det abonnement,...","categories": ["Delingstjenesten"],
+        "excerpt":"# Fejl i abonnementslogikken er nu rettet ## Hvad skal du være opmærksom på? Delingstjenestens abonnementsfunktion har i en periode opført sig uforudsigeligt. Det er nu rettet, og den forbedrede logik er allerede i drift på alle bibliotekssites. Det betyder, at du fremover **kun** vil modtage det indhold fra Delingstjenesten,...","categories": ["Delingstjenesten"],
         "tags": [],
         "url": "/main/delingstjenesten/abonnementlogik/",
         "teaser": null
