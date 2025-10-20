@@ -1,7 +1,7 @@
 ---
 title: "Hent indhold fra Delingstjenesten"
 category: Delingstjenesten
-nav_order: 2
+nav_order: 4
 ---
 
 Du kan hente indhold fra Bibliotekernes Nationale Redaktion – klar til brug på dit eget bibliotekssite. Nedenfor guider vi dig trin-for-trin.
