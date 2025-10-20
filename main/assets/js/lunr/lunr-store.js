@@ -167,12 +167,6 @@ var store = [{
         "url": "/main/category/webmasterplanen/",
         "teaser": null
       },{
-        "title": "Fejl i abonnementslogikken er nu rettet",
-        "excerpt":"## Hvad skal du være opmærksom på? Delingstjenestens abonnementsfunktion har i en periode opført sig uforudsigeligt. Det er nu rettet, og den forbedrede logik er allerede i drift på alle bibliotekssites. Det betyder, at du fremover **kun vil modtage det indhold fra Delingstjenesten, som er korrekt tagget** med det abonnement,...","categories": ["Delingstjenesten"],
-        "tags": [],
-        "url": "/main/delingstjenesten/abonnementslogik_rettet/",
-        "teaser": null
-      },{
         "title": "Abonnerer på indhold fra Delingstjenesten",
         "excerpt":"Med abonnement kan du automatisk og fleksibelt få det nyeste indhold leveret direkte på dit biblioteketssite, efterhånden som det publiceres. Du kan abonnere på indhold fra Delingstjenesten baseret på tags og kategorier. Når nye artikler med det valgte tag eller kategori udgives, bliver de automatisk hentet ind på dit bibliotekssite...","categories": ["Delingstjenesten"],
         "tags": [],
