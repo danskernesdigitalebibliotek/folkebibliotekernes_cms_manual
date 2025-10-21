@@ -4,7 +4,6 @@ parent: "Delingstjenesten"
 nav_order: 4
 ---
 
-# Fejl i abonnementslogikken er nu rettet
 
 Delingstjenestens abonnementsfunktion har i en periode opført sig uforudsigeligt.  
 Det er nu rettet, og den forbedrede logik er allerede i drift på alle bibliotekssites.
@@ -21,12 +20,11 @@ Vi anbefaler, at du tjekker dine abonnementer igennem – især disse tre tags:
 - Forfatterfokus  
 - Aktuelt  
 
-
+---
 
 ## Hvad kan du gøre?
 
 ### Ryd op og ud i forkert indhold
-
 Har du artikler, som fejlagtigt er kommet med ind i et abonnement?
 
 **Sådan gør du:**
@@ -38,9 +36,9 @@ Har du artikler, som fejlagtigt er kommet med ind i et abonnement?
 Det sikrer, at artiklen ikke kommer igen ved næste synkronisering.
 
 
-### Start helt forfra med et abonnement
 
-Er du i tvivl om, hvad der er kommet med ind – eller har du mistet indhold?
+### Start helt forfra med et abonnement
+Er du i tvivl om, hvad der er kommet med ind - eller har du mistet indhold?
 
 **Sådan gør du:**
 
@@ -53,10 +51,9 @@ Er du i tvivl om, hvad der er kommet med ind – eller har du mistet indhold?
 
 Så bliver det rigtige og rensede indhold hentet ind igen
 
+---
 
-
-## Tip
-
+#### Tip
 Hvis du bruger samme lokale tag som før (fx _Forfatterfokus_), vil det nye indhold automatisk vises i dine eksisterende visninger – f.eks.:
 
 - Card Grid Automatic  
