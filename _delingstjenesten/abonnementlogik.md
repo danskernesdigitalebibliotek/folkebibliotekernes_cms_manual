@@ -6,16 +6,12 @@ nav_order: 4
 
 # Fejl i abonnementslogikken er nu rettet
 
-## Hvad skal du være opmærksom på?
-
 Delingstjenestens abonnementsfunktion har i en periode opført sig uforudsigeligt.  
 Det er nu rettet, og den forbedrede logik er allerede i drift på alle bibliotekssites.
 
 Det betyder, at du fremover **kun vil modtage det indhold fra Delingstjenesten, som er korrekt tagget** med det abonnement, du har tilmeldt.
 
-> **Men:** Fejlen har efterladt spor.  
-> Nogle biblioteker har derfor forkert indhold liggende, som er blevet hentet via abonnementer.  
-> Andre mangler indhold, der burde have været med.
+**Men:** Fejlen har efterladt spor. Nogle biblioteker har derfor forkert indhold liggende, som er blevet hentet via abonnementer. Andre mangler indhold, der burde have været med.
 
 Vi anbefaler, at du tjekker dine abonnementer igennem – især disse tre tags:
 
@@ -25,7 +21,7 @@ Vi anbefaler, at du tjekker dine abonnementer igennem – især disse tre tags:
 - Forfatterfokus  
 - Aktuelt  
 
----
+
 
 ## Hvad kan du gøre?
 
@@ -39,9 +35,8 @@ Har du artikler, som fejlagtigt er kommet med ind i et abonnement?
 2. Fjern fluebenet ved _“Hold indholdet opdateret fra Delingstjenesten”_  
 3. Afpublicer eller slet artiklen – afhængigt af jeres lokale praksis  
 
-> Det sikrer, at artiklen ikke kommer igen ved næste synkronisering.
+Det sikrer, at artiklen ikke kommer igen ved næste synkronisering.
 
----
 
 ### Start helt forfra med et abonnement
 
@@ -56,11 +51,11 @@ Er du i tvivl om, hvad der er kommet med ind – eller har du mistet indhold?
 4. **Vigtigt:** Fjern fluebenet i _“Importer kun kommende nyt indhold”_  
    - Ellers henter du kun fremtidige artikler
 
-> Så bliver det rigtige og rensede indhold hentet ind igen
+Så bliver det rigtige og rensede indhold hentet ind igen
 
----
 
-## 💡 Tip
+
+## Tip
 
 Hvis du bruger samme lokale tag som før (fx _Forfatterfokus_), vil det nye indhold automatisk vises i dine eksisterende visninger – f.eks.:
 
@@ -69,7 +64,6 @@ Hvis du bruger samme lokale tag som før (fx _Forfatterfokus_), vil det nye indh
 
 ---
 
-## 🔧 Brug for sparring?
-
-Skriv gerne via [**ServiceDesk**](https://www.folkebibliotekernescms.dk/main/support/servicedesk/)  
-hvis du har spørgsmål eller oplever uventet adfærd i dine abonnementer.
+### Brug for hjælp?
+- Oplever du fejl? Meld ind via **ServiceDesk → Folkebibliotekernes CMS → Indmeld fejl**
+- Spørgsmål til indhold? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
