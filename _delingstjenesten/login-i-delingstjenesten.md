@@ -34,5 +34,6 @@ Når denne knap vises, er du logget korrekt ind. Du kan klikke på knappen for a
 
 ---
 
-**Har du problemer med login?**  
-Meld ind via **ServiceDesk**: *Folkebibliotekernes CMS → Indmeld fejl*  
+### Brug for hjælp?
+- Oplever du fejl? Meld ind via **ServiceDesk → Folkebibliotekernes CMS → Indmeld fejl**
+- Spørgsmål til indhold? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
