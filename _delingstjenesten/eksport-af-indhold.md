@@ -72,8 +72,6 @@ På søgesiden vises altid **dit biblioteksnavn** som afsender.
 Når andre biblioteker henter indholdet, vises forfatterfeltet som **“af biblioteket”**.
 
 
-
-
 ---
 
 ### 4. Tjek om artiklen eller siden er modtaget i Delingstjenesten
@@ -116,7 +114,5 @@ Når andre biblioteker importerer indholdet via abonnementsordningen, fastholdes
 ---
 
 ### Brug for hjælp?
-- Oplever du fejl, så meld ind via **ServiceDesk**: *Folkebibliotekernes CMS → Indmeld fejl*  
-- Spørgsmål til indhold, billeder eller rettigheder? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
-
----
+- Oplever du fejl? Meld ind via **ServiceDesk → Folkebibliotekernes CMS → Indmeld fejl**
+- Spørgsmål til indhold? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
