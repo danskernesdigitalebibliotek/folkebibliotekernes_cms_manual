@@ -1,15 +1,7 @@
-
----
-title: "Fejl i abonnementslogik - sådan rydder du op"
-category: Delingstjenesten
-weight: 6
----
-
-
 ---
 title: "Fejl i abonnementslogik – sådan rydder du op"
-category: Delingstjenesten
-weight: 10
+parent: "Delingstjenesten"
+nav_order: 4
 ---
 
 # Fejl i abonnementslogikken er nu rettet
@@ -17,14 +9,15 @@ weight: 10
 ## Hvad skal du være opmærksom på?
 
 Delingstjenestens abonnementsfunktion har i en periode opført sig uforudsigeligt.  
-Det er nu rettet, og den nye, forbedrede logik er allerede i drift på alle bibliotekssites.
+Det er nu rettet, og den forbedrede logik er allerede i drift på alle bibliotekssites.
 
 Det betyder, at du fremover **kun vil modtage det indhold fra Delingstjenesten, som er korrekt tagget** med det abonnement, du har tilmeldt.
 
 > **Men:** Fejlen har efterladt spor.  
-> Nogle biblioteker har derfor forkert indhold liggende, som er blevet hentet via abonnementer. Andre mangler indhold, der burde have været med.
+> Nogle biblioteker har derfor forkert indhold liggende, som er blevet hentet via abonnementer.  
+> Andre mangler indhold, der burde have været med.
 
-Vi anbefaler, at du tjekker dine abonnementer igennem – særligt disse tre tags, hvor vi ved, der har været problemer:
+Vi anbefaler, at du tjekker dine abonnementer igennem – især disse tre tags:
 
 ### Særligt ramte abonnementer
 
@@ -42,11 +35,11 @@ Har du artikler, som fejlagtigt er kommet med ind i et abonnement?
 
 **Sådan gør du:**
 
-1. Gå ind på artiklen i redigeringsvisning.  
-2. Fjern fluebenet ved **“Hold indholdet opdateret fra Delingstjenesten”**.  
-3. Afpublicer eller slet artiklen – afhængigt af jeres lokale praksis.  
+1. Gå ind på artiklen i redigeringsvisning  
+2. Fjern fluebenet ved _“Hold indholdet opdateret fra Delingstjenesten”_  
+3. Afpublicer eller slet artiklen – afhængigt af jeres lokale praksis  
 
-Dette sikrer, at den forkerte artikel ikke dukker op igen ved næste synkronisering.
+> Det sikrer, at artiklen ikke kommer igen ved næste synkronisering.
 
 ---
 
@@ -56,34 +49,27 @@ Er du i tvivl om, hvad der er kommet med ind – eller har du mistet indhold?
 
 **Sådan gør du:**
 
-1. Gå til **Administrer abonnementer** og slet det pågældende abonnement.  
-2. Gå til **Indhold** og slet de artikler, som kom med via det slettede abonnement.  
-   *(Du behøver ikke fjerne “Opdateringer fra Delingstjenesten” – det sker automatisk, når abonnementet slettes.)*  
-3. Genopret abonnementet på samme tag eller kategori.  
-4. **Vigtigt:** Fjern fluebenet i **“Importer kun kommende nyt indhold”** – ellers henter du kun fremtidige artikler.  
+1. Gå til **Administrer abonnementer** og slet det pågældende abonnement  
+2. Gå til **Indhold** og slet de artikler, der kom med via abonnementet  
+   - _(Du behøver ikke fjerne “Opdateringer fra Delingstjenesten” – det sker automatisk)_
+3. Genopret abonnementet på samme tag eller kategori  
+4. **Vigtigt:** Fjern fluebenet i _“Importer kun kommende nyt indhold”_  
+   - Ellers henter du kun fremtidige artikler
 
-Så bliver det rette og rensede indhold hentet ind igen.
+> Så bliver det rigtige og rensede indhold hentet ind igen
 
 ---
 
-## Tip
+## 💡 Tip
 
-Hvis du bruger samme lokale tag som før (fx *Forfatterfokus*), vil det nye indhold automatisk dukke op i dine eksisterende visninger – f.eks. i:
+Hvis du bruger samme lokale tag som før (fx _Forfatterfokus_), vil det nye indhold automatisk vises i dine eksisterende visninger – f.eks.:
 
 - Card Grid Automatic  
-- Content Slider Automatic
+- Content Slider Automatic  
 
 ---
 
-## Brug for sparring?
+## 🔧 Brug for sparring?
 
-Skriv gerne via [**ServiceDesk**](https://www.folkebibliotekernescms.dk/main/support/servicedesk/) hvis du har spørgsmål eller oplever uventet adfærd i dine abonnementer.
-
-
-
-### Brug for hjælp?
-
-- Se også [**Import af indhold fra Delingstjenesten**](https://www.folkebibliotekernescms.dk/main/delingstjenesten/import-af-indhold/)
-- Oplever du fejl? Meld ind via **ServiceDesk → Folkebibliotekernes CMS → Indmeld fejl**
-- Spørgsmål til indhold? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
-
+Skriv gerne via [**ServiceDesk**](https://www.folkebibliotekernescms.dk/main/support/servicedesk/)  
+hvis du har spørgsmål eller oplever uventet adfærd i dine abonnementer.
