@@ -1,7 +1,7 @@
 ---
 title: "Fejl i abonnementslogik – sådan rydder du op"
 parent: "Delingstjenesten"
-nav_order: 4
+nav_order: 1
 ---
 
 
