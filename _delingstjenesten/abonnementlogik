@@ -1,7 +1,15 @@
+
 ---
-title: "Fejl i abonnementslogik er rettet"
-category: "Delingstjenesten"
-nav_order: 1
+title: "Fejl i abonnementslogik - sådan rydder du op"
+category: Delingstjenesten
+weight: 6
+---
+
+
+---
+title: "Fejl i abonnementslogik – sådan rydder du op"
+category: Delingstjenesten
+weight: 10
 ---
 
 # Fejl i abonnementslogikken er nu rettet
@@ -9,21 +17,20 @@ nav_order: 1
 ## Hvad skal du være opmærksom på?
 
 Delingstjenestens abonnementsfunktion har i en periode opført sig uforudsigeligt.  
-Det er nu rettet, og den forbedrede logik er allerede i drift på alle bibliotekssites.
+Det er nu rettet, og den nye, forbedrede logik er allerede i drift på alle bibliotekssites.
 
-Det betyder, at du fremover **kun** vil modtage det indhold fra Delingstjenesten, som er korrekt tagget med det abonnement, du har tilmeldt.
+Det betyder, at du fremover **kun vil modtage det indhold fra Delingstjenesten, som er korrekt tagget** med det abonnement, du har tilmeldt.
 
-Men: Fejlen har efterladt spor.  
-Nogle biblioteker har derfor forkert indhold liggende, som er blevet hentet via abonnementer.  
-Andre mangler indhold, der burde have været med.
+> **Men:** Fejlen har efterladt spor.  
+> Nogle biblioteker har derfor forkert indhold liggende, som er blevet hentet via abonnementer. Andre mangler indhold, der burde have været med.
 
-Vi anbefaler, at du tjekker dine abonnementer igennem – især disse tre tags:
+Vi anbefaler, at du tjekker dine abonnementer igennem – særligt disse tre tags, hvor vi ved, der har været problemer:
 
-<ul>
-  <li>Noget, der ligner</li>
-  <li>Forfatterfokus</li>
-  <li>Aktuelt</li>
-</ul>
+### Særligt ramte abonnementer
+
+- Noget, der ligner  
+- Forfatterfokus  
+- Aktuelt  
 
 ---
 
@@ -33,11 +40,11 @@ Vi anbefaler, at du tjekker dine abonnementer igennem – især disse tre tags:
 
 Har du artikler, som fejlagtigt er kommet med ind i et abonnement?
 
-<ol>
-  <li>Gå ind på artiklen i redigeringsvisning.</li>
-  <li>Fjern fluebenet ved “Hold indholdet opdateret fra Delingstjenesten”.</li>
-  <li>Afpublicer eller slet artiklen, afhængigt af jeres lokale praksis.</li>
-</ol>
+**Sådan gør du:**
+
+1. Gå ind på artiklen i redigeringsvisning.  
+2. Fjern fluebenet ved **“Hold indholdet opdateret fra Delingstjenesten”**.  
+3. Afpublicer eller slet artiklen – afhængigt af jeres lokale praksis.  
 
 Dette sikrer, at den forkerte artikel ikke dukker op igen ved næste synkronisering.
 
@@ -47,13 +54,13 @@ Dette sikrer, at den forkerte artikel ikke dukker op igen ved næste synkroniser
 
 Er du i tvivl om, hvad der er kommet med ind – eller har du mistet indhold?
 
-<ol>
-  <li>Gå til <strong>Administrer abonnementer</strong> og slet det pågældende abonnement.</li>
-  <li>Gå til <strong>Indhold</strong> og slet de artikler, som kom med via det slettede abonnement.<br>
-  (Du behøver ikke fjerne “Opdateringer fra Delingstjenesten” først – det sker automatisk.)</li>
-  <li>Genopret abonnementet på samme tag eller kategori.</li>
-  <li><strong>Vigtigt:</strong> Fjern fluebenet i <em>“Importer kun kommende nyt indhold”</em> – ellers henter du kun fremtidige artikler.</li>
-</ol>
+**Sådan gør du:**
+
+1. Gå til **Administrer abonnementer** og slet det pågældende abonnement.  
+2. Gå til **Indhold** og slet de artikler, som kom med via det slettede abonnement.  
+   *(Du behøver ikke fjerne “Opdateringer fra Delingstjenesten” – det sker automatisk, når abonnementet slettes.)*  
+3. Genopret abonnementet på samme tag eller kategori.  
+4. **Vigtigt:** Fjern fluebenet i **“Importer kun kommende nyt indhold”** – ellers henter du kun fremtidige artikler.  
 
 Så bliver det rette og rensede indhold hentet ind igen.
 
@@ -61,12 +68,17 @@ Så bliver det rette og rensede indhold hentet ind igen.
 
 ## Tip
 
-Hvis du bruger samme lokale tag som før (fx “Forfatterfokus”), vil det nye indhold automatisk dukke op i dine eksisterende visninger – f.eks. i:
+Hvis du bruger samme lokale tag som før (fx *Forfatterfokus*), vil det nye indhold automatisk dukke op i dine eksisterende visninger – f.eks. i:
 
-- Card Grid Automatic
+- Card Grid Automatic  
 - Content Slider Automatic
 
 ---
+
+## Brug for sparring?
+
+Skriv gerne via [**ServiceDesk**](https://www.folkebibliotekernescms.dk/main/support/servicedesk/) hvis du har spørgsmål eller oplever uventet adfærd i dine abonnementer.
+
 
 
 ### Brug for hjælp?
