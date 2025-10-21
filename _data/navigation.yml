@@ -30,22 +30,7 @@ overblik:
       - title: "Nyt i manualen"
         url: /overblik/nyt-i-manualen
 
-
-- title: "Delingstjenesten"
-  url: /main/delingstjenesten/
-  children:
-    - title: "Fejl i abonnementslogik – sådan rydder du op"
-      url: /main/delingstjenesten/abonnementlogik/
-    - title: "Log ind på Delingstjenesten"
-      url: /main/delingstjenesten/login-i-delingstjenesten/
-    - title: "Abonnerer på indhold fra Delingstjenesten"
-      url: /main/delingstjenesten/abonner/
-    - title: "Hent indhold fra Delingstjenesten"
-      url: /main/delingstjenesten/import-af-indhold/
-    - title: "Send indhold til Delingstjenesten"
-      url: /main/delingstjenesten/eksport-af-indhold/
-
-
  
+
 
 
