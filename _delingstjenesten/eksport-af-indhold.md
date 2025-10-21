@@ -1,7 +1,7 @@
 ---
 title: "Send indhold til Delingstjenesten"
 category: Delingstjenesten
-nav_order: 5
+nav_order: 6
 ---
 
 Med **send-funktionen** kan du dele indholdstyperne artikler og sider fra din egen hjemmeside med resten af landets biblioteker via Delingstjenesten.
