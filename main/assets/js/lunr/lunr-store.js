@@ -204,7 +204,7 @@ var store = [{
         "teaser": null
       },{
         "title": "VIP-profil til GO",
-        "excerpt":"GO har sin egen VIP-profil, der hedder ”fbcms-go”. Denne kan findes sammen med jeres andre VIP-profiler på FB CMS. **GO-profilen er opsat til at vise:** - E-bøger, lydbøger og podcasts fra eReolen - Fysiske bøger, tegneserier, billedbøger og graphic novels fra jeres beholdning **Lav ikke ændringer** Vi anbefaler på det...","categories": ["GO"],
+        "excerpt":"GO har sin egen VIP-profil, der hedder ”fbcms-go”. Denne kan findes sammen med jeres andre VIP-profiler på FB CMS. **GO-profilen er opsat til at vise:** - E-bøger, lydbøger og podcasts fra Publizon (eReolens kilder) - Fysiske bøger, tegneserier, billedbøger og graphic novels fra jeres beholdning **Lav ikke ændringer** Vi anbefaler...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/VIP-profil-GO/",
         "teaser": null
