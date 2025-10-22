@@ -8,8 +8,6 @@ permalink: /go/
 
 Denne side samler de seneste vejledninger og informationer om det nye GO. 
 
-GO går nu fra at være et nationalt site til at få hver sin hjemmeside tilknyttet til Folkebibliotekernes eksisterende hjemmesider.
-
 
 ## OBS:
 *Indhold fra GO-sitet optræder i jeres almindelige backend. Slet endelig ikke dette indhold.*
