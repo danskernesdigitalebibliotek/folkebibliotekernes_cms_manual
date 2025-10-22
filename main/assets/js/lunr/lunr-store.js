@@ -234,7 +234,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Sådan opretter du indhold på GO",
-        "excerpt":"For at oprette indhold på GO skal du være logget ind i jeres backend, som du bruger til jeres hovedsite. OBS! Vær opmærksom på, at GO på nogle områder opfører sig anderleders end FB CMS - det er derfor vigtigt, at du læser manualen for at sikre, at jeres GO...","categories": ["GO"],
+        "excerpt":"Indhold på GO redigeres og oprettes i samme backend, som du bruger til jeres hovedsite. OBS! Vær opmærksom på, at GO på nogle områder opfører sig anderledes end FB CMS - det er derfor vigtigt, at du læser manualen for at sikre, at jeres GO indhold vises korrekt. Vær især...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/opret-indhold-for-go/",
         "teaser": null
