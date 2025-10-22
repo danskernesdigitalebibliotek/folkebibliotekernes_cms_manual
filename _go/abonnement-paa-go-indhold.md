@@ -4,11 +4,11 @@ category: GO
 weight: 9
 ---
 
-Vær opmærksom på, at jeres nye GO-site bliver født med det indhold, som Bibliotekernes Nationale Redaktion (BNR) har lavet. Det vil sige, at I allerede abonnerer på GO og automatisk får selve GO forsiden og de underliggende kategorisider ind på jeres GO site, når siden går live.  
+Vær opmærksom på, at jeres nye GO-site er født med det indhold, som Bibliotekernes Nationale Redaktion (BNR) har lavet. Det vil sige, at I allerede abonnerer på GO og automatisk får selve GO-forsiden og de underliggende kategorisider ind på jeres GO-site. Slet endelig ikke abonnementet. Det er muligt at slukke for synkroniseringen på de enkelte sider eller artikler. Se *"Sæt automatisk opdatering af indhold fra BNR på pause"* længere nede på denne side. 
 
-Får du på et tidspunkt brug for at oprette abonnementet for GO igen, kan du anvende vejledningen nedenfor.
 
 ## Opsætning af abonnement fra Delingstjenesten på GO indhold
+Skulle I være kommet til at slette abonnementet for jeres GO-site, kan det genoprettes således: 
 - Log ind i jeres backend for jeres hovedsite (FB CMS)
 - Før musen henover ’Indhold’ (eller Content) og klik på ’Log ind i Delingstjenesten - du kommer nu over på delingstjenesten.dk
   {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/18305c2c-2655-4cd3-bde5-001b1304ecf7" %}
