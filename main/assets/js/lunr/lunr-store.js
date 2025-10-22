@@ -258,7 +258,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Sådan synliggør du GO på dit hovedsite",
-        "excerpt":"Vi anbefaler, at I formidler GO-sitet via jeres hovedsite – eks. bibliotek.kk.dk, så brugere kan finde GO ad den vej. Dette kan gøres på mange måder. I disse slides kan I se eksempler på, hvordan det kan gøres: GO - eksempler på placering FB CMS.pdf I delingstjenesten ligger to artikler,...","categories": ["GO"],
+        "excerpt":"ereolengo.dk fungerer som en redirectside, hvor brugere kan vælge deres kommune og komme videre til deres lokale GO-site. Vi ved dog, at jo flere klik en bruger skal bruge, jo større er sandsynligheden for, at de falder fra. Derfor er det afgørende, at I lokalt også selv formidler jeres lokale...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/synliggoer-go-paa-hovedsite/",
         "teaser": null
