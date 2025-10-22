@@ -6,7 +6,7 @@ weight: 6
 
 De komponenter, som du bygger dit indhold op af på sider, kategorisider og artikler kaldes **Paragraphs** og på GO findes følgende: GO Video, GO Video Bundle – Automatic, GO Video Bundle - Manual, GO Material Slider – Automatic, GO Material Slider - Manual og GO Linkbox. 
 
-**OBS!** Husk at læse nedenstående vejledning vedr. søgestrenge i karruseller og videobundle, da det er afgørende for, at karrusellerne vises rigtigt.
+**OBS! Husk at læse nedenstående vejledning vedr. søgestrenge i karruseller og videobundle, da det er afgørende for, at karrusellerne vises rigtigt.**
 
 Klik på '**+ Add**' for at tilføje de paragraphs, som du ønsker, at din side eller formidlingselement skal bestå af. 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/1cadc8ad-7c55-413d-b5f8-9076d571957b" alt="Klik på '+ Add' for at tilføje paragraphs" %}
