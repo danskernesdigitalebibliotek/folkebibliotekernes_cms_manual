@@ -204,7 +204,7 @@ var store = [{
         "teaser": null
       },{
         "title": "VIP-profil til GO",
-        "excerpt":"GO har sin egen VIP-profil, der hedder ”fbcms-go”. Denne kan findes sammen med jeres andre VIP-profiler på FB CMS. VIP-profilen er endnu ikke aktiv, da der skal laves nogle tilpasninger i koden for GO-sitet, før den aktiveres. Pt. benyttes jeres lokale VIP-profil, som er aktiv på jeres hovedsite. GO-profilen er...","categories": ["GO"],
+        "excerpt":"GO har sin egen VIP-profil, der hedder ”fbcms-go”. Denne kan findes sammen med jeres andre VIP-profiler på FB CMS. VIP-profilen er endnu ikke aktiv, da der skal laves nogle tilpasninger i koden for GO-sitet, før den aktiveres. Pt. benytter GO-sitet den VIP-profil, som er aktiv på jeres lokale hovedsite. GO-profilen...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/VIP-profil-GO/",
         "teaser": null
