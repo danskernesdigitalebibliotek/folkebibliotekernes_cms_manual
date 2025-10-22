@@ -10,6 +10,8 @@ GO har sin egen VIP-profil, der hedder ”fbcms-go”. Denne kan findes sammen m
 - E-bøger, lydbøger og podcasts fra Publizon (eReolens kilder)
 - Fysiske bøger, tegneserier, billedbøger og graphic novels fra jeres beholdning
 
-**Lav ikke ændringer**
+
+### Lav ikke ændringer ###
+
 Vi anbefaler på det kraftigste, at man ikke laver ændringer i VIP-profilen, da GO-sitet er opsat til at vise netop ovenstående materialetyper og derfor ikke understøtter afspilning eller visning af andre materialetyper eller kilder. 
 
