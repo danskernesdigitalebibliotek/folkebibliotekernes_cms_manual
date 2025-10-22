@@ -3,9 +3,12 @@ title: "Sådan opretter du indhold på GO"
 category: GO
 weight: 2
 ---
-**For at oprette indhold på GO skal du være logget ind i jeres backend, som du bruger til jeres hovedsite.**
+**Indhold på GO redigeres og oprettes i samme backend, som du bruger til jeres hovedsite.**
 
-**OBS!** Vær opmærksom på, at GO på nogle områder opfører sig anderleders end FB CMS - det er derfor vigtigt, at du læser manualen for at sikre, at jeres GO indhold vises, som forventet. Vær især opmærksom på, at indhold I selv opretter og placerer på GO-forsiden vil blive overskrevet, når Bibliotekernes Nationale Redaktion (BNR) opdaterer siden hver torsdag. Medmindre I slår abonnementet fra og vælger ikke at få indhold fra BNR. Vi anbefaler derfor i stedet, at I opretter en kategoriside fx kaldet ”Mit bibliotek”, som I opretter i jeres egen backend. Se [Sådan opretter du en kategoriside](https://www.folkebibliotekernescms.dk/main/go/opret-kategoriside/) Den kommer til at ligge oppe i toppen af siden ved siden af ”Gys”, ”venskab” osv. Katergorisider, som I selv opretter bliver ikke overskrevet, når der sendes nyt indhold ud fra BNR.
+**OBS!** Vær opmærksom på, at GO på nogle områder opfører sig anderledes end FB CMS - det er derfor vigtigt, at du læser manualen for at sikre, at jeres GO indhold vises korrekt. Vær især opmærksom på, at indhold I selv opretter og placerer på GO-forsiden vil blive overskrevet, når Bibliotekernes Nationale Redaktion (BNR) opdaterer siden hver torsdag. 
+
+### Side til lokal formidling ###
+For at undgå, at indhold bliver overskrevet anbefaler vi derfor, at I opretter en kategoriside fx kaldet ”Mit bibliotek”, som I opretter i jeres egen backend. Se [Sådan opretter du en kategoriside] (https://www.folkebibliotekernescms.dk/main/go/opret-kategoriside/) Katergorisider, som I selv opretter bliver *ikke* overskrevet, når der sendes nyt indhold ud fra BNR. Den kommer til at ligge oppe i toppen af siden ved siden af ”Gys”, ”venskab” osv. 
 
 Vær opmærksom på at nyoprettet indhold eller ændringer i indhold kan have en forsinkelse, fra du gemmer til det er synligt på sitet.
 
@@ -31,8 +34,8 @@ De GO specifikke indholdselementer, der kan oprettes er hhv. GO Article, GO Cate
 
 ### Udviklingsønsker til GO i forbindelse med oprettelse af indhold
 - **Arrangementer** 
-
    Der er et ønske om at kunne integrere arrangementer direkte på GO-sitet. Som det er nu, kan arrangementer til målgruppen 6-16 år formidles på GO ved at lave en linkboks, som henviser til arrangementet på hovedsitet. Tilmelding til arrangementer vil oftest kræve assistance fra en voksen.
+
 - **Reservering af fysiske bøger** 
 
    På GOs hjemmeside vises de fysiske bøger fra bibliotekets kommunale beholdning i søgningen. Dette er for at synliggøre over for børnene, at bogen også kan lånes i fysisk form på det lokale bibliotek. Som det er nu, kan bogen ikke reserveres på GO-hjemmesiden. Dette er et udviklingsønske, som vil blive implementeret, når der er ressourcer til det.  
