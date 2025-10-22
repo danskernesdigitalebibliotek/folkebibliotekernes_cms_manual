@@ -216,7 +216,7 @@ var store = [{
         "teaser": null
       },{
         "title": "GO - Børnenes bibliotek",
-        "excerpt":"Denne side samler de seneste vejledninger og informationer om det nye GO. GO går nu fra at være et nationalt site til at få hver sin hjemmeside tilknyttet til Folkebibliotekernes eksisterende hjemmesider. OBS: Den fulde lancering af GO er snart klar - det vil sige, at I allerede nu vil...","categories": [],
+        "excerpt":"Denne side samler de seneste vejledninger og informationer om det nye GO. GO går nu fra at være et nationalt site til at få hver sin hjemmeside tilknyttet til Folkebibliotekernes eksisterende hjemmesider. OBS: Indhold fra GO-sitet optræder i jeres almindelige backend. Slet endelig ikke dette indhold. Vejledninger Konfiguration af UNI-login:...","categories": [],
         "tags": [],
         "url": "/main/go/",
         "teaser": null
