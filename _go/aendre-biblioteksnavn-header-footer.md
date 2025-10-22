@@ -4,7 +4,7 @@ category: GO
 weight: 10
 ---
 
-Du kan ændre det biblioteksnavn, der fremgår af jeres nye GO-sites header og footer. Eksempelvis:
+Du kan ændre det biblioteksnavn, der fremgår af jeres GO-sites header og footer. Eksempelvis:
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/3df9db61-f845-42a1-b44f-f4a915e3433f" alt="Header" %} 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/0247a23b-4dec-40f7-b212-8052d9c08b32" alt="Footer" %}
 
