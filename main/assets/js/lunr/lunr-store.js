@@ -240,7 +240,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Sådan opretter du en Kategoriside på GO",
-        "excerpt":"Indholdstypen ‘GO Category’ bruges til at oprette en landingpage for en specifik kategori. Når en kategoriside oprettes/opdateres og publiceres, vil kategorien automatisk blive tilføjet forrest i kategoribåndet, der er placeret i den øverste del af den nye GO hjemmeside. Vi anbefaler, at I laver en kategoriside kaldet ‘Mit bibliotek’, hvis...","categories": ["GO"],
+        "excerpt":"Indholdstypen ‘GO Category’ bruges til at oprette en landingpage for en specifik kategori. De sider, der ligger i toppen (gys, kærlighed osv.) er alle kategorisider. Når en kategoriside oprettes/opdateres og publiceres, vil kategorien automatisk blive tilføjet forrest i kategoribåndet, der er placeret i den øverste del af den nye GO...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/opret-kategoriside/",
         "teaser": null
