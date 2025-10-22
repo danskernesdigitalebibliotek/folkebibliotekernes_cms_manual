@@ -4,14 +4,14 @@ category: GO
 weight: 9
 ---
 
-Som med alle andre digitale produkter, Det Digitale Folkebibliotek leverer, er GO-hjemmesiden et produkt, der vil blive videreudviklet og udbygget løbende. Her kan du læse om allerede definerede ønsker til videreudvikling. 
+Som med alle andre digitale produkter, Det Digitale Folkebibliotek leverer, er GO-hjemmesiden et produkt, der bliver videreudviklet og udbygget. Her kan du læse om allerede definerede ønsker til videreudvikling. 
 
 Har du selv ønsker til ny funktionalitet i GO, kan disse meldes ind i [servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4), som du kender det fra FB CMS generelt.  
 
  
 
 #### Reservering af fysiske bøger
-På GOs hjemmeside vises de fysiske bøger fra bibliotekets kommunale beholdning i søgningen. Dette er for at synliggøre over for børnene, at bogen også kan lånes i fysisk form på det lokale bibliotek. Som det er nu, kan bogen ikke reserveres på GO-hjemmesiden. Dette er et udviklingsønske, som vil blive implementeret, når der er ressourcer til det.  
+På GOs hjemmeside vises de fysiske bøger fra bibliotekets kommunale beholdning i søgningen. Dette er for at synliggøre over for børnene, at bogen også kan lånes i fysisk form på det lokale bibliotek. Som det er nu, kan bogen ikke reserveres på GO-hjemmesiden. Dette er et udviklingsønske, som er øverst prioriteret og vil blive implementeret, så snart der er ressourcer til det.  
 
 Reservering af bøger er en omkostningstung funktion at udvikle, som kompliceres af, at der på GO både er mulighed for UNI-login og bibliotekslogin.  
 
@@ -46,3 +46,7 @@ Det er et ønske, at når man lander står på en titel og logger ind, skal man 
  
 #### Afgrænsning af materialer 
 Der er bestilt en opgave hos DBC ang. etablering af en kilde og en VIP-profil til brug på GO-sitet. Denne VIP-profil vil udelukkende indeholde relevante materialer til børnene (e-bøger, e-lydbøger, podcasts, e-tegneserier, e-graphic novels, fysiske bøger, fysiske tegneserier, fysiske graphic novels). Når denne er oprettet vil DDF kunne implementere ændringer i GO-sitet, som imødekommer en række af udfordringerne i redaktøroplevelsen. Pt. skal man som redaktør benytte en række materialeafgrænsninger i søgestrenge for at få korrekt visning af materialerne.
+
+
+#### Formidling i form af højformatvideo
+Vi ved, at korte videoer i højformat er det, børnene i overvejende grad forbruger på YouTube, TikTok og Snapchat. Det er derfor et ønske, at GO skal kunne understøtte højformatvideo med tilknyttede bøger (videobundle), da det er afgørende at følge med udviklingen, hvis vi ønsker at forblive relevante for målgruppen. 
