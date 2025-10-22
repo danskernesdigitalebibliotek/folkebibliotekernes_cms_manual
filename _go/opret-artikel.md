@@ -5,7 +5,9 @@ weight: 3
 ---
 Indholdstypen ‘GO Article’ gør det muligt at oprette artikler på GO, hvor der bl.a. kan formidles tekst kombineret med de andre GO paragraphs. Se mere om de forskellige Paragraphs [her](https://www.folkebibliotekernescms.dk/main/go/paragraphs-go/)
 
-Vær opmærksom på at nyoprettet indhold eller ændringer i indhold kan have en forsinkelse, fra du gemmer til det er synligt på sitet.
+Nb! Vær opmærksom på at nyoprettet indhold eller ændringer i indhold kan have en forsinkelse, fra du gemmer til det er synligt på sitet.
+
+Vi anbefaler, at indhold på GO henvender sig direkte til børn i mellemtrinsgruppen, da disse kan navigere og læse selv. Indhold til voksne eller små børn (gennem voksne) hører til på jeres almindelige hjemmeside.
 
 ## Sådan opretter du en artikel
 I topmenuen før musen henover **‘Indhold’** og Klik på **‘Tilføj indhold’** eller klik på **‘Indhold’** og derefter klik på **‘Tilføj indhold’** knappen i øverste højre hjørne: 
@@ -84,8 +86,9 @@ Hvis du ønsker, at artiklen skal have en anden forfatter-byline end dit navn �
 
  
 #### Teaser Card 
+Dette felt har betydning for præsentation i formidlingssøgning på jeres hjemmeside (ikke GO-sitet). Feltet er ikke obligatorisk. 
 - Teaser text og teaser image 
-  Teaser-felterne bruges til visningskortene (udtræk, der fungerer som appetizers for artiklen andre steder på sitet). Hvis der ikke er valgt et teaserbillede, vises teaserteksten på farvet baggrund i kort-udtrækkene. 
+  Teaser-felterne bruges til visningskortene (udtræk, der fungerer som appetizers for artiklen på jeres hovedsite). Hvis der ikke er valgt et teaserbillede, vises teaserteksten på farvet baggrund i kort-udtrækkene. 
  
 
 #### Alternativ URL 
