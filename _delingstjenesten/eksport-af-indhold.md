@@ -113,6 +113,8 @@ Når andre biblioteker importerer indholdet via abonnementsordningen, fastholdes
 
 ---
 
-### Brug for hjælp?
-- Oplever du fejl? Meld ind via **ServiceDesk → Folkebibliotekernes CMS → Indmeld fejl**
-- Spørgsmål til indhold? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
+<br><br>
+## Brug for hjælp?
+- Oplever du fejl, så meld ind via [**Servicedesk**](https://www.folkebibliotekernescms.dk/main/servicedesk/): *Folkebibliotekernes CMS → Indmeld fejl*
+- Har du ønsker til hvordan Delingstjenesten kan blive endnu bedre. Meld dine ønsker ind via [**Servicedesk**](https://www.folkebibliotekernescms.dk/main/servicedesk/): *Folkebibliotekernes CMS → Udviklingsønsker*
+- Spørgsmål til indhold, billeder eller rettigheder? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
