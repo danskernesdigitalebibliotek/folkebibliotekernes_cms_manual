@@ -32,7 +32,7 @@ Fejlen er rettet.
 
 ## Brug for hjælp?
 - Oplever du fejl, så meld ind via **ServiceDesk**: *Folkebibliotekernes CMS → Indmeld fejl*
-- Har du nogle ønsker til hvordan Delingstjenesten kan blive endnu bedre. Meld dine ønsker din via **ServiceDesk**: *Folkebibliotekernes CMS → Udviklingsønsker*
+- Har du ønsker til hvordan Delingstjenesten kan blive endnu bedre. Meld dine ønsker ind via **ServiceDesk**: *Folkebibliotekernes CMS → Udviklingsønsker*
 - Spørgsmål til indhold, billeder eller rettigheder? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
 
 
