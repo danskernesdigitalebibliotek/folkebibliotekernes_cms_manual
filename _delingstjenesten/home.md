@@ -12,9 +12,9 @@ Besøg Delingstjenestens hjemmeside: [Delingstjenesten - bibliotekernes national
 
 
 ## NYT: Fejl i abonnementer - sådan rydder du op
-Vi har oplevet fejl i abonnementlogikken som har haft konsekvens for at indhold på enkelte tags resulterer i overførsel af irrelevant eller forkert tagget indhold. 
-Fejlen er rettet.
-[Se her hvordan du kan rydde op i indholdet](https://www.folkebibliotekernescms.dk/main/delingstjenesten/eksport-af-indhold/)
+Vi har oplevet fejl i abonnementlogikken som har haft konsekvens for at indhold på enkelte tags resulterer i overførsel af irrelevant eller forkert tagget indhold.<br>
+Fejlen er rettet.<br>
+[Se her hvordan du kan rydde op i indholdet](https://www.folkebibliotekernescms.dk/main/delingstjenesten/abonnementlogik/)
 
 ---
 
@@ -27,6 +27,7 @@ Fejlen er rettet.
 - [Sådan sender du indhold til Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/eksport-af-indhold/)
   
 - [Sådan abonnerer du på indhold fra Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/abonnementsordning/)
+
 
 ## Brug for hjælp?
 - Oplever du fejl, så meld ind via **ServiceDesk**: *Folkebibliotekernes CMS → Indmeld fejl*
