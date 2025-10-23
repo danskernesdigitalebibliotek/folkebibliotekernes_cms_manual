@@ -60,7 +60,7 @@ Så bliver det rigtige og rensede indhold hentet ind igen.
 
 <br><br>
 
-## trin for trin eksempel for genoprettelse af Forfatterfokus
+## Trin for trin eksempel for genoprettelse af Forfatterfokus
 
 **1.** Gå til **Administrer abonnementer** og slet det pågældende abonnement.
 ![slet_abonnement](https://github.com/user-attachments/assets/e87acc57-0544-4889-90e4-e5f723191cbd)
