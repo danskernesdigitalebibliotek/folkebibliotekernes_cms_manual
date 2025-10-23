@@ -34,6 +34,7 @@ Når denne knap vises, er du logget korrekt ind. Du kan klikke på knappen for a
 
 ---
 
-### Brug for hjælp?
-- Oplever du fejl? Meld ind via **ServiceDesk → Folkebibliotekernes CMS → Indmeld fejl**
-- Spørgsmål til indhold? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
+## Brug for hjælp?
+- Oplever du fejl, så meld ind via **ServiceDesk**: *Folkebibliotekernes CMS → Indmeld fejl*
+- Har du ønsker til hvordan Delingstjenesten kan blive endnu bedre. Meld dine ønsker ind via **ServiceDesk**: *Folkebibliotekernes CMS → Udviklingsønsker*
+- Spørgsmål til indhold, billeder eller rettigheder? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
