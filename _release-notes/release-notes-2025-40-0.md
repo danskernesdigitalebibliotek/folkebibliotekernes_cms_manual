@@ -4,7 +4,7 @@ category: "Release Notes"
 weight: 325
 ---  
 
-# Fejl ved afspilning af lydbøger rettet
+# Fejl ved afspilning af lydbøger og abonnementer på Delingstjenesten rettet
 
 Releasedato: 02-10-2025
 
@@ -15,4 +15,5 @@ Releasedato: 02-10-2025
 ## Fejlrettelser
 
 - Lydbøger: Fejl rettet hvor der opstod periodisk fejl ved afspilning af lydbøger med fejlbeskeden "Der opstod en uventet fejl, prøv igen senere eller kontakt biblioteket".
-- Delingstjenesten: Fejl på abonnementlogikken rettet, hvor biblioteker modtog forkert indhold eller manglende indhold via abonnementer. Der er udarbejdet en vejledning til oprydning og genetablering af abonnementer: [Sådan rydder du op i abonnementer](https://www.folkebibliotekernescms.dk/main/delingstjenesten/abonnementlogik/)
+  
+- Delingstjenesten: Fejl i abonnementslogikken er rettet. Biblioteker modtog tidligere forkert eller manglende indhold via abonnementer. Der er udarbejdet en vejledning til oprydning og genetablering af abonnementer: [**Sådan rydder du op i abonnementer**](https://www.folkebibliotekernescms.dk/main/delingstjenesten/abonnementlogik/)
