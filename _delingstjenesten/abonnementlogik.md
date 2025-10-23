@@ -40,12 +40,15 @@ Det sikrer, at artiklen ikke kommer igen ved næste synkronisering.
 Er du i tvivl om, hvad der er kommet med ind - eller har du mistet indhold?
 
 **1.** Gå til **Administrer abonnementer** og slet det pågældende abonnement  
+
 **2.** Gå til **Indhold** og slet de artikler, der kom med via abonnementet (Du behøver ikke fjerne “Opdateringer fra Delingstjenesten” – det sker automatisk)
+
 **3.** Genopret abonnementet på samme tag eller kategori  
+
 **4. Vigtigt:** Fjern fluebenet i “Importer kun kommende nyt indhold”
    - Ellers henter du kun fremtidige artikler
 
-Så bliver det rigtige og rensede indhold hentet ind igen
+Så bliver det rigtige og rensede indhold hentet ind igen.
 
 **Vist med et eksempel for forfatterfokus-tagget**
 
