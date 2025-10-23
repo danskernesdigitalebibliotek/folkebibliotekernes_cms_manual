@@ -11,9 +11,10 @@ Det betyder, at du fremover **kun vil modtage det indhold fra Delingstjenesten, 
 
 **Men:** Fejlen har efterladt spor. Nogle biblioteker har derfor forkert indhold liggende, som er blevet hentet via abonnementer. Andre mangler indhold, der burde have været med.
 
-Vi anbefaler, at du tjekker dine abonnementer igennem - især de tre særlige ramte tags:
+Vi anbefaler, at du tjekker dine abonnementer igennem - især de fire særlige ramte tags:
 - Noget, der ligner  
-- Forfatterfokus  
+- Forfatterfokus
+- DR Romanprisen 2026
 - Aktuelt  
 <br><br>
 
