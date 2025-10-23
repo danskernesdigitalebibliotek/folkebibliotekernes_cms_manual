@@ -15,7 +15,7 @@ Vi anbefaler, at du tjekker dine abonnementer igennem - især de tre særlige ra
 - Noget, der ligner  
 - Forfatterfokus  
 - Aktuelt  
-
+<br><br>
 
 
 
@@ -39,7 +39,7 @@ Det sikrer, at artiklen ikke kommer igen ved næste synkronisering.
 
 
 
-
+<br><br>
 ## Start helt forfra med et abonnement
 
 Er du i tvivl om, hvad der er kommet med ind - eller har du mistet indhold?
@@ -58,7 +58,7 @@ Så bliver det rigtige og rensede indhold hentet ind igen.
 
 
 
-
+<br><br>
 
 ## Se eksempel for genoprettelse af tagget Forfatterfokus
 
@@ -93,6 +93,7 @@ Så bliver det rigtige og rensede indhold hentet ind igen.
 
 
 ---
+<br><br>
 
 ### Tip
 Hvis du bruger samme lokale tag som før (fx Forfatterfokus), vil det nye indhold automatisk vises i dine eksisterende visninger i:
@@ -100,7 +101,9 @@ Hvis du bruger samme lokale tag som før (fx Forfatterfokus), vil det nye indhol
 - Content Slider Automatic  
 
 ---
+<br><br>
 
 ## Brug for hjælp?
-- Oplever du fejl? Meld ind via **ServiceDesk → Folkebibliotekernes CMS → Indmeld fejl**
-- Spørgsmål til indhold? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
+- Oplever du fejl, så meld ind via [**Servicedesk**](https://www.folkebibliotekernescms.dk/main/servicedesk/): *Folkebibliotekernes CMS → Indmeld fejl*
+- Har du ønsker til hvordan Delingstjenesten kan blive endnu bedre. Meld dine ønsker ind via [**Servicedesk**](https://www.folkebibliotekernescms.dk/main/servicedesk/): *Folkebibliotekernes CMS → Udviklingsønsker*
+- Spørgsmål til indhold, billeder eller rettigheder? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
