@@ -28,7 +28,7 @@ Releasedato: 16-10-2025
 
 - Webmasterbiblioteker: Fejl rettet, hvor moduletestsitet viste et forkert formateret inputfelt i Asset Injector.
 
-- Delingstjenesten: Fejl rettet, hvor enkelte bibliotekers abonnementer på indhold via specifikke tags trak forkert indhold ind på sitet.
+- Delingstjenesten: Fejl i abonnementslogikken er rettet. Biblioteker modtog tidligere forkert eller manglende indhold via abonnementer. Der er udarbejdet en vejledning til oprydning og genetablering af abonnementer: [**Sådan rydder du op i abonnementer**](https://www.folkebibliotekernescms.dk/main/delingstjenesten/abonnementlogik/)
 
 - Login: Fejl rettet, hvor lånere ved login modtog fejlbeskeden “Der opstod en uventet fejl. Prøv igen senere eller kontakt biblioteket”.
 
