@@ -12,7 +12,6 @@ Nu er det blevet endnu nemmere at holde sin hjemmeside opdateret med nyt indhold
 Besøg Delingstjenestens hjemmeside: [Delingstjenesten - bibliotekernes nationale formidling](https://delingstjenesten.dk/)
 
 ---
-<br><br>
 
 ## NYT: Fejl i abonnementer - sådan rydder du op
 Vi har oplevet fejl i abonnementlogikken som har haft konsekvens for at indhold på enkelte tags resulterer i overførsel af irrelevant eller forkert tagget indhold.<br>
