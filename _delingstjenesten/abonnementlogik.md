@@ -26,10 +26,14 @@ Vi anbefaler, at du tjekker dine abonnementer igennem - især disse tre tags:
 Har du artikler, som fejlagtigt er kommet med ind i et abonnement?
 
 **Sådan gør du:**
+1. Gå ind på artiklen i redigeringsvisning
+   
+3. Fjern fluebenet ved “Hold indholdet opdateret fra Delingstjenesten”
+   ![3](https://github.com/user-attachments/assets/958b9505-1777-4adc-b451-7cd0214dc176)
 
-1. Gå ind på artiklen i redigeringsvisning  
-2. Fjern fluebenet ved “Hold indholdet opdateret fra Delingstjenesten”  
-3. Afpublicer eller slet artiklen - afhængigt af jeres lokale praksis  
+4. Afpublicer eller slet artiklen - afhængigt af jeres lokale praksis
+   ![afpublicer_slet](https://github.com/user-attachments/assets/c465030b-ef2a-425b-8315-9c9c32ba1d6a)
+
 
 Det sikrer, at artiklen ikke kommer igen ved næste synkronisering.
 
