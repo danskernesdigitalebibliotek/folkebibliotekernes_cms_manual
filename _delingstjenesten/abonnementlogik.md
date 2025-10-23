@@ -16,7 +16,7 @@ Vi anbefaler, at du tjekker dine abonnementer igennem - især de tre særlige ra
 - Forfatterfokus  
 - Aktuelt  
 
----
+
 
 
 ## Ryd op og ud i forkert indhold
@@ -36,6 +36,7 @@ Har du artikler, som fejlagtigt er kommet med ind i et abonnement?
    ![afpublicer_slet](https://github.com/user-attachments/assets/c465030b-ef2a-425b-8315-9c9c32ba1d6a)
 
 Det sikrer, at artiklen ikke kommer igen ved næste synkronisering.
+
 
 
 
