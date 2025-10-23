@@ -11,9 +11,8 @@ Nu er det blevet endnu nemmere at holde sin hjemmeside opdateret med nyt indhold
 
 Besøg Delingstjenestens hjemmeside: [Delingstjenesten - bibliotekernes nationale formidling](https://delingstjenesten.dk/)
 
-
 ---
-
+<br><br>
 
 ## NYT: Fejl i abonnementer - sådan rydder du op
 Vi har oplevet fejl i abonnementlogikken som har haft konsekvens for at indhold på enkelte tags resulterer i overførsel af irrelevant eller forkert tagget indhold.<br>
@@ -21,6 +20,7 @@ Vi har oplevet fejl i abonnementlogikken som har haft konsekvens for at indhold 
 Fejlen er rettet.
 
 ---
+<br><br>
 
 ## Vejledninger
 
@@ -32,14 +32,15 @@ Fejlen er rettet.
   
 - [Sådan abonnerer du på indhold fra Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/abonnementsordning/)
 
+<br><br>
 
 ## Brug for hjælp?
 - Oplever du fejl, så meld ind via **ServiceDesk**: *Folkebibliotekernes CMS → Indmeld fejl*
 - Har du ønsker til hvordan Delingstjenesten kan blive endnu bedre. Meld dine ønsker ind via **ServiceDesk**: *Folkebibliotekernes CMS → Udviklingsønsker*
 - Spørgsmål til indhold, billeder eller rettigheder? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
 
-
 ---
+<br><br>
 
 ## Det kan man med Delingstjenesten
 
@@ -58,4 +59,3 @@ Fejlen er rettet.
 - Sende artikler, grafik og videoer til Delingstjenesten for deling ud til landets biblioteker.
 
 Og når du logger ind på Delingstjenesten via backend på dit eget bibliotekssite, får du automatisk adgang som din institution – helt uden ekstra login.
-
