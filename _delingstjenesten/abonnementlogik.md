@@ -40,7 +40,7 @@ Det sikrer, at artiklen ikke kommer igen ved næste synkronisering.
 
 
 <br><br>
-## Start helt forfra med et abonnement
+## Genstart et abonnement
 
 Er du i tvivl om, hvad der er kommet med ind - eller har du mistet indhold?
 
@@ -60,7 +60,7 @@ Så bliver det rigtige og rensede indhold hentet ind igen.
 
 <br><br>
 
-## Se eksempel for genoprettelse af tagget Forfatterfokus
+## trin for trin eksempel for genoprettelse af Forfatterfokus
 
 **1.** Gå til **Administrer abonnementer** og slet det pågældende abonnement.
 ![slet_abonnement](https://github.com/user-attachments/assets/e87acc57-0544-4889-90e4-e5f723191cbd)
