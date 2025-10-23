@@ -70,8 +70,8 @@ Det er ikke nødvendigt at kreditere forfattere, når indholdet importeres til j
 
 <br><br>
 ## Brug for hjælp?
-- Oplever du fejl, så meld ind via [**Servicedesk**](https://www.folkebibliotekernescms.dk/main/servicedesk/): *Folkebibliotekernes CMS → Indmeld fejl*
-- Har du ønsker til hvordan Delingstjenesten kan blive endnu bedre. Meld dine ønsker ind via [**Servicedesk**](https://www.folkebibliotekernescms.dk/main/servicedesk/): *Folkebibliotekernes CMS → Udviklingsønsker*
+- Oplever du fejl, så meld ind via [**Servicedesk**](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals): *Folkebibliotekernes CMS → Indmeld fejl*
+- Har du ønsker til hvordan Delingstjenesten kan blive endnu bedre. Meld dine ønsker ind via [**Servicedesk**](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals): *Folkebibliotekernes CMS → Udviklingsønsker*
 - Spørgsmål til indhold, billeder eller rettigheder? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
 
 
