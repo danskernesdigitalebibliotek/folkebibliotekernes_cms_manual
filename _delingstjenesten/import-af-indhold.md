@@ -49,6 +49,7 @@ Indholdet ligger nu i dit CMS. Du kan:
 
 ---
 
+<br><br>
 ## Godt at vide
 
 **Grafikker og billeder**  
@@ -67,22 +68,24 @@ Det er ikke nødvendigt at kreditere forfattere, når indholdet importeres til j
 
 ---
 
-### Brug for hjælp?
-- Oplever du fejl, så meld ind via **ServiceDesk**: *Folkebibliotekernes CMS → Indmeld fejl*  
+<br><br>
+## Brug for hjælp?
+- Oplever du fejl, så meld ind via [**Servicedesk**](https://www.folkebibliotekernescms.dk/main/servicedesk/): *Folkebibliotekernes CMS → Indmeld fejl*
+- Har du ønsker til hvordan Delingstjenesten kan blive endnu bedre. Meld dine ønsker ind via [**Servicedesk**](https://www.folkebibliotekernescms.dk/main/servicedesk/): *Folkebibliotekernes CMS → Udviklingsønsker*
 - Spørgsmål til indhold, billeder eller rettigheder? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
 
 
 
 ---
+<br><br>
 
-
-### Hvilke paragraphs kan og kan ikke hentes?
+## Hvilke paragraphs kan og kan ikke hentes?
 
 Logikken i hent-funktionen er enkel: kun de paragraphs, der er understøttet, overføres fra Delingstjenesten til dit bibliotekssite. 
 Bibliotekernes Nationale Redaktion sørger for at det kun er de tilgængelige typer, som du får med over. 
 
 
-## Understøttede paragraphs som kan hentes:
+### Understøttede paragraphs som kan hentes:
 
 - Brødtekst  
 - Links  
@@ -104,7 +107,7 @@ Bibliotekernes Nationale Redaktion sørger for at det kun er de tilgængelige ty
 
 [Se vejledning for paragraph komponenterne på GO](https://www.folkebibliotekernescms.dk/main/go/paragraphs-go/)
 
-## Ikke-understøttede paragraphs som ikke kan hentes:
+### Ikke-understøttede paragraphs som ikke kan hentes:
 
 - Indholdsslider – automatic  
 - Arrangementsliste (alle varianter)  
