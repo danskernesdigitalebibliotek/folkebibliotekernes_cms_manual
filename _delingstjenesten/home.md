@@ -8,13 +8,12 @@ Nu er det blevet endnu nemmere at holde sin hjemmeside opdateret med nyt indhold
 
 [Overblik - Det kan man med Delingstjenesten](https://www.folkebibliotekernescms.dk/main/delingstjenesten/#det-kan-man-med-delingstjenesten)
 
-Besøg Delingstjenestens hjemmeside: [Delingstjenesten - bibliotekernes nationale formidling](https://delingstjenesten.dk/){:target="_blank"}.
+Besøg Delingstjenestens hjemmeside: [Delingstjenesten - bibliotekernes nationale formidling](https://delingstjenesten.dk/)
 
 
 ## NYT: Fejl i abonnementer - sådan rydder du op
 Vi har oplevet fejl i abonnementlogikken som har haft konsekvens for at indhold på enkelte tags resulterer i overførsel af irrelevant eller forkert tagget indhold.<br>
-Fejlen er rettet.<br>
-[Se her hvordan du kan rydde op i indholdet](https://www.folkebibliotekernescms.dk/main/delingstjenesten/abonnementlogik/)
+Fejlen er rettet. [Se her hvordan du kan rydde op i indholdet](https://www.folkebibliotekernescms.dk/main/delingstjenesten/abonnementlogik/)
 
 ---
 
