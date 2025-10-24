@@ -7,9 +7,9 @@ nav: "overblik"
 
 Har du en god idé til videreudvikling eller et ønske om en ny funktion i Folkebibliotekernes CMS, er her en vejledning til, hvordan du skal indberette dit ønske til os, samt information om den videre proces. 
 
-## Udviklingsønsker i efteråret 2025
+## Udviklingsønsker i foråret 2025
 
-[Læs om processen og prioriteringer for udviklingsønskerne i efteråret 2025](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/efteraar-2025) 
+[Læs om processen og prioriteringer for udviklingsønskerne i foråret 2025](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/foraar-2025) 
 {: .notice--info}
 
 ## Indmelding af ønsker
