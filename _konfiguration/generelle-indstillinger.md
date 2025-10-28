@@ -49,7 +49,7 @@ Her vælger I, om brugerne må slette en reservering, der er opfyldt. Som standa
 |Link til side om reserveringspause|URL til side om Pausefunktionen. Standardværdien er `/pausefunktion`|
 
 ## Link til side om 0-hits søgninger
-{% include figure class="fifty" image_path="[https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/4cc4467c-736d-4215-982b-7fa22e3c3067](https://github.com/user-attachments/assets/e3f8c263-31be-4149-8455-7a2c997ebfa6)" alt="Angiv her URL til side om 0-hits søgninger" caption="Angiv her URL til side om 0-hits søgninger" %} 
+{% include figure class="fifty" image_path="https://github.com/user-attachments/assets/e3f8c263-31be-4149-8455-7a2c997ebfa6" alt="Angiv her URL til side om 0-hits søgninger" caption="Angiv her URL til side om 0-hits søgninger" %} 
 
 **Din søgning har 0 resultater** er navnet på en [fast side](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/faste-sider/) som Folkebibliotekernes CMS leveres med.
 Ønsker I ikke at bruge pausefunktion-standardsiden, kan man her udfylde med URL til en alternativ side.
