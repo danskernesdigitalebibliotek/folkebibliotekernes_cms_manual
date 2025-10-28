@@ -72,8 +72,6 @@ Sådan ser hjælpebåndet ud i en søgning.
 
 {% include figure class="fifty" image_path="https://github.com/user-attachments/assets/f13422da-c72b-4653-8fc2-760acd22bed2" alt="Hjælpebåndet på en søgning" caption="Angiv her URL til side om 0-hits søgninger" %} 
 
-<img width="875" height="604" alt="Skærmbillede 2025-10-28 085816" src="https://github.com/user-attachments/assets/f13422da-c72b-4653-8fc2-760acd22bed2" />
-
 ## Advarsel om at udløbsdato nærmer sig
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c63dc258-09e6-4456-8791-e3444e7c74f6" alt="Advarsel om at udløbsdato nærmer sig" caption="Advarsel om at udløbsdato nærmer sig" %} 
 
