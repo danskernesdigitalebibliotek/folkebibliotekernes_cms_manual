@@ -61,6 +61,19 @@ Her vælger I, om brugerne må slette en reservering, der er opfyldt. Som standa
 ## Link til åbningstider
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/99ecacda-9899-4b3a-9728-06f4d1e0e79e" alt="Link til åbningstider" caption="Link til åbningstider" %} 
 
+## Søgning
+
+### Hjælpebånd i Simple Search
+Her kan I indstille et hjælpebånd, der dukker op når brugerne har trykket på Vis flere i en simple search. I kan indstille en overskrift, en tekst og en knaptekst og knaplink. Hvis overskrift eller tekst er blank, så fjernes båndet helt. Hvis kun knaptekst og knaplink er blank, så fjernes kun knappen.
+
+{% include figure class="fifty" image_path="https://github.com/user-attachments/assets/fb064b01-7e6a-48f6-863a-de79cebaf4e8" alt="Indstil hjælpebåndet" caption="Angiv her URL til side om 0-hits søgninger" %} 
+
+Sådan ser hjælpebåndet ud i en søgning.
+
+{% include figure class="fifty" image_path="https://github.com/user-attachments/assets/f13422da-c72b-4653-8fc2-760acd22bed2" alt="Hjælpebåndet på en søgning" caption="Angiv her URL til side om 0-hits søgninger" %} 
+
+<img width="875" height="604" alt="Skærmbillede 2025-10-28 085816" src="https://github.com/user-attachments/assets/f13422da-c72b-4653-8fc2-760acd22bed2" />
+
 ## Advarsel om at udløbsdato nærmer sig
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c63dc258-09e6-4456-8791-e3444e7c74f6" alt="Advarsel om at udløbsdato nærmer sig" caption="Advarsel om at udløbsdato nærmer sig" %} 
 
