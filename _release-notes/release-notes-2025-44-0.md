@@ -4,8 +4,6 @@ category: "Release Notes"
 weight: 319
 ---  
 
-# 
-
 Releasedato: 30-10-2025
 
 **Redaktør**: Produktionssites: 2025.44.0
