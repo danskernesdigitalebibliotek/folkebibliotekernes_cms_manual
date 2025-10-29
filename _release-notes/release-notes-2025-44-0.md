@@ -21,6 +21,6 @@ Releasedato: 30-10-2025
 
 ## Forbedringer og fejlrettelser
 
-- Fejl rettet hvor alle licenser med proxyopsætning fejler for lånere, der er logget ind. 
+- Fejl rettet hvor alle licenser med proxyopsætning fejler for lånere, der er logget ind. Der er fortsat problemer med proxyopsætning, når man er logget ind som webredaktør eller admin. Det arbejder vi videre med.
 
 - Materialegrids: Det er ikke længere et krav, at antallet af materialer i grid er delelig med 4. Tidligere har materialegrids kun kunnet vise 1, 2, 3, 4, 8, 12, 16, 20, 24, 28 eller 32 materialer. Grænsen for maksimalt antal materialer er stadig 32, men derudover er det frit hvor mange materialer, man indsætter.
