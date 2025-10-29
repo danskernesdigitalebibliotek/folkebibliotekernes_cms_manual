@@ -923,6 +923,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-42-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.44.0",
+        "excerpt":"# Releasedato: 30-10-2025 **Redaktør**: Produktionssites: 2025.44.0 **Webmaster**: Produktionssites: 2025.42.0, Moduletestsites: 2025.44.0 ## Nye features - Reservering: Det er nu muligt at skifte udgave i \"Godkend-reserverings-modalen\". Bl.a. betyder det for skønlitterære værker, at man kan vælge en anden udgave end den først tilgængelige. - Gentagne arrangementer: Via knap er det muligt...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-44-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],

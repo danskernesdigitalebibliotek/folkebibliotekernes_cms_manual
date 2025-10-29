@@ -10,19 +10,19 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Release Notes 2024.41.0 - Folkebibliotekernes CMS</title>
-<meta name="description" content="Feed til appen og flere forbedringer og fejlrettelser">
+<!-- begin _includes/seo.html --><title>Release Notes 2025.44.0 - Folkebibliotekernes CMS</title>
+<meta name="description" content="#">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Release Notes 2024.41.0">
-<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-41-0/">
+<meta property="og:title" content="Release Notes 2025.44.0">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-44-0/">
 
 
-  <meta property="og:description" content="Feed til appen og flere forbedringer og fejlrettelser">
+  <meta property="og:description" content="#">
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-41-0/">
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-44-0/">
 
 
 
@@ -173,7 +173,7 @@
     
       
       
-        <li class="current">Release Notes 2024.41.0</li>
+        <li class="current">Release Notes 2025.44.0</li>
       
     
   </ol>
@@ -228,7 +228,7 @@
 
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2025-44-0/">Release Notes 2025.44.0</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2025-44-0/" class="active">Release Notes 2025.44.0</a></li>
               
             
               
@@ -384,7 +384,7 @@
               
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2024-41-0/" class="active">Release Notes 2024.41.0</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2024-41-0/">Release Notes 2024.41.0</a></li>
               
             
               
@@ -488,8 +488,8 @@
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Release Notes 2024.41.0">
-    <meta itemprop="description" content="Feed til appen og flere forbedringer og fejlrettelser">
+    <meta itemprop="headline" content="Release Notes 2025.44.0">
+    <meta itemprop="description" content="#">
     <meta itemprop="datePublished" content="2025-10-29T13:04:00+00:00">
     
 
@@ -498,7 +498,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-41-0/" class="u-url" itemprop="url">Release Notes 2024.41.0
+            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-44-0/" class="u-url" itemprop="url">Release Notes 2025.44.0
 </a>
           </h1>
           
@@ -509,34 +509,28 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <h1 id="feed-til-appen-og-flere-forbedringer-og-fejlrettelser">Feed til appen og flere forbedringer og fejlrettelser</h1>
+        # 
 
-<p>Releasedato: 10-10-2024</p>
+Releasedato: 30-10-2025
 
-<p>Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Kun testsite opgraderes.</p>
+**Redaktør**: Produktionssites: 2025.44.0
 
-<h2 id="nye-features">Nye features</h2>
+**Webmaster**: Produktionssites: 2025.42.0, Moduletestsites: 2025.44.0 
 
-<ul>
-  <li>Arrangementsfeed og åbningstidsfeed udviklet specifikt til appen “Biblioteket”. Dette er kun implementeret i CMS’et, og mangler stadig konfiguration i appen. Redia kontakter jer med mere information.</li>
-</ul>
 
-<h2 id="fejlrettelser-og-forbedringer">Fejlrettelser og forbedringer</h2>
+## Nye features
 
-<ul>
-  <li>
-    <p>Listen over brugere (/admin/people), vil nu som standard kun vise redaktionelle brugere. Der vises ikke længere brugere med patronrollen (lånere) og brugere uden en rolle tildelt. Derudover er der tilføjet flere filtreringsværktøjer til listen.</p>
-  </li>
-  <li>
-    <p>Event-API: Ændring af dato på arrangement ændrer nu ikke længere på UUID (Universal Unique Identifier).</p>
-  </li>
-  <li>
-    <p>Straks-låns-notifikation: Nu et krav at man under /admin/config/dpl-library-agency/instant-loans angiver, hvilke materialegrupper der er ikke-reserverbare. I forbindelse med reservation af materiale med lang reservationskø gør “straks-låns-nofitifikationer” låneren opmærksom på evt. ikke-reserverbare udgaver af materialet, der er opstillet på biblioteket.</p>
-  </li>
-  <li>
-    <p>Paragraph “Enkel-linkliste”: Links kan nu åbne i nyt vindue, og standardindhold peger ikke længere på forkert node.</p>
-  </li>
-</ul>
+- Reservering: Det er nu muligt at skifte udgave i "Godkend-reserverings-modalen". Bl.a. betyder det for skønlitterære værker, at man kan vælge en anden udgave end den først tilgængelige.
+
+- Gentagne arrangementer: Via knap er det muligt at indsætte indhold fra serien på de enkelte instanser. Hvis du under redigering af en arrangementsinstans trykker på knappen 'Indsæt værdier fra serien', vil instansen blive udfyldt med det indhold, som er lavet på serien. Når indholdet er udfyldt, kan du tilrette det på denne instans alene uden at påvirke indholdet på de andre instanser i serien. Det kan fx være relevant, hvis du skal rette en dato eller noget i brødteksten. Når du har indsat indholdet på instansen, skal du være opmæsksom på at instansen ikke bliver rettet, når du retter i serien. Det kan ikke gøres om. 
+ 
+
+
+## Forbedringer og fejlrettelser
+
+- Fejl rettet hvor alle licenser med proxyopsætning fejler for lånere, der er logget ind. 
+
+- Materialegrids: Det er ikke længere et krav at antallet af materialer i grid er delelig med 4. Tidligere har materialegrids kun kunnet vise 1, 2, 3, 4, 8, 12, 16, 20, 24, 28 eller 32 materialer. Bibliotekerne kan nu sætte lige så mange materialer ind som de ønsker op til 32 materialer.
 
         
       </section>
