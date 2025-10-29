@@ -25,4 +25,4 @@ Releasedato: 30-10-2025
 
 - Fejl rettet hvor alle licenser med proxyopsætning fejler for lånere, der er logget ind. 
 
-- Materialegrids: Det er ikke længere et krav at antallet af materialer i grid er delelig med 4. Tidligere har materialegrids kun kunnet vise 1, 2, 3, 4, 8, 12, 16, 20, 24, 28 eller 32 materialer. Bibliotekerne kan nu sætte lige så mange materialer ind som de ønsker op til 32 materialer.
+- Materialegrids: Det er ikke længere et krav, at antallet af materialer i grid er delelig med 4. Tidligere har materialegrids kun kunnet vise 1, 2, 3, 4, 8, 12, 16, 20, 24, 28 eller 32 materialer. Grænsen for maksimalt antal materialer er stadig 32, men derudover er det frit hvor mange materialer, man indsætter.
