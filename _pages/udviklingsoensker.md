@@ -1,5 +1,5 @@
 ---
-permalink: /overblik/udviklingsoensker
+permalink: /overblik/udviklingsoensker/
 title:  "Indberetning af udviklingsønsker "
 sidebar: true
 nav: "overblik"
