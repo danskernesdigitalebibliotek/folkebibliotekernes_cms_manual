@@ -21,7 +21,7 @@ Vi afholder et webinar torsdag den 27. november kl. 9-10, hvor vi præsenterer d
 I kan prioritere emneområderne (samling af udviklingsønsker inden for et specifikt område af hjemmesiden) fra den 27. november til den 31. december. I vil i starten af 2026 få et roadmap med den kommende plan for udviklingen ud fra jeres prioriteter. 
 
 ## Hvad er der blevet udviklet siden sidste prioriteringsrunde? 
-Her kan du følge status på emneområderne fra sidste prioriteringsrunde. De sager som ikke er blevet udviklet i sidste runde kommer med i næste runde.
+[Her kan du følge status på emneområderne fra sidste prioriteringsrunde](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/foraar-2025#avanceret-s%C3%B8gning). De sager som ikke er blevet udviklet i sidste runde kommer med i næste runde.
 
 ### Hvorfor blev nogle sager ikke lavet?
 Hvert emneområde har været scopet ift. budgettet, og vi har sat ønsker til udvikling efter en prioritering og størrelsen af ønskerne. Det vil sige flere ønsker har vi vurderet som højt prioriteret, men da flere af dem var store opgaver, kunne de ikke laves i samme omgang. 
