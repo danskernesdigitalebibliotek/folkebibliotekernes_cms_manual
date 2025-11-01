@@ -1,5 +1,5 @@
 ---
-title: "Paragraph komponenterne på GO"
+title: "Paragraphs på GO"
 category: GO
 weight: 6
 ---
@@ -10,7 +10,7 @@ De komponenter, som du bygger dit indhold op af på sider, kategorisider og arti
 
 Klik på '**+ Add**' for at tilføje de paragraphs, som du ønsker, at din side eller formidlingselement skal bestå af. 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/1cadc8ad-7c55-413d-b5f8-9076d571957b" alt="Klik på '+ Add' for at tilføje paragraphs" %}
-Paragraphs kan tilføjes både over og under allerede indsatte paragraphs
+Paragraphs kan tilføjes både over og under allerede indsatte paragraphs.
 
 
 #### Sådan opretter du en GO Video paragraph 
@@ -20,7 +20,7 @@ Paragraphs kan tilføjes både over og under allerede indsatte paragraphs
 - Klik på ‘+Add’ under ‘Paragraphs’. En visning af de tilgængelige paragraffer vises nu. Vælg ‘GO Video’ og følgende vises:  
   {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/86111349-565c-4b90-a62f-d38b13089784" alt="Vælg 'GO Video' " %}
 
-- Giv din video en titel eller ‘Title’: Dette er titlen, der vises ovenover din video: 
+- Giv din video en titel eller ‘Titel’: Dette er titlen, der vises ovenover din video: 
   {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/f4232bc6-10ae-424e-b3d9-1d08ba907451" %}
 
 - Under ‘Embed video’ klikkes på ‘Add media’. Her kan du tilføje en video-URL fra VideoTool. Klik på ‘Add’ og videoen bliver tilføjet nede i Videobiblioteket.  
@@ -68,7 +68,7 @@ For at være sikker på, at sitet understøtter visning af de materialer, I læg
 - Klik på ‘Gem’, når du har sat din(e) video bundle(s) op.
 
 
-#### Sådan opretter du en GO Materialekarrusel paragraph
+#### Sådan opretter du en GO materialekarrusel paragraph
 
 Gå ind på/opret den side, kategoriside eller artikel, som du ønsker at tilføje en Materialekarrusel på. 
 
