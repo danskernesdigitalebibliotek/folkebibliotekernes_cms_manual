@@ -13,7 +13,7 @@ Skulle I være kommet til at slette abonnementet for jeres GO-site, kan det geno
 - Før musen henover ’Indhold’ og klik på ’Log ind i Delingstjenesten - du kommer nu over på delingstjenesten.dk
   {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/18305c2c-2655-4cd3-bde5-001b1304ecf7" %}
 
-- Oppe i browserens URL skal du indsætte følgende '*search/web/tag/go-formidling-til-boern*' efter '*delingstjenesten.dk*' så det kommer til at se sådan ud: *delingstjenesten.dk/search/web/tag/go-formidling-til-boern* Nu vises alt indholdet, der er oprettet for GO af BNR. 
+- Oppe i browserens URL skal du indsætte følgende '*search/web/tag/go-formidling-til-boern*' efter '*delingstjenesten.dk*' så det kommer til at se sådan ud: *delingstjenesten.dk/search/web/tag/go-formidling-til-boern* Nu vises alt indholdet, der er oprettet for GO af Bibliotekernes Nationale Redaktion. 
 - Nederst i højre hjørne vil du se en knap, hvor der står ’ABONNER PÅ ”GO: FORMIDLING TIL BØRN” PÅ DPL CMS’ – klik på knappen. 
 - Herefter kommer du til siden, hvor du skal bekræfte abonnementet. Siden ser ud som følger:
   {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/002ee506-1bae-43e7-9f77-a962ad55b91f" %}
@@ -35,7 +35,7 @@ De øvrige felter skal du ikke ændre på – så klik på ‘Gem’ og abonneme
 Ønsker du for en periode ikke at få opdateringer på GO-forsiden og på de kategorisider, som BNR er afsender på, så kan du sætte automatiske opdateringer på pause. 
 
 Du skal gøre følgende for at sætte automatisk opdateringer på pause: 
--	Klik eller ’Indhold’ for at få vist listen over indhold. Find frem til den/de sider (af typen: GO side eller GO kategori), som du vil pause eksempelvis for kategorisiden ’Gys’ og klik ’Edit’ eller ’Rediger’:
+-	Klik eller ’Indhold’ for at få vist listen over indhold. Find frem til den/de sider (af typen: GO side eller GO kategori), som du vil pause eksempelvis for kategorisiden ’Gys’ og klik ’Rediger’:
     {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/a6d81d29-788d-4715-b66a-3818dde110e9" %}
 
     Du skal nu slukke for knappen ved: ’Hold opdateret med Delingstjenesten’, så den er grå i stedet for grøn og klikke på ’Gem’
