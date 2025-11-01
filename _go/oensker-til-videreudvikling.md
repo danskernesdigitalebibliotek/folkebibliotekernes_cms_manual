@@ -4,14 +4,14 @@ category: GO
 weight: 9
 ---
 
-Som med alle andre digitale produkter, Det Digitale Folkebibliotek leverer, er GO-hjemmesiden et produkt, der bliver videreudviklet og udbygget. Her kan du læse om allerede definerede ønsker til videreudvikling. 
+Som med alle andre digitale produkter, Det Digitale Folkebibliotek leverer, er GO-sitet et produkt, der bliver videreudviklet og udbygget. Her kan du læse om allerede definerede ønsker til videreudvikling. 
 
-Har du selv ønsker til ny funktionalitet i GO, kan disse meldes ind i [servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4), som du kender det fra FB CMS generelt.  
+Har du selv ønsker til ny funktionalitet i GO, kan disse meldes ind i [servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4), som du kender det fra Folkebibliotekernes CMS generelt.  
 
  
 
 #### Reservering af fysiske bøger
-På GOs hjemmeside vises de fysiske bøger fra bibliotekets kommunale beholdning i søgningen. Dette er for at synliggøre over for børnene, at bogen også kan lånes i fysisk form på det lokale bibliotek. Som det er nu, kan bogen ikke reserveres på GO-hjemmesiden. Dette er et udviklingsønske, som er øverst prioriteret og vil blive implementeret, så snart der er ressourcer til det.  
+På GOs sitet vises de fysiske bøger fra bibliotekets kommunale beholdning i søgningen. Dette er for at synliggøre over for børnene, at bogen også kan lånes i fysisk form på det lokale bibliotek. Som det er nu, kan bogen ikke reserveres på GO-sitet. Dette er et udviklingsønske, som er øverst prioriteret og vil blive implementeret, så snart der er ressourcer til det.  
 
 Reservering af bøger er en omkostningstung funktion at udvikle, som kompliceres af, at der på GO både er mulighed for UNI-login og bibliotekslogin.  
 
