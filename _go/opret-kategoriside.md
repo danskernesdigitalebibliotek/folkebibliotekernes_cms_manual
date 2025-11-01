@@ -1,5 +1,5 @@
 ---
-title: "Sådan opretter du en Kategoriside på GO"
+title: "Sådan opretter du en kategoriside på GO"
 category: GO
 weight: 4
 ---
