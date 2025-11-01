@@ -9,9 +9,9 @@ Vi anbefaler, at I formidler GO-sitet via jeres hovedsite – eks. bibliotek.kk.
 I disse slides kan I se eksempler på, hvordan det kan gøres: 
 - [GO - eksempler på placering FB CMS.pdf](https://detdigitalefolkebibliotek.sharepoint.com/:b:/s/BibliotekernesNationaleRedaktion/EUppdEgewVRHpDMBauouPE4BWaOjQEcZUjfGuCqkwpqi5A?e=J7UiLw) 
 
-I delingstjenesten ligger to artikler, som kan bruges til at formidle GO generelt:
+I Delingstjenesten ligger to artikler, som kan bruges til at formidle GO generelt:
 - [GO – børnenes digitale bibliotek (NB! Husk at redigere link til lokalt GO, inden I publicerer)](https://delingstjenesten.dk/artikler/go-bornenes-digitale-bibliotek-nb-husk-redigere-link-til-lokalt-go-inden-i-publicerer)
 
-På dette link findes materialer til brug ifm. formidling af GO:
+På dette link findes materialer til brug til formidling af GO:
 - [eReolen GOs logoer og markedsføringsmateriale](https://delingstjenesten.dk/kampagner-pr/ereolen-gos-logoer-og-pr-materialer)
 
