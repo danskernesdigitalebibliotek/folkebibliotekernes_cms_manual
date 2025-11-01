@@ -1,5 +1,5 @@
 ---
-title: "Sådan opretter du en Artikel på GO"
+title: "Sådan opretter du en artikel på GO"
 category: GO
 weight: 3
 ---
@@ -10,7 +10,7 @@ OBS: Vær opmærksom på at nyoprettet indhold eller ændringer i indhold kan ha
 Vi anbefaler, at indhold på GO henvender sig direkte til børn i mellemtrinsgruppen, da disse kan navigere og læse selv. Indhold til voksne eller små børn (gennem voksne) hører til på jeres almindelige hjemmeside.
 
 ## Sådan opretter du en artikel
-I topmenuen før musen henover **‘Indhold’** og Klik på **‘Tilføj indhold’** eller klik på **‘Indhold’** og derefter klik på **‘Tilføj indhold’** knappen i øverste højre hjørne: 
+I topmenuen før musen henover **‘Indhold’** og Klik på **‘Tilføj indhold’**: 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/52f7aa56-c1fe-434c-89a7-1f1a1d2c644a" alt="Under 'Indhold' vælg 'Tilføj indhold" %}
 
 Klik på GO artikel:
