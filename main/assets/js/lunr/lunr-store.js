@@ -233,7 +233,7 @@ var store = [{
         "url": "/main/go/oensker-til-videreudvikling/",
         "teaser": null
       },{
-        "title": "Sådan opretter du en Artikel på GO",
+        "title": "Sådan opretter du en artikel på GO",
         "excerpt":"Indholdstypen ‘GO artikel’ gør det muligt at oprette artikler på GO, hvor der bl.a. kan formidles tekst kombineret med de andre GO paragraphs. Se mere om de forskellige paragraphs her OBS: Vær opmærksom på at nyoprettet indhold eller ændringer i indhold kan have en forsinkelse, fra du gemmer til det...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/opret-artikel/",
