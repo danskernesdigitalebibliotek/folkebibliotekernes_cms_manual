@@ -251,8 +251,8 @@ var store = [{
         "url": "/main/go/opret-kategoriside/",
         "teaser": null
       },{
-        "title": "Sådan opretter du en Side på GO",
-        "excerpt":"Indholdstypen ‘GO Page’ bruges til at oprette forsider og lignende samlende indgange til tilknyttet indhold på dit site eksempelvis en FAQ-side. Vær opmærksom på at nyoprettet indhold eller ændringer i indhold kan have en forsinkelse, fra du gemmer til det er synligt på sitet. Sådan opretter du en Side I...","categories": ["GO"],
+        "title": "Sådan opretter du en side på GO",
+        "excerpt":"Indholdstypen ‘GO side’ bruges til at oprette forsider og lignende samlende indgange til tilknyttet indhold på dit site eksempelvis en FAQ-side. Vær opmærksom på at nyoprettet indhold eller ændringer i indhold kan have en forsinkelse, fra du gemmer til det er synligt på sitet. Sådan opretter du en side I...","categories": ["GO"],
         "tags": [],
         "url": "/main/go/opret-side/",
         "teaser": null
