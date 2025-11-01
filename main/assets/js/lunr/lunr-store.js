@@ -222,7 +222,7 @@ var store = [{
         "teaser": null
       },{
         "title": "GO - Børnenes bibliotek",
-        "excerpt":"Denne side samler de seneste vejledninger og informationer om det nye GO. OBS: Indhold fra GO-sitet optræder i jeres almindelige backend. Slet endelig ikke dette indhold. Vejledninger Konfiguration af UNI-login: Konfiguration af Unilogin (OBS Opsættes uanset om Unilogin tilbydes i jeres kommune) Synliggørelse af GO-sitet på jeres hovedsite: Sådan synliggør...","categories": [],
+        "excerpt":"Denne side samler de seneste vejledninger og informationer om GO. OBS: Indhold fra GO-sitet optræder i jeres almindelige backend. Slet endelig ikke dette indhold. Vejledninger Konfiguration af UNI-login: Konfiguration af Unilogin (OBS Opsættes uanset om Unilogin tilbydes i jeres kommune) Synliggørelse af GO-sitet på jeres hovedsite: Sådan synliggør du GO...","categories": [],
         "tags": [],
         "url": "/main/go/",
         "teaser": null
