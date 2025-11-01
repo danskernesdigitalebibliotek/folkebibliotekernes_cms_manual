@@ -15,4 +15,3 @@ VIP-profilen er endnu ikke aktiv, da der skal laves nogle tilpasninger i koden f
 ### Lav ikke ændringer ###
 
 Vi anbefaler på det kraftigste, at man ikke laver ændringer i VIP-profilen, da GO-sitet er opsat til at vise netop ovenstående materialetyper og derfor ikke understøtter afspilning eller visning af andre materialetyper eller kilder. 
-
