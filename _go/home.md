@@ -6,7 +6,7 @@ permalink: /go/
 {% include figure class="ninety" image_path="https://github.com/user-attachments/assets/91802c87-1bcd-4712-ba1e-00c57e6ca989" %}
 
 
-Denne side samler de seneste vejledninger og informationer om det nye GO. 
+Denne side samler de seneste vejledninger og informationer om GO. 
 
 
 ## OBS:
@@ -21,7 +21,7 @@ Denne side samler de seneste vejledninger og informationer om det nye GO.
 #### Synliggørelse af GO-sitet på jeres hovedsite: 
 - [Sådan synliggør du GO på dit hovedsite](https://www.folkebibliotekernescms.dk/main/go/synliggoer-go-paa-hovedsite/)
 
-#### GOs Formidlingskomponenter:
+#### GOs formidlingsparagraphs:
 - [Sådan opretter du nyt indhold på GO](https://www.folkebibliotekernescms.dk/main/go/opret-indhold-for-go/)
 - [Abonnement på GO-indhold](https://www.folkebibliotekernescms.dk/main/go/abonnement-paa-go-indhold/)
 
