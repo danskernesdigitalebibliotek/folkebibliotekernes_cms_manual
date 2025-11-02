@@ -46,6 +46,7 @@ Du skal gøre følgende for at sætte automatisk opdateringer på pause:
  	
 <img width="688" height="278" alt="side_go" src="https://github.com/user-attachments/assets/3f98a2d4-82fa-43db-91dc-66624ecd93ff" />
 
+<br><br>
 
 Ønsker du at ophæve pausen tændes der for knappen igen og der klikkes på 'Gem'. Indholdet vil nu fremover bliver opdateret igen, når Bibliotekernes Nationale Redaktion næste gang laver ændringer til siden.
 
