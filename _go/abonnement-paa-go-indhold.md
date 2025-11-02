@@ -11,7 +11,8 @@ Vær opmærksom på, at jeres nye GO-site er født med det indhold, som Bibliote
 Skulle I være kommet til at slette abonnementet for jeres GO-site, kan det genoprettes således: 
 - Log ind i jeres backend for jeres hovedsite
 - Før musen henover ’Indhold’ og klik på ’Log ind i Delingstjenesten - du kommer nu over på delingstjenesten.dk
-  {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/18305c2c-2655-4cd3-bde5-001b1304ecf7" %}
+ <img width="1375" height="608" alt="slet side" src="https://github.com/user-attachments/assets/67989345-e8f2-4c33-8532-348ed75a8094" />
+
 
 - Oppe i browserens URL skal du indsætte følgende '*search/web/tag/go-formidling-til-boern*' efter '*delingstjenesten.dk*' så det kommer til at se sådan ud: *delingstjenesten.dk/search/web/tag/go-formidling-til-boern* Nu vises alt indholdet, der er oprettet for GO af Bibliotekernes Nationale Redaktion. 
 - Nederst i højre hjørne vil du se en knap, hvor der står ’ABONNER PÅ ”GO: FORMIDLING TIL BØRN” PÅ DPL CMS’ – klik på knappen. 
@@ -24,7 +25,8 @@ De øvrige felter skal du ikke ændre på – så klik på ‘Gem’ og abonneme
   **Vær opmærksom på, at når du abonnerer på GOs forside og kategorisider, så vil det indhold du evt. selv har lavet blive overskrevet på de sider, der vedligeholdes af Bibliotekernes Nationale Redaktion. Det gælder ikke for dine egne oprettede kategorisider, de overskrives ikke.** 
 
 - Når abonnementet er loadet ind i backenden vil en oversigt over jeres abonnementer blive vist:
-  {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/c8aca8e8-d0b5-494f-9067-e93104f4676b" %}
+ <img width="907" height="239" alt="abonnement" src="https://github.com/user-attachments/assets/29f4428d-7094-4ae0-9d1b-61968a3838ea" />
+
   Her kan du redigere eller slette abonnementerne igen.
 
   Der kan gå op til en time, fra abonnementet er oprettet til, at du kan se alt indholdet på jeres GO-site eksempelvis www.go.bibliotek.kk.dk
