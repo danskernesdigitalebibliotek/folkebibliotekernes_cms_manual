@@ -38,16 +38,16 @@ De øvrige felter skal du ikke ændre på – så klik på ‘Gem’ og abonneme
 
 Du skal gøre følgende for at sætte automatisk opdateringer på pause: 
 -	Klik eller ’Indhold’ for at få vist listen over indhold. Find frem til den/de sider (af typen: GO side eller GO kategori), som du vil pause:
--	
+
 <img width="1304" height="390" alt="Indholdsoversigt" src="https://github.com/user-attachments/assets/c5f5f69e-f4d9-4da0-9313-8cc1666b73f6" />
 
 
-    Du skal nu slukke for knappen ved: ’Hold opdateret med Delingstjenesten’, så den er grå i stedet for grøn og klikke på ’Gem’:
+-	Du skal nu slukke for knappen ved: ’Hold opdateret med Delingstjenesten’, så den er grå i stedet for grøn og klikke på ’Gem’:
  	
 <img width="688" height="278" alt="side_go" src="https://github.com/user-attachments/assets/3f98a2d4-82fa-43db-91dc-66624ecd93ff" />
 
 
-    Ønsker du at ophæve pausen tændes der for knappen igen og der klikkes på 'Gem'. Indholdet vil nu fremover bliver opdateret igen, når Bibliotekernes Nationale Redaktion næste gang laver ændringer til siden.
+Ønsker du at ophæve pausen tændes der for knappen igen og der klikkes på 'Gem'. Indholdet vil nu fremover bliver opdateret igen, når Bibliotekernes Nationale Redaktion næste gang laver ændringer til siden.
 
 
 
