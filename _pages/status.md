@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## Servicevindue tirsdag den 18. november efter kl. 22
+Vi afholder servicevindue på FB CMS på tirsdag den 18. november efter kl. 22. Vores driftsleverandør har planlagt et servicevindue for at kunne opdatere Kubernetes. Til dét skal vi genstarte databasen. Opdateringen kan medføre nedetid på tværs af alle sites i 20-30 minutter.
+
 ## 14/10-25 Problemer med login via UniLogin
 Følg status på [STILs dritside](https://driftsinfo.stil.dk/incidents/13641)
 
