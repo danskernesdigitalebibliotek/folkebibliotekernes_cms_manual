@@ -15,7 +15,7 @@ Vi vil nu lukke de emneområder ned som fik under 3% stemmer ved sidste priorite
 I kan melde nye udviklingsønsker ind inden den 24. oktober, så de kan komme med i den kommende prioriteringsrunde. Husk inden I opretter nye udviklingsønsker at tjekke om ønskerne allerede er meldt ind samt vurderer hvor stort behovet er for udvikling. På den måde sikre vi at ressourcerne til udvikling af hjemmesideløsningen bliver brugt bedst muligt. 
 
 ### Webinar om processen
-Vi afholder et webinar torsdag den 15. januar kl. 9-10, hvor vi præsenterer de aktuelle emneområder og sætter gang i prioriteringsperioden ude på landets biblioteker. Muligheden for tilmelding til webinaret kommer ud til jer i nærmeste fremtid. 
+Vi afholder et webinar torsdag den 15. januar kl. 9-10, hvor vi præsenterer de aktuelle emneområder og sætter gang i prioriteringsperioden ude på landets biblioteker. I kan tilmelde jer webinar her: [Tilmelding til webiar](https://www.detdigitalefolkebibliotek.dk/nyheder/webinar-om-udviklingsnsker-p-folkebibliotekernes-cmsnbsp)
 
 ### Prioritering af ønsker
 I kan prioritere emneområderne (samling af udviklingsønsker inden for et specifikt område af hjemmesiden) fra den 15. januar til den 6. februar. I vil i starten af 2026 få et roadmap med den kommende plan for udviklingen ud fra jeres prioriteter. 
