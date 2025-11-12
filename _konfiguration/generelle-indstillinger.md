@@ -73,7 +73,7 @@ Sådan ser hjælpebåndet ud i en søgning.
 {% include figure class="fifty" image_path="https://github.com/user-attachments/assets/f13422da-c72b-4653-8fc2-760acd22bed2" alt="Hjælpebåndet på en søgning" caption="Angiv her URL til side om 0-hits søgninger" %} 
 
 ## Find på hylden
-Vælg om *Find på hylden* skal vises sammenfoldet eller udfoldet. Som default vises den sammanfoldet.
+Vælg om *Find på hylden* skal vises sammenfoldet eller udfoldet. Som default vises den sammenfoldet.
 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/066fef57-389c-4766-b3f1-34aef3db605c" alt="Find på hylden sammenfoldet" caption="Find på hylden sammenfoldet" %} 
 
