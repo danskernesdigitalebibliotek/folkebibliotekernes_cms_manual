@@ -149,12 +149,16 @@ Det gælder også for arrangementer, som er enkeltstående og ikke indgår i en 
 
 Selve arrangementets indhold ligger i masteren. 
 
-Klikker du ind på den enkelte instans i back-end’en (altså et af arrangementerne i serien), så fremstår den tom, fordi den trækker indholdet fra masteren. 
-
 Ændrer du indholdet i masteren, slår det igennem i alle instanserne i serien. Det er altså nemt at redigere alle arrangementer i en serie hurtigt ved at rette i masteren (serie-visningen).
 
-Hvis du kun vil ændre indholdet i én eller nogle af instanserne i serien, skal du klikke ind på den eller de instanser, som du vil rette. I første omgang vil de fremstå med tomme indholdsfelter. Her skal du fylde indhold i disse felter.
+Klikker du ind på den enkelte instans i back-end’en (altså et af arrangementerne i serien), så fremstår den tom, fordi den trækker indholdet fra masteren. 
 
+Hvis du kun vil ændre indholdet i én eller nogle af instanserne i serien, skal du klikke ind på den eller de instanser, som du vil rette. I første omgang vil de fremstå med tomme indholdsfelter. Her skal du fylde indhold i disse felter. 
+
+Det kan være irriterende at felterne er tomme, da du ofte ønsker at tage udgangspunkt i masterens indhold. Du kan trække indeholdet fra masteren ind i instanserne via fanebladet *Indsæt værdier fra arrangementsserier*.
+{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/4e14eb2f-b890-44c0-a75f-0d1ccd6c8a39" alt="Kopier indhold fra masteren ind på instanserne via Indsæt værdier fra arrangementsserier" %} 
+
+#### Enkeltstående arrangementer har også en master og en instans
 Ved enkeltstående arrangementer har man på samme måde en serie-visning (master) og en instans-visning. Her kan det virke ulogisk med denne to-delte struktur - altså at der også er en serie-visning - eftersom der kun er tale om ét arrangement, ikke en serie. 
 
 Alligevel vil man ved enkeltstående arrangementer også som udgangspunkt blive bedt af systemet om at lave indholdsændringer i masteren - ikke i instansen.
