@@ -155,7 +155,7 @@ Klikker du ind på den enkelte instans i back-end’en (altså et af arrangement
 
 Hvis du kun vil ændre indholdet i én eller nogle af instanserne i serien, skal du klikke ind på den eller de instanser, som du vil rette. I første omgang vil de fremstå med tomme indholdsfelter. Her skal du fylde indhold i disse felter. 
 
-Det kan være irriterende at felterne er tomme, da du ofte ønsker at tage udgangspunkt i masterens indhold. Du kan trække indeholdet fra masteren ind i instanserne via fanebladet *Indsæt værdier fra arrangementsserier*.
+Det kan være irriterende at felterne er tomme, hvis man ønsker at tage udgangspunkt i masterens indhold. Du kan trække indeholdet fra masteren ind i instanserne via fanebladet *Indsæt værdier fra arrangementsserier*.
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/4e14eb2f-b890-44c0-a75f-0d1ccd6c8a39" alt="Kopier indhold fra masteren ind på instanserne via Indsæt værdier fra arrangementsserier" %} 
 
 #### Enkeltstående arrangementer har også en master og en instans
