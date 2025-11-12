@@ -930,7 +930,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2025.46.0",
-        "excerpt":"Releasedato: 12-11-2025 Redaktør: Produktionssites: 2025.46.0 Webmaster: Produktionssites: 2025.44.0, Moduletestsites: 2025.46.0 Ny udvikling Title-tag og SEO på værkvisningssiden CMS-181 Find på hylden: Mulighed for at fravælge visning af de eksemplarer, som pt. er udlånt CMS-1376 Bemærk Dette kræver en indstillling under /admin/config/dpl-library-agency/general-settings Afholdelsesbibliotek på instanser i stakvisning af enkeltstående arrangementer med...","categories": ["Release Notes"],
+        "excerpt":"Releasedato: 13-11-2025 Redaktør: Produktionssites: 2025.46.0 Webmaster: Produktionssites: 2025.44.0, Moduletestsites: 2025.46.0 Ny udvikling Title-tag og SEO på værkvisningssiden CMS-181 Find på hylden: Mulighed for at fravælge visning af de eksemplarer, som pt. er udlånt CMS-1376 Bemærk Dette kræver en indstillling under /admin/config/dpl-library-agency/general-settings Afholdelsesbibliotek på instanser i stakvisning af enkeltstående arrangementer med...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2025-46-0/",
         "teaser": null
