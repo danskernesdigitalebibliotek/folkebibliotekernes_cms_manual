@@ -72,6 +72,15 @@ Sådan ser hjælpebåndet ud i en søgning.
 
 {% include figure class="fifty" image_path="https://github.com/user-attachments/assets/f13422da-c72b-4653-8fc2-760acd22bed2" alt="Hjælpebåndet på en søgning" caption="Angiv her URL til side om 0-hits søgninger" %} 
 
+## Find på hylden
+Vælg om *Find på hylden* skal vises sammenfoldet eller udfoldet. Som default vises den sammanfoldet.
+
+Her er *Find på hylden* sammenfoldet:
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/066fef57-389c-4766-b3f1-34aef3db605c" alt="Find på hylden sammenfoldet" caption="Find på hylden sammenfoldet" %} 
+
+Her er *Find på hylden* udfoldet:
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/7fd84333-05b8-4bb9-a835-f597f9d45a31" alt="Find på hylden sammenfoldet" caption="Find på hylden sammenfoldet" %} 
+
 ## Advarsel om at udløbsdato nærmer sig
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c63dc258-09e6-4456-8791-e3444e7c74f6" alt="Advarsel om at udløbsdato nærmer sig" caption="Advarsel om at udløbsdato nærmer sig" %} 
 
