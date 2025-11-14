@@ -26,3 +26,4 @@ Releasedato: 13-11-2025
 
 - Åbningstider: Fejl rettet hvor sletning og rettelse af åbningstider ofte gav “failed to remove opening hours” [CMS-1664](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1664)
 - Indsættelse af tags i backend ved fx artikler og arrangementer er gået i stykker med release 2025.38.1. Dette er nu rettet: [CMS-1715](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1715)
+- Proxy-url indsætter regulært udtryk, når man er logget ind som redaktionel bruger: [CMS-622](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-622)
