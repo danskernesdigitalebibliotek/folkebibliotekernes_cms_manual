@@ -11,7 +11,7 @@ Eller åbn via URL (udskift mit-domænenavn.dk):\
 ## Om Mapp Intelligence
 Webstatistik indgår også som en del af den hjemmesidepakke, Det Digitale Folkebibliotek tilbyder. Vi benytter det statistikværktøj, der hedder Mapp. Mapps danske leverandør hedder KPI Index.
 
-Alle spørgsmål om Mapp sendes til [cms-info@fddf.dk(mailto:cms-info@fddf.dk). Også hvis I har forlist jeres password til Mapp.
+Alle spørgsmål om Mapp sendes til [kontakt@detdigitalefolkebibliotek.dk](mailto:kontakt@detdigitalefolkebibliotek.dk). Også hvis I har forlist jeres password til Mapp.
 {: .notice--info}
 
 For at data fra hjemmesiden sendes til Mapp skal to felter være rigtig udfyldt – **Domæne** og **Tag Integration ID**.
