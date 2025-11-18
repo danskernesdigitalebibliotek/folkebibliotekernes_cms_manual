@@ -15,7 +15,7 @@ Releasedato: 13-11-2025
 
 - Title-tag og SEO på værkvisningssiden [CMS-181](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-181)
 - Find på hylden: Mulighed for at fravælge visning af de eksemplarer, som pt. er udlånt [CMS-1376](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1376) **Bemærk** Dette kræver en indstillling under /admin/config/dpl-library-agency/general-settings
-- Afholdelsesbibliotek på instanser i stakvisning af enkeltstående arrangementer med flere datoer [CMS-1086](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1086)
+- Afholdelsesbibliotek på instanser i stakvisning af enkeltstående arrangementer med flere datoer [CMS-1086](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1086) **Bemærk** Med denne sag er der desværre indtruffet en fejl, hvor samlesiderne artikler og biblioteker også bruger den nye oversigtsvisning til arrangementer [CMS-1786](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1786)
 - Arrangementer: Forbedret arrangementsoversigt på mobil [CMS-1006](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1006)
 - Status på arrangementer også i arrangementsoversigten fx aflyst [CMS-938](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-938)
 - Automatiserede test af proxy-url'er, så vi hurtigere kan finde eventuelle proxy-fejl.
