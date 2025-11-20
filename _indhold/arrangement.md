@@ -105,15 +105,15 @@ Her kan du tilføje et billede, som vises øverst på selve dit arrangement.
 
 ### Status
 Obligatorisk felt. Dit arrangements tilstand, fx udsolgt eller aflyst, angiver du via dropdown’en. 
-Som udgangspunkt er feltet altid sat til Active.
+Som default er feltet sat til til Aktiv.
 
-{% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d77b689a-d4a9-44f2-bef0-0556aba9dee7" alt="State er obligatorisk felt" caption="State er et obligatorisk felt" %} 
+{% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d77b689a-d4a9-44f2-bef0-0556aba9dee7" alt="Status er obligatorisk felt" caption="Status er et obligatorisk felt" %} 
 
-Andre State-valgmuligheder er:
-- Ticket sale not open
-- Sold out
-- Canceled
-- Occurred
+Andre Status-valgmuligheder er:
+- Billetsalget er ikke åbnet
+- Udsolgt
+- Aflyst
+- Er afholdt
 
 ### Teasertekst og teaserbillede
 Teaser-felterne er det indhold, som trækkes ud i visningskort (udtræk, der fungerer som appetizers for artiklen andre steder på sitet). 
