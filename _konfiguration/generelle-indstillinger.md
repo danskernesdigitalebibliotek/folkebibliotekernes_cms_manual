@@ -84,9 +84,10 @@ Vælg om *Find på hylden* skal vises sammenfoldet eller udfoldet. Som default v
 ### Skjul udlånte eksemplarer
 Vælg om beholdningslinjer med 0 tilgængelige eksemplarer skal skjules fra "Find på hylden"-modalen.
 
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/325b3811-6abb-4967-8bd5-33018637d537" alt="Her vises beholdningslinjer med 0 tilgængelige eksemplarer" caption="Her vises beholdningslinjer med 0 tilgængelige eksemplarer" %} 
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/325b3811-6abb-4967-8bd5-33018637d537" alt="Vis beholdningslinjer med 0 tilgængelige eksemplarer" caption="Her vises beholdningslinjer med 0 tilgængelige eksemplarer" %} 
 
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/325b3811-6abb-4967-8bd5-33018637d537" alt="Her skjules beholdningslinjer med 0 tilgængelige eksemplarer" caption="Her vises beholdningslinjer med 0 tilgængelige eksemplarer" %} 
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/b28d82fc-c16e-4c24-9ff7-9b4aa5251d1e" alt="Skjul beholdningslinjer med 0 tilgængelige eksemplarer" caption="Her vises beholdningslinjer med 0 tilgængelige eksemplarer" %} 
+
 
 ## Advarsel om at udløbsdato nærmer sig
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/c63dc258-09e6-4456-8791-e3444e7c74f6" alt="Advarsel om at udløbsdato nærmer sig" caption="Advarsel om at udløbsdato nærmer sig" %} 
