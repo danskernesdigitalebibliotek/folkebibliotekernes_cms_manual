@@ -22,7 +22,7 @@ Oplysningerne, som du skal sætte ind får du ved at henvende sig til [kontakt@d
 
 Det nederste felt skal udfyldes med jeres kommunekode (tallet). Find den på listen herunder.
 
-{% include figure class="fifty" image_path="https://github.com/user-attachments/assets/f249504f-b964-4913-a7a8-586191f8c00f" alt="Bemærk at det kun er tallet, der skal indsættes, ikke kommunenavnet." caption="Bemærk at det kun er tallet, der skal indsættes, ikke kommunenavnet." %}
+{% include figure class="fifty" image_path="https://github.com/user-attachments/assets/f249504f-b964-4913-a7a8-586191f8c00f" alt="Find jeres kommunekode i listen. Bemærk at det kun er tallet, der skal indsættes, ikke kommunenavnet. Her er et eksempel med Sønderborgs kommunekode." caption="Find jeres kommunekode i listen. Bemærk at det kun er tallet, der skal indsættes, ikke kommunenavnet. Her er et eksempel med Sønderborgs kommunekode." %}
 
 Husk at gemme, når du har sat det op.
 
