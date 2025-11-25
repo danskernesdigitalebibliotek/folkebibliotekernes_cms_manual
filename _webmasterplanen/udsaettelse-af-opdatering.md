@@ -4,7 +4,7 @@ category: "Driftsforhold"
 weight: 3
 ---
 
-Et webmasterbibliotek kan udsætte opdateringen af et produktionsmiljø i op til fire uger (ved normal releasecyklus vil det svare til fire releases af Folkebibliotekernes CMS). Udsættelse kan f.eks. være relevant, hvis et egenudviklet modul ikke længere fungerer med
+Et webmasterbibliotek kan udsætte opdateringen af et produktionsmiljø i op til fire uger (ved normal releasecyklus vil det svare til to releases af Folkebibliotekernes CMS). Udsættelse kan f.eks. være relevant, hvis et egenudviklet modul ikke længere fungerer med
 Folkebibliotekernes CMS, og der er brug for tid til at tilpasse løsningen.
 
 For at udsætte en opdatering skal du oprette en sag i [Servicedesk](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals). Skriv hvilket site, det drejer sig om, og hvor længe I ønsker opgraderingen udskudt. Opret sagen senest onsdag morgen i den uge, du ønsker udsættelsen.
