@@ -11,5 +11,5 @@ For at udsætte en opdatering skal du oprette en sag i [Servicedesk](https://det
 
 ## Eksempler på håndteringer i forbindelse med udsættelser
 Følgende eksempel viser hvordan opdateringen af et produktionsmiljø håndteres for et bibliotek, som ønsker at udsætte opgradering af produktionsmiljøet en uge. I det hypotetiske scenarie vælger Herning Bibliotekerne at udsætte opgraderingen af produktionsmiljøet, som
-efter den faste opgraderingscyklus håndteres torsdag i uge 44 (dvs. sitet er planlagt opgraderet til release 2024.43.0). Herning Bibliotekerne udsætter opgraderingen en enkelt release. Det betyder at Herning Bibliotekernes produktionsmiljø i uge 45 opgraderes til
+efter den faste opgraderingscyklus håndteres torsdag i uge 44 (dvs. sitet er planlagt opgraderet til release 2024.42.0). Herning Bibliotekerne udsætter opgraderingen en enkelt release. Det betyder at Herning Bibliotekernes produktionsmiljø i uge 46 opgraderes til
 release 2024.44.0.
