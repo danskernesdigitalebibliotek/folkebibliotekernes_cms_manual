@@ -4,6 +4,10 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 25/11-25 Ustabil drift på Nemlog-in
+Der kan forekomme problemer med login og oprettelse med MitID
+DIGST melder om fejl her: [Ustabilitet på NemLog-in](https://www.digitaliser.dk/nemlog-in/nyt-fra-nemlog-in-og-mitid-erhverv/2025/nov/driftsforstyrrelser-nemlog-in)
+
 ## Servicevindue tirsdag den 18. november efter kl. 22
 Vi afholder servicevindue på FB CMS på tirsdag den 18. november efter kl. 22. Vores driftsleverandør har planlagt et servicevindue for at kunne opdatere Kubernetes. Til dét skal vi genstarte databasen. Opdateringen kan medføre nedetid på tværs af alle sites i 20-30 minutter.
 
