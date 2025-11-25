@@ -5,7 +5,8 @@ sidebar: true
 nav: "overblik"
 ---
 ## 25/11-25 Ustabil drift på Nemlog-in
-Der kan forekomme problemer med login og oprettelse med MitID
+Der kan forekomme problemer med login og oprettelse med MitID.
+
 DIGST melder om fejl her: [Ustabilitet på NemLog-in](https://www.digitaliser.dk/nemlog-in/nyt-fra-nemlog-in-og-mitid-erhverv/2025/nov/driftsforstyrrelser-nemlog-in)
 
 ## Servicevindue tirsdag den 18. november efter kl. 22
