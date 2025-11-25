@@ -1242,7 +1242,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Udsættelse af opdatering af produktionsmiljø",
-        "excerpt":"Et webmasterbibliotek kan udsætte opdateringen af et produktionsmiljø i op til fire uger (ved normal releasecyklus vil det svare til fire releases af Folkebibliotekernes CMS). Udsættelse kan f.eks. være relevant, hvis et egenudviklet modul ikke længere fungerer med Folkebibliotekernes CMS, og der er brug for tid til at tilpasse løsningen....","categories": ["Driftsforhold"],
+        "excerpt":"Et webmasterbibliotek kan udsætte opdateringen af et produktionsmiljø i op til fire uger (ved normal releasecyklus vil det svare til to releases af Folkebibliotekernes CMS). Udsættelse kan f.eks. være relevant, hvis et egenudviklet modul ikke længere fungerer med Folkebibliotekernes CMS, og der er brug for tid til at tilpasse løsningen....","categories": ["Driftsforhold"],
         "tags": [],
         "url": "/main/webmasterplanen/udsaettelse-af-opdatering/",
         "teaser": null
