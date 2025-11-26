@@ -58,6 +58,30 @@ Her vælger I, om brugerne må slette en reservering, der er opfyldt. Som standa
 |---|---|
 |Link til side om 0-hits søgninger|URL til side om 0-hits landingsside. Standardværdien er `/din-sogning-har-0-resultater`|
 
+
+## Find nærmeste bibliotek ved brugeroprettelse 
+Med release 2025.48.1 er det nu muligt at aktivere funktionen “Find nærmeste bibliotek” i forbindelse med oprettelse af nye brugere. Funktionen gør det lettere for nyoprettede brugere at vælge det nærmeste bibliotek via en søgbar dropdown-menu på “Opret bruger”-siden.
+
+- Funktionen kan aktiveres under /admin/config/dpl-library-agency/general-settings ved at slå 'Find nærmeste bibliotek' til.
+- Nye felter på filialer: Agency branch ID: Bruges til at koble filialen til en FBS branch (kun nødvendigt, hvis funktionen aktiveres).
+- Nyt adressefelt med søgning: Det nye adressefelt skal fremover bruges, da andre dele af hjemmesiden nu benytter dette felt.
+
+
+**Sådan administrerer biblioteket funktionen**
+1.	Gå til /admin/config/dpl-library-agency/general-settings
+2.	Opdater alle filialer med det nye adressefelt og (valgfrit) Agency branch ID.
+3.	Aktiver 'Find nærmeste bibliotek’, hvis funktionen ønskes brugt.
+4.	Kontrollér, at adresserne er korrekte og danske, hvis funktionen skal anvendes.
+5.	Efter aktivering vil brugere kunne vælge nærmeste bibliotek ved oprettelse.
+
+**Bemærk**
+- Funktionen kan kun anvendes af biblioteker med adresse i Danmark, da adresseopslag sker via DAWA, som kun understøtter danske adresser.
+- Alle biblioteker skal opdatere deres filialer med det nye adressefelt, uanset om funktionen aktiveres, da det gamle adressefelt udfases.
+- Hvis der indtastes en ikke-dansk adresse, kan systemet ikke beregne afstand, og adressen vises på én linje.
+- “Find nærmeste bibliotek” gælder kun ved brugeroprettelse – ikke ved valg af afhentningssted på brugerprofilen efterfølgende.
+- Det anbefales at migrere adresser til det nye adressefelt hurtigst muligt, da det bruges flere steder på hjemmesiden (fx arrangementer).
+
+
 ## Link til åbningstider
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/99ecacda-9899-4b3a-9728-06f4d1e0e79e" alt="Link til åbningstider" caption="Link til åbningstider" %} 
 
