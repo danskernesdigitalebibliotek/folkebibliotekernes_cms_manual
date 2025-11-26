@@ -30,7 +30,7 @@
 
 
 
-  <meta property="article:published_time" content="2025-11-25T14:30:23+00:00">
+  <meta property="article:published_time" content="2025-11-26T09:22:45+00:00">
 
 
 
@@ -292,7 +292,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Generelle indstillinger">
     <meta itemprop="description" content="I topmenuen klik på Indstillinger &gt; Biblioteksindstillinger &gt; Generelle indstillinger">
-    <meta itemprop="datePublished" content="2025-11-25T14:30:23+00:00">
+    <meta itemprop="datePublished" content="2025-11-26T09:22:45+00:00">
     
 
     <div class="page__inner-wrap">
@@ -403,6 +403,33 @@
     </tr>
   </tbody>
 </table>
+
+<h2 id="find-nærmeste-bibliotek-ved-brugeroprettelse">Find nærmeste bibliotek ved brugeroprettelse</h2>
+<p>Med release 2025.48.1 er det nu muligt at aktivere funktionen “Find nærmeste bibliotek” i forbindelse med oprettelse af nye brugere. Funktionen gør det lettere for nyoprettede brugere at vælge det nærmeste bibliotek via en søgbar dropdown-menu på “Opret bruger”-siden.</p>
+
+<ul>
+  <li>Funktionen kan aktiveres under /admin/config/dpl-library-agency/general-settings ved at slå ‘Find nærmeste bibliotek’ til.</li>
+  <li>Nye felter på filialer: Agency branch ID: Bruges til at koble filialen til en FBS branch (kun nødvendigt, hvis funktionen aktiveres).</li>
+  <li>Nyt adressefelt med søgning: Det nye adressefelt skal fremover bruges, da andre dele af hjemmesiden nu benytter dette felt.</li>
+</ul>
+
+<p><strong>Sådan administrerer biblioteket funktionen</strong></p>
+<ol>
+  <li>Gå til /admin/config/dpl-library-agency/general-settings</li>
+  <li>Opdater alle filialer med det nye adressefelt og (valgfrit) Agency branch ID.</li>
+  <li>Aktiver ‘Find nærmeste bibliotek’, hvis funktionen ønskes brugt.</li>
+  <li>Kontrollér, at adresserne er korrekte og danske, hvis funktionen skal anvendes.</li>
+  <li>Efter aktivering vil brugere kunne vælge nærmeste bibliotek ved oprettelse.</li>
+</ol>
+
+<p><strong>Bemærk</strong></p>
+<ul>
+  <li>Funktionen kan kun anvendes af biblioteker med adresse i Danmark, da adresseopslag sker via DAWA, som kun understøtter danske adresser.</li>
+  <li>Alle biblioteker skal opdatere deres filialer med det nye adressefelt, uanset om funktionen aktiveres, da det gamle adressefelt udfases.</li>
+  <li>Hvis der indtastes en ikke-dansk adresse, kan systemet ikke beregne afstand, og adressen vises på én linje.</li>
+  <li>“Find nærmeste bibliotek” gælder kun ved brugeroprettelse – ikke ved valg af afhentningssted på brugerprofilen efterfølgende.</li>
+  <li>Det anbefales at migrere adresser til det nye adressefelt hurtigst muligt, da det bruges flere steder på hjemmesiden (fx arrangementer).</li>
+</ul>
 
 <h2 id="link-til-åbningstider">Link til åbningstider</h2>
 <figure class="fifty"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/99ecacda-9899-4b3a-9728-06f4d1e0e79e" alt="Link til åbningstider" /><figcaption>
@@ -532,7 +559,7 @@ de pågældende filialer.</p>
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-11-25T14:30:23+00:00">November 25, 2025</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-11-26T09:22:45+00:00">November 26, 2025</time></p>
 
       </footer>
 
