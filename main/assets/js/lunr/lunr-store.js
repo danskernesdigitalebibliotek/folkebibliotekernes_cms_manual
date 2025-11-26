@@ -1248,7 +1248,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Udsættelse af opdatering af produktionsmiljø",
-        "excerpt":"Et webmasterbibliotek kan udsætte opdateringen af et produktionsmiljø i op til to gange. Udsættelse kan f.eks. være relevant, hvis et egenudviklet modul ikke længere fungerer med Folkebibliotekernes CMS, og der er brug for tid til at tilpasse løsningen. For at udsætte en opdatering skal du oprette en sag i Servicedesk....","categories": ["Driftsforhold"],
+        "excerpt":"Et webmasterbibliotek kan udsætte opdateringen af et produktionsmiljø op til to gange. Udsættelse kan f.eks. være relevant, hvis et egenudviklet modul ikke længere fungerer med Folkebibliotekernes CMS, og der er brug for tid til at tilpasse løsningen. For at udsætte en opdatering skal du oprette en sag i Servicedesk. Skriv...","categories": ["Driftsforhold"],
         "tags": [],
         "url": "/main/webmasterplanen/udsaettelse-af-opdatering/",
         "teaser": null
