@@ -935,6 +935,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-46-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.48.1",
+        "excerpt":"Releasedato: 27-11-2025 Redaktør: Produktionssites: 2025.48.1 Webmaster: Produktionssites: 2025.46.1, Moduletestsites: 2025.48.1 Ny udvikling Lånerindmeldelse (“Find nærmeste bibliotek”) Lånerindmeldelsesflowet har fået en ny funktion, hvor brugeren kan vælge det nærmeste bibliotek via en søgbar dropdown. Funktionen kan slås til/fra og kræver, at filialer er opdateret med nyt adressefelt. Læs mere i manualen:(https://www.folkebibliotekernescms.dk/main/konfiguration/generelle-indstillinger/#find-n%C3%A6rmeste-bibliotek-ved-brugeroprettelse)...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-48-1/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],

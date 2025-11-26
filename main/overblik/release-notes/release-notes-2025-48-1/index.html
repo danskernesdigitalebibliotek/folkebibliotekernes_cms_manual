@@ -10,19 +10,19 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Release Notes 2024.23.0 - Folkebibliotekernes CMS</title>
-<meta name="description" content="Mere brugervenligt dashboard, stylet loginside for redaktionelle brugere, avanceret funktionalitet til webforms og cookiebanner">
+<!-- begin _includes/seo.html --><title>Release Notes 2025.48.1 - Folkebibliotekernes CMS</title>
+<meta name="description" content="Releasedato: 27-11-2025">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Release Notes 2024.23.0">
-<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-23-0/">
+<meta property="og:title" content="Release Notes 2025.48.1">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-48-1/">
 
 
-  <meta property="og:description" content="Mere brugervenligt dashboard, stylet loginside for redaktionelle brugere, avanceret funktionalitet til webforms og cookiebanner">
+  <meta property="og:description" content="Releasedato: 27-11-2025">
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-23-0/">
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-48-1/">
 
 
 
@@ -173,7 +173,7 @@
     
       
       
-        <li class="current">Release Notes 2024.23.0</li>
+        <li class="current">Release Notes 2025.48.1</li>
       
     
   </ol>
@@ -228,7 +228,7 @@
 
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2025-48-1/">Release Notes 2025.48.1</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2025-48-1/" class="active">Release Notes 2025.48.1</a></li>
               
             
               
@@ -452,7 +452,7 @@
               
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2024-23-0/" class="active">Release Notes 2024.23.0</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2024-23-0/">Release Notes 2024.23.0</a></li>
               
             
               
@@ -496,8 +496,8 @@
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Release Notes 2024.23.0">
-    <meta itemprop="description" content="Mere brugervenligt dashboard, stylet loginside for redaktionelle brugere, avanceret funktionalitet til webforms og cookiebanner">
+    <meta itemprop="headline" content="Release Notes 2025.48.1">
+    <meta itemprop="description" content="Releasedato: 27-11-2025">
     <meta itemprop="datePublished" content="2025-11-26T09:51:15+00:00">
     
 
@@ -506,7 +506,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-23-0/" class="u-url" itemprop="url">Release Notes 2024.23.0
+            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-48-1/" class="u-url" itemprop="url">Release Notes 2025.48.1
 </a>
           </h1>
           
@@ -517,74 +517,41 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <h1 id="mere-brugervenligt-dashboard-stylet-loginside-for-redaktionelle-brugere-avanceret-funktionalitet-til-webforms-og-cookiebanner">Mere brugervenligt dashboard, stylet loginside for redaktionelle brugere, avanceret funktionalitet til webforms og cookiebanner</h1>
+        <p>Releasedato: 27-11-2025</p>
 
-<h2 id="nye-features">Nye features</h2>
+<p><strong>Redaktør</strong>: Produktionssites: 2025.48.1</p>
+
+<p><strong>Webmaster</strong>: Produktionssites: 2025.46.1, Moduletestsites: 2025.48.1</p>
+
+<p><strong>Ny udvikling</strong></p>
+
 <ul>
   <li>
-    <p>Overskredne lån: Henvisning og information om overskredne lån på ”Gebyr og erstatninger” user/me/fees.</p>
+    <p>Lånerindmeldelse (“Find nærmeste bibliotek”)
+Lånerindmeldelsesflowet har fået en ny funktion, hvor brugeren kan vælge det nærmeste bibliotek via en søgbar dropdown. Funktionen kan slås til/fra og kræver, at filialer er opdateret med nyt adressefelt. 
+Læs mere i manualen:(https://www.folkebibliotekernescms.dk/main/konfiguration/generelle-indstillinger/#find-n%C3%A6rmeste-bibliotek-ved-brugeroprettelse)<br />
+<em>Bemærk: Alle biblioteker skal tilpasse deres biblioteker til det nye adressefelt. “Find nærmeste bibliotek” virker kun ved brugeroprettelse, ikke ved valg af af-hentningssted på brugerprofilen bagefter.</em></p>
   </li>
   <li>
-    <p>Loginside for redaktionelle brugere: Nyt design på /user/login.</p>
+    <p>Arrangementsvisning layout skal optimeres: Arrangementsvisningen på mobil og desktop er blevet opdateret med et forbedret layout, så informationer som tid, sted og kategori præsenteres mere overskueligt og brugervenligt.
+<a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1007">CMS-1007</a> 
+<em>Bemærk: Der kommer flere rettelser til layoutet på arrangementer i en snarlig release, især omkring arrangementsinformationen.</em></p>
   </li>
   <li>
-    <p>Webforms: Nu muligt at tilføje en lang række nye felttyper bl.a. ”Hidden”, ”Number”, ”Telephone” og ”Date”.</p>
-  </li>
-  <li>
-    <p>Webforms: Nu muligt at tilføje conditions til felter, så f.eks. et felt vises på baggrund af brugerens tidligere valg.</p>
-  </li>
-  <li>
-    <p>Webforms: Nu muligt at styre hvor bekræftelsesbesked vises, f.eks. om det skal være på samme side som formularen eller på separat side.</p>
-  </li>
-  <li>
-    <p>Arrangementer: Nu muligt at angive andre start- og sluttidspunkter end :00 og :30.</p>
-  </li>
-  <li>
-    <p>Cookie Information: Cookiebanner installeret.</p>
+    <p>Nemmere adgang til avanceret søgning: Adgangen til avanceret søgning er gjort mere synlig og brugervenlig, så brugerne lettere kan finde og benytte avancerede søgefunktioner. I stedet for at man skal finde det ved en pil, er avanceret søgning blevet en knap ved siden af søgefeltet.
+<a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-960">CMS-960</a></p>
   </li>
 </ul>
 
-<h2 id="fejlrettelser-og-forbedringer">Fejlrettelser og forbedringer</h2>
-
+<p><strong>Forbedringer og fejlrettelser</strong></p>
 <ul>
   <li>
-    <p>Dashboard: /user/me/dashboard er justeret til efter input fra brugertest. Det er nu tydeligt hvad der er  overskrifter på siden og link til alle reservering og lån er tydeliggjort.</p>
+    <p>API-ændring og UX: Brug af “manifestationParts” skal udskiftes med brug af “contents” og oplysninger om konkret indhold skal vises på værkvisningssiden. Systemet bruger nu det nye “contents”-felt fra API’et i stedet for det udfasede “manifestationParts”, så oplysninger om konkret indhold (fx tracklister, novel-ler mv.) vises tydeligere på værkvisningssiden.
+<a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1618">CMS-1618</a></p>
   </li>
   <li>
-    <p>Arrangement: Brødtekstfelt er nu flyttet op under descriptionfeltet på arrangementer.</p>
-  </li>
-  <li>
-    <p>Arrangement: Manchet på arrangementer ser nu ud som manchetten på artikler.</p>
-  </li>
-  <li>
-    <p>Filialer: På /biblioteker vises der nu ikke billedkreditering på filialbilleder.</p>
-  </li>
-  <li>
-    <p>Paragraph ”Navigation Spot”: Nu vises billedtekster ikke på Navigation Spot.</p>
-  </li>
-  <li>
-    <p>Tilgængelighed: Størrelse af målområde for søgeikon er skiftet fra 20x20 til 24x24 som mindstekrav for at efterleve WCAG 2.2 2.5.8.</p>
-  </li>
-  <li>
-    <p>Tilgængelighed: Aria-label ”Åbn brugermenu” til login-ikon.</p>
-  </li>
-  <li>
-    <p>Tilgængelighed: Ved brug af tastaturnavigation: Efter man har slettet en søgerække under ”Avanceret søgning” sættes fokus aktivt.</p>
-  </li>
-  <li>
-    <p>Tilgængelighed: Flere elementer i gruppemodaler for lån havde tidligere samme ID. Alle ID’er er nu unikke.</p>
-  </li>
-  <li>
-    <p>Tilgængelighed: Dropdown med link til avanceret søgning formidler nu tilstand (at elementet kan foldes ud og at det er foldet ud) til skærmlæser.</p>
-  </li>
-  <li>
-    <p>Digitale lån vises ikke længere på listen over materialer, der snart skal fornys.</p>
-  </li>
-  <li>
-    <p>Digitale lån: Brugerprofilen user/me afspejler nu korrekt antal mulige digitale lån.</p>
-  </li>
-  <li>
-    <p>Webforms: Nu ikke muligt at ændre e-mailadresse under admin/config/system/site-information og afsendernavn i forbindelse med konfiguration af webforms. Hvis disse oplysninger ændres videresendes data ikke fra webforms.</p>
+    <p>Artikler, biblioteker og sider skal ikke bruge den nye oversigtsvisning til arrangementer: Den nye oversigtsvisning, der blev introduceret til arrangementer, vises nu kun for arrangementer og ikke længere for artikler, biblioteker og sider, hvor den tidligere havde overskrevet den generiske indholdsoversigt.
+<a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1786">CMS-1786</a></p>
   </li>
 </ul>
 
