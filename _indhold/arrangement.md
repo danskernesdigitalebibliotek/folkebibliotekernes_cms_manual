@@ -107,6 +107,15 @@ Her kan du tilføje et billede, som vises øverst på selve dit arrangement.
 Obligatorisk felt. Dit arrangements tilstand, fx udsolgt eller aflyst, angiver du via dropdown’en. 
 Som default er feltet sat til til Aktiv.
 
+Status vises på:
+- Billetknappen på arrangementssider
+- Arrangementsoversigten under /arrangementer
+
+Status vises IKKE på:
+ - Arrangementssider, når billetlink-feltet er tomt
+ - I paragraphs (Arrangementsliste og Arrangementsliste Automatisk)
+ - På tagsamlesider
+
 {% include figure class="fourty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/d77b689a-d4a9-44f2-bef0-0556aba9dee7" alt="Status er obligatorisk felt" caption="Status er et obligatorisk felt" %} 
 
 Andre Status-valgmuligheder er:
