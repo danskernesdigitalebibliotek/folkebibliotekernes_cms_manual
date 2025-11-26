@@ -15,7 +15,7 @@ Releasedato: 27-11-2025
 
 - Lånerindmeldelse ("Find nærmeste bibliotek")
 Lånerindmeldelsesflowet har fået en ny funktion, hvor brugeren kan vælge det nærmeste bibliotek via en søgbar dropdown. Funktionen kan slås til/fra og kræver, at filialer er opdateret med nyt adressefelt. 
-Læs mere i manualen:(https://www.folkebibliotekernescms.dk/main/konfiguration/generelle-indstillinger/#find-n%C3%A6rmeste-bibliotek-ved-brugeroprettelse)  
+Læs mere i manualen:[https://www.folkebibliotekernescms.dk/main/konfiguration/generelle-indstillinger/#find-n%C3%A6rmeste-bibliotek-ved-brugeroprettelse](https://www.folkebibliotekernescms.dk/main/konfiguration/generelle-indstillinger/#find-n%C3%A6rmeste-bibliotek-ved-brugeroprettelse) <br> 
 *Bemærk: Alle biblioteker skal tilpasse deres biblioteker til det nye adressefelt. "Find nærmeste bibliotek" virker kun ved brugeroprettelse, ikke ved valg af afhentningssted på brugerprofilen bagefter.*
 
 - Arrangementsvisning layout skal optimeres: Arrangementsvisningen på mobil og desktop er blevet opdateret med et forbedret layout, så informationer som tid, sted og kategori præsenteres mere overskueligt og brugervenligt.
