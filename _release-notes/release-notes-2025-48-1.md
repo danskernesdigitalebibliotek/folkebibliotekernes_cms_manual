@@ -29,9 +29,6 @@ Læs mere i manualen:[https://www.folkebibliotekernescms.dk/main/konfiguration/g
 
 ## Forbedringer og fejlrettelser
 
-- API-ændring og UX: Brug af "manifestationParts" skal udskiftes med brug af "contents" og oplysninger om konkret indhold skal vises på værkvisningssiden. Systemet bruger nu det nye "contents"-felt fra API’et i stedet for det udfasede "manifestationParts", så oplysninger om konkret indhold (fx tracklister, novel-ler mv.) vises tydeligere på værkvisningssiden.
-[CMS-1618](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1618)
-
 - Artikler, biblioteker og sider skal ikke bruge den nye oversigtsvisning til arrangementer: Den nye oversigtsvisning, der blev introduceret til arrangementer, vises nu kun for arrangementer og ikke længere for artikler, biblioteker og sider, hvor den tidligere havde overskrevet den generiske indholdsoversigt.
 [CMS-1786](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1786)
 
