@@ -68,11 +68,13 @@ Med release 2025.48.1 er det nu muligt at aktivere funktionen “Find nærmeste 
 
 
 **Sådan administrerer biblioteket funktionen**
-1.	Gå til /admin/config/dpl-library-agency/general-settings
-2.	Opdater alle filialer med det nye adressefelt og (valgfrit) Agency branch ID.
-3.	Aktiver 'Find nærmeste bibliotek’, hvis funktionen ønskes brugt.
-4.	Kontrollér, at adresserne er korrekte og danske, hvis funktionen skal anvendes.
-5.	Efter aktivering vil brugere kunne vælge nærmeste bibliotek ved oprettelse.
+1.	Gå til /biblioteker
+2.	Rediger hvert enkel biblioteksfilial
+3.	Opdater alle filialer med det nye adressefelt og (valgfrit) Agency branch ID: Rent praktisk kan man under Adresse lige slette et tegn i det nye adressefelt, hvis noget allerede er udfyldt, så søgningen "søger igen" og så klikke på det rigtige i de valgmuligheder der popper up. Det er vigtigt at man vælger den rigtige adresse i drop-down-menuen
+4.	Kontrollér, at adresserne er korrekte under /biblioteker (her skal adressen stå på to linjer for at være korrekt sat op)
+5. Gå til /admin/config/dpl-library-agency/general-settings
+6.	Aktiver 'Find nærmeste bibliotek’, hvis funktionen ønskes brugt.
+7.	Efter aktivering vil brugere kunne vælge nærmeste bibliotek ved oprettelse.
 
 **Bemærk**
 - Funktionen kan kun anvendes af biblioteker med adresse i Danmark, da adresseopslag sker via DAWA, som kun understøtter danske adresser.
