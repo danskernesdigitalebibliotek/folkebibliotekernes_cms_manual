@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 5/12-25 Sikkerhedshotfix implementeres i dag
+I dag kører vi et sikkerhedshotfix ud til jer 2025.48.2. Det burde ikke betyde nedetide på hjemmesiderne, men meld det gerne ind i Servicedesk, hvis I oplever noget i driften.
+
 ## 25/11-25 LØST Ustabil drift på Nemlog-in
 Der kan forekomme problemer med login og oprettelse med MitID.
 
