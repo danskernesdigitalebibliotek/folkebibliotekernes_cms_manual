@@ -19,7 +19,7 @@ Læs mere i manualen:[https://www.folkebibliotekernescms.dk/main/konfiguration/g
 *Bemærk: Alle biblioteker skal tilpasse deres biblioteker til det nye adressefelt. "Find nærmeste bibliotek" virker kun ved brugeroprettelse, ikke ved valg af afhentningssted på brugerprofilen bagefter.*
 
 - Arrangementsvisning layout skal optimeres: Arrangementsvisningen på mobil og desktop er blevet opdateret med et forbedret layout, så informationer som tid, sted og kategori præsenteres mere overskueligt og brugervenligt.
-[CMS-1007](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1007) <br>
+[CMS-1007](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1007) og [CMS-1471](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1471)<br>
 *Bemærk: Der kommer flere rettelser til layoutet på arrangementer i en snarlig release, især omkring arrangementsinformationen.*
 
 - Nemmere adgang til avanceret søgning: Adgangen til avanceret søgning er gjort mere synlig og brugervenlig, så brugerne lettere kan finde og benytte avancerede søgefunktioner. I stedet for at man skal finde det ved en pil, er avanceret søgning blevet en knap ved siden af søgefeltet.
