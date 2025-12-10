@@ -12,8 +12,7 @@ Releasedato: 11-12-2025
 
 ## Ny udvikling
 
-•	Ny Avanceret søgning
-Avanceret søgning har fået et designløft, hvor der bl.a. er kommet automatiske forslag i søgefelter og afgræsningsmuligheder. Der er lavet filtre efter endt søgning og indgangen til avanceret søgning er blevet gjort tydeligere. Læs mere på [manual-sitet](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/foraar-2025#avanceret-s%C3%B8gning) 
+•	Ny Avanceret søgning: Avanceret søgning har fået et designløft, hvor der bl.a. er kommet automatiske forslag i søgefelter og afgræsningsmuligheder. Der er lavet filtre efter endt søgning og indgangen til avanceret søgning er blevet gjort tydeligere. Læs mere på [manual-sitet](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/foraar-2025#avanceret-s%C3%B8gning) 
 Vær opmærksom på, at den nye avanceret søgning findes på url’en **/advancedsearch**. Den gamle avanceret søgning er på **/advanced-search**. Det har vi gjort for at linket i jeres indhold til CQL-søgninger ikke går i stykker, da CQL-søgningen også bygger på den gamle avanceret søgning-løsning.
 
 Men hvis I har linket direkte til **advanced-search** på sitet fx i hjælpebåndet i simple search – så bør I sørge for at få rettet linket til det nye, for ellers vil bru-gerne i mellemtiden støde på den gamle avanceret søgning.
