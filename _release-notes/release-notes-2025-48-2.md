@@ -1,8 +1,19 @@
 ---
-title:  "Release Notes 2025.48.1"
+title:  "Release Notes 2025.48.2"
 category: "Release Notes"
 weight: 317
 ---  
+
+Releasedato: 05-12-2025
+
+**Redaktør**: Produktionssites: 2025.48.2
+
+**Webmaster**: Produktionssites: 2025.46.2, Moduletestsites: 2025.48.2 
+
+
+## Hotfix med sikkerhedsopdatering
+
+---
 
 Releasedato: 27-11-2025
 
