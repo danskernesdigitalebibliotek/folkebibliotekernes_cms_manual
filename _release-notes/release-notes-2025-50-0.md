@@ -29,23 +29,18 @@ I 2026 kigger vi på at revidere og forbedre CQL-søgningen, så der skal vi und
 
 [CMS-1483](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1483)
 
-•	Webmasterbiblioteker - Mulighed for at tilføje CSS-klasser på noder og para-graffer: CMS’et har fået et nyt felt på indhold særligt for webmasterbibliotekerne, “Cus-tom CSS classes”, og tilfører nu automatisk klasse på noder og paragraffer baseret på type og unikt id, hvilket gør det lettere for webmastere at målrette asset injec-tions. [CMS-1734](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1734) 
+•	Webmasterbiblioteker - Mulighed for at tilføje CSS-klasser på noder og paragraffer: CMS’et har fået et nyt felt på indhold særligt for webmasterbibliotekerne, “Custom CSS classes”, og tilfører nu automatisk klasse på noder og paragraffer baseret på type og unikt id, hvilket gør det lettere for webmastere at målrette asset injections. [CMS-1734](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1734) 
 
 
   
 ## Forbedringer og fejlrettelser
 
-•	Autosuggest i Simple Search er forbedret: Autosuggest-funktionen i Simple Search er forbedret, så der nu søges på søge-termen med det valgte indeks (titel, emne, forfatter) og ikke kun fritekst. Dette sikrer mere præcise søgeresultater, når brugeren vælger et forslag fra autosuggest.
+•	Autosuggest i Simple Search er forbedret: Autosuggest-funktionen i Simple Search er forbedret, så der nu søges på søgetermen med det valgte indeks (titel, emne, forfatter) og ikke kun fritekst. Dette sikrer mere præcise søgeresultater, når brugeren vælger et forslag fra autosuggest.
 
-•	Frasesøgning i Simple Search er gjort muligt: Søgning med anførselstegn i simple search fører nu til en frasesøgning i simple se-arch i stedet for complex search. Det betyder, at det nu er muligt at søge eksakt i simple search. [CMS-1744](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1744) 
+•	Frasesøgning i Simple Search er gjort muligt: Søgning med anførselstegn i simple search fører nu til en frasesøgning i simple search i stedet for complex search. Det betyder, at det nu er muligt at søge eksakt i simple search. [CMS-1744](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1744) 
 
 •	Visning af antal materialer og reserveringer: Der vises nu tydeligt, hvor mange materialer der er tilgængelige sammen med antal reserveringer i kø på oversigten over ens reserveringer, så brugeren nemmere kan vurdere, hvornår et materiale vil være klar til lån. [CMS-1223](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1223) 
 
 •	Link fra lånerstatus (reserveringer) til værkvisningssiden: Link fra reserveringer i Dit overblik og ved klik på en reservering under Alle reserve-ringer linker til værkvisningen. Bemærk det er ikke implementeret under lån i Dit overblik og under lån under Alle lån – dét kommer i en senere release. [CMS-971](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-971) 
 
 •	Material grid – begrænsning af antal materialer: Material grid manual kan nu vise op til 100 materialer i stedet for 32, og feltet er ændret, så man manuelt indtaster det antal materialer, man vil vise. Det er ikke muligt at taste mere end 100.
-
-
-
-
-
