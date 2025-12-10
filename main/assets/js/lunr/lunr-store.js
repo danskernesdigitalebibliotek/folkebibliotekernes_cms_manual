@@ -941,6 +941,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-48-2/",
         "teaser": null
       },{
+        "title": "Release Notes 2025.50.0",
+        "excerpt":"Releasedato: 11-12-2025 Redaktør: Produktionssites: 2025.50.0 Webmaster: Produktionssites: 2025.48.2, Moduletestsites: 2025.50.0 Ny udvikling • Ny Avanceret søgning Avanceret søgning har fået et designløft, hvor der bl.a. er kommet automatiske forslag i søgefelter og afgræsningsmuligheder. Der er lavet filtre efter endt søgning og indgangen til avanceret søgning er blevet gjort tydeligere. Læs...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2025-50-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
