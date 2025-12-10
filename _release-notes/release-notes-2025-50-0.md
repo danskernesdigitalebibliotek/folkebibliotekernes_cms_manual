@@ -15,9 +15,9 @@ Releasedato: 11-12-2025
 •	Ny Avanceret søgning: Avanceret søgning har fået et designløft, hvor der bl.a. er kommet automatiske forslag i søgefelter og afgræsningsmuligheder. Der er lavet filtre efter endt søgning og indgangen til avanceret søgning er blevet gjort tydeligere. Læs mere på [manual-sitet](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/foraar-2025#avanceret-s%C3%B8gning) 
 Vær opmærksom på, at den nye avanceret søgning findes på url’en **/advancedsearch**. Den gamle avanceret søgning er på **/advanced-search**. Det har vi gjort for at linket i jeres indhold til CQL-søgninger ikke går i stykker, da CQL-søgningen også bygger på den gamle avanceret søgning-løsning.
 
-Men hvis I har linket direkte til **advanced-search** på sitet fx i hjælpebåndet i simple search – så bør I sørge for at få rettet linket til det nye, for ellers vil bru-gerne i mellemtiden støde på den gamle avanceret søgning.
+Men hvis I har linket direkte til **advanced-search** på sitet fx i hjælpebåndet i simple search – så bør I sørge for at få rettet linket til det nye, for ellers vil brugerne i mellemtiden støde på den gamle avanceret søgning.
 
-I 2026 kigger vi på at revidere og forbedre CQL-søgningen, så der skal vi un-dersøge nærmere, om revideringen kommer til at påvirke jeres indhold fx links til gemte søgninger. Det melder vi mere ud om i 2026.
+I 2026 kigger vi på at revidere og forbedre CQL-søgningen, så der skal vi undersøge nærmere, om revideringen kommer til at påvirke jeres indhold fx links til gemte søgninger. Det melder vi mere ud om i 2026.
 
 [CMS-1011]( https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1011) 
 
@@ -29,8 +29,7 @@ I 2026 kigger vi på at revidere og forbedre CQL-søgningen, så der skal vi un-
 
 [CMS-1483](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1483)
 
-•	Webmasterbiblioteker: Mulighed for at tilføje CSS-klasser på noder og para-graffer
-CMS’et har fået et nyt felt på indhold særligt for webmasterbibliotekerne, “Cus-tom CSS classes”, og tilfører nu automatisk klasse på noder og paragraffer baseret på type og unikt id, hvilket gør det lettere for webmastere at målrette asset injec-tions. [CMS-1734](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1734) 
+•	Webmasterbiblioteker - Mulighed for at tilføje CSS-klasser på noder og para-graffer: CMS’et har fået et nyt felt på indhold særligt for webmasterbibliotekerne, “Cus-tom CSS classes”, og tilfører nu automatisk klasse på noder og paragraffer baseret på type og unikt id, hvilket gør det lettere for webmastere at målrette asset injec-tions. [CMS-1734](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1734) 
 
 
   
