@@ -37,20 +37,15 @@ CMS’et har fået et nyt felt på indhold særligt for webmasterbibliotekerne, 
   
 ## Forbedringer og fejlrettelser
 
-•	Autosuggest i Simple Search er forbedret
-Autosuggest-funktionen i Simple Search er forbedret, så der nu søges på søge-termen med det valgte indeks (titel, emne, forfatter) og ikke kun fritekst. Dette sikrer mere præcise søgeresultater, når brugeren vælger et forslag fra autosuggest.
+•	Autosuggest i Simple Search er forbedret: Autosuggest-funktionen i Simple Search er forbedret, så der nu søges på søge-termen med det valgte indeks (titel, emne, forfatter) og ikke kun fritekst. Dette sikrer mere præcise søgeresultater, når brugeren vælger et forslag fra autosuggest.
 
-•	Frasesøgning i Simple Search er gjort muligt
-Søgning med anførselstegn i simple search fører nu til en frasesøgning i simple se-arch i stedet for complex search. Det betyder, at det nu er muligt at søge eksakt i simple search. [CMS-1744](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1744) 
+•	Frasesøgning i Simple Search er gjort muligt: Søgning med anførselstegn i simple search fører nu til en frasesøgning i simple se-arch i stedet for complex search. Det betyder, at det nu er muligt at søge eksakt i simple search. [CMS-1744](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1744) 
 
-•	Visning af antal materialer og reserveringer
-Der vises nu tydeligt, hvor mange materialer der er tilgængelige sammen med antal reserveringer i kø på oversigten over ens reserveringer, så brugeren nemmere kan vurdere, hvornår et materiale vil være klar til lån. [CMS-1223](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1223) 
+•	Visning af antal materialer og reserveringer: Der vises nu tydeligt, hvor mange materialer der er tilgængelige sammen med antal reserveringer i kø på oversigten over ens reserveringer, så brugeren nemmere kan vurdere, hvornår et materiale vil være klar til lån. [CMS-1223](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1223) 
 
-•	Link fra lånerstatus (reserveringer) til værkvisningssiden
-Link fra reserveringer i Dit overblik og ved klik på en reservering under Alle reserve-ringer linker til værkvisningen. Bemærk det er ikke implementeret under lån i Dit overblik og under lån under Alle lån – dét kommer i en senere release. [CMS-971](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-971) 
+•	Link fra lånerstatus (reserveringer) til værkvisningssiden: Link fra reserveringer i Dit overblik og ved klik på en reservering under Alle reserve-ringer linker til værkvisningen. Bemærk det er ikke implementeret under lån i Dit overblik og under lån under Alle lån – dét kommer i en senere release. [CMS-971](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-971) 
 
-•	Material grid – begrænsning af antal materialer
-Material grid manual kan nu vise op til 100 materialer i stedet for 32, og feltet er ændret, så man manuelt indtaster det antal materialer, man vil vise. Det er ikke muligt at taste mere end 100.
+•	Material grid – begrænsning af antal materialer: Material grid manual kan nu vise op til 100 materialer i stedet for 32, og feltet er ændret, så man manuelt indtaster det antal materialer, man vil vise. Det er ikke muligt at taste mere end 100.
 
 
 
