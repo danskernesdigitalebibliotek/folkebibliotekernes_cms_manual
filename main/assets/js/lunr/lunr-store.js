@@ -942,7 +942,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2025.50.0",
-        "excerpt":"Releasedato: 11-12-2025 Redaktør: Produktionssites: 2025.50.0 Webmaster: Produktionssites: 2025.48.2, Moduletestsites: 2025.50.0 Ny udvikling • Ny Avanceret søgning Avanceret søgning har fået et designløft, hvor der bl.a. er kommet automatiske forslag i søgefelter og afgræsningsmuligheder. Der er lavet filtre efter endt søgning og indgangen til avanceret søgning er blevet gjort tydeligere. Læs...","categories": ["Release Notes"],
+        "excerpt":"Releasedato: 11-12-2025 Redaktør: Produktionssites: 2025.50.0 Webmaster: Produktionssites: 2025.48.2, Moduletestsites: 2025.50.0 Ny udvikling • Ny Avanceret søgning: Avanceret søgning har fået et designløft, hvor der bl.a. er kommet automatiske forslag i søgefelter og afgræsningsmuligheder. Der er lavet filtre efter endt søgning og indgangen til avanceret søgning er blevet gjort tydeligere. Læs...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2025-50-0/",
         "teaser": null
