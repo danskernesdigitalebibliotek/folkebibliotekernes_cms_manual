@@ -935,10 +935,10 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-46-0/",
         "teaser": null
       },{
-        "title": "Release Notes 2025.48.1",
-        "excerpt":"Releasedato: 27-11-2025 Redaktør: Produktionssites: 2025.48.1 Webmaster: Produktionssites: 2025.46.1, Moduletestsites: 2025.48.1 Ny udvikling Lånerindmeldelse (“Find nærmeste bibliotek”) Lånerindmeldelsesflowet har fået en ny funktion, hvor brugeren kan vælge det nærmeste bibliotek via en søgbar dropdown. Funktionen kan slås til/fra og kræver, at filialer er opdateret med nyt adressefelt. Læs mere i manualen:https://www.folkebibliotekernescms.dk/main/konfiguration/generelle-indstillinger/#find-n%C3%A6rmeste-bibliotek-ved-brugeroprettelse...","categories": ["Release Notes"],
+        "title": "Release Notes 2025.48.2",
+        "excerpt":"Releasedato: 05-12-2025 Redaktør: Produktionssites: 2025.48.2 Webmaster: Produktionssites: 2025.46.2, Moduletestsites: 2025.48.2 Hotfix med sikkerhedsopdatering Releasedato: 27-11-2025 Redaktør: Produktionssites: 2025.48.1 Webmaster: Produktionssites: 2025.46.1, Moduletestsites: 2025.48.1 Ny udvikling Lånerindmeldelse (“Find nærmeste bibliotek”) Lånerindmeldelsesflowet har fået en ny funktion, hvor brugeren kan vælge det nærmeste bibliotek via en søgbar dropdown. Funktionen kan slås til/fra...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2025-48-1/",
+        "url": "/main/overblik/release-notes/release-notes-2025-48-2/",
         "teaser": null
       },{
         "title": "Release Notes 220324",
