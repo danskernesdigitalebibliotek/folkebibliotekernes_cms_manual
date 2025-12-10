@@ -293,39 +293,49 @@
 
 <h2 id="avanceret-søgning">Avanceret søgning</h2>
 
-<p>Til årets sidste release, er vi blevet færdige med at give avanceret søgning et kæmpe løft. Vores hovedformål har været at lave et værktøj, hvor det er tydeligt hvad man foretager sig, og hvor brugerne har de muligheder, som de skal bruge gennem hele søgningen.</p>
+<p>Til årets sidste release er vi blevet færdige med at give avanceret søgning et kæmpe løft. Vores hovedformål har været at lave et værktøj, hvor det er tydeligt, hvad man foretager sig, og hvor brugerne har de muligheder, som de skal bruge gennem hele søgningen.</p>
 
-<p>Den nye version af avanceret søgning er baseret på 1. de ønsker, som vi har fået ind, 2. bibliotek.dks løsning og 3. de snakke og input, som vi har haft med ansatte fra bibliotekerne.</p>
+<p>Den nye version af avanceret søgning er baseret på 1. de ønsker, som vi har fået ind fra bibliotekeren, 2. inspiration fra Bibliotek.dks løsning og 3. de snakke og input, som vi har haft med ansatte fra bibliotekerne i løbet af udviklingen.</p>
 
-<p>Vær opmærksom på at den nye avanceret søgning er på urlen /advancedsearch. Den gamle avanceret søgning er på /advanved-search. Det har vi gjort for at link i jeres indhold til søgning ikke går i stykker. I 2026 kigger vi på CQL-søgning, så der skal vi undersøge om det stadig påvirker jeres indhold. Det melder vi ud om i 2026.</p>
+<p>Vær opmærksom på, at den nye avanceret søgning findes på urlen /advancedsearch. Den gamle avanceret søgning er på /advanced-search. Det har vi gjort for, at link i jeres indhold til CQL-søgninger ikke går i stykker, da CQL-søgningen også bygger på den gamle avanceret søgning løsning.</p>
+
+<p>Men hvis I har linket direkte til /advanced-search på sitet – f.eks. i hjælpebåndet i simple search – så bør I sørge for at få rettet linket til det nye, for ellers vil brugerne i mellemtiden støde på den gamle avanceret søgning.</p>
+
+<p>I 2026 kigger vi på at revidere CQL-søgningen, så der skal vi undersøge nærmere, om revideringen kommer til at påvirke jeres indhold, f.eks. links til gemte søgninger. Det melder vi ud om i 2026.</p>
 
 <h3 id="kommer-inden-jul">Kommer inden jul</h3>
 
-<p>Inden jul har vi lavet det som er prioriteret i forhold til de ønsker, som bibliotekerne har meldt ind.</p>
-
 <h4 id="designløft">Designløft</h4>
 
-<p>Designet har fået et løft, hvor vi har strammet op. En af de store forbedringer vi har lavet, er at når man har lavet en søgning, så scroller siden ikke automatisk ned til resultaterne. I stedet har man en bjælke, hvor man hele tiden kan se sin søgning, og trykke på ‘Redigér søgning’.</p>
+<p>Designet har fået et løft, hvor vi har strammet op. En af de store forbedringer vi har lavet, er at når man har lavet en søgning, så scroller siden ikke automatisk ned til resultaterne. I stedet folder søgningen til sig sammen til en bjælke, hvor man hele tiden kan se sin søgning, og også trykke på ‘Redigér søgning’ for at tilpasse sin søgning. Eller trykke på ‘CQL-søgning’ for at importere sin søgning inkl. filtrering til CQL.</p>
 
 <h4 id="automatisk-forslag-i-søgefelter-og-afgræsningsmuligheder">Automatisk forslag i søgefelter og afgræsningsmuligheder</h4>
 
-<p>Nu skal brugerne ikke længere gætte inputmulighederne i søgefelter og afgrænsningsmulighederne. I stedet får de forslag fra brønden. Vi har lavet flere typer af inputmuligheder: autosuggest til fx titler og emner, lister til fx materialetype og kilde, intervaller til fx alder og udgivelsesår.</p>
+<p>Nu skal brugerne ikke længere gætte inputmulighederne i søgefelter og afgrænsningsmulighederne. I stedet får de forslag fra brønden. Vi har lavet flere typer af inputmuligheder: autosuggest til fx titler, serier og emner, lister til fx materialetype og kilde, intervaller til fx alder og udgivelsesår.</p>
 
 <h4 id="filtre-efter-endt-søgning">Filtre efter endt søgning</h4>
 
-<p>Vi har tilføjet filtrer i venstre side når man har lavet en søgning. Det er så man kan videreindsnævre sit resultat mod de ønskede materialer.</p>
+<p>Vi har tilføjet filtre i venstre side når man har lavet en søgning. Det er så man kan videreindsnævre sit resultat mod de ønskede materialer.</p>
+
+<p>Bortset fra “På hylden” og “Lån udenfor kvoten”, så er de forskellige filtre dynamiske, dvs. filtrene dukker kun op, hvis de giver mindst ét hit på søgningen.</p>
 
 <h4 id="nemmere-at-finde-avanceret-søgning">Nemmere at finde avanceret søgning</h4>
 
-<p>Vi har fjernet pilen ved siden af forstørrelsesglasset i headeren, og i stedet introduceret en knap, der ret tydeligt indikerer at man kan komme videre til avanceret søgning.</p>
+<p>Vi har på PC fjernet pilen ved siden af forstørrelsesglasset i headeren, og i stedet introduceret en knap, der ret tydeligt indikerer at man kan komme videre til avanceret søgning.</p>
 
 <h3 id="kommer-efter-nytår">Kommer efter nytår</h3>
 
 <p>Efter jul har vi flere ting, som vi gerne vil have lavet. Disse ting er ikke blevet prioriteret med i udviklingsønskerne, men er noget, som vi i Det Digitale Folkebibliotek prioriterer at få lavet med andre midler for at få løftet ikke bare avanceret søgning, men hele søgningen på hjemmesiderne.</p>
 
-<h4 id="filtre-efter-endt-søgning-i-simple-search">Filtre efter endt søgning i simple search</h4>
+<p>Endnu flere filtre efter endt søgning i complex search</p>
 
-<p>De filtre som vi introducerer på resultatsiden i avanceret søgning ønsker vi skal erstatte de facetbåndet og de eksisterende filtre.</p>
+<p>Vi planlægger med inspiration fra Bibliotek.dk at tilføje en række enten/eller-filtre, så man som bruger kan vælge skønlitteratur eller faglitteratur, børn eller voksne og online eller fysisk. (Pt. findes fysisk/online som et alm. filter, men det erstattes af enten/eller.)</p>
+
+<h4 id="filtre-efter-endt-søgning-også-i-simple-search">Filtre efter endt søgning også i simple search</h4>
+
+<p>De filtre, som vi introducerer på resultatsiden i avanceret søgning, ønsker vi skal erstatte det nuværende facetbånd og de eksisterende filtre, så filtrering på tværs af simple search og complex search bliver så ens som muligt.</p>
+
+<p>Det gør vi bl.a. på baggrund af brugerfeedback på Bibliotek.dk, som DBC har delt med os.</p>
 
 <h4 id="løft-til-cql-søgning">Løft til CQL-søgning</h4>
 
@@ -333,13 +343,17 @@
 
 <h4 id="andet">Andet</h4>
 
-<p>Når vi introducerer den nye avanceret søgning forventer vi en masse feedback til de søgefelter, afgrænsningsmuligheder og filtre, som vi har valgt. Vi ser ikke de valg vi har truffet, som værende lukket, så derfor skal I være velkomne til at skrive feedback og oprette nye sager.</p>
+<p>Når vi introducerer den nye avanceret søgning forventer vi en masse feedback til de søgefelter, afgrænsningsmuligheder og filtre, som vi har valgt. Vi ser ikke de valg vi har truffet som værende lukket, så derfor skal I være velkomne til at skrive feedback og oprette nye sager.</p>
+
+<p>Og vi taler også løbende med DBC omkring deres søgeværktøjer til Bibliotek.dk, så vi kan lade os inspirere af hinanden, samt forsøger at viderebringe til DBC de ønsker til simple search og complex search, som bibliotekerne peger på i fx Servicedesk.</p>
 
 <h2 id="arrangementer">Arrangementer</h2>
 
 <h3 id="design">Design</h3>
 
-<p>På arrangementer har den store opgave været at løfte designet. Vi har strammet flere ting op og ordnet, så visningen er mere overskuelig på arrangementssiden, i paragrafer og på lister. Derudover har vi skruet på både desktop- og mobilvisning. Vi mener dog ikke vi er helt færdige, så vi færdigpudser designet i det nye år.</p>
+<p>På arrangementer har den store opgave været at løfte designet. Vi har strammet flere ting op og ordnet, så visningen er mere overskuelig på arrangementssiden, i paragrafer og på lister.</p>
+
+<p>Derudover har vi skruet på både desktop- og mobilvisning. Vi mener dog ikke, at vi er helt færdige, så vi færdigpudser fortsat designet i det nye år.</p>
 
 <h3 id="statuslabels">Statuslabels</h3>
 
@@ -347,25 +361,27 @@
 
 <h3 id="andet-1">Andet</h3>
 
-<p>Vi har lavet flere forskellige forbedringer fx 1. at man nemt kan kopiere indhold fra en arrangementsserie til en instans, så man ikke skal genindtaste alt, 2. at man kan fravælge indhold i automatiske oversigter, 3. at man kan oprette arrangementer uden klokkeslæt etc.</p>
+<p>Vi har lavet flere forskellige forbedringer fx 1. at man nemt kan kopiere indhold fra en arrangementsserie til en instans, så man ikke skal genindtaste alt, 2. at man kan fravælge at indhold vises i automatiske oversigter, og 3. at man kan oprette arrangementer uden klokkeslæt etc.</p>
 
 <h2 id="søgning-og-værkvisning">Søgning og værkvisning</h2>
 
-<p>Skift udgave i reserveringsflowet</p>
+<h3 id="skift-udgave-i-reserveringsflowet">Skift udgave i reserveringsflowet</h3>
 
 <p>Den store opgave, som vi har lavet, er at man kan skifte udgave i reserveringsflowet, som gør det nemmere for brugerne at finde det rette materiale.</p>
 
 <h3 id="hjælp-til-søgning">Hjælp til søgning</h3>
 
-<p>Vi har lavet en hjælpebjælke til borgere, der ikke kan finde det, som de søger efter i søgningen. Den kan I selv indstille i konfigurationen.</p>
+<p>Vi har lavet en hjælpebjælke til borgere, der ikke kan finde det, som de søger efter i søgningen. Det kan I selv indstille i konfigurationen.</p>
 
 <h3 id="andet-2">Andet</h3>
 
-<p>Vi har lavet en masse andre opgaver fx 1. det er nu muligt, tilrette sin 0-hits søgning, 2. man kan kopiere link til en bestemt udgave, 3. I har mulighed for at altid have ‘Find på hylden’ udfoldet.</p>
+<p>Vi har lavet en masse andre opgaver fx 1. det er nu muligt at tilrette hjælp og vejledning ved 0-hits søgning i simple search, 2. at man kan kopiere link til en bestemt udgave, 3. I har mulighed for at altid have ‘Find på hylden’ udfoldet, og  4. mulighed for at lave frasesøgning med anførselstegn i simple search, så man på en nem måde kan søge helt eksakt i simple search.</p>
 
 <h2 id="lånerstatus-og-brugerprofil">Lånerstatus og brugerprofil</h2>
 
-<p>Dette emneområde har været en samling af mindre og mellemstore forbedringer til lånerstatus og brugerprofil. Rettelser har været forbedringer af brugerrejse og information. Et par af opgaverne i dette emneområde når ikke at komme med i den sidste release i år, da sikkerhedsopdateringen i 2025.48.2 gjorde at vi ikke kunne nå at teste dem. De kommer i stedet i en af de første releases i 2026.</p>
+<p>Dette emneområde har været en samling af mindre og mellemstore forbedringer til lånerstatus og brugerprofil. Rettelser har været forbedringer af brugerrejse og information.</p>
+
+<p>Et par af opgaverne i dette emneområde når ikke at komme med i den sidste release i år, da sikkerhedsopdateringen i 2025.48.2 gjorde, at vi ikke kunne nå at teste dem grundigt. De kommer i stedet i en af de første releases i 2026.</p>
 
 <h2 id="sager-lukket-i-2025">Sager lukket i 2025</h2>
 
