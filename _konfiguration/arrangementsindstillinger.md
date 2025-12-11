@@ -22,9 +22,11 @@ Valg af valuta træder også igennem i event API'et og sendes dermed videre til 
 ## Automatisk afpublicering
 For at undgå at afholdte arrangementer vises på hjemmsiden i automatic paragraphs og lister, kan I vælge at de bliver automatisk afpubliceret et tidsrum efter sluttidspunktet. Hvis I ønsker et andet tidsinterval eller helt at slukke for automatisk afpublisering, kan det gøres her.
 
-I kan vælge mellem om det er instanser og/eller serien der bliver afpubliceret. Det man skal overveje ved at afpublicere serier er at links til de afpublicerede instanser redirecter hen til serien. Det betyder at hvis man har linket til et arrangement i en manual paragraph eller linket i et nyhedsbrev, så mødes brugeren ikke med en fejlside når instanser bliver afpubliceret. 
+I kan vælge mellem om det er instanser og/eller serien der bliver afpubliceret. Vi anbefaler at både serier og instanser afpubliseres. Hvis I har mange arrangementer kan det være en fordel at have kortere afpubliseringsperiode og omvendt - en længere periode, hvis I har få arrangementer. 
 
-{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/8f405cd8-e149-47bf-878e-8f88b98dc90a" alt="Indstil at arrangementer afpubliceres automatisk fra hjemmesiden" caption="Indstil at arrangementer afpubliceres automatisk fra hjemmesiden" %}
+Vær opmærksom på at når I afpublicerer serier så vil links til de afpublicerede instanser redirecter hen til serien. Det betyder at hvis man har linket til et arrangement i en manual paragraph eller linket i et nyhedsbrev, så mødes brugeren ikke med en fejlside når instanser bliver afpubliceret. Dog opleves der flere problemer med ikke at afpublisere både serier og instanser.
+
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/fcee14a1-4a54-4192-808e-47f4ee4e4501" alt="Indstil at arrangementer afpubliceres automatisk fra hjemmesiden" caption="Indstil at arrangementer afpubliceres automatisk fra hjemmesiden" %}
 
 |Feltnavn|Standardværdi|
 |---|---|
