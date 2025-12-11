@@ -24,7 +24,9 @@ For at undgå at afholdte arrangementer vises på hjemmsiden i automatic paragra
 
 I kan vælge mellem om det er instanser og/eller serien der bliver afpubliceret. Vi anbefaler at både serier og instanser afpubliseres. Hvis I har mange arrangementer kan det være en fordel at have kortere afpubliseringsperiode og omvendt - en længere periode, hvis I har få arrangementer. 
 
-Vær opmærksom på at når I afpublicerer serier så vil links til de afpublicerede instanser redirecter hen til serien. Det betyder at hvis man har linket til et arrangement i en manual paragraph eller linket i et nyhedsbrev, så mødes brugeren ikke med en fejlside når instanser bliver afpubliceret. Dog opleves der flere problemer med ikke at afpublisere både serier og instanser.
+Vær opmærksom på, at hvis du vælger IKKE at afpublisere udløbede arrangementsinstanser, er det muligt, at de vises i automatiske og manuelle lister rundt om på siden.
+
+Når I afpublicerer serier så vil links til de afpublicerede instanser redirecte hen til serien. Det betyder at hvis man har linket til et arrangement i en manual paragraph eller linket i et nyhedsbrev, så mødes brugeren ikke med en fejlside når instanser bliver afpubliceret. Dog opleves der flere problemer med ikke at afpublisere både serier og instanser.
 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/fcee14a1-4a54-4192-808e-47f4ee4e4501" alt="Indstil at arrangementer afpubliceres automatisk fra hjemmesiden" caption="Indstil at arrangementer afpubliceres automatisk fra hjemmesiden" %}
 
