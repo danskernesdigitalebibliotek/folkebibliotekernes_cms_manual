@@ -4,6 +4,11 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 12/12-25 Hotfix med sikkerhedsopdatering 2025.50.1
+I aftes blev der offentligtgjort to nye rettelser til sikkerhedshuller i Next.js, som er blevet identificeret i forbindelse med den ekstra opmærksomhed, der var i sidste uge. Det er særligt relevant for GO!.
+
+I praksis betyder det at vi kommer til at lave en release 2025.50.1 (og 2025.48.3 til webmasterne) som vi ruller ud i dag. Det burde ikke betyde nedetid på hjemmesiderne.
+
 ## 5/12-25 Sikkerhedshotfix implementeres i dag
 I dag kører vi et sikkerhedshotfix ud til jer 2025.48.2. Det burde ikke betyde nedetide på hjemmesiderne, men meld det gerne ind i Servicedesk, hvis I oplever noget i driften.
 
