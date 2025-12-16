@@ -10,6 +10,7 @@ Opdateringen af produktions- og testmiljøer for webmasterbiblioteker sker efter
 
 ## Opgradering af produktionsmiljø
 **Torsdag: Produktionsmiljøet opgraderes til den næstnyeste release - med mindre biblioteket har ønsket udsættelse.** 
+Det er muligt at få den nyeste release på produktionsmiljø, men dette skal ske i forbindelse med en release, og som med udsættelse skal meldes til DDF senest onsdag morgen i den uge releasen skal køres.
 
 ## Opgradering af testmiljø
 **Torsdag: Testmiljøet synkroniseres indholdsmæssigt med produktionssitet og opdateres hver torsdag med nyeste release af Folkebibliotekernes CMS.**
