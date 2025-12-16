@@ -32,7 +32,7 @@ release af Folkebibliotekernes CMS.
 Jeres testmiljø vil også blive omtalt som jeres modultestsite.
 
 ### Modultetssites opgraderes og synkroniseres ugentligt 
-Webmasterbibliotekernes modutestsites synkroniseres med produktionssitet og opgraderes hver torsdag, når en ny release af FBCMS udkommer. I forbindelse med ferier kan den faste releasedag ændre sig. Det vil da fremgå af [release notes](https://www.folkebibliotekernescms.dk/main/overblik/release-notes/). 
+Webmasterbibliotekernes modutestsites synkroniseres med produktionssitet og opgraderes hver anden torsdag (lige uger), når en ny release af FBCMS udkommer. I forbindelse med ferier kan den faste releasedag ændre sig. Det vil da fremgå af [release notes](https://www.folkebibliotekernescms.dk/main/overblik/release-notes/). 
 
 Er der problemer med udrulningen bliver opgradering af produktionssites prioriteret over opgradering af modultestssites. Hvis opgraderingen af modultetstsites må udsættes, vil den blive foretaget så hurtigt som muligt herefter. Man kan altid sammenholde versionsnummeret i CMS med seneste release note, hvis man er i tvivl, om man er på den seneste version.
 
