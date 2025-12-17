@@ -1,9 +1,12 @@
 ---
 permalink: /
+
 title: "Folkebibliotekernes CMS"
 layout: splash
 header:
   overlay_image: /assets/images/splash.png
+  
+  # Links i den blå boks på forsiden
   actions:
     - label: "Support og Servicedesk"
       url: "/overblik/support"
@@ -24,6 +27,7 @@ header:
       
 excerpt: "Manual og information om Folkebibliotekernes CMS."
 
+# Indgange med billede længere nede på forsiden
 feature_row:
   - image_path: /assets/images/indholdsredaktion.jpg
     alt: "Opret indhold i Folkebibliotekernes CMS"
@@ -65,6 +69,7 @@ feature_row:
 ---
 
 {% include feature_row %}
+
 
 
 
