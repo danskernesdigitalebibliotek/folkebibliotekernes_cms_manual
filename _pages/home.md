@@ -23,7 +23,7 @@ header:
     - label: "Indberetning af udviklingsønsker "
       url: "/overblik/udviklingsoensker"
       
-excerpt: "Manual, tidsplan og information om Folkebibliotekernes CMS."
+excerpt: "Manual og information om Folkebibliotekernes CMS."
 
 feature_row:
   - image_path: /assets/images/indholdsredaktion.jpg
@@ -66,6 +66,7 @@ feature_row:
 ---
 
 {% include feature_row %}
+
 
 
 
