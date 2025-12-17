@@ -1,9 +1,12 @@
+# Topmenuen
 main:
   - title: "Nyt i manualen"
     url: /overblik/nyt-i-manualen
   - title: "Hurtigguide til manualen"
     url: /overblik/hurtigguide-til-manualen
 
+# Venstremenuen på denne side: https://www.folkebibliotekernescms.dk/main/overblik
+# Overblik er ikke en collection. 
 overblik:
   - title: Overblik
     children:
@@ -31,6 +34,7 @@ overblik:
         url: /overblik/nyt-i-manualen
 
  
+
 
 
 
