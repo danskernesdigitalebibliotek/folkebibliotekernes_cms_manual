@@ -156,7 +156,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Webmaster showroom",
-        "excerpt":"Webmaster showroom g g g g g g g g g g g g g g g g   ","categories": [],
+        "excerpt":"Webmaster showroom g   g   g g   g   g   g   g   g   g   g   g   g g   g g   ","categories": [],
         "tags": [],
         "url": "/main/category/webmaster-showroom/",
         "teaser": null
