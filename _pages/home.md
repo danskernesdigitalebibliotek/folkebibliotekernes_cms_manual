@@ -9,7 +9,6 @@ header:
       url: "/overblik/support"
     - label: "Hostingplaner"
       url: "/overblik/hostingplaner"
-      
     - label: "Tilgængelighedserklæring"
       url: "/overblik/tilgaengelighedserklaering"
     - label: "Status på udvikling og fejlrettelser"
@@ -66,6 +65,7 @@ feature_row:
 ---
 
 {% include feature_row %}
+
 
 
 
