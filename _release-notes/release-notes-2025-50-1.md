@@ -52,6 +52,6 @@ I 2026 kigger vi på at revidere og forbedre CQL-søgningen, så der skal vi und
 
 •	Visning af antal materialer og reserveringer: Der vises nu tydeligt, hvor mange materialer der er tilgængelige sammen med antal reserveringer i kø på oversigten over ens reserveringer, så brugeren nemmere kan vurdere, hvornår et materiale vil være klar til lån. [CMS-1223](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1223) 
 
-•	Link fra lånerstatus (reserveringer) til værkvisningssiden: Link fra reserveringer i Dit overblik og ved klik på en reservering under Alle reserve-ringer linker til værkvisningen. Bemærk det er ikke implementeret under lån i Dit overblik og under lån under Alle lån – dét kommer i en senere release. [CMS-971](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-971) 
+•	Link fra lånerstatus (reserveringer) til værkvisningssiden: Link fra reserveringer i Dit overblik og ved klik på en reservering under Alle reserveringer linker til værkvisningen. Bemærk det er ikke implementeret under lån i Dit overblik og under lån under Alle lån – dét kommer i en senere release. [CMS-971](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-971) 
 
 •	Material grid – begrænsning af antal materialer: Material grid manual kan nu vise op til 100 materialer i stedet for 32, og feltet er ændret, så man manuelt indtaster det antal materialer, man vil vise. Det er ikke muligt at taste mere end 100.
