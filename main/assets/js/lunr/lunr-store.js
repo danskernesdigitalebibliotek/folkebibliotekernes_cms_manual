@@ -948,7 +948,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2026.02.1",
-        "excerpt":"Releasedato: 08-01-2026 Redaktør: Produktionssites: 2026.02.1 Webmaster: Produktionssites: 2025.50.1, Moduletestsites: 2026.02.1 Ny udvikling Søgning fravælger materialer fra blacklistede filialer i stedet for at tilvælge mate-rialer fra ikke-blacklistede filialer. Visning af reserveringer klar til afhentning (“Klar til dig” i Dit overblik + “Klar til lån” under Alle reserveringer) sorteres i nummerrækkefølge efter...","categories": ["Release Notes"],
+        "excerpt":"Releasedato: 08-01-2026 Redaktør: Produktionssites: 2026.02.1 Webmaster: Produktionssites: 2025.50.1, Moduletestsites: 2026.02.1 Ny udvikling Søgning fravælger materialer fra blacklistede filialer i stedet for at tilvælge materialer fra ikke-blacklistede filialer. Visning af reserveringer klar til afhentning (“Klar til dig” i Dit overblik + “Klar til lån” under Alle reserveringer) sorteres i nummerrækkefølge efter...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2026-02-1/",
         "teaser": null
