@@ -13,7 +13,7 @@ Releasedato: 08-01-2026
 
 ### Ny udvikling
 
-- Søgning fravælger materialer fra blacklistede filialer i stedet for at tilvælge mate-rialer fra ikke-blacklistede filialer.
+- Søgning fravælger materialer fra blacklistede filialer i stedet for at tilvælge materialer fra ikke-blacklistede filialer.
 - Visning af reserveringer klar til afhentning ("Klar til dig" i Dit overblik + "Klar til lån" under Alle reserveringer) sorteres i nummerrækkefølge efter afhentningsnumre. [CMS-1109](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1109)
 - Arrangementssiden har fået flere tilretninger i designet. [CMS-1800](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1800)
 - Webmasterbiblioteker: Mulighed for at fejlrette lokale moduler. [CMS-1742](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1742)
