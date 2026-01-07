@@ -28,13 +28,4 @@ Releasedato: 08-01-2026
 - Åbningstidsmodul fejler – rettelser træder først i kraft efter timeout eller slår slet ikke igennem. Fejlen burde være rettet, så der igen kan lægges åbningstider ind. Test gerne og opret en ny sag, hvis I fortsat oplever fejl i modulet. [CMS-1785](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1785)
 - Delingstjenesten: Opdateringer overskriver ikke længere indhold trods frakobling. Dette testes endeligt i liveversion. [CMS-1804](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1804)
 - "Lån lydbog"-knappen fryser ikke længere siden, hvis man forsøger at låne et materiale med mere end én manifestation. [CMS-1793](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1793)
-- Link fra lånerstatus (Alle lån + Lån-modaler Dit overblik) til værkvisningssiden. Dele er sagen blev løst i 2025.50.1. [CMS-971](Link fra lånerstatus til værkets in-foSendt til udvikling)
-
-
-
-
-
-
-
-
-
+- Link fra lånerstatus (Alle lån + Lån-modaler Dit overblik) til værkvisningssiden. Dele er sagen blev løst i 2025.50.1. [CMS-971](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-971)
