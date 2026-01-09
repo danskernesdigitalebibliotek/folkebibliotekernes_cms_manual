@@ -10,7 +10,7 @@ Releasedato: 09-01-2026
 **Webmaster**: Produktionssites: 2025.50.1, Moduletestsites: 2026.02.3
 
 ### Hotfix 2026.02.3
-Løser fejlen i heroen på filialvisningssiden, hvor kontaktoplysninger manglede.
+- Løser fejlen i heroen på filialvisningssiden, hvor kontaktoplysninger manglede.
 
 ---  
 
@@ -22,7 +22,7 @@ Releasedato: 09-01-2026
 **Webmaster**: Produktionssites: 2025.50.1, Moduletestsites: 2026.02.2
 
 ### Hotfix 2026.02.2
-Retter kode der bliver kørt når det bliver rullet ud som sørger for at nedarvede felter er up-to-date også på eksisterende events. Det er ikke noget brugerne ser. 
+- Retter kode der bliver kørt når det bliver rullet ud som sørger for at nedarvede felter er up-to-date også på eksisterende events. Det er ikke noget brugerne ser. 
 
 ---  
 
