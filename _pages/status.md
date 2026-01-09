@@ -4,6 +4,15 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 9/1-26 Fejl på Hero-paragraffen
+Efter release 2026.02.1 oplever vi desværre fejl på hero-paragraffen:
+
+[CMS-1844: Manglende kontaktoplysninger i heroen på filialsiden](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1848) 
+Denne rettes med hotfix 2026.02.3 som kommer ud til jer i dag.
+
+[CMS-1848: Hero-link virker ikke](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1848) 
+Denne bliver rettet med et hotfix som kommer ud i start uge 3.
+
 ## 12/12-25 Hotfix med sikkerhedsopdatering 2025.50.1
 I aftes blev der offentligtgjort to nye rettelser til sikkerhedshuller i Next.js, som er blevet identificeret i forbindelse med den ekstra opmærksomhed, der var i sidste uge. Det er særligt relevant for GO!.
 
