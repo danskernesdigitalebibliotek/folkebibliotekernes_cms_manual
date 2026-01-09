@@ -950,7 +950,7 @@ var store = [{
         "title": "Release Notes 2026.02.1",
         "excerpt":"Releasedato: 09-01-2026 Redaktør: Produktionssites: 2026.02.3 Webmaster: Produktionssites: 2025.50.1, Moduletestsites: 2026.02.3 Hotfix 2026.02.3 Løser fejlen i heroen på filialvisningssiden, hvor kontaktoplysninger manglede. Releasedato: 09-01-2026 Redaktør: Produktionssites: 2026.02.2 Webmaster: Produktionssites: 2025.50.1, Moduletestsites: 2026.02.2 Hotfix 2026.02.2 Retter kode der bliver kørt når det bliver rullet ud som sørger for at nedarvede felter er...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2026-02-1/",
+        "url": "/main/overblik/release-notes/release-notes-2026-02-3/",
         "teaser": null
       },{
         "title": "Release Notes 220324",
