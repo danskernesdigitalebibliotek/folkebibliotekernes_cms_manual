@@ -9,6 +9,7 @@ weight: 2
 
 ### Side til lokal formidling ###
 For at undgå, at indhold bliver overskrevet anbefaler vi derfor, at I opretter en kategoriside fx kaldet ”Mit bibliotek”, som I opretter i jeres egen backend. Se [Sådan opretter du en kategoriside] (https://www.folkebibliotekernescms.dk/main/go/opret-kategoriside/) Katergorisider, som I selv opretter bliver *ikke* overskrevet, når der sendes nyt indhold ud fra BNR. Den kommer til at ligge oppe i toppen af siden ved siden af ”Gys”, ”venskab” osv. 
+På [delingstjenesten.dk/ereolen-gos-logoer-og-pr-materialer](https://delingstjenesten.dk/kampagner-pr/ereolen-gos-logoer-og-pr-materialer) finder du [en mappe](https://detdigitalefolkebibliotek.sharepoint.com/:f:/s/BibliotekernesNationaleRedaktion/IgBsGNBTuFaCRq0Q9PpjY2ofATTC2YvW5OoZhNbiwNTQe1k?e=3NzYYG) med billeder, der kan bruges til ikon på Mit Bibliotek-siden. 
 
 Vær opmærksom på at nyoprettet indhold eller ændringer i indhold kan have en forsinkelse, fra du gemmer til det er synligt på sitet.
 
