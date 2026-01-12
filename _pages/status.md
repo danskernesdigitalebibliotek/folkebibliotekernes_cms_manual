@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 12/1-26 LØST MitID virker igen
+MitID leverandøren har oplyst, at MitID-løsningen virker igen.
+
 ## 12/1-26 Ustabilitet på MitID
 MitID leverandøren har oplyst, at MitID-løsningen lige pt. oplever ustabilitet og hermed er det vurderet som et major incident. 
 Der er kun få slutbrugere som kan anvende MitID til login.  
