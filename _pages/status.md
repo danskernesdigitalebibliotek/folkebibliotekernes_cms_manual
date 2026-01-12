@@ -4,6 +4,12 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 12/1-26 Fejl på MitID
+MitID leverandøren har oplyst, at MitID-løsningen lige pt. oplever ustabilitet og hermed er det vurderet som et major incident. 
+Der er kun få slutbrugere som kan anvende MitID til login.  
+Problemet opstod ca. kl. 09.00
+MitID leverandøren er i gang med at fejlsøge.
+
 ## 9/1-26 Fejl på Hero-paragraffen
 Efter release 2026.02.1 oplever vi desværre fejl på hero-paragraffen:
 
