@@ -4,6 +4,10 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+
+## LØST - 15/1-26 Ustabilitet på en stor mængde Go! sites
+Problemet løst og alle sites skulle være oppe igen - ellers meld det endelig ind.
+
 ## 15/1-26 kl. 10.30 - Vi ser noget ustabilitet på en stor mængde Go! sites i øjeblikket. 
 Vi er i gang med at undersøge situationen.
 
