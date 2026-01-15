@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 15/1-26 kl. 10.30 - Vi ser noget ustabilitet på en stor mængde Go! sites i øjeblikket. 
+Vi er i gang med at undersøge situationen.
+
 ## 12/1-26 LØST MitID virker igen
 MitID leverandøren har oplyst, at MitID-løsningen virker igen.
 
