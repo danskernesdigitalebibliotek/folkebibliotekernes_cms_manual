@@ -17,7 +17,7 @@ I vil i starten af 2026 få et roadmap med den kommende plan for udviklingen ud 
 ## Siden sidste prioriteringsrunde
 
 ### Hvad er der blevet udviklet siden sidste prioriteringsrunde? 
-[Her kan du følge status på emneområderne fra sidste prioriteringsrunde](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/foraar-2025#avanceret-s%C3%B8gning). De sager som ikke er blevet udviklet i sidste runde kommer med i næste runde.
+[Her kan du læse en status på emneområderne fra 2025](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/foraar-2025#avanceret-s%C3%B8gning). De sager som ikke er blevet udviklet i sidste runde kommer med i næste runde.
 
 ### Ændringer i emneområderne
 Der er sket nogle ændringer i de emneområder, som I prioriterede imellem i 2025. Nogen lukkede vi pga. få stemmer, nogen bliver finansieret via andre midler, nogen er flyttet sammen og så er der et par nye.
