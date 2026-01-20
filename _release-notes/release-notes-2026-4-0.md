@@ -13,7 +13,7 @@ Releasedato: 22-01-2026
 
 ## Ny udvikling
 
-•	Værkvisningssiden: Brug "Indhold" (contents) under beskrivelsen samt for hver udgave på værkvisningssiden. Bemærk: Overskrifterne Beskrivelse og Indhold vises nu kun, når der er indhold i de respektive felter, så tomme overskrifter ikke længere vises.
+•	Værkvisningssiden: Oplysninger om konkret indhold (når de findes i brønden) bliver vist sammen med Beskrivelse på værkvisningssiden samt for hver udgave på værkvisningssiden. Bemærk: Overskrifterne Beskrivelse, Delindhold og Indhold vises kun, når der er indhold i de respektive felter, så tomme overskrifter ikke længere vises. Oplysninger om konkret indhold er f.eks. de enkelte kapitler i en antologi eller fagbog, de enkelte noveller i en novellesamling eller sanglisten fra en musik CD. [CMS-1618](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1618)
 
 •	Avanceret søgning: "Enten eller" funktion til filtrene: Online/Fysisk, Fiktion/Nonfiktion og Voksne/Børn kan nu vælges som gensidigt udelukkende filtre, og den tidligere listebaserede adgangstype-filtrering er fjernet i samme omgang.
 
