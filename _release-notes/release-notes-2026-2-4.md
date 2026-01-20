@@ -1,15 +1,15 @@
 ---
-title:  "Release Notes 2026.02.4"
+title:  "Release Notes 2026.2.4"
 category: "Release Notes"
 weight: 315
 ---  
 Releasedato: 12-01-2026
 
-**Redaktør**: Produktionssites: 2026.02.4
+**Redaktør**: Produktionssites: 2026.2.4
 
-**Webmaster**: Produktionssites: 2025.50.1, Moduletestsites: 2026.02.4
+**Webmaster**: Produktionssites: 2025.50.1, Moduletestsites: 2026.2.4
 
-### Hotfix 2026.02.4
+### Hotfix 2026.2.4
 - Løser fejlen i heroen hvor link ikke virker: [CMS-1848](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1848)
 
 ---  
