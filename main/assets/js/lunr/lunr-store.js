@@ -953,6 +953,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-02-4/",
         "teaser": null
       },{
+        "title": "Release Notes 2026.4.0",
+        "excerpt":"Releasedato: 22-01-2026 Redaktør: Produktionssites: 2026.4.0 Webmaster: Produktionssites: 2026.2.4, Moduletestsites: 2026.4.0 Ny udvikling • Værkvisningssiden: Brug “Indhold” (contents) under beskrivelsen samt for hver ud-gave på værkvisningssiden. Bemærk: Overskrifterne Beskrivelse og Indhold vises nu kun, når der er indhold i de respektive felter, så tomme overskrifter ikke længe-re vises. • Avanceret søgning:...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2026-4-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],
