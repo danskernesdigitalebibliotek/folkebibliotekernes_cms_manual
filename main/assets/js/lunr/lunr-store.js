@@ -954,7 +954,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2026.4.0",
-        "excerpt":"Releasedato: 22-01-2026 Redaktør: Produktionssites: 2026.4.0 Webmaster: Produktionssites: 2026.2.4, Moduletestsites: 2026.4.0 Ny udvikling • Værkvisningssiden: Oplysninger om konkret indhold (når de findes i brønden) bliver vist sammen med Beskrivelse på værkvisningssiden samt for hver udgave på værkvisningssiden. Bemærk: Overskrifterne Beskrivelse, Delindhold og Indhold vises kun, når der er indhold i de...","categories": ["Release Notes"],
+        "excerpt":"Releasedato: 22-01-2026 Redaktør: Produktionssites: 2026.4.0 Webmaster: Produktionssites: 2026.2.4, Moduletestsites: 2026.4.0 Ny udvikling • Værkvisningssiden: Oplysninger om konkret indhold (når de findes i brønden) bliver vist sammen med Beskrivelse på værkvisningssiden samt for hver udgave på værkvisningssiden. CMS-1618 Bemærk: Overskrifterne Beskrivelse, Delindhold og Indhold vises kun, når der er indhold i...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2026-4-0/",
         "teaser": null
