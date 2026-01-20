@@ -954,7 +954,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2026.4.0",
-        "excerpt":"Releasedato: 22-01-2026 Redaktør: Produktionssites: 2026.4.0 Webmaster: Produktionssites: 2026.2.4, Moduletestsites: 2026.4.0 Ny udvikling • Værkvisningssiden: Brug “Indhold” (contents) under beskrivelsen samt for hver ud-gave på værkvisningssiden. Bemærk: Overskrifterne Beskrivelse og Indhold vises nu kun, når der er indhold i de respektive felter, så tomme overskrifter ikke længe-re vises. • Avanceret søgning:...","categories": ["Release Notes"],
+        "excerpt":"Releasedato: 22-01-2026 Redaktør: Produktionssites: 2026.4.0 Webmaster: Produktionssites: 2026.2.4, Moduletestsites: 2026.4.0 Ny udvikling • Værkvisningssiden: Brug “Indhold” (contents) under beskrivelsen samt for hver udgave på værkvisningssiden. Bemærk: Overskrifterne Beskrivelse og Indhold vises nu kun, når der er indhold i de respektive felter, så tomme overskrifter ikke længere vises. • Avanceret søgning:...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2026-4-0/",
         "teaser": null
