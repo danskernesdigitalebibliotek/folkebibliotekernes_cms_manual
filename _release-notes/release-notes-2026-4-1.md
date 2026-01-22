@@ -10,7 +10,7 @@ Releasedato: 22-01-2026
 **Webmaster**: Produktionssites: 2026.2.4, Moduletestsites: 2026.4.1
 
 ### Hotfix 2026.4.1
-- Blacklist ift. søgning: Vi har fikset en fejl introduceret i 2026.2.4. omkring blacklist af filialer ift. søgning, som kun påvirkede simpel søgning. Fejlen medførte, at sites uden blacklist af mindst én filial ift. søgning reelt skjulte materialer i søgeresultatet fra alle filialer i stedet, hvis der kun fandtes fysiske udgaver af materialet i beholdningen, når man lavede en simpel søgning.": [CMS-1872](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1872)
+- Blacklist ift. søgning: Vi har fikset en fejl introduceret i 2026.2.4. omkring blacklist af filialer ift. søgning, som kun påvirkede simpel søgning. Fejlen medførte, at sites uden blacklist af mindst én filial ift. søgning reelt skjulte materialer i søgeresultatet fra alle filialer i stedet, hvis der kun fandtes fysiske udgaver af materialet i beholdningen, når man lavede en simpel søgning: [CMS-1872](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1872)
 
 ---  
 
