@@ -5,6 +5,9 @@ sidebar: true
 nav: "overblik"
 ---
 
+## 28/1-26 LØST: E-bøger kan ikke læses på hjemmesiderne
+Det var en fejl hos Publizon, som nu er løst.
+
 ## 28/1-26 E-bøger kan ikke læses på hjemmesiderne
 Det er ikke muligt afspille e-bøger i reader-playeren på hjemmesiderne. Det virker med "prøv" men ikke når man har lånt og vil læse bogen.
 Det virker i appene.
