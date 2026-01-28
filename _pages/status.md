@@ -5,6 +5,11 @@ sidebar: true
 nav: "overblik"
 ---
 
+## 28/1-26 E-bøger kan ikke læses på hjemmesiderne
+Det er ikke muligt afspille e-bøger i reader-playeren på hjemmesiderne. Det virker med "prøv" men ikke når man har lånt og vil læse bogen.
+Det virker i appene.
+Vi arbejder på sagen.
+
 ## LØST - 15/1-26 Ustabilitet på en stor mængde Go! sites
 Problemet løst og alle sites skulle være oppe igen - ellers meld det endelig ind.
 
