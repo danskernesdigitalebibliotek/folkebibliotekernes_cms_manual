@@ -5,6 +5,10 @@ sidebar: true
 nav: "overblik"
 ---
 
+## 30/1-26 Søgning er nede på mange hjemmesider
+Vi har problemer med søgning på mange hjemmesider. FBI returnerer ikke nogen resultater. Vi har meldt det til DBC. 
+Fejlen påvirker alle materialegrids og søgning.
+
 ## 28/1-26 LØST: E-bøger kan ikke læses på hjemmesiderne
 Det var en fejl hos Publizon, som nu er løst.
 
