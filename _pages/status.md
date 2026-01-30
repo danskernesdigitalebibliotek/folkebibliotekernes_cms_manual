@@ -5,6 +5,9 @@ sidebar: true
 nav: "overblik"
 ---
 
+## 30/1-26 LØST Søgning er nede på mange hjemmesider
+Fejlen på søgning er løst.
+
 ## 30/1-26 Søgning er nede på mange hjemmesider
 Vi har problemer med søgning på mange hjemmesider. FBI returnerer ikke nogen resultater. Vi har meldt det til DBC. 
 Fejlen påvirker alle materialegrids og søgning.
