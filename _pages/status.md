@@ -4,7 +4,7 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 3/2-26 Søgning og logins er nede på mange hjemmesider
+## 3/2-26 LØST: Søgning og logins er nede på mange hjemmesider
 DBC melder ustabile systemer på tværs af fx hjemmesider og Bibliotek.dk
 I kan følge med her: (https://kundeservice.dbc.dk/)
 Dette påvirker bl.a. søgning og logins på hjemmesiderne.
