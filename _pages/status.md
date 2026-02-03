@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 3/2-26 Søgning er nede på mange hjemmesider
+DBC melder ustabile systemer på tværs af fx hjemmesider og Bibliotek.dk
+I kan følge med her: (https://kundeservice.dbc.dk/)
 
 ## 30/1-26 LØST Søgning er nede på mange hjemmesider
 Fejlen på søgning er løst.
