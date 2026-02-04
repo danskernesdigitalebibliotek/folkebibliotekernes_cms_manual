@@ -960,7 +960,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2026.6.0",
-        "excerpt":"Releasedato: 05-02-2026 Redaktør: Produktionssites: 2026.6.0 Webmaster: Produktionssites: 2026.4.1, Moduletestsites: 2026.6.0 Forbedringer og fejlrettelser — Alle links til det almindelige CMS omskrives til relative links fra GO og flere linktyper fejler derefter: Alle links fra GO til det almindelige CMS håndteres nu korrekt, så links ikke læn-gere fejlagtigt omskrives til relative...","categories": ["Release Notes"],
+        "excerpt":"Releasedato: 05-02-2026 Redaktør: Produktionssites: 2026.6.0 Webmaster: Produktionssites: 2026.4.1, Moduletestsites: 2026.6.0 Forbedringer og fejlrettelser Alle links til det almindelige CMS omskrives til relative links fra GO og flere linktyper fejler derefter: Alle links fra GO til det almindelige CMS håndteres nu korrekt, så links ikke læn-gere fejlagtigt omskrives til relative GO-links....","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2026-6-0/",
         "teaser": null
