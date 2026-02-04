@@ -959,6 +959,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-4-1/",
         "teaser": null
       },{
+        "title": "Release Notes 2026.6.0",
+        "excerpt":"Releasedato: 05-02-2026 Redaktør: Produktionssites: 2026.6.0 Webmaster: Produktionssites: 2026.4.1, Moduletestsites: 2026.6.0 Forbedringer og fejlrettelser — Alle links til det almindelige CMS omskrives til relative links fra GO og flere linktyper fejler derefter: Alle links fra GO til det almindelige CMS håndteres nu korrekt, så links ikke læn-gere fejlagtigt omskrives til relative...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2026-6-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 220324",
         "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
         "tags": [],

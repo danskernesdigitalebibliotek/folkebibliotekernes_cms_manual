@@ -10,19 +10,19 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Release Notes 2024.40.0 - Folkebibliotekernes CMS</title>
-<meta name="description" content="Nye features">
+<!-- begin _includes/seo.html --><title>Release Notes 2026.6.0 - Folkebibliotekernes CMS</title>
+<meta name="description" content="Releasedato: 05-02-2026">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Release Notes 2024.40.0">
-<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-40-0/">
+<meta property="og:title" content="Release Notes 2026.6.0">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-6-0/">
 
 
-  <meta property="og:description" content="Nye features">
+  <meta property="og:description" content="Releasedato: 05-02-2026">
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-40-0/">
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-6-0/">
 
 
 
@@ -173,7 +173,7 @@
     
       
       
-        <li class="current">Release Notes 2024.40.0</li>
+        <li class="current">Release Notes 2026.6.0</li>
       
     
   </ol>
@@ -228,7 +228,7 @@
 
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2026-6-0/">Release Notes 2026.6.0</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2026-6-0/" class="active">Release Notes 2026.6.0</a></li>
               
             
               
@@ -412,7 +412,7 @@
               
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2024-40-0/" class="active">Release Notes 2024.40.0</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2024-40-0/">Release Notes 2024.40.0</a></li>
               
             
               
@@ -512,8 +512,8 @@
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Release Notes 2024.40.0">
-    <meta itemprop="description" content="Nye features">
+    <meta itemprop="headline" content="Release Notes 2026.6.0">
+    <meta itemprop="description" content="Releasedato: 05-02-2026">
     <meta itemprop="datePublished" content="2026-02-04T10:15:35+00:00">
     
 
@@ -522,7 +522,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-40-0/" class="u-url" itemprop="url">Release Notes 2024.40.0
+            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-6-0/" class="u-url" itemprop="url">Release Notes 2026.6.0
 </a>
           </h1>
           
@@ -533,21 +533,22 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <h1 id="nye-features">Nye features</h1>
+        <p>Releasedato: 05-02-2026</p>
 
-<p>Releasedato: 03-10-2024</p>
+<p><strong>Redaktør</strong>: Produktionssites: 2026.6.0
+<strong>Webmaster</strong>: Produktionssites: 2026.4.1, Moduletestsites: 2026.6.0</p>
 
-<p>Opgraderingen rulles ud til: Redaktørbiblioteker: Produktionssites opgraderes. Webmasterbiblioteker: Kun testsite opgraderes.</p>
+<h3 id="forbedringer-og-fejlrettelser">Forbedringer og fejlrettelser</h3>
 
-<h2 id="nye-features-1">Nye features</h2>
+<p>—	Alle links til det almindelige CMS omskrives til relative links fra GO og flere linktyper fejler derefter: Alle links fra GO til det almindelige CMS håndteres nu korrekt, så links ikke læn-gere fejlagtigt omskrives til relative GO-links. Det betyder bl.a., at links til CMS-arrangementer, kontaktformularen, redirects og andre CMS-URL’er bevares som gyldige, absolutte links, mens links til GO fortsat virker som forventet. 
+<a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1657">CMS-1657</a></p>
+
+<p>—	Forsider loader underligt på GO: Der var en fejl, hvor forsider på GO-sitet nogle gange blev vist meget små eller i forkerte størrelser. Fejlen kunne bl.a. genskabes ved at gå ind på et materiale fra forsiden og derefter bruge browserens “tilbage”-knap, hvorefter forsiden blev vist med små covers. Implementeringen er justeret, så forsiderne nu loader korrekt, og-så når brugeren navigerer tilbage i browseren.</p>
+
+<p>—	Max billedstørrelse justeret til 8 MB: Det er nu tydeligt i CMS’et, at der maksimalt kan uploades billeder på 8 MB. Hjælpeteksten er opdateret, så den ikke længere angiver 25 MB, hvilket var misvi-sende i forhold til den underliggende tekniske begrænsning i driftsplatformen. Æn-dringen påvirker kun nye uploadede filer.</p>
 
 <ul>
-  <li>
-    <p>Tags på redaktionelt indhold linker til søgeside, som lister indhold opmærket med samme tag. Bemærk at der pt. ikke vises tags på indholdstypen “side” endnu.</p>
-  </li>
-  <li>
-    <p>Nu muligt at linke til avanceret søgning hvor der er filtreret på “onshelf”, “location” og “sublocation”. Det har været et redaktionelt efterspurgt ønske, at kunne linke til denne type søgninger fra f.eks. materialekomponenten.</p>
-  </li>
+  <li>Cookie-indstillings-ikonet dækker for kapiteloversigten i playeren: Der har tidligere været problemer med at tilgå kapiteloversigten, når man læser en e-bog. Dette skyldtes at cookiesamtykke-ikonet dækkede over knappen til e-bogs kapiteloversigten i nederste hjørne ved afspilning på hjemmesiden. Nu er cookie-knappen flyttet en smule, så man nu kan se og tilgå kapitlerne ved afspilning. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1709">CMS-1709</a></li>
 </ul>
 
         
