@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 17/2-26:
+Vi har fået sager ind fra flere biblioteker omkring materialer, der ikke kan fremsøges i simpel søgning, men godt kan fremsøges via søgeforslag, inden kan trykker Søg, eller i avanceret søgning. Vi er fortsat ved at undersøge, hvad årsagen kan være. Men vi har en mistanke om, at problemet der blev hotfixet med [2026.4.1](https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-4-1/) måske stikker dybere, end vi først antog.
+
 ## 3/2-26 LØST: Søgning og logins er nede på mange hjemmesider
 DBC melder ustabile systemer på tværs af fx hjemmesider og Bibliotek.dk
 I kan følge med her: (https://kundeservice.dbc.dk/)
