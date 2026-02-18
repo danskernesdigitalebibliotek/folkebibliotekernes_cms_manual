@@ -10,7 +10,7 @@ Releasedato: 19-02-2026
 
 ### Forbedringer og fejlrettelser
 
-- **Nu muligt at låne e-bøger og lydbøger under "Udgave"**: Fejl rettet, hvor man ikke kunne låne e-bøger eller lydbøger under "Udgaver" under materialetypen bog. Knapperne "Lån e-bog" og "Lån lydbog (Online)" under "Udgaver" virkede ikke og låste brugerne på siden.
+- **Nu muligt at låne e-bøger og lydbøger under "Udgaver"**: Fejl rettet, hvor man ikke kunne låne e-bøger eller lydbøger under "Udgaver" under materialetypen bog. Knapperne "Lån e-bog" og "Lån lydbog (Online)" under "Udgaver" virkede ikke og låste brugerne på siden.
 
 
 - **Webmasterbiblioteker: Nu muligt at ændre i CSS Assets**: 
