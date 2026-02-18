@@ -10,19 +10,19 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Release Notes 2024.46.0 - Folkebibliotekernes CMS</title>
-<meta name="description" content="Diverse fejlrettelser og forbedringer">
+<!-- begin _includes/seo.html --><title>Release Notes 2026.8.0 - Folkebibliotekernes CMS</title>
+<meta name="description" content="Releasedato: 19-02-2026">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Release Notes 2024.46.0">
-<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-46-0/">
+<meta property="og:title" content="Release Notes 2026.8.0">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-8-0/">
 
 
-  <meta property="og:description" content="Diverse fejlrettelser og forbedringer">
+  <meta property="og:description" content="Releasedato: 19-02-2026">
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-46-0/">
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-8-0/">
 
 
 
@@ -173,7 +173,7 @@
     
       
       
-        <li class="current">Release Notes 2024.46.0</li>
+        <li class="current">Release Notes 2026.8.0</li>
       
     
   </ol>
@@ -228,7 +228,7 @@
 
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2026-8-0/">Release Notes 2026.8.0</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2026-8-0/" class="active">Release Notes 2026.8.0</a></li>
               
             
               
@@ -396,7 +396,7 @@
               
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2024-46-0/" class="active">Release Notes 2024.46.0</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2024-46-0/">Release Notes 2024.46.0</a></li>
               
             
               
@@ -516,8 +516,8 @@
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Release Notes 2024.46.0">
-    <meta itemprop="description" content="Diverse fejlrettelser og forbedringer">
+    <meta itemprop="headline" content="Release Notes 2026.8.0">
+    <meta itemprop="description" content="Releasedato: 19-02-2026">
     <meta itemprop="datePublished" content="2026-02-18T09:21:04+00:00">
     
 
@@ -526,7 +526,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2024-46-0/" class="u-url" itemprop="url">Release Notes 2024.46.0
+            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-8-0/" class="u-url" itemprop="url">Release Notes 2026.8.0
 </a>
           </h1>
           
@@ -537,37 +537,22 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <h1 id="diverse-fejlrettelser-og-forbedringer">Diverse fejlrettelser og forbedringer</h1>
+        <p>Releasedato: 19-02-2026</p>
 
-<p>Releasedato: 14-11-2024</p>
+<p><strong>Redaktør</strong>: Produktionssites: 2026.8.0
+<strong>Webmaster</strong>: Produktionssites: 2026.6.0, Moduletestsites: 2026.8.0</p>
 
-<p>Opgraderingen rulles ud til: 
-Redaktørbiblioteker: Produktionssites opgraderes. 
-Webmasterbiblioteker: Testsite opgraderes.</p>
-
-<h2 id="fejlrettelser-og-forbedringer">Fejlrettelser og forbedringer</h2>
+<h3 id="forbedringer-og-fejlrettelser">Forbedringer og fejlrettelser</h3>
 
 <ul>
   <li>
-    <p>Arrangement: Filialnavn vises nu på serievisning og på instanser - også hvis der skiftes filial ud på en enkelt instans.</p>
+    <p><strong>Nu muligt at låne e-bøger og lydbøger under “Udgave”</strong>: Fejl rettet, hvor man ikke kunne låne e-bøger eller lydbøger under “Udgaver” under materialetypen bog. Knapperne “Lån e-bog” og “Lån lydbog (Online)” under “Udgaver” virkede ikke og låste brugerne på siden.</p>
   </li>
   <li>
-    <p>Værker i serie: Problem løst hvor alle værker i en serie står vist som ”Del 1”.</p>
-  </li>
-  <li>
-    <p>Forbederinger som vedrører udvikling på løsningen: Optimering af Cypress-test, opgradering af thecodingmaching/safe.</p>
-  </li>
-  <li>
-    <p>Opgradering af eksisterende moduler: dynamic_entity_reference, focal_point, paragraphs_ee.</p>
-  </li>
-  <li>
-    <p>Drupal opgraderet til 10.3.*.</p>
-  </li>
-  <li>
-    <p>Databaselogging: DB logging er slået fra som resultat af de seneste udfald, hvor databasen har været voldsomt belastet. Den data, som normalt ville være tilgængelig herigennem, er i stedet tilgængelig igennem Loki og Grafana. Her belastes databasen ikke i samme grad.</p>
+    <p><strong>Webmasterbiblioteker: Nu muligt at ændre i CSS Assets</strong>: 
+Fejl rettet, hvor det ikke var muligt at redigere i de CSS Assets (Asset Injector), der allerede lå i systemet før opdateringen til CMS 2025-48.3 og CMS 2025.50.1 (moduletest).</p>
   </li>
 </ul>
-
 
         
       </section>
