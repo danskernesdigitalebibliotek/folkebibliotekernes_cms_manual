@@ -966,7 +966,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2026.8.0",
-        "excerpt":"Releasedato: 19-02-2026 Redaktør: Produktionssites: 2026.8.0 Webmaster: Produktionssites: 2026.6.0, Moduletestsites: 2026.8.0 Forbedringer og fejlrettelser Nu muligt at låne e-bøger og lydbøger under “Udgave”: Fejl rettet, hvor man ikke kunne låne e-bøger eller lydbøger under “Udgaver” under materialetypen bog. Knapperne “Lån e-bog” og “Lån lydbog (Online)” under “Udgaver” virkede ikke og låste...","categories": ["Release Notes"],
+        "excerpt":"Releasedato: 19-02-2026 Redaktør: Produktionssites: 2026.8.0 Webmaster: Produktionssites: 2026.6.0, Moduletestsites: 2026.8.0 Forbedringer og fejlrettelser Nu muligt at låne e-bøger og lydbøger under “Udgaver”: Fejl rettet, hvor man ikke kunne låne e-bøger eller lydbøger under “Udgaver” under materialetypen bog. Knapperne “Lån e-bog” og “Lån lydbog (Online)” under “Udgaver” virkede ikke og låste...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2026-8-0/",
         "teaser": null
