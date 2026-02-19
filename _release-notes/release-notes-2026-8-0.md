@@ -3,7 +3,7 @@ title:  "Release Notes 2026.8.0"
 category: "Release Notes"
 weight: 312
 ---  
-Releasedato: 19-02-2026
+Releasedato: Bemærk releasen her udrulles ikke torsdag den 19/2, som den normale releasecyklus ville foreskrive. Vi forventer releasen kommer ud 5/3, men melder endelig dato ud her på releasenoten. 
 
 **Redaktør**: Produktionssites: 2026.8.0
 **Webmaster**: Produktionssites: 2026.6.0, Moduletestsites: 2026.8.0
