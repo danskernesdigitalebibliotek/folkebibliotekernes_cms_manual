@@ -4,6 +4,10 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 27/2 MitID er utilgængeligt
+Det er i øjeblikket ikke muligt at logge på løsninger med MitID.
+Læs mere her på Digitaliser.dk: (https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid)
+
 ## 17/2-26: Fejl på simpel søgning
 Vi har fået sager ind fra flere biblioteker omkring materialer, der ikke kan fremsøges i simpel søgning, men godt kan fremsøges via søgeforslag, inden man trykker Søg, eller i avanceret søgning. Vi er fortsat ved at undersøge, hvad årsagen kan være. Men vi har en mistanke om, at problemet der blev hotfixet med [2026.4.1](https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-4-1/) måske stikker dybere, end vi først antog.
 
