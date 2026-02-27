@@ -10,6 +10,7 @@ Læs mere her på Digitaliser.dk: (https://www.digitaliser.dk/mitid/nyt-fra-miti
 
 ## 17/2-26: Fejl på simpel søgning
 Vi har fået sager ind fra flere biblioteker omkring materialer, der ikke kan fremsøges i simpel søgning, men godt kan fremsøges via søgeforslag, inden man trykker Søg, eller i avanceret søgning. Vi er fortsat ved at undersøge, hvad årsagen kan være. Men vi har en mistanke om, at problemet der blev hotfixet med [2026.4.1](https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-4-1/) måske stikker dybere, end vi først antog.
+
 Opdatering: Fejlen skulle gerne blive løst med release 2026.10
 
 ## 3/2-26 LØST: Søgning og logins er nede på mange hjemmesider
