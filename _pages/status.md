@@ -8,6 +8,10 @@ nav: "overblik"
 Det er i øjeblikket ikke muligt at logge på løsninger med MitID.
 Læs mere her på Digitaliser.dk: (https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid)
 
+## 27/2 Forkert udgivelsesår i søgninger og på værkvisningssiden
+Vi har konstateret, at angivelsen af udgivelsesår i søgeresultatet og værkvisningssiden opfører sig mærkeligt, da det indimellem viser seneste udgave hele vejen ned, når man søger. Men "workYear" er værkets oprindelige udgivelsesdato, så det er forkert. Vi mener, at det er koblet til et problem i FBI API, og derfor har vi fejlmeldt til DBC.
+
+
 ## 17/2-26: Fejl på simpel søgning
 Vi har fået sager ind fra flere biblioteker omkring materialer, der ikke kan fremsøges i simpel søgning, men godt kan fremsøges via søgeforslag, inden man trykker Søg, eller i avanceret søgning. Vi er fortsat ved at undersøge, hvad årsagen kan være. Men vi har en mistanke om, at problemet der blev hotfixet med [2026.4.1](https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-4-1/) måske stikker dybere, end vi først antog.
 
