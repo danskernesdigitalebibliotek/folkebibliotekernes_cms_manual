@@ -4,7 +4,7 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 27/2 MitID er utilgængeligt
+## 27/2 LØST: MitID er utilgængeligt
 Det er i øjeblikket ikke muligt at logge på løsninger med MitID.
 Læs mere her på Digitaliser.dk: (https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid)
 
