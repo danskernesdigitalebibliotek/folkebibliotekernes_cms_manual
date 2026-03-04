@@ -29,11 +29,11 @@ Brugerne kan nu lettere finde deres nærmeste bibliotek eller filial via /biblio
 
 ## Forbedringer og fejlrettelser
 
-•	**Visse poster kan ikke fremsøges i simpel søgning:[CMS-1915](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1915)** <br>
+•	**Visse poster kan ikke fremsøges i simpel søgning: [CMS-1915](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1915)** <br>
 En fejl, hvor bibliotekets fysiske materialer ikke dukkede op i simpel søgning på udvalgte sites, er rettet. Materialerne vises nu igen ved alle typer søgninger.
 
 
-•	**Episodenr. og serienr. vises forkert i låne- og reserveringsoversigt:[CMS-1219](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1219)** <br>
+•	**Episodenr. og serienr. vises forkert i låne- og reserveringsoversigt: [CMS-1219](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1219)** <br>
 Nu vises sæson-, episode- og serienummer korrekt for titler i brugerens låneoversigt, så det er nemmere at se præcis hvilken del af en serie, der er lånt eller reserveret eller findes et mellemværende på.
 
 
@@ -48,7 +48,7 @@ Titler på tv-serier viser nu også disc-nummer efter sæsonnummeret på værkvi
 •	**GO-forside synkroniser ikke på flere bibliotekers GO-sites:** <br>
 En fejl, hvor forsiden i GO! ikke blev opdateret korrekt på nogle biblioteks-sites, er nu løst. Ændringer på forsiden slår nu mere stabilt igennem.
 
-•	**Webmasterbiblioteker: Ignorer oversættelser i config import/export
+•	**Webmasterbiblioteker: Ignorer oversættelser i config import/export: 
 [CMS-1829](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1829) og [CMS-1942](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1942)** <br>
 Når konfiguration importeres/eksporteres mellem sites, bliver sproglige oversæt-telser nu ikke overstyret. Det mindsker risikoen for, at lokale oversættelser bliver overskrevet ved tekniske opdateringer.
 
