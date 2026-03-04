@@ -20,12 +20,13 @@ Webmasterbibliotekerne produktionssites opdateres torsdagen i de lige uger. Webm
 
 Modultestsites opdateres ugentligt om torsdagen i de lige uger til seneste release.
 
-## Uger uden release i 2025
+## Uger uden release i 2026
 Der kan pga. af helligdage eller ferie opstå ændringer til den faste releaseplan. I det tilfælde vil det fremgå her.
 
 Ingen release i uge:
-- Uge 16: Påske
-- Uge 22: Kr. Himmelfart
+- Uge 12: Reload er fraværende
+- Uge 14: Påske
+- Uge 20: Kr. Himmelfart
 - Uge 28: Sommerferie
 - Uge 29: Sommerferie
 - Uge 30: Sommerferie
