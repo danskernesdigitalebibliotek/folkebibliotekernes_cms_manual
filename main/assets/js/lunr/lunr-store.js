@@ -947,10 +947,10 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2025-50-1/",
         "teaser": null
       },{
-        "title": "Release Notes 2026.8.0",
-        "excerpt":"Releasedato: Bemærk denne release indeholder også 2026.8.0, som af tekniske årsager ikke kom ud som planlagt. Redaktør: Produktionssites: 2026.10.0 Webmaster: Produktionssites: 2026.6.0, Moduletestsites: 2026.10.0 (den 12/3 vil webmasterbibliotekerne få både 2026.8 og 2026.10 på deres produktionssite) Ny udvikling • Muliggørelse af visning af lokale emneord samt færøske og grønlandske emne-ord:...","categories": ["Release Notes"],
+        "title": "Release Notes 2026.10.1",
+        "excerpt":"Releasedato: Bemærk denne release indeholder også 2026.8.0, som af tekniske årsager ikke kom ud som planlagt. Redaktør: Produktionssites: 2026.10.1 Webmaster: Produktionssites: 2026.6.1, Moduletestsites: 2026.10.1 (den 12/3 vil webmasterbibliotekerne få både 2026.8 og 2026.10 på deres produktionssite) Ny udvikling • Muliggørelse af visning af lokale emneord samt færøske og grønlandske emne-ord:...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2026-10-0/",
+        "url": "/main/overblik/release-notes/release-notes-2026-10-1/",
         "teaser": null
       },{
         "title": "Release Notes 2026.2.4",
