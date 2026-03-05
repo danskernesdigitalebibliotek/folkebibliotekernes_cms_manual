@@ -1,12 +1,12 @@
 ---
-title:  "Release Notes 2026.8.0"
+title:  "Release Notes 2026.10.1"
 category: "Release Notes"
 weight: 311
 ---  
 Releasedato: Bemærk denne release indeholder også 2026.8.0, som af tekniske årsager ikke kom ud som planlagt. 
 
-**Redaktør**: Produktionssites: 2026.10.0
-**Webmaster**: Produktionssites: 2026.6.0, Moduletestsites: 2026.10.0 <br> (den 12/3 vil webmasterbibliotekerne få både 2026.8 og 2026.10 på deres produktionssite)
+**Redaktør**: Produktionssites: 2026.10.1
+**Webmaster**: Produktionssites: 2026.6.1, Moduletestsites: 2026.10.1 <br> (den 12/3 vil webmasterbibliotekerne få både 2026.8 og 2026.10 på deres produktionssite)
 
 ## Ny udvikling
 
