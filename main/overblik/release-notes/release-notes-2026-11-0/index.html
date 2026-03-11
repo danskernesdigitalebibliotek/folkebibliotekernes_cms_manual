@@ -15,19 +15,19 @@
 <meta charset="utf-8">
 
 
-<!-- begin _includes/seo.html --><title>Release Notes 2025.07.1 - Folkebibliotekernes CMS</title>
-<meta name="description" content="Ny paragraph type: Material Grid Automatic (Link)">
+<!-- begin _includes/seo.html --><title>Release Notes 2026.11.0 - Folkebibliotekernes CMS</title>
+<meta name="description" content="Redaktør: Produktionssites: 2026.11.0 Webmaster: Produktionssites: 2026.10.2, Moduletestsites: 2026.11.0">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Release Notes 2025.07.1">
-<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-07-1/">
+<meta property="og:title" content="Release Notes 2026.11.0">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-11-0/">
 
 
-  <meta property="og:description" content="Ny paragraph type: Material Grid Automatic (Link)">
+  <meta property="og:description" content="Redaktør: Produktionssites: 2026.11.0 Webmaster: Produktionssites: 2026.10.2, Moduletestsites: 2026.11.0">
 
 
 
@@ -44,7 +44,7 @@
 
 
 
-<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-07-1/">
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-11-0/">
 
 
 
@@ -183,7 +183,7 @@
     
       
       
-        <li class="current">Release Notes 2025.07.1</li>
+        <li class="current">Release Notes 2026.11.0</li>
       
     
   </ol>
@@ -238,7 +238,7 @@
 
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2026-11-0/">Release Notes 2026.11.0</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2026-11-0/" class="active">Release Notes 2026.11.0</a></li>
               
             
               
@@ -378,7 +378,7 @@
               
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2025-07-1/" class="active">Release Notes 2025.07.1</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2025-07-1/">Release Notes 2025.07.1</a></li>
               
             
               
@@ -534,8 +534,8 @@
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Release Notes 2025.07.1">
-    <meta itemprop="description" content="Ny paragraph type: Material Grid Automatic (Link)">
+    <meta itemprop="headline" content="Release Notes 2026.11.0">
+    <meta itemprop="description" content="Redaktør: Produktionssites: 2026.11.0Webmaster: Produktionssites: 2026.10.2, Moduletestsites: 2026.11.0">
     <meta itemprop="datePublished" content="2026-03-11T10:34:50+00:00">
     
 
@@ -544,7 +544,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-07-1/" class="u-url" itemprop="url">Release Notes 2025.07.1
+            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-11-0/" class="u-url" itemprop="url">Release Notes 2026.11.0
 </a>
           </h1>
           
@@ -556,25 +556,54 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <h3 id="ny-paragraph-type-material-grid-automatic-link">Ny paragraph type: Material Grid Automatic (Link)</h3>
+        <p><strong>Redaktør</strong>: Produktionssites: 2026.11.0
+<strong>Webmaster</strong>: Produktionssites: 2026.10.2, Moduletestsites: 2026.11.0</p>
 
-<p>Releasedato: 13-02-2025</p>
+<h2 id="ny-udvikling">Ny udvikling</h2>
 
-<p><strong>Redaktørbiblioteker</strong>: Produktionssites opgraderes til 2025.07.1<br />
-<strong>Webmasterbiblioteker</strong>: Produktionssites opgraderes til 2025.06.0. Modultestsites opgraderes til 2025.07.1.</p>
+<p>•	<strong>Ny simple search:</strong>
+Filtreringsmulighederne og søgeresultatsiden i simpel søgning er løftet, så de i højere grad svarer til dem, man kender fra avanceret søgning: fx <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-186">CMS-186</a>
+<strong>Bemærk</strong>: Vi har, for en kort periode, fjernet kampagner fra simple search. Det har vi gjort for at kunne forbedre både funktionalitet og design på kampagnerne.</p>
 
-<h2 id="nye-features">Nye features</h2>
+<p>•	<strong>Event api’et er ændret i forhold til billedstørrelser:</strong>
+Event api’et er ændret til at vi sender billedet fra arrangementer med i tre forskellige versioner.
+a)	‘image’ er arrangementets hovedbillede, hvor bredden altid er 1920px og højden vil variere. Dette er anbefalet til arrangementsvisning på fx billetsystemer eller arrangementskalendere, der ikke skal bruge et meget stort billede.
+b)	‘originalImage’ er det originale hovedbillede, der ikke er skaleret. Dette er anbefalet til fx infoskærme, der skal bruge et stort billede.
+c)	‘teaserImage’ er det billede, som I har sat ind som teaserbillede på arrangementet. Dette er anbefalet til listevisning på fx billetsystemer eller arrangementskalendere.
+Ændringerne er 1) at ‘image’ er gået fra 896x670 til i stedet at være 1920px i bredden og 2) Vi har introduceret ‘originalImage’.</p>
 
-<p><strong>Ny paragraph-type Material Grid Automatic (Link)</strong> er tilføjet som supplement til Material Grid Automtic. 
-Med den kan man oprette et material grid, hvor indholdet filtreres på opstilling, delopstilling eller “på hylde”/hjemme (<code class="language-plaintext highlighter-rouge">location</code>, <code class="language-plaintext highlighter-rouge">sublocation</code> og <code class="language-plaintext highlighter-rouge">onshelf</code>).
-Den nye paragraph-type skal bruge en URL, der linker til en avanceret søgning. Denne URL fremskaffes ved at trykke på knappen “Link til denne søgning” inde fra avanceret søgning.</p>
+<h2 id="forbedringer-og-fejlrettelser">Forbedringer og fejlrettelser</h2>
 
-<h2 id="fejlrettelser">Fejlrettelser</h2>
-<p>Event API: Bedre oprydning efter slettede arrangementsserier. Løser problem med serverfejl ved kald til Event APIet.</p>
+<p>•	<strong>Tilgængelighed: Tomt link i “Anbefaling” og “Andre Materialer”:</strong>
+Der er rettet en tilgængelighedsfejl, hvor der kunne opstå tomme links i modulerne “Anbefaling” og “Andre materialer”.
+Det betyder:</p>
+<ul>
+  <li>Skærmlæsere ikke længere møder “usynlige” eller meningsløse links.</li>
+  <li>Brugere, der navigerer med tastatur eller hjælpemidler, får en mere forudsigelig og tilgængelig oplevelse.</li>
+</ul>
 
-<p>Pausefunktion: Man kan nu vælge datoer efter dag 27 i mobilvisning på iOS, når man vil sætte sine reserveringer på pause. Scroll-problem er løst.</p>
+<p>•	<strong>Tilgængelighed: Synlig tekst er ikke en del af tilgængelig tekst:</strong>
+En række steder var den tekst, som brugeren kunne se, ikke korrekt koblet til den tekst, som hjælpemidler (fx skærmlæsere) læser op.
+Det er nu justeret, så:</p>
+<ul>
+  <li>Hjælpemidler får den samme, meningsfulde tekst som synlige brugere.</li>
+  <li>Brugere med hjælpemidler lettere kan forstå indhold og funktioner på siderne.</li>
+</ul>
 
-<p>Footermenu: Det er nu igen muligt at tilføje links til footeren. Det har været et problem siden 2025.5.1.</p>
+<p>•	<strong>GO: Problem med load af materialer i søgning:</strong>
+En fejl betød, at der i GO kunne opstå situationer, hvor flere søgeresultater ikke blev loadet, når man scrollede eller forsøgte at hente flere materialer.
+Fejlen er rettet, så:</p>
+<ul>
+  <li>Søgeresultater nu fortsætter med at loade som forventet.</li>
+  <li>Brugerne kan scrolle sig igennem flere materialer uden at “ramme en mur”.
+<strong>Bemærk</strong>: Søgeordet forbliver nu synligt i søgefeltet, også når man klikker sig ind på et værk. Det er et bevidst valg for at sikre stabil indlæsning af resultater.</li>
+</ul>
+
+<p>•	<strong>GO-forside synkroniser ikke på flere bibliotekers GO-sites:</strong>
+Der var et problem, hvor forsiden i GO ikke blev korrekt synkroniseret på tværs af enkelte bibliotekers GO sites.
+Det er nu rettet, så forsideindhold igen bliver opdateret og synkroniseret som forventet, og lokale redaktørers ændringer på forsiden slår igennem de relevante steder. 
+<br /> <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1914">CMS-1914</a></p>
+
 
         
       </section>

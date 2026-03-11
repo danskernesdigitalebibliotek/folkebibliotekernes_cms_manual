@@ -953,6 +953,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-10-2/",
         "teaser": null
       },{
+        "title": "Release Notes 2026.11.0",
+        "excerpt":"Redaktør: Produktionssites: 2026.11.0 Webmaster: Produktionssites: 2026.10.2, Moduletestsites: 2026.11.0 Ny udvikling • Ny simple search: Filtreringsmulighederne og søgeresultatsiden i simpel søgning er løftet, så de i højere grad svarer til dem, man kender fra avanceret søgning: fx CMS-186 Bemærk: Vi har, for en kort periode, fjernet kampagner fra simple search. Det...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2026-11-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 2026.2.4",
         "excerpt":"Releasedato: 12-01-2026 Redaktør: Produktionssites: 2026.2.4 Webmaster: Produktionssites: 2025.50.1, Moduletestsites: 2026.2.4 Hotfix 2026.2.4 Løser fejlen i heroen hvor link ikke virker: CMS-1848 Releasedato: 09-01-2026 Redaktør: Produktionssites: 2026.02.3 Webmaster: Produktionssites: 2025.50.1, Moduletestsites: 2026.02.3 Hotfix 2026.02.3 Løser fejlen i heroen på filialvisningssiden, hvor kontaktoplysninger manglede. Releasedato: 09-01-2026 Redaktør: Produktionssites: 2026.02.2 Webmaster: Produktionssites: 2025.50.1,...","categories": ["Release Notes"],
         "tags": [],
