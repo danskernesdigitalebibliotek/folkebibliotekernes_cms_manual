@@ -10,15 +10,18 @@ weight: 310
 ## Ny udvikling
 
 •	**Ny simple search:**
-Filtreringsmulighederne og søgeresultatsiden i simpel søgning er løftet, så de i højere grad svarer til dem, man kender fra avanceret søgning: fx [CMS-186](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-186)
+Filtreringsmulighederne og søgeresultatsiden i simpel søgning er løftet, så de i højere grad svarer til dem, man kender fra avanceret søgning: fx [CMS-186](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-186)<br>
 **Bemærk**: Vi har, for en kort periode, fjernet kampagner fra simple search. Det har vi gjort for at kunne forbedre både funktionalitet og design på kampagnerne.
+<br>
 
 •	**Event api'et er ændret i forhold til billedstørrelser:**
-Event api'et er ændret til at vi sender billedet fra arrangementer med i tre forskellige versioner.
-a)	'image' er arrangementets hovedbillede, hvor bredden altid er 1920px og højden vil variere. Dette er anbefalet til arrangementsvisning på fx billetsystemer eller arrangementskalendere, der ikke skal bruge et meget stort billede.
-b)	'originalImage' er det originale hovedbillede, der ikke er skaleret. Dette er anbefalet til fx infoskærme, der skal bruge et stort billede.
-c)	'teaserImage' er det billede, som I har sat ind som teaserbillede på arrangementet. Dette er anbefalet til listevisning på fx billetsystemer eller arrangementskalendere.
+Event api'et er ændret til at vi sender billedet fra arrangementer med i tre forskellige versioner: <br>
+- 'image' er arrangementets hovedbillede, hvor bredden altid er 1920px og højden vil variere. Dette er anbefalet til arrangementsvisning på fx billetsystemer eller arrangementskalendere, der ikke skal bruge et meget stort billede.<br>
+- 'originalImage' er det originale hovedbillede, der ikke er skaleret. Dette er anbefalet til fx infoskærme, der skal bruge et stort billede.<br>
+- 'teaserImage' er det billede, som I har sat ind som teaserbillede på arrangementet. Dette er anbefalet til listevisning på fx billetsystemer eller arrangementskalendere.<br>
 Ændringerne er 1) at ‘image’ er gået fra 896x670 til i stedet at være 1920px i bredden og 2) Vi har introduceret ‘originalImage’.
+
+<br>
 
 
 ## Forbedringer og fejlrettelser
