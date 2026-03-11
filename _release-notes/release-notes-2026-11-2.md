@@ -1,11 +1,11 @@
 ---
-title:  "Release Notes 2026.11.0"
+title:  "Release Notes 2026.11.2"
 category: "Release Notes"
 weight: 310
 ---  
 
-**Redaktør**: Produktionssites: 2026.11.0
-**Webmaster**: Produktionssites: 2026.10.2, Moduletestsites: 2026.11.0 
+**Redaktør**: Produktionssites: 2026.11.2
+**Webmaster**: Produktionssites: 2026.10.2, Moduletestsites: 2026.11.2 
 
 
 
