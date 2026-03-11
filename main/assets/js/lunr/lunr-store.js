@@ -954,7 +954,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2026.11.0",
-        "excerpt":"Redaktør: Produktionssites: 2026.11.0 Webmaster: Produktionssites: 2026.10.2, Moduletestsites: 2026.11.0 Ny udvikling Ny simple search: Filtreringsmulighederne og søgeresultatsiden i simpel søgning er løftet, så de i højere grad svarer til dem, man kender fra avanceret søgning: fx CMS-186 Bemærk: Vi har, for en kort periode, fjernet kampagner fra simple search. Det har...","categories": ["Release Notes"],
+        "excerpt":"Redaktør: Produktionssites: 2026.11.0 Webmaster: Produktionssites: 2026.10.2, Moduletestsites: 2026.11.0 Ny udvikling Ny simple search: Filtreringsmulighederne og søgeresultatsiden i simple search er løftet, så de i højere grad svarer til dem, man kender fra avanceret søgning: fx CMS-186 Bemærk: Vi har, for en kort periode, fjernet kampagner fra simple search. Det har...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2026-11-0/",
         "teaser": null
