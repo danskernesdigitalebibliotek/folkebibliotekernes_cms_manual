@@ -7,12 +7,14 @@ weight: 310
 **Redaktør**: Produktionssites: 2026.11.0
 **Webmaster**: Produktionssites: 2026.10.2, Moduletestsites: 2026.11.0 
 
+
+
 ## Ny udvikling
 
 **Ny simple search:**
 Filtreringsmulighederne og søgeresultatsiden i simpel søgning er løftet, så de i højere grad svarer til dem, man kender fra avanceret søgning: fx [CMS-186](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-186)<br>
 **Bemærk**: Vi har, for en kort periode, fjernet kampagner fra simple search. Det har vi gjort for at kunne forbedre både funktionalitet og design på kampagnerne.
-<br>
+<br><br>
 
 **Event api'et er ændret i forhold til billedstørrelser:**
 Event api'et er ændret til at vi sender billedet fra arrangementer med i tre forskellige versioner: <br>
