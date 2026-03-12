@@ -11,14 +11,22 @@ Disse systemer kan eksempelvis være:
   
 Vores system tilbyder følgende:
 
-**Hent arrangementer:** Åben snitflade som alle kan bruge. Det eksterne system henter alle arrangementer, som det enkelte bibliotek tilbyder. Det eksterne system kan udfra denne liste selv deducere, hvilke arrangementer, der er nyoprettede, og hvilke der nu mangler (aflyste arrangementer)
+## Hent arrangementer
+Åben snitflade som alle kan bruge. Det eksterne system henter alle arrangementer, som det enkelte bibliotek tilbyder. Det eksterne system kan udfra denne liste selv deducere, hvilke arrangementer, der er nyoprettede, og hvilke der nu mangler (aflyste arrangementer)
 
 Arrangementer er tilgængelige i JSON-format for hvert bibliotek via denne URL (udskift mit-domænenavn.dk): \
 `https://mit-domænenavn.dk/api/v1/events`
 
-**Opdater arrangement:** Billetsystemer kan melde få data tilbage til Folkebibliotekernes CMS, herunder URL til arrangementet i billetsystemet og status (udsolgt m.v.). Det eksterne system skal etablere en system-til-system integration til Folkebibliotekernes CMS for at kunne benytte denne funktionalitet. Kontakt os for aftale herom.
+## Opdater arrangement
+Billetsystemer kan melde få data tilbage til Folkebibliotekernes CMS, herunder URL til arrangementet i billetsystemet og status (udsolgt m.v.). Det eksterne system skal etablere en system-til-system integration til Folkebibliotekernes CMS for at kunne benytte denne funktionalitet. Kontakt os for aftale herom.
 
-Yderligere dokumentation kan findes her:
+## Billeder
+Der sendes tre billeder med arrangementerne:
+- ‘image’ er arrangementets hovedbillede, hvor bredden altid er 1920px og højden vil variere. Dette er anbefalet til arrangementsvisning på fx billetsystemer eller arrangementskalendere, der ikke skal bruge et meget stort billede.
+- ‘originalImage’ er det originale hovedbillede, der ikke er skaleret. Dette er anbefalet til fx infoskærme, der skal bruge et stort billede.
+- ‘teaserImage’ er det billede, som I har sat ind som teaserbillede på arrangementet. Dette er anbefalet til listevisning på fx billetsystemer eller arrangementskalendere.
+- 
+## Yderligere dokumentation kan findes her:
 
 Dokumentation: [https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/event-integration/](https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/event-integration/)
 
