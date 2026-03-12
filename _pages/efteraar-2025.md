@@ -5,11 +5,9 @@ sidebar: true
 nav: "overblik"
 ---
 
-## Processen
-Det er nu igen tid til at prioritere den fremtidige udvikling på Folkebibliotekernes CMS, så her kommer et par vigtige datoer og informationer om den kommende proces.
+Som det ser ud nu, så kommer vi til arbejde med Arrangementer for 75 % af budgettet og så vil vi kigge på sager fra både Søgning og værkvisning og Formidlingsparagrafer for det resterende. Vi melder roadmap og udviklingsplanen ud senere.  
 
-### Prioritering af ønsker
-I kan prioritere emneområderne (samling af udviklingsønsker inden for et specifikt område af hjemmesiden) fra den 15. januar til den 6. februar. 
+{% include figure class="sixty" image_path="https://github.com/user-attachments/assets/8431a1ed-dcd9-4457-9c50-8d017ca98b02" alt="Email kategorier" caption="Email kategorier" %}
 
 ### Roadmap
 I vil i starten af 2026 få et roadmap med den kommende plan for udviklingen ud fra jeres prioriteter. 
