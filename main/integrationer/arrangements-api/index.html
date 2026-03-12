@@ -37,7 +37,7 @@
 
 
 
-  <meta property="article:published_time" content="2026-03-11T13:18:43+00:00">
+  <meta property="article:published_time" content="2026-03-12T10:50:40+00:00">
 
 
 
@@ -258,7 +258,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Arrangements API til brug for eksterne systemer">
     <meta itemprop="description" content="Folkebibliotekernes CMS tilbyder alle typer eksterne systemer at hente arrangementer direkte fra hvert biblioteks hjemmeside.">
-    <meta itemprop="datePublished" content="2026-03-11T13:18:43+00:00">
+    <meta itemprop="datePublished" content="2026-03-12T10:50:40+00:00">
     
 
     <div class="page__inner-wrap">
@@ -289,14 +289,25 @@
 
 <p>Vores system tilbyder følgende:</p>
 
-<p><strong>Hent arrangementer:</strong> Åben snitflade som alle kan bruge. Det eksterne system henter alle arrangementer, som det enkelte bibliotek tilbyder. Det eksterne system kan udfra denne liste selv deducere, hvilke arrangementer, der er nyoprettede, og hvilke der nu mangler (aflyste arrangementer)</p>
+<h2 id="hent-arrangementer">Hent arrangementer</h2>
+<p>Åben snitflade som alle kan bruge. Det eksterne system henter alle arrangementer, som det enkelte bibliotek tilbyder. Det eksterne system kan udfra denne liste selv deducere, hvilke arrangementer, der er nyoprettede, og hvilke der nu mangler (aflyste arrangementer)</p>
 
 <p>Arrangementer er tilgængelige i JSON-format for hvert bibliotek via denne URL (udskift mit-domænenavn.dk): <br />
 <code class="language-plaintext highlighter-rouge">https://mit-domænenavn.dk/api/v1/events</code></p>
 
-<p><strong>Opdater arrangement:</strong> Billetsystemer kan melde få data tilbage til Folkebibliotekernes CMS, herunder URL til arrangementet i billetsystemet og status (udsolgt m.v.). Det eksterne system skal etablere en system-til-system integration til Folkebibliotekernes CMS for at kunne benytte denne funktionalitet. Kontakt os for aftale herom.</p>
+<h2 id="opdater-arrangement">Opdater arrangement</h2>
+<p>Billetsystemer kan melde få data tilbage til Folkebibliotekernes CMS, herunder URL til arrangementet i billetsystemet og status (udsolgt m.v.). Det eksterne system skal etablere en system-til-system integration til Folkebibliotekernes CMS for at kunne benytte denne funktionalitet. Kontakt os for aftale herom.</p>
 
-<p>Yderligere dokumentation kan findes her:</p>
+<h2 id="billeder">Billeder</h2>
+<p>Der sendes tre billeder med arrangementerne:</p>
+<ul>
+  <li>‘image’ er arrangementets hovedbillede, hvor bredden altid er 1920px og højden vil variere. Dette er anbefalet til arrangementsvisning på fx billetsystemer eller arrangementskalendere, der ikke skal bruge et meget stort billede.</li>
+  <li>‘originalImage’ er det originale hovedbillede, der ikke er skaleret. Dette er anbefalet til fx infoskærme, der skal bruge et stort billede.</li>
+  <li>‘teaserImage’ er det billede, som I har sat ind som teaserbillede på arrangementet. Dette er anbefalet til listevisning på fx billetsystemer eller arrangementskalendere.</li>
+  <li>
+    <h2 id="yderligere-dokumentation-kan-findes-her">Yderligere dokumentation kan findes her:</h2>
+  </li>
+</ul>
 
 <p>Dokumentation: <a href="https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/event-integration/">https://danskernesdigitalebibliotek.github.io/dpl-docs/DPL-CMS/event-integration/</a></p>
 
@@ -317,7 +328,7 @@
         
 
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2026-03-11T13:18:43+00:00">March 11, 2026</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2026-03-12T10:50:40+00:00">March 12, 2026</time></p>
 
 
       </footer>
