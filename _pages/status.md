@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 16/3 Login med Bibliotekslogin og søgning fejler
+Der er i øjeblikket problemer med at logge ind med Bibliotekslogin og søgning på hjemmesiderne. DBC og Systematic arbejder på at løse problemet hurtigst muligt.
+
 ## 27/2 LØST: MitID er utilgængeligt
 Det er i øjeblikket ikke muligt at logge på løsninger med MitID.
 Læs mere her på Digitaliser.dk: (https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid)
