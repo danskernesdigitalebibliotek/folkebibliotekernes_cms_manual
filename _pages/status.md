@@ -4,7 +4,7 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 16/3 Login med Bibliotekslogin og søgning fejler
+## 16/3 LØST -Login med Bibliotekslogin og søgning fejler
 Der er i øjeblikket problemer med at logge ind med Bibliotekslogin og søgning på hjemmesiderne og app. Reload, DBC og Systematic arbejder på at løse problemet hurtigst muligt.
 
 ## 27/2 LØST: MitID er utilgængeligt
