@@ -5,7 +5,7 @@ sidebar: true
 nav: "overblik"
 ---
 ## 16/3 Login med Bibliotekslogin og søgning fejler
-Der er i øjeblikket problemer med at logge ind med Bibliotekslogin og søgning på hjemmesiderne. DBC og Systematic arbejder på at løse problemet hurtigst muligt.
+Der er i øjeblikket problemer med at logge ind med Bibliotekslogin og søgning på hjemmesiderne og app. DBC og Systematic arbejder på at løse problemet hurtigst muligt.
 
 ## 27/2 LØST: MitID er utilgængeligt
 Det er i øjeblikket ikke muligt at logge på løsninger med MitID.
