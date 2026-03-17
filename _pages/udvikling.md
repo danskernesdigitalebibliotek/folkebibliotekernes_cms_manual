@@ -29,12 +29,12 @@ Vi har flere forbedringer til GO.
 - 🟡 Tilpasning af formidling (højformatvideo)
 - 🟡 Tilpasning af VIP-profil
 
-### 🔴 Merengagement
+### 🟡 Merengagement
 Vi vil udvikle flere elementer, der skal præsentere bibliotekets tilbud til borgerne på det rette tidspunkt i brugerrejsen.
 
 - 🔴 Landingsside til serier i værkvisningen
 - 🔴 Præsentér andre relevante materialer efter endt reservering
-- 🔴 Bedre kampagner
+- 🟡 Bedre kampagner
 - 🔴 Anbefalinger på dashboardet
 
 ### Statistik
