@@ -5,12 +5,14 @@ sidebar: true
 nav: "overblik"
 ---
 
-Som det ser ud nu, så kommer vi til arbejde med Arrangementer for 75 % af budgettet og så vil vi kigge på sager fra både Søgning og værkvisning og Formidlingsparagrafer for det resterende. Vi melder roadmap og udviklingsplanen ud senere.  
+Som det ser ud nu, så kommer vi til arbejde med Arrangementer og så skal vi se hvad vi skal lave for det resterende. Vi melder roadmap og udviklingsplanen ud senere.  
 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/8431a1ed-dcd9-4457-9c50-8d017ca98b02" alt="Email kategorier" caption="Email kategorier" %}
 
-### Roadmap
+### Roadmap og status på opgaver
 I vil i starten af 2026 få et roadmap med den kommende plan for udviklingen ud fra jeres prioriteter. 
+
+[Se status for al udvikling på CMS'et](https://www.folkebibliotekernescms.dk/main/overblik/udvikling/)
 
 ## Siden sidste prioriteringsrunde
 
