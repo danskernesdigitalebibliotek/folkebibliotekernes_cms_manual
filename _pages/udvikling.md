@@ -7,7 +7,7 @@ nav: "overblik"
 
 Der kommer til at ske rigtig mange ting i 2026, og herunder kan du se en oversigt over og en status på alt hvad vi skal lave. Vi vil opdatere siden løbende.
 
-Forklaring på farverne: <span title="Færdig">🟢</span> betyder at opgaven er helt færdig, <span title="I gang">🟡</span> betyder at udvikling på opgaven er i gang og <span title="Ikke i gang">🔴</span> betyder at vi ikke er begyndt på udviklingen (kan dog være startet på analyse eller planlægning af opgaven).
+Forklaring på farverne: <span title="Færdig">🟢</span> betyder at opgaven er helt færdig, <span title="I gang">🟡</span> betyder at udvikling på opgaven er i gang og <span title="Ikke i gang">🔴</span> betyder at vi ikke er begyndt på udviklingen (kan dog være startet på analyse eller planlægning af opgaven). Farverne har tooltip, hvis du ikke kan se farverne.
 
 ## Udviklingsønsker
 Vi går snarligt i gang med at udvikle på arrangementer, og så skal vi se hvad vi gør med resten af udviklingsønsker. Vi skal se om vi skal udvikle på emneområderne Søgning og værkvisning og Formidlingsparagrafer, og hvorvidt vi skal involvere bibliotekerne.
@@ -78,5 +78,3 @@ Vi har implementeret funktionerne fra avanceret søgning ind på simple search.
 
 ### <span title="Ikke i gang">🔴</span> Ny forbedret CQL søgning
 Efter vi har forbedret avanceret søgning og simple search, så skal vi have implementeret funktionerne ind i CQL søgningen også. Kan evt. blive skubbet til 2027.
-
-<span title="Færdig">🟢</span>
