@@ -10,7 +10,12 @@ Der kommer til at ske rigtig mange ting i 2026, og herunder kan du se en oversig
 Forklaring på farverne: 🟢 betyder at opgaven er helt færdig, 🟡 betyder at udvikling på opgaven er i gang og 🔴 betyder at vi ikke er begyndt på udviklingen (kan dog være startet på analyse eller planlægning af opgaven).
 
 ## Udviklingsønsker
-Læs mere om [udviklingsønskerne for 2026 her](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/efteraar-2025).
+Vi går snarligt i gang med at udvikle på arrangementer, og så skal vi se hvad vi gør med resten af udviklingsønsker. Vi skal se om vi skal udvikle på emneområderne Søgning og værkvisning og Formidlingsparagrafer, og hvorvidt vi skal involvere bibliotekerne.
+
+- 🔴 Arrangementer 
+- 🔴 Søgning og værkvisning og Formidlingsparagrafer
+
+Læs mere om [udviklingsønskerne for 2026](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/efteraar-2025) eller [generelt om udviklingsønsker](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/). 
 
 ## Puljeprojektet
 Der er tre spor i dette projekt: GO, Merengagement og Statistik.
