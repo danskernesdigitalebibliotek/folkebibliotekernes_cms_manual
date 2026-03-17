@@ -22,8 +22,8 @@ header:
       url: "/delingstjenesten/"
     - label: "Releases"
       url: "/overblik/releases"
-    - label: "Indberetning af udviklingsønsker "
-      url: "/overblik/udviklingsoensker"
+    - label: "Udvikling på CMS"
+      url: "/overblik/udvikling/"
       
 excerpt: "Manual og information om Folkebibliotekernes CMS."
 
