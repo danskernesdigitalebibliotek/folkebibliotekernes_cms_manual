@@ -57,7 +57,7 @@ Dette er de områder, som vi i Det Digitale Folkebibliotek kan se skal løftes p
 ### 🔴 Huskeliste
 Vi samarbejder med DBC om at lave en global huskeliste, så det ikke er hver tjeneste, der har adskilte huskeliste. 
 
-### 🟡 eReolen efterlæb
+### 🟡 eReolen efterslæb
 Vi skal have kigget på de mest kritiske problemer efter at eReolen blev integreret på hjemmesiderne. Vi har lavet flere forbedringer bl.a. i søgemulighederne på hjemmesiden.
 
 ### 🔴 Availability labels
