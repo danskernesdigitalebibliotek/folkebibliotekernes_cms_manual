@@ -5,7 +5,9 @@ sidebar: true
 nav: "overblik"
 ---
 
-Der kommer til at ske rigtig mange ting i 2026, og herunder kan du se en oversigt over alt hvad vi skal lave. Vi vil opdatere siden løbende.
+Der kommer til at ske rigtig mange ting i 2026, og herunder kan du se en oversigt over og en status på alt hvad vi skal lave. Vi vil opdatere siden løbende.
+
+Forklaring på farverne: 🟢 betyder at opgaven er helt færdig, 🟡 betyder at udvikling på opgaven er i gang og 🔴 betyder at vi ikke er begyndt på udviklingen (kan dog være startet på analyse eller planlægning af opgaven).
 
 ## Udviklingsønsker
 Læs mere om [udviklingsønskerne for 2026 her](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/efteraar-2025).
