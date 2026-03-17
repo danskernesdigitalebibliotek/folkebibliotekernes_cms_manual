@@ -13,7 +13,7 @@ overblik:
       - title: "Support og Servicedesk"
         url: "/overblik/support"  
       - title: "Udvikling på CMS"
-        url: "/overblik/udvikling"
+        url: "/overblik/udvikling/"
       - title: "Status på udvikling og fejlrettelser"
         url: "/overblik/status"  
       - title: "Releases"
