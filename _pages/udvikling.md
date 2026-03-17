@@ -74,4 +74,4 @@ Der er flere problem med logikken i de etiketter, der vises tilgængeligheden af
 Vi har implementeret funktionerne fra avanceret søgning ind på simple search.
 
 ### 🔴 Ny forbedret CQL søgning
-Efter vi har forbedret avanceret søgning og simple search, så skal vi have implementeret funktionerne ind i CQL søgningen også.
+Efter vi har forbedret avanceret søgning og simple search, så skal vi have implementeret funktionerne ind i CQL søgningen også. Kan evt. blive skubbet til 2027.
