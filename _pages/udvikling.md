@@ -59,7 +59,7 @@ Vi laver et større design review, der skal sikre bedre principper og guidelines
 Vi er færdige med at migrere alle siderne til en ny platform.
 
 ## Vores fokusområder
-Dette er de områder, som vi i Det Digitale Folkebibliotek kan se skal løftes på baggrund af vores arbejde eller jeres input. Det vil som oftes være større opgaver eller mange små indenfor samme område, som vi samler til et fokusområde.
+Dette er de områder, som vi i Det Digitale Folkebibliotek kan se skal løftes på baggrund af vores arbejde eller jeres input. Det vil som oftes være større opgaver eller mange små indenfor samme område, som vi samler til et fokusområde. Alle områderne er ikke nødvendigvis noget som skal laves i 2026.
 
 ### 🔴 Huskeliste
 Vi samarbejder med DBC om at lave en global huskeliste, så det ikke er hver tjeneste, der har adskilte huskeliste. 
@@ -69,6 +69,9 @@ Vi skal have kigget på de mest kritiske problemer efter at eReolen blev integre
 
 ### 🔴 Availability labels
 Der er flere problem med logikken i de etiketter, der vises tilgængeligheden af et materiale. 
+
+### 🔴 Periodika
+Periodika på hjemmesiderne har flere uhensigtmæssigheder, som bl.a. gør det svært at finde og vælge de korrekte udgaver.
 
 ### 🟢 Ny forbedret Simple search
 Vi har implementeret funktionerne fra avanceret søgning ind på simple search.
