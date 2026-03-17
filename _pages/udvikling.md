@@ -79,4 +79,4 @@ Vi har implementeret funktionerne fra avanceret søgning ind på simple search.
 ### 🔴 Ny forbedret CQL søgning
 Efter vi har forbedret avanceret søgning og simple search, så skal vi have implementeret funktionerne ind i CQL søgningen også. Kan evt. blive skubbet til 2027.
 
-[🔴](# "Ikke i gang")
+<span title="Ikke i gang">🔴</span>
