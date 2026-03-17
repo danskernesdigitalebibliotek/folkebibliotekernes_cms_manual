@@ -12,8 +12,8 @@ overblik:
     children:
       - title: "Support og Servicedesk"
         url: "/overblik/support"  
-      - title: "Indberetning af udviklingsønsker "
-        url: "/overblik/udviklingsoensker"
+      - title: "Udvikling på CMS"
+        url: "/overblik/udvikling"
       - title: "Status på udvikling og fejlrettelser"
         url: "/overblik/status"  
       - title: "Releases"
