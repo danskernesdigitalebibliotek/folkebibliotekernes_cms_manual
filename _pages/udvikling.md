@@ -18,19 +18,19 @@ Der er tre spor i dette projekt: GO, Merengagement og Statistik.
 ### 🟡 GO
 Vi har flere forbedringer til GO.
 
-- Reservering af fysiske materialer
-- Personaliserede anbefalinger
-- Loginlogik
-- Tilpasning af formidling (højformatvideo)
-- Tilpasning af VIP-profil
+- 🔴 Reservering af fysiske materialer
+- 🔴 Personaliserede anbefalinger
+- 🔴 Loginlogik
+- 🟡 Tilpasning af formidling (højformatvideo)
+- 🟡 Tilpasning af VIP-profil
 
 ### 🟡 Merengagement
 Vi vil udvikle flere elementer, der skal præsentere bibliotekets tilbud til borgerne på det rette tidspunkt i brugerrejsen.
 
-- Landingsside til serier i værkvisningen
-- Præsentér andre relevante materialer efter endt reservering
-- Bedre kampagner
-- Anbefalinger på dashboardet
+- 🔴 Landingsside til serier i værkvisningen
+- 🔴 Præsentér andre relevante materialer efter endt reservering
+- 🔴 Bedre kampagner
+- 🔴 Anbefalinger på dashboardet
 
 ### Statistik
 Vi udvider mængden af målepunkter, og introducerer et dashboard på FB CMS til data. Vi melder løbende opdateringer på statistiksporet ud på vores kanaler.
