@@ -1,6 +1,6 @@
 ---
 permalink: /overblik/udviklingsoensker/
-title:  "Uviklingsønsker"
+title:  "Udviklingsønsker"
 sidebar: true
 nav: "overblik"
 ---
