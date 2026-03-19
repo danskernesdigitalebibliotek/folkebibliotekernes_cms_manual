@@ -58,6 +58,9 @@ Vi laver et større design review, der skal sikre bedre principper og guidelines
 ### <span title="Færdig">🟢</span> Migrering til ny platform til hjemmesiderne
 Vi er færdige med at migrere alle siderne til en ny platform.
 
+### <span title="I gang">🟡</span> Fire repositories til 1
+Vi samler de fire repositories til én samlet kodebase. Dette øger effektiviten hos vores leverendør og sparer en stor mængde tid.
+
 ## Vores fokusområder
 Dette er de områder, som vi i Det Digitale Folkebibliotek kan se skal løftes på baggrund af vores arbejde eller jeres input. Det vil som oftes være større opgaver eller mange små indenfor samme område, som vi samler til et fokusområde. Alle områderne er ikke nødvendigvis noget som skal laves i 2026.
 
