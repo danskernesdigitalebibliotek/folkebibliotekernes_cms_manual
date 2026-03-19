@@ -9,7 +9,7 @@ Der kommer til at ske rigtig mange ting i 2026, og herunder kan du se en oversig
 
 Vi opdaterer siden løbende.
 
-Forklaring på farverne: <span title="Færdig">🟢</span> betyder at opgaven er helt færdig, <span title="I gang">🟡</span> betyder at udvikling på opgaven er i gang og <span title="Ikke i gang">🔴</span> betyder at vi ikke er begyndt på udviklingen (kan dog være startet på analyse eller planlægning af opgaven). Farverne har tooltip, hvis du ikke kan se farverne.
+Forklaring på farverne: <span title="Færdig">🟢</span> betyder at opgaven er helt færdig, <span title="I gang">🟡</span> betyder at udvikling på opgaven er i gang og <span title="Ikke i gang">🔴</span> betyder at vi ikke er begyndt på udviklingen (kan dog være startet på analyse eller planlægning af opgaven). Farverne har tooltip, hvis du ikke kan se farverne. {: .notice}
 
 ## Udviklingsønsker
 Vi går snarligt i gang med at udvikle på arrangementer, og så skal vi se hvad vi gør med resten af udviklingsønsker. Vi skal se om vi skal udvikle på emneområderne Søgning og værkvisning og Formidlingsparagrafer, og hvorvidt vi skal involvere bibliotekerne.
