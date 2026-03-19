@@ -73,8 +73,8 @@ Vi samarbejder med DBC om at lave en global huskeliste, så det ikke er hver tje
 ### <span title="I gang">🟡</span> eReolen efterslæb
 Vi skal have kigget på de mest kritiske problemer efter at eReolen blev integreret på hjemmesiderne. Vi har lavet flere forbedringer bl.a. i søgemulighederne på hjemmesiden.
 
-### <span title="Ikke i gang">🔴</span> Availability labels
-Der er flere problem med logikken i de etiketter, der vises tilgængeligheden af et materiale. 
+### <span title="Ikke i gang">🔴</span> Materialernes tilgængelighed og adgang
+Der er flere problem med tydeligheden af om et materiale er tilgængeligt og hvordan man får adgang til det.
 
 ### <span title="Ikke i gang">🔴</span> Periodika
 Periodika på hjemmesiderne har flere uhensigtmæssigheder, som bl.a. gør det svært at finde og vælge de korrekte udgaver.
