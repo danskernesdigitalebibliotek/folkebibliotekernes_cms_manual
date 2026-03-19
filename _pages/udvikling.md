@@ -37,8 +37,8 @@ Vi vil udvikle flere elementer, der skal præsentere bibliotekets tilbud til bor
 - <span title="I gang">🟡</span> Bedre kampagner
 - <span title="Ikke i gang">🔴</span> Anbefalinger på dashboardet
 
-### Statistik
-Vi udvider mængden af målepunkter, og introducerer et dashboard på FB CMS til data. Vi melder løbende opdateringer på statistiksporet ud på vores kanaler.
+### <span title="Ikke i gang">🔴</span> Statistik
+Vi udvider mængden af målepunkter, og introducerer et dashboard på FB CMS til data. 
 
 ## Drift og integrationer
 Der er en del opgaver, som skal laves til forbedre den daglige drift, og der er også nogle 3. parts integrationer, som vi skal have udviklet mod.
@@ -58,7 +58,7 @@ Vi laver et større design review, der skal sikre bedre principper og guidelines
 ### <span title="Færdig">🟢</span> Migrering til ny platform til hjemmesiderne
 Vi er færdige med at migrere alle siderne til en ny platform.
 
-### <span title="I gang">🟡</span> Fire repositories til 1
+### <span title="I gang">🟡</span> Fire repositories til en samlet kodebase
 Vi samler de fire repositories til én samlet kodebase. Dette øger effektiviten hos vores leverendør og sparer en stor mængde tid.
 
 ## Vores fokusområder
