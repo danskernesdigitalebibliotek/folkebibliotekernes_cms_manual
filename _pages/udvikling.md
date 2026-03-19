@@ -5,7 +5,9 @@ sidebar: true
 nav: "overblik"
 ---
 
-Der kommer til at ske rigtig mange ting i 2026, og herunder kan du se en oversigt over og en status på alt hvad vi skal lave. Vi vil opdatere siden løbende.
+Der kommer til at ske rigtig mange ting i 2026, og herunder kan du se en oversigt over og en status på alt hvad vi skal lave. Der er også mindre opgaver vi laver som ikke vil blive beskrevet her, men som kommunikeres via enten nyhedsbreve eller release notes.
+
+Vi opdaterer siden løbende.
 
 Forklaring på farverne: <span title="Færdig">🟢</span> betyder at opgaven er helt færdig, <span title="I gang">🟡</span> betyder at udvikling på opgaven er i gang og <span title="Ikke i gang">🔴</span> betyder at vi ikke er begyndt på udviklingen (kan dog være startet på analyse eller planlægning af opgaven). Farverne har tooltip, hvis du ikke kan se farverne.
 
