@@ -56,7 +56,7 @@ Der kommer en ny platform og en ny reader/player funktion til ebøger/lydbøger.
 Der kommer tre nye apps til bibliotekerne. Der kan være nogen elementer, som kan overlappe eller skal udvikles i CMS'et.
 
 ### <span title="Ikke i gang">🔴</span> Design review
-Vi laver et større design review, der skal sikre bedre principper og guidelines. Derudover vil der kigges på at få rettet irrationspunkter i designet hjemmesiderne.
+Vi laver et større design review, der skal sikre bedre principper og guidelines. Derudover vil der kigges på at få rettet irritationspunkter i designet på hjemmesiderne.
 
 ### <span title="Færdig">🟢</span> Migrering til ny platform til hjemmesiderne
 Vi er færdige med at migrere alle siderne til en ny platform.
