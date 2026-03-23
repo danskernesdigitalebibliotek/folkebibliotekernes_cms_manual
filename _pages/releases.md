@@ -24,7 +24,7 @@ Modultestsites opdateres ugentligt om torsdagen i de lige uger til seneste relea
 Der kan pga. af helligdage eller ferie opstå ændringer til den faste releaseplan. I det tilfælde vil det fremgå her.
 
 Ingen release i uge:
-- Uge 12: Reload er fraværende
+- Uge 12: Reload er fraværende (tilgengæld vil der være en release i uge 13)
 - Uge 14: Påske
 - Uge 20: Kr. Himmelfart
 - Uge 28: Sommerferie
