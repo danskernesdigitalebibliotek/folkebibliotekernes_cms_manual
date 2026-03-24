@@ -11,15 +11,15 @@ Releasedato: Bemærk denne release indeholder også 2026.8.0, som af tekniske å
 ## Ny udvikling
 
 •	**Muliggørelse af visning af lokale emneord samt færøske og grønlandske emne-ord: [CMS-1496](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1496)** <br>
-Bibliotekerne kan nu få vist egne lokale emneord samt emneord på færøsk og grønlandsk på værkvisningssiden, så materialer kan beskrives og findes mere præ-cist lokalt. Klik på disse særlige emneord resulterer i en afgrænset søgning i avanceret søgning, da disse ikke på samme måde som DBCs kontrollerede emneord kan gøres søgbare ved hjælp af facettering i simpel søgning. **Bemærk:** Dette skal konfigureres under Biblioteksindstillinger > Generelle indstillinger.
+Bibliotekerne kan nu få vist egne lokale emneord samt emneord på færøsk og grønlandsk på værkvisningssiden, så materialer kan beskrives og findes mere præcist lokalt. Klik på disse særlige emneord resulterer i en afgrænset søgning i avanceret søgning, da disse ikke på samme måde som DBCs kontrollerede emneord kan gøres søgbare ved hjælp af facettering i simpel søgning. **Bemærk:** Dette skal konfigureres under Biblioteksindstillinger > Generelle indstillinger.
 
 
 •	**Find på hylden: Fjerne nameSort og erstatte med alle opstillingsdata med shelf-mark.shelfmark og shelfmark.postfix: [CMS-1056](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1056)** <br>
-“Find på hylden”-funktionen bruger nu de fulde opstillingsdata fra bibliotekssy-stemet. Det giver mere præcise henvisnigner til opstillinger og gør det nemmere for både personale og borgere at finde materialer fysisk. Ændringen er gjort mulig på baggrund af en ændringsanmodning til KOMBIT og DBC om at udvide shelf-mark-data i FBI API’et.
+“Find på hylden”-funktionen bruger nu de fulde opstillingsdata fra bibliotekssystemet. Det giver mere præcise henvisnigner til opstillinger og gør det nemmere for både personale og borgere at finde materialer fysisk. Ændringen er gjort mulig på baggrund af en ændringsanmodning til KOMBIT og DBC om at udvide shelfmark-data i FBI API’et.
 
 
 •	**Ny VIP-profil implementeret på GO:** <br>
-Jeres GO-site har fået implementeret en ny VIP-profil (fbcms-go), der sikrer, at kun de rette materialer dukker op i søgningen. VIP-profilen tager stadig udgangs-punkt i jeres lokale beholdning samt digitale bøger og podcasts fra eReolen. De vi-ste materialetyper er fysiske bøger, e-bøger, lydbøger (online) og podcasts. I et af de kommende sprint vil værkvisningen blive tilrettet, så også tegneserier og graphic novels (fysiske såvel som digitale) kan vises. I skal ikke foretage jer noget for at det virker, og lav endelig ikke ændringer i VIP-profilen. 
+Jeres GO-site har fået implementeret en ny VIP-profil (fbcms-go), der sikrer, at kun de rette materialer dukker op i søgningen. VIP-profilen tager stadig udgangspunkt i jeres lokale beholdning samt digitale bøger og podcasts fra eReolen. De viste materialetyper er fysiske bøger, e-bøger, lydbøger (online) og podcasts. I et af de kommende sprint vil værkvisningen blive tilrettet, så også tegneserier og graphic novels (fysiske såvel som digitale) kan vises. I skal ikke foretage jer noget for at det virker, og lav endelig ikke ændringer i VIP-profilen. 
 
 
 •	**Find nærmeste filial på: /biblioteker:**
@@ -46,7 +46,7 @@ Titler på tv-serier viser nu også disc-nummer efter sæsonnummeret på værkvi
 
 
 •	**GO-forside synkroniser ikke på flere bibliotekers GO-sites:** <br>
-En fejl, hvor forsiden i GO! ikke blev opdateret korrekt på nogle biblioteks-sites, er nu løst. Ændringer på forsiden slår nu mere stabilt igennem.
+En fejl, hvor forsiden i GO! ikke blev opdateret korrekt på nogle bibliotekssites, er nu løst. Ændringer på forsiden slår nu mere stabilt igennem.
 
 •	**Webmasterbiblioteker: Ignorer oversættelser i config import/export: 
 [CMS-1829](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1829) og [CMS-1942](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1942)** <br>
