@@ -4,11 +4,10 @@ category: GO
 weight: 9
 ---
 
-GO har sin egen VIP-profil, der hedder ”fbcms-go”. Denne kan findes sammen med jeres andre VIP-profiler på FB CMS. 
-VIP-profilen er endnu ikke aktiv, da der skal laves nogle tilpasninger i koden for GO-sitet, før den aktiveres. Pt. benytter GO-sitet den VIP-profil, som er aktiv på jeres lokale hovedsite.
+GO har sin egen VIP-profil, der hedder ”fbcms-go”. Denne kan findes sammen med jeres andre VIP-profiler på FB CMS.
 
 **GO-profilen er opsat til at vise:** 
-- E-bøger, lydbøger og podcasts fra Publizon (eReolens kilder)
+- E-bøger, e-tegneserier, e-graphic novels, e-billedbøger, lydbøger og podcasts fra Publizon (eReolens kilder)
 - Fysiske bøger, tegneserier, billedbøger og graphic novels fra jeres beholdning
 
 
