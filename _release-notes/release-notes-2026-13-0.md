@@ -11,9 +11,10 @@ weight: 309
 
 ## Ny udvikling
 
-•	**Ny indholdstype: Delingsknap til SoMe-brug:**
+•	**Ny indholdstype: Delingsknap til SoMe-brug:** <br>
 Der er tilføjet en ny knap, som kan aktiveres i en paragraph, så sider, artikler og materialevisning kan deles på Facebook, og link kan kopieres.
-<br> Slå knapperne til for materialer under: **Indstillinger > Biblioteksindstillinger > Generelle indstillinger (admin/config/dpl-library-agency/general-settings)**
+<br> 
+Slå knapperne til for materialer under: **Indstillinger > Biblioteksindstillinger > Generelle indstillinger (admin/config/dpl-library-agency/general-settings)**
 
 <br>
 
