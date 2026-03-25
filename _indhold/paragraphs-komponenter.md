@@ -76,6 +76,9 @@ Hero oprettes med et internt eller eksternt link samt en overskrift og en beskri
 
 {% include figure class="sixty" image_path="https://github.com/user-attachments/assets/6e518e2e-c309-4400-b260-6b15a3fc52a3" alt="Eksempel på en hero" caption="Eksempel på en hero" %}
 
+## Share buttons
+Man kan tilføje deleknapper på indholdet ved at tilføje denne paragraf på sit indhold. Det er en knap til facebook og en til at kopiere linket.
+
 ## Indholdskomponenter
 Her er de komponenter, som man kan bruge til at indsætte indhold såsom tekst, billeder og video.
 
