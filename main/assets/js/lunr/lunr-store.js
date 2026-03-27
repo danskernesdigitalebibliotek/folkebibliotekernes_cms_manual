@@ -960,7 +960,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2026.13.0",
-        "excerpt":"Redaktør: Produktionssites: 2026.13.0 Webmaster: Produktionssites: 2026.11.2, Moduletestsites: 2026.13.0 Ny udvikling • Ny indholdstype: Delingsknap til SoMe-brug: Der er tilføjet en ny knap, som kan aktiveres i en paragraph, så sider, artikler og materialevisning kan deles på Facebook, og link kan kopieres. Slå knapperne til for materialer under: Indstillinger &gt; Biblioteksindstillinger...","categories": ["Release Notes"],
+        "excerpt":"Redaktør: Produktionssites: 2026.13.0 Webmaster: Produktionssites: 2026.11.2, Moduletestsites: 2026.13.0 Ny udvikling • Ny indholdstype: Delingsknap til SoMe-brug: Der er tilføjet nye delingsknapper, som kan aktiveres ved at tilføje paragrafen, så sider, artikler, arrangmenter og materialevisning kan deles på Facebook, og link kan kopieres. Slå knapperne til for materialer under: Indstillinger &gt;...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2026-13-0/",
         "teaser": null
