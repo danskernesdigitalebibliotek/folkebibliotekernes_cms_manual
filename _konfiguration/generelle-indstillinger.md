@@ -66,7 +66,6 @@ Med release 2025.48.1 er det nu muligt at aktivere funktionen “Find nærmeste 
 - Nye felter på filialer: Agency branch ID: Bruges til at koble filialen til en FBS branch (kun nødvendigt, hvis funktionen aktiveres).
 - Nyt adressefelt med søgning: Det nye adressefelt skal fremover bruges, da andre dele af hjemmesiden nu benytter dette felt.
 
-
 **Sådan administrerer biblioteket funktionen**
 1.	Gå til /biblioteker
 2.	Rediger hver enkel biblioteksfilial
@@ -84,8 +83,15 @@ Med release 2025.48.1 er det nu muligt at aktivere funktionen “Find nærmeste 
 - Det anbefales at migrere adresser til det nye adressefelt hurtigst muligt, da det bruges flere steder på hjemmesiden (fx arrangementer).
 
 
+## Deleknapper
+Hvis denne er slået til, så vil deleknapperne blive vist på værkvisningen.
+Deleknapperne består af en Facebook-knap og en kopier link-knap. Knapperne vil blive vist til venstre på værkvisningssiden, så det er muligt at linke til et konkret værk fra sine SoMe-kanaler.
+
+
+
 ## Link til åbningstider
 {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/99ecacda-9899-4b3a-9728-06f4d1e0e79e" alt="Link til åbningstider" caption="Link til åbningstider" %} 
+
 
 ## Søgning
 
