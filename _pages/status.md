@@ -4,6 +4,11 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 31/3 MitID er Ustabil
+MitID-løsningen oplever ustabilitet.
+Slutbrugere, der forsøger at logge ind med MitID. Kun få brugere kommer igennem. Leverandøren er i gang med at fejlsøge.
+Læs mere her på Digitaliser.dk: (https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid)
+
 ## 16/3 LØST -Login med Bibliotekslogin og søgning fejler
 Der er i øjeblikket problemer med at logge ind med Bibliotekslogin og søgning på hjemmesiderne og app. Reload, DBC og Systematic arbejder på at løse problemet hurtigst muligt.
 
