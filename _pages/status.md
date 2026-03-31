@@ -4,7 +4,7 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
-## 31/3 MitID er Ustabil
+## 31/3 MitID er ustabil
 MitID-løsningen oplever ustabilitet.
 Slutbrugere, der forsøger at logge ind med MitID. Kun få brugere kommer igennem. Leverandøren er i gang med at fejlsøge.
 Læs mere her på Digitaliser.dk: (https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid)
