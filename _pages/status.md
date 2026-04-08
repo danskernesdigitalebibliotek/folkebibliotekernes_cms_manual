@@ -4,6 +4,9 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+## 8/4 Det Kgl. Bibliotek lukker for modtagelse af bestillinger og adgang til digitale services fra lørdag den 11. april til søndag den 12. april 2026.
+Dette gælder også for bestillinger til Digital Artikelservice via folkebibliotekernes hjemmesider, som ikke vil fungerer i denne weekend.
+
 ## 31/3 LØST: MitID er ustabil
 MitID-løsningen oplever ustabilitet.
 Slutbrugere, der forsøger at logge ind med MitID. Kun få brugere kommer igennem. Leverandøren er i gang med at fejlsøge.
