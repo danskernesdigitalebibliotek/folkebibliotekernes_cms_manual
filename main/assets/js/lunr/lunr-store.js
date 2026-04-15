@@ -965,6 +965,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-13-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2026.16.0",
+        "excerpt":"Redaktør: Produktionssites: 2026.16.0 Webmaster: Produktionssites: 2026.13.0, Moduletestsites: 2026.16.0 Ny udvikling Flere materialetyper på GO:GO! understøtter nu flere materialetyper på børnesitet: billedbøger, graphic novels og tegneserier (både fysiske og digitale). Det betyder, at børnene får flere valg i både søgning, materialelister og på værksiden, så det er nemmere at finde den...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2026-16-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 2026.2.4",
         "excerpt":"Releasedato: 12-01-2026 Redaktør: Produktionssites: 2026.2.4 Webmaster: Produktionssites: 2025.50.1, Moduletestsites: 2026.2.4 Hotfix 2026.2.4 Løser fejlen i heroen hvor link ikke virker: CMS-1848 Releasedato: 09-01-2026 Redaktør: Produktionssites: 2026.02.3 Webmaster: Produktionssites: 2025.50.1, Moduletestsites: 2026.02.3 Hotfix 2026.02.3 Løser fejlen i heroen på filialvisningssiden, hvor kontaktoplysninger manglede. Releasedato: 09-01-2026 Redaktør: Produktionssites: 2026.02.2 Webmaster: Produktionssites: 2025.50.1,...","categories": ["Release Notes"],
         "tags": [],
