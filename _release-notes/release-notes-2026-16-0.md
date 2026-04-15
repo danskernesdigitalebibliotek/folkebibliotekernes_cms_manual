@@ -10,7 +10,7 @@ weight: 308
 
 ## Ny udvikling
 
-**Flere materialetyper på GO:GO!** understøtter nu flere materialetyper på børnesitet: billedbøger, graphic novels og tegneserier (både fysiske og digitale). Det betyder, at børnene får flere valg i både søgning, materialelister og på værksiden, så det er nemmere at finde den ønskede version. Den nye værkvisning er sammen med 5 andre prototyper testet på 40 børn i målgruppen. Børnene var utvetydigt tilhængere af denne værkvisning.
+**Flere materialetyper på GO!:** GO! understøtter nu flere materialetyper på børnesitet: billedbøger, graphic novels og tegneserier (både fysiske og digitale). Det betyder, at børnene får flere valg i både søgning, materialelister og på værksiden, så det er nemmere at finde den ønskede version. Den nye værkvisning er sammen med 5 andre prototyper testet på 40 børn i målgruppen. Børnene var utvetydigt tilhængere af denne værkvisning.
 
 ## Forbedringer og fejlrettelser
 
