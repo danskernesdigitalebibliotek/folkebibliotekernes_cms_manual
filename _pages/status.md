@@ -5,7 +5,7 @@ sidebar: true
 nav: "overblik"
 ---
 
-## 15/4 Mange af DBC's systemer er utilgængelige
+## 15/4 LØST: Mange af DBC's systemer er utilgængelige
 Mange af DBC's systemer kan i øjeblikket opleves utilgængelige. Der kan være problemer med login og søgning mv. 
 
 DBC arbejder på at løse problemet hurtigst muligt. Læs mere på https://kundeservice.dbc.dk/
