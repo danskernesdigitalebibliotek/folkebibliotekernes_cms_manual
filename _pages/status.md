@@ -4,6 +4,12 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+
+## 15/4 Mange af DBC's systemer er utilgængelige
+Mange af DBC's systemer kan i øjeblikket opleves utilgængelige. Der kan være problemer med login og søgning mv. 
+
+DBC arbejder på at løse problemet hurtigst muligt. Læs mere på https://kundeservice.dbc.dk/
+
 ## 8/4 Det Kgl. Bibliotek lukker for modtagelse af bestillinger og adgang til digitale services fra lørdag den 11. april til søndag den 12. april 2026.
 Dette gælder også for bestillinger til Digital Artikelservice via folkebibliotekernes hjemmesider, som ikke vil fungerer i denne weekend.
 
