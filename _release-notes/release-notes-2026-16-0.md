@@ -17,7 +17,7 @@ weight: 308
 **Landekoder på materialer overholder nu standarden for landekoder (ISO 639-2):** 
 Rettelsen er en forudsætning for at efterleve tilgængelighedskrav. Den sikrer, at skærmlæsere oplæser titler med korrekt sprog - f.eks. at engelske titler oplæses på engelsk og ikke dansk.
 
-**Låner logges ud af sitet, når browseren lukkes:** Tidligere forblev låner logget ind, selv efter at browseren var lukket. 
+**Låner logges ud af sitet, når browseren lukkes:** Tidligere ville låneren stadig være logget ind, når browseren blev åbnet igen. 
 
 **Synkronisering med place2Book:** Synkroniseringen mellem DDF-arrangementer og Place2Book er justeret, så lokationsvisning nu stemmer overens. Tidligere kunne arrangementer, der afholdes på f.eks. Medborgerhuset, fremstå med filialnavn (f.eks. Taastrup Bibliotek) kombineret med Medborgerhusets adresse i Place2Book. Den bagvedliggende håndtering af sted-felter er nu rettet, så Place2Book ikke længere viser en misvisende kombination af filial og adresse.
 
