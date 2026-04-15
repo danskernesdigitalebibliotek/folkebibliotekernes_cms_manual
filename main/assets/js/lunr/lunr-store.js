@@ -966,7 +966,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2026.16.0",
-        "excerpt":"Redaktør: Produktionssites: 2026.16.0 Webmaster: Produktionssites: 2026.13.0, Moduletestsites: 2026.16.0 Ny udvikling Flere materialetyper på GO:GO! understøtter nu flere materialetyper på børnesitet: billedbøger, graphic novels og tegneserier (både fysiske og digitale). Det betyder, at børnene får flere valg i både søgning, materialelister og på værksiden, så det er nemmere at finde den...","categories": ["Release Notes"],
+        "excerpt":"Redaktør: Produktionssites: 2026.16.0 Webmaster: Produktionssites: 2026.13.0, Moduletestsites: 2026.16.0 Ny udvikling Flere materialetyper på GO!: GO! understøtter nu flere materialetyper på børnesitet: billedbøger, graphic novels og tegneserier (både fysiske og digitale). Det betyder, at børnene får flere valg i både søgning, materialelister og på værksiden, så det er nemmere at finde...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2026-16-0/",
         "teaser": null
