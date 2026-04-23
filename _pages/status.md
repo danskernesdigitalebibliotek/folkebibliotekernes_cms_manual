@@ -5,7 +5,7 @@ sidebar: true
 nav: "overblik"
 ---
 
-## 23/4: Huskelister fejler
+## 23/4: LØST- Huskelister fejler
 Vi har udfald på Material List, dvs huskelisten. Slutbrugerne vil opleve at de ikke kan tilgå deres liste og ej heller kan føje noget til den. Så vidt vi har testet gælder det både app og web. Vi arbejder på en løsning.
 
 ## 15/4 LØST: Mange af DBC's systemer er utilgængelige
