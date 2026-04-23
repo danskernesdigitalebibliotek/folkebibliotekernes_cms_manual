@@ -6,7 +6,7 @@ nav: "overblik"
 ---
 
 ## 23/4: Huskelister fejler
-Vi har udfald på Material List, dvs huskelisten. Slutbrugerne vil opleve at de ikke kan tilgå deres liste og ej heller kan føje noget til den. Så vidt vi har testet gælder det både app og web. Vi afventer svar fra DBC, da vi får store mængder trafik derfra.
+Vi har udfald på Material List, dvs huskelisten. Slutbrugerne vil opleve at de ikke kan tilgå deres liste og ej heller kan føje noget til den. Så vidt vi har testet gælder det både app og web. Vi arbejder på den løsning.
 
 ## 15/4 LØST: Mange af DBC's systemer er utilgængelige
 Mange af DBC's systemer kan i øjeblikket opleves utilgængelige. Der kan være problemer med login og søgning mv. 
