@@ -26,9 +26,9 @@ Der er tre spor i dette projekt: GO, Merengagement og Statistik.
 ### <span title="I gang">🟡</span> GO
 Vi har flere forbedringer til GO.
 
-- <span title="Ikke i gang">🔴</span> Reservering af fysiske materialer
+- <span title="Ikke i gang">🟡</span> Reservering af fysiske materialer
 - <span title="Ikke i gang">🔴</span> Personaliserede anbefalinger
-- <span title="Ikke i gang">🔴</span> Loginlogik
+- <span title="Ikke i gang">🟡</span> Loginlogik
 - <span title="I gang">🟡</span> Tilpasning af formidling (højformatvideo)
 - <span title="I gang">🟢</span> Tilpasning af VIP-profil og værkvisning
 
