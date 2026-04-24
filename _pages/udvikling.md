@@ -30,7 +30,7 @@ Vi har flere forbedringer til GO.
 - <span title="Ikke i gang">🔴</span> Personaliserede anbefalinger
 - <span title="Ikke i gang">🔴</span> Loginlogik
 - <span title="I gang">🟡</span> Tilpasning af formidling (højformatvideo)
-- <span title="I gang">🟡</span> Tilpasning af VIP-profil
+- <span title="I gang">🟢</span> Tilpasning af VIP-profil og værkvisning
 
 ### <span title="I gang">🟡</span> Merengagement
 Vi vil udvikle flere elementer, der skal præsentere bibliotekets tilbud til borgerne på det rette tidspunkt i brugerrejsen.
