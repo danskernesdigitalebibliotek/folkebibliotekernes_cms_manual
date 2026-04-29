@@ -25,7 +25,7 @@ Releasedato: 30-04-2026
 
 - Visning af lokale emneord samt færøske og grønlandske emneord vises nu kun én gang og ikke i dubletter – emneord på tværs af flere manifestationer/udgaver kunne vises gentagne gange på værkvisningen, hvis flere udgaver havde det/de samme lokale emneord. Fremover vises identiske lokale emneord kun én gang. [CMS-1496](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1496)
 
-- GO: Bibliotekslogin og Unilogin - redirect til værkvisning efter login – sikrer at brugeren sendes tilbage til værkvisningen og reservering af det ønskede materiale efter bibliotekslogin og Unilogin fremfor til lånerstatus som tidligere.
+- GO: Bibliotekslogin og Unilogin - redirect til værkvisning efter login – sikrer at brugeren sendes tilbage til værkvisningen og lån af det ønskede digitale materiale efter bibliotekslogin og Unilogin fremfor til lånerstatus som tidligere.
 
 - GO: Fejl i filtre på allesøgning – fjerner/retter tomme materialetype-filtre, som opstod ved allesøgning (fx søgning på *) efter nye materialetyper. 
 
