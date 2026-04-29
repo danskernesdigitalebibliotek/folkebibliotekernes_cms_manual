@@ -971,6 +971,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-16-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2026.18.1",
+        "excerpt":"Releasedato: 30-04-2026 Redaktør: Produktionssites: 2026.18.1 Webmaster: Produktionssites: 2026.16.0, Moduletestsites: 2026.18.1 Ny udvikling GO: Videobundle i højformat – nyt videobundle til højformat-videoer med tilknyttede materialer. Denne nye paragraph gør det muligt at lave formidling, som ligner det, børnene er vant til at se på YouTube etc. Udviklingen er en del af...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2026-18-1/",
+        "teaser": null
+      },{
         "title": "Release Notes 2026.2.4",
         "excerpt":"Releasedato: 12-01-2026 Redaktør: Produktionssites: 2026.2.4 Webmaster: Produktionssites: 2025.50.1, Moduletestsites: 2026.2.4 Hotfix 2026.2.4 Løser fejlen i heroen hvor link ikke virker: CMS-1848 Releasedato: 09-01-2026 Redaktør: Produktionssites: 2026.02.3 Webmaster: Produktionssites: 2025.50.1, Moduletestsites: 2026.02.3 Hotfix 2026.02.3 Løser fejlen i heroen på filialvisningssiden, hvor kontaktoplysninger manglede. Releasedato: 09-01-2026 Redaktør: Produktionssites: 2026.02.2 Webmaster: Produktionssites: 2025.50.1,...","categories": ["Release Notes"],
         "tags": [],
