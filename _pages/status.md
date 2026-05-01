@@ -5,6 +5,9 @@ sidebar: true
 nav: "overblik"
 ---
 
+## 1/5: Søgning og brønddata fejler
+Vi oplever lige nu fejl på tilgangen til brønddata og søgning. Vi arbejder på at finde fejlen.
+
 ## 23/4: LØST- Huskelister fejler
 Vi har udfald på Material List, dvs huskelisten. Slutbrugerne vil opleve at de ikke kan tilgå deres liste og ej heller kan føje noget til den. Så vidt vi har testet gælder det både app og web. Vi arbejder på en løsning.
 
