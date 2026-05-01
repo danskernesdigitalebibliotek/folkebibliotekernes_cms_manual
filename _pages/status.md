@@ -4,6 +4,7 @@ title:  "Status på udvikling og fejlrettelser"
 sidebar: true
 nav: "overblik"
 ---
+<br>
 
 ## 1/5: Søgning og brønddata fejler
 Vi oplever lige nu fejl på tilgangen til brønddata og søgning. Vi arbejder på at finde fejlen.
