@@ -61,7 +61,7 @@ Vi laver et større design review, der skal sikre bedre principper og guidelines
 ### <span title="Færdig">🟢</span> Migrering til ny platform til hjemmesiderne
 Vi er færdige med at migrere alle siderne til en ny platform.
 
-### <span title="I gang">🟡</span> Fire repositories til en samlet kodebase
+### <span title="Færdig">🟢</span> Fire repositories til en samlet kodebase
 Vi samler de fire repositories til én samlet kodebase. Dette øger effektiviten hos vores leverendør og sparer en stor mængde tid.
 
 ## Vores fokusområder
