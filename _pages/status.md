@@ -6,6 +6,9 @@ nav: "overblik"
 ---
 <br>
 
+## 7/5: Alle sites er nede
+Vi var lidt hurtige til at melde at det kun var søgning. Det ligner at være noget netværksudstyr der har fejlet hos Computerome. De arbejder på at løse problemet.
+
 ## 7/5: Alle sites nede med søgning
 Hjemmesiderne melder fejl på alle de sider på hjemmesiden, som har materialer samt søgning. Reload er på sagen.
 
