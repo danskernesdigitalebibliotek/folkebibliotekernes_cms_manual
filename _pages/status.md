@@ -6,6 +6,9 @@ nav: "overblik"
 ---
 <br>
 
+## 7/5: Alle sites nede med søgning
+Fejlen fejler alle de sider på hjemmesiden, som har materialer samt søgning. Reload er på sagen.
+
 ## 1/5: LØST: Søgning og brønddata fejler
 Vi oplever lige nu fejl på tilgangen til brønddata og søgning. Reload har identificeret problemet og er i gang med køre løsningen ud på alle sites.
 
