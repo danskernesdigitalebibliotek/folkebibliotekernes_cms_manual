@@ -46,8 +46,8 @@ Vi udvider mængden af målepunkter, og introducerer et dashboard på FB CMS til
 ## Drift og integrationer
 Der er en del opgaver, som skal laves til forbedre den daglige drift, og der er også nogle 3. parts integrationer, som vi skal have udviklet mod.
 
-### <span title="Ikke i gang">🔴</span> FBS 2.0
-Der kommer et nyt FBS 2.0. Dette påvirker mange af de udviklingsopgaver vi har. Vi er i gang med at analysere hvordan CMS'et påvirkes, og hvor stor en opgave der venter.
+### <span title="Udskudt">⚫</span> FBS 2.0
+Er flyttet til næste år. Der kommer et nyt FBS 2.0. Dette påvirker mange af de udviklingsopgaver vi har. Vi er i gang med at analysere hvordan CMS'et påvirkes, og hvor stor en opgave der venter.
 
 ### <span title="Ikke i gang">🔴</span> Ny platform og reader/player funktion til ebøger/lydbøger 
 Der kommer en ny platform og en ny reader/player funktion til ebøger/lydbøger. Vi er i gang med at analysere hvordan CMS'et påvirkes, og hvor stor en opgave der venter.
