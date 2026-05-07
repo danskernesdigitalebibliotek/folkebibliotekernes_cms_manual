@@ -6,6 +6,9 @@ nav: "overblik"
 ---
 <br>
 
+## 7/5 kl. 10.25 Alle sites oppe igen
+Alle sites er nu oppe igen. Vi beklager nedetiden og de gener det har medført. 
+
 ## 7/5 kl. 10: Status
 Status er at vi pt ikke har nyt i sagen, men der arbejdes fortsat intenst på at løse fejlene.
 
