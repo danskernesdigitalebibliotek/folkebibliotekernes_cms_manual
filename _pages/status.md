@@ -6,6 +6,9 @@ nav: "overblik"
 ---
 <br>
 
+## 7/5 kl. 10: Status
+Status er at vi pt ikke har nyt i sagen, men der arbejdes fortsat intenst på at løse fejlene.
+
 ## 7/5: Alle sites er nede
 Vi var lidt hurtige til at melde at det kun var søgning. Det ligner at være noget netværksudstyr der har fejlet hos Computerome. De arbejder på at løse problemet.
 
