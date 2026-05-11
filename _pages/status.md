@@ -6,7 +6,15 @@ nav: "overblik"
 ---
 <br>
 
-## 7/5 kl. 10.25 Alle sites oppe igen
+## 11/5: Slutbrugere kan ikke ændre reservingspause ved login med MitID
+Vi oplever lige nu et problem med at slutbrugerne at slutbrugerne ikke kan ændre/oprette deres reserveringspause i brugerprofilen, hvis de er logget ind med MitID. Vi er på sagen med at få det rettet, og det skulle gerne komme ud med releasen i uge 21. 
+
+## 11/5: Artikler fra Delingstjenesten
+Måske har I lagt mærke til at der er kommet en del artikler ind fra Delingstjenesten? Artiklerne er kommet ud til bibliotekerne på grund af et hot fix, som blev rullet ud for at stabilisere abonnementerne i sidste uge. Hot fixet gik ud på at frigive “content slideren” som delbar fra Delingstjenesten, hvorfor artikler, som hørte til i eReolens app kom ud på den side, der er delt som eReolens inspirationsside i “hjælpeuniverset”. Vi beklager det besvær, fixet har medført, men der havde dannet sig en masse støj i forbindelsen mellem bibliotekerne og Delingstejensten, som vi skulle finde en løsning på.
+
+Løsning: Contentslideren skal ikke længere kunne deles fra Delingstjenesten. Hermed vil nye artikler ikke længere dukke op på jeres side. Vi satser på at have et hot fix klar hurtigst muligt som stopper synkronisering. Men det vil stadigvæk betyde, at I kan blive nødt til at rydde op i det, som evt. er kommet ind. Læs mere i denne sag: [CMS-2023](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-2023)
+
+## 7/5 kl. 10.25: Alle sites oppe igen
 Alle sites er nu oppe igen. Vi beklager nedetiden og de gener det har medført. 
 
 ## 7/5 kl. 10: Status
