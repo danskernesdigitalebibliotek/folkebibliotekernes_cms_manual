@@ -100,17 +100,17 @@ Under triggers vælger du, hvilke kriterier der skal være opfyldt for at kampag
 Det kan tilføjes to typer af triggers: 1. Facet eller 2. Søgeord. Tryk på de to 'Tilføj...' knapper for at oprette triggers.
 {% include figure class="seventy" image_path="https://github.com/user-attachments/assets/073d99be-b99a-4668-bb40-08a3779b3426" alt="Triggers til kampagner" caption="Triggers til kampagner" %}
 
-**Trigger Facet**
+**Trigger Facet**    
 Under ”Facet” vælges hvilken facet, triggeren baseres på.
 
 Under ”Term” vælges hvilken værdi, triggeren skal udløses af. Bemærk, at denne værdi skal skrives som den vises under ”flere filtre” i søgeresultatet. Hvis der står ”A. CONAN DOYLE” under forfatter, så udløses kampagnen ikke, hvis man har skrevet ”conan doyle”. Bemærk også, at feltet er case sensitivt, og at alle værdierne udelukkende skal skrives med små bogstaver. Tjek, at du kan udløse din kampagne for at sikre, at du har skrevet værdierne rigtigt.
 
 Under ”Term Ranking Maximum” vælges hvor højt på listen over de hyppigst forekommende værdier i søgesættet, den valgte værdi skal figurere under den valgte facet, for at kampagnen vises.
 
-**Trigger Søgeord**
+**Trigger Søgeord**    
 Søgeordene vil trigger kampagnen, hvis brugerne bruger de samme ord i en simple search. Det er en fuzzy søgning, så "fiction" vil matche "science-fiction bøger".
 
-**Triggerlogik**
+**Triggerlogik**    
 Under ”Triggerlogik” vælger du, om dine regler skal kombineres med AND (alle triggers skal være opfyldt for at kampagnen vises) eller OR (kun én trigger behøver være opfyldt for at kampagnen vises). Denne indstilling er selvfølgelig irrelevant, hvis man kun opretter én trigger.
 
 ### Eksempel på hvordan facet triggere virker:
