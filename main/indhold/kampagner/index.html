@@ -37,7 +37,7 @@
 
 
 
-  <meta property="article:published_time" content="2026-05-11T13:38:57+00:00">
+  <meta property="article:published_time" content="2026-05-12T08:58:23+00:00">
 
 
 
@@ -380,7 +380,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Kampagne">
     <meta itemprop="description" content="Kampagner er en selvstændig indholdstype, der vises på søgeresultat-siden – men kun hvis det,som brugeren søger på, udløser den.">
-    <meta itemprop="datePublished" content="2026-05-11T13:38:57+00:00">
+    <meta itemprop="datePublished" content="2026-05-12T08:58:23+00:00">
     
 
     <div class="page__inner-wrap">
@@ -478,6 +478,80 @@ Under ”Term Ranking Maximum” vælges hvor højt på listen over de hyppigst 
 
 <p>Foretag gerne nogle søgninger på dit site, for at tjekke at den rent faktisk bliver udløst af de søgninger, du ønsker, og tilret, indtil dens adfærd er som du ønsker.</p>
 
+<h1 id="vejledningen-til-det-nye-i-kampagner-ikke-kommet-endnu">Vejledningen til det nye i kampagner (ikke kommet endnu)</h1>
+
+<h2 id="sådan-opretter-du-en-kampagne-1">Sådan opretter du en kampagne</h2>
+<p>I topmenuen klik på <strong>Indhold</strong> eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk)</p>
+
+<ol>
+  <li>Klik så på <strong>Tilføj indhold</strong> i øverste højre hjørne:</li>
+</ol>
+<figure class="seventy"><img src="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/5d5b8807-fc0a-45aa-ad24-1f2eb6b0f972" alt="Opret en ny kampagne med knappen Tilføj indhold" /><figcaption>
+      Opret en ny kampagne med knappen Tilføj indhold
+
+    </figcaption></figure>
+
+<ol>
+  <li>Klik på <strong>Kampagne</strong></li>
+</ol>
+
+<h3 id="opret-din-kampagne">Opret din kampagne</h3>
+
+<figure class="seventy"><img src="https://github.com/user-attachments/assets/a0520c44-85b4-4009-ae91-7c58911fe940" alt="Formularen til at oprette en kampagne" /><figcaption>
+      Formularen til at oprette en kampagne
+
+    </figcaption></figure>
+
+<p><strong>Titel</strong> <br />
+”Titel” må ikke være tom. Det er kampagnens titel, som IKKE vises for slutbrugerne.</p>
+
+<p><strong>Vægt</strong>
+“Vægt” er en måde at vægte kampagner efter prioritet. Så hvis flere kampagner burde blive vist, så er det den med den højeste vægt, som vises. Er der flere med samme vægt, så vises en tilfældig. Dette kan bruges til fx at give kampagnen om den vigtige litteraturfestival vægten ‘Højest’ og en kampagne, som linker hen til en fast litteratur sektionsside ‘Lav’ eller ‘Medium’. Vægten er mest vigtig for dem, som laver mange kampagner, og skal sikre at de rigtige vises. ‘Medium’ er standardindstillingen.</p>
+
+<p><strong>Link</strong>  <br />
+”Link” må heller ikke være tom. Det er det sted, hvor brugeren kommer hen, hvis han klikker på kampagnen. Det kan både være en side på hjemmesiden, eller det kan være et eksternt site. Hvis du linke til et arrangement, så sæt den absolutte URL ind fx https://www.naesbib.dk/naestved-bibliotek/arrangementer/foredrag/om-murakami-og-japansk-litteratur</p>
+
+<p><strong>Tekst</strong>  <br />
+”Tekst” er den tekst, som vises for slutbrugeren, når kampagnen udløses, fx ”Foredrag med Forfatter Skriversen d. 13/7” eller ”Lån koncertfilm online med Qello” ell. lign. Skriv ikke for lange tekster, da kampagnen så bliver meget stor på mobil.</p>
+
+<p><strong>Media</strong>  <br />
+Her kan du uploade et billede.</p>
+
+<p>Dette beskæres automatisk, så det passer til den valgte kampagnevisning. Der kan ikke gives præcise formater, da beskæringen tilpasser sig skærmstørrelsen, men som tommelfingerregel bør dit billede være en smule bredere end 16:9, hvis det vises sammen med tekst (altså hvis du ikke har ladet feltet ”Text” være tomt), og omkring 5:1, hvis det vises uden tekst. 
+Du kan med fordel eksperimentere lidt med det; husk at tjekke forskellige skærmstørrelser.</p>
+
+<h3 id="triggers">Triggers</h3>
+<p>Under triggers vælger du, hvilke kriterier der skal være opfyldt for at kampagnen vises.</p>
+
+<p>Det kan tilføjes to typer af triggers: 1. Facet eller 2. Søgeord. Tryk på de to ‘Tilføj…’ knapper for at oprette triggers.</p>
+<figure class="seventy"><img src="https://github.com/user-attachments/assets/073d99be-b99a-4668-bb40-08a3779b3426" alt="Triggers til kampagner" /><figcaption>
+      Triggers til kampagner
+
+    </figcaption></figure>
+
+<p><strong>Trigger Facet</strong>
+Under ”Facet” vælges hvilken facet, triggeren baseres på.
+Under ”Term” vælges hvilken værdi, triggeren skal udløses af. Bemærk, at denne værdi skal skrives som den vises under ”flere filtre” i søgeresultatet. Hvis der står ”A. CONAN DOYLE” under forfatter, så udløses kampagnen ikke, hvis man har skrevet ”conan doyle”. Bemærk også, at feltet er case sensitivt, og at alle værdierne udelukkende skal skrives med små bogstaver. Tjek, at du kan udløse din kampagne for at sikre, at du har skrevet værdierne rigtigt.
+Under ”Term Ranking Maximum” vælges hvor højt på listen over de hyppigst forekommende værdier i søgesættet, den valgte værdi skal figurere under den valgte facet, for at kampagnen vises.</p>
+
+<p><strong>Trigger Søgeord</strong>
+Søgeordene vil trigger kampagnen, hvis brugerne bruger de samme ord i en simple search. Det er en fuzzy søgning, så “fiction” vil matche “science-fiction bøger”.</p>
+
+<p><strong>Triggerlogik</strong>
+Under ”Triggerlogik” vælger du, om dine regler skal kombineres med AND (alle triggers skal være opfyldt for at kampagnen vises) eller OR (kun én trigger behøver være opfyldt for at kampagnen vises). Denne indstilling er selvfølgelig irrelevant, hvis man kun opretter én trigger.</p>
+
+<h3 id="eksempel-på-hvordan-facet-triggere-virker">Eksempel på hvordan facet triggere virker:</h3>
+<p>Ønsker man fx at oprette en kampagne, der vises på alle søgesæt, hvori Sara Blædel er blandt de forfattere, der er repræsenteret hyppigst, vælges ”Facet” -&gt; ”Creators”, og i ”Term” skrives så ”sara blædel”.</p>
+
+<p>Ønskes kampagnen vist, hvis Sara Blædel fx er blandt de 7 hyppigst repræsenterede forfattere i søgesættet, sættes ”Most common values” til 7.
+Ønskes kampagnen derimod kun vist, hvis Sara Blædel er forfatter til flere poster i søgesættet end nogen anden, sættes ”Most common values” til 1.</p>
+
+<p>I mange tilfælde er ”Emne” den mest meningsfulde facet-type at vælge. Vær opmærksom på, at vælge emne-ord, der svarer til sprogbrugen i de katalogiserede materialer. Skriv fx ikke ”EU”, men ”den europæiske union”, da det er det emneord, DBC ved katalogisering tildeler materiale om EU.</p>
+
+<p>Ønskes flere triggers, klik da på ”Tilføj Campaign Rule”.</p>
+
+<p>Foretag gerne nogle søgninger på dit site, for at tjekke at den rent faktisk bliver udløst af de søgninger, du ønsker, og tilret, indtil dens adfærd er som du ønsker.</p>
+
         
       </section>
 
@@ -493,7 +567,7 @@ Under ”Term Ranking Maximum” vælges hvor højt på listen over de hyppigst 
         
 
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2026-05-11T13:38:57+00:00">May 11, 2026</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2026-05-12T08:58:23+00:00">May 12, 2026</time></p>
 
 
       </footer>
