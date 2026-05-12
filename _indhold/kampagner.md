@@ -76,7 +76,7 @@ Foretag gerne nogle søgninger på dit site, for at tjekke at den rent faktisk b
 
 {% include figure class="seventy" image_path="https://github.com/user-attachments/assets/a0520c44-85b4-4009-ae91-7c58911fe940" alt="Formularen til at oprette en kampagne" caption="Formularen til at oprette en kampagne" %}
 
-**Titel**   
+**Titel**
 ”Titel” må ikke være tom. Det er kampagnens titel, som IKKE vises for slutbrugerne.
 
 **Vægt**
@@ -102,7 +102,9 @@ Det kan tilføjes to typer af triggers: 1. Facet eller 2. Søgeord. Tryk på de 
 
 **Trigger Facet**
 Under ”Facet” vælges hvilken facet, triggeren baseres på.
+
 Under ”Term” vælges hvilken værdi, triggeren skal udløses af. Bemærk, at denne værdi skal skrives som den vises under ”flere filtre” i søgeresultatet. Hvis der står ”A. CONAN DOYLE” under forfatter, så udløses kampagnen ikke, hvis man har skrevet ”conan doyle”. Bemærk også, at feltet er case sensitivt, og at alle værdierne udelukkende skal skrives med små bogstaver. Tjek, at du kan udløse din kampagne for at sikre, at du har skrevet værdierne rigtigt.
+
 Under ”Term Ranking Maximum” vælges hvor højt på listen over de hyppigst forekommende værdier i søgesættet, den valgte værdi skal figurere under den valgte facet, for at kampagnen vises.
 
 **Trigger Søgeord**
