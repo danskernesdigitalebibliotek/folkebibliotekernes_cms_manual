@@ -68,12 +68,9 @@ Foretag gerne nogle søgninger på dit site, for at tjekke at den rent faktisk b
 # Vejledningen til det nye i kampagner (ikke kommet endnu)
 
 ## Sådan opretter du en kampagne
-I topmenuen klik på **Indhold** eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk)
-
-1. Klik så på **Tilføj indhold** i øverste højre hjørne:
-{% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/5d5b8807-fc0a-45aa-ad24-1f2eb6b0f972" alt="Opret en ny kampagne med knappen Tilføj indhold" caption="Opret en ny kampagne med knappen Tilføj indhold" %}
-
-2. Klik på **Kampagne**
+1. I topmenuen klik på **Indhold** eller åbn https://mit-domænenavn.dk/admin/content (udskift mit-domænenavn.dk)
+2. Klik så på **Tilføj indhold** i øverste højre hjørne:
+3. Klik på **Kampagne**
 
 ### Opret din kampagne
 
