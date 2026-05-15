@@ -6,6 +6,9 @@ nav: "overblik"
 ---
 <br>
 
+## 15/5: Hotfix med sikkerhedsopdatering
+Rettelsen var til en webserver.
+
 ## 11/5: Slutbrugere kan ikke ændre reservingspause ved login med MitID
 Vi oplever lige nu et problem med at slutbrugerne at slutbrugerne ikke kan ændre/oprette deres reserveringspause i brugerprofilen, hvis de er logget ind med MitID. Vi er på sagen med at få det rettet, og det skulle gerne komme ud med releasen i uge 21. 
 
