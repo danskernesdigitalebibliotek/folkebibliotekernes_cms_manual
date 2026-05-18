@@ -13,7 +13,7 @@ På grund af fejl i importen vil I kunne opleve at mangle artikler fra Delingstj
 Rettelsen var til en webserver.
 
 ## 11/5: Slutbrugere kan ikke ændre reservingspause ved login med MitID
-Vi oplever lige nu et problem med at slutbrugerne ikke kan ændre/oprette deres reserveringspause i brugerprofilen, hvis de er logget ind med MitID. Vi er på sagen med at få det rettet, og det skulle gerne komme ud med releasen i uge 21. 
+Vi oplever lige nu et problem med at slutbrugerne ikke kan ændre/oprette deres reserveringspause i brugerprofilen, hvis de er logget ind med MitID. Vi er på sagen med at få det rettet, og det skulle gerne komme ud hurtigst muligt. 
 
 ## 11/5: Artikler fra Delingstjenesten
 Måske har I lagt mærke til at der er kommet en del artikler ind fra Delingstjenesten? Artiklerne er kommet ud til bibliotekerne på grund af et hot fix, som blev rullet ud for at stabilisere abonnementerne i sidste uge. Hot fixet gik ud på at frigive “content slideren” som delbar fra Delingstjenesten, hvorfor artikler, som hørte til i eReolens app kom ud på den side, der er delt som eReolens inspirationsside i “hjælpeuniverset”. Vi beklager det besvær, fixet har medført, men der havde dannet sig en masse støj i forbindelsen mellem bibliotekerne og Delingstejensten, som vi skulle finde en løsning på.
