@@ -6,11 +6,14 @@ nav: "overblik"
 ---
 <br>
 
+## 18/5: Manglende artikler fra Delingstjenesten fra den 23/4 til den 11/5
+På grund af fejl i importen vil I kunne opleve at mangle artikler fra Delingstjenesten fra den 23/4 til den 11/5-2026. Hvis I er i tvivl, om I har fået det hele med, så kan I orienterer jer i abonnementerne her og hente artiklerne manuelt: [Delingstjenesten.dk](https://delingstjenesten.dk/content/article%2Bpage%2Bgo_article%2Bgo_category%2Bgo_page?search=&type_1=article&categories=All&approved=All&tags=)
+
 ## 15/5: Hotfix med sikkerhedsopdatering
 Rettelsen var til en webserver.
 
 ## 11/5: Slutbrugere kan ikke ændre reservingspause ved login med MitID
-Vi oplever lige nu et problem med at slutbrugerne at slutbrugerne ikke kan ændre/oprette deres reserveringspause i brugerprofilen, hvis de er logget ind med MitID. Vi er på sagen med at få det rettet, og det skulle gerne komme ud med releasen i uge 21. 
+Vi oplever lige nu et problem med at slutbrugerne ikke kan ændre/oprette deres reserveringspause i brugerprofilen, hvis de er logget ind med MitID. Vi er på sagen med at få det rettet, og det skulle gerne komme ud med releasen i uge 21. 
 
 ## 11/5: Artikler fra Delingstjenesten
 Måske har I lagt mærke til at der er kommet en del artikler ind fra Delingstjenesten? Artiklerne er kommet ud til bibliotekerne på grund af et hot fix, som blev rullet ud for at stabilisere abonnementerne i sidste uge. Hot fixet gik ud på at frigive “content slideren” som delbar fra Delingstjenesten, hvorfor artikler, som hørte til i eReolens app kom ud på den side, der er delt som eReolens inspirationsside i “hjælpeuniverset”. Vi beklager det besvær, fixet har medført, men der havde dannet sig en masse støj i forbindelsen mellem bibliotekerne og Delingstejensten, som vi skulle finde en løsning på.
