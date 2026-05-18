@@ -6,21 +6,24 @@ weight: 307
 
 # Sikkerhedsopdatering
 Releasedato: 15-05-2026
-**Redaktør**: Produktionssites: 2026.18.4
+
+**Redaktør**: Produktionssites: 2026.18.4  
 **Webmaster**: Produktionssites: 2026.16.3, Moduletestsites: 2026.18.4
 
 Sikkerhedsopdatering til en webserver.
 
 # Fejlrettelser til Delingstjenesten
 Releasedato: 11-05-2026
-**Redaktør**: Produktionssites: 2026.18.3
+
+**Redaktør**: Produktionssites: 2026.18.3  
 **Webmaster**: Produktionssites: 2026.16.2, Moduletestsites: 2026.18.3
 
 Hotfix der retter problemer med Delingstjenesten.
 
 # Release 2026.18
 Releasedato: 30-04-2026
-**Redaktør**: Produktionssites: 2026.18.1
+
+**Redaktør**: Produktionssites: 2026.18.1  
 **Webmaster**: Produktionssites: 2026.16.0, Moduletestsites: 2026.18.1 
 
 ## Ny udvikling
