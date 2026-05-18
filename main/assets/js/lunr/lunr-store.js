@@ -971,10 +971,10 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-16-0/",
         "teaser": null
       },{
-        "title": "Release Notes 2026.18.1",
-        "excerpt":"Releasedato: 15-05-2026 Redaktør: Produktionssites: 2026.18.4 Webmaster: Produktionssites: 2026.16.3, Moduletestsites: 2026.18.4 Sikkerhedsopdatering til en webserver. Releasedato: 11-05-2026 Redaktør: Produktionssites: 2026.18.3 Webmaster: Produktionssites: 2026.16.2, Moduletestsites: 2026.18.3 Hotfix der retter problemer med Delingstjenesten. Releasedato: 30-04-2026 Redaktør: Produktionssites: 2026.18.1 Webmaster: Produktionssites: 2026.16.0, Moduletestsites: 2026.18.1 Ny udvikling GO: Videobundle i højformat – nyt videobundle til...","categories": ["Release Notes"],
+        "title": "Release Notes 2026.18.4",
+        "excerpt":"Sikkerhedsopdatering Releasedato: 15-05-2026 Redaktør: Produktionssites: 2026.18.4 Webmaster: Produktionssites: 2026.16.3, Moduletestsites: 2026.18.4 Sikkerhedsopdatering til en webserver. Fejlrettelser til Delingstjenesten Releasedato: 11-05-2026 Redaktør: Produktionssites: 2026.18.3 Webmaster: Produktionssites: 2026.16.2, Moduletestsites: 2026.18.3 Hotfix der retter problemer med Delingstjenesten. Release 2026.18 Releasedato: 30-04-2026 Redaktør: Produktionssites: 2026.18.1 Webmaster: Produktionssites: 2026.16.0, Moduletestsites: 2026.18.1 Ny udvikling GO: Videobundle...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2026-18-1/",
+        "url": "/main/overblik/release-notes/release-notes-2026-18-4/",
         "teaser": null
       },{
         "title": "Release Notes 2026.2.4",
