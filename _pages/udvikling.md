@@ -37,7 +37,7 @@ Vi vil udvikle flere elementer, der skal præsentere bibliotekets tilbud til bor
 
 - <span title="Ikke i gang">🔴</span> Landingsside til serier i værkvisningen
 - <span title="Ikke i gang">🔴</span> Præsentér andre relevante materialer efter endt reservering
-- <span title="I gang">🟡</span> Bedre kampagner
+- <span title="Færdig">🟢</span> Bedre kampagner
 - <span title="Ikke i gang">🔴</span> Anbefalinger på dashboardet
 
 ### <span title="Ikke i gang">🔴</span> Statistik
@@ -65,7 +65,9 @@ Vi er færdige med at migrere alle siderne til en ny platform.
 Vi har samlet de fire repositories til én samlet kodebase. Dette øger effektiviten hos vores leverendør og sparer en stor mængde tid.
 
 ## Vores fokusområder
-Dette er de områder, som vi i Det Digitale Folkebibliotek kan se skal løftes på baggrund af vores arbejde eller jeres input. Det vil som oftes være større opgaver eller mange små indenfor samme område, som vi samler til et fokusområde. Alle områderne er ikke nødvendigvis noget som skal laves i 2026.
+Dette er de områder, som vi i Det Digitale Folkebibliotek kan se skal løftes på baggrund af vores arbejde eller jeres input. Det vil som oftes være større opgaver eller mange små indenfor samme område, som vi samler til et fokusområde. 
+
+OBS Alle områderne er ikke nødvendigvis noget som skal laves i 2026. Vi kan ikke nå alt, der er beskrevet herunder.
 
 ### <span title="Ikke i gang">🔴</span> Huskeliste
 Vi samarbejder med DBC om at lave en global huskeliste, så det ikke er hver tjeneste, der har adskilte huskeliste. 
