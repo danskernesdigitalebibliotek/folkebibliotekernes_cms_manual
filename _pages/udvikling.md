@@ -15,8 +15,22 @@ Forklaring på farverne: <span title="Færdig">🟢</span> betyder at opgaven er
 ## Udviklingsønsker
 Vi går snarligt i gang med at udvikle på arrangementer, og så skal vi se hvad vi gør med resten af udviklingsønsker. Vi skal se om vi skal udvikle på emneområderne Søgning og værkvisning og Formidlingsparagrafer, og hvorvidt vi skal involvere bibliotekerne.
 
-- <span title="I gang">🟡</span> Arrangementer - vi forventer at lave arrangementsdelen færdig inden sommerferien
-- <span title="Ikke i gang">🔴</span> Søgning og værkvisning og Formidlingsparagrafer
+## <span title="I gang">🟡</span> Arrangementer
+Vi forventer at lave arrangementsdelen færdig inden sommerferien.
+* [CMS-578: Sortering af arrangementer på kategori eller bibliotek](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-578)
+* [CMS-943: Opret målgruppe i taksonomi](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-943)
+* [CMS-945: Søgning på arrangementer efter dato](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-945)
+* [CMS-1000: Arrangementer - Mulighed for at klone](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1000)
+* [CMS-1032: Arrangementsoversigt - Væk med "Vis flere"](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1032)
+* [CMS-1033: Arrangementsoversigt - Adskillelse af måneder](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1033)
+* [CMS-1357: Opdeling af arrangementer og udstillinger/længerevarende forløb](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1357)
+* [CMS-1583: Større fleksibilitet i gentagelsesmønster ved arrangementer](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1583)
+* [CMS-1828: Status på arrangementer #2](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1828)
+* [CMS-1832: Flere kategorier på samme arrangement](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1832)
+
+## <span title="Ikke i gang">🔴</span> Resten
+Vi skal have en plan for hvad vi skal udvikle for den sidste del af budgettet. Vi forventer at dette bliver udviklet færdigt i Q4.  
+Søgning og værkvisning og Formidlingsparagrafer er de to efterfølgende højest prioriteret emneområder. Det kan blive en blanding af de vigtigste opgaver inden for de to områder eller noget tredje.
 
 Læs mere om [udviklingsønskerne for 2026](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/efteraar-2025) eller [generelt om udviklingsønsker](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/). 
 
