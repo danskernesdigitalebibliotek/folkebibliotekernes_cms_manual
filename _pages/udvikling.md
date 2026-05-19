@@ -45,7 +45,7 @@ Vi har flere forbedringer til GO.
 - <span title="Færdig">🟢</span> Loginlogik
 - <span title="Færdig">🟢</span> Tilpasning af formidling (højformatvideo)
 - <span title="Færdig">🟢</span> Tilpasning af VIP-profil og værkvisning
-- - <span title="I gang">🟡</span> Reservering af fysiske materialer
+- <span title="I gang">🟡</span> Reservering af fysiske materialer
 - <span title="Ikke i gang">🔴</span> Personaliserede anbefalinger
 
 ### <span title="I gang">🟡</span> Merengagement
