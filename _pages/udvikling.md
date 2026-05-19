@@ -36,7 +36,7 @@ Søgning og værkvisning og Formidlingsparagrafer er de to efterfølgende højes
 
 Læs mere om [udviklingsønskerne for 2026](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/efteraar-2025) eller [generelt om udviklingsønsker](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/). 
 
-## Puljeprojektet
+## Puljeprojekt: Sammenhæng i brugerrejsen på tværs af biblioteket 
 Der er tre spor i dette projekt: GO, Merengagement og Statistik.
 
 ### <span title="I gang">🟡</span> GO
