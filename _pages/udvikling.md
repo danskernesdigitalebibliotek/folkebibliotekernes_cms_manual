@@ -15,6 +15,8 @@ Forklaring på farverne: <span title="Færdig">🟢</span> betyder at opgaven er
 ## Udviklingsønsker
 Vi går snarligt i gang med at udvikle på arrangementer, og så skal vi se hvad vi gør med resten af udviklingsønsker. Vi skal se om vi skal udvikle på emneområderne Søgning og værkvisning og Formidlingsparagrafer, og hvorvidt vi skal involvere bibliotekerne.
 
+Læs mere om [udviklingsønskerne for 2026](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/efteraar-2025) eller [generelt om udviklingsønsker](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/). 
+
 ### <span title="I gang">🟡</span> Arrangementer
 Vi forventer at lave arrangementsdelen færdig inden sommerferien.
 
@@ -34,26 +36,24 @@ Vi forventer at lave arrangementsdelen færdig inden sommerferien.
 Vi skal have en plan for hvad vi skal udvikle for den sidste del af budgettet. Vi forventer at dette bliver udviklet færdigt i Q4.  
 Søgning og værkvisning og Formidlingsparagrafer er de to efterfølgende højest prioriteret emneområder. Det kan blive en blanding af de vigtigste opgaver inden for de to områder eller noget tredje.
 
-Læs mere om [udviklingsønskerne for 2026](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/efteraar-2025) eller [generelt om udviklingsønsker](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/). 
-
 ## Puljeprojekt: Sammenhæng i brugerrejsen på tværs af biblioteket 
 Der er tre spor i dette projekt: GO, Merengagement og Statistik.
 
 ### <span title="I gang">🟡</span> GO
 Vi har flere forbedringer til GO.
 
-- <span title="I gang">🟡</span> Reservering af fysiske materialer
-- <span title="Ikke i gang">🔴</span> Personaliserede anbefalinger
 - <span title="Færdig">🟢</span> Loginlogik
 - <span title="Færdig">🟢</span> Tilpasning af formidling (højformatvideo)
 - <span title="Færdig">🟢</span> Tilpasning af VIP-profil og værkvisning
+- - <span title="I gang">🟡</span> Reservering af fysiske materialer
+- <span title="Ikke i gang">🔴</span> Personaliserede anbefalinger
 
 ### <span title="I gang">🟡</span> Merengagement
 Vi vil udvikle flere elementer, der skal præsentere bibliotekets tilbud til borgerne på det rette tidspunkt i brugerrejsen.
 
+- <span title="Færdig">🟢</span> Bedre kampagner
 - <span title="Ikke i gang">🔴</span> Landingsside til serier i værkvisningen
 - <span title="Ikke i gang">🔴</span> Præsentér andre relevante materialer efter endt reservering
-- <span title="Færdig">🟢</span> Bedre kampagner
 - <span title="Ikke i gang">🔴</span> Anbefalinger på dashboardet
 
 ### <span title="Ikke i gang">🔴</span> Statistik
