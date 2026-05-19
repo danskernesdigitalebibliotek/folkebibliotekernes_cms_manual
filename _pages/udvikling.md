@@ -15,7 +15,7 @@ Forklaring på farverne: <span title="Færdig">🟢</span> betyder at opgaven er
 ## Udviklingsønsker
 Vi går snarligt i gang med at udvikle på arrangementer, og så skal vi se hvad vi gør med resten af udviklingsønsker. Vi skal se om vi skal udvikle på emneområderne Søgning og værkvisning og Formidlingsparagrafer, og hvorvidt vi skal involvere bibliotekerne.
 
-## <span title="I gang">🟡</span> Arrangementer
+### <span title="I gang">🟡</span> Arrangementer
 Vi forventer at lave arrangementsdelen færdig inden sommerferien.
 
 Ønskerne:
@@ -30,7 +30,7 @@ Vi forventer at lave arrangementsdelen færdig inden sommerferien.
 * [CMS-1828: Status på arrangementer #2](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1828)
 * [CMS-1832: Flere kategorier på samme arrangement](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1832)
 
-## <span title="Ikke i gang">🔴</span> Resten
+### <span title="Ikke i gang">🔴</span> Resten
 Vi skal have en plan for hvad vi skal udvikle for den sidste del af budgettet. Vi forventer at dette bliver udviklet færdigt i Q4.  
 Søgning og værkvisning og Formidlingsparagrafer er de to efterfølgende højest prioriteret emneområder. Det kan blive en blanding af de vigtigste opgaver inden for de to områder eller noget tredje.
 
