@@ -15,7 +15,7 @@ Forklaring på farverne: <span title="Færdig">🟢</span> betyder at opgaven er
 ## Udviklingsønsker
 Vi går snarligt i gang med at udvikle på arrangementer, og så skal vi se hvad vi gør med resten af udviklingsønsker. Vi skal se om vi skal udvikle på emneområderne Søgning og værkvisning og Formidlingsparagrafer, og hvorvidt vi skal involvere bibliotekerne.
 
-- <span title="I gang">🟡</span> Arrangementer 
+- <span title="I gang">🟡</span> Arrangementer - vi forventer at lave arrangementsdelen færdig inden sommerferien
 - <span title="Ikke i gang">🔴</span> Søgning og værkvisning og Formidlingsparagrafer
 
 Læs mere om [udviklingsønskerne for 2026](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/efteraar-2025) eller [generelt om udviklingsønsker](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/). 
