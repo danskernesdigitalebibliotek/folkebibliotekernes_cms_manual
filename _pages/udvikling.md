@@ -17,6 +17,8 @@ Vi går snarligt i gang med at udvikle på arrangementer, og så skal vi se hvad
 
 ## <span title="I gang">🟡</span> Arrangementer
 Vi forventer at lave arrangementsdelen færdig inden sommerferien.
+
+Ønskerne:
 * [CMS-578: Sortering af arrangementer på kategori eller bibliotek](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-578)
 * [CMS-943: Opret målgruppe i taksonomi](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-943)
 * [CMS-945: Søgning på arrangementer efter dato](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-945)
