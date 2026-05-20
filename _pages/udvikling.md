@@ -62,43 +62,43 @@ Vi udvider mængden af målepunkter, og introducerer et dashboard på FB CMS til
 ## Drift og integrationer
 Der er en del opgaver, som skal laves til forbedre den daglige drift, og der er også nogle 3. parts integrationer, som vi skal have udviklet mod.
 
-### <span title="Udskudt">⚫</span> FBS 2.0
-Er flyttet til næste år. Der kommer et nyt FBS 2.0. Dette påvirker mange af de udviklingsopgaver vi har. Vi er i gang med at analysere hvordan CMS'et påvirkes, og hvor stor en opgave der venter.
-
-### <span title="Ikke i gang">🔴</span> Ny platform og reader/player funktion til ebøger/lydbøger 
-Der kommer en ny platform og en ny reader/player funktion til ebøger/lydbøger. Vi er i gang med at analysere hvordan CMS'et påvirkes, og hvor stor en opgave der venter.
-
-### <span title="I gang">🟡</span> Nye apps
-Der kommer tre nye apps til bibliotekerne. Der kan være nogen elementer, som kan overlappe eller skal udvikles i CMS'et.
-
-### <span title="Ikke i gang">🔴</span> Design review
-Vi laver et større design review, der skal sikre bedre principper og guidelines. Derudover vil der kigges på at få rettet irritationspunkter i designet på hjemmesiderne.
-
 ### <span title="Færdig">🟢</span> Migrering til ny platform til hjemmesiderne
 Vi er færdige med at migrere alle siderne til en ny platform.
 
 ### <span title="Færdig">🟢</span> Fire repositories til en samlet kodebase
 Vi har samlet de fire repositories til én samlet kodebase. Dette øger effektiviten hos vores leverendør og sparer en stor mængde tid.
 
+### <span title="I gang">🟡</span> Nye apps
+Der kommer tre nye apps til bibliotekerne. Der kan være nogen elementer, som kan overlappe eller skal udvikles i CMS'et.
+
+### <span title="Ikke i gang">🔴</span> Ny platform og reader/player funktion til ebøger/lydbøger 
+Der kommer en ny platform og en ny reader/player funktion til ebøger/lydbøger. Vi er i gang med at analysere hvordan CMS'et påvirkes, og hvor stor en opgave der venter.
+
+### <span title="Ikke i gang">🔴</span> Design review
+Vi laver et større design review, der skal sikre bedre principper og guidelines. Derudover vil der kigges på at få rettet irritationspunkter i designet på hjemmesiderne.
+
+### <span title="Udskudt">⚫</span> FBS 2.0
+Er flyttet til næste år. Der kommer et nyt FBS 2.0. Dette påvirker mange af de udviklingsopgaver vi har. Vi er i gang med at analysere hvordan CMS'et påvirkes, og hvor stor en opgave der venter.
+
 ## Vores fokusområder
 Dette er de områder, som vi i Det Digitale Folkebibliotek kan se skal løftes på baggrund af vores arbejde eller jeres input. Det vil som oftes være større opgaver eller mange små indenfor samme område, som vi samler til et fokusområde. 
 
 OBS Alle områderne er ikke nødvendigvis noget som skal laves i 2026. Vi kan ikke nå alt, der er beskrevet herunder.
 
-### <span title="Ikke i gang">🔴</span> Huskeliste
-Vi samarbejder med DBC om at lave en global huskeliste, så det ikke er hver tjeneste, der har adskilte huskeliste. 
+### <span title="Færdig">🟢</span> Ny forbedret Simple search
+Vi har implementeret funktionerne fra avanceret søgning ind på simple search.
 
 ### <span title="I gang">🟡</span> eReolen efterslæb
 Vi skal have kigget på de mest kritiske problemer efter at eReolen blev integreret på hjemmesiderne. Vi har lavet flere forbedringer bl.a. i søgemulighederne på hjemmesiden.
+
+### <span title="Ikke i gang">🔴</span> Huskeliste
+Vi samarbejder med DBC om at lave en global huskeliste, så det ikke er hver tjeneste, der har adskilte huskeliste. 
 
 ### <span title="Ikke i gang">🔴</span> Materialernes tilgængelighed og adgang
 Der er flere problem med tydeligheden af om et materiale er tilgængeligt og hvordan man får adgang til det.
 
 ### <span title="Ikke i gang">🔴</span> Periodika
 Periodika på hjemmesiderne har flere uhensigtmæssigheder, som bl.a. gør det svært at finde og vælge de korrekte udgaver.
-
-### <span title="Færdig">🟢</span> Ny forbedret Simple search
-Vi har implementeret funktionerne fra avanceret søgning ind på simple search.
 
 ### <span title="Ikke i gang">🔴</span> Ny forbedret CQL søgning
 Efter vi har forbedret avanceret søgning og simple search, så skal vi have implementeret funktionerne ind i CQL søgningen også. Kan evt. blive skubbet til 2027.
