@@ -9,7 +9,7 @@ Der kommer til at ske rigtig mange ting i 2026, og herunder kan du se en oversig
 
 Vi opdaterer siden løbende.
 
-Forklaring på farverne: <span title="Færdig">🟢</span> betyder at opgaven er helt færdig, <span title="I gang">🟡</span> betyder at udvikling på opgaven er i gang og <span title="Ikke i gang">🔴</span> betyder at vi ikke er begyndt på udviklingen (kan dog være startet på analyse eller planlægning af opgaven). <span title="Udskudt">⚫</span> betyder at det er udskudt til senere. Farverne har tooltip, hvis du ikke kan se farverne. 
+Forklaring på farverne: <span title="Færdig">🟢</span> betyder at opgaven er helt færdig, <span title="I gang">🟡</span> betyder at udvikling på opgaven er i gang, <span title="Ikke i gang">🔴</span> betyder at vi ikke er begyndt på udviklingen (kan dog være startet på analyse eller planlægning af opgaven), og <span title="Udskudt">⚫</span> betyder at det er udskudt til senere. Farverne har tooltip, hvis du ikke kan se farverne. 
 {: .notice}
 
 ## Udviklingsønsker
@@ -18,7 +18,7 @@ Vi går snarligt i gang med at udvikle på arrangementer, og så skal vi se hvad
 Læs mere om [udviklingsønskerne for 2026](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/efteraar-2025) eller [generelt om udviklingsønsker](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/). 
 
 ### <span title="I gang">🟡</span> Arrangementer
-Vi forventer at lave arrangementsdelen færdig inden sommerferien.
+Vi forventer at lave arrangementsdelen færdig inden sommerferien. Vi kan ikke lave alle ønskerne indenfor dette emneområde, så vi udvikler efter en prioritering.
 
 Ønskerne:
 * <span title="I gang">🟡</span> [CMS-578: Sortering af arrangementer på kategori eller bibliotek](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-578)
