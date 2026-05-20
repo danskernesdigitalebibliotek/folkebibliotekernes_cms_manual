@@ -99,10 +99,10 @@ Vi skal have kigget på de mest kritiske problemer efter at eReolen blev integre
 Vi samarbejder med DBC om at lave en global huskeliste, så det ikke er hver tjeneste, der har adskilte huskeliste. 
 
 ### <span title="Ikke i gang">🔴</span> Materialernes tilgængelighed og adgang
-Der er flere problem med tydeligheden af om et materiale er tilgængeligt og hvordan man får adgang til det.
+Der er flere problem med tydeligheden af om et materiale er tilgængeligt og hvordan man får adgang til det. 
 
 ### <span title="Ikke i gang">🔴</span> Periodika
-Periodika på hjemmesiderne har flere uhensigtmæssigheder, som bl.a. gør det svært at finde og vælge de korrekte udgaver.
+Periodika på hjemmesiderne har flere uhensigtmæssigheder, som bl.a. gør det svært at finde og vælge de korrekte udgaver. Bliver sandsynligvis først kigget på i 2027 efter FBS 2.0 opgaverne.
 
 ### <span title="Ikke i gang">🔴</span> Ny forbedret CQL søgning
-Efter vi har forbedret avanceret søgning og simple search, så skal vi have implementeret funktionerne ind i CQL søgningen også. Kan evt. blive skubbet til 2027.
+Efter vi har forbedret avanceret søgning og simple search, så skal vi have implementeret funktionerne ind i CQL søgningen også. Bliver sandsynligvis først kigget på i 2027 efter FBS 2.0 opgaverne.
