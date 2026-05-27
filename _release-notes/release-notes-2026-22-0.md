@@ -13,7 +13,7 @@ Releasedato: 28-05-2026
 
 ## Ny udvikling
 
-* Forbedrede kampagner: Vi har forbedret kampagner med nye funktioner og et pænere layout. Nu er det muligt at vægte kampagner, så man kan være sikker på at de vigtigste kampagner aktiveres. Derudover kan man nu få aktiveret sine kampagner ved at matche brugernes søgeord fx hvis de søger på gebyr, så kan man få aktiveret en kampagne om gebyrer. Læs mere i manualen: Kampagne
+* Forbedrede kampagner: Vi har forbedret kampagner med nye funktioner og et pænere layout. Nu er det muligt at vægte kampagner, så man kan være sikker på at de vigtigste kampagner aktiveres. Derudover kan man nu få aktiveret sine kampagner ved at matche brugernes søgeord fx hvis de søger på gebyr, så kan man få aktiveret en kampagne om gebyrer. Læs mere i manualen: [Kampagner](https://www.folkebibliotekernescms.dk/main/indhold/kampagner/)
 
 *	Addressefelt forbedret til ikke-danske adresser. Nu kan man vælge at bruge et opslag i GSearch eller fritekst felter.
 
