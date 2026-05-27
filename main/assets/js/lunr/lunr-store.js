@@ -983,6 +983,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-2-4/",
         "teaser": null
       },{
+        "title": "Release Notes 2026.22.0",
+        "excerpt":"Releasedato: 28-05-2026 Redaktør: Produktionssites: 2026.22.0 Webmaster: Produktionssites: 2026.18.4, Moduletestsites: 2026.22.0 Ny udvikling Forbedrede kampagner: Vi har forbedret kampagner med nye funktioner og et pænere layout. Nu er det muligt at vægte kampagner, så man kan være sikker på at de vigtigste kampagner aktiveres. Derudover kan man nu få aktiveret sine...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2026-22-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 2026.4.1",
         "excerpt":"Releasedato: 22-01-2026 Redaktør: Produktionssites: 2026.4.1 Webmaster: Produktionssites: 2026.2.4, Moduletestsites: 2026.4.1 Hotfix 2026.4.1 Blacklist ift. søgning: Vi har fikset en fejl introduceret i 2026.2.4. omkring blacklist af filialer ift. søgning, som kun påvirkede simpel søgning. Fejlen medførte, at sites uden blacklist af mindst én filial ift. søgning reelt skjulte materialer i...","categories": ["Release Notes"],
         "tags": [],

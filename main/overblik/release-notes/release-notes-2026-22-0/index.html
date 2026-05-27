@@ -15,19 +15,19 @@
 <meta charset="utf-8">
 
 
-<!-- begin _includes/seo.html --><title>Release Notes 2025.13.1 - Folkebibliotekernes CMS</title>
-<meta name="description" content="Diverse rettelser Releasedato: 27-03-2025">
+<!-- begin _includes/seo.html --><title>Release Notes 2026.22.0 - Folkebibliotekernes CMS</title>
+<meta name="description" content="Releasedato: 28-05-2026">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Release Notes 2025.13.1">
-<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-13-0/">
+<meta property="og:title" content="Release Notes 2026.22.0">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-22-0/">
 
 
-  <meta property="og:description" content="Diverse rettelser Releasedato: 27-03-2025">
+  <meta property="og:description" content="Releasedato: 28-05-2026">
 
 
 
@@ -44,7 +44,7 @@
 
 
 
-<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-13-0/">
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-22-0/">
 
 
 
@@ -183,7 +183,7 @@
     
       
       
-        <li class="current">Release Notes 2025.13.1</li>
+        <li class="current">Release Notes 2026.22.0</li>
       
     
   </ol>
@@ -238,7 +238,7 @@
 
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2026-22-0/">Release Notes 2026.22.0</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2026-22-0/" class="active">Release Notes 2026.22.0</a></li>
               
             
               
@@ -370,7 +370,7 @@
               
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2025-13-0/" class="active">Release Notes 2025.13.1</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2025-13-0/">Release Notes 2025.13.1</a></li>
               
             
               
@@ -550,8 +550,8 @@
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Release Notes 2025.13.1">
-    <meta itemprop="description" content="Diverse rettelserReleasedato: 27-03-2025">
+    <meta itemprop="headline" content="Release Notes 2026.22.0">
+    <meta itemprop="description" content="Releasedato: 28-05-2026">
     <meta itemprop="datePublished" content="2026-05-27T13:43:04+00:00">
     
 
@@ -560,7 +560,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-13-0/" class="u-url" itemprop="url">Release Notes 2025.13.1
+            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-22-0/" class="u-url" itemprop="url">Release Notes 2026.22.0
 </a>
           </h1>
           
@@ -572,25 +572,80 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <h2 id="diverse-rettelser">Diverse rettelser</h2>
-<p>Releasedato: 27-03-2025</p>
+        <p>Releasedato: 28-05-2026</p>
 
-<p><strong>Redaktørbiblioteker</strong>: Produktionssites opgraderes til 2025.13.1<br />
-<strong>Webmasterbiblioteker</strong>: Produktionssites fastholdes på 2025.11.0. Modultestsites opgraderes til 2025.13.1.</p>
+<p><strong>Redaktør</strong>: Produktionssites: 2026.22.0<br />
+<strong>Webmaster</strong>: Produktionssites: 2026.18.4, Moduletestsites: 2026.22.0</p>
 
-<h2 id="fejlrettelser">Fejlrettelser</h2>
+<p><br /></p>
+
+<h2 id="ny-udvikling">Ny udvikling</h2>
 
 <ul>
   <li>
-    <p>Fjerne henvisninger til eReolen.dk fra brugergrænsefladen</p>
+    <p>Forbedrede kampagner: Vi har forbedret kampagner med nye funktioner og et pænere layout. Nu er det muligt at vægte kampagner, så man kan være sikker på at de vigtigste kampagner aktiveres. Derudover kan man nu få aktiveret sine kampagner ved at matche brugernes søgeord fx hvis de søger på gebyr, så kan man få aktiveret en kampagne om gebyrer. Læs mere i manualen: Kampagne</p>
   </li>
   <li>
-    <p>Unødvendigt konfigurationsfelt <em>Feltarv</em> fjernet fra indholdstypen artikel</p>
+    <p>Addressefelt forbedret til ikke-danske adresser. Nu kan man vælge at bruge et opslag i GSearch eller fritekst felter.</p>
   </li>
   <li>
-    <p>Webmaster: Problem med at sætte LibraryToken på nyt site (efter dev:reset) løst.</p>
+    <p>Tillad af upload af 50MB filer: <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1963">CMS-1963</a></p>
   </li>
 </ul>
+
+<p><br /></p>
+
+<h2 id="forbedringer-og-fejlrettelser---tilgængelighed-go">Forbedringer og fejlrettelser - Tilgængelighed (GO)</h2>
+
+<ul>
+  <li>
+    <p>Login-knapperne i login-modalen har nu unikke aria-labels, så skærmlæserbrugere tydeligt kan skelne mellem dem.</p>
+  </li>
+  <li>
+    <p>Tekstfarve på brugerprofil er rettet, så den har tilstrækkelig kontrast til baggrund.</p>
+  </li>
+  <li>
+    <p>Oplysninger om udløbstid kan nu oplæses for skærmlæserbrugere.</p>
+  </li>
+  <li>
+    <p>Oplysninger om tilstand på filterknapper kan nu oplæses for skærmlæserbrugere.</p>
+  </li>
+  <li>
+    <p>Søgesiden giver nu feedback til skærmlæserbrugere om at siden opdaterer ved f.eks. valg af filtre.</p>
+  </li>
+  <li>
+    <p>Knap “Flere” ved filtre viser nu flere filtre for tastaturbrugere.</p>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<h2 id="øvrige-forbedringer-og-fejlrettelser">Øvrige forbedringer og fejlrettelser</h2>
+
+<ul>
+  <li>
+    <p>Kvoter for digitale lån vises nu korrekte, så blå titler ikke tæller med i udlånskvoten:  <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1677">CMS-1677</a></p>
+  </li>
+  <li>
+    <p>“År”-feltet ved valg af periodika skal ikke bruge samme label som “År” ved “Reserveringsfejl” på værkvisningssiden. Fejlrettelsen betyder også, at brugerne får en mere forklarende fejlmelding, hvis de f.eks. forsøger at reservere et materiale, som de ikke har rettigheder til at låne: <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1941">CMS-1941</a></p>
+  </li>
+  <li>
+    <p>GO: Videoerne fejler sommetider i at hente thumbnail ned - Thumbnailen hentes nu direkte fra Drupal i stedet for at afvente svar fra videotool. Det betyder, at forhåndsvisningsbilledet altid vises med det samme.</p>
+  </li>
+  <li>
+    <p>Fejl på automatisk publicering af arrangementer er rettet i forbindelse med rettelsen af nedenstående sag om import fra Delingstjenesten.</p>
+  </li>
+  <li>
+    <p>Import af abonnementsartikler fra Delingstjenesten: Et baggrundsjob ophobede synkroniseringsforsøg, så nye abonnementsartikler fra Delingstjenesten ikke blev importeret til bibliotekernes hjemmesider. Fejlen er nu rettet, og artikler hentes igen korrekt. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-2009">CMS-2009</a></p>
+  </li>
+  <li>
+    <p>Tryk på tilbage-knap efter log ud fører nu til loginsiden på lånerstatussider: Når en låner logger ud og derefter navigerer tilbage til tidligere besøgte sider via browserens tilbage-knap, bliver man nu sendt til loginsiden, hvis siden er en lånerstatusside (sider der starter med /user). Tidligere kunne man ende på tomme lånerstatussider: <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-620">CMS-620</a></p>
+  </li>
+  <li>
+    <p>Infomedia er ændret til Retriever i modalvisningen af artiklerne, så det er Retrievers logo, der vises: <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1995">CMS-1995</a></p>
+  </li>
+</ul>
+
 
         
       </section>
