@@ -9,7 +9,6 @@ Releasedato: 28-05-2026
 **Redaktør**: Produktionssites: 2026.22.0  
 **Webmaster**: Produktionssites: 2026.18.4, Moduletestsites: 2026.22.0
 
-<br>
 
 ## Ny udvikling
 
@@ -19,7 +18,6 @@ Releasedato: 28-05-2026
 
 *	Tillad af upload af 50MB filer: [CMS-1963](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1963)
 
-<br>
 
 ## Forbedringer og fejlrettelser - Tilgængelighed (GO)
 
@@ -35,7 +33,6 @@ Releasedato: 28-05-2026
 
 *	Knap "Flere" ved filtre viser nu flere filtre for tastaturbrugere.
 
-<br>
 
 ## Øvrige forbedringer og fejlrettelser
 
