@@ -342,7 +342,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Kampagner",
-        "excerpt":"Kampagner er en selvstændig indholdstype, der vises på søgeresultat-siden – men kun hvis det, som brugeren søger på, udløser den. Kampagner kan derfor bruges målrettet til at skabe opmærksomhed om arrangementer, særlige materialer, eller andet, som biblioteket ønsker at give særlig promovering. Sådan opretter du en kampagne I topmenuen klik...","categories": ["Indholdstyper"],
+        "excerpt":"Kampagner er en selvstændig indholdstype, der vises på søgeresultat-siden – men kun hvis det, som brugeren søger på, udløser den. Kampagner kan derfor bruges målrettet til at skabe opmærksomhed om arrangementer, særlige materialer, eller andet, som biblioteket ønsker at give særlig promovering. En kamoagne på et søgeresultat Sådan opretter du...","categories": ["Indholdstyper"],
         "tags": [],
         "url": "/main/indhold/kampagner/",
         "teaser": null
