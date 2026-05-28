@@ -106,3 +106,15 @@ Periodika på hjemmesiderne har flere uhensigtmæssigheder, som bl.a. gør det s
 
 ### <span title="Ikke i gang">🔴</span> Ny forbedret CQL søgning
 Efter vi har forbedret avanceret søgning og simple search, så skal vi have implementeret funktionerne ind i CQL søgningen også. Bliver sandsynligvis først kigget på i 2027 efter FBS 2.0 opgaverne.
+
+## I samarbejde med andre
+Der sker også udvikling, der fx finansieres af andre eller hvor rettelserne skal ske i en anden tjeneste. Ingen af nedenstående er fastsat til 2026 medmindre der står andet under punktet. Dette er mest som et overblik, så bibliotekerne kan se hvad vi ellers har i gang.
+
+### <span title="Ikke i gang">🔴</span> Servicebanner
+Vi er i dialog med København, der overvejer at få finansiere en ny funktion, hvor man kan tydeliggøre servicebeskeder på hjemmesiden. Der er ikke planlagt en tidsplan.
+
+### Webmasterudvikling
+Flere webmasterbiblioteker har udviklet nogle funktioner, som vi mener kan være meget givtige at få, som fast funktionalitet i FB CMS for alle bibliotekerne. 
+
+- <span title="Ikke i gang">🔴</span> Digitale tilbud - Dansk Centralbibliotek for Sydslesvig har udviklet en meget brugbar løsning til Digitale tilbud. Der er ikke aftalt hvordan dette skal finansieres eller udvikles.
+- <span title="Ikke i gang">🔴</span> Ny visuel navigationskomponent - Herning Bibliotekerne har lavet en pæn og overskuelig paragraph, som kan bruges som supplement til de andre navigationsparagrapher. Den er bedre til at lave et pænt visuelt overblik. Der er ikke aftalt hvordan dette skal finansieres eller udvikles.
