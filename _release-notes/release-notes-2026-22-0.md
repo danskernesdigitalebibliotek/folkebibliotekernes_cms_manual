@@ -16,7 +16,7 @@ Releasedato: 28-05-2026
 
 *	Addressefelt forbedret til ikke-danske adresser. Nu kan man vælge at bruge et opslag i GSearch eller fritekst felter.
 
-*	Tillad af upload af 50MB filer: [CMS-1963](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1963)
+*	Tillad af upload af 50MB lydfiler: [CMS-1963](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1963)
 
 
 ## Forbedringer og fejlrettelser - Tilgængelighed (GO)
