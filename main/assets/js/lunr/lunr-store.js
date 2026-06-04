@@ -989,6 +989,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-22-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2026.23.0",
+        "excerpt":"Releasedato: 04-06-2026 Redaktør: Produktionssites: 2026.22.0 Webmaster: Produktionssites: 2026.18.4, Moduletestsites: 2026.23.0 Denne opgradering kommer på webmasterbibliotekernes moduletestsites i uge 23. Opgraderingen vil komme på redaktørbibliotekernes hjemmesider i uge 24 sammen med den øvrige release. Opgradering til Drupal 10.6 samt en opdatering af Lagoon images. Derudover er der tilføjet forbedret effektivitet i...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2026-23-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 2026.4.1",
         "excerpt":"Releasedato: 22-01-2026 Redaktør: Produktionssites: 2026.4.1 Webmaster: Produktionssites: 2026.2.4, Moduletestsites: 2026.4.1 Hotfix 2026.4.1 Blacklist ift. søgning: Vi har fikset en fejl introduceret i 2026.2.4. omkring blacklist af filialer ift. søgning, som kun påvirkede simpel søgning. Fejlen medførte, at sites uden blacklist af mindst én filial ift. søgning reelt skjulte materialer i...","categories": ["Release Notes"],
         "tags": [],
