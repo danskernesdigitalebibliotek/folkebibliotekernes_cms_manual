@@ -53,7 +53,7 @@ Vi har flere forbedringer til GO.
 - <span title="Ikke i gang">🔴</span> Personaliserede anbefalinger
 
 ### <span title="I gang">🟡</span> Merengagement
-Vi vil udvikle flere elementer, der skal præsentere bibliotekets tilbud til borgerne på det rette tidspunkt i brugerrejsen.
+Vi vil udvikle flere elementer, der skal præsentere bibliotekets tilbud til borgerne på det rette tidspunkt i brugerrejsen. Bedre kampagner blev udviklet i første halvdel af året og de resterende opgaver udvikles i slutningen af året.
 
 - <span title="Færdig">🟢</span> Bedre kampagner
 - <span title="Ikke i gang">🔴</span> Landingsside til serier i værkvisningen
