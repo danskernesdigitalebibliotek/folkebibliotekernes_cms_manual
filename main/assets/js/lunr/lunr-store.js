@@ -227,12 +227,6 @@ var store = [{
         "url": "/main/go/",
         "teaser": null
       },{
-        "title": "Viderudviklingsønsker på GO",
-        "excerpt":"Som med alle andre digitale produkter, Det Digitale Folkebibliotek leverer, er GO-sitet et produkt, der bliver videreudviklet og udbygget. Her kan du læse om allerede definerede ønsker til videreudvikling. Har du selv ønsker til ny funktionalitet i GO, kan disse meldes ind i servicedesk, som du kender det fra Folkebibliotekernes...","categories": ["GO"],
-        "tags": [],
-        "url": "/main/go/oensker-til-videreudvikling/",
-        "teaser": null
-      },{
         "title": "Sådan opretter du en artikel på GO",
         "excerpt":"Indholdstypen ‘GO artikel’ gør det muligt at oprette artikler på GO, hvor der bl.a. kan formidles tekst kombineret med de andre GO paragraphs. Se mere om de forskellige paragraphs her OBS: Vær opmærksom på at nyoprettet indhold eller ændringer i indhold kan have en forsinkelse, fra du gemmer til det...","categories": ["GO"],
         "tags": [],
