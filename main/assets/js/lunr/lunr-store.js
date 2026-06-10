@@ -984,7 +984,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2026.23.4",
-        "excerpt":"Fejlrettelser til Unilogin Releasedato: 10-06-2026 Redaktør: GO-Produktionssites: 2026.22.2 Webmaster: GO-Produktionssites: 2026.18.6 (København kommer på 2026.23.4) - Denne rettelse er bundet sammen med GO-sitesene og derfor opgraderes moduletestsitesene ikke. Hotfix der retter problemer med at logge ind med Unilogin på GO-sites. Releasedato: 04-06-2026 Redaktør: Produktionssites: 2026.22.0 Webmaster: Produktionssites: 2026.18.4, Moduletestsites: 2026.23.0...","categories": ["Release Notes"],
+        "excerpt":"Fejlrettelser til Unilogin Releasedato: 10-06-2026 Redaktør: GO-Produktionssites: 2026.22.2 Webmaster: GO-Produktionssites: 2026.18.6 (København kommer på 2026.23.4) - Denne rettelse er bundet sammen med GO-sitesene og derfor opgraderes moduletestsitesene ikke. Hotfix der retter problemer med at logge ind med Unilogin på GO-sites. Opgradering til webmasterbibliotekernes moduletestsites Releasedato: 04-06-2026 Redaktør: Produktionssites: 2026.22.0 Webmaster:...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2026-23-4/",
         "teaser": null
