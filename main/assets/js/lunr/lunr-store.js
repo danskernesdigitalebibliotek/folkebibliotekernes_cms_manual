@@ -989,6 +989,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-23-4/",
         "teaser": null
       },{
+        "title": "Release Notes 2026.24.0",
+        "excerpt":"Releasedato: 11-06-2026 Redaktør: Produktionssites: 2026.24.0 Webmaster: Produktionssites: 2026.23.4, Moduletestsites: 2026.24.0 Ny udvikling Klon arrangementer – det er nu muligt at klone et arrangement. Serien klones, men alle instanser nulstilles, så redaktører nemt kan genoprette arrangementer på nye lokationer. CMS-1000 Sortering af arrangementer på kategori eller bibliotek – arrangementer sorteres nu...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2026-24-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 2026.4.1",
         "excerpt":"Releasedato: 22-01-2026 Redaktør: Produktionssites: 2026.4.1 Webmaster: Produktionssites: 2026.2.4, Moduletestsites: 2026.4.1 Hotfix 2026.4.1 Blacklist ift. søgning: Vi har fikset en fejl introduceret i 2026.2.4. omkring blacklist af filialer ift. søgning, som kun påvirkede simpel søgning. Fejlen medførte, at sites uden blacklist af mindst én filial ift. søgning reelt skjulte materialer i...","categories": ["Release Notes"],
         "tags": [],
