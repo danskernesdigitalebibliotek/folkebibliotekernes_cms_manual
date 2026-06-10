@@ -1,8 +1,17 @@
 ---
-title:  "Release Notes 2026.23.0"
+title:  "Release Notes 2026.23.4"
 category: "Release Notes"
 weight: 305
 ---  
+
+# Fejlrettelser til Unilogin
+Releasedato: 10-06-2026
+
+**Redaktør**: GO-Produktionssites: 2026.22.2  
+**Webmaster**: GO-Produktionssites: 2026.18.6 (København kommer på 2026.23.4) - Denne rettelse er bundet sammen med GO-sitesene og derfor opgraderes moduletestsitesene ikke.
+
+Hotfix der retter problemer med at logge ind med Unilogin på GO-sites.
+
 
 Releasedato: 04-06-2026
 
