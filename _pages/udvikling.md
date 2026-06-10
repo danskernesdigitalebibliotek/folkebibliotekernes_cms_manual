@@ -29,7 +29,7 @@ Vi forventer at lave arrangementsdelen færdig inden sommerferien. Vi kan ikke l
   * Mulighed for at selv at definere egen status
   * Mulighed for at filtrere på arrangements-status i lister
   * Implementere på div. arrangements-paragraphs
-* [CMS-1000: Arrangementer - Mulighed for at klone](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1000)
+* <span title="I gang">🟡</span> [CMS-1000: Arrangementer - Mulighed for at klone](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1000)
 * [CMS-1032: Arrangementsoversigt - Væk med "Vis flere"](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1032)
 * [CMS-1033: Arrangementsoversigt - Adskillelse af måneder](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1033)
 * [CMS-1357: Opdeling af arrangementer og udstillinger/længerevarende forløb](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1357)
