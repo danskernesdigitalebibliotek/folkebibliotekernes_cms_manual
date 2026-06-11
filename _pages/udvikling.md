@@ -124,6 +124,6 @@ Flere webmasterbiblioteker har udviklet nogle funktioner, som vi mener kan være
 Der er opgaver som skal løses udenfor CMS'et fx i det data vi får fra FBI API. Herunder er de større opgaver, som vi er i dialog med DBC og/eller Kombit omkring. Vi opdaterer ikke status eller tidshorisont på nedenstående medmindre der er ændringer til vores produkter eller der er kommet en løsning. 
 
 * Filtreringer som På hylden, Location, Department og Sublocation medtager også centralbibliotekernes overbygningsmaterialer. 
-* Der er eksempler på, at filtrering på Branch og Department ikke påvirker p.t. også medtager onlinematerialer, der matcher søgningen, uanset om onlineudgaverne er i beholdning eller ej, pga. værklogikken.
+* Der er eksempler på, at filtrering på Branch og Department p.t. også medtager onlinematerialer, der matcher søgningen, uanset om onlineudgaverne er i beholdning eller ej, pga. værklogikken.
 * ”På hylden" (onShelf) virker ikke pålideligt. Der er observeret to typer af fejl: 1) Udlånte materialer vises som "på hylden”, selvom alle lokale eksemplarer er udlånt. 2) Materialer, der faktisk er hjemme, filtreres væk. 
 * firstaccessiondate fungerer ikke efter hensigten og medtager gamle materialer eller ikke medtager de nyeste materialer. 
