@@ -6,9 +6,6 @@ nav: "overblik"
 ---
 <br>
 
-## 9/6 Lånere kan ikke ændre reservingspause ved login med MitID
-Ændring af reserveringspause virker ikke ved MitID-login: Lånere der er logget ind med MitID kan ikke ændre en eksisterende reserveringspause – der vises en fejlmeddelel-se ved tryk på "Gem". Oprettelse af ny pause fungerer fint, og lånere logget ind med bibliotekskort/pinkode er ikke berørt.
-
 ## 9/6: LØST: Unilogin fejler på GO-sites
 Vi oplever lige nu problemer med at logge ind med Unilogin på bibliotekernes GO-sites. Vi arbejder på at få et hotfix ud til jer hurtigst muligt. Unilogin virker i GO-appen.
 
