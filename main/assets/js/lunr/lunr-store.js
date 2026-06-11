@@ -989,10 +989,10 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-23-4/",
         "teaser": null
       },{
-        "title": "Release Notes 2026.24.0",
-        "excerpt":"Releasedato: 11-06-2026 Redaktør: Produktionssites: 2026.24.0 Webmaster: Produktionssites: 2026.23.4, Moduletestsites: 2026.24.0 Ny udvikling Klon arrangementer – det er nu muligt at klone et arrangement. Serien klones, men alle instanser nulstilles, så redaktører nemt kan genoprette arrangementer på nye lokationer. CMS-1000 Sortering af arrangementer på kategori eller bibliotek – arrangementer sorteres nu...","categories": ["Release Notes"],
+        "title": "Release Notes 2026.24.1",
+        "excerpt":"Releasedato: 11-06-2026 Redaktør: Produktionssites: 2026.24.1 Webmaster: Produktionssites: 2026.23.4, Moduletestsites: 2026.24.1 Ny udvikling Klon arrangementer – det er nu muligt at klone et arrangement. Serien klones, men alle instanser nulstilles, så redaktører nemt kan genoprette arrangementer på nye lokationer. CMS-1000 Sortering af arrangementer på kategori eller bibliotek – arrangementer sorteres nu...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2026-24-0/",
+        "url": "/main/overblik/release-notes/release-notes-2026-24-1/",
         "teaser": null
       },{
         "title": "Release Notes 2026.4.1",
