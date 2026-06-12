@@ -11,7 +11,7 @@ Redaktionelt indhold er alt det indhold, som I selv opretter på jeres site.
 - [Bibliotek og åbningstider](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/bibliotek-og-åbningstider/)
 - [Kampagner](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/kampagner/)
 - [Hovedmenu](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/hovedmenu/) og [footermenu](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/footermenu/)
-- [Tags og kategorier]([https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/tags-og-kategorier/)
+- [Tags og kategorier](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/tags-og-kategorier/)
 - [Brødkrummesti](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/indhold/broedkrummesti/)
 
 ## Faste sider
