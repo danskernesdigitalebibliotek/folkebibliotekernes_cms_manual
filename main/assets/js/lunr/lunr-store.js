@@ -593,6 +593,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2024-22-1/",
         "teaser": null
       },{
+        "title": "Release Notes 2024-22-3",
+        "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2024-22-3/",
+        "teaser": null
+      },{
         "title": "Release Notes 2024.23.0",
         "excerpt":"Mere brugervenligt dashboard, stylet loginside for redaktionelle brugere, avanceret funktionalitet til webforms og cookiebanner Nye features Overskredne lån: Henvisning og information om overskredne lån på ”Gebyr og erstatninger” user/me/fees. Loginside for redaktionelle brugere: Nyt design på /user/login. Webforms: Nu muligt at tilføje en lang række nye felttyper bl.a. ”Hidden”, ”Number”,...","categories": ["Release Notes"],
         "tags": [],
@@ -981,12 +987,6 @@ var store = [{
         "excerpt":"Releasedato: 28-05-2026 Redaktør: Produktionssites: 2026.22.0 Webmaster: Produktionssites: 2026.18.4, Moduletestsites: 2026.22.0 Ny udvikling Forbedrede kampagner: Vi har forbedret kampagner med nye funktioner og et pænere layout. Nu er det muligt at vægte kampagner, så man kan være sikker på at de vigtigste kampagner aktiveres. Derudover kan man nu få aktiveret sine...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2026-22-0/",
-        "teaser": null
-      },{
-        "title": "Release Notes 2024-22-3",
-        "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
-        "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2026-22-3/",
         "teaser": null
       },{
         "title": "Release Notes 2026.23.4",
