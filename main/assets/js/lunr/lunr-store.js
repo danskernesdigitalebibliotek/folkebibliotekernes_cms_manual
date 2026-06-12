@@ -983,6 +983,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-22-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2024-22-3",
+        "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2026-22-3/",
+        "teaser": null
+      },{
         "title": "Release Notes 2026.23.4",
         "excerpt":"Fejlrettelser til Unilogin Releasedato: 10-06-2026 Redaktør: GO-Produktionssites: 2026.22.2 Webmaster: GO-Produktionssites: 2026.18.6 (København kommer på 2026.23.4) - Denne rettelse er bundet sammen med GO-sitesene og derfor opgraderes moduletestsitesene ikke. Hotfix der retter problemer med at logge ind med Unilogin på GO-sites. Opgradering til webmasterbibliotekernes moduletestsites Releasedato: 04-06-2026 Redaktør: Produktionssites: 2026.22.0 Webmaster:...","categories": ["Release Notes"],
         "tags": [],
@@ -1011,12 +1017,6 @@ var store = [{
         "excerpt":"Releasedato: Bemærk releasen her udrulles ikke torsdag den 19/2, som den normale releasecyklus ville foreskrive. Vi forventer releasen kommer ud 5/3, men melder endelig dato ud her på releasenoten. Redaktør: Produktionssites: 2026.8.0 Webmaster: Produktionssites: 2026.6.0, Moduletestsites: 2026.8.0 Forbedringer og fejlrettelser Nu muligt at låne e-bøger og lydbøger under “Udgaver”: Fejl...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2026-8-0/",
-        "teaser": null
-      },{
-        "title": "Release Notes 220324",
-        "excerpt":"Nye features Artikelliste: Under /articles lister oprettede artikler. Der er mulighed for at filtrere på artikelkategorier. Redigeringslås på alle indholdstyper: Forhindrer at flere redaktører redigerer i det samme indhold samtidig. Alle redaktører har mulighed at lukke en lås op, i tilfælde at låsen er aktiv uden grund. Automatisk materialeparagraph: Tilføj...","categories": ["Release Notes"],
-        "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-220324/",
         "teaser": null
       },{
         "title": "Avanceret søgning og CQL Søgning",
