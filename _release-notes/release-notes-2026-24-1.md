@@ -12,7 +12,7 @@ Releasedato: 11-06-2026
 
 ## Ny udvikling
 
-- **Klon arrangementer** – det er nu muligt at klone et arrangement. Serien klones, men alle instanser nulstilles, så redaktører nemt kan genoprette arrangementer på nye lokationer. [CMS-1000](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1000)
+- **Klon arrangementer** – det er nu muligt at klone et arrangement. Serien klones, men alle instanser nulstilles, så redaktører nemt kan genoprette arrangementer på nye lokationer. [CMS-1000](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1000) **OBS:** Burde have været med i denne release, men ser ud til at den ikke er kommet med. Reload er ved at undersøge hvorfor.
 
 - **Sortering af arrangementer på kategori eller bibliotek** – arrangementer sorteres nu alfabetisk ved filtrering på kategorier og/eller biblioteker i stedet for efter antal. [CMS-578](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-578)
 
