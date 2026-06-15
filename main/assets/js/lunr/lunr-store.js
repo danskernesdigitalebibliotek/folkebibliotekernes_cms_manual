@@ -324,7 +324,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Opret indhold i Folkebibliotekernes CMS",
-        "excerpt":"Redaktionelt indhold er alt det indhold, som I selv opretter på jeres site. Side Artikel Arrangement Bibliotek og åbningstider Kampagner Hovedmenu og footermenu Tags og kategorier Brødkrummesti Faste sider Folkebibliotekernes CMS fødes med nogle faste sider eller standardsider. Faste sider er præcis som alle andre sider. De er der bare...","categories": [],
+        "excerpt":"Redaktionelt indhold er alt det indhold, som I selv opretter på jeres site. Side Artikel Arrangement Bibliotek og åbningstider Kampagner Hovedmenu og footermenu Indholdstaksonomier Brødkrummesti Faste sider Folkebibliotekernes CMS fødes med nogle faste sider eller standardsider. Faste sider er præcis som alle andre sider. De er der bare fra starten...","categories": [],
         "tags": [],
         "url": "/main/indhold/",
         "teaser": null
