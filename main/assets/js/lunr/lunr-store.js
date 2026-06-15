@@ -335,6 +335,12 @@ var store = [{
         "url": "/main/indhold/hovedmenu/",
         "teaser": null
       },{
+        "title": "Indholdstaksonomier",
+        "excerpt":"Man kan samle artikler og arrangementer på tværs af indholdstyper med kategorier og tags. Dette kan I bruge til at oprette diverse komponenter fx hvis du vil indsætte en Card grid - automatic med arrangementer, der handler om litteratur. Derudover kan brugerne filtrere artikellisten og arrangementslisten efter kategori. Sider struktureres...","categories": ["Navigation"],
+        "tags": [],
+        "url": "/main/indhold/indholdstaksonomier/",
+        "teaser": null
+      },{
         "title": "Kampagner",
         "excerpt":"Kampagner er en selvstændig indholdstype, der vises på søgeresultat-siden – men kun hvis det, som brugeren søger på, udløser den. Kampagner kan derfor bruges målrettet til at skabe opmærksomhed om arrangementer, særlige materialer, eller andet, som biblioteket ønsker at give særlig promovering. En kamoagne på et søgeresultat Sådan opretter du...","categories": ["Indholdstyper"],
         "tags": [],
@@ -387,12 +393,6 @@ var store = [{
         "excerpt":"Hvis man fx skal oprette flere sider, hvor indholdet ligner hinanden fx forskellige læseklubber, så kan man oprette skabeloner. Man kan oprette skabeloner til sider, biblioteker, kampagner og artikler. Opret en skabelon Det nemmeste er først at oprette en skabelon, som passer til det indhold, der skal være på siderne....","categories": ["Generelt"],
         "tags": [],
         "url": "/main/indhold/skabeloner/",
-        "teaser": null
-      },{
-        "title": "Tags og kategorier",
-        "excerpt":"Man kan samle artikler og arrangementer på tværs af indholdstyper med kategorier og tags. Dette kan I bruge til at oprette diverse komponenter fx hvis du vil indsætte en Card grid - automatic med arrangementer, der handler om litteratur. Derudover kan brugerne filtrere artikellisten og arrangementslisten efter kategori. Sider struktureres...","categories": ["Navigation"],
-        "tags": [],
-        "url": "/main/indhold/tags-og-kategorier/",
         "teaser": null
       },{
         "title": "Standardtekst for Takster",
