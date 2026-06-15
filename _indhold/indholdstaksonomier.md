@@ -1,5 +1,5 @@
 ---
-title: "Tags og kategorier"
+title: "Indholdstaksonomier"
 category: "Navigation"
 weight: 1
 ---
@@ -64,4 +64,24 @@ Når man er i gang med at oprette eller redigere et arrangement eller en artikel
 
 Vælg tags i **Tags**.
 
-{% include figure class="sixty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/1ab16ed2-3064-4859-983a-07ec6466b6be" alt="Vælg tags" caption="Vælg tags" %}
+{% include figure class="sixty" 
+
+image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/150667350/1ab16ed2-3064-4859-983a-07ec6466b6be" alt="Vælg tags" caption="Vælg tags" %}
+
+## Målgrupper
+
+Dette kommer ud med en snarlig release.
+{: .notice--primary}
+
+### Opret tags
+
+1. I topmenuen klik på **Struktur** eller åbn `https://mit-domænenavn.dk/admin/structure` (udskift mit-domænenavn.dk)
+2. Tryk på **Taksonomi**
+3. Tryk på **Vis ord** ud for **Audiences**
+4. Tryk på **Tilføj ord** for at oprette en ny målgruppe *(eller **Redigér** ud for et af de allerede oprettet målgrupper for at tilrette det)*
+5. Indtast målgruppens navn i feltet **Navn**
+6. Tryk på **Gem**
+
+### Tilføj målgrupper på et arrangement
+1. Når man er i gang med at oprette eller redigere et arrangement, så fold **Arrangementsdetaljer* ud i den højre menu.
+2. Vælg målgrupper i **Audiences**
