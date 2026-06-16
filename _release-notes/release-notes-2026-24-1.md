@@ -12,7 +12,8 @@ Releasedato: 11-06-2026
 
 ## Ny udvikling
 
-- **Klon arrangementer** – det er nu muligt at klone et arrangement. Serien klones, men alle instanser nulstilles, så redaktører nemt kan genoprette arrangementer på nye lokationer. [CMS-1000](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1000) **OBS:** Burde have været med i denne release, men ser ud til at den ikke er kommet med. Reload er ved at undersøge hvorfor.
+- **Klon arrangementer** – det er nu muligt at klone et arrangement. Serien klones, men alle instanser nulstilles, så redaktører nemt kan genoprette arrangementer på nye lokationer. [CMS-1000](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1000)
+  **OBS:** Burde have været med i denne release, men ser ud til at den ikke er kommet med. Reload er ved at undersøge hvorfor.
 
 - **Sortering af arrangementer på kategori eller bibliotek** – arrangementer sorteres nu alfabetisk ved filtrering på kategorier og/eller biblioteker i stedet for efter antal. [CMS-578](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-578)
 
@@ -30,4 +31,6 @@ Releasedato: 11-06-2026
 
 - **Mailadresse skal være obligatorisk ifm. fjernlån – igen** - Reserveringsknappen for overbygningsmaterialer var fejlagtigt blevet aktiv for brugere uden mailadresse. Knappen er nu igen inaktiv, hvis der ikke er registreret en mailadresse.
 **Bemærk**: Denne fejl blev oprindeligt rettet i 2025 men gik i stykker igen. Fejlen betød, at biblioteker modtog fjernlånsbestillinger uden brugerens mailadresse. Rettelsen sikrer, at brugere ikke kan bestille overbygningsmaterialer uden først at angive en mailadresse. Oprindelig sag. [CMS-689](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-689)
+
+- **Værkvisningssiden:** "Udgave"-feltet under Udgaver samt i reserveringsmodalen bruger ikke længere samme label som "Nr." ved tidsskrifter. Derfor står der nu korrekt “Udgave” ved udgaverne og “Nr.” ved valg af nr. af tidsskrift.[CMS-1856](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1856)
 
