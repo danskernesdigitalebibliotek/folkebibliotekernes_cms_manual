@@ -996,7 +996,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2026.24.1",
-        "excerpt":"Releasedato: 11-06-2026 Redaktør: Produktionssites: 2026.24.1 Webmaster: Produktionssites: 2026.23.4, Moduletestsites: 2026.24.1 Ny udvikling Klon arrangementer – det er nu muligt at klone et arrangement. Serien klones, men alle instanser nulstilles, så redaktører nemt kan genoprette arrangementer på nye lokationer. CMS-1000 OBS: Burde have været med i denne release, men ser ud...","categories": ["Release Notes"],
+        "excerpt":"Releasedato: 11-06-2026 Redaktør: Produktionssites: 2026.24.1 Webmaster: Produktionssites: 2026.23.4, Moduletestsites: 2026.24.1 Ny udvikling Klon arrangementer – det er nu muligt at klone et arrangement. Serien klones, men alle instanser nulstilles, så redaktører nemt kan genoprette arrangementer på nye lokationer. CMS-1000 OBS: Burde have været med i denne release, men en teknisk...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2026-24-1/",
         "teaser": null
