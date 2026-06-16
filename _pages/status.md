@@ -6,7 +6,7 @@ nav: "overblik"
 ---
 <br>
 
-## 16/6: Kloning bliver først muligt med næste release
+## 16/6: Kloning af arrangementer bliver først muligt med næste release
 En fejl har gjort at kloning ikke virker i 2026.24. Det får vi fikset til næste release.
 
 ## 9/6: LØST: Unilogin fejler på GO-sites
