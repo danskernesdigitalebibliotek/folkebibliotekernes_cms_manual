@@ -46,10 +46,22 @@ Indholdet ligger nu i dit CMS. Du kan:
 - Tilføje, redigere eller rette **paragraffer**, **materialer**, **tags**, **kategorier** og tilføje **relaterede artikler**
 - **Undgå at ændre i feltet “Metatags: Canonical URL”**, da det kan påvirke søgemaskinernes visning og SEO for ophavsbiblioteket.
 
+<br>
 
----
 
-<br><br>
+## Sletning eller afpublicering af importeret indhold
+
+Ønsker du at afpublicere eller slette indhold, du enten har hentet manuelt eller har fået ind gennem et abonnement, er det vigtigt, at du gør følgende:
+
+1.	Klik redigér på indholdet, du vil afpublicere eller slette
+2.	Deaktiver knappen “Hold indholdet opdateret fra Delingstjenesten”
+3.	Deaktiver knappen “Publiceret”
+4.	Gem
+Ønsker du helt at slette, kan du slette indholdet, efter at du har gemt, at du frakobler indholdet fra Delingstjenesten.
+
+<br>
+
+
 ## Godt at vide
 
 **Grafikker og billeder**  
@@ -66,18 +78,16 @@ Undgå ændringer i feltet **Metatags → Canonical URL**, så undgår vi at sø
 **Kreditering af forfatter**  
 Det er ikke nødvendigt at kreditere forfattere, når indholdet importeres til jeres site, da det altid vil have "biblioteket" automatisk som afsender. 
 
----
 
-<br><br>
+
+<br>
 ## Brug for hjælp?
 - Oplever du fejl, så meld ind via [**Servicedesk**](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals): *Folkebibliotekernes CMS → Indmeld fejl*
 - Har du ønsker til hvordan Delingstjenesten kan blive endnu bedre. Meld dine ønsker ind via [**Servicedesk**](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portals): *Folkebibliotekernes CMS → Udviklingsønsker*
 - Spørgsmål til indhold, billeder eller rettigheder? Skriv til [**redaktionen@detdigitalefolkebibliotek.dk**](mailto:redaktionen@detdigitalefolkebibliotek.dk)
 
 
-
----
-<br><br>
+<br>
 
 ## Hvilke paragraphs kan og kan ikke hentes?
 
