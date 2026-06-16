@@ -32,5 +32,5 @@ Releasedato: 11-06-2026
 - **Mailadresse skal være obligatorisk ifm. fjernlån – igen** - Reserveringsknappen for overbygningsmaterialer var fejlagtigt blevet aktiv for brugere uden mailadresse. Knappen er nu igen inaktiv, hvis der ikke er registreret en mailadresse.
 **Bemærk**: Denne fejl blev oprindeligt rettet i 2025 men gik i stykker igen. Fejlen betød, at biblioteker modtog fjernlånsbestillinger uden brugerens mailadresse. Rettelsen sikrer, at brugere ikke kan bestille overbygningsmaterialer uden først at angive en mailadresse. Oprindelig sag. [CMS-689](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-689)
 
-- **Værkvisningssiden:** "Udgave"-feltet under Udgaver samt i reserveringsmodalen bruger ikke længere samme label som "Nr." ved tidsskrifter. Derfor står der nu korrekt “Udgave” ved udgaverne og “Nr.” ved valg af nr. af tidsskrift.[CMS-1856](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1856)
+- **Værkvisningssiden:** "Udgave"-feltet under Udgaver samt i reserveringsmodalen bruger ikke længere samme label som "Nr." ved tidsskrifter. Derfor står der nu korrekt “Udgave” ved udgaverne og “Nr.” ved valg af nr. af tidsskrift. [CMS-1856](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1856)
 
