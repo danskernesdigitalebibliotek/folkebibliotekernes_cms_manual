@@ -6,6 +6,9 @@ nav: "overblik"
 ---
 <br>
 
+## 16/6: Kloning bliver først muligt med næste release
+En fejl har gjort at kloning ikke virker i 2026.24. Det får vi fikset til næste release.
+
 ## 9/6: LØST: Unilogin fejler på GO-sites
 Vi oplever lige nu problemer med at logge ind med Unilogin på bibliotekernes GO-sites. Vi arbejder på at få et hotfix ud til jer hurtigst muligt. Unilogin virker i GO-appen.
 
