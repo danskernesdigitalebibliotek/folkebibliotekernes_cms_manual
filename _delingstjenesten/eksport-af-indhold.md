@@ -31,7 +31,7 @@ Udfyld som normalt: titel, brødtekst, teaserbillede mv.
 - Materialekomponent – manuel  
 - Recommendation  
 
-**OBS:** Andre paragraph-typer bliver ikke sendt med.
+**OBS:** Hvis du forsøger at eksportere indhold med andre paragraphs end de ovennævnte, vil synkroniseringen til Delingstjenesten fejle, og du vil ikke kunne eksportere indholdet.
 
 <br>
 
