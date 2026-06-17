@@ -19,9 +19,9 @@ For at kunne rette i jeres udseende skal I være logget ind, som en lokal admini
 ## Logo
 
 ### Format
-1. Logoet bør være en PNG eller SVG på transparent baggrund.
-2. Du får bedste resultat med formatet 11:5 (f.eks. 220 px bred og 100 px høj). Du må gerne uploade et større billede, bare forholdet mellem bredde og højde er 11:5. Om muligt, så start altid med at redigerer en billedfil i høj opløsning.
-3. Biblioteker uden logo kan benytte sig af en såkaldt fall back-version, hvor bibliotekets navn skrives med en prædefineret typografi.
+- Logoet bør være en PNG eller SVG på transparent baggrund.
+- Du får bedste resultat med formatet 11:5 (f.eks. 220 px bred og 100 px høj). Du må gerne uploade et større billede, bare forholdet mellem bredde og højde er 11:5. Om muligt, så start altid med at redigerer en billedfil i høj opløsning.
+- Biblioteker uden logo kan benytte sig af en såkaldt fall back-version, hvor bibliotekets navn skrives med en prædefineret typografi.
 
 ### Sådan ændrer I logoet
 1. Klik på **Udseende** i toppen af siden.
