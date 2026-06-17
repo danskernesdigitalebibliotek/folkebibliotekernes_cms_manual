@@ -8,7 +8,6 @@ I topmenuen klik på **{{ page.click-path }}**
 Eller åbn via URL (udskift mit-domænenavn.dk):\
 `https://mit-domænenavn.dk/admin/appearance/settings/novel`
 
-## Om logo, identitetsfarve og favicon
 Folkebibliotekernes CMS bruger et standard tema, der hedder "Novel". 
 I kan ændre nogle få ting i standard-temaet:
 - Logo
@@ -17,7 +16,7 @@ I kan ændre nogle få ting i standard-temaet:
 
 For at kunne rette i jeres udseende skal I være logget ind, som en lokal administrator.
 
-### Logo
+## Logo
 
 1. Klik på **Udseende** i toppen af siden.
 
