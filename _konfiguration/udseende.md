@@ -18,25 +18,28 @@ For at kunne rette i jeres udseende skal I være logget ind, som en lokal admini
 
 ## Logo
 
+### Format
+1. Logoet bør være en PNG eller SVG på transparent baggrund.
+2. Du får bedste resultat med formatet 11:5 (f.eks. 220 px bred og 100 px høj). Du må gerne uploade et større billede, bare forholdet mellem bredde og højde er 11:5. Om muligt, så start altid med at redigerer en billedfil i høj opløsning.
+3. Biblioteker uden logo kan benytte sig af en såkaldt fall back-version, hvor bibliotekets navn skrives med en prædefineret typografi.
+
+### Sådan ændrer I logoet
 1. Klik på **Udseende** i toppen af siden.
-
 2. Klik på **Indstillinger** for Novel temaet.
-
 3. Fold rubrikken **Logo billede** ud.
    {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/4f896db3-9388-40c5-989f-b2972bcf6aec" alt="Tilføj et nyt logo" caption="Tilføj et nyt logo" %}
 
-5. Afmarkér knappen med titlen **Use the logo supplied by the theme**.
-
-6. Klik på knappen **Vælg fil** og upload dit billede.
-
-7. **Vigtigt!** Husk at udfylde felterne **Title** og **Place**. De bliver vist *i stedet* for logoet på små skærme. Title bliver vist med fed skrift og Place med normal skrift nedenunder. Title SKAL være udfyldt. Place er frivillig. Slet standardteksten i Place, så den er tom, hvis I ikke har indhold til feltet.
+4. Afmarkér knappen med titlen **Use the logo supplied by the theme**.
+5. Klik på knappen **Vælg fil** og upload dit billede.
+6. **Vigtigt!** Husk at udfylde felterne **Title** og **Place**. De bliver vist *i stedet* for logoet på små skærme. Title bliver vist med fed skrift og Place med normal skrift nedenunder. Title SKAL være udfyldt. Place er frivillig. Slet standardteksten i Place, så den er tom, hvis I ikke har indhold til feltet.
    {% include figure class="fifty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/1641342/2125544f-ee50-4e54-9082-9f88a009c085" alt="På små skærme vises Title og Place i stedet for jeres logo" caption="På små skærme vises Title og Place i stedet for jeres logo" %}
-
-8. Klik på knappen **Gem indstillinger** i bunden af siden.
+7. Klik på knappen **Gem indstillinger** i bunden af siden.
 
 ## Identitetsfarve
 
-Læs mere om [identitetsfarvens betydning](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/integrationer/3identitetsfarve/) for sitet.
+I skal vælge en identitetsfarve til jeres hjemmeside. I må kun vælge én farve. Det skal være en stærk og ren farve, da den vil blive brugt i forskellige toner på hjemmesiden.
+
+For at sikre god læsbarhed og overholdelse af krav til kontrast, må bibliotekets identitetsfarve aldrig bruges i direkte forbindelse med tekst. Det vil sige at I ikke skal skrive tekst med jeres farve.
 
 1. Klik på **Udseende** i toppen af siden.
 
@@ -50,7 +53,7 @@ Læs mere om [identitetsfarvens betydning](https://danskernesdigitalebibliotek.g
 
 Et favicon vises i browserens adresselinje og som bogmærke ikon. 
 
-### Format og indhold
+### Format
 - Det skal være et kvadratisk billede fx 512x512.
 - Det skal være simpelt visuelt fx det grafiske element i jeres logo, da bliver nedskaleret kraftigt og bliver udtydelig, hvis det er for komplekst visuelt.
 - Er pænest med gennemsigtig baggrund.
