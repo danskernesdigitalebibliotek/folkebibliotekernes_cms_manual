@@ -336,7 +336,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Indholdstaksonomier",
-        "excerpt":"Man kan samle artikler og arrangementer på tværs af indholdstyper med kategorier og tags. Dette kan I bruge til at oprette diverse komponenter fx hvis du vil indsætte en Card grid - automatic med arrangementer, der handler om litteratur. Derudover kan brugerne filtrere artikellisten og arrangementslisten efter kategori. Sider struktureres...","categories": ["Navigation"],
+        "excerpt":"Man kan samle artikler og arrangementer på tværs af indholdstyper med kategorier og tags. Og I kan sætte målgrupper på arrangementer. Dette kan I bruge til at oprette diverse komponenter fx hvis du vil indsætte en Card grid - automatic med arrangementer, der handler om litteratur. Derudover kan brugerne filtrere...","categories": ["Navigation"],
         "tags": [],
         "url": "/main/indhold/indholdstaksonomier/",
         "teaser": null
