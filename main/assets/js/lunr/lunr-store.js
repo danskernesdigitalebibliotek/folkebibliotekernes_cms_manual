@@ -534,7 +534,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Logo, identitetsfarve og favicon",
-        "excerpt":"I topmenuen klik på Udseende &gt; Novel &gt; Indstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/appearance/settings/novel Om logo, identitetsfarve og favicon Folkebibliotekernes CMS bruger et standard tema, der hedder “Novel”. I kan ændre nogle få ting i standard-temaet: Logo Identitetsfarve Favicon For at kunne rette i jeres udseende skal I...","categories": ["Konfiguration"],
+        "excerpt":"I topmenuen klik på Udseende &gt; Novel &gt; Indstillinger Eller åbn via URL (udskift mit-domænenavn.dk): https://mit-domænenavn.dk/admin/appearance/settings/novel Folkebibliotekernes CMS bruger et standard tema, der hedder “Novel”. I kan ændre nogle få ting i standard-temaet: Logo Identitetsfarve Favicon For at kunne rette i jeres udseende skal I være logget ind, som en...","categories": ["Konfiguration"],
         "tags": [],
         "url": "/main/konfiguration/udseende/",
         "teaser": null
