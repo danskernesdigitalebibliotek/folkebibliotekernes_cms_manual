@@ -43,7 +43,8 @@ For at sikre god læsbarhed og overholdelse af krav til kontrast, må biblioteke
 
 1. Klik på **Udseende** i toppen af siden.
 2. Klik på **Indstillinger** for Novel temaet.
-3. Klik på **Identity Color** og vælg en identitetsfarve. Farven kan også vælges ved at indsætte RGB (red-green-blue) farvekode. {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/03cd2d76-43d6-48c7-ae83-ffd714ca352e" alt="Tilføj et ny identitetsfarve" caption="Tilføj et ny identitetsfarve" %}
+3. Klik på **Identity Color** og vælg en identitetsfarve. Farven kan også vælges ved at indsætte RGB (red-green-blue) farvekode.
+   {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/03cd2d76-43d6-48c7-ae83-ffd714ca352e" alt="Tilføj et ny identitetsfarve" caption="Tilføj et ny identitetsfarve" %}
 
 4. Klik på knappen **Gem indstillinger** i bunden af siden.
 
