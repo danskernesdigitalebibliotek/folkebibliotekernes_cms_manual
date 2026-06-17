@@ -39,13 +39,16 @@ For at kunne rette i jeres udseende skal I være logget ind, som en lokal admini
 
 I skal vælge en identitetsfarve til jeres hjemmeside. I må kun vælge én farve. Det skal være en stærk og ren farve, da den vil blive brugt i forskellige toner på hjemmesiden.
 
-For at sikre god læsbarhed og overholdelse af krav til kontrast, må bibliotekets identitetsfarve aldrig bruges i direkte forbindelse med tekst. Det vil sige at I ikke skal skrive tekst med jeres farve.
+Identitetsfarven bruges flere steder:
+- I rammer omring billeder
+- Når indhold uden billeder skal præsenteres i oversigter
+- Som bagrundsfarve på ikoner
 
+### Sådan ændrer i farven
 1. Klik på **Udseende** i toppen af siden.
 2. Klik på **Indstillinger** for Novel temaet.
 3. Klik på **Identity Color** og vælg en identitetsfarve. Farven kan også vælges ved at indsætte RGB (red-green-blue) farvekode.
    {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/03cd2d76-43d6-48c7-ae83-ffd714ca352e" alt="Tilføj et ny identitetsfarve" caption="Tilføj et ny identitetsfarve" %}
-
 4. Klik på knappen **Gem indstillinger** i bunden af siden.
 
 ## Favicon
@@ -59,7 +62,6 @@ Et favicon vises i browserens adresselinje og som bogmærke ikon.
 - Vi anbefaler at uploade det som PNG, da det kan have en gennemsigtig baggrund og bliver ikke komprimeret når det nedskaleres. JPG og GIF understøttes også.
 
 ### Sådan ændrer I favicon
-
 1. Klik på Udseende i toppen af siden.
 2. Klik på Indstillinger for Novel temaet.
 3. Knappen "Use the favicon supplied by the theme" skal være slået fra.
