@@ -1254,7 +1254,7 @@ var store = [{
         "teaser": null
       },{
         "title": "6 Logo, identitetsfarve og favicon",
-        "excerpt":"Logo Logo vises i øverste ventre hjørne af alle websider. Det placeres i et rektangulært felt, som sætter nogle krav til udformningen. Meget aflange logoer fungerer dårligt og vil gøre bibliotekets navn meget småt. Ombryd evt. teksten i to dæk for bedre læsbarhed. Logoet bør være en PNG eller SVG...","categories": ["Opgaver - Basiskonfiguration"],
+        "excerpt":"I kan ændrer siden udseende, så det matcher jeres lokaler identitet på tre måder: logo, favicon og indentitetsfarve.   Læs mere om formater og retningslinjer samt hvordan I ændrer de tre forskellige identitetselementer.   Konfiguration af logo, identitetsfarve og favicon.  ","categories": ["Opgaver - Basiskonfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/udseende/",
         "teaser": null
