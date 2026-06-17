@@ -4,7 +4,7 @@ category: "Navigation"
 weight: 1
 ---
 
-Man kan samle artikler og arrangementer på tværs af indholdstyper med kategorier og tags. Dette kan I bruge til at oprette diverse komponenter fx hvis du vil indsætte en Card grid - automatic med arrangementer, der handler om litteratur. Derudover kan brugerne filtrere artikellisten og arrangementslisten efter kategori. 
+Man kan samle artikler og arrangementer på tværs af indholdstyper med kategorier og tags. Og I kan sætte målgrupper på arrangementer. Dette kan I bruge til at oprette diverse komponenter fx hvis du vil indsætte en Card grid - automatic med arrangementer, der handler om litteratur. Derudover kan brugerne filtrere artikellisten og arrangementslisten efter kategori og målgruppe. 
 
 Sider struktureres ved at opbygge brødkrummer, og man kan med fordel afspejle nogle af sine kategorier efter sine overordnede menupunkter og brødkrummer. [Se hvordan man laver en brødkrummesti]({{ site.baseurl }}{% link _indhold/broedkrummesti.md %}).
 {: .notice--primary}
@@ -73,7 +73,8 @@ image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_c
 Dette kommer ud med en snarlig release.
 {: .notice--primary}
 
-### Opret tags
+### Opret målrupper
+*Vær opmærksom på at der er tre målgrupper præoprettet med funktionen - Børn, Unge og Voksne. Dem kan I selv rette til, så det passer jeres behov.*
 
 1. I topmenuen klik på **Struktur** eller åbn `https://mit-domænenavn.dk/admin/structure` (udskift mit-domænenavn.dk)
 2. Tryk på **Taksonomi**
