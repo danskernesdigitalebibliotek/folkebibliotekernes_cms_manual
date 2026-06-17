@@ -54,6 +54,7 @@ Et favicon vises i browserens adresselinje og som bogmærke ikon.
 - Det skal være et kvadratisk billede fx 512x512.
 - Det skal være simpelt visuelt fx det grafiske element i jeres logo, da bliver nedskaleret kraftigt og bliver udtydelig, hvis det er for komplekst visuelt.
 - Vi anbefaler at uploade det som PNG, men andre filformater understøttes også.
+- Er pænest med gennemsigtig baggrund.
 
 ### Sådan ændrer I favicon
 
