@@ -15,7 +15,9 @@ I kan ændre nogle få ting i standard-temaet:
 - Identitetsfarve
 - Favicon
 
-**Ændring af logo**
+For at kunne rette i jeres udseende skal I være logget ind, som en lokal administrator.
+
+### Logo
 
 1. Klik på **Udseende** i toppen af siden.
 
@@ -33,7 +35,7 @@ I kan ændre nogle få ting i standard-temaet:
 
 8. Klik på knappen **Gem indstillinger** i bunden af siden.
 
-**Ændring af identitetsfarve**
+## Identitetsfarve
 
 Læs mere om [identitetsfarvens betydning](https://danskernesdigitalebibliotek.github.io/folkebibliotekernes_cms_manual/main/integrationer/3identitetsfarve/) for sitet.
 
@@ -45,14 +47,20 @@ Læs mere om [identitetsfarvens betydning](https://danskernesdigitalebibliotek.g
 
 4. Klik på knappen **Gem indstillinger** i bunden af siden.
 
-**Ændring af favicon**
+## Favicon
 
 Et favicon vises i browserens adresselinje og som bogmærke ikon. 
 
-Klik på Udseende i toppen af siden.
+### Format og indhold
+- Det skal være et kvadratisk billede fx 512x512.
+- Det skal være simpelt visuelt fx det grafiske element i jeres logo, da bliver nedskaleret kraftigt og bliver udtydelig, hvis det er for komplekst visuelt.
+- Vi anbefaler at uploade det som PNG, men andre filformater understøttes også.
 
-Klik på Indstillinger for Novel temaet.
+### Sådan ændrer I favicon
 
-Afmarkér knappen "Use the favicon supplied by the theme"
+1. Klik på Udseende i toppen af siden.
+2. Klik på Indstillinger for Novel temaet.
+3. Knappen "Use the favicon supplied by the theme" skal være slået fra.
+4. Tryk på 'Vælg fil' knappen under 'Upload favicon image' og upload jeres favicon.
 
 {% include figure class="seventy" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/159251423/de88e2f6-29f8-4237-866a-8ad0adae4d11" alt="Tilføj et nyt favicon" caption="Tilføj et nyt favicon" %}
