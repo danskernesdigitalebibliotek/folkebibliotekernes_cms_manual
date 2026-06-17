@@ -3,18 +3,11 @@ title: "Logo, identitetsfarve og favicon"
 click-path: "Udseende > Novel > Indstillinger"
 category: "Konfiguration"
 ---
-I topmenuen klik på **{{ page.click-path }}**
-
-Eller åbn via URL (udskift mit-domænenavn.dk):\
-`https://mit-domænenavn.dk/admin/appearance/settings/novel`
-
-Folkebibliotekernes CMS bruger et standard tema, der hedder "Novel". 
-I kan ændre nogle få ting i standard-temaet:
-- Logo
-- Identitetsfarve
-- Favicon
+Folkebibliotekernes CMS bruger et standard tema, der hedder "Novel". I kan ændre nogle tre ting i temaet: logo, identitetsfarve og favicon.
 
 For at kunne rette i jeres udseende skal I være logget ind, som en lokal administrator.
+
+For at tilgå tilrettelse af temaet - klik på **{{ page.click-path }}** i topmenuen. Eller åbn via URL (udskift mit-domænenavn.dk): `https://mit-domænenavn.dk/admin/appearance/settings/novel`
 
 ## Logo
 
