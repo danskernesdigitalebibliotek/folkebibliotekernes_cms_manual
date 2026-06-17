@@ -1254,7 +1254,7 @@ var store = [{
         "teaser": null
       },{
         "title": "6 Logo, identitetsfarve og favicon",
-        "excerpt":"I kan ændrer siden udseende, så det matcher jeres lokaler identitet på tre måder: logo, favicon og indentitetsfarve.   Læs mere om formater og retningslinjer samt hvordan I ændrer de tre forskellige identitetselementer.   Konfiguration af logo, identitetsfarve og favicon.  ","categories": ["Opgaver - Basiskonfiguration"],
+        "excerpt":"I kan ændrer siden udseende, så det matcher jeres lokaler identitet på tre måder: logo, favicon og indentitetsfarve.   Læs mere om formater og retningslinjer samt hvordan I ændrer de tre forskellige identitetselementer.  ","categories": ["Opgaver - Basiskonfiguration"],
         "tags": [],
         "url": "/main/startopsaetning/udseende/",
         "teaser": null
