@@ -62,12 +62,3 @@ Tastaturbrugere kan ikke anvende søgefunktion i læsemodal på go.BIBLIOTEKSDOM
 Visse kombinationer af skærmlæser/browser og modal til læsning på go.BIBLIOTEKSDOMÆNE.dk: Teksten, som beskriver formålet med knapper/funktioner i læsemodalen, vil ikke blive oplæst i visse kombinationer af skærmlæser/browser, da den i øjeblikket er kodet på en måde, der ikke understøttes bredt af diverse kombinationer af disse. Tilgår man f.eks. læsemodalen med VoiceOver og Safari (udbredt kombination af skærmlæsersoftware og browser) til diverse digitale titler på GO, vil skærmlæseren ikke oplæse de forskellige tekster, der beskriver hvad knapperne bruges til. Omvendt vil teksten blive læst op, hvis man f.eks. anvender VoiceOver og Chrome eller NVDA og Chrome.
 
 Ingen mulighed for at kontrollere afspilningen af animationer på go.BIBLIOTEKSDOMÆNE.dk: På sitet findes markedsføringspaneler med animationer, som gentages i et loop. Som bruger er det ikke muligt at stoppe, pause eller skjule panelerne på nuværende tidspunkt.
-
-
-
-
-
- 
-
-
-
