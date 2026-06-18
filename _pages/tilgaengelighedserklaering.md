@@ -31,7 +31,7 @@ Som brugere af Folkebibliotekernes CMS og GO har I selv ansvaret for at sikre ti
 
 ## Tekst til tilgængelighedserklæringen
 
-### Inden du bruger teksten
+### Inden du bruger teksten\
 Inden du bruger teksten, vær opmærksom på, at der i teksten er indsat en række placeholders med formatet BIBLIOTEKSDOMÆNE.dk og go.BIBLIOTEKSDOMÆNE.dk. Som du allerede har regnet ud, skal du udskifte BIBLIOTEKSDOMÆNE med jeres domænenavn.
 {: .notice--info}
 
