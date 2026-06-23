@@ -15,13 +15,17 @@ Her finder du tekst, du kan kopiere ind i jeres lokale tilgængelighedserklærin
 
 Når I går i drift med Folkebibliotekernes CMS og det tilhørende subsite GO, skal sitets tilgængelighedserklæring opdateres. Det er et lovkrav, at alle offentlige websites har en tilgængelighedserklæring, og at den ajourføres, når der sker ændringer på sitet, som har betydning for de oplysninger, der står i den. Det er en lokal opgave at oprette og ajourføre tilgængelighedserklæringen for jeres installation af Folkebibliotekernes CMS og GO. I afsnittet “Tekst til tilgængelighedserklæringen” nedenunder finder du som udgangspunkt den nødvendige tekst, du skal bruge for at udfylde erklæringen.
 
-[Læs mere om tilgængelighedserklæringen på digst.dk og hvordan du publicerer en tilgængelighedserklæring med WAS-tool.](https://digst.dk/digital-inklusion/webtilgaengelighed/om-tilgaengelighedserklaeringen/)
-
 Som minimum skal tilgængelighedserklæringen opdateres en gang om året.
 
 Der udvikles og releases løbende i relation til Folkebibliotekernes CMS og subsitet GO, af både reel nyudvikling og fejlrettelser, som vedrører tilgængeligheden af løsningen. Afsnittet “Tekst til tilgængelighedserklæringen” nedenunder vil blive opdateret, når der sker ændringer i hjemmesidesystemet, der har betydning for tilgængelighedserklæringen.
 
 I toppen af siden her kan du se, hvornår afsnittet “Tekst til tilgængelighedserklæringen” senest er opdateret. Vi vil anbefale, at du én gang om måneden i det første år efter lanceringen af GO tjekker, om der er ændringer til teksten og opdaterer den lokale tilgængelighedserklæring, hvis nødvendigt.
+
+### Opret en tilgængelighedserklæring
+
+I skal oprette en tilgængelighedserklæring med Digitaliseringsstyrelsens WAS-tool og linke til den via jeres hjemmeside.
+
+[Læs mere om tilgængelighedserklæringen på digst.dk og hvordan du publicerer en tilgængelighedserklæring med WAS-tool.](https://digst.dk/digital-inklusion/webtilgaengelighed/om-tilgaengelighedserklaeringen/)
 
 ## Hvem har ansvaret for hvad? 
 
