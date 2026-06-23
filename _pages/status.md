@@ -9,6 +9,7 @@ nav: "overblik"
 ## 23/6: Tilgængelighedserklæringer fejler på alle hjemmesider
 Digitaliseringsstyrelsen skriver: Serviceinfo: der er problemer med WAS-Tool, som påvirker både adgang til systemet og visning af tilgængelighedserklæringerne. Vi arbejder på sagen.
 [Digitaliseringsstyrelsen serviceinfo](https://digst.dk/tilsyn/webtilgaengelighed/om-tilgaengelighedserklaeringen/)
+Problemet opstod i søndags og forventes løst i dag.
 
 ## 16/6: Kloning af arrangementer bliver først muligt med næste release
 En fejl har gjort at kloning ikke virker i 2026.24. Det får vi fikset til næste release.
