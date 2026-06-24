@@ -37,7 +37,7 @@
 
 
 
-  <meta property="article:published_time" content="2026-06-24T10:47:58+00:00">
+  <meta property="article:published_time" content="2026-06-24T10:49:25+00:00">
 
 
 
@@ -564,7 +564,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Release Notes 2026.26.0">
     <meta itemprop="description" content="Releasedato: 25-06-2026">
-    <meta itemprop="datePublished" content="2026-06-24T10:47:58+00:00">
+    <meta itemprop="datePublished" content="2026-06-24T10:49:25+00:00">
     
 
     <div class="page__inner-wrap">
@@ -591,22 +591,35 @@
 
 <h2 id="ny-udvikling">Ny udvikling</h2>
 
-<p>•	Arrangementer: ”Målgruppe” er tilføjet som ny taksonomi på arrangementer. Brugere kan nu filtrere arrangementer efter målgruppe (fx børn, unge, voksne). Målgruppe kan vælges ved oprettelse af arrangementer, vises på arrangementssiden og er tilgængelig som filter i arrangementsoversigten.<a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-943">CMS-943</a> 
+<ul>
+  <li>
+    <p>Arrangementer: ”Målgruppe” er tilføjet som ny taksonomi på arrangementer. Brugere kan nu filtrere arrangementer efter målgruppe (fx børn, unge, voksne). Målgruppe kan vælges ved oprettelse af arrangementer, vises på arrangementssiden og er tilgængelig som filter i arrangementsoversigten.<a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-943">CMS-943</a> 
 I kan læse mere i CMS-Manualen, om hvordan I opretter målgrupper og føjer dem til arrangementer: <a href="https://www.folkebibliotekernescms.dk/main/indhold/indholdstaksonomier/#m%C3%A5lgrupper">Målgrupper i Manualen</a></p>
-
-<p>•	Ændringer til arrangements API’et: Vi har tilføjet audiences, som udstiller de målgrupper I tildeler arrangementerne.</p>
-
-<p>•	Arrangementer: Redaktøroplevelsen for valg af lokation ved oprettelse af arrangementer er forbedret. “Fysisk eller Online” vises nu øverst, og bibliotek og “anden lokation” er samlet i én boks, så det er tydeligt, at de hænger sammen. Overskriften er ændret til “Arrangements lokation”, og “Anden lokation” er som standard slået fra, indtil redaktøren aktivt tilvælger den. Filial er blevet obligatorisk. Det betyder at hvis I redigerer et arrangement uden filial eller I opretter nye arrangementer så skal I sætte en filial på.</p>
+  </li>
+  <li>
+    <p>Ændringer til arrangements API’et: Vi har tilføjet audiences, som udstiller de målgrupper I tildeler arrangementerne.</p>
+  </li>
+  <li>
+    <p>Arrangementer: Redaktøroplevelsen for valg af lokation ved oprettelse af arrangementer er forbedret. “Fysisk eller Online” vises nu øverst, og bibliotek og “anden lokation” er samlet i én boks, så det er tydeligt, at de hænger sammen. Overskriften er ændret til “Arrangements lokation”, og “Anden lokation” er som standard slået fra, indtil redaktøren aktivt tilvælger den. Filial er blevet obligatorisk. Det betyder at hvis I redigerer et arrangement uden filial eller I opretter nye arrangementer så skal I sætte en filial på.</p>
+  </li>
+</ul>
 
 <h2 id="forbedring-og-fejlrettelser">Forbedring og fejlrettelser</h2>
 
-<p>•	Fejl rettet, hvor lånere ikke kunne ændre perioden for deres reserveringspause ved login med MitID. Fejlen skyldtes, at FBI-adapteren krævede en PIN-kode, som ikke er tilgængelig ved MitID-login. Rettelsen dækker alle profilopdateringer (email, telefon, afhentningsfilial, interesseperiode, pinkode og reserveringspause) for begge logintyper.</p>
-
-<p>•	Fejl rettet, hvor “Sted” ikke blev vist på arrangementsinstanser i en serie, selvom serien havde et sted angivet. Fejlen skyldtes forkert nedarvningslogik, der fejlagtigt satte et tomt felt på instanser, som ikke var markeret som online. De eksisterende berørte instanser bliver rettet automatisk. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-2047">CMS-2047</a></p>
-
-<p>•	Fejl rettet, hvor materialer fra blacklistede filialer blev vist i simpel søgning og avanceret søgning. Blacklist fungerede korrekt i CQL-søgning, men ikke i de øvrige søgetyper. Materialer fra blacklistede filialer filtreres nu korrekt fra i alle søgetyper. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-2058">CMS-2058</a></p>
-
-<p>•	Mulighed for kloning af arrangementer er blevet tilrettet, så det gerne skulle virke nu. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1000">CMS-1000</a></p>
+<ul>
+  <li>
+    <p>Fejl rettet, hvor lånere ikke kunne ændre perioden for deres reserveringspause ved login med MitID. Fejlen skyldtes, at FBI-adapteren krævede en PIN-kode, som ikke er tilgængelig ved MitID-login. Rettelsen dækker alle profilopdateringer (email, telefon, afhentningsfilial, interesseperiode, pinkode og reserveringspause) for begge logintyper.</p>
+  </li>
+  <li>
+    <p>Fejl rettet, hvor “Sted” ikke blev vist på arrangementsinstanser i en serie, selvom serien havde et sted angivet. Fejlen skyldtes forkert nedarvningslogik, der fejlagtigt satte et tomt felt på instanser, som ikke var markeret som online. De eksisterende berørte instanser bliver rettet automatisk. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-2047">CMS-2047</a></p>
+  </li>
+  <li>
+    <p>Fejl rettet, hvor materialer fra blacklistede filialer blev vist i simpel søgning og avanceret søgning. Blacklist fungerede korrekt i CQL-søgning, men ikke i de øvrige søgetyper. Materialer fra blacklistede filialer filtreres nu korrekt fra i alle søgetyper. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-2058">CMS-2058</a></p>
+  </li>
+  <li>
+    <p>Mulighed for kloning af arrangementer er blevet tilrettet, så det gerne skulle virke nu. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1000">CMS-1000</a></p>
+  </li>
+</ul>
 
 <p>•	Værkvisningssiden: “Skøn-/faglitteratur”-linjen vises ikke længere på værkvisningssiden, hvis FBI-API svarer “Vides ikke” for det pågældende værk.</p>
 
@@ -626,7 +639,7 @@ I kan læse mere i CMS-Manualen, om hvordan I opretter målgrupper og føjer dem
         
 
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2026-06-24T10:47:58+00:00">June 24, 2026</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2026-06-24T10:49:25+00:00">June 24, 2026</time></p>
 
 
       </footer>
