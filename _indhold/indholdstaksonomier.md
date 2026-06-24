@@ -70,10 +70,10 @@ image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_c
 
 ## Målgrupper
 
-Dette kommer ud med en snarlig release.
+Dette er kommet ud med release 2026.26.
 {: .notice--primary}
 
-### Opret målrupper
+### Opret målgrupper
 *Vær opmærksom på at der er tre målgrupper præoprettet med funktionen - Børn, Unge og Voksne. Dem kan I selv rette til, så det passer jeres behov.*
 
 1. I topmenuen klik på **Struktur** eller åbn `https://mit-domænenavn.dk/admin/structure` (udskift mit-domænenavn.dk)
