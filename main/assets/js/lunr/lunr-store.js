@@ -1001,10 +1001,10 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-24-1/",
         "teaser": null
       },{
-        "title": "Release Notes 2026.26.0",
-        "excerpt":"Releasedato: 25-06-2026 Redaktør: Produktionssites: 2026.26.0 Webmaster: Produktionssites: 2026.24.1, Moduletestsites: 2026.26.0 Ny udvikling Arrangementer: ”Målgruppe” er tilføjet som ny taksonomi på arrangementer. Brugere kan nu filtrere arrangementer efter målgruppe (fx børn, unge, voksne). Målgruppe kan vælges ved oprettelse af arrangementer, vises på arrangementssiden og er tilgængelig som filter i arrangementsoversigten.CMS-943 I...","categories": ["Release Notes"],
+        "title": "Release Notes 2026.26.1",
+        "excerpt":"Releasedato: 25-06-2026 Redaktør: Produktionssites: 2026.26.1 Webmaster: Produktionssites: 2026.24.1, Moduletestsites: 2026.26.1 Ny udvikling Arrangementer: ”Målgruppe” er tilføjet som ny taksonomi på arrangementer. Brugere kan nu filtrere arrangementer efter målgruppe (fx børn, unge, voksne). Målgruppe kan vælges ved oprettelse af arrangementer, vises på arrangementssiden og er tilgængelig som filter i arrangementsoversigten.CMS-943 I...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2026-26-0/",
+        "url": "/main/overblik/release-notes/release-notes-2026-26-1/",
         "teaser": null
       },{
         "title": "Release Notes 2026.4.1",
