@@ -1,13 +1,13 @@
 ---
-title:  "Release Notes 2026.26.0"
+title:  "Release Notes 2026.26.1"
 category: "Release Notes"
 weight: 303
 ---  
 
 Releasedato: 25-06-2026
 
-**Redaktør**: Produktionssites: 2026.26.0  
-**Webmaster**: Produktionssites: 2026.24.1, Moduletestsites: 2026.26.0
+**Redaktør**: Produktionssites: 2026.26.1  
+**Webmaster**: Produktionssites: 2026.24.1, Moduletestsites: 2026.26.1
 
 
 ## Ny udvikling
