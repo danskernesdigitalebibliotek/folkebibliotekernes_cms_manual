@@ -19,6 +19,7 @@ I kan læse mere i CMS-Manualen, om hvordan I opretter målgrupper og føjer dem
 
 - Arrangementer: Redaktøroplevelsen for valg af lokation ved oprettelse af arrangementer er forbedret. "Fysisk eller Online" vises nu øverst, og bibliotek og "anden lokation" er samlet i én boks, så det er tydeligt, at de hænger sammen. Overskriften er ændret til "Arrangements lokation", og "Anden lokation" er som standard slået fra, indtil redaktøren aktivt tilvælger den. Filial er blevet obligatorisk. Det betyder at hvis I redigerer et arrangement uden filial eller I opretter nye arrangementer så skal I sætte en filial på. 
 
+<br>
 
 ## Forbedring og fejlrettelser
 
