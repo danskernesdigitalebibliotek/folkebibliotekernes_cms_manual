@@ -23,7 +23,7 @@ Vi forventer at lave arrangementsdelen færdig inden sommerferien. Vi kan ikke l
 Ønskerne:
 * <span title="Færdig">🟢</span> [CMS-578: Sortering af arrangementer på kategori eller bibliotek](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-578)
 * <span title="Færdig">🟢</span> [CMS-1000: Arrangementer - Mulighed for at klone](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1000)
-* <span title="I gang">🟡</span> [CMS-943: Opret målgruppe i taksonomi](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-943)
+* <span title="Færdig">🟢</span> [CMS-943: Opret målgruppe i taksonomi](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-943)
 * <span title="I gang">🟡</span> [CMS-945: Søgning på arrangementer efter dato](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-945)
 * [CMS-1828: Status på arrangementer #2](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1828)
   * <span title="Færdig">🟢</span> Implementering på selve arrangements-siden
