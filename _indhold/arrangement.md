@@ -150,8 +150,6 @@ Tryk på **Gem** for at gemme/publicere arrangementet.
 
 Det er muligt at gemme arrangementet uden at publicere ved at slukke for **den grønne knap** ved **Publiceret**.
 
-
-
 ## Vigtig viden om arrangementers struktur i back-end'en
 
 I FB CMS' backend har alle arrangementer både en serie-visning **(master)** og en visning af det enkelte arrangement **(instans)**. 
@@ -179,3 +177,10 @@ Systemet viser en dialogboks, der fortæller, når man befinder sig i instans-vi
 {% include figure class="eighty" image_path="https://github.com/danskernesdigitalebibliotek/folkebibliotekernes_cms_manual/assets/162300593/627ed5b1-2a31-469a-860e-e0a1ee3e5e49" alt="Du kan tilgå serie-visningen ved at klikke på Redigér hele serien her" caption="Du kan tilgå serie-visningen ved at klikke på Redigér hele serien her" %} 
 
 Årsagen til, at der ved enkeltstående arrangementer også er en serie-visning (master), er, at det skal være muligt at omdanne enkeltstående arrangementer til serier.
+
+## Klon arrangementer
+Arrangementer kan klones, så det er nemmere at oprette nye arrangementer, som har samme indhold, men afviger fra det oprindelige arrangement. Det kan bruges til en ny sæson eller arrangementer som har samme opbygning etc.
+
+For at klone skal I redigere det arrangement, som I vil klone og trykke på Klon i menuen øverst i oprettelsesformularen.
+
+{% include figure class="eighty" image_path="https://github.com/user-attachments/assets/96f4ec56-e9f6-4b9c-a94b-c9437bf3b479" alt="Placering af klon under arrangement" caption="Placering af klon under arrangement" %} 
