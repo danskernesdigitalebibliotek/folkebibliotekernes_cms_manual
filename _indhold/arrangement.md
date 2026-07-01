@@ -181,6 +181,8 @@ Systemet viser en dialogboks, der fortæller, når man befinder sig i instans-vi
 ## Klon arrangementer
 Arrangementer kan klones, så det er nemmere at oprette nye arrangementer, som har samme indhold, men afviger fra det oprindelige arrangement. Det kan bruges til en ny sæson eller arrangementer som har samme opbygning etc.
 
-For at klone skal I redigere det arrangement, som I vil klone og trykke på Klon i menuen øverst i oprettelsesformularen.
+For at klone skal I redigere det arrangement, som I vil klone og trykke på Klon i menuen øverst i oprettelsesformularen. Derefter skal I vælge om det nye arrangement skal publiceres inden det klones.
+
+Bemærk: Når der klones, så oprettes serien med de instanser, som var på det oprindelige arrangement. Arrangementet får også samme titel, men med "- cloned" efter. Vi anbefaler at man ikke publicerer arrangementet før at man har tilrettet hele arrangementet.
 
 {% include figure class="eighty" image_path="https://github.com/user-attachments/assets/96f4ec56-e9f6-4b9c-a94b-c9437bf3b479" alt="Placering af klon under arrangement" caption="Placering af klon under arrangement" %} 
