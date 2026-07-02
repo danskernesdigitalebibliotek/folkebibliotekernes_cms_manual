@@ -1,8 +1,17 @@
 ---
-title:  "Release Notes 2026.26.1"
+title:  "Release Notes 2026.26.2"
 category: "Release Notes"
 weight: 303
 ---  
+# Hotfix: Fejl med reader/player på GO-sites er rettet
+Releasedato: 03-07-2026
+
+**Redaktør**: Produktionssites: 2026.26.2  
+**Webmaster**: Produktionssites: 2026.24.2, Moduletestsites: 2026.26.2
+
+Fejl med reader/player på GO-sites er rettet. E-bøger på GO-sites kunne i nogle tilfælde åbne readeren/playeren forkert – enten "halvt", så footeren stadig blev vist og indholdet ikke kunne tilgås fuldt, eller på en helt blank side. Fejlen ramte både "Prøv" og lån af e-bøger. 
+[CMS-2070](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-2070)
+
 
 Releasedato: 25-06-2026
 
