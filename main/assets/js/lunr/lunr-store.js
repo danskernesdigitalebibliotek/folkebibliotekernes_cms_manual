@@ -1001,10 +1001,10 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-24-1/",
         "teaser": null
       },{
-        "title": "Release Notes 2026.26.1",
-        "excerpt":"Releasedato: 25-06-2026 Redaktør: Produktionssites: 2026.26.1 Webmaster: Produktionssites: 2026.24.1, Moduletestsites: 2026.26.1 Ny udvikling Arrangementer: ”Målgruppe” er tilføjet som ny taksonomi på arrangementer. Brugere kan nu filtrere arrangementer efter målgruppe (fx børn, unge, voksne). Målgruppe kan vælges ved oprettelse af arrangementer, vises på arrangementssiden og er tilgængelig som filter i arrangementsoversigten.CMS-943 I...","categories": ["Release Notes"],
+        "title": "Release Notes 2026.26.2",
+        "excerpt":"Hotfix: Fejl med reader/player på GO-sites er rettet Releasedato: 03-07-2026 Redaktør: Produktionssites: 2026.26.2 Webmaster: Produktionssites: 2026.24.2, Moduletestsites: 2026.26.2 Fejl med reader/player på GO-sites er rettet. E-bøger på GO-sites kunne i nogle tilfælde åbne readeren/playeren forkert – enten “halvt”, så footeren stadig blev vist og indholdet ikke kunne tilgås fuldt, eller...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2026-26-1/",
+        "url": "/main/overblik/release-notes/release-notes-2026-26-2/",
         "teaser": null
       },{
         "title": "Release Notes 2026.4.1",
