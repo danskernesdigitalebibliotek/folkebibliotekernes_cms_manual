@@ -1002,7 +1002,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2026.26.2",
-        "excerpt":"Hotfix: Fejl med reader/player på GO-sites er rettet Releasedato: 03-07-2026 Redaktør: Produktionssites: 2026.26.2 Webmaster: Produktionssites: 2026.24.2, Moduletestsites: 2026.26.2 Fejl med reader/player på GO-sites er rettet. E-bøger på GO-sites kunne i nogle tilfælde åbne readeren/playeren forkert – enten “halvt”, så footeren stadig blev vist og indholdet ikke kunne tilgås fuldt, eller...","categories": ["Release Notes"],
+        "excerpt":"Releasedato: 03-07-2026 Redaktør: Produktionssites: 2026.26.2 Webmaster: Produktionssites: 2026.24.2, Moduletestsites: 2026.26.2 Hotfix: Fejl med reader/player på GO-sites er rettet Fejl med reader/player på GO-sites er rettet. E-bøger på GO-sites kunne i nogle tilfælde åbne readeren/playeren forkert – enten “halvt”, så footeren stadig blev vist og indholdet ikke kunne tilgås fuldt, eller...","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2026-26-2/",
         "teaser": null
