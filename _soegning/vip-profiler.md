@@ -7,7 +7,7 @@ Hjemmesiden henter data fra [databrønden](https://www.dbc.dk/fbi/databronden){:
 sammenhænge kan overordnet inddeles i søgning og visning.
 
 **Folkebibliotekernes CMS kræver to brøndprofiler i [VIP-basen](http://vip.dbc.dk){:target="_blank"} - en søgeprofil
-og en visningsprofil.**
+og en visningsprofil.** 
 
 De to brøndprofiler skal I selv oprette. I må selv bestemme hvad de skal hedde. Kald dem f. eks. `fbcms-soeg` og `fbcms-vis`.
 
