@@ -6,7 +6,7 @@ nav: "overblik"
 ---
 <br>
 
-## 16/7: Alle hjemmesider nede pga. databasefejl
+## 16/7: LØST: Alle hjemmesider nede pga. databasefejl
 Kl. 9.20: Manglende cloud-storage diskplads har medført en fejl. Leverandøren er på sagen.
 
 ## 23/6: LØST: Tilgængelighedserklæringer fejler på alle hjemmesider
