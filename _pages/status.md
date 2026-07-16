@@ -6,6 +6,9 @@ nav: "overblik"
 ---
 <br>
 
+## 16/7: Alle hjemmesider nede pga. databasefejl
+Kl. 9.20: Manglende cloud-storage diskplads har medført en fejl. Leverandøren er på sagen.
+
 ## 23/6: LØST: Tilgængelighedserklæringer fejler på alle hjemmesider
 Digitaliseringsstyrelsen skriver: Serviceinfo: der er problemer med WAS-Tool, som påvirker både adgang til systemet og visning af tilgængelighedserklæringerne. Vi arbejder på sagen.
 [Digitaliseringsstyrelsen serviceinfo](https://digst.dk/tilsyn/webtilgaengelighed/om-tilgaengelighedserklaeringen/)
