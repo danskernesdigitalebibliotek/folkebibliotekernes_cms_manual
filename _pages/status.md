@@ -6,6 +6,9 @@ nav: "overblik"
 ---
 <br>
 
+## 29/8: Login nede på alle hjemmesider
+Adgangsplatformen timer ud når man forsøger at logge på. Vi har meldt fejlen til DBC.
+
 ## 16/7: LØST: Alle hjemmesider nede pga. databasefejl
 Kl. 9.20: Manglende cloud-storage diskplads har medført en fejl. Leverandøren er på sagen.
 
