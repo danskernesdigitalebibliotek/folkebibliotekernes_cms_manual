@@ -6,7 +6,7 @@ nav: "overblik"
 ---
 <br>
 
-## 29/7: Login nede på alle hjemmesider
+## 29/7: LØST: Login nede på alle hjemmesider
 Adgangsplatformen timer ud når man forsøger at logge på. Vi har meldt fejlen til DBC.
 Følg med hos [DBC Kundeservice](https://kundeservice.dbc.dk/)
 
