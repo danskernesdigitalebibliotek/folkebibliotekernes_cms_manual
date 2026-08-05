@@ -1007,6 +1007,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-26-2/",
         "teaser": null
       },{
+        "title": "Release Notes 2026.30.0",
+        "excerpt":"Releasedato: 06-08-2026 Redaktør: Produktionssites: 2026.30.0 Webmaster: Produktionssites: 2026.26.2, Moduletestsites: 2026.30.0 Ny udvikling Forbedret filtrering på fysiske beholdninger i avanceret søgning, CQL-søgning og paragraphs. Filtreringer på “På hylden”, “Bibliotek”, “Afdeling”, “Opstilling” og “Delopstilling” viser nu kun fysiske materialer i egen beholdning og inkluderer ikke længere overbygningsmaterialer eller onlineudgaver. Dette er opnået...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2026-30-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 2026.4.1",
         "excerpt":"Releasedato: 22-01-2026 Redaktør: Produktionssites: 2026.4.1 Webmaster: Produktionssites: 2026.2.4, Moduletestsites: 2026.4.1 Hotfix 2026.4.1 Blacklist ift. søgning: Vi har fikset en fejl introduceret i 2026.2.4. omkring blacklist af filialer ift. søgning, som kun påvirkede simpel søgning. Fejlen medførte, at sites uden blacklist af mindst én filial ift. søgning reelt skjulte materialer i...","categories": ["Release Notes"],
         "tags": [],

@@ -15,19 +15,19 @@
 <meta charset="utf-8">
 
 
-<!-- begin _includes/seo.html --><title>Release Notes 2025.08.1 - Folkebibliotekernes CMS</title>
-<meta name="description" content="Releasedato: 21-02-2025">
+<!-- begin _includes/seo.html --><title>Release Notes 2026.30.0 - Folkebibliotekernes CMS</title>
+<meta name="description" content="Releasedato: 06-08-2026">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Release Notes 2025.08.1">
-<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-08-1/">
+<meta property="og:title" content="Release Notes 2026.30.0">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-30-0/">
 
 
-  <meta property="og:description" content="Releasedato: 21-02-2025">
+  <meta property="og:description" content="Releasedato: 06-08-2026">
 
 
 
@@ -44,7 +44,7 @@
 
 
 
-<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-08-1/">
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-30-0/">
 
 
 
@@ -183,7 +183,7 @@
     
       
       
-        <li class="current">Release Notes 2025.08.1</li>
+        <li class="current">Release Notes 2026.30.0</li>
       
     
   </ol>
@@ -238,7 +238,7 @@
 
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2026-30-0/">Release Notes 2026.30.0</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2026-30-0/" class="active">Release Notes 2026.30.0</a></li>
               
             
               
@@ -402,7 +402,7 @@
               
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2025-08-1/" class="active">Release Notes 2025.08.1</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2025-08-1/">Release Notes 2025.08.1</a></li>
               
             
               
@@ -566,8 +566,8 @@
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Release Notes 2025.08.1">
-    <meta itemprop="description" content="Releasedato: 21-02-2025">
+    <meta itemprop="headline" content="Release Notes 2026.30.0">
+    <meta itemprop="description" content="Releasedato: 06-08-2026">
     <meta itemprop="datePublished" content="2026-08-05T08:46:32+00:00">
     
 
@@ -576,7 +576,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-08-1/" class="u-url" itemprop="url">Release Notes 2025.08.1
+            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-30-0/" class="u-url" itemprop="url">Release Notes 2026.30.0
 </a>
           </h1>
           
@@ -588,17 +588,64 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <p>Releasedato: 21-02-2025</p>
+        <p>Releasedato: 06-08-2026</p>
 
-<p><strong>Redaktørbiblioteker</strong>: Produktionssites opgraderes til 2025.08.1<br />
-<strong>Webmasterbiblioteker</strong>: Produktionssites opgraderes til 2025.07.2. Modultestsites opgraderes til 2025.08.1.</p>
+<p><strong>Redaktør</strong>: Produktionssites: 2026.30.0<br />
+<strong>Webmaster</strong>: Produktionssites: 2026.26.2, Moduletestsites: 2026.30.0</p>
 
-<h2 id="nye-features">Nye features</h2>
-<p>Der er ingen nye features.
-Eneste ændring er en opdatering af Drupal Core til til release 10.3.13 som indeholder sikkerhedsopdateringer jf #DDF+ &gt; Sikkerhedsopdatering til Drupal . Release 2025.7.2 er også klar og indeholder samme sikkerhedsopdatering men for sidste uges release.</p>
+<h2 id="ny-udvikling">Ny udvikling</h2>
 
-<h2 id="fejlrettelser">Fejlrettelser</h2>
-<p>Der er ingen fejlrettelser.</p>
+<ul>
+  <li>
+    <p>Forbedret filtrering på fysiske beholdninger i avanceret søgning, CQL-søgning og paragraphs. Filtreringer på “På hylden”, “Bibliotek”, “Afdeling”, “Opstilling” og “Delopstilling” viser nu kun fysiske materialer i egen beholdning og inkluderer ikke længere overbygningsmaterialer eller onlineudgaver. Dette er opnået ved at tilføje filtrering på useOnlineHoldings:false samt sitets agencyId.
+Bemærk: Forbedringen gælder kun avanceret søgning, CQL-søgning, facetter og paragraphs – ikke simpel søgning, da simple search hos DBC ikke understøtter de samme filtre. Der kan desuden pga. synkroniseringstid mellem FBS og FBI forekomme værker, hvor alle eksemplarer er udlånte, hvis det senest tilgængelige eksemplar er udlånt for nyligt (typisk indenfor et døgn).
+<a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1978">CMS-1978</a>
+<a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1885">CMS-1885</a>
+<a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1725">CMS-1725</a></p>
+  </li>
+  <li>
+    <p>Arrangementsoversigt: Fleksibel visning og slut med “Vis flere”
+Vi har opdateret arrangementsoversigten, så det nu er muligt at konfigurere (under Arrangementsoversigt på siden /admin/config/dpl-event/settings), hvor mange elementer der skal vises ad gangen (25, 50 eller 100). Som noget nyt kan man også vælge “infinity scroll”, hvilket fjerner behovet for manuelt at klikke på “Vis flere”-knappen. Dette sikrer en mere glidende brugeroplevelse og løser problemet med, at oversigten “glemmer” sin position, når man navigerer tilbage fra et specifikt arrangement. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1032">CMS-1032</a></p>
+  </li>
+</ul>
+
+<h2 id="forbedring-og-fejlrettelser">Forbedring og fejlrettelser</h2>
+
+<ul>
+  <li>
+    <p>Afhentningsfilial vises nu med navn i stedet for biblioteksnummer i lånerstatus. Blacklistede filialer, som alligevel kan bruges via work-around viste DK-biblioteksnummer i stedet for filialens navn. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-344">CMS-344</a></p>
+  </li>
+  <li>
+    <p>“Original titel: Unknown title” skjules nu på værkvisningssiden. Feltet “Original titel” vises ikke længere, hvis den returnerede værdi er “Unknown title”. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1365">CMS-1365</a></p>
+  </li>
+  <li>
+    <p>Felter for SMS-notifikation under “Opret bruger” respekterer nu indstillingen i back-end. Tidligere blev feltet “Mobilnummer” (som obligatorisk) og checkboksen “Modtag sms om dine lån, reserveringer osv.” vist under brugeroprettelsen, selv når SMS-notifikationer var deaktiveret i CMS-indstillingerne. Nu skjules check-boksen, og mobilnummer er ikke længere obligatorisk, når indstillingen er slået fra. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-2085">CMS-2085</a></p>
+  </li>
+  <li>
+    <p>Lup-ikon igangsætter nu søgning. Klik på forstørrelsesglasset i det globale søgefelt udløser nu søgning på samme måde som Enter. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1988">CMS-1988</a></p>
+  </li>
+  <li>
+    <p>Digital Artikelservice: Modal åbner nu korrekt efter login. Bestilling af digital kopi efter login åbner nu modalen korrekt, og scrollfunktionalitet bevares. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1992">CMS-1992</a></p>
+  </li>
+  <li>
+    <p>Taxonomifejl rettet: Events vs. Arrangementer. URL-aliaser for arrangementer skifter ikke længere vilkårligt mellem /events og /arrangementer. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-2025">CMS-2025</a></p>
+  </li>
+  <li>
+    <p>Alle linjer i abstractet vises nu på værkvisningssiden. Når et værk har flere indholdsbeskrivende noter (felt 504), vises nu alle noter i stedet for kun den første. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1987">CMS-1987</a></p>
+  </li>
+  <li>
+    <p>Backend: Sortering på startdato i arrangementsadministration fejler ikke længere. Sortering på startdato i /admin/content/eventseries fungerer nu korrekt, også efter en søgning. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-2032">CMS-2032</a></p>
+  </li>
+  <li>
+    <p>Værkvisningssiden: Korrekt sortering af udgaver med samme udgivelsesår. Udgaver sorteres nu med højeste udgavenummer først, og “Seneste udgave” vælger den faktisk seneste udgave. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-2030">CMS-2030</a></p>
+  </li>
+  <li>
+    <p>Lån af e-bøger: “Henter”-fejl rettet. Websiden linkede fejlagtigt til fravalgte PDF-versioner af e-bøger i stedet for tilgængelige EPUB-versioner. CMS’et vælger nu den korrekte udgave (PUBLIZON-identifikator). <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-2043">CMS-2043</a></p>
+  </li>
+  <li>
+    <p>Oversættelser slår nu igennem. Fejl i oversættelsesudrulningssystemet er rettet, så oversættelser (bl.a. “Audience”) vises korrekt på bibliotekernes sites. Bemærk: Vi mangler dog en sidste rettelse på dette, så ”Målgruppe” også vises oversat på selve arrangementssiden. Det kommer i en kommende release.</p>
+  </li>
+</ul>
 
         
       </section>
