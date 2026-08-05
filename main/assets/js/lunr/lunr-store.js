@@ -1007,10 +1007,10 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-26-2/",
         "teaser": null
       },{
-        "title": "Release Notes 2026.30.0",
-        "excerpt":"Releasedato: 06-08-2026 Redaktør: Produktionssites: 2026.30.0 Webmaster: Produktionssites: 2026.26.2, Moduletestsites: 2026.30.0 Ny udvikling Forbedret filtrering på fysiske beholdninger i avanceret søgning, CQL-søgning og paragraphs. Filtreringer på “På hylden”, “Bibliotek”, “Afdeling”, “Opstilling” og “Delopstilling” viser nu kun fysiske materialer i egen beholdning og inkluderer ikke længere overbygningsmaterialer eller onlineudgaver. Dette er opnået...","categories": ["Release Notes"],
+        "title": "Release Notes 2026.32.0",
+        "excerpt":"Releasedato: 06-08-2026 Redaktør: Produktionssites: 2026.32.0 Webmaster: Produktionssites: 2026.26.2, Moduletestsites: 2026.32.0 Ny udvikling Forbedret filtrering på fysiske beholdninger i avanceret søgning, CQL-søgning og paragraphs. Filtreringer på “På hylden”, “Bibliotek”, “Afdeling”, “Opstilling” og “Delopstilling” viser nu kun fysiske materialer i egen beholdning og inkluderer ikke længere overbygningsmaterialer eller onlineudgaver. Dette er opnået...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2026-30-0/",
+        "url": "/main/overblik/release-notes/release-notes-2026-32-0/",
         "teaser": null
       },{
         "title": "Release Notes 2026.4.1",
