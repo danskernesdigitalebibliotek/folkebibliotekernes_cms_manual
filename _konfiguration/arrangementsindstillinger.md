@@ -19,6 +19,9 @@ Valg af valuta træder også igennem i event API'et og sendes dermed videre til 
 |---|---|
 |Price currency|Danske kroner|
 
+## Arrangementsoversigt
+Her kan I vælge hvor mange arrangementer, der skal vises ad gangen inden der vises en Vis mere knap. I kan vælge mellem 25, 50, 100 eller at der ikke vises en knap, men at arrangementerne loader automatisk når man scroller nedad.
+
 ## Automatisk afpublicering
 For at undgå at afholdte arrangementer vises på hjemmsiden i automatic paragraphs og lister, kan I vælge at de bliver automatisk afpubliceret et tidsrum efter sluttidspunktet. Hvis I ønsker et andet tidsinterval eller helt at slukke for automatisk afpublisering, kan det gøres her.
 
