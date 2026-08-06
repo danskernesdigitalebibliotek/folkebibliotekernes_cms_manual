@@ -7,7 +7,7 @@ nav: "overblik"
 <br>
 
 ## Servicevindue torsdag den 13. august efter kl. 21
-Vi afholder servicevindue på FB CMS på torsdag den 13. august efter kl. 21
+Vi afholder servicevindue på FB CMS på torsdag den 13. august efter kl. 21.
 Vores driftsleverandør har planlagt et servicevindue for at kunne gennemføre en opdatering af Kubernetes
 Opdateringen kan medføre nedetid på tværs af alle sites i 20-30 minutter.
 
