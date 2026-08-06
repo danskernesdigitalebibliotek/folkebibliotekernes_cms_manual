@@ -4,7 +4,7 @@ category: "Release Notes"
 weight: 302
 ---  
 
-Releasedato: 10-08-2026- Bemærk ændret releasedato
+Releasedato: 10-08-2026 (Bemærk ændret releasedato)
 
 **Redaktør**: Produktionssites: 2026.32.0  
 **Webmaster**: Produktionssites: 2026.26.2, Moduletestsites: 2026.32.0
