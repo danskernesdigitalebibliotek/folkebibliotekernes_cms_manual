@@ -47,18 +47,18 @@ Det Digitale Folkebibliotek har selv evalueret hjemmesidesystemet (Folkebibliote
 
 ### Overholder ikke webtilgængelighedsloven
 
-Knap til log ind på go.BIBLIOTEKSDOMÆNE.dk: I øjeblikket er der ingen alternativ tekst på knappen/ikonet, som aktiverer menuen med funktioner til log ind. Dvs. skærmlæserbrugere vil i øjeblikket få at vide, at der eksisterer en knap, men ikke hvad knappen er til.
+Log ind-knap på go.BIBLIOTEKSDOMÆNE.dk: Knappen, der åbner menuen med funktioner til log ind, har i øjeblikket ikke en tekst, som kan læses op af en skærmlæser. Skærmlæserbrugere får derfor at vide, at der er en knap, men ikke hvad knappen bruges til. 
 
-Forsidekarruseller på go.BIBLIOTEKSDOMÆNE.dk: På sitet findes en række forsidekarruseller med skiftende udvalgte digitale titler. Forsiderne skifter automatisk i karrusellerne, men det er ikke muligt at stoppe, pause eller skjule disse.
+Karruseller på forsiden af go.BIBLIOTEKSDOMÆNE.dk: På forsiden findes en række karruseller med udvalgte digitale titler. Indholdet i karrusellerne skifter automatisk, og det er i øjeblikket ikke muligt at stoppe, pause eller skjule disse.
 
-Ingen mulighed for at kontrollere afspilningen af animationer på go.BIBLIOTEKSDOMÆNE.dk: På sitet findes markedsføringspaneler med animationer, som gentages i et loop. Som bruger er det ikke muligt at stoppe, pause eller skjule panelerne på nuværende tidspunkt.
+Animationer på go.BIBLIOTEKSDOMÆNE.dk: På sitet findes markedsføringspaneler med animationer, som gentages automatisk. Det er i øjeblikket ikke muligt at stoppe, pause eller skjule panelerne på nuværende tidspunkt.
 
-Tastaturfokus i modal til læsning på go.BIBLIOTEKSDOMÆNE.dk: Som skærmlæser/tastaturbruger er det i øjeblikket muligt at navigere uden for modal til læsning. Når man vælger at læse en digital titel, og modalen åbnes, sendes fokus ikke direkte til læsemodalen, men bliver på sitet bag ved modalen. Bemærk, at det er muligt at tabbe hen til læsemodalen. Når man først er forbi elementer i det bagvedliggende site, vil fokus blive sendt til læsemodalen. En lignende problematik gælder for funktionerne “Indstillinger” og “Indhold” i selve modalen til læsning. De to funktioner udløser modallignende menu, som ikke modtager fokus umiddelbart efter man har aktiveret den. Her kan man også tilgå indstillingerne i menuen, hvis man først tabber sig forbi diverse elementer, som ligger udenfor menuen.
+Tastaturnavigation i læsevinduet på go.BIBLIOTEKSDOMÆNE.dk: Når man åbne en digital titel for at læse den, åbnes den i et læsevindue oven på resten af siden. Tastaturfokus flyttes ikke automatisk til læsevinduet. Tastatur- og skærmlæserbrugere vil derfor være nødt til at navigere gennem indhold på siden bag læsevinduet, før de når frem til indholdet i selve læsevinduet. Et lignende problem findes ved funktionerne "Indstillinger" og "Indhold" i læsevinduet. Når disse funktioner åbnes, flyttes tastaturfokus ikke automatisk til den menu, der vises. Tastatur- og skærmlæserbrugere kan derfor komme til at navigere gennem elementer uden for menuen, før de når frem til dens indhold. 
 
-Tastaturbrugere kan ikke anvende søgefunktion i læsemodal på go.BIBLIOTEKSDOMÆNE.dk. Som tastaturbruger kan man igangsætte en søgning, men ikke tilgå de søgeresultater der vises, da disse elementer ikke kan tilgås direkte med tastatur.
+Søgefunktionen i læsevinduet på go.BIBLIOTEKSDOMÆNE.dk: Tastaturbrugere kan starte en søgning i læsevinduet, men kan ikke navigere til de søgeresultater, der vises. Søgeresultaterne kan derfor ikke bruges med tastatur alene. 
 
-Visse kombinationer af skærmlæser/browser og modal til læsning på go.BIBLIOTEKSDOMÆNE.dk: Teksten, som beskriver formålet med knapper/funktioner i læsemodalen, vil ikke blive oplæst i visse kombinationer af skærmlæser/browser, da den i øjeblikket er kodet på en måde, der ikke understøttes bredt af diverse kombinationer af disse. Tilgår man f.eks. læsemodalen med VoiceOver og Safari (udbredt kombination af skærmlæsersoftware og browser) til diverse digitale titler på GO, vil skærmlæseren ikke oplæse de forskellige tekster, der beskriver hvad knapperne bruges til. Omvendt vil teksten blive læst op, hvis man f.eks. anvender VoiceOver og Chrome eller NVDA og Chrome.
+Knapper i læsevinduet på go.BIBLIOTEKSDOMÆNE.dk: I nogle kombinationer af skærmlæser og browser bliver beskrivelserne af knappernes funktion i læsevinduet ikke læst op. Det betyder at nogle skærmlæserbrugere ikke får at vide, hvad de enkelte knapper bruges til. Problemet forekommer for eksempel med VoiceOver og Safari. Her bliver beskrivelserne af knapperne ikke læse op. De bliver derimod læst op med blandt andet VoiceOver/Chrome og NVDA/Chrome.  
 
-Digitale materialer: Flere digitale marterialer, som tilgås via læsemodal, kan ikke oplæses af skærmlæser. 
+Digitale materialer: Nogle af de digitale marterialer, der åbnes i læsevinduet, kan ikke læses op med en skærmlæser. 
 
 
