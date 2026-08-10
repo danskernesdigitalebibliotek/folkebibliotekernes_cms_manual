@@ -7,7 +7,7 @@ nav: "overblik"
 Sidst opdateret 10. august 2026
 
 **Om denne vejledning**\
-Her finder du tekst, du kan kopiere ind i jeres lokale tilgængelighedserklæring. Teksten indeholder blandt andet oplysninger om tilgængeligheden af Folkebibliotekernes CMS og GO samt om  Det Digitale Folkebiblioteks arbejde med tilgængelighed i løsningerne.
+Vejledningen beskriver hvilke krav der stilles til publicering af tilgængelighedserklæring og hvordan du opretter en erklæring. Derudover finder du tekst, om tilgængeligheden i Folkebibliotekernes CMS og GO, du kan bruge til jeres egen tilgængelighedserklæring. .
 {: .notice--info}
 ***
  
