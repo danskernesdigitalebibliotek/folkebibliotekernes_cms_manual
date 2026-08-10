@@ -6,20 +6,20 @@ nav: "overblik"
 ---
 Sidst opdateret 10. august 2026
 
-**Hvad?**\
-Her finder du tekst, du kan kopiere ind i jeres lokale tilgængelighedserklæring. Det er bl.a. oplysninger om  tilgængeligheden af Folkebibliotekernes CMS og subsitet GO, og hvordan Det Digitale Folkebibliotek har arbejdet med tilgængelighed i løsningerne.
+**Om denne vejledning?**\
+Her finder du tekst, du kan kopiere ind i jeres lokale tilgængelighedserklæring. Teksten indeholder blandt andet oplysninger om tilgængeligheden af Folkebibliotekernes CMS og GO samt om  Det Digitale Folkebiblioteks arbejde med tilgængelighed i løsningerne.
 {: .notice--info}
 ***
  
 ## Til dig, der er ansvarlig for at opdatere tilgængelighedserklæringen
 
-Når I går i drift med Folkebibliotekernes CMS og det tilhørende subsite GO, skal sitets tilgængelighedserklæring opdateres. Det er et lovkrav, at alle offentlige websites har en tilgængelighedserklæring, og at den ajourføres, når der sker ændringer på sitet, som har betydning for de oplysninger, der står i den. Det er en lokal opgave at oprette og ajourføre tilgængelighedserklæringen for jeres installation af Folkebibliotekernes CMS og GO. I afsnittet “Tekst til tilgængelighedserklæringen” nedenunder finder du som udgangspunkt den nødvendige tekst, du skal bruge for at udfylde erklæringen.
+Alle offentlige websteder skal have en tilgængelighedserklæring, og erklæringen skal opdateres, når der sker ændringer på webstedet, som har betydning for de oplysninger, der står i den. Det er et lokalt ansvar at oprette og opdatere tilgængelighedserklæringen for jeres websted. Under “Tekst til tilgængelighedserklæringen” nedenfor finder du den tekst om Folkebibliotekernes CMS og GO, som skal bruges i erklæringen. Husk du selv skal supplere med oplysninger om eventuelle lokale lokale forhold - f.eks. egenudviklede moduler, eller indhold I selv har oprettet på jeres websted - der har betydning for tilgængeligheden. 
 
 Som minimum skal tilgængelighedserklæringen opdateres en gang om året.
 
-Der udvikles og releases løbende i relation til Folkebibliotekernes CMS og subsitet GO, af både reel nyudvikling og fejlrettelser, som vedrører tilgængeligheden af løsningen. Afsnittet “Tekst til tilgængelighedserklæringen” nedenunder vil blive opdateret, når der sker ændringer i hjemmesidesystemet, der har betydning for tilgængelighedserklæringen.
+Folkebibliotekernes CMS og GO bliver løbende videreudviklet og fejlrettet. Når ændringer har betydning for tilgængelighedserklæringen, opdaterer vi teksten under “Tekst til tilgængelighedserklæringen”. 
 
-I toppen af siden her kan du se, hvornår afsnittet “Tekst til tilgængelighedserklæringen” senest er opdateret. Vi vil anbefale, at du én gang om måneden i det første år efter lanceringen af GO tjekker, om der er ændringer til teksten og opdaterer den lokale tilgængelighedserklæring, hvis nødvendigt.
+Øverst på denne side kan du se, hvornår teksten senest er opdateret. Vi anbefaler, at du hver tredje måned tjekker, om der er ændringer til teksten og opdaterer den lokale tilgængelighedserklæring, hvis nødvendigt.
 
 ### Opret en tilgængelighedserklæring
 
@@ -29,7 +29,7 @@ I skal oprette en tilgængelighedserklæring med Digitaliseringsstyrelsens WAS-t
 
 ## Hvem har ansvaret for hvad? 
 
-Det Digitale Folkebibliotek har ansvaret for tilgængeligheden af design, kode og funktionalitet af kerneversionen af Folkebibliotekernes CMS og subsitet GO. I det omfang der er områder af kerneversionen, som ikke lever op til disse krav, vil det stå i tilgængelighedserklæringen, såfremt problemet påvirker brugerne væsentligt. Vi lister ikke samtlige tilgængelighedsproblemer, men dem, der er til størst gene for målgruppen og sværest at omgås. I det omfang det er relevant, beskrives hvordan et problem kan omgås. 
+Det Digitale Folkebibliotek har ansvaret for tilgængeligheden af design, kode og funktionalitet af kerneversionen af Folkebibliotekernes CMS og subsitet GO. Hvis der er væsentlige tilgængelighedsproblemer i kerneversionen, beskriver vi dem i teksten til tilgængelighedserlæringen. Vi beskriver ikke nødvendigvis alle kendte tilgængelighedsproblemer, men fokuserer på de problemer, der har størst betydning for brugerne og er sværest at omgå. I det omfang det er relevant, beskrives vi også, hvordan brugeren kan omgås et problem. 
 
 Som brugere af Folkebibliotekernes CMS og GO har I selv ansvaret for at sikre tilgængeligheden af det indhold, I opretter (tekst, lyd og billeder) og den kode, I tilføjer sitet (kun relevant for webmasterbiblioteker), som ikke er en del af kerneversionen af Folkebibliotekerne CMS. Husk også at opdatere tilgængelighedserklæringen for disse områder.
 
