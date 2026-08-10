@@ -6,6 +6,10 @@ nav: "overblik"
 ---
 <br>
 
+## 10/8 Udsættelse af release 2026.32
+Vi håbede at kunne release 2026.32 til jer i dag, men vi er desværre endnu en gang nødt til at udsætte releasen. Det skyldes at den nuværende version af Lagoon udfordrer vores backup-proces, og derfor er vi nødt til at opdaterer den først, før vi kan køre releasen.
+Vi forventer at vi kan køre releasen ud onsdag eller torsdag i denne uge. Vi vil opdatere statussitet, når vi kender den endelige releasedato
+
 ## Servicevindue torsdag den 13. august efter kl. 21
 Vi afholder servicevindue på FB CMS på torsdag den 13. august efter kl. 21.
 Vores driftsleverandør har planlagt et servicevindue for at kunne gennemføre en opdatering af Kubernetes.
