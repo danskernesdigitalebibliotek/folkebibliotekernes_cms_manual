@@ -13,7 +13,7 @@ Her finder du tekst, du kan kopiere ind i jeres lokale tilgængelighedserklærin
  
 ## Til dig, der er ansvarlig for at opdatere tilgængelighedserklæringen
 
-Alle offentlige websteder skal have en tilgængelighedserklæring, og erklæringen skal opdateres, når der sker ændringer på webstedet, som har betydning for de oplysninger, der står i den. Det er et lokalt ansvar hos det enkelte bibliotek at oprette og opdatere tilgængelighedserklæringen. Under “Tekst til tilgængelighedserklæringen” nedenfor finder du den tekst om Folkebibliotekernes CMS og GO, som skal bruges i erklæringen. Husk du selv skal supplere med oplysninger om eventuelle lokale forhold - f.eks. egenudviklede moduler, eller indhold I selv har oprettet på jeres websted - der har betydning for tilgængeligheden. 
+Alle offentlige websteder skal have en tilgængelighedserklæring, og erklæringen skal opdateres, når der sker ændringer på webstedet, som har betydning for de oplysninger, der står i den. Det er det enkelte biblioteks ansvar at oprette og opdatere tilgængelighedserklæringen. Under “Tekst til tilgængelighedserklæringen” nedenfor finder du den tekst om Folkebibliotekernes CMS og GO, som skal bruges i erklæringen. Husk at supplere med oplysninger om eventuelle lokale forhold - f.eks. egenudviklede module eller indhold - der kan påvirke tilgængeligheden. 
 
 Som minimum skal tilgængelighedserklæringen opdateres en gang om året.
 
