@@ -13,7 +13,7 @@ Her finder ud tekst om tilgængeligheden af Folkebibliotekernes CMS og GO, som d
  
 ## Til dig, der er ansvarlig for at opdatere tilgængelighedserklæringen
 
-Alle offentlige websteder skal have en tilgængelighedserklæring, og erklæringen skal opdateres, når der sker ændringer på webstedet, som har betydning for de oplysninger, der står i den. Det er det enkelte biblioteks ansvar at oprette og opdatere tilgængelighedserklæringen. Under “Tekst til tilgængelighedserklæringen” nedenfor finder du den tekst om Folkebibliotekernes CMS og GO, som skal bruges i erklæringen. Husk at supplere med oplysninger om eventuelle lokale forhold - f.eks. egenudviklede module eller indhold - der kan påvirke tilgængeligheden. 
+Alle offentlige websteder skal have en tilgængelighedserklæring, og erklæringen skal opdateres, når der sker ændringer på webstedet, som har betydning for de oplysninger, der står i den. Det er det enkelte biblioteks ansvar at oprette og opdatere tilgængelighedserklæringen. Under “Tekst til tilgængelighedserklæringen” nedenfor finder en tekst om Folkebibliotekernes CMS og GO, som kan bruges i erklæringen. Husk at supplere med oplysninger om eventuelle lokale forhold - f.eks. egenudviklede module eller indhold - der kan påvirke tilgængeligheden. 
 
 Som minimum skal tilgængelighedserklæringen opdateres en gang om året. Hvis der ikke har været brug for at opdatere erklæringen det seneste år, skal du stadig genudgive erklæringen, så revideringsdatoen på erklæringen opdateres. 
 
