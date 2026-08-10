@@ -29,7 +29,7 @@ Du skal oprette en tilgængelighedserklæring med Digitaliseringsstyrelsens WAS-
 
 ## Hvem har ansvaret for hvad? 
 
-Det Digitale Folkebibliotek har ansvaret for tilgængeligheden af design, kode og funktionalitet af kerneversionen af Folkebibliotekernes CMS og underwebstedet GO. Hvis der er væsentlige tilgængelighedsproblemer i kerneversionen, beskriver vi dem i teksten til tilgængelighedserlæringen. Vi beskriver ikke nødvendigvis alle kendte tilgængelighedsproblemer, men fokuserer på de problemer, der har størst betydning for brugerne og er sværest at omgå. I det omfang det er relevant, beskrives vi også, hvordan brugeren kan omgås et problem. 
+Det Digitale Folkebibliotek har ansvaret for tilgængeligheden af design, kode og funktionalitet af kerneversionen af Folkebibliotekernes CMS og underwebstedet GO. Hvis der er væsentlige tilgængelighedsproblemer i kerneversionen, beskriver vi dem i teksten til tilgængelighedserklæringen. Vi beskriver ikke nødvendigvis alle kendte tilgængelighedsproblemer, men fokuserer på de problemer, der har størst betydning for brugerne og er sværest at omgå. I det omfang det er relevant, beskrives vi også, hvordan brugeren kan omgås et problem. 
 
 Som brugere af Folkebibliotekernes CMS og GO har I selv ansvaret for at sikre tilgængeligheden af det indhold, I opretter (tekst, lyd og billeder) og den kode, I tilføjer sitet (kun relevant for webmasterbiblioteker), som ikke er en del af kerneversionen af Folkebibliotekerne CMS. Husk også at opdatere tilgængelighedserklæringen for disse områder.
 
