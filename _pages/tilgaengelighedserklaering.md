@@ -59,6 +59,6 @@ Søgefunktionen i læsevinduet på go.BIBLIOTEKSDOMÆNE.dk: Tastaturbrugere kan 
 
 Knapper i læsevinduet på go.BIBLIOTEKSDOMÆNE.dk: I nogle kombinationer af skærmlæser og browser bliver beskrivelserne af knappernes funktion i læsevinduet ikke læst op. Det betyder at nogle skærmlæserbrugere ikke får at vide, hvad de enkelte knapper bruges til. Problemet forekommer for eksempel med VoiceOver og Safari. Her bliver beskrivelserne af knapperne ikke læse op. De bliver derimod læst op med blandt andet VoiceOver/Chrome og NVDA/Chrome.  
 
-Digitale materialer: Nogle af de digitale marterialer, der åbnes i læsevinduet, kan ikke læses op med en skærmlæser. 
+Digitale materialer: Nogle af de digitale materialer, der åbnes i læsevinduet, kan ikke læses op med en skærmlæser. 
 
 
