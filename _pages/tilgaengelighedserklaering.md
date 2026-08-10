@@ -4,7 +4,7 @@ title:  "Tilgængelighedserklæring"
 sidebar: true
 nav: "overblik"
 ---
-Sidst opdateret 6. marts 2026
+Sidst opdateret 10. august 2026
 
 **Hvad?**\
 Her finder du tekst, du kan kopiere ind i jeres lokale tilgængelighedserklæring. Det er bl.a. oplysninger om  tilgængeligheden af Folkebibliotekernes CMS og subsitet GO, og hvordan Det Digitale Folkebibliotek har arbejdet med tilgængelighed i løsningerne.
@@ -48,8 +48,6 @@ Det Digitale Folkebibliotek har selv evalueret hjemmesidesystemet (Folkebibliote
 ### Overholder ikke webtilgængelighedsloven
 
 Knap til log ind for skærmlæserbrugere på go.BIBLIOTEKSDOMÆNE.dk: I øjeblikket er der ingen alternativ tekst på knappen/ikonet, som aktiverer menuen med funktioner til log ind. Dvs. skærmlæserbrugere vil i øjeblikket få at vide, at der eksisterer en knap, men ikke hvad knappen er til.
-
-Udløbstid af digitale lån på go.BIBLIOTEKSDOMÆNE.dk: Oplysninger om udløbstid af lånte digitale materialer kan i øjeblikket ikke oplæses af skærmlæsere. Skærmlæseren vil fortælle, at brugeren tilgår et værk af en bestemt forfatter, men ikke hvornår det udløber.
 
 Forsidekarruseller på go.BIBLIOTEKSDOMÆNE.dk: På sitet findes en række forsidekarruseller med skiftende udvalgte digitale titler. Forsiderne skifter automatisk i karrusellerne, men det er ikke muligt at stoppe, pause eller skjule disse.
 
