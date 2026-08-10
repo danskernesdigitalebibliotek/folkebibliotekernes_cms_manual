@@ -7,7 +7,7 @@ nav: "overblik"
 Sidst opdateret 10. august 2026
 
 **Om denne vejledning**\
-Her finder ud tekst om tilgængeligheden af Folkebibliotekernes CMS og GO, som du kan bruge i jeres lokale tilgængelighedserklæring. Du finder også information om, hvem der har ansvaret for tilgængeligheden, og hvordan du holder erklæringen opdateret. 
+Her finder du tekst om tilgængeligheden af Folkebibliotekernes CMS og GO, som du kan bruge i jeres lokale tilgængelighedserklæring. Du finder også information om, hvem der har ansvaret for tilgængeligheden, og hvordan du holder erklæringen opdateret. 
 {: .notice--info}
 ***
  
