@@ -43,7 +43,7 @@ Inden du bruger teksten, vær opmærksom på, at der i teksten er indsat en ræk
 Webstedet overholder standarden delvist (overholder de fleste krav). 
 
 ### Sådan har vi testet
-Det Digitale Folkebibliotek har selv evalueret hjemmesidesystemet (Folkebibliotekernes CMS og subsitet GO) og indhentet ekstern rådgivning efter behov. Der er udført både automatiserede og manuelle test, herunder bl.a. test med AXE, bookmarklets til ændring af formatering, skærmlæser (primært NVDA og VoiceOver) og tastaturnavigation.
+Det Digitale Folkebibliotek har selv evalueret hjemmesidesystemet (Folkebibliotekernes CMS og underwebstedet GO) og indhentet ekstern rådgivning efter behov. Der er udført både automatiserede og manuelle test, herunder bl.a. test med AXE, bookmarklets til ændring af formatering, skærmlæser (primært NVDA og VoiceOver) og tastaturnavigation.
 
 ### Overholder ikke webtilgængelighedsloven
 
