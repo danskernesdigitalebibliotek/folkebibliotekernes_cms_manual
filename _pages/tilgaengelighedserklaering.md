@@ -6,7 +6,7 @@ nav: "overblik"
 ---
 Sidst opdateret 10. august 2026
 
-**Om denne vejledning?**\
+**Om denne vejledning**\
 Her finder du tekst, du kan kopiere ind i jeres lokale tilgængelighedserklæring. Teksten indeholder blandt andet oplysninger om tilgængeligheden af Folkebibliotekernes CMS og GO samt om  Det Digitale Folkebiblioteks arbejde med tilgængelighed i løsningerne.
 {: .notice--info}
 ***
