@@ -23,7 +23,7 @@ Folkebibliotekernes CMS og GO bliver løbende videreudviklet og fejlrettet. Når
 
 ### Opret en tilgængelighedserklæring
 
-I skal oprette en tilgængelighedserklæring med Digitaliseringsstyrelsens WAS-tool og linke til den via jeres hjemmeside.
+Du skal oprette en tilgængelighedserklæring med Digitaliseringsstyrelsens WAS-tool og linke til den via jeres hjemmeside.
 
 [Læs mere om tilgængelighedserklæringen på digst.dk og hvordan du publicerer en tilgængelighedserklæring med WAS-tool.](https://digst.dk/digital-inklusion/webtilgaengelighed/om-tilgaengelighedserklaeringen/)
 
