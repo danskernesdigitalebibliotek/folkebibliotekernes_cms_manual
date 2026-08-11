@@ -4,7 +4,7 @@ title:  "Tilgængelighedserklæring"
 sidebar: true
 nav: "overblik"
 ---
-Sidst opdateret 10. august 2026
+Sidst opdateret 11. august 2026
 
 **Om denne vejledning**\
 Her finder du tekst om tilgængeligheden af Folkebibliotekernes CMS og GO, som du kan bruge i jeres lokale tilgængelighedserklæring. Du finder også information om, hvem der har ansvaret for tilgængeligheden, og hvordan du holder erklæringen opdateret. 
@@ -51,13 +51,13 @@ Log ind-knap på go.BIBLIOTEKSDOMÆNE.dk: Knappen, der åbner menuen med funktio
 
 Karruseller på forsiden af go.BIBLIOTEKSDOMÆNE.dk: På forsiden findes en række karruseller med udvalgte digitale titler. Indholdet i karrusellerne skifter automatisk, og det er i øjeblikket ikke muligt at stoppe, pause eller skjule disse.
 
-Animationer på go.BIBLIOTEKSDOMÆNE.dk: På sitet findes markedsføringspaneler med animationer, som gentages automatisk. Det er i øjeblikket ikke muligt at stoppe, pause eller skjule panelerne på nuværende tidspunkt.
+Animationer på go.BIBLIOTEKSDOMÆNE.dk: På sitet findes markedsføringspaneler med animationer, som gentages automatisk. Det er i øjeblikket ikke muligt at stoppe, pause eller skjule animationerne.
 
-Tastaturnavigation i læsevinduet på go.BIBLIOTEKSDOMÆNE.dk: Når man åbner en digital titel for at læse den, åbnes den i et læsevindue oven på resten af siden. Tastaturfokus flyttes ikke automatisk til læsevinduet. Tastatur- og skærmlæserbrugere vil derfor være nødt til at navigere gennem indhold på siden bag læsevinduet, før de når frem til indholdet i selve læsevinduet. Et lignende problem findes ved funktionerne "Indstillinger" og "Indhold" i læsevinduet. Når disse funktioner åbnes, flyttes tastaturfokus ikke automatisk til den menu, der vises. Tastatur- og skærmlæserbrugere kan derfor komme til at navigere gennem elementer uden for menuen, før de når frem til dens indhold. 
+Tastaturnavigation i læsevinduet til e-bøger: Når man åbner en digital titel for at læse den, åbnes den i et læsevindue oven på resten af siden. Tastaturfokus flyttes ikke automatisk til læsevinduet. Tastatur- og skærmlæserbrugere vil derfor være nødt til at navigere gennem indhold på siden bag læsevinduet, før de når frem til indholdet i selve læsevinduet. Et lignende problem findes ved funktionerne "Indstillinger" og "Indhold" i læsevinduet. Når disse funktioner åbnes, flyttes tastaturfokus ikke automatisk til den menu, der vises. Tastatur- og skærmlæserbrugere kan derfor komme til at navigere gennem elementer uden for menuen, før de når frem til dens indhold. 
 
-Søgefunktionen i læsevinduet på go.BIBLIOTEKSDOMÆNE.dk: Tastaturbrugere kan starte en søgning i læsevinduet, men kan ikke navigere til de søgeresultater, der vises. Søgeresultaterne kan derfor ikke bruges med tastatur alene. 
+Søgefunktionen i læsevinduet til e-bøger: Tastaturbrugere kan starte en søgning i læsevinduet, men kan ikke navigere til de søgeresultater, der vises. Søgeresultaterne kan derfor ikke bruges med tastatur alene. 
 
-Knapper i læsevinduet på go.BIBLIOTEKSDOMÆNE.dk: I nogle kombinationer af skærmlæser og browser bliver beskrivelserne af knappernes funktion i læsevinduet ikke læst op. Det betyder at nogle skærmlæserbrugere ikke får at vide, hvad de enkelte knapper bruges til. Problemet forekommer for eksempel med VoiceOver og Safari. Her bliver beskrivelserne af knapperne ikke læst op. De bliver derimod læst op med blandt andet VoiceOver/Chrome og NVDA/Chrome.  
+Knapper i læsevinduet til e-bøger: I nogle kombinationer af skærmlæser og browser bliver beskrivelserne af knappernes funktion i læsevinduet ikke læst op. Det betyder at nogle skærmlæserbrugere ikke får at vide, hvad de enkelte knapper bruges til. Problemet forekommer for eksempel med VoiceOver og Safari. Her bliver beskrivelserne af knapperne ikke læst op. De bliver derimod læst op med blandt andet VoiceOver/Chrome og NVDA/Chrome.  
 
 Digitale materialer: Nogle af de digitale materialer, der åbnes i læsevinduet, kan ikke læses op med en skærmlæser. 
 
