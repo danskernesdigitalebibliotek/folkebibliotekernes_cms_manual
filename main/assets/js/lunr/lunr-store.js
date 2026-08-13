@@ -1008,7 +1008,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Release Notes 2026.32.0",
-        "excerpt":"Releasedato: I løbet af uge 33 Redaktør: Produktionssites: 2026.32.0 Webmaster: Produktionssites: 2026.26.2, Moduletestsites: 2026.32.0 Ny udvikling Forbedret filtrering på fysiske beholdninger i avanceret søgning, CQL-søgning og paragraphs. Filtreringer på “På hylden”, “Bibliotek”, “Afdeling”, “Opstilling” og “Delopstilling” viser nu kun fysiske materialer i egen beholdning og inkluderer ikke længere overbygningsmaterialer eller...","categories": ["Release Notes"],
+        "excerpt":"Releasedato: 13-08-2026 (Bemærk ændret releasedato) Redaktør: Produktionssites: 2026.32.0 Webmaster: Produktionssites: 2026.26.2, Moduletestsites: 2026.32.0 Ny udvikling Forbedret filtrering på fysiske beholdninger i avanceret søgning, CQL-søgning og paragraphs. Filtreringer på “På hylden”, “Bibliotek”, “Afdeling”, “Opstilling” og “Delopstilling” viser nu kun fysiske materialer i egen beholdning og inkluderer ikke længere overbygningsmaterialer eller onlineudgaver....","categories": ["Release Notes"],
         "tags": [],
         "url": "/main/overblik/release-notes/release-notes-2026-32-0/",
         "teaser": null
