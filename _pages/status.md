@@ -6,6 +6,13 @@ nav: "overblik"
 ---
 <br>
 
+## 13/8 Fejl ved indlæsning af e-bøger på hjemmesiderne og GO-sites
+Der er i øjeblikket problemer med at åbne e-bøger via hjemmesiderne og GO-sites. Lydbøger virker som de skal og appsene fungerer også som vanligt.
+Vi er på sagen og melder tilbage her, når det er løst.
+
+## 13/8 Release 2026.32.0 kommer ud i dag
+Reload er kommet i land med test og er klar til at release 2026.32.0.
+
 ## 10/8 Udsættelse af release 2026.32
 Vi håbede at kunne release 2026.32 til jer i dag, men vi er desværre endnu en gang nødt til at udsætte releasen. Det skyldes at den nuværende version af Lagoon udfordrer vores backup-proces, og derfor er vi nødt til at opdaterer den først, før vi kan køre releasen.
 Vi forventer at vi kan køre releasen ud onsdag eller torsdag i denne uge. Vi vil opdatere statussitet, når vi kender den endelige releasedato
