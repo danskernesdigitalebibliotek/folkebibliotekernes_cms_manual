@@ -31,7 +31,7 @@ Vi forventer at lave arrangementsdelen færdig inden sommerferien. Vi kan ikke l
   * Mulighed for at filtrere på arrangements-status i lister
   * Implementere på div. arrangements-paragraphs
 
-* <span title="I gang">🟡</span> [CMS-1032: Arrangementsoversigt - Væk med "Vis flere"](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1032)
+* <span title="Færdig">🟢</span> [CMS-1032: Arrangementsoversigt - Væk med "Vis flere"](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1032)
 * <span title="I gang">🟡</span> [CMS-1033: Arrangementsoversigt - Adskillelse af måneder](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1033)
 * [CMS-1357: Opdeling af arrangementer og udstillinger/længerevarende forløb](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1357)
 * [CMS-1583: Større fleksibilitet i gentagelsesmønster ved arrangementer](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1583)
@@ -76,11 +76,11 @@ Vi har samlet de fire repositories til én samlet kodebase. Dette øger effektiv
 ### <span title="I gang">🟡</span> Nye apps
 Der kommer tre nye apps til bibliotekerne. Der kan være nogen elementer, som kan overlappe eller skal udvikles i CMS'et.
 
-### <span title="Ikke i gang">🔴</span> Ny platform og reader/player funktion til ebøger/lydbøger 
-Der kommer en ny platform og en ny reader/player funktion til ebøger/lydbøger. Vi er i gang med at analysere hvordan CMS'et påvirkes, og hvor stor en opgave der venter.
+### <span title="I gang">🟡</span> Ny platform og reader/player funktion til ebøger/lydbøger 
+Der kommer en ny platform og en ny reader/player funktion til ebøger/lydbøger. Vi er i gang med at analysere hvordan CMS'et påvirkes og teste den nye platform.
 
-### <span title="Ikke i gang">🔴</span> Design review
-Vi laver et større design review, der skal sikre bedre principper og guidelines. Derudover vil der kigges på at få rettet irritationspunkter i designet på hjemmesiderne.
+### <span title="I gang">🟡</span> Design review
+Vi laver et større design review, der skal sikre bedre principper og guidelines, der skal lægge sig op af de nye designprincipper fra apps. 
 
 ### <span title="Udskudt">⚫</span> FBS 2.0
 Er flyttet til næste år. Der kommer et nyt FBS 2.0. Dette påvirker mange af de udviklingsopgaver vi har. Vi er i gang med at analysere hvordan CMS'et påvirkes, og hvor stor en opgave der venter.
@@ -93,8 +93,8 @@ OBS Alle områderne er ikke nødvendigvis noget som skal laves i 2026. Vi kan ik
 ### <span title="Færdig">🟢</span> Ny forbedret Simple search
 Vi har implementeret funktionerne fra avanceret søgning ind på simple search.
 
-### <span title="I gang">🟡</span> eReolen efterslæb
-Vi skal have kigget på de mest kritiske problemer efter at eReolen blev integreret på hjemmesiderne. Vi har lavet flere forbedringer bl.a. i søgemulighederne på hjemmesiden.
+### <span title="Færdig">🟢</span> eReolen efterslæb
+Vi har kigget på de mest kritiske problemer efter at eReolen blev integreret på hjemmesiderne. Vi har lavet flere forbedringer bl.a. i søgemulighederne på hjemmesiden. Det er flere ting, som laves i fokusområdet ‘Materialernes tilgængelighed og adgang’, der også vil løfte dette.
 
 ### <span title="Ikke i gang">🔴</span> Huskeliste
 Vi samarbejder med DBC om at lave en global huskeliste, så det ikke er hver tjeneste, der har adskilte huskeliste. 
@@ -111,7 +111,7 @@ Efter vi har forbedret avanceret søgning og simple search, så skal vi have imp
 ## I samarbejde med andre
 Der sker også udvikling, der fx finansieres af andre eller hvor rettelserne skal ske i en anden tjeneste. Ingen af nedenstående er fastsat til 2026 medmindre der står andet under punktet. Dette er mest som et overblik, så bibliotekerne kan se hvad vi ellers har i gang.
 
-### <span title="Ikke i gang">🔴</span> Servicebanner
+### <span title="I gang">🟡</span> Servicebanner
 Vi er i dialog med København, der overvejer at få finansiere en ny funktion, hvor man kan tydeliggøre servicebeskeder på hjemmesiden. Der er ikke planlagt en tidsplan.
 
 ### Webmasterudvikling
