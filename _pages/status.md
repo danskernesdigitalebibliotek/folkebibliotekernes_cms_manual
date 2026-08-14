@@ -6,7 +6,7 @@ nav: "overblik"
 ---
 <br>
 
-## 13/8 Fejl ved indlæsning af e-bøger på hjemmesiderne og GO-sites
+## 13/8 LØST: Fejl ved indlæsning af e-bøger på hjemmesiderne og GO-sites
 Der er i øjeblikket problemer med at åbne e-bøger via hjemmesiderne og GO-sites. Lydbøger virker som de skal og appsene fungerer også som vanligt.
 Vi er på sagen og melder tilbage her, når det er løst.
 
