@@ -27,15 +27,15 @@ Vi forventer at lave arrangementsdelen færdig inden sommerferien. Vi kan ikke l
 * <span title="Færdig">🟢</span> [CMS-945: Søgning på arrangementer efter dato](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-945)
 * [CMS-1828: Status på arrangementer #2](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1828)
   * <span title="Færdig">🟢</span> Implementering på selve arrangements-siden
-  * Mulighed for at selv at definere egen status
-  * Mulighed for at filtrere på arrangements-status i lister
-  * Implementere på div. arrangements-paragraphs
+  * <span title="Udskudt">⚫</span> Mulighed for at selv at definere egen status
+  * <span title="Udskudt">⚫</span> Mulighed for at filtrere på arrangements-status i lister
+  * <span title="Udskudt">⚫</span> Implementere på div. arrangements-paragraphs
 
 * <span title="Færdig">🟢</span> [CMS-1032: Arrangementsoversigt - Væk med "Vis flere"](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1032)
 * <span title="I gang">🟡</span> [CMS-1033: Arrangementsoversigt - Adskillelse af måneder](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1033)
-* [CMS-1357: Opdeling af arrangementer og udstillinger/længerevarende forløb](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1357)
-* [CMS-1583: Større fleksibilitet i gentagelsesmønster ved arrangementer](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1583)
-* [CMS-1832: Flere kategorier på samme arrangement](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1832)
+* <span title="Udskudt">⚫</span> [CMS-1357: Opdeling af arrangementer og udstillinger/længerevarende forløb](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1357)
+* <span title="Udskudt">⚫</span> [CMS-1583: Større fleksibilitet i gentagelsesmønster ved arrangementer](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1583)
+* <span title="Udskudt">⚫</span> [CMS-1832: Flere kategorier på samme arrangement](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1832)
 
 ### <span title="Ikke i gang">🔴</span> Resten
 Vi skal have en plan for hvad vi skal udvikle for den sidste del af budgettet. Vi forventer at dette bliver udviklet færdigt i Q4.  
