@@ -1013,6 +1013,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-32-0/",
         "teaser": null
       },{
+        "title": "Release Notes 2026.34.0",
+        "excerpt":"Releasedato: 20-08-2026 Redaktør: Produktionssites: 2026.34.0 Webmaster: Produktionssites: 2026.32.1, Moduletestsites: 2026.34.0 Ny udvikling Adskillelse af måneder i arrangementsoversigten med en separator ved månedsskift for at forbedre overblikket. CMS-1033 Udvidelse af event-API’en så arrangementer, der strækker sig over flere dage og er startet i fortiden, kan vises i appen. Forbedring og fejlrettelser...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2026-34-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 2026.4.1",
         "excerpt":"Releasedato: 22-01-2026 Redaktør: Produktionssites: 2026.4.1 Webmaster: Produktionssites: 2026.2.4, Moduletestsites: 2026.4.1 Hotfix 2026.4.1 Blacklist ift. søgning: Vi har fikset en fejl introduceret i 2026.2.4. omkring blacklist af filialer ift. søgning, som kun påvirkede simpel søgning. Fejlen medførte, at sites uden blacklist af mindst én filial ift. søgning reelt skjulte materialer i...","categories": ["Release Notes"],
         "tags": [],

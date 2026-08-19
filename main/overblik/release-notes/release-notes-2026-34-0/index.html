@@ -15,19 +15,19 @@
 <meta charset="utf-8">
 
 
-<!-- begin _includes/seo.html --><title>Release Notes 2025.03.2 - Folkebibliotekernes CMS</title>
-<meta name="description" content="XML sitemap til søgemaskineoptimering samt fejlrettelser">
+<!-- begin _includes/seo.html --><title>Release Notes 2026.34.0 - Folkebibliotekernes CMS</title>
+<meta name="description" content="Releasedato: 20-08-2026">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Folkebibliotekernes CMS">
-<meta property="og:title" content="Release Notes 2025.03.2">
-<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-03-2/">
+<meta property="og:title" content="Release Notes 2026.34.0">
+<meta property="og:url" content="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-34-0/">
 
 
-  <meta property="og:description" content="XML sitemap til søgemaskineoptimering samt fejlrettelser">
+  <meta property="og:description" content="Releasedato: 20-08-2026">
 
 
 
@@ -44,7 +44,7 @@
 
 
 
-<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-03-2/">
+<link rel="canonical" href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-34-0/">
 
 
 
@@ -183,7 +183,7 @@
     
       
       
-        <li class="current">Release Notes 2025.03.2</li>
+        <li class="current">Release Notes 2026.34.0</li>
       
     
   </ol>
@@ -238,7 +238,7 @@
 
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2026-34-0/">Release Notes 2026.34.0</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2026-34-0/" class="active">Release Notes 2026.34.0</a></li>
               
             
               
@@ -430,7 +430,7 @@
               
             
               
-                <li><a href="/main/overblik/release-notes/release-notes-2025-03-2/" class="active">Release Notes 2025.03.2</a></li>
+                <li><a href="/main/overblik/release-notes/release-notes-2025-03-2/">Release Notes 2025.03.2</a></li>
               
             
               
@@ -570,8 +570,8 @@
 
   
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Release Notes 2025.03.2">
-    <meta itemprop="description" content="XML sitemap til søgemaskineoptimering samt fejlrettelser">
+    <meta itemprop="headline" content="Release Notes 2026.34.0">
+    <meta itemprop="description" content="Releasedato: 20-08-2026">
     <meta itemprop="datePublished" content="2026-08-19T09:21:28+00:00">
     
 
@@ -580,7 +580,7 @@
         <header>
           
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2025-03-2/" class="u-url" itemprop="url">Release Notes 2025.03.2
+            <a href="https://www.folkebibliotekernescms.dk/main/overblik/release-notes/release-notes-2026-34-0/" class="u-url" itemprop="url">Release Notes 2026.34.0
 </a>
           </h1>
           
@@ -592,27 +592,36 @@
       
       <section class="page__content e-content" itemprop="text">
         
-        <h3 id="xml-sitemap-til-søgemaskineoptimering-samt-fejlrettelser">XML sitemap til søgemaskineoptimering samt fejlrettelser</h3>
+        <p>Releasedato: 20-08-2026</p>
 
-<p>Releasedato: 16-01-2025</p>
+<p><strong>Redaktør</strong>: Produktionssites: 2026.34.0<br />
+<strong>Webmaster</strong>: Produktionssites: 2026.32.1, Moduletestsites: 2026.34.0</p>
 
-<p><strong>Redaktørbiblioteker</strong>: Produktionssites opgraderes til 2025.03.2<br />
-<strong>Webmasterbiblioteker</strong>: Produktionssites opgraderes til 2024.50.0. Modultestsites opgraderes til 2025.03.2.</p>
+<h2 id="ny-udvikling">Ny udvikling</h2>
 
-<p><strong>OBS</strong>: De indledende øvelser til integration af børnesitet er gået i gang. Hvis I opdager nye menupunkter eller valgmuligheder i backend, der hedder noget med GO! eller børnesite, så rør ikke ved dem. Det er stadig i proces.</p>
+<ul>
+  <li>
+    <p>Adskillelse af måneder i arrangementsoversigten med en separator ved månedsskift for at forbedre overblikket. <a href="https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1033">CMS-1033</a></p>
+  </li>
+  <li>
+    <p>Udvidelse af event-API’en så arrangementer, der strækker sig over flere dage og er startet i fortiden, kan vises i appen.</p>
+  </li>
+</ul>
 
-<h2 id="nye-features">Nye features</h2>
-<p>SEO – For at søgemaskiner nemmere kan indeksere indholdet af hjemmesiden, er der blevet tilføjet et xml sitemap. Det indeholder arrangementer, artikler og hjælpesider. Det holdes automatisk opdateret. Vil man se det, ligger det på adressen MITDOMÆNENAVN.dk/sitemap.xml</p>
+<h2 id="forbedring-og-fejlrettelser">Forbedring og fejlrettelser</h2>
 
-<h2 id="fejlrettelser">Fejlrettelser</h2>
-<p>Åbningstidsmodal kan nu lukkes i mobil- og tabletvisning.</p>
-
-<p>Event API –Det er nu muligt at afgrænse med parameteren <code class="language-plaintext highlighter-rouge">from_date</code>, så man kan undgå at få de afholdte arrangementer med ud, når arrangementer udtrækkes gennem OpenAPI.</p>
-
-<p>Fejlsikring af kald til Publizon-adapteren, så kald uden identifier undgås.</p>
-
-<h2 id="for-udviklere">For udviklere:</h2>
-<p>Opdaterede kodebiblioteker: vite (4.4.11), vitest (0.34.6), @tsconfig/create-react-app (2.0.1), stylelint-config-recommended-scss (13.0.0), webpack-version-file-plugin (0.5.0)</p>
+<ul>
+  <li>
+    <p>Genindførelse af sticky header-funktionalitet, der ved en fejl blev deaktiveret.
+Bemærk: Headeren glider nu op ved scroll ned og ind igen ved scroll op. Ændringen genaktiverer sticky-adfærd for alle relevante elementer på siden.</p>
+  </li>
+  <li>
+    <p>Rettelse så redaktører nu kan slette alle filtyper (f.eks. PDF’er) helt, og ikke kun billedfiler. Bemærk: En ny oprydningsmekanisme markerer nu også ældre, ubrugte filer som midlertidige, så de slettes korrekt af systemet.</p>
+  </li>
+  <li>
+    <p>Dansk formatering af datovælgeren i arrangementsoversigten, så ugen starter med mandag og ugedage er oversat.</p>
+  </li>
+</ul>
 
 
         
