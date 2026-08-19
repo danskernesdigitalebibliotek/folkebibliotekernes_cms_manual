@@ -1013,10 +1013,10 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-32-0/",
         "teaser": null
       },{
-        "title": "Release Notes 2026.34.0",
-        "excerpt":"Releasedato: 20-08-2026 Redaktør: Produktionssites: 2026.34.0 Webmaster: Produktionssites: 2026.32.1, Moduletestsites: 2026.34.0 Ny udvikling Adskillelse af måneder i arrangementsoversigten med en separator ved månedsskift for at forbedre overblikket. CMS-1033 Udvidelse af event-API’en så arrangementer, der strækker sig over flere dage og er startet i fortiden, kan vises i appen. Forbedring og fejlrettelser...","categories": ["Release Notes"],
+        "title": "Release Notes 2026.34.1",
+        "excerpt":"Releasedato: 20-08-2026 Redaktør: Produktionssites: 2026.34.1 Webmaster: Produktionssites: 2026.32.1, Moduletestsites: 2026.34.1 Ny udvikling Adskillelse af måneder i arrangementsoversigten med en separator ved månedsskift for at forbedre overblikket. CMS-1033 Udvidelse af event-API’en så arrangementer, der strækker sig over flere dage og er startet i fortiden, kan vises i appen. Forbedring og fejlrettelser...","categories": ["Release Notes"],
         "tags": [],
-        "url": "/main/overblik/release-notes/release-notes-2026-34-0/",
+        "url": "/main/overblik/release-notes/release-notes-2026-34-1/",
         "teaser": null
       },{
         "title": "Release Notes 2026.4.1",
