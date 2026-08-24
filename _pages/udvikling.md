@@ -58,7 +58,7 @@ Vi vil udvikle flere elementer, der skal præsentere bibliotekets tilbud til bor
 
 - <span title="Færdig">🟢</span> Bedre kampagner
 - <span title="I gang">🟡</span> Landingsside til serier i værkvisningen
-- <span title="Ikke i gang">🔴</span> Præsentér andre relevante materialer efter endt reservering
+- <span title="I gang">🟡</span> Præsentér andre relevante materialer efter endt reservering
 - <span title="Ikke i gang">🔴</span> Anbefalinger på dashboardet
 
 ### <span title="Ikke i gang">🔴</span> Statistik
