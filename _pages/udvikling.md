@@ -97,16 +97,16 @@ Vi har implementeret funktionerne fra avanceret søgning ind på simple search.
 Vi har kigget på de mest kritiske problemer efter at eReolen blev integreret på hjemmesiderne. Vi har lavet flere forbedringer bl.a. i søgemulighederne på hjemmesiden. Det er flere ting, som laves i fokusområdet ‘Materialernes tilgængelighed og adgang’, der også vil løfte dette.
 
 ### <span title="Udskudt">⚫</span> Huskeliste
-Vi samarbejder med DBC om at lave en global huskeliste, så det ikke er hver tjeneste, der har adskilte huskeliste. 
+Vi samarbejder med DBC om at lave en global huskeliste, så det ikke er hver tjeneste, der har adskilte huskeliste. Bliver først kigget på i 2027.
 
 ### <span title="Ikke i gang">🔴</span> Materialernes tilgængelighed og adgang
 Der er flere problem med tydeligheden af om et materiale er tilgængeligt og hvordan man får adgang til det. Det meste af dette område bliver sandsynligvis først kigget på i 2027 efter FBS 2.0 opgaverne.
 
-### <span title="Ikke i gang">🔴</span> Periodika
-Periodika på hjemmesiderne har flere uhensigtmæssigheder, som bl.a. gør det svært at finde og vælge de korrekte udgaver. Bliver sandsynligvis først kigget på i 2027 efter FBS 2.0 opgaverne.
+### <span title="Udskudt">⚫</span> Periodika
+Periodika på hjemmesiderne har flere uhensigtmæssigheder, som bl.a. gør det svært at finde og vælge de korrekte udgaver. Bliver først kigget på i 2027.
 
 ### <span title="Udskudt">⚫</span> Ny forbedret CQL søgning
-Efter vi har forbedret avanceret søgning og simple search, så skal vi have implementeret funktionerne ind i CQL søgningen også. Bliver sandsynligvis først kigget på i 2027 efter FBS 2.0 opgaverne.
+Efter vi har forbedret avanceret søgning og simple search, så skal vi have implementeret funktionerne ind i CQL søgningen også. Bliver først kigget på i 2027.
 
 ## I samarbejde med andre
 Der sker også udvikling, der fx finansieres af andre eller hvor rettelserne skal ske i en anden tjeneste. Ingen af nedenstående er fastsat til 2026 medmindre der står andet under punktet. Dette er mest som et overblik, så bibliotekerne kan se hvad vi ellers har i gang.
