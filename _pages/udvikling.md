@@ -99,7 +99,7 @@ Vi har kigget på de mest kritiske problemer efter at eReolen blev integreret p�
 ### <span title="Udskudt">⚫</span> Huskeliste
 Vi samarbejder med DBC om at lave en global huskeliste, så det ikke er hver tjeneste, der har adskilte huskeliste. Bliver først kigget på i 2027.
 
-### <span title="Ikke i gang">🔴</span> Materialernes tilgængelighed og adgang
+### <span title="I gang">🟡</span> Materialernes tilgængelighed og adgang
 Der er flere problem med tydeligheden af om et materiale er tilgængeligt og hvordan man får adgang til det. Det meste af dette område bliver sandsynligvis først kigget på i 2027 efter FBS 2.0 opgaverne.
 
 ### <span title="Udskudt">⚫</span> Periodika
