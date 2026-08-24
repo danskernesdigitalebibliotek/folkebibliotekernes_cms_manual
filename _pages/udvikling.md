@@ -96,7 +96,7 @@ Vi har implementeret funktionerne fra avanceret søgning ind på simple search.
 ### <span title="Færdig">🟢</span> eReolen efterslæb
 Vi har kigget på de mest kritiske problemer efter at eReolen blev integreret på hjemmesiderne. Vi har lavet flere forbedringer bl.a. i søgemulighederne på hjemmesiden. Det er flere ting, som laves i fokusområdet ‘Materialernes tilgængelighed og adgang’, der også vil løfte dette.
 
-### <span title="Ikke i gang">🔴</span> Huskeliste
+### <span title="Udskudt">⚫</span> Huskeliste
 Vi samarbejder med DBC om at lave en global huskeliste, så det ikke er hver tjeneste, der har adskilte huskeliste. 
 
 ### <span title="Ikke i gang">🔴</span> Materialernes tilgængelighed og adgang
@@ -105,7 +105,7 @@ Der er flere problem med tydeligheden af om et materiale er tilgængeligt og hvo
 ### <span title="Ikke i gang">🔴</span> Periodika
 Periodika på hjemmesiderne har flere uhensigtmæssigheder, som bl.a. gør det svært at finde og vælge de korrekte udgaver. Bliver sandsynligvis først kigget på i 2027 efter FBS 2.0 opgaverne.
 
-### <span title="Ikke i gang">🔴</span> Ny forbedret CQL søgning
+### <span title="Udskudt">⚫</span> Ny forbedret CQL søgning
 Efter vi har forbedret avanceret søgning og simple search, så skal vi have implementeret funktionerne ind i CQL søgningen også. Bliver sandsynligvis først kigget på i 2027 efter FBS 2.0 opgaverne.
 
 ## I samarbejde med andre
