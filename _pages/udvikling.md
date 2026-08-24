@@ -17,7 +17,7 @@ Vi går snarligt i gang med at udvikle på arrangementer, og så skal vi se hvad
 
 Læs mere om [udviklingsønskerne for 2026](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/efteraar-2025) eller [generelt om udviklingsønsker](https://www.folkebibliotekernescms.dk/main/overblik/udviklingsoensker/). 
 
-### <span title="I gang">🟡</span> Arrangementer
+### <span title="Færdig">🟢</span> Arrangementer
 Vi forventer at lave arrangementsdelen færdig inden sommerferien. Vi kan ikke lave alle ønskerne indenfor dette emneområde, så vi udvikler efter en prioritering.
 
 Ønskerne:
@@ -32,7 +32,7 @@ Vi forventer at lave arrangementsdelen færdig inden sommerferien. Vi kan ikke l
   * <span title="Udskudt">⚫</span> Implementere på div. arrangements-paragraphs
 
 * <span title="Færdig">🟢</span> [CMS-1032: Arrangementsoversigt - Væk med "Vis flere"](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1032)
-* <span title="I gang">🟡</span> [CMS-1033: Arrangementsoversigt - Adskillelse af måneder](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1033)
+* <span title="Færdig">🟢</span> [CMS-1033: Arrangementsoversigt - Adskillelse af måneder](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1033)
 * <span title="Udskudt">⚫</span> [CMS-1357: Opdeling af arrangementer og udstillinger/længerevarende forløb](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1357)
 * <span title="Udskudt">⚫</span> [CMS-1583: Større fleksibilitet i gentagelsesmønster ved arrangementer](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1583)
 * <span title="Udskudt">⚫</span> [CMS-1832: Flere kategorier på samme arrangement](https://detdigitalefolkebibliotek.atlassian.net/servicedesk/customer/portal/4/CMS-1832)
