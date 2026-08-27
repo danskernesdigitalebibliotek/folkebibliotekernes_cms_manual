@@ -4,7 +4,7 @@ category: "Release Notes"
 weight: 301
 ---  
 Releasedato: 26-08-2026
-**Redaktør**: Produktionssites: 2026.34.2  
+**Redaktør**: Produktionssites: 2026.34.2 
 **Webmaster**: Produktionssites: 2026.32.2, Moduletestsites: 2026.34.2
 
 ## Hotfix med sikkerhedsopdatering
