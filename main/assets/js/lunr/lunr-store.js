@@ -1019,6 +1019,12 @@ var store = [{
         "url": "/main/overblik/release-notes/release-notes-2026-34-1/",
         "teaser": null
       },{
+        "title": "Release Notes 2026.36.0",
+        "excerpt":"Releasedato: 03-09-2026 Redaktør: Produktionssites: 2026.36.0 Webmaster: Produktionssites: 2026.34.2, Moduletestsites: 2026.36.0 Ny udvikling Reservering af fysiske bøger på GO-web: Med bibliotekslogin kan børn nu søge efter fysiske bøger og reservere dem til afhentning på deres bibliotek på samme måde, som I kender det fra voksenhjemmesiden. Brugere med Unilogin kan ikke reservere,...","categories": ["Release Notes"],
+        "tags": [],
+        "url": "/main/overblik/release-notes/release-notes-2026-36-0/",
+        "teaser": null
+      },{
         "title": "Release Notes 2026.4.1",
         "excerpt":"Releasedato: 22-01-2026 Redaktør: Produktionssites: 2026.4.1 Webmaster: Produktionssites: 2026.2.4, Moduletestsites: 2026.4.1 Hotfix 2026.4.1 Blacklist ift. søgning: Vi har fikset en fejl introduceret i 2026.2.4. omkring blacklist af filialer ift. søgning, som kun påvirkede simpel søgning. Fejlen medførte, at sites uden blacklist af mindst én filial ift. søgning reelt skjulte materialer i...","categories": ["Release Notes"],
         "tags": [],
